@@ -3,19 +3,19 @@ from django.shortcuts import render, get_object_or_404
 from .models import Case
 from django.utils.html import format_html
 import re
+from django.db.models import Q
 
 
 
 import re
 from django.utils.html import format_html
 
-def highlight_text(text, query, context=300):
+def highlight_text(text, query, context=30):
     if not query:
         return text
 
     query = re.escape(query)  # Escape special characters in the query
     highlighted_text = []
-    last_end = 0
 
     # Regular expression to find all occurrences of the query term
     pattern = re.compile(query, flags=re.IGNORECASE)
@@ -54,31 +54,45 @@ def highlight_text(text, query, context=300):
 
 def search_view(request):
     query = request.GET.get('q', '').strip()
+    field = request.GET.get('field', '').strip()
+
     highlighted_results = []
     no_query_message = "Please enter a search term to see results."
 
     if query:
-        # Filter the cases to match the query
-        results = Case.objects.filter(
-            text_content__icontains=query
-        )  # Use icontains for case-insensitive search
+        if field == 'title':
+            results = Case.objects.filter(Q(title__icontains=query))
+        elif field == 'location':
+            results = Case.objects.filter(Q(location__icontains=query))
+        elif field == 'witnesses':
+            results = Case.objects.filter(Q(witnesses__icontains=query))
+
+        else:
+            results = Case.objects.filter(
+                text_content__icontains=query
+            )
 
         for case in results:
             # Get a larger slice of text content to ensure the term is included
-            full_text = case.text_content  # Adjust the slice size as needed
-            highlighted_preview = highlight_text(full_text, query)
+            full_text = case.text_content
+            if field == 'text_content':
+                preview = highlight_text(full_text, query)
+            else:
+                preview = ''
             highlighted_results.append({
                 'title': case.title,
                 'url': case.get_absolute_url(),
                 'location': case.location,
                 'type': case.type,
                 'witnesses': case.witnesses,
-                'content': highlighted_preview,
+                'content': preview,
             })
 
     return render(request, 'searcher/search.html', {
         'results': highlighted_results,
+        'field': field,
         'query': query,
+        'result_count': len(highlighted_results),
         'no_query_message': no_query_message if not query else ''
     })
 
