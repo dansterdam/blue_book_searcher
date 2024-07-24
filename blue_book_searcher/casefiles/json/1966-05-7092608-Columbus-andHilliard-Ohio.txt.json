@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "The report describes the sighting of an unidentified object in the sky over Columbus and Hilliard, Ohio on May 22-30, 1965.",
+    "interesting points": [
+        "The object was observed for 1-2 minutes.",
+        "The object was described as moving in a northeast direction.",
+        "The report indicates that the sighting was likely of a meteor rather than an unidentified flying object.",
+        "Weather conditions at the time of the sighting are detailed, including cloud cover, wind speed, and temperature.",
+        "The report includes an analysis by Capt. James A. Bellsmith concluding that the observation coincided with a bright meteor seen in the area."
+    ],
+    "result": "Explained (Meteor)",
+    "sighted object": "unidentified object",
+    "location": "Columbus & Hilliard, Ohio",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

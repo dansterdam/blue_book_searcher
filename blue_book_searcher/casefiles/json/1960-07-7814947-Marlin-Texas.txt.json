@@ -1,0 +1,15 @@
+{
+    "main event": "Radar detected an unidentified flying object near Marlin, Texas for 2 1/2 minutes in 1952.",
+    "interesting points": [
+        "The object was observed on radar but not visually by the observers.",
+        "The object disappeared from the radar scope after 2 1/2 minutes.",
+        "The report states the object was likely a wind-borne object and not of military interest, but there was insufficient data to make a reliable conclusion.",
+        "Subsequent checks revealed no known air traffic or balloon releases in the area at the time of the sighting.",
+        "A helicopter flight was conducted at night to search the area, but no unusual objects or crashed aircraft were found."
+    ],
+    "result": "inconclusive",
+    "sighted object": "unidentified radar target",
+    "location": "Marlin, Texas",
+    "witnesses": "radar operators",
+    "photographs": "no"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary based on the UFO report text provided:
+
+{
+    "main event": "A witness in Pittsburgh, PA observed two bright, round objects in the sky on May 2, 1966.",
+    "interesting points": [
+        "The objects were observed for 5-6 minutes, hovering and then disappearing.",
+        "The objects were seen at an elevation of 30 degrees in the eastern and western sky.",
+        "The report was submitted in accordance with Air Force Regulation 200-2.",
+        "The Air Force investigator, Major Hector Quintanilla Jr., requested the witness complete a PID form 164 for further evaluation.",
+        "The investigator concluded there was 'insufficient data for evaluation' and would re-evaluate if the completed form was returned."
+    ],
+    "result": "insufficient data for evaluation",
+    "sighted object": "two bright, round objects",
+    "location": "Pittsburgh, PA",
+    "witnesses": "1 civilian witness",
+    "photographs": "no"
+}

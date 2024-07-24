@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A civilian sighted an unidentified object that resembled a baseball bat in shape, with a glowing white nose and blue-white tail, for 3-4 seconds.",
+    "interesting points": [
+        "The object ejected 10 glowing blue-white balls on each side as it disappeared.",
+        "The object was detected on radar but did not leave a contrail.",
+        "The sighting occurred 100 miles west of Milwaukee, Wisconsin on January 25, 1968 at around 2220Z (dusk).",
+        "The weather conditions at the time included cloud cover and low visibility.",
+        "The report suggests the object may have been an experimental balloon that burst shortly after being sighted."
+    ],
+    "result": "Probable: Astro(bolide)",
+    "sighted object": "A baseball bat-shaped object with a glowing white nose and blue-white tail",
+    "location": "100 miles west of Milwaukee, Wisconsin",
+    "witnesses": "Civilian",
+    "photographs": "No"
+}

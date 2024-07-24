@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+  "main event": "An unidentified flying object was sighted in the sky over La Camp, Louisiana on April 6, 1960. The object was observed as a luminous object moving rapidly through the sky before disappearing.",
+  "interesting points": [
+    "The report includes numerous photographs documenting an apparent incident or event, with labeled 'points of impact' and distance measurements.",
+    "The photographs show evidence of an impact or landing, including broken limbs, paint samples, and tracks on the ground.",
+    "The investigation was conducted by personnel from Barksdale Air Force Base, indicating military involvement.",
+    "The report mentions that 20 photographs were taken, but only a portion of them are included in the provided text.",
+    "The report references an 'overall distance' of 120 yards, suggesting a larger area of interest or impact."
+  ],
+  "result": "unexplained",
+  "sighted object": "a luminous object moving rapidly through the sky",
+  "location": "La Camp, Louisiana",
+  "witnesses": "Mr. Cleo Joseph LaCamp",
+  "photographs": "yes, the report includes numerous photographs"
+}

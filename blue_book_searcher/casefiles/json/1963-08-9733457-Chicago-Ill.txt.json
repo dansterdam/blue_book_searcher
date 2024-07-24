@@ -1,0 +1,15 @@
+{
+    "main event": "An unidentified object was observed on radar in Chicago, Illinois on August 29, 1964.",
+    "interesting points": [
+        "The object was observed in flight to the north-northeast for 3 minutes.",
+        "The report indicates the object was evaluated as 'ECHO 5', which likely refers to a radar echo from a weather phenomenon or other non-aircraft target.",
+        "A separate handwritten note describes a sighting of a bright orange object that moved slowly and went below the horizon, but it is unclear if this is related to the radar observation.",
+        "The report does not include any photographs of the observed object.",
+        "The sighting duration was approximately 3 minutes."
+    ],
+    "result": "Evaluated as a radar echo, potentially from a weather phenomenon or other non-aircraft target.",
+    "sighted object": "Unidentified object detected on radar",
+    "location": "Chicago, Illinois",
+    "witnesses": "Radar operators",
+    "photographs": "No photographs included in the report"
+}

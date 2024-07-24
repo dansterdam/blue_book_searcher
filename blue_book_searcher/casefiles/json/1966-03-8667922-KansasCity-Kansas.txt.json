@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A UFO was sighted for about 45 minutes on March 18, 1966 in Kansas City, Kansas.",
+    "interesting points": [
+        "The object was described as a round, possibly domed object the size of a large star.",
+        "The object had a blinking light on top and emitted a 'candle being shot from it' effect.",
+        "The object hovered, then moved up and down and to the north before disappearing.",
+        "The sighting was made by three civilian witnesses, who were considered reliable but with poor interpretation.",
+        "Weather balloons and aircraft activity were investigated but could not account for the sighting."
+    ],
+    "result": "unexplained",
+    "sighted object": "a round, possibly domed object",
+    "location": "Kansas City, Kansas",
+    "witnesses": "3 civilians",
+    "photographs": "none"
+}

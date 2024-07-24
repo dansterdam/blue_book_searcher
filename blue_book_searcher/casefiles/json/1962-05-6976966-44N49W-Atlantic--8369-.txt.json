@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An unidentified aerial object was detected and tracked by radar over the Atlantic Ocean on May 5, 1962.",
+    "interesting points": [
+        "The object was detected at coordinates 44°N 49°W, approximately 215 miles east of the Atlantic coast.",
+        "The object was tracked by two separate radar stations for about 45 minutes.",
+        "The object was initially detected traveling at an estimated speed of 1,800 knots (around 2,070 mph) at an altitude of 55,000 feet.",
+        "The object then abruptly changed course, turning east and accelerating to an estimated speed of 3,200 knots (around 3,680 mph) before disappearing from radar coverage.",
+        "No known aircraft or spacecraft were operating in the area at the time of the incident, and the nature and origin of the unidentified object remain unknown."
+    ],
+    "result": "unexplained",
+    "sighted object": "unidentified aerial object",
+    "location": "Atlantic Ocean, 44°N 49°W",
+    "witnesses": "radar operators",
+    "photographs": "yes, radar photographs are attached"
+}

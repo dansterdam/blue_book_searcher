@@ -1,0 +1,70 @@
+<!-- templates/searcher/case_detail.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ case.title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #e0e0e0;
+            background-color: #2e1a47; /* Dark purple background */
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            display: flex;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #3d2a6a; /* Slightly lighter purple for content area */
+            border-radius: 10px;
+        }
+        .sidebar {
+            width: 25%;
+            padding: 20px;
+            background-color: #4a2d7f; /* Sidebar color */
+            border-radius: 10px;
+            margin-right: 20px;
+        }
+        .sidebar h2 {
+            color: #d0a1d2; /* Light purple text for sidebar */
+        }
+        .content {
+            width: 75%;
+        }
+        .content h1 {
+            color: #e0a0ff; /* Light purple text for title */
+        }
+        .content p {
+            color: #e0e0e0;
+            line-height: 1.6;
+        }
+        .content pre {
+            background-color: #4a2d7f; /* Sidebar color for preformatted text */
+            padding: 10px;
+            border-radius: 5px;
+            color: #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <h2>Case Details</h2>
+            <p><strong>Location:</strong> {{ case.location }}</p>
+            <p><strong>Type:</strong> {{ case.type }}</p>
+            <p><strong>Witnesses:</strong> {{ case.witnesses }}</p>
+        </div>
+        <!-- Main Content -->
+        <div class="content">
+            <h1>{{ case.title }} 🚨</h1>
+            <h3>Location: {{ case.location }} 📍</h3>
+            <h3>Type: {{ case.type }} 🔍</h3>
+            <h3>Witnesses: {{ case.witnesses }} 🕵️‍♂️</h3>
+            <h2>Description</h2>
+            <p>{{ case.text_content|linebreaksbr }}</p> <!-- Format text content -->
+        </div>
+    </div>
+</body>
+</html>

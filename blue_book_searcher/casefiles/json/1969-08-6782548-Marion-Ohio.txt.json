@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A civilian in Marion, Ohio reported observing an object in the sky on August 23, 1969 around 2:30 AM EDT.",
+    "interesting points": [
+        "The object was observed for about 1 minute and appeared to be a satellite moving in a southerly direction.",
+        "The object passed into the Earth's shadow at an altitude of approximately 218 miles.",
+        "The observer initially thought the object was a bright star, but upon closer observation realized it was a mobile object.",
+        "The observer noted the object moved in a straight line without any gyration.",
+        "A friend of the observer also witnessed the object."
+    ],
+    "result": "Identified as a satellite (Pageos A)",
+    "sighted object": "A bright point of light, possibly a satellite", 
+    "location": "Marion, Ohio",
+    "witnesses": "A civilian observer and their friend",
+    "photographs": "No photographs present in the report"
+}

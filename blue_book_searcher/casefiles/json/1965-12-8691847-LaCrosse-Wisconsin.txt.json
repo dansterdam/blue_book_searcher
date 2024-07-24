@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A civilian in La Crosse, Wisconsin reported seeing a single unidentified object in the sky on December 9, 1965.",
+    "interesting points": [
+        "The report states the observation was a 'ground visual' sighting, indicating the object was seen from the ground.",
+        "The report concludes there was 'insufficient data for evaluation', suggesting the details provided were not adequate for a full analysis.",
+        "The witness was asked to complete an Air Force Form 164 to provide more information about the sighting.",
+        "The report indicates the witness was located in Whitehall, Wisconsin when they observed the object.",
+        "The questionnaire asked detailed questions about the object's appearance, motion, and the weather/sky conditions at the time of the sighting."
+    ],
+    "result": "insufficient data for evaluation",
+    "sighted object": "one unidentified object",
+    "location": "La Crosse, Wisconsin",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

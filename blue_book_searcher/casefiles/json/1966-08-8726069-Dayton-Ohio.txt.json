@@ -1,0 +1,17 @@
+Based on the details provided in the UFO report text, here is the summary in the requested JSON format:
+
+{
+    "main event": "A civilian observed an unidentified object in the sky over Dayton, Ohio on August 23, 1966.",
+    "interesting points": [
+        "The object was white in color and moved erratically.",
+        "The object varied in color and moved out of sight after about 30 minutes.",
+        "The object made no noise that could be heard.",
+        "The object was not able to be identified.",
+        "Additional information was requested from the witness to complete the evaluation."
+    ],
+    "result": "unidentified",
+    "sighted object": "one white, colored object",
+    "location": "Dayton, Ohio",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

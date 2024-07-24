@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A possible sighting of a satellite or other unidentified object in the sky on June 5, 1965.",
+    "interesting points": [
+        "The object was observed traveling in a northeasterly direction at an estimated speed of 15-20 minutes per degree.",
+        "The object appeared to be brightly lit.",
+        "The object disappeared into the haze after several minutes of observation.",
+        "The observer had no explanation for what the object might have been.",
+        "The sighting was reported to the Manned Spacecraft Center's Procurement & Contracts Division."
+    ],
+    "result": "unexplained",
+    "sighted object": "a brightly lit object in the sky",
+    "location": "Sutersville, Pennsylvania",
+    "witnesses": "a civilian observer",
+    "photographs": "no photographs available"
+}

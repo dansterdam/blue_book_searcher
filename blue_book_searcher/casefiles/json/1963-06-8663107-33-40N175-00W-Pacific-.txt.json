@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A bright white object about the size of a star was sighted in the Pacific Ocean on June 15, 1963.",
+    "interesting points": [
+        "The object initially appeared 32 degrees above the horizon, heading 230 degrees.",
+        "The object traversed to 45 degrees above the horizon at 16/0933Z.",
+        "The object faded 15 degrees above the horizon at 16/0942Z.",
+        "The speed of the object was reported as 'slow'.",
+        "No elevation data was provided for the object."
+    ],
+    "result": "unknown",
+    "sighted object": "a bright white object about the size of a star",
+    "location": "Pacific Ocean, 33-40N 175-00W",
+    "witnesses": "Pacific Barrier aircraft",
+    "photographs": "none"
+}

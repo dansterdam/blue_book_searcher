@@ -1,0 +1,17 @@
+Here is the JSON summary for the given UFO report:
+
+{
+    "main event": "A bright, sparkling object traveling at a high rate of speed was sighted over Las Cruces, New Mexico.",
+    "interesting points": [
+        "The object was described as a greenish-white object emitting a spark.",
+        "The object was sighted to traverse a portion of the sky in a horizontal path.",
+        "The object was in sight for only 4 seconds.",
+        "The witness indicated that the object was a meteor-like object.",
+        "The size, appearance, and duration of the sighting led to the conclusion that the object was most likely a meteor."
+    ],
+    "result": "Probably Meteor",
+    "sighted object": "A bright, sparkling object",
+    "location": "Las Cruces, New Mexico",
+    "witnesses": "Civilian",
+    "photographs": "Yes"
+}

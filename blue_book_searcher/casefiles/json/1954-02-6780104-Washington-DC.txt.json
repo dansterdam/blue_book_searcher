@@ -1,0 +1,17 @@
+Here is the JSON summary for the UFO report text provided:
+
+{
+    "main event": "A civilian witnessed a dull white, round object traveling at about 20 mph with no exhaust, climbing higher in the sky over Washington, D.C. on February 23, 1954.",
+    "interesting points": [
+        "The object was seen moving at a constant speed and angle, making a 40 degree climb and descent.",
+        "There were no other balloons, small birds, shooting stars or other aircraft noticed in the vicinity at the time.",
+        "The sighting lasted for an unknown duration, with the object observed only once.",
+        "The Air Force concluded the object was likely a balloon based on the witness interview and available data.",
+        "No photographs were taken of the incident."
+    ],
+    "result": "Probably Balloon",
+    "sighted object": "dull white, round object",
+    "location": "Washington, D.C.",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

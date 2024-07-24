@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A triangular object, first observed trailing fog or clouds, was seen changing course against high wind near Hayward, California on September 22, 1953.",
+    "interesting points": [
+        "The object was described as a triangular shape, yellow in color, and capable of slow flight and rapid acceleration.",
+        "The object approached the city of Hayward from the direction of Oakland at a relatively slow speed, but then made a near-vertical climb and disappeared at high speed.",
+        "The sighting lasted for approximately 5-15 minutes and was observed through a low-power telescope.",
+        "The observer, located near the center of Hayward, was unable to provide a reliable estimate of the object's size.",
+        "There were no known military aircraft or other phenomena in the area that could explain the sighting."
+    ],
+    "result": "unidentified",
+    "sighted object": "triangular object",
+    "location": "Hayward, California",
+    "witnesses": "civilian observer",
+    "photographs": "no"
+}

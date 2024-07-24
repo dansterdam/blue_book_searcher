@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A bright light was observed moving across the sky. The light was described as being larger and brighter than a star and appeared to be oscillating or flickering.",
+    "interesting points": [
+        "The object was observed for approximately 10 minutes before disappearing.",
+        "The object was tracked on radar to a range of approximately 1.8 nautical miles, appearing as a well-defined, solid return at an altitude of 4,000-5,000 feet.",
+        "The object moved in a straight line, apparently under positive control, at an indicated speed of 240 knots.",
+        "The radar return could not be identified as any known meteorological or other natural phenomena.",
+        "Another sighting described an object that was in view for about 7 seconds while returning toward the south, with no visible propulsion and brightness about that of the stars."
+    ],
+    "result": "insufficient data",
+    "sighted object": "a bright light moving across the sky, and an unidentified radar return",
+    "location": "unknown",
+    "witnesses": "multiple",
+    "photographs": "yes, the report includes a radar scope photograph"
+}

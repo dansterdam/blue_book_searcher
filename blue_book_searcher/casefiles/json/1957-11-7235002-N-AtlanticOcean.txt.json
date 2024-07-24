@@ -1,0 +1,15 @@
+{
+  "main event": "A UFO sighting occurred on 6 November 1957 in the North Atlantic Ocean, involving two bright lights moving across the sky from east to west.",
+  "interesting points": [
+    "The sighting took place at 2300 EST and lasted for 3 minutes.",
+    "The source of the report was a civilian, indicating a non-military witness.",
+    "There were no photographs of the observed objects.",
+    "The conclusion suggested that the sighting was likely the Aurora borealis.",
+    "The objects were described as 'very prominent' in the sky."
+  ],
+  "result": "prosaic explanation",
+  "sighted object": "two bright lights in the sky",
+  "location": "N. Atlantic Ocean",
+  "witnesses": "civilian",
+  "photographs": "no"
+}

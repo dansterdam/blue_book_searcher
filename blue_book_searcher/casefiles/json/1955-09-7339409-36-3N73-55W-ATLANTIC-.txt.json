@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A radar sighting of five objects over the Atlantic Ocean on September 21, 1955.",
+    "interesting points": [
+        "The objects were tracked on radar at an altitude of 23 degrees, bearing 045 degrees true from the 23 GMT position at 36.5 North, 73.55 West.",
+        "The objects exhibited slow upward and circular motion.",
+        "The objects were described as a large, tall, and clearly visible light that disappeared slowly.",
+        "The sighting lasted for 10 minutes.",
+        "The report suggests the sighting was likely a Moby Dick high balloon tracked by the Eastern Sea Frontier."
+    ],
+    "result": "Likely a balloon, but not definitively explained.",
+    "sighted object": "Five radar-tracked objects",
+    "location": "Atlantic Ocean, 36.5N 73.55W",
+    "witnesses": "Military radar operators",
+    "photographs": "No photographs available"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "Several sightings of unidentified flying objects in California on July 9-10, 1955",
+    "interesting points": [
+        "One object was described as a bright light moving rapidly from east to west, disappearing after about 5 seconds.",
+        "Another object appeared to be a meteor, but traveled on a horizontal plane for 35 seconds, changing colors from white to orange to green.",
+        "Weather conditions at the time, including a temperature inversion, were considered as a possible explanation for the sightings.",
+        "Astronomers consulted offered differing opinions, with one stating the high degree of maneuvering reported precludes weather phenomena as the cause.",
+        "The sightings were evaluated as separate and distinct, with possible explanations including military aircraft, weather balloons, and optical phenomena."
+    ],
+    "result": "inconclusive",
+    "sighted object": "Bright lights, meteor-like objects",
+    "location": "Mira Loma, Riverside, Arlington, Hollywood, California",
+    "witnesses": "Civilian observers, military personnel, astronomers",
+    "photographs": "none"
+}

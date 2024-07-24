@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An observer sighted an unidentified silvery-white object slightly larger than a grapefruit at arm's length in the sky over Fort Wayne, Indiana.",
+    "interesting points": [
+        "The object was descending when first sighted, then turned due west, maintained that heading momentarily, and then altered course to the northeast, ascending in altitude and disappearing from view.",
+        "The observer was unable to estimate the altitude, speed, rate of descent, or range of the object.",
+        "The maneuver of the object was described as smooth, coordinated, and executed with exceptional speed.",
+        "The Air Force intelligence officer concluded that the observer's description of the sighting was valid, but they were unable to provide any estimates of the object's performance characteristics.",
+        "The intelligence officer suggested that the sighting could be explained by an aircraft operating under instrument flight conditions and reflecting the bright sunlight, performing a radio range problem."
+    ],
+    "result": "inconclusive",
+    "sighted object": "a silvery-white object slightly larger than a grapefruit at arm's length",
+    "location": "Fort Wayne, Indiana",
+    "witnesses": "a civilian observer",
+    "photographs": "no"
+}

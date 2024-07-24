@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A radar object was observed over Incirlik, Turkey for about 2-3 minutes on March 1, 1962.",
+    "interesting points": [
+        "The object appeared to vary in size and had unsteady blinking lights.",
+        "The object moved from a magnetic bearing of 350 degrees to 335 degrees, then made a left turn and disappeared at 23.0 degrees.",
+        "The height of the object was unknown.",
+        "The object was described as appearing to be about one-third to one-fourth the magnitude of a star.",
+        "The report concludes that the sighting was 'Unidentified' and there was no possibility to check on other information."
+    ],
+    "result": "Unidentified",
+    "sighted object": "Radar object",
+    "location": "Incirlik, Turkey",
+    "witnesses": "Ground observer",
+    "photographs": "No photographs"
+}

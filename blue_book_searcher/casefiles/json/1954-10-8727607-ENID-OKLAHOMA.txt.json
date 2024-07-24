@@ -1,0 +1,17 @@
+Here is a JSON summary of the information provided in the UFO report:
+
+{
+    "main event": "An unidentified flying object was observed by two airmen at Enid Air Force Base in Oklahoma on October 8, 1954.",
+    "interesting points": [
+        "The object was described as circular in shape, with a reddish-orange glow, and approximately the size of a basketball.",
+        "The object was observed for around 2 minutes before disappearing.",
+        "The airmen stated the object did not resemble any known aircraft and moved in a horizontal direction before abruptly changing direction and traveling vertically.",
+        "Attempts were made to track the object on radar, but no returns were obtained.",
+        "No other witnesses were located and the object was not observed by any other personnel at the base."
+    ],
+    "result": "unknown",
+    "sighted object": "circular, reddish-orange glowing object",
+    "location": "Enid Air Force Base, Oklahoma",
+    "witnesses": "two airmen",
+    "photographs": "no"
+}

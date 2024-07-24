@@ -1,0 +1,17 @@
+Here is a summary of the key information from the provided UFO report in JSON format:
+
+{
+    "main event": "A civilian observed a bright, rapidly moving and disappearing object in the sky near Baltimore, Maryland on August 5, 1965.",
+    "interesting points": [
+        "The object was observed for a brief period of about 2 minutes at an altitude of 500 feet.",
+        "The observers described the object as an unidentified light that made sudden changes in altitude.",
+        "The sighting was attributed to an illusion or unusual atmospheric conditions, rather than an unidentified flying object.",
+        "The Air Force's Project Blue Book program investigated the sighting and concluded it was likely an observation of an aircraft.",
+        "The report mentions that similar sightings have been reported in recent years, suggesting this was a common type of UFO observation."
+    ],
+    "result": "probable aircraft observation",
+    "sighted object": "unidentified light",
+    "location": "Baltimore, Maryland",
+    "witnesses": "civilian",
+    "photographs": "none"
+}

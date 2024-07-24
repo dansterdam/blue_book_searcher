@@ -1,0 +1,17 @@
+Here is the JSON summary based on the information provided in the UFO report:
+
+{
+    "main event": "The report details various UFO sightings reported in different locations around the world, including Fairborn, Ohio on September 6, 1965.",
+    "interesting points": [
+        "The Fairborn, Ohio sighting occurred on September 6, 1965 at 06/1000Z.",
+        "The sighting was reported by a civilian witness, but the number of objects observed was unspecified.",
+        "The length of the observation was described as 'Brief'.",
+        "The type of observation was listed as 'Visual (Assumed)'.",
+        "The conclusion was 'INSUFFICIENT DATA FOR EVALUATION' due to lack of additional information and an inability to contact the witness."
+    ],
+    "result": "inconclusive",
+    "sighted object": "unspecified",
+    "location": "Fairborn, Ohio",
+    "witnesses": "civilian",
+    "photographs": "none"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A dull, shiny object was observed 60 degrees above the eastern horizon in Colorado Springs, Colorado on February 28, 1953 for 1.5 hours.",
+    "interesting points": [
+        "The object was stationary at times and then drifted.",
+        "The object was reported to be about half the size of a penny.",
+        "The report was made by an unnamed civilian, and their reliability is listed as unknown.",
+        "No photographs were taken of the object.",
+        "The report concludes that the object was probably a balloon observation."
+    ],
+    "result": "probable balloon",
+    "sighted object": "dull, shiny object",
+    "location": "Colorado Springs, Colorado",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

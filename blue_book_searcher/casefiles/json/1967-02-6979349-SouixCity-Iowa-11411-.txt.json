@@ -1,0 +1,17 @@
+Here is a summary of the UFO report in JSON format:
+
+{
+    "main event": "A photograph showing a small unidentified object or craft hovering in the sky over a landscape with hills or mountains in the background.",
+    "interesting points": [
+        "The photograph appears to be from a Project Blue Book document.",
+        "The report is dated February 25, 1967 and originated in Sioux City, Iowa.",
+        "The report indicates that the image contains a photograph, but the image provided to the user does not contain a photograph.",
+        "The report is classified as being from the Foreign Technology Division, AFSC, and is marked as UNCLASSIFIED.",
+        "The report provides a brief description of the contents of the photograph, but does not provide any additional details about the sighting or the witness(es)."
+    ],
+    "result": "unexplained",
+    "sighted object": "small unidentified object or craft",
+    "location": "Sioux City, Iowa",
+    "witnesses": "unknown",
+    "photographs": "yes, the report mentions a photograph, but the provided image does not contain one"
+}

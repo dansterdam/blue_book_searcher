@@ -1,0 +1,17 @@
+Here is the JSON summary of the provided UFO report:
+
+{
+    "main event": "An unidentified bright light was observed in the sky near New Orleans, Louisiana.",
+    "interesting points": [
+        "The light was observed for 5 minutes, moving from northeast to slowly out of sight.",
+        "The light's motion included a heading change from 010 degrees magnetic to 040 degrees magnetic.",
+        "The report indicates the light was observed by a pilot of an F-102 aircraft at 16,000 feet, traveling at 480 knots.",
+        "The report suggests the light may have been at an altitude between 60,000 to 72,000 feet and traveling at an estimated speed of 300 knots.",
+        "The weather conditions at the time included clear skies with some high, thin cloud cover and 5 miles of visibility."
+    ],
+    "result": "ATTEMPT",
+    "sighted object": "A bright light",
+    "location": "Near New Orleans, Louisiana",
+    "witnesses": "A pilot of an F-102 aircraft",
+    "photographs": "No"
+}

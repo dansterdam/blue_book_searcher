@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A reverend spotted round, reddish-orange objects in the sky over Marinette, Michigan in 1956.",
+    "interesting points": [
+        "The objects were in a U-shaped formation and disappeared over the horizon.",
+        "There were several separate sightings, with up to 9 objects seen in a straight line formation.",
+        "The reverend was an amateur astronomer and did not think the objects were meteors.",
+        "The Air Force could not determine a conclusive explanation for the sightings based on the information provided.",
+        "The Air Force requested additional details about the sightings, such as the duration of each formation and any differences in their size, shape, color, or movement."
+    ],
+    "result": "unexplained",
+    "sighted object": "Round, reddish-orange objects in the sky",
+    "location": "Marinette, Michigan",
+    "witnesses": "Reverend, amateur astronomer",
+    "photographs": "none"
+}

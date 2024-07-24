@@ -1,0 +1,17 @@
+Here is the JSON summary of the given UFO report:
+
+{
+    "main event": "A round, white object the size of a quarter was observed for 3-4 minutes in West Haven, Connecticut on August 28, 1956.",
+    "interesting points": [
+        "The object was observed from the ground and was reported as a civilian sighting.",
+        "The object was slowly rising and appeared much brighter at times.",
+        "Due to the limited information provided, a request for further details was sent.",
+        "The case was initially evaluated as likely being an astronomical object, specifically the star Capella.",
+        "The report was part of the Project Blue Book program, a U.S. government effort to study unidentified flying objects."
+    ],
+    "result": "Probably Astronomical (Capella)",
+    "sighted object": "round, white object",
+    "location": "West Haven, Connecticut",
+    "witnesses": "civilian",
+    "photographs": "none"
+}

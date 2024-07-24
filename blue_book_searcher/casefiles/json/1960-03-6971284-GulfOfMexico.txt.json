@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report text:
+
+{
+    "main event": "A bright light object with a trail was sighted traveling from north to south over the Gulf of Mexico.",
+    "interesting points": [
+        "The object was sighted by the U.S. Coast Guard Cutter Gaioke.",
+        "The object was observed by three persons on the ship.",
+        "The object was traveling at an altitude of 43 degrees and an azimuth of 82 degrees true from the ship's position.",
+        "The sighting occurred at 22:34 UTC on March 9, 1960.",
+        "The report states that the sighting could have been a meteor, but it did not look like a usual meteor."
+    ],
+    "result": "unexplained",
+    "sighted object": "a bright light object with a trail",
+    "location": "Gulf of Mexico",
+    "witnesses": "U.S. Coast Guard Cutter Gaioke crew",
+    "photographs": "no, the report does not include any photographs"
+}
