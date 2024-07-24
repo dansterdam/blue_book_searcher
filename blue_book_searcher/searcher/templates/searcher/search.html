@@ -1,38 +1,31 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <title>Search</title>
-    <style>
+    <head>
+        <title>Search</title>
+        <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #2e004f;
-            /* Dark purple background */
+            background-color: #2e004f; /* Dark purple background */
             color: #fff;
             margin: 0;
             padding: 0;
             position: relative;
         }
-
         .container {
             width: 80%;
             margin: auto;
             padding: 20px;
         }
-
         .highlight {
             background-color: yellow;
             color: black;
         }
-
         .search-form {
             margin-bottom: 20px;
-            background-color: #3e007d;
-            /* Slightly lighter purple */
+            background-color: #3e007d; /* Slightly lighter purple */
             padding: 10px;
             border-radius: 5px;
         }
-
         .search-form input,
         .search-form select,
         .search-form button {
@@ -41,114 +34,84 @@
             border: none;
             border-radius: 5px;
         }
-
         .search-form input,
         .search-form select {
             width: 200px;
         }
-
         .search-form button {
-            background-color: #6a0f99;
-            /* Bright purple button */
+            background-color: #6a0f99; /* Bright purple button */
             color: #fff;
             cursor: pointer;
         }
-
         .search-form button:hover {
-            background-color: #5a0e8c;
-            /* Darker purple on hover */
+            background-color: #5a0e8c; /* Darker purple on hover */
         }
-
         .result-info {
             background-color: #3e007d;
             padding: 10px;
             border-radius: 5px;
             margin-bottom: 10px;
         }
-
         .result-info p {
             margin: 0;
         }
-
         a {
-            color: #ff78ff;
-            /* Light purple for links */
+            color: #ff78ff; /* Light purple for links */
             text-decoration: none;
         }
-
         a:hover {
             text-decoration: underline;
         }
-
         .no-results {
             color: #ccc;
         }
-
         .separator {
             margin: 20px 0;
-            color: #6a0f99;
-            /* Bright purple separator */
+            color: #6a0f99; /* Bright purple separator */
         }
-
         .scrollable-frame {
-            max-height: 200px;
-            /* Adjust the height as needed */
-            overflow-y: auto;
-            /* Add vertical scroll */
-            padding: 10px;
-            border: 1px solid #ddd;
-            /* Light border for better visibility */
-            border-radius: 5px;
-            /* Rounded corners */
-            background-color: #52079e;
-            /* Background color matching your theme */
-            position: relative;
-        }
+        max-height: 200px; /* Adjust the height as needed */
+        overflow-y: auto;  /* Add vertical scroll */
+        padding: 10px;
+        border: 1px solid #ddd; /* Light border for better visibility */
+        border-radius: 5px; /* Rounded corners */
+        background-color: #52079e; /* Background color matching your theme */
+        position: relative;
+    }
 
-        /* Webkit-based browsers (Chrome, Safari) */
-        .scrollable-frame::-webkit-scrollbar {
-            width: 8px;
-            /* Thin scrollbar */
-        }
+    /* Webkit-based browsers (Chrome, Safari) */
+    .scrollable-frame::-webkit-scrollbar {
+        width: 8px; /* Thin scrollbar */
+    }
 
-        .scrollable-frame::-webkit-scrollbar-thumb {
-            background-color: rgba(255, 255, 255, 0.7);
-            /* Semi-transparent white thumb */
-            border-radius: 10px;
-            /* Rounded scrollbar thumb */
-        }
+    .scrollable-frame::-webkit-scrollbar-thumb {
+        background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white thumb */
+        border-radius: 10px; /* Rounded scrollbar thumb */
+    }
 
-        .scrollable-frame::-webkit-scrollbar-track {
-            background-color: transparent;
-            /* Transparent track */
-        }
+    .scrollable-frame::-webkit-scrollbar-track {
+        background-color: transparent; /* Transparent track */
+    }
 
-        /* Firefox */
-        .scrollable-frame {
-            scrollbar-width: thin;
-            /* Thin scrollbar */
-            scrollbar-color: rgba(255, 255, 255, 0.7) transparent;
-            /* Semi-transparent thumb, transparent track */
-        }
+    /* Firefox */
+    .scrollable-frame {
+        scrollbar-width: thin; /* Thin scrollbar */
+        scrollbar-color: rgba(255, 255, 255, 0.7) transparent; /* Semi-transparent thumb, transparent track */
+    }
 
-        /* Internet Explorer / Edge */
-        .scrollable-frame {
-            -ms-overflow-style: -ms-autohiding-scrollbar;
-            /* Thin scrollbar with auto-hide */
-        }
+    /* Internet Explorer / Edge */
+    .scrollable-frame {
+        -ms-overflow-style: -ms-autohiding-scrollbar; /* Thin scrollbar with auto-hide */
+    }
 
-        .scrollable-frame p {
-            margin: 0;
-            padding: 5px 0;
-            color: #ffffff;
-            /* White text color for better contrast */
-        }
-
+    .scrollable-frame p {
+        margin: 0;
+        padding: 5px 0;
+        color: #ffffff; /* White text color for better contrast */
+    }
         .highlighted-content {
-            white-space: pre-wrap;
-            /* Preserve whitespace and line breaks */
+            white-space: pre-wrap; /* Preserve whitespace and line breaks */
         }
-
         .loading-indicator {
             position: fixed;
             top: 50%;
@@ -161,80 +124,80 @@
             width: 100px;
             height: 100px;
         }
-
         .saucer {
             display: inline-block;
             font-size: 2rem;
             animation: rotate 2s linear infinite;
         }
-
         @keyframes rotate {
             0% {
                 transform: rotate(0deg) translateX(30px) rotate(0deg);
             }
-
             100% {
                 transform: rotate(360deg) translateX(30px) rotate(-360deg);
             }
         }
-
         .hidden {
             display: none;
         }
-    </style>
-</head>
-
-<body>
-    <div id="loading-indicator" class="loading-indicator hidden">
-        <div class="saucer">🛸</div>
-    </div>
-
-    <div class="container">
-        <form method="GET" action="" class="search-form" onsubmit="showLoadingIndicator()">
-            <input type="text" name="q" value="{{ query }}" placeholder="Search...">
-            <select name="field">
-                <option value="text_content" {% if field=='text_content' %}selected{% endif %}>Text Content</option>
-                <option value="title" {% if field=='title' %}selected{% endif %}>Title</option>
-                <option value="location" {% if field=='location' %}selected{% endif %}>Location</option>
-                <option value="witnesses" {% if field=='witnesses' %}selected{% endif %}>Witnesses</option>
-            </select>
-            <button type="submit">Search</button>
-        </form>
-
-        {% if results %}
-        <h2>{{ result_count }} search results for "{{ query }}"</h2>
-
-        <ol>
-            {% for result in results %}
-            <li>
-                <h3><a href="{{ result.get_absolute_url }}">{{ result.title }}</a></h3>
-                <div class="result-info">
-                    <p><strong>Location:</strong> {{ result.location }} 📍</p>
-                    <p><strong>Type:</strong> {{ result.type }} 🔍</p>
-                    <p><strong>Witnesses:</strong> {{ result.witnesses }} 🕵️‍♂️</p>
-                </div>
-                <div class="scrollable-frame">
-                    {% if result.content %}
-                    <p class="highlighted-content">{{ result.content|safe }}</p>
-                    {% endif %}
-                </div>
-            </li>
-            {% endfor %}
-        </ol>
-        {% else %}
-        <p class="no-results">No results found.</p>
-        {% endif %}
-    </div>
-
-    <script>
+        </style>
+    </head>
+    <body>
+        <div id="loading-indicator" class="loading-indicator hidden">
+            <div class="saucer">🛸</div>
+        </div>
+        <div class="container">
+            <form method="GET"
+                  action=""
+                  class="search-form"
+                  onsubmit="showLoadingIndicator()">
+                <input type="text" name="q" value="{{ query }}" placeholder="Search...">
+                <select name="field">
+                    <option value="text_content"
+                            {% if field == 'text_content' %}selected{% endif %}>Text Content</option>
+                    <option value="title" {% if field == 'title' %}selected{% endif %}>Title</option>
+                    <option value="location" {% if field == 'location' %}selected{% endif %}>Location</option>
+                    <option value="witnesses" {% if field == 'witnesses' %}selected{% endif %}>Witnesses</option>
+                </select>
+                <button type="submit">Search</button>
+            </form>
+            {% if results %}
+                <h2>{{ result_count }} search results for "{{ query }}"</h2>
+                <ol>
+                    {% for result in results %}
+                        <li>
+                            <h3>
+                                <a href="{{ result.get_absolute_url }}">{{ result.title }}</a>
+                            </h3>
+                            <div class="result-info">
+                                <p>
+                                    <strong>Location:</strong> {{ result.location }} 📍
+                                </p>
+                                <p>
+                                    <strong>Type:</strong> {{ result.type }} 🔍
+                                </p>
+                                <p>
+                                    <strong>Witnesses:</strong> {{ result.witnesses }} 🕵️‍♂️
+                                </p>
+                            </div>
+                            <div class="scrollable-frame">
+                                {% if result.content %}<p class="highlighted-content">{{ result.content|safe }}</p>{% endif %}
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ol>
+            {% else %}
+                <p class="no-results">No results found.</p>
+            {% endif %}
+        </div>
+        <script>
         function showLoadingIndicator() {
             document.getElementById('loading-indicator').classList.remove('hidden');
         }
         // Hide loading indicator when page is fully loaded
-        window.addEventListener('load', function () {
+        window.addEventListener('load', function() {
             document.getElementById('loading-indicator').classList.add('hidden');
         });
-    </script>
-</body>
-
+        </script>
+    </body>
 </html>
