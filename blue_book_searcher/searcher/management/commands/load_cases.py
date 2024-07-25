@@ -39,16 +39,17 @@ class Command(BaseCommand):
                         except:
                             print(json_filename)
                     # Uncomment the following lines if you have PDF files associated
-                    # pdf_filename = filename.replace('.txt', '.pdf')
-                    # pdf_path = os.path.join(pdf_dir, pdf_filename)
+                    pdf_filename = filename.replace('.txt', '.pdf')
+                    pdf_path = os.path.join(pdf_dir, pdf_filename)
                     try:
                         Case.objects.create(
-                            title=metadata['main event'],
+                            title = json_filename,
+                            summary=metadata['main event'],
                             location=metadata['location'],
                             type=metadata['result'],
                             witnesses=metadata['witnesses'],
                             text_content=text_content,
-                            # pdf=pdf_path
+                            pdf=pdf_path
                         )
                     except:
                         print(json_filename)

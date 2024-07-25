@@ -2,6 +2,7 @@
 from django.shortcuts import render, get_object_or_404
 from .models import Case
 from django.utils.html import format_html
+from django.http import FileResponse
 import re
 from django.db.models import Q
 
@@ -10,7 +11,7 @@ from django.db.models import Q
 import re
 from django.utils.html import format_html
 
-def highlight_text(text, query, context=30):
+def highlight_text(text, query, context=30, snippet_count=2):
     if not query:
         return text
 
@@ -44,7 +45,7 @@ def highlight_text(text, query, context=30):
         highlighted_text.append(snippet)
 
     # Join all snippets with newlines
-    highlighted_text = '<br>&hellip;<br>'.join(highlighted_text)
+    highlighted_text = '<br>&hellip;<br>'.join(highlighted_text[:snippet_count])
     
     # Ensure that the highlighted_text does not become excessively long
     if len(highlighted_text) > len(text):
@@ -81,11 +82,13 @@ def search_view(request):
                 preview = ''
             highlighted_results.append({
                 'title': case.title,
+                'summary': case.summary,
                 'url': case.get_absolute_url(),
                 'location': case.location,
                 'type': case.type,
                 'witnesses': case.witnesses,
                 'content': preview,
+                'pdf': case.pdf
             })
 
     return render(request, 'searcher/search.html', {
@@ -99,6 +102,12 @@ def search_view(request):
 def case_detail(request, id):
     case = get_object_or_404(Case, id=id)
     return render(request, 'searcher/case_detail.html', {'case': case})
+
+def serve_pdf(request, pk):
+    case = get_object_or_404(Case, pk=pk)
+    response = FileResponse(case.pdf.open(), content_type='application/pdf')
+    response['Content-Disposition'] = f'inline; filename="{case.pdf.name}"'
+    return response
 
 def download_all_files(request):
     pass
