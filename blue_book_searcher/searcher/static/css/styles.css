@@ -1,65 +1,248 @@
-/* Reset some default styles */
-body, h1, ul, li, form {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/* General body styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #2C1A4B;
+    /* Muted dark purple background */
+    color: #E1E1E1;
+    /* Very light gray text for readability */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
     padding: 20px;
+    background-color: #3F1D6A;
+    /* Muted dark purple background */
+    border-radius: 10px;
 }
 
-/* Style for the main heading */
-h1 {
-    color: #333;
+table {
+    width: 80%;
+    border-collapse: collapse;
+    /* Ensures borders are combined into a single border */
+    background-color: #3F1D6A;
+    /* Muted dark purple background for table */
+    table-layout: fixed;
+    /* Fixes column widths */
+
+}
+
+th,
+td {
+    border: 2px solid #4a3d6a;
+    /* Light gray border to contrast with background */
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4a3d6a;
+    /* Light gray for header background */
+    color: #f2f2f2;
+    /* Muted dark purple text for headers */
+}
+
+td {
+    background-color: #2C1A4B;
+    /* Match table cells to body background */
+}
+
+/* Apply width to the Title column */
+th:nth-child(1),
+td:nth-child(1) {
+    width: 5px;
+    /* Adjust width as needed */
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+    width: 175px;
+    /* Adjust width as needed */
+}
+
+th:nth-child(3),
+td:nth-child(3) {
+    width: 200px;
+    /* Adjust width as needed */
+}
+
+
+tr:nth-child(even) {
+    background-color: #4a3d6a;
+    /* Slightly lighter dark purple for even rows */
+}
+
+tr:hover {
+    background-color: #5a4d8a;
+    /* Lighter dark purple on hover */
+}
+
+a {
+    color: #A89CC7;
+    /* Soft lavender for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.search-form {
     margin-bottom: 20px;
-}
-
-/* Style for the search form */
-form {
-    margin-bottom: 20px;
-}
-
-input[type="text"] {
+    background-color: #3F1D6A;
+    /* Muted dark purple background */
     padding: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    width: 300px;
+    border-radius: 5px;
 }
 
-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    color: #fff;
-    background-color: #007bff;
+.search-form input,
+.search-form select,
+.search-form button {
+    padding: 10px;
+    margin-right: 10px;
     border: none;
-    border-radius: 4px;
+    border-radius: 5px;
+}
+
+.search-form input,
+.search-form select {
+    width: 200px;
+}
+
+.search-form button {
+    background-color: #B9A6D1;
+    /* Gentle purple button */
+    color: #fff;
     cursor: pointer;
 }
 
-button:hover {
-    background-color: #0056b3;
+.search-form button:hover {
+    background-color: #A89CC7;
+    /* Slightly darker gentle purple on hover */
 }
 
-/* Style for the search results list */
-ul {
-    list-style-type: none;
-}
-
-li {
+.result-info {
+    /* Muted dark purple background */
     padding: 10px;
-    border-bottom: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }
 
-li:nth-child(even) {
-    background-color: #f9f9f9;
+.result-info p {
+    margin: 0;
+    color: #E1E1E1;
+    /* Light text for readability */
 }
 
-li:hover {
-    background-color: #f1f1f1;
+a {
+    color: #A89CC7;
+    /* Soft lavender for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.no-results {
+    color: #B0A6A6;
+    /* Softer gray for no results */
+}
+
+.separator {
+    margin: 20px 0;
+    color: #D1B4E9;
+    /* Soft lavender separator */
+}
+
+.scrollable-frame {
+    max-height: 200px;
+    /* Adjust the height as needed */
+    overflow-y: auto;
+    /* Add vertical scroll */
+    padding: 10px;
+    border: 1px solid #3F1D6A;
+    /* Muted dark purple border */
+    border-radius: 5px;
+    /* Rounded corners */
+    /* Darker but softened background to match theme */
+    position: relative;
+}
+
+.scrollable-frame::-webkit-scrollbar {
+    width: 8px;
+    /* Thin scrollbar */
+}
+
+.scrollable-frame::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.6);
+    /* Semi-transparent white thumb */
+    border-radius: 10px;
+    /* Rounded scrollbar thumb */
+}
+
+.scrollable-frame::-webkit-scrollbar-track {
+    background-color: transparent;
+    /* Transparent track */
+}
+
+/* Firefox */
+.scrollable-frame {
+    scrollbar-width: thin;
+    /* Thin scrollbar */
+    scrollbar-color: rgba(255, 255, 255, 0.6) transparent;
+    /* Semi-transparent thumb, transparent track */
+}
+
+/* Internet Explorer / Edge */
+.scrollable-frame {
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    /* Thin scrollbar with auto-hide */
+}
+
+.scrollable-frame p {
+    margin: 0;
+    padding: 5px 0;
+    color: #E1E1E1;
+    /* Light text color for better contrast */
+}
+
+.highlighted-content {
+    white-space: pre-wrap;
+    /* Preserve whitespace and line breaks */
+}
+
+.loading-indicator {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+}
+
+.saucer {
+    display: inline-block;
+    font-size: 2rem;
+    animation: rotate 2s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg) translateX(30px) rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg) translateX(30px) rotate(-360deg);
+    }
+}
+
+.hidden {
+    display: none;
 }
