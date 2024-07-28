@@ -9,6 +9,8 @@ gunicorn = "*"
 dj-database-url = "*"
 whitenoise = "*"
 django-haystack = "*"
+elasticsearch = "==7.17.0"
+django-storages = "*"
 [dev-packages]
 
 [requires]
