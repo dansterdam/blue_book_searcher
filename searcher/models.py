@@ -4,11 +4,11 @@ from django.urls import reverse
 from django.conf import settings
 
 class Case(models.Model):
-    title = models.CharField(max_length=255)
+    title = models.TextField(default='')
     summary = models.TextField(default='')
-    location = models.CharField(max_length=255)
+    location = models.TextField(default='')
     type = models.TextField(default='')
-    witnesses = models.CharField(max_length=255)
+    witnesses = models.TextField(default='')
     text_content = models.TextField()
     pdf = models.FileField(upload_to='casefiles/pdf/',default='')
 
