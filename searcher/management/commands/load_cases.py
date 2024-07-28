@@ -67,6 +67,6 @@ class Command(BaseCommand):
             Case.objects.bulk_create(cases_to_create)
             self.stdout.write(self.style.SUCCESS(f'Successfully loaded {len(cases_to_create)} cases'))
         except (IntegrityError, DatabaseError) as db_error:
-            self.stdout.write(self.style.ERROR(f"Database error: {str(db_error)}"))
+            self.stdout.write(self.style.ERROR(f"Database error: {str(db_error)} in {json_filename}"))
         except Exception as e:
             self.stdout.write(self.style.ERROR(f"An unexpected error occurred: {str(e)}"))
