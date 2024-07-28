@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Flying Saucer Files</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <div id="loading-indicator" class="loading-indicator hidden">
+        <div class="saucer">🛸</div>
+    </div>
+    <div class="container">
+        <form method="GET" action="" class="search-form" onsubmit="showLoadingIndicator()">
+            <input type="text" name="q" value="{{ query }}" placeholder="Search...">
+            <select name="field">
+                <option value="text_content" {% if field == 'text_content' %}selected{% endif %}>Text Content</option>
+                <option value="title" {% if field == 'title' %}selected{% endif %}>Title</option>
+                <option value="location" {% if field == 'location' %}selected{% endif %}>Location</option>
+                <option value="witnesses" {% if field == 'witnesses' %}selected{% endif %}>Witnesses</option>
+            </select>
+            <button type="submit">Search</button>
+        </form>
+        {% if results %}
+            <h2>{{ result_count }} search results for "{{ query }}"</h2>
+            <div class="card-container">
+                {% for result in results %}
+                    <div class="card">
+                        <div class="card-header">
+                            <h3><a href="{{ result.url }}">{{ result.title }}</a></h3>
+                        </div>
+                        <div class="card-body">
+                            <p><strong>Summary:</strong> {{ result.summary }}</p>
+                            <p><strong>Location:</strong> {{ result.location }} 📍</p>
+                            <p><strong>Type:</strong> {{ result.type }} 🔍</p>
+                            <p><strong>Witnesses:</strong> {{ result.witnesses }} 🕵️‍♂️</p>
+                            <p class="highlighted-content">
+                                {% if result.content %}
+                                    {{ result.content|safe }}
+                                {% else %}
+                                    No content available.
+                                {% endif %}
+                            </p>
+                        </div>
+                        <div class="card-footer">
+                            <a href="{{ result.pdf }}">View PDF</a> 📄
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <p class="no-results">No results found.</p>
+        {% endif %}
+    </div>
+    <script>
+        function showLoadingIndicator() {
+            document.getElementById('loading-indicator').classList.remove('hidden');
+        }
+        // Hide loading indicator when page is fully loaded
+        window.addEventListener('load', function() {
+            document.getElementById('loading-indicator').classList.add('hidden');
+        });
+    </script>
+</body>
+</html>

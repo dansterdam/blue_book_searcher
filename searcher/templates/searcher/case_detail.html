@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ case.title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #e0e0e0;
+            background-color: #2e1a47; /* Dark purple background */
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            display: flex;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #3d2a6a; /* Slightly lighter purple for content area */
+            border-radius: 10px;
+        }
+        .sidebar {
+            width: 25%;
+            padding: 20px;
+            background-color: #4a2d7f; /* Sidebar color */
+            border-radius: 10px;
+            margin-right: 20px;
+        }
+        .sidebar h2 {
+            color: #d0a1d2; /* Light purple text for sidebar */
+        }
+        .content {
+            margin-left:15%;
+            width: 85%;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .content h1 {
+            color: #e0a0ff; /* Light purple text for title */
+        }
+        .content p {
+            color: #e0e0e0;
+            line-height: 1.6;
+        }
+        .extended-content {
+            margin-left: 3%;
+            width: 97%;
+            display: flex;
+            flex-direction: column;
+        } 
+        .sidebar {
+            width: 15%;
+            padding: 20px;
+            background-color: #4a2d7f; /* Sidebar color */
+            border-radius: 10px;
+            position: fixed;
+            top: 20px;
+            left: 10px; /* Hide initially */
+            height: calc(100% - 40px); /* Adjust height to account for padding */
+            overflow-y: auto; /* Allow scrolling within the sidebar */
+            transition: left 0.3s ease; /* Smooth transition */
+            z-index: 1000;
+        }
+        .sidebar h2 {
+            color: #d0a1d2; /* Light purple text for sidebar */
+        }
+        .sidebar .view-toggle {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .sidebar .view-toggle button {
+            background-color: #8a2be2; /* Bright purple */
+            color: #fff;
+            border: 2px solid #d0a1d2;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 18px;
+            width: auto;
+            margin-bottom: 10px;
+            box-shadow: 0 0 10px #d0a1d2;
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        }
+        .sidebar .view-toggle button:hover {
+            background-color: #d0a1d2; /* Lighter purple */
+            box-shadow: 0 0 20px #fff;
+        }
+        .hidden-sidebar {
+            width: 3%;
+            padding: 0;
+            margin-right: 0;
+            margin-left: 20px;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: rgba(208, 161, 210, 0.7); /* Light purple text color with 70% opacity */
+            text-align: center;
+        }
+        .pdf-viewer {
+            width: 100%;
+            height: 600px;
+            border: none;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+        .pdf-fallback {
+            background-color: #4a2d7f;
+            color: #e0e0e0;
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .text-content {
+            background-color: #4a2d7f; /* Sidebar color for preformatted text */
+            padding: 10px;
+            border-radius: 5px;
+            color: #e0e0e0;
+            margin-top: 20px;
+            max-width: 100%;
+            overflow-wrap: break-word; /* Handles long words */
+        }
+        .text-content pre {
+            white-space: pre-wrap; /* Wraps long lines */
+            word-wrap: break-word; /* Breaks long words */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar {% if not show_sidebar %}hidden-sidebar{% endif %}" id="sidebar">
+            {% if show_sidebar %}
+            <h2>Case Details</h2>
+            <p><strong>Location:</strong> {{ case.location }}</p>
+            <p><strong>Type:</strong> {{ case.type }}</p>
+            <p><strong>Witnesses:</strong> {{ case.witnesses }}</p>
+            <div class="view-toggle">
+                {% if view_type == 'pdf' %}
+                    <button onclick="window.location.href='?view=txt'">👽 View AI Parsed Text</button>
+                {% elif view_type == 'txt' %}
+                    <button onclick="window.location.href='?view=pdf'">🛸 View PDF</button>
+                {% endif %}
+            </div>
+            {% else %}
+            <h4>show sidebar</h4>
+            {% endif %}
+        </div>
+        <!-- Main Content -->
+        <div class="content {% if not show_sidebar %}extended-content{% endif %}">
+            <h1>{{ case.title }} </h1>
+            {% if view_type == 'pdf' %}
+                <!-- PDF Viewer -->
+                <object class="pdf-viewer" data="{{ case.pdf.url }}" type="application/pdf">
+                    <div class="pdf-fallback">No online PDF viewer installed. <a href="{{ case.pdf.url }}">Click here to download the PDF</a>.</div>
+                </object>
+            {% elif view_type == 'txt' %}
+                <!-- Text Content -->
+                <h5><i>⚠️Beware: ai parsed text contains mistakes⚠️</i></h5>
+                <div class="text-content">
+                    <pre>{{ case.text_content }}</pre>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+<script>
+    function toggleSidebar() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const showSidebar = urlParams.get('sidebar') === 'true';
+        urlParams.set('sidebar', showSidebar ? 'false' : 'true');
+        window.location.search = urlParams.toString();
+    }
+
+    function toggleView() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const viewType = urlParams.get('view') === 'pdf' ? 'txt' : 'pdf';
+        urlParams.set('view', viewType);
+        window.location.search = urlParams.toString();
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (!urlParams.has('sidebar')) {
+            urlParams.set('sidebar', 'true'); // Set default value
+            window.location.search = urlParams.toString();
+        }
+        
+        document.getElementById('sidebar').addEventListener('click', function(event) {
+            if (event.target.tagName.toLowerCase() !== 'button') {
+                toggleSidebar();
+            }
+        });
+    });
+</script>
+</html>
