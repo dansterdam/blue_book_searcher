@@ -8,7 +8,7 @@ django = "*"
 gunicorn = "*"
 dj-database-url = "*"
 whitenoise = "*"
-
+django-haystack = "*"
 [dev-packages]
 
 [requires]
