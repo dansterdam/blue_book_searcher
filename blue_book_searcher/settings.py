@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 
 from pathlib import Path
 import os 
+import dj_database_url
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -20,14 +22,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-*yuqu2s*mec_7m+vkwv-@^1a20xbg-9z#50-x3&yb+6m1(4f7c"
+SECRET_KEY = os.environ.get('SECRET_KEY', "django-insecure-*yuqu2s*mec_7m+vkwv-@^1a20xbg-9z#50-x3&yb+6m1(4f7c")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get('DEBUG', 'True') == 'True'
 
-ALLOWED_HOSTS = []
-
-X_FRAME_OPTIONS = "SAMEORIGIN"
+ALLOWED_HOSTS = ['your-app-name.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
 	"searcher",
-	"haystack"
+	"haystack",
+    'whitenoise.runserver_nostatic',  # Whitenoise for serving static files
 ]
 
 HAYSTACK_CONNECTIONS = {
@@ -52,6 +53,7 @@ HAYSTACK_CONNECTIONS = {
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    'whitenoise.middleware.WhiteNoiseMiddleware',  # Whitenoise middleware
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -79,6 +81,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = "blue_book_searcher.wsgi.application"
+
 # settings.py
 
 # Directory where static files are collected (for production use)
@@ -89,6 +92,10 @@ STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 
 # URL for serving static files
 STATIC_URL = '/static/'
+
+# Enable gzip compression for static files
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
@@ -96,12 +103,8 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
-    }
+    "default": dj_database_url.config(default=os.environ.get('DATABASE_URL'))
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
