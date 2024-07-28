@@ -1,3 +1,4 @@
+{% load custom_filters %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,6 +18,15 @@
             padding: 20px;
             background-color: #3d2a6a; /* Slightly lighter purple for content area */
             border-radius: 10px;
+        }
+        .page-link {
+            color: #ff69b4; /* Light pink color */
+            text-decoration: none; /* Remove underline */
+        }
+
+        .page-link:hover {
+            color: #ff1493; /* Darker pink on hover */
+            text-decoration: underline; /* Add underline on hover */
         }
         .sidebar {
             width: 25%;
@@ -159,7 +169,7 @@
                 <!-- Text Content -->
                 <h5><i>⚠️Beware: ai parsed text contains mistakes⚠️</i></h5>
                 <div class="text-content">
-                    <pre>{{ case.text_content }}</pre>
+                    <pre>{{ case.text_content|linebreaksbr|page_links:case.id|safe }}</pre>
                 </div>
             {% endif %}
         </div>
@@ -180,11 +190,22 @@
         window.location.search = urlParams.toString();
     }
 
+    function showPage(page) {
+        const pdfViewer = document.querySelector('.pdf-viewer');
+        const pdfUrl = pdfViewer.getAttribute('data').split('#')[0];
+        pdfViewer.setAttribute('data', `${pdfUrl}#page=${page}`);
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
         const urlParams = new URLSearchParams(window.location.search);
         if (!urlParams.has('sidebar')) {
             urlParams.set('sidebar', 'true'); // Set default value
             window.location.search = urlParams.toString();
+        }
+
+        const page = urlParams.get('page');
+        if (page) {
+            showPage(page);
         }
         
         document.getElementById('sidebar').addEventListener('click', function(event) {
