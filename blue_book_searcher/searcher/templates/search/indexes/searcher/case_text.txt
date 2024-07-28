@@ -1,6 +1,0 @@
-{# templates/search/indexes/cases/case_text.txt #}
-{{ object.text_content }}
-{{ object.title }}
-{{ object.location }}
-{{ object.type }}
-{{ object.witnesses }}
