@@ -1,0 +1,17 @@
+Here is the JSON summary based on the UFO report:
+
+{
+    "main event": "Ground radar at Dayton, Ohio tracked an object on May 23, 1957 at 1900 EST. The object flew east at 10-30 knots and at 3000 feet.",
+    "interesting points": [
+        "The object was tracked by a ground-radar station at Dayton, Ohio.",
+        "The object flew eastward at a speed of 10-30 knots and at an altitude of 3000 feet.",
+        "The sighting lasted for 15 minutes.",
+        "The object was determined to be possibly an aircraft.",
+        "No other details about the appearance or behavior of the object are provided in the report."
+    ],
+    "result": "possibly an aircraft",
+    "sighted object": "unidentified object tracked on radar",
+    "location": "Dayton, Ohio",
+    "witnesses": "ground-radar station",
+    "photographs": "no"
+}

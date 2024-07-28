@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A civilian reported sighting a starlike object that seemed to whirl over Centerville, Ohio on February 17, 1966.",
+    "interesting points": [
+        "The object was observed in the east at approximately 75 degrees azimuth and 10 degrees elevation, while Venus was at 120 degrees azimuth and 20 degrees elevation, suggesting the object was about 45 degrees off from Venus.",
+        "The object appeared to be larger than a star and the witness's dog barked at it.",
+        "The object was observed for 22 minutes and appeared to stand still at times.",
+        "The witness could not estimate the speed of the object but described it as very slow.",
+        "The witness estimated the object was a couple miles away."
+    ],
+    "result": "ASTRO (VENUS)",
+    "sighted object": "starlike object that seemed to whirl",
+    "location": "Centerville, Ohio",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

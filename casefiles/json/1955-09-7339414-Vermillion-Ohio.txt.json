@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A round, transparent object was observed stationary in the sky over Vermillion, Ohio for 20 minutes on September 22, 1955 at dusk.",
+    "interesting points": [
+        "The object was the size of a basketball and had no sound.",
+        "The object was observed at an altitude of 5,000 to 8,000 feet.",
+        "There were five witnesses to the sighting, including Mrs. [redacted].",
+        "The sighting occurred in clear conditions with good visibility.",
+        "The report concludes the object was likely a balloon."
+    ],
+    "result": "likely a balloon",
+    "sighted object": "round, transparent object",
+    "location": "Vermillion, Ohio",
+    "witnesses": "five, including Mrs. [redacted]",
+    "photographs": "no"
+}

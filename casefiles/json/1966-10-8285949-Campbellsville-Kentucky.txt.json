@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A civilian observed a slow-moving object in the sky over Campbellsville, Kentucky on October 15, 1966.",
+    "interesting points": [
+        "The object was observed for approximately 10-15 minutes as it traveled northward across the sky.",
+        "The object was described as being the size of a car and emitting various shades of orange and yellow light.",
+        "The object appeared to hover stationary at times before continuing its northward journey.",
+        "The witness discussed the sighting with their family, but they did not believe the account.",
+        "The Air Force concluded the object was likely a satellite (Echo II)."
+    ],
+    "result": "Satellite (Echo II)",
+    "sighted object": "A slow-moving, car-sized object emitting orange and yellow lights",
+    "location": "Campbellsville, Kentucky",
+    "witnesses": "Civilian",
+    "photographs": "No"
+}

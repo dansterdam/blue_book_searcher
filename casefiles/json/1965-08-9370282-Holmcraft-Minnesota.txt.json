@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A bright star-like object was sighted over Holmcraft, Minnesota on August 23, 1965.",
+    "interesting points": [
+        "The object was described as brighter than a star and changed color.",
+        "The object moved northward and disappeared over the horizon.",
+        "The sighting lasted approximately 5 minutes.",
+        "The observers were unable to determine the elevation or azimuth of the object.",
+        "The report concludes the object was likely the satellite ECHO II, or some other satellite or aircraft."
+    ],
+    "result": "inconclusive",
+    "sighted object": "a bright star-like object",
+    "location": "Holmcraft, Minnesota",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

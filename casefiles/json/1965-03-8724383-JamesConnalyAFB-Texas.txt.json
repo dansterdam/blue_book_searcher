@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "Two unidentified flying objects were observed at James Connally AFB in Texas on March 5, 1965.",
+    "interesting points": [
+        "The objects were observed for only 3 seconds, making it difficult to gather more details.",
+        "The objects were reported to be returning south to north and then passed behind a tree, making them no longer visible.",
+        "The report states that more details are required for a satisfactory explanation.",
+        "A separate observation on March 8, 1965 describes a brilliant, pulsating white light that moved in an erratic manner and performed sharp turns and abrupt changes in speed.",
+        "The March 8 light was observed for approximately 5 minutes at an altitude of 10,000 feet, but no sound was associated with the object."
+    ],
+    "result": "insufficient data to explain",
+    "sighted object": "two unidentified flying objects",
+    "location": "James Connally AFB, Texas",
+    "witnesses": "military personnel",
+    "photographs": "no"
+}

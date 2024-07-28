@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A mysterious cigar-shaped object with a white light and a red flashing light was sighted in Palmyra, Pennsylvania on August 25, 1952.",
+    "interesting points": [
+        "The object was observed for approximately 15 minutes at an estimated altitude of 1,500 feet.",
+        "Three other witnesses also reported seeing the object.",
+        "The investigator concluded that the object was most likely a weather balloon, but could not definitively identify it.",
+        "The weather at the time was clear with 15 mile visibility.",
+        "The report states that the office could not offer a definite explanation for the identity of the object."
+    ],
+    "result": "unknown",
+    "sighted object": "A cigar-shaped object with a white light and a red flashing light",
+    "location": "Palmyra, Pennsylvania",
+    "witnesses": "John L. Spitsbergen and 3 other persons",
+    "photographs": "none"
+}

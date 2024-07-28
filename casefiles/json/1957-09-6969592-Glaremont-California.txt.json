@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report:
+
+{
+    "main event": "One object with vapor trails was observed moving from north to south to west over Grayville, Illinois on September 17, 1957.",
+    "interesting points": [
+        "The object was observed for 15 to 20 minutes.",
+        "The object's description and flight path indicated it was possibly an aircraft.",
+        "The report includes a sketch of the object, which is described as round and apple-sized with an irregular outline.",
+        "The object was reported to be white with a red edge, and the red color would fade and brighten at intervals.",
+        "A neighbor called the observer's attention to the object."
+    ],
+    "result": "possibly aircraft",
+    "sighted object": "one object with vapor trails",
+    "location": "Grayville, Illinois",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

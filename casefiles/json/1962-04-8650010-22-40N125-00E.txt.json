@@ -1,0 +1,17 @@
+Here is the summary of the UFO case report in JSON format:
+
+{
+    "main event": "An unidentified object was sighted traveling in a north-northeasterly direction at 0717/0Z on April 7, 1952.",
+    "interesting points": [
+        "The object was described as having the brightness of a second magnitude star and was visible in good visibility.",
+        "The object did not pick up speed and gradually faded in and out of view.",
+        "The object was tracked for 2 minutes, gradually increasing in brightness, fading, and reappearing several times at an altitude of 3-5 degrees.",
+        "The object was not picked up on radar.",
+        "The report was sent as a priority immediate message to various military and naval intelligence units."
+    ],
+    "result": "unknown",
+    "sighted object": "one unidentified bright object in the sky",
+    "location": "Lat 22-45N Long 125-00E",
+    "witnesses": "not specified",
+    "photographs": "none"
+}

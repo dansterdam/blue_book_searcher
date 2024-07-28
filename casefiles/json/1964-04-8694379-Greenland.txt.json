@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A pilot spotted a star-shaped white object moving across the sky over Greenland.",
+    "interesting points": [
+        "The object was moving from northeast to southwest at an altitude of around 4,000 feet.",
+        "The object was observed for about 5 minutes before going out of visual range.",
+        "The pilot initially believed the object was a satellite, but the motion was contrary to a typical satellite observation.",
+        "The object was observed at an azimuth of 240 degrees, which could have been interpreted as moving away from the observer.",
+        "The report notes that the ECAC schedules were not available to confirm if the object was a satellite."
+    ],
+    "result": "unknown",
+    "sighted object": "a star-shaped white object",
+    "location": "Over Greenland",
+    "witnesses": "a pilot",
+    "photographs": "yes, the report includes photographs"
+}

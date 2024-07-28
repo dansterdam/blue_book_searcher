@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A resident of McKees Rocks, Pennsylvania reported seeing an unidentified flying object in the sky on October 8, 1966 around 11:30 PM.",
+    "interesting points": [
+        "The object was described as being about 30 feet in diameter, orange in color, and hovering about 100 feet above the ground.",
+        "The object remained stationary for about 5 minutes, then suddenly accelerated and disappeared to the east.",
+        "The observer stated that as the object passed overhead, he could hear a very faint humming sound.",
+        "During this incident, there was an apparent power failure in part of the area.",
+        "Another witness, a neighbor, also saw the same object and can verify the observation."
+    ],
+    "result": "unexplained",
+    "sighted object": "an orange, 30-foot diameter object that hovered and then accelerated away",
+    "location": "McKees Rocks, Pennsylvania",
+    "witnesses": "a resident and a neighbor",
+    "photographs": "no"
+}

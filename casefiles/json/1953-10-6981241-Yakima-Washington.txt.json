@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A silver and gold colored object was observed by military observers and radar officials at an approximate altitude of 45,000 feet over Yakima, Washington.",
+    "interesting points": [
+        "The object was circular in shape and was observed for 30 minutes.",
+        "The object was seen by ground observers and an aircraft crew at the same time.",
+        "The ground observer reported the object at an azimuth of 284 degrees and an elevation of 3 degrees, estimating the altitude at 25,000 feet.",
+        "The aircraft crew observed the object at an azimuth of 274 degrees from their position over Yakima.",
+        "A fighter pilot was scrambled to investigate the object, and reported observing a circular cloud formation at an altitude corresponding to the ground and aircraft observations."
+    ],
+    "result": "Meteorological (balloon)",
+    "sighted object": "A circular, silver and gold colored object",
+    "location": "Yakima, Washington",
+    "witnesses": "Military observers, radar officials, aircraft crew",
+    "photographs": "No"
+}

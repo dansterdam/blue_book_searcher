@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report:
+
+{
+    "main event": "A civilian observer spotted a fast-moving tear-drop shaped object in the sky over Cheyenne, Wyoming on March 20, 1967.",
+    "interesting points": [
+        "The object was described as 30-40 feet long, fuzzy in appearance, with a short, fuzzy white trail.",
+        "The object was observed to hover and then descend towards the horizon at an extremely high speed, like a meteor.",
+        "The observer, a 52-year-old college graduate and clergyman, was considered an average reliable witness.",
+        "The weather conditions at the time were clear skies with good visibility, and no significant weather inversions were reported.",
+        "The local FAA tower personnel did not see the object and had no knowledge of any aircraft in the area at the time."
+    ],
+    "result": "Astro (METOR)",
+    "sighted object": "a fast-moving tear-drop shaped object",
+    "location": "Cheyenne, Wyoming",
+    "witnesses": "a civilian observer",
+    "photographs": "no"
+}

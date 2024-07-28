@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+  "main event": "A bright, cylindrical object was observed by multiple witnesses near Roswell, New Mexico on July 20, 1965.",
+  "interesting points": [
+    "The object was described as being the size of a penny or .22 caliber shell, with a bright white color.",
+    "The object exhibited an unusually high rate of speed and made abrupt changes in course, including intermittent 'going straight up' maneuvers.",
+    "Some observers reported the object giving off a 'bright flash, as an explosion'.",
+    "The object's flight path originated in the north-northeast quadrant, moved to the north-northwest quadrant, and then possibly returned to the northeast before disappearing.",
+    "The sighting was observed by multiple civilian and military witnesses, including a housewife, a student, and airmen from the 5th Operational Maintenance Squadron."
+  ],
+  "result": "unexplained",
+  "sighted object": "a bright, cylindrical object",
+  "location": "Roswell, New Mexico",
+  "witnesses": "civilian and military personnel",
+  "photographs": "none"
+}

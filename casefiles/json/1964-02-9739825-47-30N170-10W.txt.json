@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A bright object the size of a pin was sighted at 65 degrees above the horizon, traveling a 3.5 degree arc over 4-5 seconds.",
+    "interesting points": [
+        "The object appeared much closer and slower than a falling star.",
+        "The object had no noticeable trail or illumination while moving.",
+        "The sighting occurred at coordinates 47-30N 170-10W.",
+        "The sighting was reported by the military and occurred at 1333Z on February 18, 1964.",
+        "The duration of the sighting was 4-5 seconds."
+    ],
+    "result": "unknown",
+    "sighted object": "one bright object the size of a pin",
+    "location": "47-30N 170-10W",
+    "witnesses": "military",
+    "photographs": "no"
+}

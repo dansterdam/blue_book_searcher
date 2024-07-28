@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A civilian observed an unidentified object moving erratically across the sky for about 1.5 minutes in Dayton, Ohio on November 6, 1964.",
+    "interesting points": [
+        "The object was described as being similar to a star or planet and was likely a star, Mars, or Jupiter based on meteorological data.",
+        "The object moved in an erratic course.",
+        "The object was observed for about 1.5 minutes.",
+        "The observation was made at 10:09 PM local time.",
+        "The object appeared as a bright, white light."
+    ],
+    "result": "Astronomical (likely star, Mars, or Jupiter)",
+    "sighted object": "bright, white light moving erratically",
+    "location": "Dayton, Ohio",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

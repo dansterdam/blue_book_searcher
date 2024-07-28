@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "Five unidentified flying objects were observed by flight controller and tower personnel at Shaw AFB, South Carolina on July 7, 1953.",
+    "interesting points": [
+        "The objects were described as round, white in color, and having a metallic appearance, approximately 15-20 feet in diameter with no visible lights, wings, or tails.",
+        "The observed flight pattern was erratic, with sudden starts, stops, and changes in direction.",
+        "The objects were also tracked on the radar scope, with the radar operator estimating their speed to be around 600 mph.",
+        "The flight controller and tower officer were positive in their identification of the objects as unknown aircraft.",
+        "No known physical evidence, such as film or debris, was obtained from the sightings."
+    ],
+    "result": "unexplained",
+    "sighted object": "five unidentified flying objects",
+    "location": "Shaw AFB, South Carolina",
+    "witnesses": "flight controller and tower personnel",
+    "photographs": "no"
+}

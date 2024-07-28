@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A vehicle sighting was observed in Groveland, Florida on August 1, 1954. Lights were seen after dusk coinciding with the observation.",
+    "interesting points": [
+        "The sighting lasted for 25 minutes.",
+        "There was one observed object.",
+        "The object was moving in a northwest direction.",
+        "No further details were provided for evaluation.",
+        "The report indicates that the sighting could potentially be explained as a heavenly body such as Mars or Venus, but this was discounted by observations made by local citizens."
+    ],
+    "result": "unexplained",
+    "sighted object": "vehicle/lights",
+    "location": "Groveland, Florida",
+    "witnesses": "unknown",
+    "photographs": "no"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report:
+
+{
+    "main event": "A military source reported observing a satellite (ECHO II) in the sky over the Atlantic Ocean on November 17, 1964.",
+    "interesting points": [
+        "The object was described as moving at a speed of 40 degrees per 25 seconds on a heading of 315 degrees.",
+        "The object was evaluated as an ECHO II satellite sighting.",
+        "The observation was a ground/visual type and lasted an unreported duration.",
+        "No photographs or physical evidence were obtained.",
+        "The conclusion was that the observed object was the ECHO II satellite."
+    ],
+    "result": "Explained (satellite)",
+    "sighted object": "ECHO II satellite",
+    "location": "65.43N 28.26W (Atlantic)",
+    "witnesses": "Military source",
+    "photographs": "No"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A lighted object was observed entering the atmosphere and was visible for 10 seconds.",
+    "interesting points": [
+        "The object was observed at coordinates 19.50N 170.00E in the Pacific Ocean.",
+        "The object was observed by a civilian witness.",
+        "The object was observed for a duration of 10 seconds.",
+        "The object was observed visually, with no photographs taken.",
+        "The object was concluded to be an astronomical event by the editor."
+    ],
+    "result": "astro (editor)",
+    "sighted object": "a lighted object",
+    "location": "19.50N 170.00E (Pacific Ocean)",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

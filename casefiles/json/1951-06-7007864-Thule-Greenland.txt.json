@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report:
+
+{
+    "main event": "Two apparent contrails were sighted by a MATS aircraft crew approaching Thule, Greenland on June 9, 1951.",
+    "interesting points": [
+        "The first contrail was sighted about 60 miles south of Thule at 8,000 feet, and the second was sighted nearly over Thule at around 4,000 feet.",
+        "The crew members were unsure if the sightings were actually contrails or the result of unusual weather phenomena.",
+        "The captain estimated the altitude of the sightings to be between 30,000 and 40,000 feet above sea level, based on the temperature and weather conditions.",
+        "The weather conditions at the time included light, broken cumulus clouds at 3,000 feet, high thin stratus at 14,000 feet, and a slight temperature inversion.",
+        "The surface winds were 320 degrees grid at 5 knots, and the upper winds were reported at 20 knots from a northerly direction."
+    ],
+    "result": "possibly weather phenomenon",
+    "sighted object": "two apparent contrails",
+    "location": "Thule, Greenland",
+    "witnesses": "MATS aircraft crew",
+    "photographs": "no"
+}

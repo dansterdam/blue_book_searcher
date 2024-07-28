@@ -1,0 +1,17 @@
+Here is the JSON summary for the given UFO report:
+
+{
+    "main event": "A civilian observer spotted a round, white object the size of a grapefruit with no sound or trail in the sky over Calente, Nevada.",
+    "interesting points": [
+        "The object was visible for 15 minutes and was observed to be moving very slowly.",
+        "The observer described the object as being 3-4 miles high and moving in a straight line to the south.",
+        "The bright sun made it difficult to view the object clearly.",
+        "The object was reported to the military through the chain of command.",
+        "The conclusion was that the object was possibly a weather balloon, but no definitive determination could be made."
+    ],
+    "result": "inconclusive",
+    "sighted object": "a round, white object the size of a grapefruit",
+    "location": "Calente, Nevada",
+    "witnesses": "a civilian observer",
+    "photographs": "no"
+}

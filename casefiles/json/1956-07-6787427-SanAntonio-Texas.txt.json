@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "The radar operator observed an object enter and disappear off the radar scope over San Antonio, Texas on July 23, 1956.",
+    "interesting points": [
+        "The object was only seen on radar and did not appear visually.",
+        "The object traveled in a straight line.",
+        "The object was observed for 3-5 minutes on the radar.",
+        "There was no corroborative data for this sighting in the FIW file.",
+        "The conclusion was that the object was possibly a balloon or an aircraft, with no further evaluation."
+    ],
+    "result": "inconclusive",
+    "sighted object": "object on radar",
+    "location": "San Antonio, Texas",
+    "witnesses": "radar operator",
+    "photographs": "no"
+}

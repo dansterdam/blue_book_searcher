@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An Air Force pilot spotted 3 rather large flashing lights in the sky over Mastic, Long Island, New York on July 17, 1956.",
+    "interesting points": [
+        "The objects flashed off and on and moved rapidly at a high altitude.",
+        "The reporting officer noted that the sighting was possibly caused by flares.",
+        "The object was triangular shaped and green in color but had strong white flashes.",
+        "The sighting lasted between 5-10 seconds.",
+        "The report includes a statement that photographs were taken, but no photographs were provided in the document."
+    ],
+    "result": "possibly flares",
+    "sighted object": "3 rather large flashing lights",
+    "location": "Mastic, Long Island, NY",
+    "witnesses": "AF Pilot",
+    "photographs": "yes, but not provided"
+}

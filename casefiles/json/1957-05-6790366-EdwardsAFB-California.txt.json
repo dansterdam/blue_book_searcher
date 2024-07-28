@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided report text:
+
+{
+    "main event": "An unidentified object was sighted over Edwards Air Force Base in California on May 2, 1957.",
+    "interesting points": [
+        "The object was tracked by civilian photo-theodolite operators using specialized camera equipment, and the films were immediately dispatched to Air Technical Intelligence Center in Dayton.",
+        "Officers at Edwards AFB were unsure of what the object was, with one suggesting it could have been a balloon.",
+        "The sighting received nationwide publicity because it occurred over the 'United States secret testing grounds'.",
+        "A total of 32 photographs were taken, and magnified analysis showed the object changing shape from elliptical to circular as the sun's rays played on its surface.",
+        "Investigators concluded the object was likely a balloon, based on the wind patterns and theodolite measurements correlating with the observers' reports."
+    ],
+    "result": "likely a balloon",
+    "sighted object": "one aluminum or metallic disk-shaped object",
+    "location": "Edwards Air Force Base, California",
+    "witnesses": "civilian photo-theodolite operators",
+    "photographs": "yes, 32 photographs were taken"
+}

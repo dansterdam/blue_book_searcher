@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "An unidentified flying object was sighted over Dietrich, Idaho on February 3, 1953.",
+    "interesting points": [
+        "The object was described as larger and faster than four jets that were flying over, circular in shape, and silvery in color.",
+        "The object had no visible means of propulsion and appeared to accelerate and climb out of sight quickly.",
+        "Multiple witnesses, including a chief observer, supervisor, and two farmers, observed the object for around 15 minutes.",
+        "The object was estimated to be 15 inches to 3 feet in diameter and travel at speeds over 500 mph, reaching altitudes up to 60,000 feet.",
+        "The Air Force and FBI were known to be investigating the area at the time of the sighting."
+    ],
+    "result": "unexplained",
+    "sighted object": "a large, fast-moving, circular, silvery object",
+    "location": "Dietrich, Idaho",
+    "witnesses": "a chief observer, supervisor, and two farmers",
+    "photographs": "no, the report does not include any photographs"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary of the provided UFO report text:
+
+{
+    "main event": "A UFO sighting was reported in Milton, Wisconsin on November 21, 1967.",
+    "interesting points": [
+        "The observer requested reporting forms from the Duty Officer, but the forms were forwarded but not returned.",
+        "The report states 'INSUFFICIENT DATA' and that observer-reported forms were not returned.",
+        "The report mentions a call from a Captain about a UFO radar contact and visual observation.",
+        "The report discusses support requests and mission suspension related to the UFO sighting.",
+        "Multiple witnesses from the Bayfield County, Wisconsin Sheriff's Office reported seeing two lights for about 30 minutes, with one light possibly over the Barksdale, Wisconsin Dupont plant."
+    ],
+    "result": "INSUFFICIENT DATA",
+    "sighted object": "Two unidentified lights",
+    "location": "Milton, Wisconsin; Barksdale, Wisconsin",
+    "witnesses": "Observer, Captain, personnel from Bayfield County, Wisconsin Sheriff's Office",
+    "photographs": "no"
+}

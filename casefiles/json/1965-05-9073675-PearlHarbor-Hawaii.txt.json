@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "Possible sighting of a satellite or other visible object near Pearl Harbor, Hawaii",
+    "interesting points": [
+        "The object was as bright as the brightest planet and was observed in slight overcast conditions.",
+        "The object was sighted at an angle of 35 degrees to the horizon, bearing 255 degrees true, and traveled from west to east.",
+        "The object was observed for 7 minutes and was described as moving very fast.",
+        "The report could not determine a specific satellite identification for the object.",
+        "There were no photographs taken of the object."
+    ],
+    "result": "Possible satellite or other visible object, could not be conclusively identified",
+    "sighted object": "One bright object in the sky",
+    "location": "Pearl Harbor, Hawaii",
+    "witnesses": "Military personnel",
+    "photographs": "None"
+}
