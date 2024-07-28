@@ -9,3 +9,4 @@ typing-extensions==4.12.2; python_version >= '3.8'
 whitenoise==6.7.0; python_version >= '3.8'
 django-haystack==3.1.0
 elasticsearch==7.10.1
+psycopg2-binary==2.9.9
