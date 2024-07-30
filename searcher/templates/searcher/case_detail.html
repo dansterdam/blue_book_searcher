@@ -163,7 +163,7 @@
             {% if view_type == 'pdf' %}
                 <!-- PDF Viewer -->
                 <object class="pdf-viewer" data="{{ case.pdf }}" type="application/pdf">
-                    <div class="pdf-fallback">No online PDF viewer installed. <a href="{{ case.pdf }}">Click here to download the PDF</a>.</div>
+                    <div class="pdf-fallback">No online PDF viewer installed.</div>
                 </object>
             {% elif view_type == 'txt' %}
                 <!-- Text Content -->
