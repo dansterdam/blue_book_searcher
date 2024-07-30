@@ -2,6 +2,7 @@
 from django.db import models
 from django.urls import reverse
 from django.conf import settings
+from storages.backends.s3boto3 import S3Boto3Storage
 
 class Case(models.Model):
     title = models.TextField(default='')
@@ -10,7 +11,7 @@ class Case(models.Model):
     type = models.TextField(default='')
     witnesses = models.TextField(default='')
     text_content = models.TextField()
-    pdf = models.FileField(upload_to='casefiles/pdf/',default='')
+    pdf = models.FileField(storage=S3Boto3Storage(), upload_to='casefiles/pdf/')
 
     def get_absolute_url(self):
         return reverse('case_detail', args=[self.id])

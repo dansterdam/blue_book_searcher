@@ -12,6 +12,7 @@ django-haystack = "*"
 elasticsearch = "==7.10.1"
 django-storages = "*"
 psycopg2-binary = "*"
+boto3 = "*"
 
 [dev-packages]
 

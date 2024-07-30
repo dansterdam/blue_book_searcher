@@ -2,14 +2,10 @@
 from django.shortcuts import render, get_object_or_404
 from .models import Case
 from django.utils.html import format_html
-from django.http import FileResponse
+from django.http import FileResponse, Http404
 import re
 from django.db.models import Q
-
-
-
-import re
-from django.utils.html import format_html
+from django.core.files.storage import default_storage
 
 def highlight_text(text, query, context=30, snippet_count=2):
     if not query:
@@ -112,6 +108,18 @@ def case_detail(request, id):
 
 def serve_pdf(request, pk):
     case = get_object_or_404(Case, pk=pk)
-    response = FileResponse(case.pdf.open(), content_type='application/pdf')
+
+    # Construct the file path
+    file_path = case.pdf.name
+
+    # Check if the file exists
+    if not default_storage.exists(file_path):
+        raise Http404("File does not exist")
+
+    # Open the file
+    file = default_storage.open(file_path, 'rb')
+
+    # Serve the file
+    response = FileResponse(file, content_type='application/pdf')
     response['Content-Disposition'] = f'inline; filename="{case.pdf.name}"'
     return response
