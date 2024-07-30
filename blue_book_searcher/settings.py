@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ.get('SECRET_KEY', "django-insecure-*yuqu2s*mec_7m+vkwv-@^1a20xbg-9z#50-x3&yb+6m1(4f7c")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = os.environ.get('DEBUG', 'True') == 'True'
+DEBUG = 'False'
 
-ALLOWED_HOSTS = ['your-app-name.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['blue-book-searcher.herokuapp.com']
 
 # Application definition
 
@@ -95,10 +95,17 @@ STATIC_URL = '/static/'
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 # Database configuration
+# DATABASES = {
+#     'default': dj_database_url.config(
+#         default=os.environ.get('DATABASE_URL')
+#     )
+# }
+
 DATABASES = {
-    'default': dj_database_url.config(
-        default=os.environ.get('DATABASE_URL')
-    )
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / "db.sqlite3",
+    }
 }
 
 # Password validation
