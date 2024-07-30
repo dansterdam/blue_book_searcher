@@ -11,7 +11,7 @@ class Case(models.Model):
     type = models.TextField(default='')
     witnesses = models.TextField(default='')
     text_content = models.TextField()
-    pdf = models.FileField(storage=S3Boto3Storage(), upload_to='casefiles/pdf/')
+    pdf = models.FileField(storage=S3Boto3Storage())
 
     def get_absolute_url(self):
         return reverse('case_detail', args=[self.id])
