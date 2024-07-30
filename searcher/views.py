@@ -121,5 +121,5 @@ def serve_pdf(request, pk):
 
     # Serve the file
     response = FileResponse(file, content_type='application/pdf')
-    response['Content-Disposition'] = f'inline; filename="{case.pdf.name}"'
+    response['Content-Disposition'] = f'inline; filename="{case.pdf}"'
     return response

@@ -43,9 +43,7 @@ class Command(BaseCommand):
                             print(f"JSON decode error in file: {json_filename}")
                             continue
                     
-                    # Uncomment the following lines if you have PDF files associated
                     pdf_filename = filename.replace('.txt', '.pdf')
-                    pdf_path = os.path.join(pdf_dir, pdf_filename)
                     
                     cases_to_create.append(
                         Case(
@@ -55,7 +53,7 @@ class Command(BaseCommand):
                             type=metadata.get('result', ''),
                             witnesses=metadata.get('witnesses', ''),
                             text_content=text_content,
-                            pdf=pdf_path
+                            pdf=pdf_filename
                         )
                     )
                 except FileNotFoundError:
