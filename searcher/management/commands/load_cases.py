@@ -66,9 +66,10 @@ class Command(BaseCommand):
         
         for case in cases_to_create:
             try:
-                Case.objects.create(**case)
-                self.stdout.write(self.style.SUCCESS(f'Successfully loaded case {case}'))
+                # Save each Case instance individually
+                case.save()
+                self.stdout.write(self.style.SUCCESS(f'Successfully loaded case {case.title}'))
             except (IntegrityError, DatabaseError) as db_error:
-                self.stdout.write(self.style.ERROR(f"Database error: {str(db_error)} while processing case {case} in {json_filename}"))
+                self.stdout.write(self.style.ERROR(f"Database error: {str(db_error)} while processing case {case.title} in {json_filename}"))
             except Exception as e:
-                self.stdout.write(self.style.ERROR(f"An unexpected error occurred: {str(e)} while processing case {case}"))
+                self.stdout.write(self.style.ERROR(f"An unexpected error occurred: {str(e)} while processing case {case.title}"))
