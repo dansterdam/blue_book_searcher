@@ -100,6 +100,8 @@ DATABASES = {
         default=os.environ.get('DATABASE_URL')
     )
 }
+if 'default' in DATABASES:
+    DATABASES['default']['ENGINE'] = 'django.db.backends.postgresql'
 
 # Password validation
 AUTH_PASSWORD_VALIDATORS = [
