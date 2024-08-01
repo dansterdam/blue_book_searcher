@@ -162,7 +162,7 @@
             <h1>{{ case.title }} </h1>
             {% if view_type == 'pdf' %}
                 <!-- PDF Viewer -->
-                <object data="{{ case.get_pdf_url }}" type="application/pdf">
+                <object data="{{ case.get_pdf_url }}" type="application/pdf" width="600" height="800">
                     <p>Your browser does not support PDFs.</p>
                 </object>
             {% elif view_type == 'txt' %}
