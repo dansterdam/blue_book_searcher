@@ -17,7 +17,9 @@ class Case(models.Model):
         return reverse('case_detail', args=[self.id])
 
     def get_pdf_url(self):
-        return reverse('serve_pdf', args=[self.id])
+        if self.pdf:
+            return self.pdf.url
+        return None
 
     def __str__(self):
         return self.title
