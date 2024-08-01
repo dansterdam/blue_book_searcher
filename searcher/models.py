@@ -9,7 +9,7 @@ class Case(models.Model):
     title = models.TextField(default="")
     summary = models.TextField(default="")
     location = models.TextField(default="")
-    date = models.CharField()
+    date = models.CharField(max_length=255, default="xxxx-xx")
     interesting_points = models.TextField(default="")
     sighted_object = models.TextField(default="")
     number_of_witnesses = models.TextField(default="")
