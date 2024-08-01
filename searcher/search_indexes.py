@@ -7,8 +7,9 @@ class CaseIndex(indexes.SearchIndex, indexes.Indexable):
     text = indexes.CharField(document=True, use_template=True)
     title = indexes.CharField(model_attr="title")
     location = indexes.CharField(model_attr="location")
-    type = indexes.CharField(model_attr="type")
-    witnesses = indexes.CharField(model_attr="witnesses")
+    date = indexes.CharField(model_attr="date")
+    witnesses = indexes.CharField(model_attr="witness_description")
+
 
     def get_model(self):
         return Case
