@@ -20,7 +20,7 @@ class Migration(migrations.Migration):
                         serialize=False,
                         verbose_name="ID",
                     ),
-                ), 
+                ),
                 ("title", models.CharField(max_length=255)),
                 ("location", models.CharField(max_length=255)),
                 ("type", models.CharField(max_length=255)),

@@ -4,9 +4,10 @@ import re
 
 register = template.Library()
 
+
 @register.filter
 def page_links(text, case_id):
-    pattern = re.compile(r'\s*- page (\d+) -\s*', re.MULTILINE)
+    pattern = re.compile(r"\s*- page (\d+) -\s*", re.MULTILINE)
 
     def replace_page_link(match):
         page_number = match.group(1)
