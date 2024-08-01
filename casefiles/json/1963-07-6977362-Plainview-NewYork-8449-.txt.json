@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be a set of pages from a Project Blue Book document, containing several photographs of unidentified aerial objects.",
-    "interesting points": [
-        "The report is labeled as being from the Foreign Technology Division of the USAF.",
-        "The photographs appear to show blurry or grainy images of unusual objects in the sky.",
-        "The pages are marked as 'UNCLASSIFIED', indicating the information was not considered highly sensitive.",
-        "The report mentions 4 photos, but only 3 are visible in the provided images.",
-        "There are handwritten annotations on the pages, but the meaning is unclear without additional context."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unidentified aerial objects",
-    "location": "Plainview, New York",
-    "witnesses": "unknown",
-    "photographs": "yes, 3 photographs are included in the report"
+    "main event": "A report detailing unidentified aerial objects photographed in Plainview, New York, on July 16, 1963.",
+    "interesting points": "The report is classified as 'UNCLASSIFIED' and produced by the Foreign Technology Division of AFSC., The first page contains handwritten markings but no visible photographs., One photograph appears to depict the sun with various annotations., Another photograph shows a blurry aerial object labeled as 'UNCLASSIFIED'., A grainy image of an unidentified aerial object is noted with an elongated shape.",
+    "sighted object": "unidentified aerial object",
+    "location": "Plainview, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses described in the document",
+    "contains photographs": true
 }

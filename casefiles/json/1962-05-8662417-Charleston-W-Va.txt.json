@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white, yellow, and very bright object approximately 3/4 the size of a dime at arm's length was observed moving slowly from northeast to southwest at high altitude in Charleston, West Virginia on May 16, 1953.",
-    "interesting points": [
-        "The object maintained its course and speed for approximately 2-3 minutes with no trail or sound observed.",
-        "The witness was an experienced observer and was convinced he was observing an unidentified aerial phenomenon.",
-        "The object did not conform to the characteristics normally associated with common astronomical or meteorological phenomena.",
-        "There were simultaneous visual sightings of the object at two separate locations about 14 miles apart.",
-        "There was no radar indication of the object at the time of the visual sightings, suggesting it may have been a satellite or associated space junk."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, yellow, and very bright object",
-    "location": "Charleston, West Virginia",
-    "witnesses": "two civilian observers",
-    "photographs": "no"
+    "main event": "Observers reported sighting a bright object in the sky over Charleston, W. Va. on 16 May 53.",
+    "interesting points": "The object was described as larger than any star and about twice as bright., The object moved from northeast to southwest at a high altitude., It maintained its course and speed for approximately 2-3 minutes., No sound or trail was observed during the sighting., The experienced observer was convinced it was an unidentified aerial phenomenon.",
+    "sighted object": "bright white and yellow object",
+    "location": "Charleston, West Virginia, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian observers, one age 43 and the other age 44, both residents of West Virginia.",
+    "contains photographs": false
 }

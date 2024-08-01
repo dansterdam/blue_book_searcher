@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-  "main event": "Five objects were observed moving south 20 miles east of Bimini, Florida, on November 25, 1951.",
-  "interesting points": [
-    "The objects were detected by ground radar.",
-    "The objects were still 'trailing smoke' when observed.",
-    "The original message with more details was not received, so the report is considered 'insufficient data'.",
-    "The report was sent as an 'emergency' message from Naval Air Station Key West, Florida.",
-    "The report was sent to various military commands, including the Air Defense Command, the Secretary of Defense, and the Commander of the 5th Naval District."
-  ],
-  "result": "unexplained",
-  "sighted object": "five unidentified objects",
-  "location": "20 miles east of Bimini, Florida",
-  "witnesses": "military radar",
-  "photographs": "no"
+    "main event": "Five objects were reported moving south, 20 miles east of Bimini, trailing smoke.",
+    "interesting points": "The sighting occurred on November 25, 1951., The objects were tracked using ground radar., The source of the sighting was military., The original message regarding the sighting was not fully received due to insufficient data., There were no photographs associated with the report.",
+    "sighted object": "five unidentified objects",
+    "location": "Bimini, Key West, Fla.",
+    "number of confirmed witnesses": 0,
+    "witness description": "military personnel involved in radar observation",
+    "contains photographs": false
 }

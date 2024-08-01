@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A student observed a single unidentified flying object in Athens, Ohio in April 1969.",
-    "interesting points": [
-        "The object was observed on two separate occasions, around 8:00 PM and 9:10 PM.",
-        "The object was positioned in one spot for a period of time before moving and disappearing over the horizon.",
-        "The main object was described as a star-like object, and there was also a smaller domed object above and in front of the main object.",
-        "The main object was described as self-luminous, with colors of red, yellow, and possibly amber.",
-        "The object was observed to flutter or wobble at times, and it eventually disappeared over the eastern horizon."
-    ],
-    "result": "unexplained",
-    "sighted object": "one star-like object with a smaller domed object",
-    "location": "Athens, Ohio",
-    "witnesses": "a student",
-    "photographs": "no"
+    "main event": "A student reported sighting a star-like object with a domed object above it in Athens, Ohio in April 1969.",
+    "interesting points": "The sighting involved two observations of the phenomenon, one at about 2000 and the other at about 2110., The star-like object was described as light and self-luminous in red and yellow colors., The student initially reported the sighting as a UFO but later indicated it was a hoax., The phenomena was noted to stand still at times and disappear on the eastern horizon., No physical evidence or photographs were associated with the sighting.",
+    "sighted object": "one star-like main object and one domed object",
+    "location": "Athens, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a student at Ohio University",
+    "contains photographs": false
 }

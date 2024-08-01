@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A round, luminous object the size of a half dollar was observed moving rapidly upwards to an estimated height of 500 feet in Cleveland, Ohio in June 1955.",
-    "interesting points": [
-        "The object appeared yellow and moved very rapidly before suddenly disappearing.",
-        "The characteristics of the object corresponded with those of a balloon, and a balloon launched from the Naval Research Laboratory was estimated to have been in the area at the time of the sighting.",
-        "The object was observed for 15-20 minutes, and was described as oval-shaped and luminous.",
-        "A similar sighting of a round, white object the size of a half dollar was reported in March 1955, also near Cleveland. This object appeared and disappeared at high speeds and left a white trail.",
-        "Binoculars were used to observe the March 1955 sighting."
-    ],
-    "result": "Likely a balloon",
-    "sighted object": "round, luminous object",
-    "location": "Cleveland, Ohio",
-    "witnesses": "multiple witnesses",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Multiple observations of an unidentified round object in Cleveland, Ohio during June 1955.",
+    "interesting points": "The object was observed at an estimated height of five hundred feet,The object appeared yellow and moved very rapidly before disappearing,The size of the object was comparable to a half dollar held at arm's length,The sighting lasted approximately 15-20 minutes,There is an indication that the object might have been a balloon launched from a research facility.",
+    "sighted object": "round luminous object",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A technician/observer aged 27",
+    "contains photographs": false
 }

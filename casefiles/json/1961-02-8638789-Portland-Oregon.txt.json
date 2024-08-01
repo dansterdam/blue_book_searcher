@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "A single white, round, grapefruit-sized object was observed over Portland, Oregon on February 28, 1961.",
-    "interesting points": [
-        "The object was observed for 10 minutes before disappearing into 'outer space'.",
-        "The object's brightness varied from 45 degrees to approximately 225 degrees.",
-        "The object's position upon disappearance was not known by the witnesses.",
-        "The report lists several possible conclusions, including balloon, aircraft, astronomical, and insufficient data for evaluation.",
-        "The report mentions the term 'MOONDUST', which may refer to a classified project at the time."
-    ],
-    "result": "inconclusive",
-    "sighted object": "single white, round, grapefruit-sized object",
-    "location": "Portland, Oregon",
-    "witnesses": "not specified",
-    "photographs": "none"
+    "main event": "A single object was observed visually over Portland, Oregon for 10 minutes on February 27, 1961.",
+    "interesting points": "The observation lasted for 10 minutes,The object was reported to have a varied course,The conclusions included possibilities such as Balloon, Aircraft, or Astronomical phenomena, Witnesses reported that the object disappeared into 'outer space', There was insufficient data for a definitive evaluation.",
+    "sighted object": "single object in the sky",
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data available regarding witnesses",
+    "contains photographs": false
 }

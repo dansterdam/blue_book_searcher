@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person in Cumberland, Maryland reported seeing an unidentified flying object on July 29, 1965.",
-    "interesting points": [
-        "The observer took two photographs of the UFO, but they were overexposed.",
-        "The object appeared as a thin, jerky line in the photographs.",
-        "In one photo, the line seemed to separate, which was caused by the fluctuating brilliance of the object.",
-        "The observer contacted the Martinsburg Flight Service Center, but they had no information about the sighting.",
-        "The observer requested the Air Force to analyze the photographs and provide the results."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a thin, jerky line in the sky",
-    "location": "Cumberland, Maryland",
-    "witnesses": "one observer",
-    "photographs": "yes, two overexposed photographs were taken"
+    "main event": "A sighting of an unidentified flying object was reported in Cumberland, Maryland on July 26, 1965.",
+    "interesting points": "The sighting was officially logged in the Project Blue Book records., No photographs were confirmed to accompany the report., The observer submitted a request for results regarding investigations of the incident., Analysis indicated that positive identification of the object was unlikely due to poor processing of submitted photographs., The report mentioned that some points of interest were plotted on a blue water tower in the area.",
+    "sighted object": "unidentified flying object",
+    "location": "Cumberland, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The document refers to an observer but does not provide further details about their identity.",
+    "contains photographs": false
 }

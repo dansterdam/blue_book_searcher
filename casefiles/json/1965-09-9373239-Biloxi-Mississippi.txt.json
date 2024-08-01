@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a UFO that was about the size of the planet Venus, had a steady white light, hovered, moved up and down, and reversed direction before disappearing into a cloud.",
-    "interesting points": [
-        "The object was a steady white light that wavered occasionally.",
-        "The object was very maneuverable, making a 98-degree turn and disappearing to the north.",
-        "The object drifted off to the north and disappeared into clouds.",
-        "The observation lasted for about 13 minutes.",
-        "The observation was made at a 45-degree angle from the ground."
-    ],
-    "result": "Satellite (ECHO II)",
-    "sighted object": "a steady white light the size of the planet Venus",
-    "location": "Biloxi, Mississippi",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing an object resembling the size of the planet Venus in Biloxi, Mississippi on September 2, 1965.",
+    "interesting points": "The object emitted a steady white light and hovered in the sky,The object moved up and down, reversed direction, and then disappeared into a cloud.,The observation lasted for about 10 minutes,The object was described as very maneuverable and wavered occasionally according to the witness.,The daughter of the witness called attention to the object when it made a 98-degree turn.",
+    "sighted object": "an object about the size of the planet Venus",
+    "location": "Biloxi, Mississippi, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian and his daughter",
+    "contains photographs": false
 }

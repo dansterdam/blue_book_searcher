@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was detected by ground radar near Jacksonville, Florida on July 30, 1956.",
-    "interesting points": [
-        "The object moved erratically, compared to the movement of the moon.",
-        "The object disappeared and reappeared, suggesting insufficient data to fully evaluate it.",
-        "The observation lasted for 6 minutes.",
-        "The report indicates the object may have been a balloon, but the evaluation is listed as 'insufficient data'.",
-        "No photographs were taken of the observed object."
-    ],
-    "result": "insufficient data",
-    "sighted object": "unidentified object detected on ground radar",
-    "location": "Jacksonville, Florida",
-    "witnesses": "ground radar operators",
-    "photographs": "no"
+    "main event": "An object was observed moving erratically in the sky in Jacksonville, Florida on 30 July 1956.",
+    "interesting points": "The observation lasted for 6 minutes,The object moved in a way that was compared to the moon,It vanished and reappeared during the observation,The object was evaluated as possibly being a balloon,The data was judged to be insufficient for a definitive identification.",
+    "sighted object": "erratically moving object in the sky",
+    "location": "Jacksonville, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

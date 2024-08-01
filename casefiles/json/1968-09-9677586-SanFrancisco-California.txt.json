@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO document:
-
 {
-    "main event": "A witness observed an illuminated, elongated object moving silently across the sky at a high rate of speed in San Francisco, California.",
-    "interesting points": [
-        "The object had a pale white glow and was partially obscured by clouds.",
-        "The object was moving in a straight line across the southwestern horizon.",
-        "The object suddenly disappeared behind the horizon after being observed for several seconds.",
-        "The witness was making night rounds of installations when they observed the object.",
-        "The report notes that the object emitted no beams or visible light sources."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "an illuminated, elongated object",
-    "location": "San Francisco, California",
-    "witnesses": "a civilian witness",
-    "photographs": "none"
+    "main event": "A civilian observed an elongated, illuminated object moving silently across the sky over San Francisco on September 2, 1968.",
+    "interesting points": "The object appeared in the southwestern horizon and was partially obscured by clouds., It had a pale white glow and emitted no visible light sources., The object moved in a straight line at a high rate of speed., The observation lasted several seconds before the object disappeared behind the horizon., The report indicates there was insufficient data for evaluation.",
+    "sighted object": "an elongated, illuminated object",
+    "location": "San Francisco, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

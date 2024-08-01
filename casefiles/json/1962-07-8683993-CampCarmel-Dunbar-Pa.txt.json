@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three witnesses observed a round, silvery object traveling low on the horizon in an easterly direction for approximately 5 minutes.",
-    "interesting points": [
-        "The object appeared to be round and silvery in color.",
-        "The object was traveling very low on the horizon, approximately 1 degree above.",
-        "The object was observed by three witnesses, consisting of one male and two females.",
-        "The witnesses reported that the object changed brightness and shape during the sighting.",
-        "One of the witnesses heard a sound that appeared to originate from the object for about a minute before it stopped abruptly."
-    ],
-    "result": "Unknown",
-    "sighted object": "round, silvery object",
-    "location": "Camp Carvel, Dunbar, Pennsylvania",
-    "witnesses": "three witnesses, one male and two females",
-    "photographs": "no"
+    "main event": "On 16 Jul 62, three witnesses observed a round, silvery object at Camp Carvel, Dunbar, Pa.",
+    "interesting points": "The object traveled very low on the horizon at approximately 1 degree above, The sighting lasted about 5 minutes, The witnesses consisted of 1 male and 2 females, The object's course was easterly, Witnesses described the object as probably a balloon or aircraft based on conclusions.",
+    "sighted object": "round silvery object",
+    "location": "Dunbar, Pennsylvania, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "1 male and 2 females",
+    "contains photographs": false
 }

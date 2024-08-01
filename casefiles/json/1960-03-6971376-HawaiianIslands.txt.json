@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple aircraft reported sighting bright lights and flares in the sky over the Hawaiian Islands on March 17, 1960.",
-    "interesting points": [
-        "A C-54 aircraft spotted a bright light at coordinates 20-44N 158-54W, which faded after about 30 seconds.",
-        "Clipper 842 reported seeing the same light at coordinates 20-48.5N 158-18.5W.",
-        "Clipper 230 reported seeing a descending light at coordinates 21-50N 158-30W.",
-        "All the aircraft were flying at altitudes between 9,000 and 11,000 feet while en route to the mainland.",
-        "The sightings were reported to various military commands, including CINCPACAF, COMUSEAFRON, CINCNORAD, CINCPAC, and CINCUSARPAC."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright lights and flares",
+    "main event": "A green flare was observed falling in the Hawaiian Islands on 17 March 1960.",
+    "interesting points": "The flare was visible for 5 seconds,The object was a single green flare descending and then disappearing into the horizon,The sighting was recorded by three observers who agreed on the description,The object was sighted at about 25 feet above the horizon,The observers described a bright flash lasting before the flare descended.",
+    "sighted object": "a green flare",
     "location": "Hawaiian Islands",
-    "witnesses": "C-54 aircraft, Clipper 842, Clipper 230",
-    "photographs": "none"
+    "number of confirmed witnesses": 3,
+    "witness description": "observers in the area",
+    "contains photographs": false
 }

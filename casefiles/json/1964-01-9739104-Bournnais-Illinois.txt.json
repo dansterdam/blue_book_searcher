@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A light brown, rocket-like object was observed to crash into the ground on January 26, 1964 near Bourne, Illinois.",
-    "interesting points": [
-        "The object was larger in size than a typical rocket and blinked on and off with bright flashes.",
-        "There were spots on the tail of the object that appeared to be a bright flame, but no smoke.",
-        "The object descended, flattened out, and then crashed into the ground.",
-        "There were approximately 10-15 other similar observations reported during this sighting.",
-        "The Air Force evaluated the sighting as a meteor."
-    ],
-    "result": "Evaluated as a meteor",
-    "sighted object": "A light brown, rocket-like object",
-    "location": "Bourne, Illinois",
-    "witnesses": "Civilian",
-    "photographs": "No photographs available"
+    "main event": "A UFO sighting reported on 23 July 1954 in Bourne, Illinois, evaluated as a meteor.",
+    "interesting points": "The sighting duration was noted as 2 minutes, believed possibly erroneous,Only one object was observed, which was described as falling,The object was light brown in color and resembled a rocket,It blinked on and off with a bright flash and had a bright flame with spots on its tail,There were 10-15 other observations during this incident.",
+    "sighted object": "one light brown object resembling a rocket",
+    "location": "Bourne, Illinois, USA",
+    "number of confirmed witnesses": 0,
+    "witnesses": "civilian observation reported to Air Force",
+    "photographs": false
 }

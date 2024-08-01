@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO document:
-
 {
-    "main event": "Military observers watched a star-like object travel towards the SSE, gaining altitude and veering left and right before returning to its original position.",
-    "interesting points": [
-        "The object moved slowly at first, then picked up speed.",
-        "The object was determined to be the satellite Echo II, which was traveling over the area at the time of the observation.",
-        "The report mentions that the investigating officers' comments and conclusions are missing from the document.",
-        "The document also includes a memo regarding the screening and evaluation of reported UFOs, as well as instructions for investigating officers.",
-        "The document contains several handwritten pages with additional UFO sighting details, but no photographs are present."
-    ],
-    "result": "Satellite (Echo II)",
+    "main event": "Observers at Kirtland AFB witnessed a star-like object traveling toward the SSE for 3-4 minutes.",
+    "interesting points": "The object appeared to gain altitude as it moved,Initially moving slowly, it then picked up speed,The object veered to the left and right before returning to its original position,Investigators concluded it was the Echo II satellite,The sighting occurred on July 12, 1966 around 0432.",
     "sighted object": "a star-like object",
-    "location": "Kirtland AFB, New Mexico",
-    "witnesses": "Military observers",
-    "photographs": "No"
+    "location": "Kirtland AFB, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "military observers",
+    "contains photographs": false
 }

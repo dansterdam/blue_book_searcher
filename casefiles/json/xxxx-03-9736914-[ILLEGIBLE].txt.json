@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a saucer-shaped UFO with a red rim and white flashing lights hovering about 40 feet off the ground.",
-    "interesting points": [
-        "The UFO was observed hovering and moving back and forth slowly.",
-        "The UFO was approximately 4 feet in size and was observed at a distance of about 62 feet.",
-        "The UFO made no sound and had a red rim with white flashing lights on top.",
-        "The witness was unable to estimate the speed of the object but believed it could hover and move rapidly.",
-        "The UFO was observed moving in front of three trees before disappearing from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "saucer-shaped UFO with red rim and white flashing lights",
-    "location": "Kinnelon, New Jersey",
-    "witnesses": "witness and their mother",
-    "photographs": "no photographs present"
+    "main event": "A witness observed a saucer-shaped object with a bright, star-like appearance on March 2, 1959, in Kinnelon, New Jersey.",
+    "interesting points": "The object was described as having a red rim with white flashing lights on top,The sighting lasted for about 5 seconds,The object moved behind three trees and in front of another object,The witness reported that the object had no sound, and it appeared to be hovering at a height of about 20 feet,The witness has a background in astronomy and has often looked at stars and moons.",
+    "sighted object": "saucer-shaped object with a red rim and white lights",
+    "location": "Kinnelon, New Jersey, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "male, 40 years old, interested in astronomy",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian spotted a single unidentified object over Kettering, Ohio on March 30, 1966.",
-    "interesting points": [
-        "The object was observed for 10 minutes, moving in a zig-zag pattern from south to north.",
-        "The object appeared as a transparent balloon with a bright star.",
-        "The sighting was reported to the U.S. Air Force's Project Blue Book.",
-        "Project Blue Book requested the witness complete a detailed questionnaire to provide more information about the observation.",
-        "Project Blue Book concluded the object was likely a satellite (Pegasus II)."
-    ],
-    "result": "Satellite (Pegasus II)",
-    "sighted object": "a transparent balloon-like object with a bright star",
-    "location": "Kettering, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On 30 March 1966, a witness observed an unidentified object in Kettering, Ohio, which appeared to be moving rapidly across the sky.",
+    "interesting points": "The object was reported to be as bright as a star and fading,The object was observed for a total of 10-15 minutes,It moved in a zig-zag motion,The object was identified in the report as a satellite (PEGASUS II),No photographic evidence was present in the report.",
+    "sighted object": "one bright object moving in the sky",
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness stated they were outdoors and observed the object under bright daylight conditions.",
+    "contains photographs": false
 }

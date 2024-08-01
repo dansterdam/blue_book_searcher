@@ -1,15 +1,9 @@
 {
-    "main event": "A radar operator observed multiple unidentified objects in the sky near Point Arena, California on November 4, 1956.",
-    "interesting points": [
-        "The objects were observed by radar and visually, and were described as scattered at an altitude of approximately 2,000 feet.",
-        "The objects were seen to be varying in altitude, mostly descending, and appeared white with an arc of light.",
-        "The objects were tracked by both FAA search radar and coastal installations, but their destination could not be determined.",
-        "The report concludes that the objects were possibly a balloon or satellite, but their exact nature remained unexplained.",
-        "The sighting lasted for 89 minutes, indicating the objects were present in the sky for an extended period of time."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified objects in the sky",
-    "location": "Point Arena, California",
-    "witnesses": "radar operator",
-    "photographs": "none"
+    "main event": "An object was observed in Point Arena, California for 89 minutes on 4 November 1956.",
+    "interesting points": "The object was slightly larger than a star and moved slowly in a southerly direction., The sighting lasted for 89 minutes., The report suggested multiple possible identifications for the object including a balloon, satellite, aircraft, or meteor., Observations indicated that winds and duration likely suggested the object was caused by a satellite or orbiting vehicle., No photographs were included in the report.",
+    "sighted object": "an unidentified object moving in the sky",
+    "location": "Point Arena, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

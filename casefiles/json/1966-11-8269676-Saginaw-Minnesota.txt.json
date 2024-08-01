@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness saw a group of bright lights, white, yellow, orange, and blue-white in color, that moved and changed direction rapidly over a rural area near Saginaw, Minnesota.",
-    "interesting points": [
-        "The lights were about 10-15 feet across and seemed to be almost touching the road.",
-        "The lights would abruptly vanish when the witness looked away.",
-        "The sighting lasted less than 5 minutes.",
-        "Many other people in the rural area west of Duluth, Minnesota have also reported seeing the lights in recent weeks.",
-        "The lights left no trace behind and did not melt the snow on the ground."
-    ],
-    "result": "unidentified",
-    "sighted object": "group of bright, flashing lights in various colors",
-    "location": "Saginaw, Minnesota",
-    "witnesses": "civilian driving on the road",
-    "photographs": "none"
+    "main event": "A civilian observed a group of lights in Saginaw, Minnesota on November 5, 1966.",
+    "interesting points": "The lights were described as white, yellow, orange, and blue in color,The lights moved rapidly and could vanish when looked away from, The observer noted the object was brighter than any star and larger than Venus, There was no physical evidence left behind by the lights, Many other people in the area reported similar sightings around the same time.",
+    "sighted object": "a group of bright lights",
+    "location": "Saginaw, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer driving home",
+    "contains photographs": false
 }

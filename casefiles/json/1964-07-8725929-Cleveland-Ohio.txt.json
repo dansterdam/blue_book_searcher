@@ -1,15 +1,9 @@
 {
-    "main event": "The report documents several UFO sightings in the Cleveland, Ohio area in 1964.",
-    "interesting points": [
-        "One sighting involved an object that was circular in shape and giving off a bright, pulsating light. It quickly accelerated and moved out of sight.",
-        "Another sighting described an object that was cigar-shaped, approximately 30 feet long and 10 feet wide, metallic in color, and moved at a high rate of speed before making a sharp right angle turn.",
-        "A third sighting was of a bright, white light that appeared larger than a star, remained stationary for about 15 minutes, then moved off at a high rate of speed.",
-        "The reports indicate that these sightings were made by mature, reliable observers, including someone associated with a known military activity.",
-        "The Air Force's Project Blue Book program investigated these sightings, but concluded there was 'insufficient data for evaluation' in most cases due to lack of details."
-    ],
-    "result": "inconclusive",
-    "sighted object": "circular, cigar-shaped, and bright white light objects",
-    "location": "Cleveland, Ohio",
-    "witnesses": "civilian observers, including someone associated with military activity",
-    "photographs": "none"
+    "main event": "A series of reports and letters regarding UFO sightings in Cleveland, Ohio, during July 1964.",
+    "interesting points": "The object was described as circular with a bright, pulsating light,The observer stated the object accelerated and moved out of sight rapidly,Other reports included sightings of a bright white light larger than a star,These letters indicate a lack of evidence leading to insufficient information for UFO categorization,Several witnesses were involved, but details on their descriptions were not provided.",
+    "sighted object": "circular object emitting pulsating light; bright white light",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A mature and reliable observer associated with military activity.",
+    "contains photographs": false
 }

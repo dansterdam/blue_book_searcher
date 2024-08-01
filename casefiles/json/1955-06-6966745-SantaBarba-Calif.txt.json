@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver, oblong object was observed in the sky over Santa Barbara, California on June 21, 1955.",
-    "interesting points": [
-        "The object was observed for 10 minutes and was still in sight when reported.",
-        "The object was silent and reflected sunlight.",
-        "The sighting was confirmed as a balloon observation.",
-        "The report form indicates the sighting was a 'Ground-Visual' type of observation.",
-        "The report was submitted in accordance with Air Force Regulation 200-2, paragraph 7d."
-    ],
-    "result": "confirmed balloon",
-    "sighted object": "silver, oblong object",
-    "location": "Santa Barbara, California",
-    "witnesses": "Mr. Stanley Guthrie, a public accountant",
-    "photographs": "no"
+    "main event": "A UFO sighting of an oblong silver object was reported in Santa Barbara, California on June 21, 1955.",
+    "interesting points": "The observation lasted for 10 minutes,The object was still in sight when reported,The sun was shining on the object,The sighting was confirmed as a balloon observation,The report included notes from the Intelligence Officer Guy Renfroe.",
+    "sighted object": "oblong silver object in the sky",
+    "location": "Santa Barba, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Stanley Guthrie, a public accountant",
+    "contains photographs": false
 }

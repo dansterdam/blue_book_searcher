@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the report:
-
 {
-    "main event": "Radar detections of an unidentified high-speed airborne target near the ship Guadalupe in the Far East in 1951.",
-    "interesting points": [
-        "The radar target was detected making multiple passes on the ship Guadalupe and the aircraft the observers were on.",
-        "The radar target was calculated to be traveling at a speed of approximately 3,000 mph.",
-        "The radar target blips on the scope were elongated, indicating the target was moving at a high rate of speed.",
-        "The radar target appeared to originate from directly overhead and only appeared on the scope when it was within range.",
-        "No other radar targets were detected in the area at the time, and the radar was functioning normally."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified high-speed airborne radar target",
-    "location": "Far East, 36 deg 40 N, 130 deg 50 E",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "main event": "An unidentified object was tracked by radar over a naval vessel in the Far East on January 25, 1951.",
+    "interesting points": "The object was observed using radar only, with no visual sightings confirmed,Observations indicated a speed of approximately 3000 mph,The radar blip elongated when the target approached.,Radar anomalies may have been due to interference and weather conditions,The sighting lasted for approximately 15 minutes.",
+    "sighted object": "unidentified airborne object",
+    "location": "Unknown, Far East",
+    "number of confirmed witnesses": 1,
+    "witness description": "Radar operators and squadron electronics personnel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright light was sighted in the sky over Tel Aviv, Israel that seemed to glow and grow larger.",
-    "interesting points": [
-        "The light was stationary and did not appear to move.",
-        "The sighting lasted for approximately one minute.",
-        "The report states that the sighting was likely not a satellite, meteor, or weather balloon, but a valid conclusion could not be made.",
-        "The report was submitted as a possible atmospheric satellite observation.",
-        "The sighting occurred on July 2, 1960."
-    ],
-    "result": "unexplained",
+    "main event": "A couple sighted a bright light in the sky over Tel Aviv, Israel, on July 2, 1960.",
+    "interesting points": "The light appeared to glow and grow larger, The sighting lasted approximately one minute, There was no sound associated with the light, The report was classified as a possible satellite observation, The evaluation ruled out several potential explanations including meteors and aircraft.",
     "sighted object": "a bright, stationary light in the sky",
     "location": "Tel Aviv, Israel",
-    "witnesses": "US Naval Attache and his wife",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "US Naval Attaché and his wife",
+    "contains photographs": false
 }

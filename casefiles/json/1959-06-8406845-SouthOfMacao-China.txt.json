@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "Military aircraft crews sighted several unidentified spherical objects in the South China Sea on multiple occasions in 1959.",
-    "interesting points": [
-        "The objects were observed in pairs, spaced about 15 miles apart, and were estimated to be 25-30 feet in diameter.",
-        "The objects appeared to be airborne at altitudes between 2,000 and 5,000 feet, with no visible wake or exhaust.",
-        "One pair of the objects was observed to move closer together as the aircraft approached.",
-        "Radar signals were detected in the vicinity of the objects, with the signals continuing for about 25 minutes after the aircraft departed the area.",
-        "The reporting officers stated that the crews were well-experienced and unable to provide a definitive identification of the objects."
-    ],
-    "result": "unknown",
-    "sighted object": "eight spherical objects in four pairs",
-    "location": "South of Macao, China",
-    "witnesses": "military aircraft crews",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Military aircraft observed eight spherical objects in pairs over the South China Sea on June 21, 1959, for approximately 6-8 minutes.",
+    "interesting points": "The objects were described as dark in color and about 25 feet in diameter,Three pairs of objects were seen flying about 15 nautical miles apart,No wake was visible and a ship was sighted 3-5 nautical miles from the nearest pair of objects,Signals were received indicating potential radar activity from the objects,The conclusion suggests objects could possibly be fishing crafts, submarine activity, or giant manta rays.",
+    "sighted object": "eight spherical objects in formation",
+    "location": "Macao, China",
+    "number of confirmed witnesses": 6,
+    "witness description": "military personnel from an aircraft",
+    "contains photographs": false
 }

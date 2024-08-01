@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A civilian witness spotted a white and blue object, the size of a pumpkin, that seemed to land on Lake Superior in Grand Maria, Minnesota.",
-    "interesting points": [
-        "The object was observed for 3-4 seconds during dusk on February 18, 1956.",
-        "The witness, Lila Hall, was a ground observer whose reliability was described as 'excellent'.",
-        "The investigators considered the possibility that the object could have been a weather balloon, but concluded that the color and duration of the sighting indicated it was most likely an astronomical meteor.",
-        "The report mentions that weather balloons were in the area at the time of the sighting.",
-        "The report notes that there was 'insufficient data for evaluation', indicating the sighting could not be definitively explained."
-    ],
-    "result": "unknown",
-    "sighted object": "a white and blue object, the size of a pumpkin",
-    "location": "Grand Maria, Minnesota",
-    "witnesses": "a civilian ground observer named Lila Hall",
-    "photographs": "no"
+    "main event": "A UFO sighting occurred on 18 February 1956 in Grand Maria, Minnesota, involving an object that appeared to land in Lake Superior.",
+    "interesting points": "The observed object was described as being the size of a pumpkin and colored white and blue., The duration of the sighting was approximately 3.4 seconds., The initial conclusions suggested potential associations with weather balloons and an astronomical meteor., Investigators deemed the color and duration indicative of a possible meteor sighting., There were no photographs included with the report.",
+    "sighted object": "an object the size of a pumpkin, white and blue in color",
+    "location": "Grand Maria, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

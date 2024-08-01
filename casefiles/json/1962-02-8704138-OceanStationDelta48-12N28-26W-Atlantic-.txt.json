@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "Observers aboard the SS American Shipper spotted an extremely bright object with a long, bright tail moving across the sky at Ocean Station Delta in the Atlantic Ocean on February 2, 1962.",
-    "interesting points": [
-        "The object was visible for 6-7 seconds, traveling through a 90-degree arc of azimuth.",
-        "The object was visible through a thin layer of stratocumulus clouds.",
-        "The object gradually diminished in brightness and disappeared at an elevation of 5 degrees above the horizon.",
-        "The observers reported the object after previously observing an ECHO I satellite passing overhead.",
-        "The report concluded that the sighting was likely a meteor, as there was nothing to indicate the object was anything else."
-    ],
-    "result": "Meteor",
-    "sighted object": "Extremely bright object with a long, bright tail",
+    "main event": "A UFO sighting occurred at Ocean Station Delta, where an extremely bright object with a long tail was observed, initially thought to be a meteor sighting.",
+    "interesting points": "The sighting lasted for 6-7 seconds,The object was extremely bright and had a long tail,The object was observed through a thin layer of strato cumulus clouds,Multiple reports were compiled across different messages concerning the sighting,The trajectory of the object diminished in brightness before disappearing.",
+    "sighted object": "extremely bright object with a long tail",
     "location": "Ocean Station Delta, Atlantic Ocean",
-    "witnesses": "Captain WA Woodman and Second Officer HW Schonn of the SS American Shipper",
-    "photographs": "No"
+    "number of confirmed witnesses": 2,
+    "witness description": "Captain WA Woodman and Second Officer HW Schonn",
+    "contains photographs": false
 }

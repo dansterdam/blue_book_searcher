@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A long, cigar-shaped object was observed near Belle Glade, Florida on May 18, 1958.",
-    "interesting points": [
-        "The object changed color from dull orange to glaring white as it changed direction.",
-        "The object made a broad roar to a high-pitched whine when it turned.",
-        "The object had a spotlight at the front, and when it turned vertical, it was triangle-shaped.",
-        "When the spotlight was trained on the object, it went into a steep climb and disappeared.",
-        "The object's flight path was described as unsteady."
-    ],
-    "result": "Unknown",
-    "sighted object": "a long, cigar-shaped object",
-    "location": "23 miles southeast of Belle Glade, Florida",
-    "witnesses": "a civilian viewer and someone using a scope",
-    "photographs": "yes, the report indicates photos were taken"
+    "main event": "A truck driver observed a long, cigar-shaped object that changed color and direction over Belle Glade, Florida.",
+    "interesting points": "The object was the size of a basketball and emitted a dull orange to glaring white light as it changed direction., The object produced a broad roar to a high-pitched whine when it turned., When spotlighted, the object went into a steep climb and disappeared., The sighting lasted for about 3 minutes., The object appeared triangular when turned vertical.",
+    "sighted object": "one long, cigar-shaped object",
+    "location": "Belle Glade, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "truck driver and one other person",
+    "contains photographs": false
 }

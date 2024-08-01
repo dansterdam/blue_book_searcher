@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar observation of a bright, fast-moving object with no trail or exhaust that appeared to be metallic or glowing in 1960.",
-    "interesting points": [
-        "The object was initially observed to be very bright, like molten metal or glowing, and moving at a tremendous rate of speed.",
-        "The object had two small protrusions or extensions at each side and was high above the terrain when first observed.",
-        "The object drifted very slowly for about 20 minutes, then turned south and disappeared at a tremendous speed.",
-        "The report includes observations from a commercial airline flight (TransCanada Flight 307) in the same area.",
-        "The report concludes that the object was possibly a balloon or jet/craft, but that there was insufficient data for a full evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright, metallic or glowing object with small protrusions",
-    "location": "Near Peck, Michigan",
-    "witnesses": "Radar observation and commercial airline pilots",
-    "photographs": "No photographs included in the report"
+    "main event": "A radar observation of a bright object over Peck, Michigan, with characteristics resembling a large star.",
+    "interesting points": "The object was observed to have a bright appearance similar to molten metal., It was reported to have two small protrusions or extensions on each side., No exhaust trail or sound was detected during the observation., The sighting lasted approximately 20 minutes before the object disappeared at high speed., The observer was a pilot from TransCanada Airlines, who is described as very reliable.",
+    "sighted object": "a bright object resembling a large star",
+    "location": "Peck, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a reliable pilot from TransCanada Airlines",
+    "contains photographs": false
 }

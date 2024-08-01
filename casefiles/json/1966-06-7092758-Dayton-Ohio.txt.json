@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the summary in the requested JSON format:
-
 {
-    "main event": "A civilian observed a black object with a fiery exhaust moving very fast and traveling southwest in Dayton, Ohio.",
-    "interesting points": [
-        "The object was in view for about 5-10 minutes before disappearing.",
-        "The observer described the object as a black dot with a fiery exhaust.",
-        "The report includes a hand-drawn sketch showing the object's motion and trajectory.",
-        "Another civilian report describes seeing a light object traveling northeast to southwest in the Dayton area around the same time.",
-        "The report includes a questionnaire with detailed questions about the observer's sighting, including the object's appearance, motion, and the observer's location and activities."
-    ],
-    "result": "unexplained",
-    "sighted object": "black object with fiery exhaust",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a black object with a fiery exhaust moving rapidly in the southwestern direction over Dayton, Ohio, on June 16, 1966.",
+    "interesting points": "The object was in view for about 2-10 minutes, The observer described it as having a fiery exhaust and moving very fast, Multiple entries in the report mention sightings with varying details, The witness's previous experience of seeing a similar object was noted, The report suggested that the object could have been mistaken for a satellite or military aircraft.",
+    "sighted object": "a black object with fiery exhaust",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, 56 years old, Male",
+    "contains photographs": false
 }

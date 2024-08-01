@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Two separate sightings were reported - one of an oval-shaped object and another of a flare.",
-    "interesting points": [
-        "The first object was described as a motorbike-like vehicle that was widely separated.",
-        "The first object was sighted at 50-00N 138-30W and was moving from SSE to NNW.",
-        "The second sighting was of a green flare that was spotted at 29 deg 12 min North, 144 deg 16 min West.",
-        "The flare was observed for about 3 seconds and seemed to come from the west at the 10 o'clock position.",
-        "The flare was evaluated as a possible meteor, and the two sightings were considered separate events."
-    ],
-    "result": "Unidentified, There was insufficient data for evaluation.",
-    "sighted object": "An oval-shaped object and a green flare",
-    "location": "Pacific, 50-00N 138-30W and 29 deg 12 min North, 144 deg 16 min West",
-    "witnesses": "Not specified",
-    "photographs": "No photographs present in the image"
+    "main event": "A witness reported seeing an unidentified oval-shaped object described as a motorbike-like vehicle on February 27, 1962.",
+    "interesting points": "The sighting was recorded with specific coordinates indicating the object was at sea., The object was observed for an unspecified duration., The course of the object was determined to be SSE-NNW., Witnesses noted the object was separated from others., The report concluded that there was insufficient data for a definitive evaluation.",
+    "sighted object": "oval-shaped object resembling a motorbike",
+    "location": "Pacific, 50-00N 138-30W",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness described the object as a motorbike-like vehicle.",
+    "contains photographs": false
 }

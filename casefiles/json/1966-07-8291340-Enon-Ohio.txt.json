@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A bright spot of luminous yellow-white light was observed moving slightly on a course from north to south or southwest over Enon, Ohio in July 1966.",
-    "interesting points": [
-        "The object was first observed over the roof of a house in a small town at an elevation of 10 degrees, and when last seen five minutes later, it had reached an elevation of 30 degrees before disappearing.",
-        "The object made a 'sort of hovering and darting motion' before disappearing in a 'small round ball'.",
-        "Multiple witnesses, including Mr. M. and his wife and a friend, observed the object.",
-        "The sky conditions were clear with no precipitation, fog, or clouds, and there was no moon but stars were visible.",
-        "The observer could not determine the size of the object, but described it as a 'bright spot' of luminous yellow-white light."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "A bright spot of luminous yellow-white light was observed in Enon, Ohio on July 17, 1966, for a duration of five minutes.",
+    "interesting points": "The object was seen moving slightly up and down and traveled a significant distance before disappearing., The sky condition was clear with good visibility and no precipitation., The observer reported seeing the object over the roof of a house at an initial elevation of 10°., The conclusion of the analysis was deemed insufficient data for evaluation., There were multiple witnesses including the observer's wife and a friend.",
     "sighted object": "bright spot of luminous yellow-white light",
-    "location": "Enon, Ohio",
-    "witnesses": "Mr. M. and his wife and a friend",
-    "photographs": "no"
+    "location": "Enon, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mr. M., his wife, and a friend",
+    "contains photographs": false
 }

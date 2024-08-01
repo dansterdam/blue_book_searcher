@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A radar tracked an erratic, zigzagging object that stayed in sight for about 45 seconds, then disappeared and reappeared, remaining stationary for 1-1/2 minutes before accelerating downward and disappearing again.",
-    "interesting points": [
-        "The object had the same size as a star and moved erratically with a zigzag pattern.",
-        "The object stayed in sight for about 45 seconds, then disappeared, reappeared and remained stationary for about 1-1/2 minutes, and then accelerated in a downward diagonal path and disappeared.",
-        "No sound was heard and no other aircraft were observed.",
-        "The operating radar system made several sweeps but did not pick up the object.",
-        "Similar objects had been sighted in the area before."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single, erratic, zigzagging object",
-    "location": "Seattle, Washington",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed moving erratically in Seattle, Washington on September 17, 1963.",
+    "interesting points": "The object was described as the same size as a star and moved in a zigzag pattern., The object remained in sight for about 45 seconds before disappearing, then reappeared and remained stationary for about 1.5 minutes., When it accelerated, it took a downward diagonal path., The observation was made using a ground radar system which did not detect the object., There were no sounds heard and no other aircraft were observed in the vicinity.",
+    "sighted object": "One unidentified flying object",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An adult who observed the object moving erratically.",
+    "contains photographs": false
 }

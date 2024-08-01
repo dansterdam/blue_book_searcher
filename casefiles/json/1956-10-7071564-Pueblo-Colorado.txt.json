@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A red light about 1 inch in diameter and 1.5 miles long was observed moving from south to north at a maximum speed of 180 degrees per second in Pueblo, Colorado on October 6, 1956.",
-    "interesting points": [
-        "The object was observed visually for 1.5 minutes.",
-        "The report includes a second sighting of two brilliant white objects moving rapidly across the sky in Pueblo, Colorado on October 7, 1956.",
-        "The second sighting lasted for approximately 20-30 seconds before the objects disappeared.",
-        "The second sighting was concluded to be probably astronomical.",
-        "The reports contain information on other unidentified flying objects observed in the Pueblo, Colorado area around the same time period."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red light about 1 inch in diameter and 1.5 miles long, and two brilliant white objects",
-    "location": "Pueblo, Colorado",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A red light approximately 1 inch in diameter and 1 and 1/2 miles in length was observed moving from south to north at a speed of 180 degrees per second in Pueblo, Colorado on October 6, 1956.",
+    "interesting points": "The object was visible for about 1 and 1/2 minutes,The object moved in a straight line without variation,The sighting was concluded as an aircraft or astronomical phenomenon,The observers were unable to classify the object definitively,The report is part of Project Blue Book documenting UFO sightings.",
+    "sighted object": "a red light",
+    "location": "Pueblo, Colorado, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

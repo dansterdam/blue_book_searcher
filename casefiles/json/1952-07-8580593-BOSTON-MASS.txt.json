@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple unidentified objects were observed over Port Washington, New York on June 20, 1952.",
-    "interesting points": [
-        "The objects were described as elliptical in shape and metallic in appearance.",
-        "The objects executed various maneuvers such as hovering, rapid acceleration, and abrupt changes in direction.",
-        "No further details or evidence, such as photographs, were included in this report.",
-        "Several individuals observed the objects over the course of the evening.",
-        "The report does not provide any conclusions about the nature of the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple elliptical, metallic objects",
-    "location": "Port Washington, New York",
-    "witnesses": "several individuals",
-    "photographs": "no"
+    "main event": "Several individuals reported sightings of unidentified flying objects in the sky over Port Washington, New York, on the evening of June 20, 1952. The objects were described as elliptical, metallic, and exhibiting maneuvers such as hovering and rapid acceleration.",
+    "interesting points": "The objects were described as having a dull grayish-white color,Contrary to typical UFO reports, these objects made no sound,Three reports were attached from Weather Bureau stations regarding similar sightings,The witnesses included mature and responsible individuals with no history of fantasy or undue excitement,Observations noted included the objects making abrupt changes in direction and altitude.",
+    "sighted object": "multiple unidentified flying objects",
+    "location": "Port Washington, New York, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "mature and responsible individuals who reported unusual aerial phenomena",
+    "contains photographs": false
 }

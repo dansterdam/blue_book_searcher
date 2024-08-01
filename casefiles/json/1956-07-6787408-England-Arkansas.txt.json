@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A reddish-glowing, oval-shaped object was observed in the sky over England, Arkansas on July 23, 1956.",
-    "interesting points": [
-        "The object changed shape from oval to round and back.",
-        "The object was stationary in the air for a long time.",
-        "The object had a red light on top and a reddish glow on the bottom.",
-        "The object's speed was estimated to be between 700-1,000 knots.",
-        "The object disappeared and reappeared 3 times during the observation."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A reddish-glowing, oval-shaped object",
-    "location": "England, Arkansas",
-    "witnesses": "Civilian observer",
-    "photographs": "No photographs present in the report"
+    "main event": "A civilian reported a UFO sighting of a round, reddish glow that changed shape and was stationary in the air for a long duration.",
+    "interesting points": "The object had a speed of 700-1,000 knots., It disappeared and reappeared three times., The sighting lasted for one hour., The object emitted a reddish glow with a red light on top., The conclusions suggested it could be a balloon, aircraft, or insufficient data for evaluation.",
+    "sighted object": "round reddish glow",
+    "location": "England, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A large, glowing, multicolored object similar to a 'rainbow' in color and bright was observed traveling in a southerly direction for five and a half hours in Van Dyke, Michigan.",
-    "interesting points": [
-        "The object was observed for a long duration of five and a half hours.",
-        "The object was described as large, glowing, and multicolored, similar to a 'rainbow' in appearance.",
-        "The object was traveling in a southerly direction.",
-        "The planet Mars was in the area at the time of the sighting, and inversion layers were also present, which may have contributed to the sighting.",
-        "The report concludes that the sighting was an unidentified flying object."
-    ],
-    "result": "unknown",
+    "main event": "A large, glowing, multicolored object was observed in Van Dyke, Michigan, on August 1, 1956.",
+    "interesting points": "The object was described as similar to a rainbow in color and very bright., The observation lasted five hours and thirty minutes., The object traveled in a southerly direction before fading out of sight., The sighting was supported by ground radar and air visual sources., Astronomical explanations such as Mars and inversion layers were considered as possible reasons for the sighting.",
     "sighted object": "a large, glowing, multicolored object",
-    "location": "Van Dyke, Michigan",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Van Dyke, Michigan, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian source",
+    "contains photographs": false
 }

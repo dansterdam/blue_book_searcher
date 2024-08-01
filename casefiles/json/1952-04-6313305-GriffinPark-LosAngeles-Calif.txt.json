@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified objects were seen in the sky near Griffith Park Planetarium in Los Angeles, California on April 20, 1952.",
-    "interesting points": [
-        "The witness, a local business owner, submitted photographs he had taken of the objects, but the photos were found to have water spots that may have caused the objects to appear in the images.",
-        "The witness believed the objects were real and requested a technical analysis of the photographs.",
-        "The photographs were taken about 15-20 seconds apart from the Griffith Park Planetarium, looking towards the west-southwest.",
-        "The exposure time for the photos was 1/25th second at f5.6, using a Kodak Model 35 camera.",
-        "Other witnesses who were present at the time did not remember seeing anything in the sky, as they were focused on the scenery rather than looking upwards."
-    ],
-    "result": "Unknown/Inconclusive",
-    "sighted object": "Unidentified objects in the sky",
-    "location": "Griffith Park, Los Angeles, California",
-    "witnesses": "Local business owner and his companions",
-    "photographs": "Yes, but the photographs were found to have water spots that may have caused the objects to appear in the images"
+    "main event": "On April 20, 1952, an individual reported seeing unidentified objects in the sky while taking photographs at Griffith Park Planetarium in Los Angeles, California.",
+    "interesting points": "The photographs taken were believed to show unusual scenes, which might have imperfections due to the developing process,The sighting occurred about an hour after sunset,Mr. ********* submitted the photographs due to recent media interest in flying saucers,He was accompanied by other individuals who were more focused on the scenery than the sky at the time,The photos were taken on a Kodak camera 15 to 20 seconds apart.",
+    "sighted object": "unidentified objects in the sky",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Mr. ********* and his wife, along with another couple visiting from Wichita, Kansas",
+    "contains photographs": false
 }

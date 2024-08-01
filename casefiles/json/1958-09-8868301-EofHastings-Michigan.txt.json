@@ -1,15 +1,9 @@
 {
-    "main event": "Two round objects were observed on radar and through binoculars, appearing yellowish-red in color, moving back and forth before disappearing.",
-    "interesting points": [
-        "The objects were observed moving in a zigzag pattern.",
-        "The objects were viewed through binoculars, providing a closer look at their appearance.",
-        "The sighting lasted for approximately 15 minutes.",
-        "The report includes input from a Colonel who observed a very bright, luminous object hovering in the east and maneuvering before disappearing.",
-        "The report mentions that the Chicago and Detroit air traffic centers were checked for any aircraft in the area, but no reports were found."
-    ],
-    "result": "Probable Meteors",
+    "main event": "Two round objects were observed flying and appearing yellowish-red while moving back and forth before disappearing.",
+    "interesting points": "The objects were observed using binoculars, The sighting occurred at night around 2030, The objects moved in a zigzag pattern, A military report indicated a bright luminous object hovering for about 15 minutes, The report concluded that the objects were probably meteors.",
     "sighted object": "two round objects",
-    "location": "5 miles east of Hastings, Michigan",
-    "witnesses": "Ground-Radar",
-    "photographs": "no"
+    "location": "Hastings, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A military officer who was checking weather instruments",
+    "contains photographs": false
 }

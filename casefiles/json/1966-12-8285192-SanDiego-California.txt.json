@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Several unidentified flying objects were sighted over the Pacific Ocean near San Diego, California in December 1966.",
-    "interesting points": [
-        "The objects were described as bright orange in color, flickering and dropping flaming material, consistent with dry cleaning bags used to cover clothing.",
-        "One witness, a senior mechanical engineer and member of the National Investigation Committee on Aerial Phenomena (NICAP), did not support the theory that the objects were just plastic bags or debris.",
-        "The objects were observed to make sudden changes in direction, stop and hold position, and then accelerate and disappear.",
-        "The objects were sighted by several military personnel, including a fleet replacement pilot and two other pilots.",
-        "An extensive article about the sightings was published in the San Diego Tribune on December 17, 1966."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright orange, flickering objects in the sky",
-    "location": "San Diego, California",
-    "witnesses": "military personnel, including pilots and a civilian engineer",
-    "photographs": "none"
+    "main event": "Multiple unidentified flying objects were reported in San Diego, California, during December 1966.",
+    "interesting points": "The objects had red and green lights and were observed for approximately nine minutes,The reports included sightings from various individuals including military personnel and a local engineer,One witness described the objects as brilliant orange in color and flickering while dropping flaming material,The conclusion of the investigation deemed the sightings to be a hoax connected to debris,There was no photograph present in the reports.",
+    "sighted object": "unidentified flying objects",
+    "location": "San Diego, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "military personnel and a senior mechanical engineer",
+    "contains photographs": false
 }

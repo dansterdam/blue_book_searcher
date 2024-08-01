@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A circular, flat, white and glowing object was observed moving straight and descending for 15 minutes before fading in the horizon in February 1957.",
-  "interesting points": [
-    "The object was observed at a high altitude, preparing for descent or atmospheric air activity in the area.",
-    "Another sighting reported a bright light in the sky over Springfield, Massachusetts on August 3, 1957, possibly related to a military air exercise.",
-    "Several visual sightings of UFOs in flight were witnessed by many people in Springfield, Massachusetts in the 1950s.",
-    "One sighting on April 22, 1956 described a circular object 18-20 feet in size, observed at a distance of 0-30 feet.",
-    "The reports indicate extensive air activity in the Springfield area, which could have been related to the UFO sightings."
-  ],
-  "result": "unexplained",
-  "sighted object": "circular, flat, white and glowing object",
-  "location": "Springfield, Massachusetts",
-  "witnesses": "multiple civilian and military observers",
-  "photographs": "no"
+    "main event": "A sighting of a circular, flat, white and glowing object observed in Springfield, Massachusetts in February 1957.",
+    "interesting points": "The object was observed for 15 minutes moving straight and descending,The sighting occurred at 10:30 PM local time,The observer reported that it could not be a meteor due to the length of observation,If moving rapidly and erratically, it could be a jet or balloon,The analysis noted high altitude activity in the area.",
+    "sighted object": "circular, flat, white and glowing object",
+    "location": "Springfield, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness observed the object at high altitude.",
+    "contains photographs": false
 }

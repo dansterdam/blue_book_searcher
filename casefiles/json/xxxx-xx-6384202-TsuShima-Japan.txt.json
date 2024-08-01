@@ -1,15 +1,9 @@
 {
-    "main event": "A red-orange, round object was observed pulsating and disappearing over the horizon near Tsu Shima, Japan.",
-    "interesting points": [
-        "The object was described as red-orange in color and round in shape.",
-        "The object seemed to pulsate from deep red to light orange before disappearing over the horizon.",
-        "The object was observed for approximately 10 minutes by military personnel using visual observation and binoculars.",
-        "The object was tracked on radar and witnessed by several observers.",
-        "The reporting officer evaluated the object as likely being the planet Mars due to its location and behavior."
-    ],
-    "result": "Likely identified as the planet Mars",
-    "sighted object": "Red-orange, round object",
+    "main event": "A military observer in Tsu Shima, Japan, witnessed a deep red, round object that pulsated from deep red to light orange for approximately 10 minutes.",
+    "interesting points": "The object was seen at 240° azimuth and 10° above the horizon., It changed colors from deep red to light orange., The object disappeared over the horizon after 10 minutes., The observer evaluated the object, suggesting it may have been Mars., No photographs were present in the report document.",
+    "sighted object": "a deep red round object",
     "location": "Tsu Shima, Japan",
-    "witnesses": "Military personnel",
-    "photographs": "No photographs present in the document"
+    "number of confirmed witnesses": 1,
+    "witness description": "military observer",
+    "contains photographs": false
 }

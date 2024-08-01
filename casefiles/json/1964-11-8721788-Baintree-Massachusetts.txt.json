@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Youths observed a flying saucer and its occupants that traveled faster than any jet in the sky.",
-    "interesting points": [
-        "The object was observed by witnesses, but the report does not provide details on the specific number of witnesses or their descriptions.",
-        "The object was described as a 'flying saucer' that moved at a fantastic speed, faster than any jet in the sky.",
-        "The report mentions that the object might have been a meteor, but the witnesses believed it was not due to its incredible speed.",
-        "The report indicates that the Air Force has been withholding information about UFOs, and the witnesses pledge to work to eliminate any secrecy regarding UFOs.",
-        "The report includes a letter from the Air Force stating that it does not withhold or censor information about UFO sightings, and offering the witness a form to report the sighting."
-    ],
-    "result": "insufficient data",
+    "main event": "Youths in Braintree, Massachusetts observed a flying saucer and its occupants, noting its fantastic speed.",
+    "interesting points": "The craft traveled faster than any jet in the sky., The group expressed belief that the object may have been a meteor if not for its speed., The organization NICAP accused the Air Force of withholding information about UFOs., A formal report to the Air Force using AF Form 164 was suggested for further submissions., The investigation was graded as 'INSUFFICIENT DATA' due to a lack of received reports.",
     "sighted object": "flying saucer",
-    "location": "Braintree, Massachusetts",
-    "witnesses": "youths",
-    "photographs": "no"
+    "location": "Braintree, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "youths observing the event",
+    "contains photographs": false
 }

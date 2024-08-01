@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Ground personnel in Adana, Turkey observed a fast-moving, orange-colored light in the sky on March 4, 1958.",
-    "interesting points": [
-        "The light appeared to be traveling west to east at a high altitude and high speed, similar to a jet fighter.",
-        "The light changed direction from west to east to southwest, and at one point appeared to hover for 3 minutes before moving off in a different direction.",
-        "No sound was associated with the light, and it was described as similar to a 'shooting star fighter'.",
-        "The report suggests the light could have been an overflying aircraft from the Soviet or Arab Bloc countries, as Adana is near the border with Syria.",
-        "The report notes that on dark nights, jet exhaust and condensation trails can appear motionless and soundless from a distance, which may explain the observed characteristics."
-    ],
-    "result": "likely a high-altitude jet aircraft",
-    "sighted object": "a fast-moving, orange-colored light in the sky",
+    "main event": "A light in the sky, believed to be a fast-moving jet, was observed in Adana, Turkey on March 14, 1958.",
+    "interesting points": "The light was observed moving rapidly in the sky at high altitudes without any sound,The object's trajectory included changes in direction, including a hover phase,The sighting lasted about 3-4 minutes and included two appearances,The observer described the light as orange and similar to a shooting star fighter,The report suggests that while the object was unidentified, it may have been a conventional aircraft like a jet.",
+    "sighted object": "light in the sky",
     "location": "Adana, Turkey",
-    "witnesses": "ground personnel",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "ground personnel of the detachment",
+    "contains photographs": false
 }

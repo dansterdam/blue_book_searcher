@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Large metallic white objects, allegedly landed in a field in Conde, Bahia, Brazil, making a hole in the ground. Close contact reported.",
-    "interesting points": [
-        "The objects were reported to be 'very large' and 'like a talking globe'.",
-        "The incident was initially reported in the press, but later investigation indicated the case was a fabrication without facts.",
-        "The local police was unable to find any evidence of the alleged landing and subsequent investigation.",
-        "The local authorities suggested the object might have been a weather balloon, but noted it did not have the typical lighting equipment.",
-        "No further details or opinions were reported in Rio de Janeiro or other press outlets."
-    ],
-    "result": "Inconclusive, likely fabricated",
+    "main event": "Large metallic white objects allegedly landed in a field in Conde, Bahia, Brazil.",
+    "interesting points": "The objects made a hole in the ground upon landing,Reported as close contact with the objects,Investigation indicated the sighting was a fabrication without factual basis,Press releases about the incident lacked confirmation from authorities,No definitive conclusion was reached regarding the nature of the objects.",
     "sighted object": "large metallic white objects",
     "location": "Conde, Bahia, Brazil",
-    "witnesses": "Unknown",
-    "photographs": "Yes, according to the report"
+    "number of confirmed witnesses": 0,
+    "witness description": "allegations of sightings and claims from press reports",
+    "contains photographs": false
 }

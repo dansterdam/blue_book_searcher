@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A cylindrical, bluish-white object the size of a match head was observed for 20-30 seconds over Calhoun, Louisiana.",
-    "interesting points": [
-        "The object was very brilliant and emitted a trace of green light when extinguished.",
-        "Small sparks or filaments of light were projected outward from the main trail of light.",
-        "The object followed a steady flight path from north to south with a downward trajectory.",
-        "The light from the object ended very suddenly, possibly accompanied by an explosion.",
-        "The absence of an orange light or tapered tail suggests the object was not a meteorite."
-    ],
-    "result": "unexplained",
+    "main event": "A geophysicist observed a cylindrical, bluish-white object while driving near Calhoun, Louisiana on October 13, 1958.",
+    "interesting points": "The object was the size of a match head and very brilliant, emitting a trace of green light when extinguished., Small sparks were projected in the main trail of light., The sighting lasted between 20 to 30 seconds., The object moved from north to south with a downward trajectory., Weather conditions were clear with no reported air traffic in the area at the time of the sighting.",
     "sighted object": "cylindrical, bluish-white object",
-    "location": "2 miles east of Calhoun, Louisiana",
-    "witnesses": "a geophysicist with Atlantic Refining Co.",
-    "photographs": "yes, the report mentions photographs were taken"
+    "location": "Calhoun, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 55-year-old geophysicist from Dallas, Texas",
+    "contains photographs": false
 }

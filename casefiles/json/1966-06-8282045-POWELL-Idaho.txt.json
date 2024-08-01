@@ -1,17 +1,9 @@
-Here is a summary of the key information from the UFO report in JSON format:
-
 {
-    "main event": "A witness observed a bright, glowing object in the sky near Powell, Idaho in June 1966.",
-    "interesting points": [
-        "The object was described as a steady, white light that appeared to be self-luminous.",
-        "The object suddenly accelerated and disappeared within seconds.",
-        "The witness tried to wake others to see the object, but it vanished before they could observe it.",
-        "There was a milky 'halo' or glow surrounding the light.",
-        "The witness was unable to identify the object as any known aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, glowing light in the sky",
-    "location": "Powell, Idaho",
-    "witnesses": "one witness",
-    "photographs": "none"
+    "main event": "On June 30, 1966, an observer reported seeing a bright, green light that pulsated and was visible for about 5 seconds from the ground.",
+    "interesting points": "The sighting lasted about 5 seconds,The object was described as a bright green light,Pulsating light was the primary characteristic reported,No photographs or physical evidence were collected,This incident has been recorded in Project Blue Book documents.",
+    "sighted object": "a bright green pulsating light",
+    "location": "Powell, Idaho, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was a civilian reporting the sighting.",
+    "contains photographs": false
 }

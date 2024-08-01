@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright object the size of a star was observed moving from northwest to southeast at high constant speed over Juneau, Alaska on May 10, 1961.",
-    "interesting points": [
-        "The object appeared to be in orbit and was observed for 10 minutes.",
-        "The object was tracked using 8-power Zeiss binoculars.",
-        "The object disappeared behind Mount Roberts at an elevation of 45 degrees on an azimuth of 142 degrees.",
-        "The sighting occurred at 2330 hours and the object was first observed lined up with the first two stars in the handle of the Big Dipper.",
-        "The weather was clear with calm surface conditions at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright object the size of a star",
-    "location": "Juneau, Alaska",
-    "witnesses": "a marine surveyor",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A bright object, believed to be in orbit, was observed moving at high constant speed from NW to SE in Juneau, Alaska on May 10, 1961.",
+    "interesting points": "The sighting lasted for approximately 10 minutes., The object appeared to be the size of a star., The observer used 8 power Zeiss binoculars for a closer look., Object disappeared over Mt. Roberts at an elevation of 45 degrees., The weather conditions were clear and calm at the time of the observation.",
+    "sighted object": "a bright object in orbit",
+    "location": "Juneau, Alaska, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 45-year-old marine surveyor observing from Glacier Highway",
+    "contains photographs": false
 }

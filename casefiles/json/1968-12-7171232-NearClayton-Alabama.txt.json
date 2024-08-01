@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer spotted an unidentified object near Clayton, Alabama on December 11, 1968.",
-    "interesting points": [
-        "The object was described as having a 'clear plastic except for a dark patch at one end' and 'what appeared to be a dark gondola underneath'.",
-        "The object appeared bigger than a normal weather balloon at high altitude and was observed to be rotating slowly when overhead.",
-        "The sighting lasted for approximately 1 hour and 20 minutes.",
-        "The observer was an experienced civilian with a maritime background, who felt compelled to report the unusual sighting.",
-        "Weather conditions at the time were clear with variable winds, which ruled out a typical weather balloon explanation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a clear plastic object with a dark patch and possible gondola underneath",
-    "location": "near Clayton, Alabama",
-    "witnesses": "a civilian observer",
-    "photographs": "yes, the report includes two photographs"
+    "main event": "An unidentified object described as clear plastic with a dark patch was observed near Clayton, Alabama.",
+    "interesting points": "The object was observed for 30 minutes,The observer described it as appearing larger than an ordinary weather balloon at high altitude,The object was reported to have a dark gondola underneath,The observation was made visually from the ground,The object was noted to have a rotating motion when directly overhead.",
+    "sighted object": "unidentified object resembling clear plastic with a dark patch",
+    "location": "Clayton, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, male, age 45, with maritime service background.",
+    "contains photographs": true
 }

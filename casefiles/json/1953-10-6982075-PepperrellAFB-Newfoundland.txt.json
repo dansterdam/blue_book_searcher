@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A glowing, triangular-shaped object was observed moving in small circles and hovering over Pepperrell Air Force Base in Newfoundland, Canada.",
-    "interesting points": [
-        "The object was reported to be approximately 20-25 feet wide, blue-white in color with orange shading.",
-        "The object was observed by multiple witnesses, including T/Sgt Pollica and two other persons.",
-        "The sighting was visually confirmed and also detected on radar.",
-        "The object remained mostly stationary, with only small circular movements noted.",
-        "The sighting lasted for approximately 30 seconds before the object disappeared into the light haze."
-    ],
-    "result": "unexplained",
-    "sighted object": "A glowing, triangular-shaped object",
-    "location": "Pepperrell A.F.B., Newfoundland",
-    "witnesses": "T/Sgt Pollica and two other persons",
-    "photographs": "No"
+    "main event": "A glowing object was observed over Pepperrell A.F.B., Newfoundland for approximately 12 minutes.",
+    "interesting points": "The object was reported to be moving in small circles,The object was described as having a triangular shape, blue-white in color, and approximately 20-25 feet wide,There was radar confirmation of the object,Two other persons had also observed a similar object one hour prior to the sighting,The conclusion was inconclusive regarding the nature of the object.",
+    "sighted object": "a glowing triangular object",
+    "location": "Pepperrell A.F.B., Newfoundland, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers appeared to be responsible and accurate reporters of the incident.",
+    "contains photographs": false
 }

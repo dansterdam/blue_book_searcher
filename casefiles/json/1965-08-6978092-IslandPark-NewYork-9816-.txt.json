@@ -1,15 +1,9 @@
 {
-    "main event": "Two photos of an unidentified aerial phenomenon were taken in Island Park, New York on August 23, 1965.",
-    "interesting points": [
-        "The photos show a bright, luminous object against a dark background.",
-        "The images are part of a Project Blue Book UFO report document.",
-        "The document is labeled as file 9816 from the Foreign Technology Division of the AFSC.",
-        "The text indicates that the report includes two photographs of the unidentified object.",
-        "No other details about the object or the sighting are provided in the given text."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, luminous object",
-    "location": "Island Park, New York",
-    "witnesses": "unknown",
-    "photographs": "yes, two photographs are included in the report"
+    "main event": "A UFO report with images from Project Blue Book, file 9816, dated August 23, 1965 in Island Park, New York.",
+    "interesting points": "The report contains 2 photographs documenting an unusual aerial phenomenon., The first photograph is described as a black-and-white image with bright spots against a dark background., The second photograph is an unclear bright, luminous shape against a dark background., The images do not depict human faces., The document is unclassified and from the Foreign Technology Division, AFSC.",
+    "sighted object": "unusual aerial phenomenon, possibly a UFO",
+    "location": "Island Park, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses specified in the document",
+    "contains photographs": true
 }

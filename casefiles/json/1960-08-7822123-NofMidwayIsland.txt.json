@@ -1,15 +1,9 @@
 {
-  "main event": "A bright, round object was sighted traveling from southwest to northeast at 02:59:32 on July 4, 1957.",
-  "interesting points": [
-    "The object was described as being as bright as a first magnitude star or brighter.",
-    "The object was sighted 1 degree above the northern horizon.",
-    "The object disappeared as sunlight flared up, between the coordinates 252:52 W and 251:40 E.",
-    "The sighting was reported by NICOLAS - CIRUIZ.",
-    "The report includes the specific time, location, and trajectory of the sighting."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright, round object",
-  "location": "Unknown",
-  "witnesses": "NICOLAS - CIRUIZ",
-  "photographs": "none"
+    "main event": "Unidentified flying object sighted by the U.S.S. Higbee on Midway Island.",
+    "interesting points": "The sighting occurred at 2330 on August 25, 1960, and lasted for approximately 10 minutes., The object appeared as a blinding white light and moved from NW to SE., It was reported to have a brightness similar to that of a first magnitude star., The object was evaluated as a possible communications balloon or satellite., The sighting was documented in a military report and a naval message.",
+    "sighted object": "blinding white light in the sky",
+    "location": "Midway Island, Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "crew members of the U.S.S. Higbee",
+    "contains photographs": false
 }

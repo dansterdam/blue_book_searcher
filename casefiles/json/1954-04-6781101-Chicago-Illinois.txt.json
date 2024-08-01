@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A woman observed a saucer-shaped object land and a small green man get out, walk around, and then climb back into the object before it took off.",
-    "interesting points": [
-        "The object was described as a saucer that landed, with a small green man exiting and then re-entering before the object took off.",
-        "The sighting lasted for approximately 5 minutes.",
-        "The object's course varied during the observation.",
-        "Two witnesses, a woman and her son, observed the event from the shore, and two Coast Guard members also responded to the area.",
-        "The object was described as having some structural features on the underside, including two narrow parallel bars."
-    ],
-    "result": "unexplained",
-    "sighted object": "a saucer-shaped unidentified flying object",
-    "location": "Chicago, Illinois",
-    "witnesses": "a woman and her son, with two Coast Guard members also responding",
-    "photographs": "no, the report states there were no photographs present"
+    "main event": "A woman observed a saucer land, a little green man got out, walked around, and climbed back into the saucer before it took off.",
+    "interesting points": "The sighting lasted for about 5 minutes, The observation was made from the ground, The UFO was described as a saucer, The event involved a little green man, The witness was identified as a civilian.",
+    "sighted object": "one unidentified flying saucer",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian woman who reported seeing the event.",
+    "contains photographs": false
 }

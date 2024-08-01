@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light was observed for approximately 12 minutes, changing colors from white to yellow to green. It appeared to be hovering a few thousand feet above the water and then began to move in a sinusoidal pattern, climbing and descending slightly, before accelerating and disappearing from view.",
-    "interesting points": [
-        "The object was clearly not a star, planet, or any other known astronomical body.",
-        "The motion and observed changes in color were characteristics not associated with conventional aircraft.",
-        "The object could not be conclusively identified, and the nature of the sighting remains unexplained.",
-        "The sighting occurred at 39,000+ miles north of Wallops Island, Virginia.",
-        "The object was observed by two witnesses, a Captain and a Counselor, who had clear visibility."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light that changed colors from white to yellow to green",
-    "location": "39,000+ miles north of Wallops Island, Virginia",
-    "witnesses": "a Captain and a Counselor",
-    "photographs": "no"
+    "main event": "A bright light was observed over water for approximately 12 minutes, changing colors from white to yellow to green.",
+    "interesting points": "The object hovered a few thousand feet above the water and exhibited a sinusoidal movement pattern,The light was not identified as a star, planet, or conventional aircraft,The sighting raised questions about the nature of unidentified flying objects,The duration of the observation was exactly 12 minutes,The object accelerated and disappeared from view at the end of the sighting.",
+    "sighted object": "a bright light changing colors",
+    "location": "north of Wallops Island, Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified in the report.",
+    "contains photographs": false
 }

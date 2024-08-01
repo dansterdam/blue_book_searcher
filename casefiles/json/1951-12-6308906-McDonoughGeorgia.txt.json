@@ -1,15 +1,9 @@
 {
-  "main event": "The report consists of multiple UFO sightings on different dates and at different locations, including McDonough, Georgia and Hastings, Minnesota.",
-  "interesting points": [
-    "The report includes a detailed description of an illuminated object observed hovering in the sky, emitting a reddish-orange glow, and accelerating before disappearing from sight.",
-    "One of the sightings described an object resembling a kite about 1000' below the surface.",
-    "There is suspicion that the object was 3 nylon shroud lines and a cord, possibly used for parachuting, indicating the possibility of a balloon.",
-    "The investigation concluded that one of the observed objects was a natural phenomenon, possibly a planet or bright star, while another remained unexplained.",
-    "The report is from Project Blue Book, an official United States Air Force investigation of unidentified flying objects."
-  ],
-  "result": "unexplained",
-  "sighted object": "multiple unidentified aerial objects",
-  "location": "McDonough, Georgia and Hastings, Minnesota",
-  "witnesses": "Mr. W. C. EIDSON and USAF personnel",
-  "photographs": "no"
+    "main event": "Mr. W. C. Eidson reported observing an unidentified aerial object hovering in the sky near McDonough, Georgia, on December 6, 1951.",
+    "interesting points": "The object was round or elliptical in shape and emitted a reddish-orange glow., It appeared approximately the size of a basketball at arm's length., The object remained stationary for about two minutes before accelerating and disappearing., The investigation concluded the object was a natural phenomenon, possibly a planet or bright star., The case was officially classified as UNIDENTIFIED.",
+    "sighted object": "illuminated round or elliptical object",
+    "location": "McDonough, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. W. C. Eidson, while driving on U.S. Highway 23.",
+    "contains photographs": false
 }

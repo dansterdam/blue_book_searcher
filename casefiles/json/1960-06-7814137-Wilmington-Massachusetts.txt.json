@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A man observed a bright, egg-shaped object that appeared metallic in the sky over Hanscom Field in Wilmington, Massachusetts on June 29, 1960.",
-    "interesting points": [
-        "The object appeared fuzzy or choppy on the outside and changed in size and intensity of color during the observation.",
-        "The object moved at an estimated speed of 1000 mph or better and disappeared overhead.",
-        "No tail, trail, or exhaust was seen, and no sound or noise was heard.",
-        "Weather conditions were clear at the time, and no unusual meteorological or astronomical activity was reported that could account for the sighting.",
-        "Radar analysis was inconclusive, and the object could not be identified as a known aircraft or balloon."
-    ],
-    "result": "unidentified",
-    "sighted object": "bright, egg-shaped metallic object",
-    "location": "Wilmington, Massachusetts",
-    "witnesses": "one civilian observer",
-    "photographs": "none"
+    "main event": "On June 29, 1960, a witness observed a bright object in the sky above Wilmington, Massachusetts, which changed in size and color before disappearing at high speed.",
+    "interesting points": "The sighting lasted for approximately 5 minutes,The object appeared to be metallic as it approached closer,Estimated speed of the object was around 2000 mph or better,The witness noted the object went unnoticed until it made a quick 90-degree turn,The report suggests it may have been a balloon due to local balloon operations.",
+    "sighted object": "a bright metallic object",
+    "location": "Wilmington, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A self-employed plumbing and heating contractor in Wilmington",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report consists of hand-drawn sketches and descriptions of a UFO sighting in Baltimore, Maryland on July 18, 1949.",
-    "interesting points": [
-        "The sketches include detailed depictions of the UFO from different angles, suggesting a close and side view of the object.",
-        "The annotations on the sketches indicate that the UFO was seen closely and from a specific angle as compared to the horizon.",
-        "The reference or filing notes on the sketches provide potential identifiers for the case, such as '2-4-7J' and 'EMMETT', and '2-4-7/4 EXHIBIT 'A''",
-        "The report contains no photographs, only hand-drawn sketches, suggesting the visual representation of the UFO sighting.",
-        "The document indicates that the sighting involved multiple witnesses or observers who were able to provide detailed visual information."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying object (UFO)",
-    "location": "Baltimore, Maryland",
-    "witnesses": "multiple witnesses",
-    "photographs": "no"
+    "main event": "A UFO was reported over Baltimore, Maryland, described in hand-drawn sketches.",
+    "interesting points": "The sketches depict a UFO in the sky along with buildings,The first sketch includes two close-up views labeled 'SEEN CLOSE' and 'SIDE VIEW',The second sketch provides a nighttime scene with additional close-up views of the object,Both sketches are labeled with references that suggest they are part of an exhibit,The report includes two pages of sketches but no traditional photographs.",
+    "sighted object": "UFO represented in sketches",
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

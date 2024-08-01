@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing a bright, self-luminous, orange-red object that hovered, then moved slowly and then more rapidly towards the north star.",
-    "interesting points": [
-        "The object appeared to be about the size of a large star but its behavior was not like that of a star.",
-        "The object hovered for a short time, then began moving slowly at first and then more rapidly towards the north.",
-        "As the object moved farther away, it faded to a dull reddish glow.",
-        "The object disappeared behind a church steeple and smoke stacks.",
-        "The observer was requested to complete and return a form 117 but failed to do so."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright, self-luminous, orange-red object",
-    "location": "Crossville, Tennessee",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An observer reported a sighting of a bright self-luminous orange-red object in the sky over Perth Amboy, New Jersey, on December 1, 1967.",
+    "interesting points": "The observer described the object as bright and solid with fuzzy edges., The object appeared to move towards the observer, disappearing behind a church steeple before coming out and moving faster., The sighting lasted for about 30 to 50 seconds., A diagram was sketched by the observer showing the object's path., The report was part of Project Blue Book's investigation into UFO sightings.",
+    "sighted object": "a bright self-luminous orange-red object",
+    "location": "Perth Amboy, New Jersey, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Members of an astronomy club observing the object from the roof of the local YMCA.",
+    "contains photographs": false
 }

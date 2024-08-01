@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A single unidentified object was observed in the sky over Zionsville, Indiana on August 7, 1965 for 10-15 seconds.",
-    "interesting points": [
-        "The object was observed to be hovering, then burst in a downward direction before going up and away quickly.",
-        "The object was described as surrounded and whitish, with a gradual speed increase.",
-        "The witness, Sgt. Grooms, noticed a temperature increase while the object was present, followed by a temperature decrease after it left.",
-        "No sound was detected in association with the object.",
-        "The object was detected with the eyes only, with no other visual aids used."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified whitish object",
-    "location": "Zionsville, Indiana",
-    "witnesses": "Sgt. Grooms",
-    "photographs": "no"
+    "main event": "A sighting of an unidentified object in Zionsville, Indiana on August 11, 1965.",
+    "interesting points": "The object was observed for a duration of 10-15 seconds., The observation was made optically and visually., The sighting occurred at noon time., The course of the object was directed south., There was no physical evidence or photographs provided.",
+    "sighted object": "one unidentified object",
+    "location": "Zionsville, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness provided a detailed questionnaire about the observation.",
+    "contains photographs": false
 }

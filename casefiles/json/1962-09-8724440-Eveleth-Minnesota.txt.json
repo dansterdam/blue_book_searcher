@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, rapidly flashing white light was observed from an aircraft near Eveleth, Minnesota on September 21, 1962.",
-    "interesting points": [
-        "The object appeared to be moving much faster than a typical satellite.",
-        "The object was first observed at an elevation of 7.8 degrees and azimuth of 323 degrees, then faded out before reaching the horizon at 120 degrees azimuth.",
-        "The object traveled on a straight course between 122 and 132 degrees azimuth.",
-        "The sighting lasted for approximately 1 minute and 30 seconds.",
-        "Two other F-102 aircraft were performing practice intercepts in the area, but the observers stated the reported object was not one of those aircraft."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A bright, rapidly flashing white light",
-    "location": "10 miles southwest of Eveleth, Minnesota",
-    "witnesses": "Lt. Tomlinson, pilot, and Capt. Nelson, R.O., both from the 179th ANG (Air National Guard)",
-    "photographs": "none"
+    "main event": "A pilot and captain observed a bright, rapidly flashing white light while flying in an aircraft near Eveleth, Minnesota in 1962.",
+    "interesting points": "The object appeared much faster than satellites previously observed by the witnesses,The object was observed from an altitude of 35,000 feet and faded out before reaching the horizon,The observation lasted for about 1 minute and 30 seconds,The witnesses were identified as Lieutenant Tomlinson and Captain Nelson from the 179th ANG and are considered reliable,Two F-102 aircraft were performing practice intercepts, but they were not mistaken for the reported object.",
+    "sighted object": "bright rapidly flashing white light",
+    "location": "Eveleth, Minnesota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "LT. Tomlinson (Pilot) and CAPT. Nelson from 179th ANG",
+    "contains photographs": false
 }

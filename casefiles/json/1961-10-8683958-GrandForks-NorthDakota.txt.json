@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-  "main event": "A UFO shaped like a disc was observed by two airmen while driving near Grand Forks, North Dakota in 1961.",
-  "interesting points": [
-    "The object was about the size of a dime at arm's length and changed from white to yellow to cream in color.",
-    "The object was observed at 45 degrees elevation at 330 degrees azimuth, then moved to 20 degrees elevation at 140 degrees azimuth.",
-    "The object stopped still at one point and then proceeded in a southeast direction slowly towards the horizon.",
-    "The sighting lasted for about 15 minutes from 7:00 PM to 7:15 PM CST.",
-    "The weather conditions were broken clouds with light winds, and no known air traffic was detected in the area."
-  ],
-  "result": "unexplained",
-  "sighted object": "disc-shaped UFO",
-  "location": "10 miles west of Grand Forks, North Dakota",
-  "witnesses": "TSGT and A/1C, both considered reliable airmen",
-  "photographs": "no photographs present in the report"
+    "main event": "A UFO was reported by a witness while driving in North Dakota on October 8, 1961, for a duration of 15 minutes.",
+    "interesting points": "The object was described as having a disc shape and the size of a dime at arm's length., It was observed first about 30 minutes after sunset., The object changed direction multiple times, stopping and then proceeding in a southeast direction., Witnesses were two reliable airmen from Grand Forks Air Force Base., Preliminary investigations found no apparent explanation for the sighting.",
+    "sighted object": "1 disc-shaped object",
+    "location": "10 miles west of Grand Forks, North Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "reliable airmen from Grand Forks Air Force Base",
+    "contains photographs": false
 }

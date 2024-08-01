@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Three bright objects in a red light were seen in the sky that seemed to disappear into the moonlight. The objects were pointed and moved with a jerking motion.",
-    "interesting points": [
-        "The objects were first observed at a low altitude and slowly moved upward and disappeared.",
-        "The objects were described as having a red light at first, then becoming silvery in appearance.",
-        "The objects made abrupt changes in direction as they traveled across the sky.",
-        "The total time of observation was 10 minutes.",
-        "No sounds were heard during the sighting."
-    ],
-    "result": "Possibly Balloon",
-    "sighted object": "Three bright, pointed objects",
+    "main event": "On 15 April 1963, multiple bright objects were observed in the sky near Jebai, Lebanon, which appeared to move with a jerking motion and disappeared into the moonlight.",
+    "interesting points": "The sighting involved 3 bright objects moving from a low altitude upward,The objects seemed to jerk in movement and vanished,There was initial speculation about the objects being balloons or aircraft,The total observation duration was reported to be 1-2 minutes,Several local inhabitants were noted as witnesses and contacted the military authorities.",
+    "sighted object": "three bright objects in the sky",
     "location": "Jebai, Lebanon",
-    "witnesses": "Several local inhabitants",
-    "photographs": "No"
+    "number of confirmed witnesses": 5,
+    "witness description": "local inhabitants including university professors",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-	"main event": "A UFO sighting was reported near Egg Harbor City, New Jersey on October 13, 1958, described as a round, bluish-white object the size of a dime.",
-	"interesting points": [
-		"The sighting lasted for 15 minutes and was observed from the ground visually.",
-		"The object was seen moving in a south-west direction and was around 15,000 feet above the ground.",
-		"The weather at the time of the sighting was clear with specific wind speed and temperature details provided.",
-		"The observer was a civilian named Mrs. [REDACTED], a housewife from Cape May, NJ, and her reliability was unknown.",
-		"The report requested full compliance with AFR 200-2, showing an official interest in following regulations for UFO sightings."
-	],
-	"result": "unexplained",
-	"sighted object": "round, bluish-white object the size of a dime",
-	"location": "Egg Harbor City, New Jersey",
-	"witnesses": "civilian Mrs. [REDACTED]",
-	"photographs": "no"
+    "main event": "A civilian observer spotted a round, bluish-white object near Egg Harbor City, New Jersey on October 7, 1958.",
+    "interesting points": "The object was described as being the size of a dime,The sighting lasted for approximately 15 minutes,The object was moving from 82° to NW,The observer was inside a car during the sighting,The weather at the time was clear with good visibility.",
+    "sighted object": "round bluish-white object",
+    "location": "Egg Harbor City, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, a housewife from Cape May, NJ, reliability unknown",
+    "contains photographs": false
 }

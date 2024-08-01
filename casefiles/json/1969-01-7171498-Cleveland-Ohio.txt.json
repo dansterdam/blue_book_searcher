@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A witness sighted a yellow-white crescent-shaped light that hovered and then disappeared in Cleveland, Ohio on January 7, 1969.",
-    "interesting points": [
-        "The object was observed for 15-20 minutes, disappearing after 10-15 minutes.",
-        "The object moved in a zigzag fashion before disappearing.",
-        "The witness described the object as a 'probable hot air balloon'.",
-        "The report includes a sketch of the curved flight path of the object.",
-        "The witness was traveling in a vehicle at approximately 35 mph when the sighting occurred."
-    ],
-    "result": "probable hot air balloon",
-    "sighted object": "yellow-white crescent-shaped light",
-    "location": "Cleveland, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A civilian observed a yellow-white crescent shaped light, believed to be a hot air balloon, on January 7, 1969 in Cleveland, Ohio.",
+    "interesting points": "The object was observed for approximately 15-20 minutes before it disappeared., The observer reported a zigzag motion of the object against the sky., The sighting included visual similarity to past observations of garment bag hot air balloons., The object was seen to the North and eventually moved towards the South., The weather was noted as having cumulus clouds with good visibility.",
+    "sighted object": "yellow-white crescent shaped light",
+    "location": "Cleveland, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian in a vehicle traveling at approximately 35 MPH",
+    "contains photographs": false
 }

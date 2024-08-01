@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed two unidentified flying objects on separate occasions within a month in Pico, California in 1954.",
-    "interesting points": [
-        "The first object appeared suddenly, was brightly colored with green, yellow, and blue, and made a sharp left turn before disappearing.",
-        "The second object was about 50 feet in diameter, had a bluish trail, and traveled horizontally before suddenly disappearing.",
-        "The witness had never seen anything unusual in the 50 years prior to these sightings.",
-        "The witness thought the objects were not electrical storms or meteors breaking up.",
-        "The witness was close to the ground and close to the strange events when he observed the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified flying objects",
-    "location": "Pico, California",
-    "witnesses": "Capt. Charles A. Hardin",
-    "photographs": "no"
+    "main event": "Capt. Charles A. Hardin observed two flying saucers on two separate occasions in April 1954.",
+    "interesting points": "The first sighting involved two small, brightly colored objects that moved sharply to the left and disappeared within 5 seconds., The second object was approximately 50 feet in diameter and was observed shortly before sunset., The objects were described as having rainbow hues and a bluish trail., The sighting occurred from the seacoast and from a freight train caboose., Hardin had never seen anything unusual in the previous fifty years of his life.",
+    "sighted object": "two flying saucers",
+    "location": "Pico, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Capt. Charles A. Hardin",
+    "contains photographs": false
 }

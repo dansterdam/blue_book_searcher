@@ -1,15 +1,9 @@
 {
-    "main event": "Radar operators in a B-29 aircraft observed unidentified objects making high-speed passes at the ground over the Gulf of Mexico in 1950 and 1953. The objects were orbiting the aircraft at speeds estimated up to 3,000 miles per hour.",
-    "interesting points": [
-        "No visual sightings of the objects were made, indicating that they were only observed on the radar.",
-        "The objects were observed moving across the radar scope in approximately 10 to 20 seconds on a 100-mile sweep.",
-        "The objects appeared to be going about 1600 to 2000 mph, covering the radar scope in a very short time.",
-        "When the object came within 20 miles of the aircraft, it rapidly disappeared, leaving the crew unable to explain the disappearance.",
-        "The radar was switched to the 80 and 100 mile ranges, and the weather conditions during the sightings were noted as clear with scattered clouds at 6,000 feet."
-    ],
-    "result": "unexplained",
+    "main event": "Radar operators aboard a B-29 aircraft over the Gulf of Mexico detected unidentified objects making passes at high speeds on January 12, 1953.",
+    "interesting points": "The objects were observed on radar with speeds estimated between 2,000 to 3,000 miles per hour,No visual sightings were made by the crew despite the radar detection,The objects appeared to orbit the B-29 aircraft,The radar operator noted three objects on the scope from all quadrants,The objects rapidly disappeared when coming within 20 miles of the aircraft.",
     "sighted object": "unidentified objects on radar",
-    "location": "Gulf of Mexico",
-    "witnesses": "Radar operators on a B-29 aircraft",
-    "photographs": "no"
+    "location": "Gulf of Mexico, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Radar operator, Aircraft Commander, Navigator, and Bombardier of B-29 aircraft",
+    "contains photographs": false
 }

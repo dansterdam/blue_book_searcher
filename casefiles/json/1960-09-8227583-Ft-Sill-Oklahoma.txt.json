@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A radar-detected object was observed by military personnel at Fort Sill, Oklahoma on July 12, 1960.",
-    "interesting points": [
-        "The object was not visible to the naked eye and was only detected by radar equipment.",
-        "On September 18, 1960, the entire battalion in reveille formation at Fort Sill visually sighted an unidentified flying object moving from south to north.",
-        "The object was described as straight-course and fled out of sight.",
-        "On September 20, 1960, Sergeant Spence of the U.S. Army reported the sighting of an unidentified flying object by his entire battalion.",
-        "Weather conditions at the time included winds up to 35 knots at higher altitudes."
-    ],
-    "result": "unexplained",
-    "sighted object": "radar-detected object, unidentified flying object",
-    "location": "Fort Sill, Oklahoma",
-    "witnesses": "Military personnel",
-    "photographs": "no"
+    "main event": "An entire battalion at Ft. Sill, Oklahoma, observed an unidentified flying object on 18 Sep 60.",
+    "interesting points": "The sighting occurred during reveille formation with all troops participating., The object was detected by radar but not visible to the naked eye., The sighting was not considered characteristic of a meteor or normal astronomical phenomena., The altitude was estimated at 6000 - 7000 feet with clear skies at the time., Sgt. Spence, who reported the sighting, had significant experience in missile operations.",
+    "sighted object": "unidentified flying object",
+    "location": "Fort Sill, Oklahoma, USA",
+    "number of confirmed witnesses": 100,
+    "witness description": "entire battalion of troops in formation",
+    "contains photographs": false
 }

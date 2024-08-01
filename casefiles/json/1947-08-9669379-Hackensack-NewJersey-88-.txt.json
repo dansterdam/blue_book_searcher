@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains various reports of aerial phenomena and unidentified flying objects from different locations and dates, including Wildwood, New Jersey and Hackensack, New Jersey.",
-  "interesting points": [
-    "The sightings include reports of alleged flying discs, saucers, and unidentified aerial objects, with details such as speed, altitude, and maneuvers observed.",
-    "The documents mention a lack of evidence for astronomical interpretations in some cases, making it challenging to explain the observed phenomena.",
-    "There are references to security measures and investigations being initiated by the Air Material Command and the Air Force Intelligence Department regarding the reported incidents.",
-    "Reports indicate concern about films and information not being received or processed, highlighting the urgency and importance placed on capturing evidence of these aerial phenomena.",
-    "One correspondence acknowledges the interest and cooperation of individuals reporting the sightings, emphasizing the need for ongoing reporting and providing detailed information about any new developments."
-  ],
-  "result": "Some reports suggest potential astronomical explanations, while others point to a lack of evidence or a need for further investigation. The presence of security measures and ongoing investigations indicates the gravity and significance of the reported incidents.",
-  "sighted object": "Various sightings of aerial phenomena, including alleged flying discs, saucers, and unidentified aerial objects.",
-  "location": "Wildwood, New Jersey and Hackensack, New Jersey, among other unspecified locations.",
-  "witnesses": "Members of the Air Force Intelligence Department, individuals from Wildwood, New Jersey, and observers in the area between Richmond, New Jersey and the vicinity of Norfolk, Virginia.",
-  "photographs": "Some references to the receipt of film or photographs related to the reported sightings, including one roll of film being processed with negative results."
+    "main event": "An unidentified flying object was reported in Hackensack, New Jersey on 3 August 1947.",
+    "interesting points": "The object was described as metallic and shiny., It was observed to be flying rapidly at an altitude of 200 yards., Witnesses reported a lack of visible features or sound associated with the object., The sighting lasted until the object vanished from view., There are indications that the object did not conform to known astronomical phenomena.",
+    "sighted object": "metallic object in the sky",
+    "location": "Hackensack, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported an object flying very fast straight east, perceived as a bright white metallic object.",
+    "contains photographs": false
 }

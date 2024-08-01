@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in the requested JSON format:
-
 {
-    "main event": "A bright white, round object was observed on the horizon in the east, rising and moving erratically up and down and side to side for 20 minutes before clearing out of sight.",
-    "interesting points": [
-        "The object had distinct edges and depth, indicating it was not a typical balloon observation.",
-        "The object's erratic motion, including rising, up and down, and back and forth movement was noted.",
-        "The sighting occurred at night.",
-        "The report includes a handwritten comment suggesting the observation was likely of a balloon.",
-        "The report mentions an 'INTELLIGENCE OFFICER'S COMMENT', but no further details are provided."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white, round object",
-    "location": "Superior, Wisconsin",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A bright white round object was observed rising on the horizon in Superior, Wisconsin on August 9, 1963.",
+    "interesting points": "The object exhibited erratic motion, moving both up and down as well as side to side,The observation lasted for 20 minutes before the object cleared out of sight,The sighting occurred at night,The report indicated that the observation might be a balloon due to the described motion,The object seemed to have edges and depth.",
+    "sighted object": "a bright white round object",
+    "location": "Superior, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

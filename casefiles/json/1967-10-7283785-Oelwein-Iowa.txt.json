@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A witness observed an unidentified oval or round object about 30 degrees above the horizon.",
-    "interesting points": [
-        "The object showed no visible movement.",
-        "The witness was afraid to get caught watching the object and did not want anyone to think they were 'crazy'.",
-        "The witness lived in a small town of less than 200 people and had never seen anything like this before.",
-        "The object seemed to light up the ground and changed colors from orange to green to white before disappearing completely.",
-        "The witness was unsure what the object was and hoped the report would be of some use."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oval or round object",
-    "location": "a small town, location not specified",
-    "witnesses": "1 civilian witness",
-    "photographs": "none"
+    "main event": "A civilian observed an unidentified object in the sky while photographing the moon on October 18, 1967, in Oelwein, Iowa.",
+    "interesting points": "The observer initially spotted the object while focused on the moon, and later noted that it was about 30 degrees above the horizon,The object moved from a South to Northeast direction and appeared to have lights resembling cabin or landing lights,The sighting lasted approximately 15 minutes,The object was described as being the size of the moon through binoculars,There were inquiries made to the observer about the elevation and details of the sighting as part of the investigation.",
+    "sighted object": "one unidentified flying object",
+    "location": "Oelwein, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian who was photographing the moon",
+    "contains photographs": false
 }

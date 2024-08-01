@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sightings of unidentified flying objects (UFOs) reported in Constantine, Algeria and Philippeville, Algeria in August 1952, as well as a sighting of a saucer-like craft in Spain in August 1952.",
-    "interesting points": [
-        "The UFO sighted in Constantine was described as a luminous object flying at high speed towards Guelma, emitting a very bright light.",
-        "The UFO sighted in Philippeville was described as an enormous red disk going from north to west, leaving behind a greenish trail.",
-        "The saucer-like craft sighted in Spain was observed crossing the sky at high speed and emitting two luminous trails.",
-        "The report also mentions a cooperation between the Hydrographic Office and astronomers studying the motion and behavior of meteors, including observations of a greenish-blue meteor on December 16, 1955.",
-        "The report includes a list of UFO sightings from August 1957, with details on the location, observers, and evaluations, though the information is limited."
-    ],
-    "result": "unexplained",
-    "sighted object": "luminous objects, saucer-like craft, meteors",
-    "location": "Constantine, Algeria; Philippeville, Algeria; Cuenca, Spain",
-    "witnesses": "civilians, astronomers",
-    "photographs": "none"
+    "main event": "On August 14, 1952, two persons in Constantine observed a luminous object flying at high speed toward Guelma.",
+    "interesting points": "The object emitted a very bright light and had no resemblance to a flying saucer., At 1920 hours on the same day, many people in Philippeville reported seeing an enormous red disk leaving a greenish trail., The sighting lasted for approximately 5 minutes., The local weather bureau did not launch any weather balloons at the time of the sighting., The record indicates this was part of the Project Blue Book investigation.",
+    "sighted object": "a luminous object",
+    "location": "Constantine, Algeria",
+    "number of confirmed witnesses": 2,
+    "witness description": "two persons",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, yellowish-red object the size of a basketball with a trail of fire was sighted over Sweetwater, Texas.",
-    "interesting points": [
-        "The object was observed for about 1 minute, growing smaller and smaller.",
-        "The sighting occurred at 11:20 local time, during dusk conditions.",
-        "The object's trajectory showed a slight curve to the east.",
-        "The report was verified by the witness's father and neighbors.",
-        "Weather conditions at the time included scattered clouds at 18,000 feet and 15 mile visibility, with a light southwest wind."
-    ],
-    "result": "Unknown",
-    "sighted object": "A bright, yellowish-red object the size of a basketball with a trail of fire",
-    "location": "Sweetwater, Texas",
-    "witnesses": "A student",
-    "photographs": "No"
+    "main event": "A sighting of a yellowish-red object resembling a basketball with a trail of fire in Sweetwater, Texas.",
+    "interesting points": "The sighting lasted approximately 1 minute., The object appeared to be getting smaller as it moved., The description of the object is typical of a meteor., The observation was made from ground level., The report was verified by the boy's father and neighbors.",
+    "sighted object": "yellowish-red object with a trail of fire",
+    "location": "Sweetwater, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a student",
+    "contains photographs": false
 }

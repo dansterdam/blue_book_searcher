@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A witness sighted a light blue object that traveled from the north-northeast to the east and disappeared in about 6 seconds.",
-    "interesting points": [
-        "The object had a sudden, near-silent appearance and movement that was witnessed for a brief period of time.",
-        "The witness indicates the event caused disturbances in their previous sketches, but does not provide additional details about the object's appearance or behavior.",
-        "The witness described the object as appearing more round than the bluish white light, and the light appeared more intense than the surrounding lights.",
-        "The witness noted the light did not seem to be part of the stars.",
-        "The witness could only occasionally see a slight movement of the object as it disappeared behind a helicopter pole."
-    ],
-    "result": "Possible Astro (METEOR)",
+    "main event": "On November 24, 1960, a light blue object was sighted traveling from the NNE to the E, disappearing in about 6 seconds.",
+    "interesting points": "The object was described as light blue and moved quickly, disappearing within seconds., The sighting was made visually from the ground., There was no prior experience of witnessing a similar phenomenon., The report concludes that it may have been a meteor., The sighting was documented in a Project Blue Book report.",
     "sighted object": "light blue object",
-    "location": "Belridge, Missouri",
-    "witnesses": "1 witness",
-    "photographs": "None"
+    "location": "Belridge, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness did not report experiencing similar phenomena before.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, reflective object with slow, erratic movements was observed for 5 minutes on March 17, 1954.",
-    "interesting points": [
-        "The object hovered and swiftly moved back and forth, up and down during the 5-minute observation.",
-        "The object was estimated to be 70 feet in diameter and clear/shiny in appearance.",
-        "The observation was made by a civilian observer, a teacher, from 4 miles southeast of Long Beach AFB.",
-        "The weather conditions were clear at the time of the sighting.",
-        "The report was documented as part of Project Blue Book."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "bright, reflective object",
-    "location": "4 miles SE of Long Beach AFB, CA",
-    "witnesses": "civilian - teacher",
-    "photographs": "no"
+    "main event": "A civilian observed a bright, reflective object in the sky for 5 minutes on March 17, 1954.",
+    "interesting points": "The object exhibited slow movements and erratic behavior, hovering and swiftly moving back and forth,The object was reported to be circular and shiny,The observation was made by a 33-year-old teacher,The sighting occurred approximately four miles southeast of Long Beach Air Force Base,The report concluded that there was insufficient data for evaluation.",
+    "sighted object": "one bright reflective object",
+    "location": "Long Beach, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, teacher, 33 years old",
+    "contains photographs": false
 }

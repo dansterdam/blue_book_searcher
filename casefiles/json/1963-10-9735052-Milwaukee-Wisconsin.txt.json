@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple unidentified objects were sighted by ground radar in Milwaukee, Wisconsin on June 5, 1963.",
-    "interesting points": [
-        "The objects were sighted in Sector 61 and reported to the military.",
-        "The sighting lasted for 3 minutes.",
-        "The size of the objects was described as 'Multiple'.",
-        "The objects were observed traveling in a northwesterly direction.",
-        "The report states that there was 'Insufficient data' and that a report containing concluding information was also filed."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified flying objects",
-    "location": "Milwaukee, Wisconsin",
-    "witnesses": "ground radar operators",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Objects were sighted on June 5, 1963, in Milwaukee, Wisconsin, utilizing ground-radar observation for a duration of 3 minutes.",
+    "interesting points": "The objects were reported to military authorities., The objects varied in size and were moving Northwest., The length of the observation was brief, only 3 minutes., The report indicated that the data collected was insufficient for a conclusive finding., The sighting was documented as part of the Project Blue Book investigation.",
+    "sighted object": "multiple unidentified flying objects detected by radar",
+    "location": "Milwaukee, Wisconsin, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not applicable as no specific witness accounts are detailed in the report",
+    "contains photographs": false
 }

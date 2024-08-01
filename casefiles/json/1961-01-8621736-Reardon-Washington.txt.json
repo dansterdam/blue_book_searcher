@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several residents of Reardon, Washington reported seeing three unidentified flying objects hovering over the area for approximately 20 minutes on January 8, 1961.",
-    "interesting points": [
-        "The objects were described as being round and metallic, about the size of a small car.",
-        "The objects made no sound and appeared to be under intelligent control.",
-        "The objects caused considerable excitement among the residents, who were able to observe them in the clear sky from various locations in the town.",
-        "The Reardon town marshal, a guard at an Atlas missile silo, and several other reliable citizens reported seeing the objects and stated they were of a very unusual nature.",
-        "The objects accelerated out of sight at a very high rate of speed."
-    ],
-    "result": "unexplained",
-    "sighted object": "three round, metallic objects",
-    "location": "Reardon, Washington",
-    "witnesses": "Reardon residents, including the town marshal and a guard at an Atlas missile silo",
-    "photographs": "no"
+    "main event": "On January 13 and 14, 1961, several witnesses reported seeing two unidentified flying objects hovering over a field in Reardan, Washington.",
+    "interesting points": "The objects were described as having unusual lights not resembling normal aircraft characteristics., The sighting lasted approximately 10 minutes., Witnesses indicated that the lights were bright and made no sound., Investigators couldn't confirm the objects as any known aircraft or flares despite a thorough search., Multiple reliable witnesses, including military personnel, corroborated the sighting.",
+    "sighted object": "two unidentified flying objects with bright lights",
+    "location": "Reardan, Washington, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Local residents and military personnel observed the lights from a distance.",
+    "contains photographs": false
 }

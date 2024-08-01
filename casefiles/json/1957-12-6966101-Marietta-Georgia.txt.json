@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A cigar-shaped object, 25-30 ft long, with a flame of bright light on the front and back, was observed traveling at very high speed in Marietta, Georgia on January 25, 1957.",
-    "interesting points": [
-        "The object was traveling very fast and straight and level, passing over the horizon.",
-        "The sighting lasted for 30-40 seconds.",
-        "The witness was a civilian who likely saw an aircraft but was influenced by previous reports of UFO sightings.",
-        "The Director of Intelligence for the 35th Air Division concluded the object was probably an aircraft.",
-        "There were no photographs taken of the object."
-    ],
-    "result": "probable aircraft",
-    "sighted object": "cigar-shaped object 25-30 ft long with bright lights",
-    "location": "Marietta, Georgia",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "An unidentified object was sighted in Marietta, Georgia on January 25, 1957, described as a clear-shaped object traveling at high speed.",
+    "interesting points": "The object was reported to be 25 to 30 ft long with bright flames of light on the front and back,The observation lasted for 30 to 40 seconds,There was one object observed,The report suggests the observer might have been influenced by previous sightings,Another report mentioned a potential meteor sighting in Marietta, GA.",
+    "sighted object": "one clear-shaped object",
+    "location": "Marietta, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, likely influenced by reports of sightings",
+    "contains photographs": false
 }

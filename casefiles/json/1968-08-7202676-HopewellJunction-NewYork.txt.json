@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian reported seeing a single unidentified flying object (UFO) over Hopewell Junction, New York on August 7, 1968.",
-  "interesting points": [
-    "The object was sighted for approximately 15 minutes.",
-    "The object was described as two flat, round objects that were silvery in color, moving slowly and fluttering, occasionally disappearing from view.",
-    "The sighting occurred in the early morning around 7:30 AM.",
-    "The witness provided a hand-drawn sketch of the UFO and a diagram showing the trajectory and angular elevation.",
-    "The witness had previously reported the sighting to the Air Force in December 1968, but the report was deemed inconclusive due to the delay in reporting."
-  ],
-  "result": "inconclusive",
-  "sighted object": "two flat, round silvery objects",
-  "location": "Hopewell Junction, New York",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "An unidentified flying object was observed in Hopewell Junction, New York on August 30, 1958 for approximately 15 minutes.",
+    "interesting points": "The sighting was made by a civilian observing a single object,The object's flight path was noted to be northeast,The observer reported no physical evidence and stated that sightings were not reported until December 1968,The report is lacking in sufficient data for a detailed investigation,The description of the object is vague and lacks clear details.",
+    "sighted object": "one unidentified flying object",
+    "location": "Hopewell Junction, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who made the observation",
+    "contains photographs": false
 }

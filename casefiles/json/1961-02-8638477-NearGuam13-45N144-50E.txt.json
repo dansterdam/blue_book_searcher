@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A spherical object the size of the planet Venus was observed near Guam on February 27, 1961.",
-    "interesting points": [
-        "The object was initially white, then turned reddish in color.",
-        "The object had a trail that was 30-50 times the diameter of the object itself.",
-        "The object was observed for a short duration of 0 seconds as it appeared to burn out.",
-        "The object was initially sighted at 20 degrees elevation, then passed to 358 degrees at 20 degrees elevation.",
-        "The sighting was made by the co-pilot of an aircraft at 16,000 feet, traveling at 382 knots."
-    ],
-    "result": "Probable Meteor",
-    "sighted object": "A spherical object",
-    "location": "Near Guam, 13.45N 144.50E",
-    "witnesses": "LTJG R.E. Stewart, co-pilot",
-    "photographs": "No photographs were included in the report."
+    "main event": "An unidentified spherical object resembling Venus was sighted near Guam on 27 February 1961, believed to be a meteor.",
+    "interesting points": "The object had a white then reddish color, It left a trail 30-50 times its diameter, Duration of the observation was too short for a satellite, The object was noted to have characteristics of a meteoric sighting, It was concluded to be either a natural phenomenon or possibly an astronomical event.",
+    "sighted object": "spherical object with a reddish trail",
+    "location": "Near Guam",
+    "number of confirmed witnesses": 1,
+    "witness description": "Sighted by LTJG R.E. Stewart, co-pilot, considered reliable.",
+    "contains photographs": false
 }

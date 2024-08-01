@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were detected on radar by two different radar sites in the Chicago, Illinois area on August 6, 1965.",
-    "interesting points": [
-        "The objects were detected at altitudes of around 25,000-28,000 feet and were moving slowly with discontinuous flight paths.",
-        "The radar sites were unable to obtain the speed of the objects, but they traveled approximately 620 nautical miles in 43 minutes.",
-        "Both radar sites detected the objects during the same time period, but it was determined they were not detecting the same objects.",
-        "There were no known temperature inversions in the area at the time of the detections.",
-        "No intercept action was taken, and there was no known air traffic in the area at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified radar returns",
-    "location": "Chicago, Illinois area",
-    "witnesses": "two radar sites",
-    "photographs": "none"
+    "main event": "Two unidentified objects were detected by radar in the Chicago area on August 6, 1965, and were observed for 45 minutes.",
+    "interesting points": "The objects were tracked for 45 minutes before losing radar contact., The observation was reported by two distant radar stations., Analysis indicated the objects may have been confused with balloons., The flight path of the objects was characterized by slow movement and appeared sporadically on radar., No physical evidence was found to support the sighting.",
+    "sighted object": "two unidentified objects on radar",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Radar stations in the Chicago area",
+    "contains photographs": false
 }

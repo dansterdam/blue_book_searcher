@@ -1,15 +1,9 @@
 {
-  "main event": "A photograph of a potential UFO sighting was taken at Holloman AFB, New Mexico, in February 1950.",
-  "interesting points": [
-    "The document contains a photograph of a circular object in the sky, potentially representing a UFO.",
-    "The location of the sighting was Holloman AFB, a significant military installation.",
-    "The sighting occurred over a period of 4 days, from February 21 to February 25, 1950.",
-    "The presence of a photograph adds a visual element to the reported UFO sighting.",
-    "This event took place in New Mexico, a state known for its history of UFO sightings and alleged alien encounters."
-  ],
-  "result": "unexplained",
-  "sighted object": "circular object in the sky",
-  "location": "Holloman AFB, New Mexico",
-  "witnesses": "potentially military personnel or trained observers",
-  "photographs": "yes, a photograph is included"
+    "main event": "A potential UFO sighting was reported at Holloman AFB, New Mexico in February 1950, supported by a photograph.",
+    "interesting points": "The photograph shows a light circular object against a dark background, The object is likely representing a UFO sighting, The report does not contain any readable text from the document image, The sighting occurred during a period from February 21 to February 25, The location is Holloman AFB.",
+    "sighted object": "light circular object in the sky",
+    "location": "Holloman AFB, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses mentioned",
+    "contains photographs": true
 }

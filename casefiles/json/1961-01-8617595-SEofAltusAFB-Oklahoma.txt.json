@@ -1,15 +1,9 @@
 {
-    "main event": "Airman with radar background observed 1 round object with red light, 10-15 feet in size, for 6 seconds. The object appeared to make a turn or change in direction before disappearing.",
-    "interesting points": [
-        "The object was not found on radar, nor could it be identified as any known or probable aircraft.",
-        "Other similar sightings were reported in the area around that time.",
-        "The object was observed by an Airman with radar background, indicating it was likely an unusual aerial phenomenon.",
-        "The object appeared to make a turn or change in direction before disappearing from sight.",
-        "The sighting lasted for a relatively short duration of 6 seconds."
-    ],
-    "result": "unexplained",
+    "main event": "An airman with a radar background observed a round object with a red light for 6 seconds near Altus AFB, Oklahoma.",
+    "interesting points": "The object was noted to be about 10-15 feet in size,It changed direction before disappearing from sight,No satellites were identified in the area at the time,The object was not found on radar or identified as any known aircraft,Insufficient information for conclusion was noted in the report.",
     "sighted object": "one round object with red light",
-    "location": "5 miles SE of Altus AFB, Oklahoma",
-    "witnesses": "Airman with radar background",
-    "photographs": "no"
+    "location": "Altus, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Airman with a radar background",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple UFO sightings reported by a civilian witness in Youngstown, Ohio in March 1965.",
-    "interesting points": [
-        "The objects appeared star-shaped at first, then became round when the witness put on glasses.",
-        "The objects were approximately the size of a grapefruit and were off-white in color.",
-        "The objects exhibited erratic flight patterns, such as stopping, spinning, and making sharp turns.",
-        "The witness had been experiencing similar sightings for 11 years prior to this incident.",
-        "The investigators concluded that the witness was under emotional strain and that the sightings were likely due to her psychological state."
-    ],
-    "result": "unexplained",
-    "sighted object": "6 round, off-white objects",
-    "location": "Youngstown, Ohio",
-    "witnesses": "female civilian witness, 46 years old",
-    "photographs": "no"
+    "main event": "Mrs. [redacted], a 46-year-old housewife, reported observing 6 unidentified flying objects over Youngstown, Ohio on March 11, 1965.",
+    "interesting points": "The objects were described as appearing star-shaped until glasses were worn, then appearing round,The size of the objects was approximated to that of a grapefruit,The sighting lasted for approximately 20 minutes,The objects demonstrated intermittent movement and would generally disappear into the clouds,The investigator concluded the witness was under emotional strain and categorized the case as psychological.",
+    "sighted object": "six unidentified flying objects",
+    "location": "Youngstown, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted], a 46-year-old housewife, characterized as psychologically mature but under emotional strain.",
+    "contains photographs": false
 }

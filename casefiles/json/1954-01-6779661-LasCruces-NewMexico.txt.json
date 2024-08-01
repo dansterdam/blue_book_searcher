@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A technician at the White Sands Proving Ground in New Mexico observed a pulsating light in the sky on January 25, 1954.",
-    "interesting points": [
-        "The object was observed through four complete cycles, with a pulsation period of approximately 1.2 seconds.",
-        "The technician confirmed that the object was the same as one observed at the Oboe Askania station, indicating a significant similarity.",
-        "The technician had five years of experience in astronomy and had observed thousands of meteors, and stated that this object was definitely not a meteor.",
-        "The object had a luminous appearance with no physical dimension detectable to the naked eye.",
-        "The object made an erratic motion, moving at a speed estimated to be between 30 and 135 degrees per second."
-    ],
-    "result": "unexplained",
-    "sighted object": "pulsating light",
-    "location": "White Sands Proving Ground, Las Cruces, New Mexico",
-    "witnesses": "technician",
-    "photographs": "no"
+    "main event": "An unidentified technician reported observing a pulsating light for approximately 5-6 seconds while preparing a camera station for a missile shoot on 25 Jan 1954.",
+    "interesting points": "The object was reported to be a pulsating light observed through four complete cycles,The period of pulsation was approximately 1.5 seconds,The technician had five years of experience in astronomy and was certain that the object was not a meteor,The object exhibited an erratic motion of 30° to 135° per second,The conclusion suggests the object could possibly be a balloon, aircraft, or astronomical phenomenon but couldn't be definitively identified.",
+    "sighted object": "a pulsating light",
+    "location": "Las Cruces, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a technician with experience in astronomical observations",
+    "contains photographs": false
 }

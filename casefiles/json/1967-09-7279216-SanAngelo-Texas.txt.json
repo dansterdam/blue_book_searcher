@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian woman spotted a spheroid green object in the sky near San Angelo, Texas on September 25, 1964.",
-    "interesting points": [
-        "The object was first noticed flashing among three stars in the northwest.",
-        "The object began moving slowly north, fluctuating back and forth on an axis parallel to its flight path, and hovered in the northwest sky.",
-        "The object then turned and moved southeast towards Goodfellow AFB, then turned north again and disappeared.",
-        "The local FAA tower and weather detachment had no record of aircraft or balloons in the area during the sighting.",
-        "The officer preparing the report stated he did not feel qualified to make any analysis concerning the UFO."
-    ],
-    "result": "insufficient data",
-    "sighted object": "one spheroid green object",
-    "location": "San Angelo, Texas",
-    "witnesses": "a civilian woman",
-    "photographs": "no"
+    "main event": "A civilian sighted a flying object in San Angelo, Texas on 25/09/1964.",
+    "interesting points": "The object hovered in a green light cone about the size of a TV screen., The sighting lasted approximately 30-45 seconds., The object initially moved northwest before changing direction towards Goodfellow AFB., There was no available angle of elevation for the sighting., The local FAA tower reported no flight activity in the area during the sighting.",
+    "sighted object": "one unidentified flying object",
+    "location": "San Angelo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer, elderly female, specifics unknown.",
+    "contains photographs": false
 }

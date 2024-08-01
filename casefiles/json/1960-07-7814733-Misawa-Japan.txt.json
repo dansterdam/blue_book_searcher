@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A reddish-orange ball appeared with flame protrusions and moved at an estimated 16,000 ft, observed to move at a steady or slightly erratic pace for 1-2 minutes.",
-    "interesting points": [
-        "The balloon seemed quite small and the color was brighter than normal weather balloons.",
-        "The vapor released at the time of explosion.",
-        "The object could not be tracked by radar.",
-        "Positive identification was not possible due to lack of information.",
-        "Multiple witnesses, including an American USAF air policeman and amateur astronomer, observed the object."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "A reddish-orange ball appeared with flame protrusions and moved at an estimated 16,000 ft observed to move at a steady or slightly erratic pace for 1-2 min.",
+    "interesting points": "The UFO was not tracked by radar,Positive identification was not possible due to lack of information,Several witnesses reported seeing the object transform into a doughnut shape,The sighting included descriptions of more than one ball by a witness while others only agreed on one,The event lasted approximately 10 minutes and occurred under clear weather conditions.",
     "sighted object": "reddish-orange ball with flame protrusions",
     "location": "Misawa, Japan",
-    "witnesses": "USAF air policemen and a Japanese security guard",
-    "photographs": "no"
+    "number of confirmed witnesses": 11,
+    "witness description": "USAF personnel and a Japanese security guard",
+    "contains photographs": false
 }

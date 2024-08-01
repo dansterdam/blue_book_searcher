@@ -1,15 +1,9 @@
 {
-    "main event": "A series of sightings of unidentified flying objects (UFOs) near Shiroi Air Base in Japan in November 1957 were reported. The sightings involved objects seen by multiple observers, including civilian guards and military personnel.",
-    "interesting points": [
-        "Sightings involved civilian guards and military personnel, and one of the observers, Sergeant Laybourne, had previously sighted a UFO between 1952 and 1954 and had taken color photographs of what appeared to him to be a flying saucer.",
-        "The weather observation at Shiroi Air Base was obtained from Haneda Air Base as there was no weather station at Shiroi Air Base.",
-        "A civilian guard, who was a translator, also had information regarding sightings but did not want to report officially.",
-        "The sightings were also reported in the YOKOHAMA SHINBUN newspaper and were considered significant enough to be documented and investigated by the U.S. Air Force.",
-        "The documents included descriptions of multiple sightings, sketches of the observed objects, and technical data such as weather conditions and location details."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying objects (UFOs)",
+    "main event": "A star-like object was observed at Shiroi Air Base, Japan for a duration of two hours on November 7, 1957.",
+    "interesting points": "The object was described as having a steady motion,The witness did not hear any sound from the object,Several possibilities were suggested for the object's nature including a balloon or an aircraft, It was reported that multiple observers saw the object, The sighting was part of the Project Blue Book documentation.",
+    "sighted object": "A star-like object",
     "location": "Shiroi Air Base, Japan",
-    "witnesses": "civilian guards, translators, and military personnel",
-    "photographs": "yes, Sergeant Laybourne had previously taken color photographs of a UFO"
+    "number of confirmed witnesses": 4,
+    "witness description": "Various personnel at the Shiroi Air Base, including civilian guards.",
+    "contains photographs": false
 }

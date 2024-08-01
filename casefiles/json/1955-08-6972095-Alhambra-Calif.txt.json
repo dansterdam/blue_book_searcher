@@ -1,15 +1,9 @@
 {
-    "main event": "A round, red object was sighted going straight up and headed east before fading away.",
-    "interesting points": [
-        "The object was observed for 3 minutes.",
-        "The object made no noise.",
-        "The sighting occurred at 0330Z on August 13, 1955.",
-        "The witness was a 46-year-old plumber located in Alhambra, California.",
-        "The weather was dark and clear with light winds from the west, and there was no other traffic in the area."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "round, red object",
-    "location": "Alhambra, California",
-    "witnesses": "46-year-old plumber",
-    "photographs": "no"
+    "main event": "A round, red object was observed moving straight up and headed east before fading away.",
+    "interesting points": "The sighting lasted for 3 minutes.,The object was described as round and red.,There were no other aircraft in the area during the sighting.,The observer reported it on 13 August 1955.,The conclusion indicated that it might be a weather balloon.",
+    "sighted object": "a round red object",
+    "location": "Alhambra, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 46-year-old plumber, no specific name provided",
+    "contains photographs": false
 }

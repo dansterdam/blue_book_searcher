@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white light the size of a basketball approached the observer's position at a high rate of speed, leveled off at about 500 feet, and then accelerated and climbed out of sight.",
-    "interesting points": [
-        "The object moved at a high rate of speed, stopped, made a right-angle turn, and then zig-zagged at a fast speed before disappearing.",
-        "The observers were aircraft mechanics who were familiar with aircraft in flight and considered to be reliable witnesses.",
-        "The sighting occurred on a clear night with a full moon and unrestricted visibility.",
-        "There were no reported radar or RAFCOP plots of the object.",
-        "The report was received by the duty officer over the telephone from the observers, but no conclusions were drawn about the nature of the sighted object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, white light the size of a basketball",
+    "main event": "A round, white light approximately the size of a basketball was observed at Tachikawa AB, Japan, moving at a high rate of speed before climbing out of sight.",
+    "interesting points": "The sighting lasted for about 10-15 minutes,The object approached the observer and leveled off at about 500 feet,It accelerated quickly and climbed out of sight,The weather conditions were clear with no cloud cover,The witness is described as a reliable source and familiar with aircraft.",
+    "sighted object": "one round white light",
     "location": "Tachikawa AB, Japan",
-    "witnesses": "aircraft mechanics",
-    "photographs": "no"
+    "number of confirmed witnesses": 3,
+    "witness description": "all observers are aircraft mechanics and familiar with aircraft in flight",
+    "contains photographs": false
 }

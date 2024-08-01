@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One round, amber-colored object the size of a basketball was observed for 15 minutes in Trenton, New Jersey on 01/01/54.",
-    "interesting points": [
-        "The object faded out after 15 minutes of observation.",
-        "The report suggests the object may have been a balloon due to its erratic course and duration of the sighting.",
-        "A separate report from 31 Aug 55 describes a similar sighting of a bright light, basketball-sized object that was observed for 15 minutes and also faded out.",
-        "The second report also suggests the object may have been a balloon due to its almost stationary course.",
-        "A third part of the document describes a color photograph taken of a UFO in August 1955, which showed a deep blue object with a surrounding blue glow following a horizontal trajectory."
-    ],
-    "result": "inconclusive",
-    "sighted object": "One round, amber-colored object the size of a basketball",
-    "location": "Trenton, New Jersey",
-    "witnesses": "Civilian and military",
-    "photographs": "Yes, a color photograph is described but not included in the report"
+    "main event": "A witness observed a bright blue-white object in the sky and captured a photograph of it in late August 1955.",
+    "interesting points": "The object was observed for a long time before the photograph was taken,The object did not follow a curved path like meteors,The photograph shows unusual colors and a distinct shape,The sighting lasted approximately 15 minutes,The report suggests the object could be evidence of extra-terrestrial visitation.",
+    "sighted object": "a bright blue-white object",
+    "location": "Trenton, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the photographer was talking with parents and had a camera ready",
+    "contains photographs": true
 }

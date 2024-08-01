@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were spotted near Midway Island on May 27, 1960.",
-    "interesting points": [
-        "The first object appeared to be a large green flare at an altitude of 22,000 feet, visible for about 30 seconds.",
-        "Sixty seconds later, another object was sighted on the same course, appearing to be on a horizontal plane and moving at an estimated speed of 1,200 to 1,500 mph.",
-        "The weather was clear above 15,000 feet, and there was no air traffic at the time.",
-        "The sighting was evaluated as a non-threat, but more information was requested to make a valid conclusion.",
-        "Similar objects had been observed before by the witnesses, but details were not provided."
-    ],
-    "result": "inconclusive",
+    "main event": "Two unidentified objects were sighted approximately 10 miles from Midway Island on May 27, 1960.",
+    "interesting points": "The first object was observed for approximately 300 seconds before making a sudden move to the north,60 seconds later, another object was sighted on the same course,The objects were estimated to have speeds of 1200 to 3000 mph and no sound or trails were observed,The weather was clear with no air traffic reported at the time of the sighting,The analysis sheet requested further information but did not receive a response, preventing a valid conclusion.",
     "sighted object": "two unidentified objects",
-    "location": "Vicinity of Midway Island",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "location": "Midway Island, NA, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

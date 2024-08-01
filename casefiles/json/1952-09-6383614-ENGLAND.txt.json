@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "Two circular objects, 5 inches in diameter, were sighted over England on September 29, 1952.",
-    "interesting points": [
-        "The objects were initially stationary, then moved off at high speed and disappeared into clouds.",
-        "The objects were reported to be flat in shape and did not have any visible exhaust.",
-        "The objects were estimated to be moving at a speed above Mach 1.",
-        "The witness had previously seen aircraft fly at the speed of sound at the Farnborough Air Show.",
-        "A British Royal Air Force jet fighter was reportedly seen over or near Sheerness about 10 minutes before the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "two circular objects",
+    "main event": "Two circular objects were sighted in England on 29 Sep 52, stationary, then moved off at high speed and disappeared into the clouds.",
+    "interesting points": "The objects were described as circular planes with a diameter of 5 inches., The observation lasted for about 3 minutes., The sighting was made by a person familiar with aircraft flying at the speed of sound., A RAF fighter had reported a target in the area about 10 minutes before the sighting., The objects moved off in a southern direction and exhibited no exhaust.",
+    "sighted object": "two circular objects in the sky",
     "location": "England",
-    "witnesses": "RAF observer",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "a person with experience observing aircraft",
+    "contains photographs": false
 }

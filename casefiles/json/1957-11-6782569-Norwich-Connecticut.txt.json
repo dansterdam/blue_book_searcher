@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO document:
-
 {
-    "main event": "A round, bright object was observed moving at a high rate of speed over a mountain in Norwich, Connecticut on November 10, 1957.",
-    "interesting points": [
-        "The object appeared to be a meteorite or ball of fire.",
-        "The object was observed for only 4 seconds before moving out of sight.",
-        "The description and short duration of the sighting are characteristic of a meteorite.",
-        "No photographs were taken of the object.",
-        "The sighting was classified as a ground-visual observation."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a round, bright object",
-    "location": "Norwich, Connecticut",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A civilian ground-visual observation of a UFO occurred on 10 November 1957 in Norwich, Connecticut.",
+    "interesting points": "The object appeared like a meteorite or ball of fire,The object moved at a high rate of speed out of sight over a mountain,The length of the observation was approximately 4 seconds,The sighting described one round object that started slow and was bright,The report suggests the characteristics of the sighting are typical of a meteorite.",
+    "sighted object": "one round object resembling a meteorite",
+    "location": "Norwich, Connecticut, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian ground-visual observation",
+    "contains photographs": false
 }

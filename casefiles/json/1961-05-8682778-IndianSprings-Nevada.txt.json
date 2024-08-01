@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "Military personnel tracked multiple unidentified objects via radar and visual observation over Indian Springs, Nevada on May 11, 1961.",
-    "interesting points": [
-        "Between 1 and 37 silver objects were tracked at altitudes estimated to be between 75,000-100,000 feet.",
-        "The objects were tracked by radar and visual observation over a period of approximately 4 hours, with the objects moving in various directions at variable speeds.",
-        "Ground-based radar and theodolite tracking were utilized to monitor the objects.",
-        "The Air Force was unable to identify the nature or origin of the objects.",
-        "Weather conditions at the time included high winds and dusty conditions."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified silver objects",
-    "location": "Indian Springs, Nevada",
-    "witnesses": "military personnel",
-    "photographs": "no photographs available"
+    "main event": "A weather observer at Indian Springs AFB Nevada reported unidentified objects tracked via theodolite and radar on May 11, 1961.",
+    "interesting points": "The objects were observed at altitudes estimated between 75,000 to 100,000 feet., The sighting lasted approximately four hours., A total of 27 separate objects were picked up on radar at one point., There was significant dust and high winds present during the observation., The report indicates that sightings were attributed to weather phenomena or unidentified aerial objects and not conventional aircraft.",
+    "sighted object": "unidentified flying objects tracked by theodolite and radar",
+    "location": "Indian Springs, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "weather observer at Nellis AFB",
+    "contains photographs": false
 }

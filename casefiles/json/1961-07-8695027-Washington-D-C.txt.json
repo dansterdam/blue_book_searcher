@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round white light was observed in the sky moving straight across from south to north at a constant speed in Washington, D.C. on June 22, 1961.",
-    "interesting points": [
-        "The object had an intense white glow and made no sound.",
-        "The sighting lasted for approximately 20 minutes before the object disappeared.",
-        "The observer had seen a similar object before and believed they were not man-made aircraft but of unknown origin.",
-        "The sighting occurred around the same time as the reported bursting of a high-altitude weather balloon.",
-        "The report includes details about the object's movement, altitude, and size."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round white light",
+    "main event": "A round white light was observed in the sky moving straight across from south to north at a constant speed.",
+    "interesting points": "The object had an intense white glow and emitted no sound.,The sighting lasted for approximately 20 minutes.,The observer reported this as the second sighting of such an object.,The observer believes the object is of an unknown origin and not man-made aircraft.,The sighting occurred at night at 2300 hours.",
+    "sighted object": "a round white light in the sky",
     "location": "Washington, D.C.",
-    "witnesses": "a single observer",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, age 25, presumed to be a physicist",
+    "contains photographs": false
 }

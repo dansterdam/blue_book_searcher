@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright star-like object was observed moving in an erratic, zigzag course at high speed before suddenly disappearing.",
-    "interesting points": [
-        "The object was under observation for 11 minutes and 30 seconds.",
-        "The object was described as being ballistic in nature.",
-        "The sighting occurred at 0430 hours on June 6, 1962.",
-        "Two photographs of the object were taken.",
-        "The object's movement was described as erratic and zigzag, indicating it was not a typical astronomical object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright star-like object",
-    "location": "Ground-Visual",
-    "witnesses": "naval personnel",
-    "photographs": "yes, the report includes 2 photographs"
+    "main event": "A bright star-like object was observed moving in an erratic, zigzag course at high speed before disappearing.",
+    "interesting points": "The object was under observation for 11:30 minutes,The report mentions the object was seen during morning star sightings,The object was compared to a Ferin magnitude star,The sighting occurred at a specific latitude and longitude,The ceiling and visibility conditions were described as unlimited.",
+    "sighted object": "bright star-like object",
+    "location": "unknown location, unknown region, unknown country",
+    "number of confirmed witnesses": 2,
+    "witness description": "U.S. Navy personnel involved in the sighting",
+    "contains photographs": false
 }

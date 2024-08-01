@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A large fireball was seen traveling from north to south on January 15, 1961 according to reports from people in the vicinity.",
-    "interesting points": [
-        "The fireball was described as being as large as or twice as large as the full moon.",
-        "The fireball was seen to have a 'blue flash' as it passed over the town of Manston.",
-        "Some observers reported hearing rumbling or cracking sounds about 20 seconds after the fireball passed over.",
-        "The fireball was estimated to be approximately 100 feet in diameter.",
-        "The fireball was observed by multiple witnesses in different locations, including a farm near Camp Douglas, 3 miles southeast of Luverne, and about 8 miles west of Minooque, Minnesota."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large fireball",
-    "location": "Port Arthur, Minnesota",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no"
+    "main event": "On January 15, 1961, a large fireball was observed traveling from north to south over various locations, including near Minocqua, Wisconsin.",
+    "interesting points": "Observers noted a strong sulfur odor in the area after the fireball passed., The fireball disintegrated in a burst of greenish light, with fragments shooting in all directions., Multiple witnesses reported seeing the fireball from different angles, indicating a possible path of the object., Some witnesses described the fireball as resembling a burning plane or a large star., There were reports of a humming sound and radio interference in vehicles as the fireball passed overhead.",
+    "sighted object": "a large fireball emitting light and possibly disintegrating",
+    "location": "Minocqua, Wisconsin, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Local residents and motorists noted the appearance and behavior of the fireball from various locations.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-	"main event": "A sighting of unidentified aerial objects was reported near Randolph AFB, Texas on 12 June 1952, lasting for about 30 minutes.",
-	"interesting points": [
-		"The objects appeared about three times as bright as Venus, four times as fast as an F-86 jet, and about one-twentieth the size of a full moon.",
-		"They were described as bright bluish-white in color and exhibited erratic movement patterns such as going back and forth, up and down, and suddenly appearing and disappearing.",
-		"The sighting was made from a drive-in theater by the Officer of the Physiology Branch of the Aero Medical Lab, WADC.",
-		"About 15 to 20 objects were observed, appearing one at a time and not fading out gradually.",
-		"The weather during the sighting was clear."
-	],
-	"result": "Possible: BIRDS",
-	"sighted object": "unidentified aerial objects",
-	"location": "Randolph AFB, Texas",
-	"witnesses": "Military personnel",
-	"photographs": "no photographs"
+    "main event": "An unidentified aerial object was observed near Randolph AFB, Texas on June 12, 1952, for about 30 minutes.",
+    "interesting points": "The object appeared about three times as bright as Venus,The object was observed to be four times as fast as an F-86 jet,It was described as being bright bluish-white in color,About 15 to 20 objects were observed one at a time,The sighting occurred from a drive-in theater near Randolph AFB.",
+    "sighted object": "unidentified aerial object",
+    "location": "Randolph AFB, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Officer of the Physiology Branch of the Aero Medical Lab, WADC",
+    "contains photographs": false
 }

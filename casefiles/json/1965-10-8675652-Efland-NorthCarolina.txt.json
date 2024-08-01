@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-  "main event": "A disc-like object was sighted in the northeast section of the sky in Efland, North Carolina on October 31, 1965.",
-  "interesting points": [
-    "The object was illuminated in a yellow color and blinked to blue-green colors at different times.",
-    "The object appeared to move to the right or left of the observer's line of sight, but was able to maintain a steady pace and did not appear to climb or descend.",
-    "A television station set up a camera on a tripod and observed the object.",
-    "Several individuals in the area had also observed the object, and the description matched an object sighted by many people throughout the southwest the previous month.",
-    "The object was described as being slightly larger than a small merchant aircraft, around 50 feet in diameter."
-  ],
-  "result": "Astro (GAFELLA)",
-  "sighted object": "disc-like object",
-  "location": "Efland, North Carolina",
-  "witnesses": "Multiple individuals, including a television station",
-  "photographs": "Yes, the report indicates that the television station filmed the object"
+    "main event": "A UFO sighting was reported in Efland, North Carolina, on October 31, 1965, involving a disc-like object that changed colors and moved slowly across the sky.",
+    "interesting points": "The object was described as triangular in shape and illuminated in red color,It was estimated to be approximately 50 feet in diameter and observed from a distance of about 8:30 p.m.,Several individuals in the area reported seeing the object as well,The object maintained a steady pace, moving left and right without climbing or descending,No sound or exhaust flame was observed during the sighting.",
+    "sighted object": "triangular-shaped illuminated object",
+    "location": "Efland, North Carolina, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Individuals in the area, including Miss Sara Hunt, who reported the sighting and had a camera set up to capture it.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was observed at 0257 hours Z, 16 May 1958 near Fort Bragg, North Carolina.",
-    "interesting points": [
-        "The object appeared to be slightly larger than the planet Mars and was red-orange in color.",
-        "The object moved at a terrific speed, following a steady 360-degree path.",
-        "The object faded from sight as it became obscured by cloud cover.",
-        "The sighting lasted for approximately 2-5 minutes.",
-        "The observer was a doctor of psychology with the American Embassy in The Hague, Netherlands."
-    ],
-    "result": "other (satellite)",
-    "sighted object": "a round object, slightly larger than the planet Mars, that was red-orange in color",
-    "location": "Fort Bragg, North Carolina",
-    "witnesses": "a doctor of psychology with the American Embassy in The Hague, Netherlands",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed at Ft Bragg, North Carolina, on May 16, 1958, appearing slightly larger than Mars and moving at a high speed.",
+    "interesting points": "The object was reported as round and red-orange, moving on a steady path before fading from sight into clouds., The sighting was observed by at least two individuals, with one estimating the duration as 2 minutes and the other as 5 minutes., The observer was a Doctor of Psychology associated with the American Embassy in the Hague., No confirmation of satellite track, but it was considered characteristic of an orbital observation., The sighting is thought to possibly be related to the known satellite 1958 Gamma or Sputnik III.",
+    "sighted object": "one red-orange round object",
+    "location": "Ft Bragg, North Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Doctor of Psychology and a Lt. Colonel in the military",
+    "contains photographs": false
 }

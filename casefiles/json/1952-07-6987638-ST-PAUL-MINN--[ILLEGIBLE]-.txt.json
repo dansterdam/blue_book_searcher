@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains multiple reports of UFO sightings, including descriptions of spherical or ship-like objects sighted in the sky with erratic movements and peculiar characteristics.",
-  "interesting points": [
-    "An unidentified flying object was reported to have been observed making rapid maneuvers in the vicinity of St. Paul, MN, and tracked by the 672nd Aircraft Control and Warning Squadron.",
-    "Reported objects exhibited behaviors such as changing speed, direction, and color, as well as giving off light and remaining motionless at times.",
-    "The sightings included observations through binoculars and telescopes, with mentions of specific details such as the size and color of the objects.",
-    "Witnesses reported hearing faint sounds during the sightings, resembling that of a jet or diesel locomotive, despite the objects being described as silent.",
-    "One of the reports mentioned a civilian man sighting a ship-like object resembling a sailing ship, with a red light observed through binoculars."
-  ],
-  "result": "unexplained",
-  "sighted object": "various unidentified flying objects including ship-like and spherical objects",
-  "location": "St. Paul, MN",
-  "witnesses": "civilian individuals, aircraft control and warning squadrons",
-  "photographs": "no photographs"
+    "main event": "A civilian man sighted an object resembling a sailing ship in St. Paul, Minnesota, tracked through binoculars until lost from view due to darkness.",
+    "interesting points": "The sighting occurred at 21:10 on 23/3/29., The object was described as resembling a sailing ship. The observer reported seeing a red light through binoculars., The object was tracked until it disappeared from view., The sighting was made under clear weather conditions., The report was part of the Project Blue Book documentation.",
+    "sighted object": "an object resembling a sailing ship",
+    "location": "St. Paul, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian man",
+    "contains photographs": false
 }

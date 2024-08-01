@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A group of observers reported seeing 4 unidentified objects with smoke trails over Carey Islands, Newfoundland on October 6, 1956.",
-    "interesting points": [
-        "The objects were described as elliptical shaped fireballs with smoke trails.",
-        "The objects were observed for 3-5 seconds, traveling at an estimated speed of 700-4500 mph.",
-        "The objects were orange-red in color and left a blue-white smoke contrail.",
-        "The weather was clear at the time of the sighting with low cloud cover at 3232 ft.",
-        "The observers described the objects as possibly being a meteor."
-    ],
-    "result": "unexplained",
-    "sighted object": "four elliptical shaped fireballs with smoke trails",
-    "location": "10 miles west of Carey Islands, Newfoundland",
-    "witnesses": "Pilots and 2 other observers",
-    "photographs": "yes, the report indicates that photos were taken"
+    "main event": "Multiple unidentified objects were reported in the sky on October 6, 1956, by observers from the Combr Air Division Defense.",
+    "interesting points": "Four unidentified objects were reported by observers Wilkins, Wilkes, and Rjebu., The objects were described as elliptical-shaped fireballs with smoke trails., Sighting lasted 3-5 seconds with an estimated speed of 700-4500 mph., No sound was heard during the observation., The weather was clear at the time of the sighting.",
+    "sighted object": "four elliptical-shaped fireballs",
+    "location": "Rjebo, Rjeborg, NF",
+    "number of confirmed witnesses": 3,
+    "witness description": "Observers from the Combr Air Division Defense.",
+    "contains photographs": false
 }

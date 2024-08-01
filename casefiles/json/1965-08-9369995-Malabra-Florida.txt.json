@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Photographer Lensman captured photographs of three unidentified flying objects near the launch site during the GT-5 launch.",
-    "interesting points": [
-        "The UFOs were green in color and exhibited bright phosphorescent lights.",
-        "The UFOs were spotted hovering near the rocket during the launch, with one UFO visible close to the rocket during the second stage.",
-        "The photographer, Lensman, was able to get color footage of the UFOs before they disappeared to the south.",
-        "The Air Force picked up the film for analysis, and the photographer expects to get his film back from them.",
-        "The International Formation of Intelligence Unidentified Flying Objects (IFOIU) is mentioned as a group working on solving the UFO mystery."
-    ],
-    "result": "unexplained",
-    "sighted object": "three unidentified flying objects",
-    "location": "Near Cape Kennedy, Florida",
-    "witnesses": "Photographer Lensman",
-    "photographs": "yes, the report includes photographs of the UFOs"
+    "main event": "Multiple witnesses observed bright green UFOs during the Gemini 5 launch near Cape Kennedy, Florida, on August 21, 1965.",
+    "interesting points": "James R. Peak photographed three unidentified flying objects shortly after the Gemini 5 launch., The UFOs appeared as brilliant green phosphorescent lights., Witnesses reported that the UFOs were seen moving at high speeds near the rocket launch area., The photographs were initially believed to show film defects but were later confirmed to depict actual UFOs., These sightings triggered interest and inquiry into the nature of the objects.",
+    "sighted object": "three bright green UFOs",
+    "location": "Malabra, Florida, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "James R. Peak and his three sons observed the UFOs during the launch.",
+    "contains photographs": false
 }

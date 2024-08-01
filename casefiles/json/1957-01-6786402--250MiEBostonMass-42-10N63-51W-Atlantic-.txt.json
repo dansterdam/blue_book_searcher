@@ -1,15 +1,9 @@
 {
-    "main event": "A single red flare was sighted at 42°19'N 63°51'W at 22:46Z on January 6, 1957. Nothing else was seen after that.",
-    "interesting points": [
-        "The sighting lasted for only 1 minute.",
-        "There were 6 to 10 objects observed.",
-        "The objects were following a unit course.",
-        "The report is described as a 'poor report'.",
-        "The case is from Project Blue Book records."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single red flare",
-    "location": "250 miles east of Boston, Massachusetts, in the Atlantic Ocean",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A single red flare was observed at the indicated location in the Atlantic Ocean on January 6, 1957.",
+    "interesting points": "The sighting lasted for only 1 minute., The observer reported seeing between 6 to 10 objects, although only one red flare was noted., The flare was reported to be at coordinates 42-06N 63-51W, 250 miles east of Boston., No additional objects were seen after the initial flare., The report was considered poor in quality.",
+    "sighted object": "one red flare",
+    "location": "Atlantic, Unknown, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "single observer of the flare",
+    "contains photographs": false
 }

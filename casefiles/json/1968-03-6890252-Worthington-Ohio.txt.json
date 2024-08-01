@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "The observer sighted an unidentified object for about 10 minutes in Worthington, Ohio on March 3, 1968.",
-    "interesting points": [
-        "The object was described as a large, metallic disc, but the observer had difficulty making out details.",
-        "The object disappeared suddenly behind a cloud.",
-        "The object also moved in front of a cloud at one point.",
-        "The observer estimated the object was about 300 yards away.",
-        "No sound was reported coming from the object."
-    ],
-    "result": "Probable CAITCRAFT",
-    "sighted object": "a large, metallic disc-shaped object",
-    "location": "Worthington, Ohio",
-    "witnesses": "one observer",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in Worthington, Ohio on March 3, 1968.",
+    "interesting points": "The observation lasted for about 10 minutes,The object was seen with the naked eye at both 2200 and 2300 hours,Physical evidence was reported in connection with the sighting,The Air Force concluded the object was likely a CAITCRAFT,The observer described the object as a large metallic disc but found it difficult to detail.",
+    "sighted object": "one unidentified flying object",
+    "location": "Worthington, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer described it as a large metallic disc.",
+    "contains photographs": false
 }

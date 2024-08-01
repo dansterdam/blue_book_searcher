@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object was observed hovering or moving slowly over the Aquadilla Airport area in Puerto Rico on December 17, 1960.",
-    "interesting points": [
-        "The object appeared to be very luminous and had a constant speed and direction.",
-        "The object initially appeared as a single object, then divided into two and then three objects, before recombining back into one.",
-        "The objects did not appear to be conventional aircraft.",
-        "The witness tried to find landmarks to determine the location and altitude of the objects, but was unable to do so due to the small size of the area around the Aquadilla Airport.",
-        "A separate handwritten account described an object that was oval-shaped, white in color, emitting a pale bluish-green glow, and moving with a slight wobbling motion."
-    ],
-    "result": "unexplained",
-    "sighted object": "a luminous object that divided into multiple objects and recombined",
-    "location": "Aquadilla, Puerto Rico",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A UFO sighting occurred over Aquadilla, Puerto Rico on 17 Dec 1960, described as an object hovering or moving slowly.",
+    "interesting points": "The sighting lasted for approximately 10 minutes, The object was observed visually and characteristics were similar to a satellite, No known satellites or space vehicles were present in the area during the sighting, The object appeared luminous and emitted a pale bluish-green glow, Multiple objects were initially observed that seemed to divide and then recombine.",
+    "sighted object": "one luminous object hovering in the sky",
+    "location": "Aguadilla, Puerto Rico",
+    "number of confirmed witnesses": 1,
+    "witness description": "A UFO sighting account from a Major in the USAF, who observed a luminous object over the Aquadilla Airport area.",
+    "contains photographs": false
 }

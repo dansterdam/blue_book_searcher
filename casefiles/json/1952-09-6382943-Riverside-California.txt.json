@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified aerial object sighting over Riverside, California on September 2, 1952.",
-    "interesting points": [
-        "The object was described as star-like in appearance, with blue, red, and yellow colors.",
-        "The object moved erratically from side to side and up and down.",
-        "The object was observed for approximately 2 minutes.",
-        "No identifying marks or characteristics were visible on the object.",
-        "The reliability of the observation is unknown."
-    ],
-    "result": "unexplained",
-    "sighted object": "star-like object with blue, red, and yellow colors",
-    "location": "Riverside, California",
-    "witnesses": "four civilians",
-    "photographs": "no"
+    "main event": "On 2 September 1952, four civilians observed an unidentified flying object described as star-like in appearance over Riverside, California.",
+    "interesting points": "The object was reported as blue, red, and yellow, and was moving erratically, The observation lasted approximately 2 minutes, No identifying marks or characteristics were visible, Wind velocity and direction during the sighting remain unknown, A radar review indicated it might have been similar to an aircraft or possibly a meteor.",
+    "sighted object": "unidentified flying object",
+    "location": "Riverside, California, U.S.A.",
+    "number of confirmed witnesses": 4,
+    "witness description": "civilians",
+    "contains photographs": false
 }

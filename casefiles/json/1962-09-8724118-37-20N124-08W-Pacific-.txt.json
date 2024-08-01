@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A sudden very fast target, almost directly overhead, up for 3 seconds, then gone, was detected by ground radar.",
-    "interesting points": [
-        "The target was detected at coordinates 37 30N, 124 08W in the Pacific Ocean.",
-        "The sighting occurred on September 8, 1962 at 0642.",
-        "The observation was made by ground radar, with no photographs taken.",
-        "The target was only visible for 19 seconds.",
-        "Only a single unidentified object was detected."
-    ],
-    "result": "unexplained",
-    "sighted object": "a sudden very fast radar target",
-    "location": "37 30N, 124 08W (Pacific Ocean)",
-    "witnesses": "ground radar",
-    "photographs": "no"
+    "main event": "A bright light was observed over the Pacific Ocean near 37-20N 124-08W on 8 September 1962.",
+    "interesting points": "The light was described as larger than a star and stationary for about 5 minutes before disappearing,The crew of a commercial jet observed the light at around 9:00 p.m. local time,The Air Force was unable to identify the light object,The sighting occurred approximately 300 miles west of the California coast,The target was reported as a sudden very fast object almost directly overhead before it was gone.",
+    "sighted object": "a bright light in the sky",
+    "location": "Pacific, Unknown, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "crew of a commercial jet aircraft",
+    "contains photographs": false
 }

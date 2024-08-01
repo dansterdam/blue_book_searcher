@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "An unidentified luminous object was observed over Warrensburg, Missouri on October 7, 1954.",
-  "interesting points": [
-    "The object was described as a bright light, circular in shape, and stationary in the sky, disappearing and reappearing at intervals.",
-    "The object was observed for a period of one hour at an altitude of approximately 5,000 feet.",
-    "Several residents of Warrensburg reported seeing the object in the southern part of the sky.",
-    "On October 8, 1954, a witness named Jesse H. Gosnell reported seeing a silvery, mirror-like UFO over Warrensburg, moving towards the northwest at a slow speed.",
-    "Two objects were observed by a group of about six people an hour apart, with the first object described as a cylindrical shape with a glass-like surface tube, and the second object appearing to be a brighter orange color."
-  ],
-  "result": "unexplained",
-  "sighted object": "Bright, circular light; silvery, mirror-like object; two unidentified objects",
-  "location": "Warrensburg, Missouri",
-  "witnesses": "Several residents, Jesse H. Gosnell, group of about six people",
-  "photographs": "No"
+    "main event": "Several witnesses observed an unidentified luminous object in the sky over Warrensburg, Missouri, on 7 October 1954.",
+    "interesting points": "The object was described as a bright light, circular in shape and stationary, disappearing and reappearing at intervals., The sighting lasted for about one hour., Witnesses estimated the object was at an altitude of approximately 5,000 feet., The object was visible in the southern part of the sky and was observed by multiple residents., Investigation mentioned the possibility of balloons or aircraft for previous sightings in the area.",
+    "sighted object": "unidentified luminous object",
+    "location": "Warrensburg, Missouri, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Residents of Warrensburg, including a civilian employee of the federal government.",
+    "contains photographs": false
 }

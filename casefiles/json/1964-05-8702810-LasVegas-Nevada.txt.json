@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian witness observed a moon-shaped object that changed to a star-shape over the course of 1 hour and 35 minutes near Las Vegas, Nevada in 1964.",
-    "interesting points": [
-        "The object was initially comparable to a basketball at arm's length, but diminished to the size of a pinhead by the end of the sighting.",
-        "The object had a bright glow around its perimeter at first, which diminished to a pinhead-sized white light by the end.",
-        "The object moved slowly to the northeast with left and right tracking movements.",
-        "The witness, a 25-year-old construction worker, took a photograph of the object, but it did not show up on the film.",
-        "The weather conditions at the time included clear skies overhead, partly cloudy conditions around St. George, Utah, and strong winds."
-    ],
-    "result": "The sighting was concluded to be a weather balloon released by the weather station at McCarren Field, Las Vegas.",
-    "sighted object": "moon-shaped object that changed to a star-shape",
-    "location": "Near Las Vegas, Nevada",
-    "witnesses": "1 civilian witness, a 25-year-old construction worker",
-    "photographs": "Yes, but the object did not appear on the film"
+    "main event": "A construction worker observed an object that changed shape from moon-like to star-like over Las Vegas in 1964.",
+    "interesting points": "The sighting lasted for 1 hour and 35 minutes., The object was initially moon-shaped and transformed to a star-shape., The object exhibited bright glow and moved from northeast to northwest., The observation coincided with the release of a weather balloon from McGarren Field., The report concluded that the sighted object was likely a weather balloon.",
+    "sighted object": "one object changing shape",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 25-year-old construction worker for Burghar Corp.",
+    "contains photographs": false
 }

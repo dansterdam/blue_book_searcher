@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "On February 9, 1963, a witness in Maysville, Kentucky observed a bright orange light, approximately the size of a basketball, hovering over a field before suddenly accelerating and moving out of sight.",
-    "interesting points": [
-        "The object remained stationary for several minutes before suddenly accelerating and moving out of sight.",
-        "The witness stated the object made no sound and exhibited no visible means of propulsion.",
-        "The witness was certain the object was not an aircraft, satellite, or any other known object.",
-        "The witness appears to be credible and has no known history of fabrication or delusion.",
-        "The description of the object is consistent with other UFO reports from the area."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright orange light, approximately the size of a basketball",
-    "location": "Maysville, Kentucky",
-    "witnesses": "a 34-year-old housewife",
-    "photographs": "no"
+    "main event": "Multiple witnesses in Maysville, Kentucky reported seeing bright, luminescent objects in the sky on February 9, 1963.",
+    "interesting points": "Witnesses described the objects as bright lights that changed color from white to red,The sightings included details of the object moving at high speeds and making erratic maneuvers,One witness claimed to have observed the object for approximately 10 minutes,The case was investigated by Dr. J. Allen Hynek, a noted UFO researcher,Photographs were taken by a witness, although the report states that the images do not contain clear evidence of the objects.",
+    "sighted object": "bright, luminescent objects",
+    "location": "Maysville, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 34-year-old housewife observed a bright orange light.",
+    "contains photographs": true
 }

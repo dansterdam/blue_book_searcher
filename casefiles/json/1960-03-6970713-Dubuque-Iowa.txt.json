@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "On March 4, 1950, two civilian adults driving a car in Dubuque, Iowa saw three unidentified objects traveling at 1,500-2,000 mph.",
-    "interesting points": [
-        "The objects were the size of a quarter in the sky and occasionally blinked on and off.",
-        "The source and size/altitude of the objects were difficult to determine.",
-        "The objects suddenly changed direction and became stationary before disappearing.",
-        "Similar sightings were reported by other observers in the area.",
-        "The sighting lasted for about 20 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three unidentified, quarter-sized objects",
-    "location": "Dubuque, Iowa",
-    "witnesses": "two civilian adults in a car",
-    "photographs": "no, the report does not mention any photographs"
+    "main event": "On March 4, 1950, two civilians reported sighting three luminous objects in the sky over Dubuque, Iowa.",
+    "interesting points": "The objects were described as being the size of a quarter and traveling at speeds estimated between 1500-2000 mph,The sighting lasted approximately 20 minutes,The objects occasionally blinked on and off before disappearing,One witness, an airline instructor, captured the sighting on film,The objects changed direction and became stationary during the observation.",
+    "sighted object": "three elliptical and disc-shaped luminous objects",
+    "location": "Dubuque, Iowa, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two civilian adults driving a car, familiar with reporting sightings",
+    "contains photographs": false
 }

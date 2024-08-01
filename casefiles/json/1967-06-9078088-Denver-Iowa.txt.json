@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "A round, white object was spotted in the sky near Denver, Iowa on June 21, 1967.",
-    "interesting points": [
-        "The object was observed for 10 minutes before disappearing to the northeast.",
-        "The object was at an angle of 45 degrees to the horizon when first spotted, and 60 degrees when it disappeared.",
-        "The object moved in a straight line at a speed that was not excessively fast.",
-        "The weather conditions were clear with less than one-tenth cloud cover and calm winds.",
-        "The preparing officer concluded that the object was likely a high-flying aircraft or possible satellite."
-    ],
-    "result": "unidentified",
-    "sighted object": "round, white object",
-    "location": "Denver, Iowa",
-    "witnesses": "two farmers, ages 37 and 39",
-    "photographs": "no"
+    "main event": "On June 21, 1967, a circular, silver, bright unidentified object was observed in the sky near Denver, Iowa.",
+    "interesting points": "The object emitted no sound during the observation., The sighting lasted for approximately 2 minutes., The object was described as having no discernible features., It disappeared by moving behind a house., Observers included two farmers with unknown reliability.",
+    "sighted object": "circular, silver, bright object",
+    "location": "Denver, Iowa, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two farmers, ages 37 and 39, reliability unknown",
+    "contains photographs": false
 }

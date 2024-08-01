@@ -1,15 +1,9 @@
 {
-    "main event": "A radar sighting occurred in the North Atlantic on 18 April 1948, where an unidentified object was tracked at 11,000 ft and a speed of 20 mph.",
-    "interesting points": [
-        "The radar contact was thoroughly searched visually, but no physical objects or weather fronts were found in the area.",
-        "The target's strength was 55 fading at 15,000 yards, and the target was observed fading from view at high altitude.",
-        "The report includes a checklist detailing the characteristics of the unidentified flying object, such as its speed, distance from the observer, and manner of disappearance.",
-        "Dr. Hynek's evaluations extracted from the Project Grudge report categorize various incidents into different probabilities and explanations, from astronomical to non-astronomical with no evident explanation.",
-        "The document was forwarded to the Headquarters Air Materiel Command, Wright-Patterson Air Force Base, Dayton, Ohio for further information."
-    ],
-    "result": "The report suggests that the incident was categorized as a radar sighting of an unidentified object, and the evaluation in the document raises the possibility of the sighting referring to a flock of migrating birds.",
-    "sighted object": "Unidentified radar target",
-    "location": "North Atlantic, 62°00'N 33°00'W",
-    "witnesses": "Weather station patrol",
-    "photographs": "no"
+    "main event": "Radar sighting of an unidentified object in the North Atlantic on 18 April 1948.",
+    "interesting points": "The sighting was classified as radar contact at 1500 GMT, suggesting a speed of approximately 20 mph at an altitude of 11,000 ft., The object was evaluated as likely being birds, but no astronomical explanation was found probable., The first contact was made visually at a distance of 6000 yards., The radar target was tracked to a distance of 18,000 yards without any surface radar indications., The phenomenon was documented by the Coast Guard and reported for further analysis.",
+    "sighted object": "unidentified radar target",
+    "location": "North Atlantic, Unknown Region, Unknown Country",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer from weather station patrol",
+    "contains photographs": false
 }

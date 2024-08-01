@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright object was observed in the northwest sky that was compared to a bright blinking light moving slowly to the northwest.",
-    "interesting points": [
-        "The object was described as brighter than the brightest star and a blue-green light.",
-        "One object disappeared to the north, while the other one just faded out.",
-        "The observer stated they had seen similar objects in the area before.",
-        "The sighting lasted for about 10 minutes.",
-        "The observer was an amateur astronomer."
-    ],
-    "result": "Satellite (ECHO II) / Possible Aircraft (no data to indicate it couldn't be an aircraft)",
-    "sighted object": "One or two bright objects in the sky",
-    "location": "Dayton, Ohio",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A bright object in the night sky was observed in Dayton, Ohio, on October 1, 1966, for approximately 4-5 minutes.",
+    "interesting points": "The object was stationary and compared to a bright blinking light moving slowly to the northwest., It was determined to be the star Arcturus based on its position and brightness., The observer, who studied stars in the sky, noted that none were flickering or moving like the observed object., There were multiple witnesses to the sighting, including civilians., The object was bright, and there was interest in the potential for additional physical evidence.",
+    "sighted object": "a bright object in the sky",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Civilians in the area",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed in the sky over North Hollywood, California in 1957, performing maneuvers similar to a weather balloon, and was in sight for 5 to 10 minutes.",
-    "interesting points": [
-        "The object was performing maneuvers that resembled those of a weather balloon, but it was classified as unidentified.",
-        "The sighting lasted for a significant duration, between 5 to 10 minutes, allowing for ample observation.",
-        "The location of the sighting in North Hollywood, California adds credibility due to the urban setting and potential witnesses.",
-        "The report was part of Project Blue Book, a government program designed to study UFO sightings.",
-        "Despite the observation, no further report or explanation was found in the file, leaving the incident unexplained."
-    ],
-    "result": "unexplained",
-    "sighted object": "one object in the sky",
-    "location": "North Hollywood, California",
-    "witnesses": "potentially urban population",
-    "photographs": "no"
+    "main event": "One object was observed in the sky performing maneuvers similar to a weather balloon.",
+    "interesting points": "The object was in sight for 5 to 10 minutes., The object appeared to perform unusual maneuvers., The location of the sighting was North Hollywood, California., The report does not have a definitive identification for the object., There is no additional report in the file regarding this sighting.",
+    "sighted object": "one unidentified object in the sky",
+    "location": "North Hollywood, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

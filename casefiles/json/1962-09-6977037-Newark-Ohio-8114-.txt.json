@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
     "main event": "A man in Newark, Ohio reported seeing a bright, rapidly moving object in the sky on September 6, 1962.",
-    "interesting points": [
-        "The object was described as round, with a glowing red light, and moved silently at a high rate of speed.",
-        "The witness was unable to determine the size or distance of the object due to the poor lighting conditions.",
-        "The witness reported the incident to the local police, who in turn notified the Air Force.",
-        "An investigation was launched, and the object was determined to be an unidentified flying object (UFO).",
-        "A physical trace was found at the reported location, which was collected and sent to the Air Force for analysis."
-    ],
-    "result": "unexplained",
+    "interesting points": "The object was described as round with a glowing red light,The object moved silently at a high rate of speed,The witness was unable to determine the size or distance due to poor lighting conditions,The local police were notified and subsequently reported the sighting to the Air Force,Physical trace evidence was found at the location and sent for analysis.",
     "sighted object": "a bright, round object with a glowing red light",
-    "location": "Newark, Ohio",
-    "witnesses": "a man",
-    "photographs": "yes, 1 photo of a rock or meteorite sample"
+    "location": "Newark, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a man in Newark, Ohio",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A glowing object was observed over the Washington and Portland, Oregon area for 15-20 seconds.",
-    "interesting points": [
-        "The object moved faster than an aircraft, stopped, and restarted.",
-        "The object was at an elevation of 20-30 degrees.",
-        "The weather was dark at the time of the observation.",
-        "The description of the sighting is characteristic of a ballistic-type observation, possibly a meteor.",
-        "The brevity of the observation and lack of details precluded a definitive conclusion, so the case was listed as 'Insufficient Data for Evaluation'."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "glowing object",
-    "location": "Washington and 30 mile area of Portland, Oregon",
-    "witnesses": "military and civilian",
-    "photographs": "no"
+    "main event": "An unidentified glowing object was observed in the Portland, Oregon area on 30 September 1960, moving faster than an aircraft and unique aerial maneuvering.",
+    "interesting points": "The object was described as being the size of a marble and glowing brightly before fading,The sighting lasted for approximately 15-20 seconds,The object moved faster than traditional aircraft, halted, and then resumed motion,Initial conclusions suggested it might be astronomical phenomena, likely a meteor, but this remains inconclusive due to insufficient details,The event involved multiple witnesses including both military and civilians.",
+    "sighted object": "a glowing object in the sky",
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel and civilians",
+    "contains photographs": false
 }

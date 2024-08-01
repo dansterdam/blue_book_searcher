@@ -1,15 +1,9 @@
 {
-	"main event": "Several unidentified aerial phenomena were sighted over the Atlantic Ocean on different dates in 1951 and 1952.",
-	"interesting points": [
-		"The sightings included a brilliant light that came up through an overcast and disappeared as it went into the clouds.",
-		"No other aircraft or surface vessels were reported in the area at the time of the sightings, adding to the mystery.",
-		"The crew of the aircraft encountering the light were well acquainted with the sighting and it was considered unusual, leading to an investigation.",
-		"The light that was sighted was estimated to be about 40 feet in diameter, with no sound or trail, and it approached a plane at high speed before pulling away.",
-		"The report indicated that many illusions could easily be confused as a pilot, suggesting the potential for misinterpretation of the sightings."
-	],
-	"result": "unexplained",
-	"sighted object": "unidentified aerial phenomena",
-	"location": "Atlantic Ocean",
-	"witnesses": "pilots and crew members of the aircraft",
-	"photographs": "no, the report does not include any photographs"
+    "main event": "A pilot observed a light descending in the Atlantic Ocean on 22 July 1951.",
+    "interesting points": "The pilot expressed uncertainty regarding the accuracy of his observation, suggesting that the light might have been from 15,000 ft.,The light was described as brilliant white and seemed to disappear into overcast clouds,No other aircraft or vessels were found in the area during the sighting,The sighting led to an investigation by a dispatched aircraft,The incident was deemed unusual and warranted further inquiry.",
+    "sighted object": "a brilliant white light",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 2,
+    "witness description": "Pilot and co-pilot of R-29 aircraft",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, reddish-white light was spotted passing over Atmore, Alabama on May 13, 1961.",
-    "interesting points": [
-        "The light was observed by multiple witnesses, including Mr. Howe.",
-        "The light passed over the area in an east to west direction and was visible for 30-45 seconds.",
-        "The investigating officer concluded the light was likely from the underside of a commercial or military jet aircraft, as similar lights have been observed on jets during night flights.",
-        "Atmore is located about 5 nautical miles north of a heavily traveled jet airway, which supported the investigator's conclusion.",
-        "The investigator advised Mr. Howe to report any future occurrences, but concluded no further action was needed for this report."
-    ],
-    "result": "explained",
-    "sighted object": "a bright, reddish-white light",
-    "location": "Atmore, Alabama",
-    "witnesses": "Mr. Howe and several other persons",
-    "photographs": "no"
+    "main event": "A bright reddish-white light was observed passing over Atmore, Alabama on 13 May 1961.",
+    "interesting points": "The light was visible for approximately 30 to 45 seconds., The sighting involved several observers including Mr. J.D. Howe., The light was described as being rather brilliant and possibly under the fuselage of an aircraft., Atmore is near a heavily traveled jet airway, emphasizing the possibility of aircraft as the source., The investigation concluded the light was likely navigation lights from either commercial or military aircraft.",
+    "sighted object": "a bright reddish-white light",
+    "location": "Atmore, Alabama, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mr. J.D. Howe and several others",
+    "contains photographs": false
 }

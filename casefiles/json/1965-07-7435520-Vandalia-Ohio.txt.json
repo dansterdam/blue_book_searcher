@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing a silvery, disc-shaped object making vertical and horizontal movements over Vandalia, Ohio on July 3, 1965.",
-    "interesting points": [
-        "The object was described as metallic in appearance, with lights flashing on and off on the underside.",
-        "The observer attempted to follow the object in his automobile but lost sight of it about 6 miles southeast of Vandalia.",
-        "Several other witnesses in the area reported seeing a similar object and described it in a consistent manner.",
-        "The sighting lasted for about 20-30 minutes.",
-        "An Air Force report concluded the object was likely an Ohio National Guard F-100 jet from Cincinnati."
-    ],
-    "result": "unexplained",
-    "sighted object": "a silvery, disc-shaped object",
-    "location": "Vandalia, Ohio",
-    "witnesses": "a civilian and several other witnesses",
-    "photographs": "no"
+    "main event": "A UFO was reported in Vandalia, Ohio on multiple occasions in July 1965, with witnesses describing an object that was circular, silvery in color, and larger than normal aircraft.",
+    "interesting points": "The sightings lasted from 3 minutes to 30 minutes.,Witnesses reported two lights, one white and one red, during one of the sightings.,Accounts from multiple witnesses described similar characteristics of the object.,The object displayed characteristics consistent with unidentified aerial devices.,One report concluded that a sighted object was likely a satellite, and another was considered normal aircraft.",
+    "sighted object": "circular, silvery object with lights",
+    "location": "Vandalia, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "A superintendent from the Ohio Department of Highways and several residents in the area reported sightings.",
+    "contains photographs": false
 }

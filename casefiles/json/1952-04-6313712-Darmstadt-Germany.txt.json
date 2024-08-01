@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A brilliant white light was observed on a collision course with a C-47 aircraft over Darmstadt, Germany on March 15, 1952.",
-    "interesting points": [
-        "The object took evasive action when the light from the aircraft was directed towards it.",
-        "The object appeared to be the size of a jet plane.",
-        "The object remained just off the C-47 or jet exhaust at night.",
-        "No other aircraft in the vicinity were able to sight the object.",
-        "The sighting lasted for about 3 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a brilliant white light",
+    "main event": "An unidentified aerial object was sighted near Darmstadt, Germany, on 25 April 1952 by military personnel during a training flight.",
+    "interesting points": "The object was described as a brilliant white light on a collision course with a C-47,The sighting lasted approximately 3 minutes,The object displayed high-speed climbing capabilities,The observer, Capt. Albert E. Prudence, is a credible rated officer with regular observation experience,The unidentified object took evasive action when illuminated by the aircraft's light.",
+    "sighted object": "brilliant white light",
     "location": "Darmstadt, Germany",
-    "witnesses": "Capt. Albert E. Prudence, instructor pilot",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "military officers, Capt. Albert E. Prudence and Lt. Hartman",
+    "contains photographs": false
 }

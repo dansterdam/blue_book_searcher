@@ -1,17 +1,9 @@
-Based on the provided UFO report text, here is the JSON summary with the required information:
-
 {
-    "main event": "A civilian observed an unidentified aerial object for 3-15 minutes in Peterson, Minnesota in January-March 1967.",
-    "interesting points": [
-        "The object appeared solid and sharply outlined.",
-        "The object changed brightness and flashed or flickered during the sighting.",
-        "The observer could not determine if the object made any sound or what color it was.",
-        "Other witnesses also reported seeing the object.",
-        "The observer could not estimate the speed or distance of the object."
-    ],
-    "result": "Unresolved (Unreliable)",
-    "sighted object": "One unidentified aerial object",
-    "location": "Peterson, Minnesota",
-    "witnesses": "Civilian",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A civilian reported a UFO sighting in Peterson, Minnesota on January 8, 1967.",
+    "interesting points": "The object was observed for 15-30 minutes,The sighting occurred during the day with bright conditions,There was one confirmed object,The witness believed the object was solid and noticed it appeared to stand still at times,The witness indicated that there was physical evidence present.",
+    "sighted object": "one unidentified flying object",
+    "location": "Peterson, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

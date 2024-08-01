@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian radar operator tracked several unidentified targets at 25,000 feet, traveling at high speeds of around 2,000 knots in Terre Haute, Indiana on 9/29/59.",
-  "interesting points": [
-    "The targets were observed on radar for about 4 minutes and then went off the screen, indicating high-speed and maneuverable behavior.",
-    "The witness, a competent and experienced radar operator, lends significance to the report.",
-    "The USAF's SAFOI-34 file listed the incident as a case of 'possible equipment malfunction', despite the radar operator's observations.",
-    "An unidentified flying object sighting by a civilian was reported to the U.S. Air Force with no official conclusions reached as to their cause.",
-    "A president of Research and Studies Committee on Aerial Phenomena observed unusual lights and maneuvering fireballs in the sky on multiple occasions."
-  ],
-  "result": "unexplained",
-  "sighted object": "multiple unidentified high-speed targets on radar, unusual lights, and fireballs in the sky",
-  "location": "Terre Haute, Indiana",
-  "witnesses": "civilian radar operator, president of Research and Studies Committee on Aerial Phenomena, pilot",
-  "photographs": "no"
+    "main event": "A civilian radar operator tracked several unidentified targets on radar at about 25,000 feet, traveling at high speed, on September 29, 1959.",
+    "interesting points": "The radar operator observed the targets on his radar for about 4 minutes before they disappeared from the screen., The targets were estimated to be traveling at around 2,000 knots., No visual sightings were made despite the radar observations., The sighting was investigated by Major Harold E. Taplin and presented at a conference., The incident was recorded as a possible equipment malfunction in the Project Blue Book files.",
+    "sighted object": "unidentified radar targets",
+    "location": "Terre Haute, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian radar operator with competence and experience",
+    "contains photographs": false
 }

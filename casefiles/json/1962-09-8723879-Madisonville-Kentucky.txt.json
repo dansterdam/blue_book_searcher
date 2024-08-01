@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Observation of spinning glass-fiber like objects with apparent spin class in Madisonville, Kentucky on September 11, 1952.",
-    "interesting points": [
-        "The objects were described as elliptical in shape and multiple in number.",
-        "The objects were observed floating and descending with a 15 mph wind.",
-        "The sighting lasted for 1 hour and 30 minutes.",
-        "The objects were observed at a distance of 5 to 6 miles.",
-        "The report included sketches of the objects and their movement, but no photographs."
-    ],
-    "result": "Inconclusive, listed as possible weather balloon, meteor, or astronomical phenomenon.",
-    "sighted object": "Spinning, glass-fiber like elliptical objects",
-    "location": "Madisonville, Kentucky",
-    "witnesses": "Multiple witnesses",
-    "photographs": "No, the report included sketches but no photographs"
+    "main event": "Multiple elliptical glass-fiber like objects were observed floating and descending in Madisonville, Kentucky for 1 hour 30 minutes.",
+    "interesting points": "The objects appeared to spin and were carried by a wind of 15 mph., Citizens reported seeing a shower of shiny metallic particles falling from the sky., A Kentucky State Police memorandum noted no sounds or detonations were reported during the sighting., There were prior similar incidents in the area without further investigation deemed necessary., The reporting officer concluded this incident was likely a natural meteorological phenomenon.",
+    "sighted object": "multiple elliptical, spinning glass-fiber like objects",
+    "location": "Madisonville, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "individual from the local area",
+    "contains photographs": false
 }

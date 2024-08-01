@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white object was observed in the sky over Albany, Oregon on April 20, 1966.",
-    "interesting points": [
-        "The object was about half the size of a dive and was very bright white in color.",
-        "The object was trailing another object.",
-        "The object was moving very fast and was out of sight within one minute.",
-        "The witness glanced up and saw the object climbing and heading south, then southwest.",
-        "No other physical evidence or photographs were reported."
-    ],
-    "result": "AIRCRAFT (Possible)",
-    "sighted object": "one round, white object",
-    "location": "Albany, Oregon",
-    "witnesses": "1 civilian witness",
-    "photographs": "No"
+    "main event": "A civilian observed a bright, round unidentified aircraft in Albany, Oregon on 20 April 1966.",
+    "interesting points": "The sighting lasted for only one minute,The object was moving very fast towards the south-southwest,There was another object trailing the main aircraft,The report was part of Project 10073,The object was bright white and one half the size of a dive.",
+    "sighted object": "one round, bright white unidentified aircraft",
+    "location": "Albany, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, age 15",
+    "contains photographs": false
 }

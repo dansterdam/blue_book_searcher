@@ -1,15 +1,9 @@
 {
-  "main event": "The UFO report details sightings and investigations from Green Bay, Wisconsin in 1955 and 1956, including descriptions of multiple unidentified flying objects and related incidents, as well as opinions on the validity of the sightings.",
-  "interesting points": [
-    "The report describes sightings of oval and cigar-shaped UFOs, with varying sizes and formations observed.",
-    "There are accounts of descending flying saucers, red streaks in the air, and objects dispersing into darkness.",
-    "One witness reported seeing what appeared to be parachutes, which later took on an appearance of bubbles and disappeared.",
-    "The report includes comments and opinions from field officers suggesting the possibility of fabrication and hoax.",
-    "The witness was a serviceman for the National Cash Register Company, adding credibility to the report."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying objects (UFOs)",
-  "location": "Green Bay, Wisconsin, USA",
-  "witnesses": "Multiple witnesses, including servicemen and civilians",
-  "photographs": "No, the report does not contain any photographs"
+    "main event": "A report from Project Blue Book detailing a sighting of unidentified flying objects near Green Bay, Wisconsin on August 25, 1955.",
+    "interesting points": "The sighting lasted between 10 to 30 seconds,The observed objects were described as having a cigar shape and were approximately the size of a P-47,The observer initially thought the objects were parachutes but later retracted that statement,Investigation indicated that the sighting may have been a hoax,The report mentions that the observer had been under a doctor's care prior to the sighting.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Green Bay, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "serviceman for National Cash Register Company, age 26",
+    "contains photographs": false
 }

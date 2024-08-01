@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A civilian observed a bright, solid object in the sky over Fairfield, Iowa on September 19, 1962.",
-    "interesting points": [
-        "The object suddenly climbed at tremendous speed, faded in the distance, and then turned and became all light.",
-        "The object made no sound.",
-        "The witness was unsure if the object made a 90-degree turn before climbing rapidly.",
-        "Other witnesses in the area reported similar sightings of the object.",
-        "The sighting lasted for 4-5 minutes."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, solid object",
-    "location": "Fairfield, Iowa",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A sighting of a possible lenticular saucer was reported on September 19, 1962 in Fairfield, Iowa.",
+    "interesting points": "The object was described as bright and smaller than the stars., It suddenly climbed at tremendous speed and faded in the distance., The object was solid and emitted no sound., Witnesses noted that it turned and became all light., The sighting lasted approximately 4-5 minutes.",
+    "sighted object": "possible lenticular saucer",
+    "location": "Fairfield, Iowa, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "One witness who worked as a painter",
+    "contains photographs": false
 }

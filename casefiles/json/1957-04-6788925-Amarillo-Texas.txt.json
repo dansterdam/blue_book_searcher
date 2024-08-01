@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A 13-year-old boy spotted a round, silver object the size of a dime at arm's length, moving north to south for 5 seconds in Amarillo, Texas on April 22, 1957.",
-    "interesting points": [
-        "The object was described as round, silver, and the size of a dime at arm's length.",
-        "The object was moving in a straight line from north to south.",
-        "The sighting lasted for 5 seconds.",
-        "A weather balloon had been released from the Amarillo civilian weather station around 42 minutes before the sighting, and the wind conditions were such that the balloon could have been blown over the city.",
-        "The sergeant and the report author concluded that the boy's observation was unreliable."
-    ],
-    "result": "unknown",
-    "sighted object": "a round, silver object",
-    "location": "Amarillo, Texas",
-    "witnesses": "a 13-year-old boy",
-    "photographs": "no"
+    "main event": "A boy observed a round silver object, the size of a dime at arm's length, moving North to South for five seconds on 22 April 1957.",
+    "interesting points": "The object was visible for only five seconds., The sighting occurred at dusk., The observer was a 13-year-old boy from Amarillo., The report mentions the possible influence of a weather balloon released earlier in the day., The object's description includes being round and silver in color.",
+    "sighted object": "one round silver object",
+    "location": "Amarillo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 13-year-old boy",
+    "contains photographs": false
 }

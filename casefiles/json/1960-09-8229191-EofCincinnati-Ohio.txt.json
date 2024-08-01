@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two witnesses saw a very bright, flickering light in the sky that traveled very rapidly in a straight line and disappeared.",
-    "interesting points": [
-        "The object was seen in Cincinnati, Ohio on August 29, 1963 at around 8:30 PM.",
-        "The sighting lasted for approximately 5 minutes.",
-        "The witnesses could not determine the size, shape, or altitude of the object.",
-        "The phenomenon could not be satisfactorily explained.",
-        "Another report mentions an object that was blue in color and moving very fast while descending, but the distance or height could not be estimated."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a very bright, flickering light in the sky",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "two unidentified witnesses",
-    "photographs": "no photographs included"
+    "main event": "Two witnesses observed a very bright, flickering light in the sky that traveled rapidly and disappeared.",
+    "interesting points": "The sighting lasted about 5 minutes., The object was described as being very bright and flickering., The witnesses could not determine the size, shape, or altitude of the object., The phenomenon was classified as having insufficient data for evaluation., The sighting was reported in Cincinnati, Ohio.",
+    "sighted object": "a bright flickering light",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "witnesses included Nicholas Radoji and Herman Pilot Durke, 23, a Pan-American Airlines employee.",
+    "contains photographs": false
 }

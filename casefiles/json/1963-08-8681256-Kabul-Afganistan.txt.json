@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A large, incandescent object was observed passing through 50 degrees of arc from west to east by a ground radar station in Kabul, Afghanistan.",
-    "interesting points": [
-        "The object was described as a large meteorite or the reentry of a space vehicle.",
-        "The object was observed to be approximately 3 times larger than any previously observed meteor.",
-        "The length of the burning trail was extremely long.",
-        "Contact with SPADATS (Space Detection and Tracking System) revealed no known decays or space object reentries for the date of the sighting.",
-        "The case was ultimately resolved as a meteor observation."
-    ],
-    "result": "Resolved as a meteor observation",
-    "sighted object": "A large, incandescent object",
+    "main event": "An extremely large meteorite or reentry of a space vehicle was observed passing through 50 degrees of arc from West to East.",
+    "interesting points": "The object was incandescent and appeared to be three times larger than any previously observed meteor., The length of the burning trail was extremely long., The observation lasted for 2 minutes and 16 seconds., There were no decays reported for this date according to SPADATS., The case was ultimately resolved as a meteor observation.",
+    "sighted object": "one large meteorite or reentry vehicle",
     "location": "Kabul, Afghanistan",
-    "witnesses": "Ground radar station",
-    "photographs": "Yes, the report includes photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "military source",
+    "contains photographs": false
 }

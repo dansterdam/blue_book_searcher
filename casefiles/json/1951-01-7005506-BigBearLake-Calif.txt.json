@@ -1,15 +1,9 @@
 {
-    "main event": "A pilot spotted an unidentified object near Big Bear Lake, California on January 14, 1951.",
-    "interesting points": [
-        "The sighting was a ground-visual observation made by a pilot.",
-        "The report includes photographs of the object.",
-        "The object was observed for an unspecified length of time.",
-        "The report indicates the object's course was 0 degrees.",
-        "The conclusions section suggests the object was possibly a balloon, but there was insufficient data for a more complete evaluation."
-    ],
-    "result": "inconclusive",
-    "sighted object": "an unidentified object",
-    "location": "near Big Bear Lake, California",
-    "witnesses": "a pilot",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A pilot reported sighting an object near Big Bear Lake, California on January 14, 1951.",
+    "interesting points": "The object was described as potentially being a balloon., The observation was a ground-visual type., There was only one object reported., The duration of the observation was not specified., Insufficient data was available for a more detailed evaluation.",
+    "sighted object": "one object possibly a balloon",
+    "location": "Big Bear Lake, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "pilot",
+    "contains photographs": false
 }

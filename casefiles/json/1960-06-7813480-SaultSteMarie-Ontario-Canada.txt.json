@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was filmed by a woman in Sault Ste. Marie, Ontario, Canada in 1960.",
-    "interesting points": [
-        "The woman was filming contrails in the sky when she captured the image of a disc-like phenomenon on her 8mm film.",
-        "The object was accompanied by a loud sonic-type boom that was heard by many people in the area.",
-        "The film was analyzed and prints were made, showing the object's appearance changing from a rectangular shape to a circular shape as it progressed.",
-        "The image may have been caused by a lens aberration when the camera lens was exposed to direct sunlight.",
-        "The sound could have been caused by the passing of a high-altitude aircraft coinciding with the appearance of the image."
-    ],
-    "result": "Unexplained",
-    "sighted object": "Disc-like phenomenon",
-    "location": "Sault Ste. Marie, Ontario, Canada",
-    "witnesses": "Mrs. ----",
-    "photographs": "Yes, 8mm film and still enlargements were taken"
+    "main event": "Mrs. ___ captured film footage of a disc-like phenomenon while taking pictures of contrails on June 7, 1960.",
+    "interesting points": "The film shows a bright object that created a loud sonic boom heard by many in Sault Ste. Marie area.,The object was not visible to Mrs. ___ until after film processing.,Three 24\"x34\" negatives are included in the case.,The image processed from the film appeared to show a rectangular shape that became circular.,Contrails were noted in the sky, suggesting high-flying aircraft presence at the same time.",
+    "sighted object": "disc-like phenomenon",
+    "location": "Sault Ste Marie, Ontario, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. ___ captured the event using a standard Brownie Kodak camera.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A round, disc-shaped object was observed in the sky near Dalty, Utah on September 8, 1960.",
-    "interesting points": [
-        "The object was larger than it appeared and brighter than the planet Venus.",
-        "The object changed color from white to red-orange, and the color became brighter and more intense while it was stationary.",
-        "The object appeared to be 'standing still' at one point.",
-        "The object was observed for 3-5 minutes.",
-        "The report concluded that the object was the planet Venus."
-    ],
-    "result": "The object was determined to be the planet Venus.",
-    "sighted object": "A round, disc-shaped object",
-    "location": "Dalty, Utah",
-    "witnesses": "Unknown",
-    "photographs": "No photographs were included in the report."
+    "main event": "A UFO was reported in Dalty, Utah, where an object was observed changing colors and brightness.",
+    "interesting points": "The object was described as larger than it appeared and disc-shaped,Much brighter than the planet Venus,The color of the object changed from white to red-orange while it was stationary,The object appeared to be standing still during the observation,The conclusion of the report suggested that the object was actually the planet Venus.",
+    "sighted object": "a disc-shaped object changing colors",
+    "location": "Dalty, Utan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian, age 47, truck driver from Salt Lake City, Utah",
+    "contains photographs": false
 }

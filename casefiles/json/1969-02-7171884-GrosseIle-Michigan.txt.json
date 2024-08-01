@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The observer sighted a white light that traveled ESE and was visible for 3 minutes.",
-    "interesting points": [
-        "The object appeared as a brilliant self-luminous, elliptical object with a whitish center. The edges were sharp at one time and then fuzzy, and at its lower point it appeared to touch down to the ground or water.",
-        "The object was about the size of a paper match head as seen through a telescope.",
-        "The observer used a telescope, binoculars, and a camera to observe the phenomenon.",
-        "The observer's friend got cold during the sighting.",
-        "The observer had not seen this or a similar phenomenon before."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian observer reported a sighting of a white light traveling ESE over Grosse Ile, Michigan, for approximately 3 minutes.",
+    "interesting points": "The sighting lasted for 3 minutes,The object was described as a brilliant self-luminous elliptical shape with a whitish center,The object appeared sharp at one point and then fuzzy,The observer noted the object reached down to the ground at its lower point,The sighting was made using binoculars and a telescope.",
     "sighted object": "a white light",
-    "location": "Grosse Ile, Michigan",
-    "witnesses": "one civilian observer",
-    "photographs": "no"
+    "location": "Grosse Ile, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer John McKay Smith, male",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "Two boys in Emmett, Idaho reported seeing a flying saucer and took a photograph of it, but the incident turned out to be a hoax.",
-    "interesting points": [
-        "The boys initially told their parents and others in the community about the sighting, and the report was forwarded to authorities.",
-        "Investigators determined that the boys had fabricated the story and the photograph was not authentic.",
-        "The Air Force receives many reports of UFO sightings each year, and many turn out to be hoaxes.",
-        "The Prosecuting Attorney in Emmett, Idaho investigated the case and advised the boys that they should not relay any more untrue stories.",
-        "The Air Force decided to close the inquiry and report, as it was determined to be a hoax."
-    ],
-    "result": "hoax",
-    "sighted object": "a disc-shaped, luminous object described as a 'flying saucer'",
-    "location": "Emmett, Idaho",
-    "witnesses": "two boys, around 10-11 years old",
-    "photographs": "yes, but the photographs were determined to be faked"
+    "main event": "Two boys from Emmett, Idaho claimed to have seen a flying saucer, but it was later determined to be a hoax.",
+    "interesting points": "The boys initially convinced locals and authorities of their sighting,Their stories included fabricated details,They confessed to making up the incident,Investigation by Smiths Institute revealed it was a hoax,Photographs allegedly shown were faked.",
+    "sighted object": "flying saucer",
+    "location": "Emmett, Idaho, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two boys aged 10 to 11 years old",
+    "contains photographs": false
 }

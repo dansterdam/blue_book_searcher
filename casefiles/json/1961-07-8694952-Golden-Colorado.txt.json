@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "Observed 3 bright, spherical objects hovering in area. Thunderstorms.",
-    "interesting points": [
-        "The objects were described as bright and spherical in shape.",
-        "The sighting occurred during thunderstorms in the area.",
-        "The duration of the observation is not specified.",
-        "The report states that there was insufficient information for evaluation.",
-        "The report includes technical details about the sighting location and altitude."
-    ],
-    "result": "unexplained",
+    "main event": "Three bright, spherical objects were observed hovering during thunderstorms.",
+    "interesting points": "The sighting occurred in an area with thunderstorms., The objects were described as bright spherical shapes., The observation lasted for approximately one minute., The objects disappeared behind Lookout Mountain., The report was submitted by a former Air Force pilot.",
     "sighted object": "three bright, spherical objects",
-    "location": "Colorado",
-    "witnesses": "electrical engineer, former AF pilot",
-    "photographs": "no"
+    "location": "Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "electrical engineer, former AF pilot",
+    "contains photographs": false
 }

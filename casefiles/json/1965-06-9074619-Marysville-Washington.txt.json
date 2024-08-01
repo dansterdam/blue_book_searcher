@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A lighted, life-size flying object the size of an airliner was spotted over Marysville, Washington.",
-    "interesting points": [
-        "The object was described as cold and luminous grayish in color.",
-        "The witness was watching for an STCC satellite when they spotted the object.",
-        "The object was observed for about 1 minute, moving from south to north.",
-        "The object was lost from view at 45 degrees elevation due to floral obstruction.",
-        "No supporting evidence or radar contacts were found to corroborate the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a lighted, life-size object the size of an airliner",
-    "location": "Marysville, Washington",
-    "witnesses": "a civilian witness",
-    "photographs": "no"
+    "main event": "A civilian observer reported a sighting of a lighted, life-size flying object resembling an airliner in Marysville, Washington.",
+    "interesting points": "The object was described as cold and luminous gray,The observer was watching for the SCTC Satellite at the time of the sighting,The sighting lasted for approximately one minute,The object was lost from view due to floral obstruction,No corroborating evidence or photographs were available for the report.",
+    "sighted object": "lighted flying object, approximately the size of an airliner",
+    "location": "Marysville, Washington, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a 31-year-old male and a 47-year-old female from Marysville, Washington",
+    "contains photographs": false
 }

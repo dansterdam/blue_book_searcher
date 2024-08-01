@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains evaluations from Project Grudge Report and a report of a crash of an unidentified flaming object in Mexico in 1947.",
-  "interesting points": [
-    "Dr. Hynek's evaluations categorize sightings into astronomical and non-astronomical with different probabilities and explanations.",
-    "Reports mention a false announcement by the Mexican War Department regarding a V-2 rocket launched from a U.S. Army experimental station in Texas.",
-    "A request for all available information regarding an unidentified flying object reported to have crashed into the mountains of Mexico was made.",
-    "The report includes an unverified message about suspected aerial objects landing in Mexico near the town of Fabens, Texas.",
-    "The presence of an unidentified flaming object raises questions about the origin and nature of the object."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flaming object",
-  "location": "Mexico near the town of Fabens, opposite the Mexican Garrison of Juarez",
-  "witnesses": "Mexican War Dept., Mexican Garrison of Juarez, CG AAM, CGC, Brahan Intelligence Officer Ft. Bliss, Tex",
-  "photographs": "no photographs, only text documents and communications"
+    "main event": "On October 12, 1947, a mysterious object described as a 'falling star' was reported to have crashed in the San Blas Mountains of Mexico.",
+    "interesting points": "The object was reported as blue or silver in color and was seen moving from North to West., The Mexican War Department suggested it might be a V-2 rocket launched from Texas., Local military officials labeled the initial reports of a rocket explosion as 'false'., Multiple official communications referenced the unidentified flying object and requested information about it., The sighting led to continuing investigations by military officials on both sides of the border.",
+    "sighted object": "unidentified flying object described as a falling star",
+    "location": "Caseta, Chihuahua, Mexico",
+    "number of confirmed witnesses": 0,
+    "witness description": "Reports from the Mexican War Department and local military garrison officials",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was sighted in the ENE, appearing as one bright point in the center and two flashing lights on the side, with colors of white, red, and green.",
-    "interesting points": [
-        "The object appeared nearly stationary and was observed for 1.5 hours.",
-        "The object did not move like a typical aircraft, with the observer noting it did not move as a plane or other known object would.",
-        "The observer used binoculars to try to make out the form of the object, but was unable to do so.",
-        "The observer described the object as making a strange buzzing or whining sound.",
-        "The observer felt the object was definitely not an explainable phenomenon based on their experience watching many such objects in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright point of light with two flashing lights on the side",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian observer sighted a bright object with two flashing lights in Dayton, Ohio on February 7, 1968.",
+    "interesting points": "The object was observed for approximately 1.5 hours and appeared nearly stationary., The colors reported were white, red, and green., The observer had experience watching similar phenomena at night., There were two confirmed witnesses to the observation., The sighting was reported to the Air Force for further investigation.",
+    "sighted object": "a bright object with two flashing lights",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

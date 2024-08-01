@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A silver, oblong object the size of a nickel at arm's length was observed to be stationary in the sky over Santa Barbara, California.",
-    "interesting points": [
-        "The object was observed for 10 minutes.",
-        "The object was at an altitude of approximately 25 degrees and at 300 degrees.",
-        "The object was definitively identified as a balloon.",
-        "The report includes photographs of the observed object.",
-        "The observation was made by a civilian witness."
-    ],
-    "result": "identified as a balloon",
-    "sighted object": "one silver, oblong object",
-    "location": "Santa Barbara, California",
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "An oblong, silver object was observed in the sky near Santa Barbara, California on 28 June 1955.",
+    "interesting points": "The object was the size of a nickel held at arm’s length.,The observation lasted for ten minutes.,The object's altitude was approximately 25°.,The object was stationary during the observation.,The object was eventually determined to be a balloon.",
+    "sighted object": "one oblong, silver object",
+    "location": "Santa Barbara, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "Observation of an unusual celestial phenomenon at Maxwell Field, Montgomery, Alabama on the night of 23 June 1947 by multiple credible observers.",
-  "interesting points": [
-    "The observed object appeared from the West, traveled at a high rate of speed, and changed direction frequently in a zig-zag course.",
-    "It appeared to be at a great height and was slightly greater than a star in brilliance.",
-    "There was no audible sound associated with the object.",
-    "The object's behaviors contradicted known aerodynamical laws, and no plausible explanation was offered for its actions.",
-    "The report mentions that two of the observers were rated pilots, and the other two were air intelligence officers."
-  ],
-  "result": "Balloon",
-  "sighted object": "An unusual light with brilliance slightly greater than a star, traveling at high speeds and changing directions in a zig-zag course.",
-  "location": "Maxwell Field, Montgomery, Alabama",
-  "witnesses": "Credible observers including rated pilots and air intelligence officers.",
-  "photographs": "No photographs provided"
+    "main event": "Observers at Maxwell Field in Montgomery, Alabama sighted a star-like object moving east then south at approximately 2120 Central time on 23 June 1947.",
+    "interesting points": "The object exhibited frequent bursts of speed while changing direction in a zig-zag manner,The object was brighter than a star but emitted no audible sound,The sighting lasted over 5 minutes before the object was lost in the brilliancy of the moon, The observers were military personnel, including rated pilots and air intelligence officers, The report indicated that no plausible explanation for the object's behavior was found, suggesting it acted contrary to known aerodynamical laws.",
+    "sighted object": "star-like object",
+    "location": "Montgomery, Alabama, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Captains and 1st Lieutenants from air intelligence and tactical air command",
+    "contains photographs": false
 }

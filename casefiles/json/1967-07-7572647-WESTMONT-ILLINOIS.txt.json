@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a single unidentified flying object in Westmont, Illinois on July 25, 1967 for 2-3 seconds.",
-    "interesting points": [
-        "The object was described as circular in shape, approximately 30 feet in diameter, and hovering at an estimated altitude of 1000 feet.",
-        "The object appeared to be brightly lit and emitting a pulsating light.",
-        "The witness observed the object for approximately 10 minutes before it suddenly accelerated and disappeared from sight.",
-        "The Westmont Police Department responded to the call but was unable to locate or identify the object.",
-        "Project Blue Book was notified of the incident and requested to investigate further, but the case was listed as 'insufficient data for evaluation' due to lack of physical evidence."
-    ],
-    "result": "insufficient data",
-    "sighted object": "a single unidentified flying object",
-    "location": "Westmont, Illinois",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "On July 25, 1967, a civilian reported a sighting of an unidentified flying object in Westmont, Illinois.",
+    "interesting points": "The sighting lasted for 2-3 seconds,The object was observed ascending rapidly at about a 40-degree angle,The reported object had a flattened ring-like top and an inverted saucer-like bottom,The witness and his friend were in a car approximately 1/4 mile away when observing the phenomenon,No physical evidence or photographs were obtained during the investigation.",
+    "sighted object": "an unidentified flying object, described as oblong with a color effect",
+    "location": "Westmont, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian, traveling in a car",
+    "contains photographs": false
 }

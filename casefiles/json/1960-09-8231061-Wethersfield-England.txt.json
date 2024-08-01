@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pale-like object, light green to white in color, changing shape continuously but remaining fairly circular, was observed moving at high speed over Wethersfield, England.",
-    "interesting points": [
-        "The object was tracked by ground radar for 30 minutes.",
-        "The object's color changed from light green to white.",
-        "The object's shape changed continuously but remained fairly circular.",
-        "The object moved at a high speed, travelling from northwest to southeast.",
-        "The report indicates that the information was too limited for valid conclusions to be made."
-    ],
-    "result": "unexplained",
-    "sighted object": "pale-like object, light green to white in color, changing shape continuously but remaining fairly circular",
+    "main event": "A UFO sighting reported on September 6, 1960, involving a pale-like object moving at high speed.",
+    "interesting points": "The object was light green to white in color,The object's shape changed continuously but remained fairly circular,The sighting lasted for 30 minutes,There was only one object observed,The report stated that information was too limited for valid conclusions.",
+    "sighted object": "a pale-like object changing shape",
     "location": "Wethersfield, England",
-    "witnesses": "ground radar",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

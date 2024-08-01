@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A bright white, elliptical object was sighted over Lake Charles, Louisiana, maneuvering at speeds up to 3,000 mph.",
-    "interesting points": [
-        "The object changed direction and appeared to have lights attached to or as part of it.",
-        "The object initially appeared circular in size, then grew darker and smaller.",
-        "It appeared to have a trail or exhaust, and moved at extremely high speeds.",
-        "The object hovered for a few seconds, then shot off in an upward-southward direction.",
-        "Another sighting of a bright red light moving along the same path was reported shortly after the initial sighting."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Bright white, elliptical object",
-    "location": "Lake Charles, Louisiana",
-    "witnesses": "Unspecified civilian witnesses",
-    "photographs": "None"
+    "main event": "A bright white, elliptical object was observed in Lake Charles, Louisiana, moving rapidly.",
+    "interesting points": "The object maneuvered at speeds up to 3000 mph,The observation record indicates it was daytime during the sighting,No sound was reported during the observation,There were no other aircraft noted in the area at the time of the sighting,The conclusion suggested the object could be a balloon or possibly an astronomical source.",
+    "sighted object": "bright white elliptical object",
+    "location": "Lake Charles, Louisiana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three individuals involved in the report",
+    "contains photographs": false
 }

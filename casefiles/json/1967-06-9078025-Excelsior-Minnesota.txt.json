@@ -1,17 +1,9 @@
-Here is the requested JSON summary based on the provided UFO report text:
-
 {
-    "main event": "The report describes various observations of unidentified aerial phenomena, including sightings of lights, objects, and other unexplained aerial activity over Excelsior, Minnesota in 1967.",
-    "interesting points": [
-        "The report includes multiple sightings by different witnesses, including a farmer who saw a bright light in the sky that hovered, maneuvered erratically, then shot up and disappeared.",
-        "Some of the sightings involved objects or lights described as hovering, spherical, or shifting in size and shape.",
-        "The report includes requests for additional information and investigation by the U.S. Air Force's Project Blue Book program.",
-        "Photographs were reportedly taken of some of the sightings, but the image quality is described as poor or unclear.",
-        "The report mentions that no other known witnesses could be identified at the time of some of the incidents."
-    ],
-    "result": "unexplained",
-    "sighted object": "Unidentified aerial lights, objects, and phenomena",
-    "location": "Excelsior, Minnesota",
-    "witnesses": "Multiple residents and observers",
-    "photographs": "Yes, but poor quality"
+    "main event": "On June 9, 1967, a witness observed a bright light in the sky southeast of Excelsior, Minnesota. The object was estimated to be 1/2 mile in diameter and approximately 500 feet above the ground, seen for about 10 minutes before it rapidly accelerated and disappeared.",
+    "interesting points": "The sighting was reported to the local police department,No other witnesses are known at this time,The object was described as spherical in shape and silvery in color,The object was hovering at a low altitude of about 500 feet,The sighting has been documented as part of Project Blue Book, a historical U.S. Air Force program.",
+    "sighted object": "a bright light in the sky",
+    "location": "Excelsior, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. T.L. Wallis, male, age 40, occupation student, excellent reliability",
+    "contains photographs": true
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A pilot reported seeing a bright red light over Big Spring, Texas. The object was described as a disc-shaped object with no tail or exhaust trail.",
-  "interesting points": [
-    "The pilot reported the object was moving at a terrific speed, estimated to be over 500 mph.",
-    "The object was sighted at an altitude of approximately 15,000 feet.",
-    "The object was not lit and the pilot was unable to describe its color or shape.",
-    "The report was considered a 'very poor report' by the investigators.",
-    "The sighting lasted for approximately 15 seconds."
-  ],
-  "result": "unknown",
-  "sighted object": "disc-shaped object",
-  "location": "Big Spring, Texas",
-  "witnesses": "pilot",
-  "photographs": "none"
+    "main event": "A disc-shaped object was observed over Big Spring, Texas, lasting approximately 15 seconds.",
+    "interesting points": "The object was reported as having no tail or exhaust trail., The sighting was recorded under Project Blue Book., It was not illuminated and had no wings., The object's speed was estimated to exceed 500 MPH., The sighting included various evaluations regarding potential balloon activity.",
+    "sighted object": "disc-shaped object",
+    "location": "Big Spring, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Pilot who reported a bright red light and unusual object.",
+    "contains photographs": false
 }

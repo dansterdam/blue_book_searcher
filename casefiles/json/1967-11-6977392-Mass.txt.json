@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, round object that changed color from white to red and back, silently hovering and moving in various directions was observed in Palmer, Massachusetts on September 17, 1967.",
-    "interesting points": [
-        "The object was estimated to be 8-10 feet in diameter and at an altitude of 700-800 feet above ground level.",
-        "The object's speed varied, reaching up to 150 mph at times.",
-        "The object's motion was described as hovering and moving in different directions.",
-        "The weather conditions were partly cloudy with calm winds.",
-        "The sighting lasted for 15-20 minutes."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright, round object that changed color from white to red and back",
-    "location": "Palmer, MA",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A bright, round object was observed hovering and moving silently in various directions near Palmer, Massachusetts on 17 September 1967.",
+    "interesting points": "The object changed colors from white to red and back to white during the observation., The object's size was estimated to be approximately 8-10 feet in diameter., It was reported to be hovering at an altitude of 700-800 feet., The object was observed for a duration of 15-20 minutes., The weather conditions were partly cloudy with calm winds.",
+    "sighted object": "bright round object changing colors",
+    "location": "Palmer, Massachusetts, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Redacted observers",
+    "contains photographs": false
 }

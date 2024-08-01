@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, dime-sized object with a reddish-purple color was observed drifting northwest in Wheaton, Illinois on May 20, 1956.",
-    "interesting points": [
-        "The object was observed for approximately 25 minutes.",
-        "The report indicates that the sighting was likely caused by the planet Venus.",
-        "The object was described as holding a distinct reddish-purple color.",
-        "The object appeared to be drifting northwest.",
-        "The report includes the statement that a message requesting more information was sent in response to this sighting."
-    ],
-    "result": "Probable astronomical - Venus",
-    "sighted object": "one round, dime-sized object with a reddish-purple color",
-    "location": "Wheaton, Illinois",
-    "witnesses": "unspecified",
-    "photographs": "yes, the report indicates that photos were taken"
+    "main event": "A UFO sighting involving a round object the size of a dime, drifting northwest in Wheaton, Illinois on May 20, 1956.",
+    "interesting points": "The object had a distinct reddish-purple color,The sighting lasted for approximately 25 minutes,The sighting was classified as a ground-visual observation,Comments suggest the object could be the planet Venus or a balloon,The report is part of Project Blue Book documentation.",
+    "sighted object": "one round object the size of a dime",
+    "location": "Wheaton, Illinois, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

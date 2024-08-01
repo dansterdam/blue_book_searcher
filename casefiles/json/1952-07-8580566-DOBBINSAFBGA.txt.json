@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Observers reported that a saucer-shaped object made passes over a ground craft while being tracked by ground radar units at Dobbins AFB, Georgia.",
-    "interesting points": [
-        "The object was described as silver in color and saucer-shaped, with revolving rings.",
-        "The object was estimated to be flying at an altitude of approximately 5,000 feet.",
-        "The object was observed by a Lt. Col. gun crew commander who confirmed the sighting.",
-        "The object was tracked for approximately 30 seconds before losing track of it.",
-        "The object was estimated to be traveling at a speed of around 450 mph."
-    ],
-    "result": "unexplained",
-    "sighted object": "saucer-shaped object with revolving rings",
-    "location": "Dobbins AFB, Georgia",
-    "witnesses": "Lt. Col. gun crew commander",
-    "photographs": "no"
+    "main event": "Observers at Dobbins AFB GA reported a disc making passes on ground craft while being tracked by ground radar units.",
+    "interesting points": "The object appeared stationary initially before moving off at high speed NNE., The altitude of the object was estimated to be 3,000 ft., The object was round, had a diameter of 50 ft, and was bright in color., Speed estimates varied from 300 mph to 450 mph by different observers., The weather was clear with visibility of approximately 15 miles during the sightings.",
+    "sighted object": "unidentified flying disc",
+    "location": "Dobbins AFB, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt Col Gun Crew Commander WMO",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Three bright lights were observed hovering and maneuvering over Carswell AFB in Texas on February 13, 1953.",
-    "interesting points": [
-        "The lights were able to accelerate rapidly with no visible exhaust.",
-        "The lights displayed unusual flight behaviors, including darting about, stopping, and changing direction at high speeds.",
-        "The lights were observed both visually and on radar, but the radar returns could not be definitively identified.",
-        "The lights climbed to an estimated altitude of 20,000 feet before disappearing.",
-        "Multiple witnesses from Carswell AFB and the nearby Convair factory observed the lights."
-    ],
-    "result": "unexplained",
-    "sighted object": "Three bright lights in the sky",
-    "location": "Carswell AFB, Texas",
-    "witnesses": "Radar operators, air traffic controllers, and civilian witnesses",
-    "photographs": "No photographs were taken"
+    "main event": "On February 13, 1953, three bright lights were observed traveling at high speeds over Fort Worth, Texas, with radar detections also noted.",
+    "interesting points": "Visual observation by a civilian showed the lights arranged in vertical echelon and maneuvering rapidly,The lights accelerated from 500 feet apart to 20,000 feet in altitude within moments,The sighting lasted for 10-15 seconds before the lights disappeared,Intermittent radar detection of the lights was noted,Two of the three lights were successfully picked up on radar, but one was lost in noise.",
+    "sighted object": "three bright lights in the sky",
+    "location": "Fort Worth, Texas, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Mr. [REDACTED] and three other members of Department 76 at Convair observed the incident.",
+    "contains photographs": false
 }

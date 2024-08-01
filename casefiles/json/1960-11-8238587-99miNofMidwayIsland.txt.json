@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two bright colored objects were visually sighted by Major C.E. Gillis over the Pacific Ocean, approximately 50 miles northwest of Midway Island.",
-    "interesting points": [
-        "The objects were observed for a total of 13 minutes, with the first sighting at 14:11:32 and the second at 14:13:02.",
-        "The objects were estimated to be less than 5 miles away, flying at the same altitude as the observer's aircraft.",
-        "The objects were in level flight on a heading of 010 degrees.",
-        "The report includes satellite contact information, with one object detected at 14:11:52 at a range of 300 degrees and 24 miles, and another at 14:11:52 at a range of 019 degrees and 12 miles.",
-        "The observer's aircraft was traveling on a course of V141323 with a 10-degree tail wind at an altitude of 550 feet and a true heading of 309 degrees at 14:11:32."
-    ],
-    "result": "inconclusive",
-    "sighted object": "two bright colored objects",
-    "location": "50 mi. NW of Midway Island, Pacific Ocean",
-    "witnesses": "Major C.E. Gillis",
-    "photographs": "no"
+    "main event": "Radar targets were observed descending at 1500 feet per minute 50 miles NW of Midway Island.",
+    "interesting points": "The targets were observed for 19 minutes on radar,Two radar targets were detected at an altitude of 6,000 feet,There was insufficient data for conclusive identification of the objects,Additional investigation was required due to conflicting reports at the time,The sighting did not match characteristics of a balloon.",
+    "sighted object": "two radar targets",
+    "location": "Midway Island, Pacific Ocean, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "No confirmed eyewitnesses reported.",
+    "contains photographs": false
 }

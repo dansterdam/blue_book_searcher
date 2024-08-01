@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright reddish-yellow light source of undetermined size and shape was observed hovering approximately 100 feet above the ground near Osceola, Wisconsin on July 29, 1952.",
-    "interesting points": [
-        "The object was observed for approximately 45 seconds before disappearing at a high rate of speed.",
-        "No sound was noted from the object.",
-        "Due to the mountainous terrain in the area, the object was only observed for brief periods at a time.",
-        "Radar displays showed an unidentified object moving at an estimated 700 mph on a straight NW to SE course.",
-        "The incident is considered unexplained, as no physical trace evidence was found and no corroborating witnesses were identified."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright reddish-yellow light source of undetermined size and shape",
-    "location": "Osceola, Wisconsin",
-    "witnesses": "single witness driving on highway",
-    "photographs": "no, the report indicates that attempts to photograph the object were unsuccessful"
+    "main event": "On July 7, 1952, Mr. Vincent L. Rasmussen reported observing a strange bright light hovering in the sky over his home in Osceola, Wisconsin.",
+    "interesting points": "The light was estimated to be approximately one quarter to one half mile distant., The light was attached to a round, dark object of undefined size., The light changed in size and intensity, sometimes emitting rays or beams., The sighting lasted for approximately 30 minutes., Mr. Rasmussen and several other witnesses tried unsuccessfully to photograph the object.",
+    "sighted object": "a round, dark object with a bright light",
+    "location": "Osceola, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Vincent L. Rasmussen described the object as a bright reddish-yellow light source hovering approximately 100 feet above the ground.",
+    "contains photographs": false
 }

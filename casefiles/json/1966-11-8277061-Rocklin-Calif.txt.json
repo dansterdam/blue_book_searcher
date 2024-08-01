@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Observers watched a strange, half-dome shaped object descend from above and make controlled maneuvers in Rocklin, California on September 29, 1962.",
-    "interesting points": [
-        "The object appeared to be silently hovering and then moved off in two or three different directions.",
-        "The object was observed for about 30 minutes, but was not in view the entire time.",
-        "The description is consistent with an unidentified flying object, but there is insufficient information to make a conclusive evaluation.",
-        "The witness estimated the object was about 1500 feet away and moving at 30-100 mph, slowing down and appearing to stop at times.",
-        "The witness described the object as having a bright orange-yellow color and lights that had indentations, comparing it to a glass or window-like appearance."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a strange, half-dome shaped object",
-    "location": "Rocklin, California",
-    "witnesses": "multiple observers",
-    "photographs": "none"
+    "main event": "Observers watched a strange aircraft descending from above and making controlled maneuvers in Rocklin, California, on September 29, 1962.",
+    "interesting points": "The object appeared to be a half-dome shape and was observed for approximately 30 minutes., The object silently hovered before moving off in different directions., The sighting did not provide sufficient data for evaluation., Witness reported that the object had bright orange-yellow colors., The object appeared to fade until hardly visible before reappearing.",
+    "sighted object": "a strange aircraft of half-dome shape",
+    "location": "Rocklin, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 17-year-old male, schoolteacher, who observes the object and reports the sighting to Project Blue Book.",
+    "contains photographs": false
 }

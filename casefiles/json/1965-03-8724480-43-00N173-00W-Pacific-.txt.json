@@ -1,15 +1,9 @@
 {
-    "main event": "A possible satellite sighting was reported in the Pacific Ocean on October 1, 1965.",
-    "interesting points": [
-        "The sighting was reported by the military, indicating it was likely a formal UFO report.",
-        "The object was observed for a reported time, suggesting it was not a typical satellite pass.",
-        "The location was in the Pacific Ocean at coordinates 43-00'N 173-00'W.",
-        "The object was described as having a brightness magnitude of a first star, which is unusual for a satellite.",
-        "The report concludes that the object was likely a USAF IT CPO II satellite, but notes that no unusual phenomena were observed."
-    ],
-    "result": "Inconclusive, likely a satellite",
-    "sighted object": "One possible satellite",
-    "location": "43-00'N 173-00'W (Pacific Ocean)",
-    "witnesses": "Military personnel",
-    "photographs": "No"
+    "main event": "A military source reported a possible satellite sighting in the Pacific on October 1, 1965.",
+    "interesting points": "The sighting involved one object observed in the air,The observation was reported visually,The object's course was indicated as 032 degrees,It was concluded that it was a satellite from the USAF IT,No photographs or physical evidence were obtained.",
+    "sighted object": "one possible satellite",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military source",
+    "contains photographs": false
 }

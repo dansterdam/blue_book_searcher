@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, glowing object was observed in the sky near Saratoga, California on December 23, 1968.",
-    "interesting points": [
-        "The object was described as a bright, pulsating light that was oval or circular in shape.",
-        "The object moved quickly, with a speed estimated between 500-600 mph, and disappeared through the clouds.",
-        "The sighting lasted for approximately 15 minutes.",
-        "The witness reported having seen a similar object in the past, in June of the same year.",
-        "The Air Force requested the witness complete an official report form (AF Form 117) to provide more details about the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, pulsating oval/circular object",
-    "location": "Saratoga, California",
-    "witnesses": "civilian witness(es)",
-    "photographs": "no photographs provided"
+    "main event": "A UFO was observed in Saratoga, California on December 7, 1968, for approximately 15 minutes.",
+    "interesting points": "The object was described as circular/oval and appeared stationary before moving up and away., Witnesses reported the object emitted a bright light and was visible in the sky., A handwritten letter indicated another sighting dated December 23, 1968, also in Los Gatos, California., Witnesses mentioned seeing a pulsating light and observing erratic movements at a high speed., The sighting details were documented in a letter from the USAF's Aerial Phenomena Office asking for more information.",
+    "sighted object": "a circular/oval UFO emitting a bright light",
+    "location": "Saratoga, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who observed the object close to Highway 9.",
+    "contains photographs": true
 }

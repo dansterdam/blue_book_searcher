@@ -1,15 +1,9 @@
 {
-    "main event": "A witness spotted a large, square object in the sky near Bedford, Virginia on January 25, 1965.",
-    "interesting points": [
-        "The object was larger than a football field and appeared to be made of aluminum, glowing in the middle.",
-        "The object remained stationary and did not make any noise.",
-        "Two separate UFO sightings were reported in the same area within minutes of each other, indicating a possible confirmation.",
-        "The report mentions that a weather balloon released in Charleston, West Virginia around the same time could have been a possible explanation for one of the sightings.",
-        "The report concludes that while the witnesses are reliable, the descriptions of the objects (a square versus a cigar-shaped object) make it difficult to confirm if they were the same object."
-    ],
-    "result": "unidentifiable",
-    "sighted object": "a large, square object made of aluminum and glowing in the middle",
-    "location": "Bedford, Virginia",
-    "witnesses": "one civilian witness",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A civilian reported a UFO sighting of an unidentified square object larger than a football field in Bedford, Virginia on January 25, 1965.",
+    "interesting points": "The object was described as being aluminum and glowing in the middle., The observer saw the object at a 30-degree elevation, and it appeared to be hovering., The sighting lasted for 3-5 minutes before the object disappeared., The weather conditions were clear, with no clouds present at the time of the sighting., There were two separate UFO sightings reported in the same timeframe in the nearby area.",
+    "sighted object": "one square object larger than a football field",
+    "location": "Bedford, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "MRS. ___ ____, a maid from Bedford, VA.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot of a Japanese Air Force aircraft was fired upon by a UFO over Kisarazu, Japan on April 6, 1955. The canopy of the aircraft was shattered, but the pilot was able to safely return to base.",
-    "interesting points": [
-        "The UFO passed within 200 feet of the Japanese aircraft.",
-        "The report mentions 'about 150 UFO sightings reported by Japanese citizens'.",
-        "The report includes details on the physical description of the UFO, such as its egg-shaped appearance, size, and color.",
-        "The report mentions the involvement of the Japanese Air Force and the estimated cost of the incident.",
-        "The report provides meteorological data and information on the aircraft's altitude and speed during the incident."
-    ],
-    "result": "unexplained",
-    "sighted object": "egg-shaped object with a tail, approximately 2-4 feet in diameter and 3-5 feet in length, blue-white in color with a red aft area",
-    "location": "Kisarazu, Japan",
-    "witnesses": "Japanese Air Force pilot, civilian aircraft",
-    "photographs": "none"
+    "main event": "UFO sighting reported over Kisarazu, Japan, on April 6, 1955, involving a Japanese Air Force aircraft.",
+    "interesting points": "The UFO was egg-shaped with a tail, measuring approximately 2 feet in diameter and 3 to 4 feet in length., The object emitted red, yellow-brown, and blue-white colors., The incident resulted in the canopy of the Japanese aircraft shattering, but the pilot was safe., The UFO passed within 200 feet of the Japanese aircraft during a training flight., The duration of the sighting was around 6-5-6 seconds.",
+    "sighted object": "an egg-shaped UFO with a tail",
+    "location": "Kisarazu, Chiba, Japan",
+    "number of confirmed witnesses": 1,
+    "witness description": "Japanese Air Force pilot",
+    "contains photographs": false
 }

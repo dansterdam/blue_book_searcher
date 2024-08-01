@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "White silky substance falling from the air around the observer in Roseville, California on October 11, 1954.",
-    "interesting points": [
-        "The substance was described as a white silky substance that fell from the air all around the observer.",
-        "The observation lasted for 15-20 minutes.",
-        "The report includes a photograph of the substance.",
-        "Analysis by Colorado college indicated the substance to be spider webs.",
-        "The report is categorized as a ground-visual UFO sighting."
-    ],
-    "result": "identified as spider webs",
+    "main event": "Observers reported a white silky substance falling from the sky, identified as spider webs.",
+    "interesting points": "The sighting took place on October 11, 1954, in Roseville, California., The substance observed was described as a silky material falling all around the observer., The observation lasted about 15-20 minutes., The source of the report was a civilian., Analysis by Colorado college confirmed the substance to be spider webs.",
     "sighted object": "white silky substance",
-    "location": "Roseville, California",
-    "witnesses": "civilian observer",
-    "photographs": "yes"
+    "location": "Roseville, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": true
 }

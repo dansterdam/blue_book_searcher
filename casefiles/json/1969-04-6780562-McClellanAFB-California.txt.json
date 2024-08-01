@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A possible sighting of the planet Jupiter observed from McClellan AFB, California on 4/18/1969.",
-    "interesting points": [
-        "The object was a white, crystal-like light, similar in magnitude to a very close planet.",
-        "The object was observed for about 1 hour, moving in an erratic pattern.",
-        "The sighting was reported by multiple observers, including personnel from the base weather station, base operations, and the base tower.",
-        "The observer noted that they had personally observed the object on clear nights over the past year, always in the same position moving towards Travis AFB, and had assumed it to be a weather satellite.",
-        "The weather conditions at the time of the sighting were documented in detail, including temperature, visibility, wind speed and direction at various altitudes."
-    ],
-    "result": "Probable Astro (Jupiter)",
-    "sighted object": "a white, crystal-like light",
-    "location": "McClellan AFB, California",
-    "witnesses": "base personnel, including weather station, operations, and tower",
-    "photographs": "No"
+    "main event": "A UFO observation was reported at McClellan AFB, California on 3/20/69, with the object being identified as likely Jupiter.",
+    "interesting points": "The observation lasted for 1 hour and was noted as stationary,The object was described as having a magnitude similar to a very close planet,One observer at the base weather station and another at base operations confirmed the sighting,The object was observed at 240 degrees southwest of McClellan AFB,At least one observer has noted this object over the past year during clear nights.",
+    "sighted object": "object likely identified as Jupiter",
+    "location": "McClellan AFB, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One observer from the base weather station and one from base operations.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Based on the details provided in the UFO report text, here is the summary in the requested JSON format:
-
 {
-    "main event": "A civilian observed an unidentified object in the sky over Dayton, Ohio on August 23, 1966.",
-    "interesting points": [
-        "The object was white in color and moved erratically.",
-        "The object varied in color and moved out of sight after about 30 minutes.",
-        "The object made no noise that could be heard.",
-        "The object was not able to be identified.",
-        "Additional information was requested from the witness to complete the evaluation."
-    ],
-    "result": "unidentified",
-    "sighted object": "one white, colored object",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On August 3, 1966, a civilian reported observing an unidentified object in the sky over Dayton, Ohio.",
+    "interesting points": "The observation lasted for about 5 minutes., The object was described as moving to the south., No strings or attachments were seen with the naked eye., The conclusion suggested the object could be a balloon., The sighting was made at a high altitude with no physical evidence found.",
+    "sighted object": "Unidentified object in the sky",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer",
+    "contains photographs": false
 }

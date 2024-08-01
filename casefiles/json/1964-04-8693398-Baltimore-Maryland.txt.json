@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A light green elliptical object was observed in flight from northwest to southeast over Baltimore, Maryland on April 12, 1964.",
-    "interesting points": [
-        "The object was observed for 15 minutes at an elevation of 4-6 degrees.",
-        "The object was described as the size of a quarter held at arm's length.",
-        "The observer was a 22-year-old student who had made a similar report a year earlier, which turned out to be a satellite.",
-        "The investigating officer felt that further investigation would serve no useful purpose due to the observer's age, enthusiasm, and vagueness about previous sightings.",
-        "The object disappeared behind clouds to the southeast."
-    ],
-    "result": "possible satellite, not definitively explained",
+    "main event": "A light green elliptical object was observed in flight over Baltimore on April 12, 1964.",
+    "interesting points": "The object was reported to be climbing and moving from NW to SE at an elevation of 4-6 degrees., The sighting lasted for about 15 minutes before the object disappeared behind clouds., The object was described as the size of a quarter held at arm's length., The investigating official suggested the object could be a satellite, but there were questions about the reliability of the source., The witness was a 22-year-old student who had made a similar report a year prior.",
     "sighted object": "light green elliptical object",
-    "location": "Baltimore, Maryland",
-    "witnesses": "civilian, 22-year-old student",
-    "photographs": "yes, but not included in report"
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "22-year-old student from Baltimore",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver object with a glass dome was observed in Salem, Oregon on May 15, 1964. The object had a flame coming out of the bottom, disappeared suddenly, and was brighter than the brightest star.",
-    "interesting points": [
-        "The object had erratic motion and was pulsing for 2 seconds.",
-        "The object was outlined and appeared solid.",
-        "The observer reported the object as a 'Silver object with glass come' and said the motion was 'Flame coming out of bottom, disappeared suddenly. Brighter than brightest star. Outlined, solid. Erratic motion. Pulsing 2 sec.'",
-        "The sighting lasted for 20 seconds.",
-        "The observer reported the incident to authorities sometime in 1964."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "silver object with glass dome and flame coming out of the bottom",
-    "location": "Salem, Oregon",
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "On May 15, 1964, a civilian observer in Salem, Oregon reported sighting a silver object with a glass covering emitting flames from the bottom. The object disappeared suddenly and was described as being brighter than the brightest star.",
+    "interesting points": "The object was observed for approximately 20 seconds but was mostly stationary,The object exhibited erratic motion and pulsed every 2 seconds,The witness described the object as solid and outlined,The sighting led to a report to the U.S. Air Force, which found the information to be of low quality and labeled it as insufficient data for evaluation,The witness indicated they had never seen a similar object before and reported a buzzing sound during the sighting.",
+    "sighted object": "a silver object with glass covering emitting flames",
+    "location": "Salem, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": true
 }

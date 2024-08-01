@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two observers on board a P2V-7 aircraft spotted multiple glowing objects in the sky on March 21, 1961.",
-    "interesting points": [
-        "The objects were described as having the characteristics of a 'bolide' meteor, including color changes and bursting.",
-        "The observers said the objects moved considerably slower than any previously observed meteorites, and emitted a reddish glow not commonly associated with meteorites.",
-        "The objects were seen to split into multiple fragments that continued moving in a scattered pattern.",
-        "One observer saw an initial single object that then burst into multiple fragments, while the other observer only saw the multiple objects.",
-        "The objects were visible for a short duration, with the first observer seeing them for about 6 seconds and the second for 2 seconds."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Multiple glowing, fragmented objects",
-    "location": "Approximately 17°00'E, 05°42'N (Pacific Ocean)",
-    "witnesses": "Two Air Force personnel on board a P2V-7 aircraft",
-    "photographs": "No photographs included in the report"
+    "main event": "On 21 Mar 61, two observers reported seeing an object that displayed characteristics of a bolide, including color change and bursting, while flying at an altitude of 8,500 feet.",
+    "interesting points": "The sighting lasted about 6 minutes,One observer claimed to see a single object split into multiple fragments,The sighting occurred during a clear night,One observer described the colors observed as reddish,The observers described the motion of the fragments as 'tumbling' or 'rolling'.",
+    "sighted object": "An object resembling a bolide, splitting into multiple fragments",
+    "location": "17°00E, 05'42N, Pacific",
+    "number of confirmed witnesses": 2,
+    "witness description": "Both observers were crew members of a P2V-7 aircraft, with experience in observing meteors.",
+    "contains photographs": true
 }

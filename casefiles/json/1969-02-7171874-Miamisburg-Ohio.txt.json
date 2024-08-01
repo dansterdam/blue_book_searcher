@@ -1,15 +1,9 @@
 {
-    "main event": "The observer reported seeing a UFO and wanted to discuss it further.",
-    "interesting points": [
-        "The observer failed to submit any photos or return the required AF Form 117 as of April 15, 1969.",
-        "The case was concluded as having 'INSUFFICIENT DATA FOR EVALUATION'.",
-        "The observer called to report a UFO sighting and wanted to discuss what it was.",
-        "The document includes instructions for properly completing a UFO observation report.",
-        "The report contains hand-drawn diagrams to illustrate the sighting and movement of the observed phenomenon."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "unidentified phenomenon",
-    "location": "Miamisburg, Ohio",
-    "witnesses": "1 observer",
-    "photographs": "none"
+    "main event": "An observer reported a UFO sighting in Miamisburg, Ohio on February 7, 1969, but failed to submit any photographs or detailed information for evaluation as of April 15, 1969.",
+    "interesting points": "The observer reported seeing a UFO but did not submit photographs or complete the required forms,The Air Force requested that the observer provide more information and original negatives for analysis,The report concluded there was insufficient data for a meaningful evaluation, The document included various illustrations and a diagram related to the sighting but no actual photos were provided, The contact mentioned in the report, Lt. O. D. Anderson, indicated a desire to discuss the sighting further.",
+    "sighted object": "Unidentified Flying Object (UFO)",
+    "location": "Miamisburg, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer who reported the sighting but did not provide detailed follow-up",
+    "contains photographs": false
 }

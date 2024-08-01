@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot witnessed two bright, orange-red, fast-moving objects near Louisville, Kentucky in 1960.",
-    "interesting points": [
-        "The objects were traveling at an extremely fast rate of speed, estimated at 800-1000 mph.",
-        "The objects' course appeared to be erratic and high altitude.",
-        "The objects were emitting a pulsating glow and were flying parallel to each other but at different altitudes and in opposite directions.",
-        "After passing the pilot's aircraft, the objects seemed to be ascending and disappearing into the overcast.",
-        "The pilot reported the incident to the command post and Air Defense Command, and the operations officer concurred that it was a significant incident warranting further investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright, orange-red, fast-moving objects",
+    "main event": "A pilot observed an unidentified flying object while flying an F-47 aircraft near Louisville, Kentucky on September 20, 1960.",
+    "interesting points": "The object was described as a bright, orange-red light traveling at an estimated speed of 800-1000 mph., The object had an erratic course and was similar in appearance to a sphere previously seen by the pilot., The sighting lasted approximately 10 to 15 seconds., The object appeared to emit a pulsating glow, and multiple objects were seen flying parallel to each other., After the sighting, ground control confirmed no aircraft in the vicinity.",
+    "sighted object": "bright, orange-red light resembling a sphere",
     "location": "Louisville, Kentucky",
-    "witnesses": "pilot",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "pilot of an F-47 aircraft",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report discusses details about a reported UFO sighting, including a white light in straight, level flight.",
-    "interesting points": [
-        "The sighting lasted for approximately 10 seconds.",
-        "The conclusion was that the object was 'Probably fireball meteors'.",
-        "The report form contains fields for recording details about a reported sighting, including the date, location, observer's description, and conclusions.",
-        "The document is from Project Blue Book, an official U.S. Air Force investigation of unidentified flying objects (UFOs).",
-        "The text in the document has been redacted, with portions of the text blacked out."
-    ],
-    "result": "unexplained",
-    "sighted object": "white light in straight, level flight",
-    "location": "47 16'N 45 35'W, Newfoundland",
-    "witnesses": "unknown",
-    "photographs": "no photographs"
+    "main event": "An unidentified flying object was reported on March 25, 1954, near Newfoundland, described as a white light in straight, level flight.",
+    "interesting points": "The sighting lasted for 10 seconds., The conclusion drawn was that it was probably fireball meteors., The report was part of Project 10073 under the U.S. Air Force., Major Madison G. Thomas was involved in the documentation of the sighting., The report states insufficient data for thorough evaluation.",
+    "sighted object": "white light",
+    "location": "Newfoundland, Canada",
+    "number of confirmed witnesses": 0,
+    "witness description": "Insufficient data provided regarding witnesses.",
+    "contains photographs": false
 }

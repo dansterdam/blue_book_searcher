@@ -1,13 +1,9 @@
 {
-    "main event": "Captain Barney Ross, a retired US Marine Corps officer, reported sighting an unconventional aircraft over Holloman AFB, New Mexico on March 9, 1950.",
-    "interesting points": [
-        "The object was disc-shaped and hovered over the base for several minutes.",
-        "The object then ascended vertically and disappeared.",
-        "Captain Ross provided details about the object's movements and characteristics."
-    ],
-    "result": "insufficient data",
+    "main event": "Captain Barney Ross reported sightings of a disc-shaped object hovering over Holloman AFB, New Mexico on March 9, 1950.",
+    "interesting points": "The object hovered over the base for several minutes before ascending vertically., The report describes the object's movements and characteristics as observed by Captain Ross., The sighting occurred at a prominent military location., The report notes insufficient data for further analysis., The source of the report was not specified.",
     "sighted object": "disc-shaped object",
-    "location": "Holloman AFB, New Mexico",
-    "witnesses": "Captain Barney Ross, US Marine Corps (Ret)",
-    "photographs": "none in file"
+    "location": "Holloman AFB, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain Barney Ross, approx 39 yrs of age, US Marine Corps (Ret)",
+    "contains photographs": false
 }

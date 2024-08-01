@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple reports of unidentified flying objects (UFOs) observed over Islip Terrace, New York",
-    "interesting points": [
-        "The UFOs were described as disc-shaped, bright white in color, and approximately 20 feet in diameter.",
-        "The UFOs were observed traveling at high speeds and accelerating rapidly before disappearing instantaneously, with no sound detected.",
-        "One report described the UFOs as zooming from a window and accelerating into the sky, while another report mentioned a circular object hovering above the treetops before suddenly disappearing.",
-        "An intense light was observed moving back and forth in a straight line without any sound, lasting for 3-5 minutes.",
-        "The witnesses claimed to have a considerable knowledge of aviation and felt the phenomenon was important and warranted serious investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped, bright white UFOs and an intense light moving in a straight line",
-    "location": "Islip Terrace, New York",
-    "witnesses": "multiple residents of Islip Terrace",
-    "photographs": "none"
+    "main event": "Residents of Islip Terrace, New York, reported sightings of unidentified flying objects (UFOs) on October 11, 1967.",
+    "interesting points": "Witnesses observed the object moving at a slow speed before it suddenly accelerated and disappeared., The object glowed before its rapid departure., Residents described the object as disc-shaped, bright white, and about 20 feet in diameter., The sightings were noted to have occurred over backyards, suggesting multiple witnesses., A detailed questionnaire for further information was requested by the USAF to properly investigate the sightings.",
+    "sighted object": "disc-shaped, bright white object",
+    "location": "Islip Terrace, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "residents with a considerable knowledge of aviation",
+    "contains photographs": false
 }

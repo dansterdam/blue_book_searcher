@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Sighting of a missile launch from the Pacific Missile Range",
-    "interesting points": [
-        "The object observed was a 'weird vapor trail' approximately 50 miles west-northwest of the observer.",
-        "The vapor trail appeared to be stationary and inclined vertically.",
-        "The sighting occurred between 1740-1755 on February 11, 1963 in Los Angeles, California.",
-        "The observer was Mr. _______, who reported the sighting to the SSD Command Post in Inglewood, California.",
-        "The weather conditions were clear with unlimited visibility."
-    ],
-    "result": "Identified as a missile launch from the Pacific Missile Range",
-    "sighted object": "Weird vapor trail",
-    "location": "Los Angeles, California",
-    "witnesses": "Mr. _______",
-    "photographs": "No photographs present"
+    "main event": "A visual observation of a weird vapor trail that was believed to be caused by a missile launched from the Pacific missile range.",
+    "interesting points": "The sighting occurred approximately 50 miles WNW of the observer., The vapor trail appeared stationary and inclined vertically., The observation was made from the corner of Beverly and Vermont in Los Angeles., The weather conditions were clear with unlimited visibility., The timing of the observation coincided with the launch of a missile at 1435.",
+    "sighted object": "a weird vapor trail",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. _______ from Los Angeles, California",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A UFO sighting was reported by the US Air Attache staff and Spanish military authorities and civilians over Madrid, Spain on February 6, 1964.",
-  "interesting points": [
-    "The objects were described as round, silver-metallic discs pulsating intermittently and moving with extremely rapid speed.",
-    "There was no evidence of jet or rocket propulsion.",
-    "The objects were observed moving horizontally, ascending and descending at extremely high speed.",
-    "Optical reports from both military and civilian sources confirmed the observations.",
-    "Factors suggesting the objects were not man-made conventional aircraft include high speed, precise maneuvers, pulsating motion, and multiple sightings over a geographic area involving both military and civilian observers."
-  ],
-  "result": "unexplained",
-  "sighted object": "round, silver-metallic discs",
-  "location": "Madrid, Spain",
-  "witnesses": "US Air Attache staff, Spanish military authorities, civilians",
-  "photographs": "no"
+    "main event": "Multiple unidentified flying objects were reported by U.S. Air Force personnel and Spanish military authorities over Madrid, Spain, on February 6, 1964.",
+    "interesting points": "The objects were described as round, silver-metallic discs pulsating intermittently and moving at extremely high speeds., The sightings coincided with reports from both military and civilian observers., There was significant press and TV coverage following the event., Observations indicated high-speed horizontal, ascending, and descending movements that were not characteristic of conventional aircraft., No evidence of jet or rocket propulsion was found, adding to the mystery of the sighting.",
+    "sighted object": "unidentified flying objects, described as round silver-metallic discs",
+    "location": "Madrid, Spain",
+    "number of confirmed witnesses": 5,
+    "witness description": "U.S. Air Force personnel and Spanish military authorities",
+    "contains photographs": false
 }

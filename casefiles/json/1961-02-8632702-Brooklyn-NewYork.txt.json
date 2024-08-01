@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A civilian in Brooklyn, New York reported seeing a UFO on February 6, 1961.",
-    "interesting points": [
-        "The sighting lasted for 5-10 minutes.",
-        "The report was an indirect report, and a questionnaire was forwarded to the witness but not returned.",
-        "The Air Force concluded the object was likely a balloon or a distant airplane.",
-        "No other details about the sighting were provided in the record card.",
-        "The Air Force requested the witness fill out a detailed questionnaire for further analysis."
-    ],
-    "result": "unknown",
-    "sighted object": "1 unidentified flying object",
-    "location": "Brooklyn, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An indirect report indicated that a UFO was observed over Brooklyn on the morning of 6 February 1961.",
+    "interesting points": "The observation lasted for 5-10 minutes., Only one object was reported., The witness did not return a filled questionnaire for further evaluation., The investigation concluded that the object was probably a balloon or airplane., The report was part of Project Blue Book, which investigated UFO sightings.",
+    "sighted object": "unidentified flying object",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

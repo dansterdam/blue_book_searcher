@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A 12-year-old boy in Stamford, Connecticut observed a small white light in the sky on December 31, 1967.",
-    "interesting points": [
-        "The object appeared to be about the size of a star and was initially stationary, then started moving southward.",
-        "The object then moved westward and towards the southwest before disappearing straight down.",
-        "The observer believed the object could be a UFO and hoped to obtain an explanation.",
-        "The report was submitted to Project Blue Book, the U.S. Air Force's official UFO investigation program.",
-        "The Air Force responded requesting additional details from the observer, as the information provided was not sufficient for a complete investigation."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a small white light in the sky",
-    "location": "Stamford, Connecticut",
-    "witnesses": "a 12-year-old boy",
-    "photographs": "no"
+    "main event": "A 12-year-old boy observed a small white light moving southward in Stamford, Connecticut on December 31, 1967.",
+    "interesting points": "The object was first mistaken for a satellite before it changed direction and moved westward,The observation was classified as ground visual and lasted several minutes,The observer provided insufficient information for a complete investigation,The report included a request for additional details by the Air Force,It was mentioned that the boy was only 12 years of age.",
+    "sighted object": "small white light in the sky",
+    "location": "Stamford, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 12-year-old boy",
+    "contains photographs": false
 }

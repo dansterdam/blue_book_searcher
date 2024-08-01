@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The report describes several sightings of unusual objects in the sky over Daventry and Beacon Hill in England in 1954.",
-    "interesting points": [
-        "The objects were described as having a 'streamer' with 3-4 smaller streamers or trails, and were white in color.",
-        "The objects appeared to be descending slightly and then disappeared gradually.",
-        "The sightings were made by military personnel, including a pilot and co-pilot of a C-47 aircraft.",
-        "The sightings lasted for around 3 seconds.",
-        "The report suggests the objects may have been Perseid or Leonides meteorites."
-    ],
-    "result": "unexplained",
-    "sighted object": "White streamer-like object with smaller streamers",
-    "location": "Daventry and Beacon Hill, England",
-    "witnesses": "Military personnel, including pilots",
-    "photographs": "Yes, the report indicates there were photographs, but they are not present in the provided documents."
+    "main event": "A UFO sighting in Daventry, England, on 28 August 1954 involving an observation of light trails and streamers.",
+    "interesting points": "The UFO was observed for 3 seconds,It was reported by military personnel,Two smaller streamers were noted along with a larger middle streamer,The object was described as having a slight descent before disappearing gradually,The sighting occurred in a clear sky with good visibility.",
+    "sighted object": "UFO with white and red trails and streamers",
+    "location": "Daventry, England",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military personnel on a C-47 aircraft",
+    "contains photographs": false
 }

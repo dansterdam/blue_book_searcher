@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light, unusual or strange object was sighted at Kindley AFB, Bermuda, turning or rotating and emitting a pulsating light, moving rapidly at 30-40 feet above ground level and disappearing from sight.",
-    "interesting points": [
-        "The object was a bright light, approximately pea-size in size, changing in color from orange to blue-white.",
-        "The object traveled in a flat trajectory parallel to the horizon, with no noticeable dip, at a very fast speed.",
-        "The sighting lasted approximately 1 to 2 seconds before the object abruptly disappeared.",
-        "The sighting occurred at 15/2243Z on a dark night with bright moonlight on the ground.",
-        "The report concluded that there was insufficient data to determine the nature of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, unusual or strange object",
+    "main event": "A bright light was observed at Kindley AFB, Bermuda, emitting a pulsating light and rapidly moving east before disappearing.",
+    "interesting points": "The object was sighted at 30-40' AGL, It was turning or rotating, The sighting lasted for approximately 1 minute, The object emitted a light that changed from orange to blue-white, There were no photographs of the sighting.",
+    "sighted object": "a bright light emitting a pulsating light",
     "location": "Kindley AFB, Bermuda",
-    "witnesses": "ground visual",
-    "photographs": "no photographs present"
+    "number of confirmed witnesses": 0,
+    "witness description": "ground visual observation",
+    "contains photographs": false
 }

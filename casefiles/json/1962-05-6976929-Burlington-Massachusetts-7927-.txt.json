@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "The report contains several photographs of unidentified flying objects (UFOs) observed over Burlington, Massachusetts in 1962.",
-    "interesting points": [
-        "The photographs show circular or disc-shaped objects in the sky against a cloudy background.",
-        "Some of the photographs show dark, indistinct objects in the sky, while others are blank or partially obscured.",
-        "The report is classified as being from the FOREIGN TECHNOLOGY DIVISION AFSC and is marked as 'UNCLASSIFIED'.",
-        "The report includes a total of 17 photographs, though not all of them contain clearly visible UFO imagery.",
-        "The report does not provide any additional details or eyewitness accounts beyond the photographic evidence."
-    ],
-    "result": "inconclusive",
-    "sighted object": "circular or disc-shaped unidentified flying objects",
-    "location": "Burlington, Massachusetts",
-    "witnesses": "unknown",
-    "photographs": "yes, 17 photographs are included in the report"
+    "main event": "A document detailing UFO sightings in Burlington, Massachusetts, accompanied by several photographs.",
+    "interesting points": "The report titled 'FOREIGN TECHNOLOGY DIVISION AFSC' suggests the investigation of unidentified aerial phenomena., There are 17 photos mentioned in the report., Some photographs show dark, indistinct objects in the sky., Black and white photographs contain circular or disc-shaped objects against a cloudy background., The document is classified as 'UNCLASSIFIED'.",
+    "sighted object": "circular or disc-shaped object in the sky",
+    "location": "Burlington, Massachusetts, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses are mentioned in the document.",
+    "contains photographs": true
 }

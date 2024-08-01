@@ -1,15 +1,9 @@
 {
-    "main event": "A witness in Jonesboro, Arkansas reported an unidentified observation in 1965.",
-    "interesting points": [
-        "The object was seen at night around 6 PM.",
-        "The object appeared to be round and blurry, and the witness could not make out any details.",
-        "The object moved quickly and was not stationary.",
-        "The letter indicates that the information provided was not sufficient for evaluation.",
-        "The letter is a response from Project Blue Book, the official U.S. Air Force investigation of UFOs."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, blurry object",
-    "location": "Jonesboro, Arkansas",
-    "witnesses": "one unidentified witness",
-    "photographs": "no photographs included"
+    "main event": "A report was made regarding an unidentified object observed on November 2, 1965, near Jonesboro, Arkansas, at approximately 6 p.m.",
+    "interesting points": "The object was described as round and blurry.,The witness was unable to make out details about the object.,The object was moving fast and not stationary.,This observation was sent to Project Blue Book for documentation., The report was deemed insufficient for evaluation by the Air Force.",
+    "sighted object": "round and blurry flying object",
+    "location": "Jonesboro, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness did not identify themselves or provide details about their identity",
+    "contains photographs": false
 }

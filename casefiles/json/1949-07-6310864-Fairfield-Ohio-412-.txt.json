@@ -1,15 +1,9 @@
 {
-  "main event": "A series of UFO sightings reported by military personnel and civilians in Fairfield, Ohio and Bellingham, Washington in July and October 1949.",
-  "interesting points": [
-    "A white, incandescent object was observed flying a straight course and then fading into the distance in Fairfield, Ohio, resembling a snow owl or sting ray fish without a tail.",
-    "In Bellingham, Washington, an object with a red-orange color was observed, seemingly stationary in the sky, before disappearing by decreasing in size.",
-    "Observations were made by credible witnesses, including a military officer and a civilian with flying experience.",
-    "One report mentioned the appearance and intermittent visibility of the planet Jupiter which may have contributed to the sightings.",
-    "The weather conditions and celestial events were extensively investigated to determine potential natural explanations for the observed phenomena."
-  ],
-  "result": "unexplained",
-  "sighted object": "Unidentified flying objects with varying shapes and colors, exhibiting stationary and straight flight maneuvers before disappearing from view.",
-  "location": "Fairfield, Ohio and Bellingham, Washington",
-  "witnesses": "Military personnel, civilian pilots, storekeepers",
-  "photographs": "No, the report does not include any photographs"
+    "main event": "A single object was sighted in Fairfield, Ohio on July 24, 1949, that was described as having a white incandescent color and resembling either an owl or a stingray.",
+    "interesting points": "The object was observed for 15 seconds,It was traveling south at an altitude of approximately 60-65 feet,The object was compared in size to an F-82 aircraft at traffic altitude,The object's luminosity was described as similar to a cloud finder or thin white cloud,The object faded from view in the southwest direction.",
+    "sighted object": "one white incandescent object",
+    "location": "Fairfield, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Capt [REDACTED], who was a Dist Condr OSI.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a large, silvery object that hovered over an area and could not be identified as any known aircraft.",
-    "interesting points": [
-        "The object appeared to be stationary and could not be seen through, as if it was hiding the area behind it.",
-        "The object was initially evaluated as a probable aircraft, but the local airport reported no such aircraft operating in the area.",
-        "The observer lost sight of the object as it went below the horizon of some Army tanks and observers.",
-        "The report mentions additional strange electrical phenomena and luminous activity in the same general area, which could not be explained as normal natural occurrences.",
-        "The Air Force conducted an investigation into the sighting and determined the cause was not within the normal realm of natural phenomena or known military activities."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, silvery unidentified object",
-    "location": "Franklin Springs, New York",
-    "witnesses": "civilian observer",
-    "photographs": "none"
+    "main event": "On September 9, 1966, a civilian observer reported an unidentified object in Franklin Springs, New York, which appeared to be a large, silvery tank-like object that remained motionless for some time before ascending rapidly.",
+    "interesting points": "The object was observed for about 8-10 minutes but did not appear to move during that time,The observer noted the object's behavior resembling that of a tank,There were no other aircraft reported in the area by the local airport,The absence of photos or physical evidence led to the conclusion that the object was unidentified,Some witnesses noted electrical disturbances accompanying the luminosity of the object.",
+    "sighted object": "a large, silvery tank-like object",
+    "location": "Franklin Springs, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer who described the object as oblong and glowing.",
+    "contains photographs": false
 }

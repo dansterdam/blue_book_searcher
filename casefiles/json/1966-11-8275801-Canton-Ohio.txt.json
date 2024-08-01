@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A multicolored object, described as having colors including pink, blue, and green, was observed in the sky over Canton, Ohio on September 20, 1966.",
-    "interesting points": [
-        "The object appeared to change colors from red, to blue, green and white, with distinct color changes observed.",
-        "The object did not disappear while being watched, but would intermittently fade and brighten.",
-        "The object's intensity was very bright and did not resemble any normal or known aircraft configuration or lighting system.",
-        "The sighting lasted for approximately 5 minutes.",
-        "The observer was unable to estimate the exact size or distance of the object, but described it as being over 100 miles away."
-    ],
-    "result": "unexplained",
-    "sighted object": "a multicolored, cloud-like object in the sky",
-    "location": "Canton, Ohio",
-    "witnesses": "3",
-    "photographs": "no"
+    "main event": "Witnesses observed a bright, multicolored light in the sky in Canton, Ohio, on September 10, 1966.",
+    "interesting points": "The object changed colors from red to blue, green, and white during the observation., The light appeared very bright and did not resemble any known aircraft configuration., The object was visible for approximately 5 minutes., Witnesses reported that the light did not disappear but instead intermittently faded and brightened., The witness could not relate the object's appearance to any common object, indicating it was unfamiliar.",
+    "sighted object": "a bright multicolored light in the sky",
+    "location": "Canton, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "No special experiences, average citizens",
+    "contains photographs": false
 }

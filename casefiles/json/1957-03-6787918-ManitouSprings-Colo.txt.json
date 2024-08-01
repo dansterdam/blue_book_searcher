@@ -1,15 +1,9 @@
 {
-    "main event": "On March 28, 1957, a civilian reported a sighting of one yellow object the size of the head of a pin at arm's length. The object was seen heading slowly south and gradually fading after thirty minutes.",
-    "interesting points": [
-        "The object was described as being the size of the head of a pin at arm's length, indicating its small apparent size.",
-        "It was reported to have gradually faded over the course of thirty minutes.",
-        "Winds prevalent at the time of the sighting indicated that it could have been a released balloon from Grand Junction, Colo.",
-        "No photograph was included in the document, suggesting a lack of visual evidence to support the sighting.",
-        "The report was categorized as a 'Visual' observation by a civilian source."
-    ],
-    "result": "prosaic explanation",
+    "main event": "A civilian observed a yellow object the size of a head of a pin at arm's length moving slowly south.",
+    "interesting points": "The sighting lasted for thirty minutes,The object gradually faded from view over time,The reported sighting was made after a balloon was released from Grand Junction, Colorado earlier that day,The witness described the object as looking like a star,The investigation concluded that the sighting was likely related to the released balloon.",
     "sighted object": "one yellow object",
-    "location": "Manitou Springs, Colo.",
-    "witnesses": "Civilian",
-    "photographs": "no"
+    "location": "Manitou Springs, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

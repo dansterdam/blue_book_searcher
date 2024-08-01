@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A dim white light was observed near the Mount Vernon, Virginia area for about 17 minutes.",
-    "interesting points": [
-        "The light was first seen by an observer standing on a hill and was visible for about 3 minutes before disappearing and reappearing in the northwest about 15 minutes later.",
-        "A second light then appeared, moving in a northerly direction, and the original light was also visible. The two lights moved in parallel along a path about 10-15 degrees above the horizon for about 2 minutes.",
-        "The original light then dimmed and faded while the second light continued moving north and was visible for about 2 more minutes.",
-        "The sequence consisted of alternating disappearance and reappearance of the lights.",
-        "The report includes wind and cloud data from the Mount Vernon, Virginia area on the date of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "dim white light",
-    "location": "Mount Vernon, Virginia",
-    "witnesses": "radar operators",
-    "photographs": "none"
+    "main event": "An observer reported seeing pulsating light sources in the sky, which alternated between disappearance and reappearance over a period of 17 minutes.",
+    "interesting points": "The observation lasted for 17 minutes., One light source was first spotted and lasted for about 3 minutes., A second light appeared 15 minutes later moving in a northerly direction., Both lights moved in parallel for about 2 minutes before the original light faded., The sequence seemed to involve alternating appearances and disappearances of the lights.",
+    "sighted object": "one/two light sources in the sky",
+    "location": "Mount Vernon, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civil engineer with GIMRADA, Fort Belvoir, VA.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A shiny bright object was observed for 20 minutes in Dayton, Ohio.",
-    "interesting points": [
-        "The object was about 3 times the size of an automobile headlight and moved in horizontal motion.",
-        "Another sighting of a white light that appeared close, stationary for 2 minutes, then moved slowly out of sight at 30 degrees from the horizon was reported in Dayton, Ohio.",
-        "A questionnaire was used to gather details about a UFO sighting, including the object's appearance, movement, and the witness's location and actions.",
-        "Several other UFO sightings were reported in various locations across the United States during the time period, with some being identified as known objects like planets or meteors.",
-        "Witness descriptions included the object being a bright, shiny, metallic object that did not disappear while being observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "shiny bright object, white light",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian, military",
-    "photographs": "no"
+    "main event": "Multiple sightings of shiny bright objects over Dayton, Ohio in February 1961, with varying descriptions and durations.",
+    "interesting points": "The first sighting reported a shiny bright object about three times the size of an automobile headlight, lasting for about 20 minutes., One report described a white light appearing stationary for two minutes before moving slowly out of sight., Observers compared one of the objects to Venus, indicating possible misidentification of celestial bodies., The duration of observations ranged from 1 minute to 20 minutes, indicating varied experiences among witnesses., None of the records contain photographs despite multiple documented sightings.",
+    "sighted object": "shiny bright object(s) that appeared as lights",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An unidentified individual, presumed to be a civilian with a basic education level.",
+    "contains photographs": false
 }

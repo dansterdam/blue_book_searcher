@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the provided UFO report:
-
 {
-    "main event": "A green flare-like object was reported by an Indiana ARTC (Air Route Traffic Control) and seen by a Delta aircraft near Terre Haute, Indiana on December 12, 1955.",
-    "interesting points": [
-        "The object was reported flying at 22,000 feet and was described as a 'green flare' that fell and then leveled off before disappearing.",
-        "Multiple observers, including the Indiana ARTC and a Delta aircraft, reported seeing the same object.",
-        "The report indicates that the object was 'unknown' and could not be definitively identified.",
-        "Additional details are provided about the weather conditions, including cloud cover and wind speeds at various altitudes.",
-        "The report includes a request for further investigation and information on the status of the case."
-    ],
-    "result": "unknown",
-    "sighted object": "a green flare-like object",
-    "location": "Terre Haute, Indiana",
-    "witnesses": "Indiana ARTC, Delta aircraft",
-    "photographs": "no"
+    "main event": "A ground observer reported a sighting of a UFO over Terre Haute, Indiana on 26 March 1960.",
+    "interesting points": "The UFO was observed by three diaconse e/e from a height of 22,000 feet., The observation lasted for 12-15 minutes., The UFO was described as looking like a green flare., A Delta aircraft also reported seeing the same object which leveled off and then disappeared., There were multiple conclusions drawn ranging from balloon to aircraft, indicating insufficient data for evaluation.",
+    "sighted object": "UFO resembling a green flare",
+    "location": "Terre Haute, Indiana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "diaconse e/e and an unidentified pilot of Delta aircraft",
+    "contains photographs": false
 }

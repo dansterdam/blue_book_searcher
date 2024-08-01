@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, yellow object the size of a pea held at arm's length was observed in level flight heading west.",
-    "interesting points": [
-        "The object was observed for about two minutes.",
-        "The reporting officer concurs that the sighting was possibly caused by an aircraft.",
-        "The conclusions indicate the sighting was possibly an aircraft.",
-        "No photographs were taken of the object.",
-        "The object was observed visually from the ground."
-    ],
-    "result": "possibly aircraft",
-    "sighted object": "round, yellow object",
-    "location": "Palm Desert, California",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "One observer reported seeing a round, yellow object the size of a pea at arm's length, flying in level flight heading west.",
+    "interesting points": "The sighting lasted for two minutes., The observer described the object as round and yellow in color., The object was estimated to be the size of a pea held at arm's length., The conclusion suggested the sighting could be caused by an aircraft., The observation took place on 16 May 1956 in Palm Desert, California.",
+    "sighted object": "one round yellow object",
+    "location": "Palm Desert, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "unknown occupation",
+    "contains photographs": false
 }

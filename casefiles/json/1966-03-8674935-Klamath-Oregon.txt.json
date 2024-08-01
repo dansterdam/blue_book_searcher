@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of an object identified as JUPITER at 0710Z at 260 degrees azimuth and 25 degrees elevation.",
-    "interesting points": [
-        "The object had white, flash red, orange, and green lights.",
-        "The object was sighted at 25 degrees azimuth, but it was not moving and did not disappear.",
-        "The sighting lasted for about 25 minutes.",
-        "The report was from a military source in Klamath, Oregon.",
-        "The conclusion was that the object was ASTRO(JUPITER)."
-    ],
-    "result": "ASTRO(JUPITER)",
-    "sighted object": "A single object with white, flash red, orange, and green lights",
-    "location": "Klamath, Oregon",
-    "witnesses": "Military",
-    "photographs": "No"
+    "main event": "A sighting of an object identified as JUPITER occurred at 0710Z, observed with white, flash red, orange, and green lights.",
+    "interesting points": "The object was sighted at 260 degrees azimuth and 25 degrees elevation,The report mentioned the object was moving but did not disappear,The sighting lasted for 25 minutes,The observation was made using ground-visual methods,The condition was clear weather at the time of the sighting.",
+    "sighted object": "JUPITER",
+    "location": "Klamath, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military personnel",
+    "contains photographs": false
 }

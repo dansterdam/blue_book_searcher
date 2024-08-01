@@ -1,15 +1,9 @@
 {
-    "main event": "A long silver needle-nosed object was observed by a civilian for 15 minutes on November 24, 1959 near Blue Hill, Maine.",
-    "interesting points": [
-        "The object was on a southerly course at 3,000 ft.",
-        "The report concludes that the observations were likely military aircraft using tactics disclosed as part of the Cold War strategic planning.",
-        "An F-102 military aircraft was later sighted at 17,500 feet, allegedly observing an AEC civilian aircraft at 3,000 feet.",
-        "The pilot who initially reported the object later reassessed his report, stating it was a mistaken sighting.",
-        "The sighting was investigated by Project Blue Book and eventually deemed an unidentified flying object."
-    ],
-    "result": "unknown",
+    "main event": "A long silver needle-nosed object was observed by a civilian for 15 minutes on December 1, 1959.",
+    "interesting points": "The object was observed on a southerly course at 3,000 ft,The sighting lasted for 15 minutes,The object had a shape resembling a needle and was described as silver in color,The civilian observer was a 5th-grade student who observed it from a schoolroom window,The report concludes the object was likely a military aircraft involved in Cold War strategic planning.",
     "sighted object": "long silver needle-nosed object",
-    "location": "Blue Hill, Maine",
-    "witnesses": "civilian, 5th grade student",
-    "photographs": "none"
+    "location": "Blue Hill, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "5th grade student, apparently intelligent and reliable",
+    "contains photographs": false
 }

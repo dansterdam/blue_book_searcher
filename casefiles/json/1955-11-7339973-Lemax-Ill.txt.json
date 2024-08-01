@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white and yellow glowing object was observed descending in the sky.",
-    "interesting points": [
-        "The object was described as ball-shaped with four points, one each pointing north, south, east, and west.",
-        "The object was observed for 15 minutes.",
-        "The object was initially descending, then glowed red and disappeared.",
-        "Binoculars were used to observe the object.",
-        "The report suggests the object may have been a sun phenomenon like a sun dog."
-    ],
-    "result": "Unknown",
-    "sighted object": "A round, white and yellow glowing object",
-    "location": "Lomax, Illinois",
-    "witnesses": "Multiple civilian witnesses, including a farmer",
-    "photographs": "No photographs present in the document"
+    "main event": "On 25 Nov 55, a round, white and yellow glowing object was observed descending over Lomax, Illinois.",
+    "interesting points": "The object was described as having a bull shape with four points,There was a total observation time of 15 minutes,The sighting was made using binoculars,One confirmed witness was a section chief,The report suggests the phenomenon could be a sunspot or parhelia.",
+    "sighted object": "round, white and yellow glowing object",
+    "location": "Lomax, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a section chief, a farmer, and another individual",
+    "contains photographs": false
 }

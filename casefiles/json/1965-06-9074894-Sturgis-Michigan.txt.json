@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A radio announcer in Sturgis, Michigan reported seeing two black objects pass in front of him at 14 degrees elevation on June 26, 1965.",
-  "interesting points": [
-    "The objects were observed at 7 minutes past 8 PM and 12 minutes to 8 PM, passing in front of the observer at 14 degrees elevation.",
-    "The objects were observed to travel from north to south and then back north, with one object reaching an elevation of 32 degrees for 4.5 seconds.",
-    "The objects were described as black in color.",
-    "The report mentions that many aircraft were alerted and passing just south of Sturgis at the time of the sighting.",
-    "The report suggests the sighting could have been a routine USAF tanker aircraft with flashing red and blue lights."
-  ],
-  "result": "inconclusive",
-  "sighted object": "two black objects",
-  "location": "Sturgis, Michigan",
-  "witnesses": "radio announcer Peter Bardy",
-  "photographs": "none"
+    "main event": "A UFO sighting occurred on June 26, 1965, in Sturgis, Michigan, observed by one civilian for 2 minutes.",
+    "interesting points": "The object was described as a small red and blue object sighted moving in a horizontal flight path without changing size or elevation., A bright white light was observed to the right of the flight path., The object's course was noted as NE-NE., No physical evidence was found from the sighting., The report mentioned possible explanations such as a beacon from an F/C tanker or a jet airway.",
+    "sighted object": "small red and blue object",
+    "location": "Sturgis, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observation",
+    "contains photographs": false
 }

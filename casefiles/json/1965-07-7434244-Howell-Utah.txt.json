@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A farmer spotted three flying objects over his farm in Utah in 1952.",
-    "interesting points": [
-        "The objects were described as glowing blue orbs, circular in shape, and metallic in color.",
-        "The objects were observed to hover, then accelerate and disappear from sight.",
-        "The objects were estimated to be about 75-100 yards in diameter, and approximately 100 feet above the ground.",
-        "No sound was detected from the objects during the sighting.",
-        "The observer reported that the objects had a bubble or dome on their top surfaces and made a slight side-to-side movement."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing metallic orbs",
-    "location": "Howell, Utah",
-    "witnesses": "a single farmer",
-    "photographs": "no"
+    "main event": "On December 20, 1952, an unidentified flying object was reported sighted in Howell, Utah.",
+    "interesting points": "The object was reported to have been visible for a duration of 05 to 30 minutes., There were multiple publication pages involved in the report noted different observations and responses., The object was described based on a questionnaire that specified conditions like cloud cover and visibility., The sighting report included estimated speeds and distances of the object from the observer., The document contained a drawing illustrating the object's appearance in flight.",
+    "sighted object": "unidentified flying object",
+    "location": "Howell, Utah, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "[REDACTED] was on the way to work and sighted multiple lights in the sky.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright spherical object was observed moving at high speed from northwest to southeast in the sky over Andrews, Texas on August 7, 1965.",
-    "interesting points": [
-        "The object was described as a bright, spherical object in the sky.",
-        "The object moved at high speed and disappeared into heavy cloud cover.",
-        "The sighting lasted 10-15 seconds.",
-        "The sighting was reported cooperatively, with no signs of typical UFO interest.",
-        "No evidence was found to indicate the sighting was a meteorite or an airplane."
-    ],
-    "result": "Astro (ASTER)",
-    "sighted object": "bright spherical object",
-    "location": "Andrews, Texas",
-    "witnesses": "Unspecified",
-    "photographs": "No"
+    "main event": "A bright spherelike object was observed in the sky for about 10-15 seconds on 7 August 1965.",
+    "interesting points": "The object was observed moving from northwest to southeast at high speed and then disappeared into a cloud bank.; The observation was made visually from the ground without optical aids.; A total of 25 witnesses were present during the sighting.; There were no signs of the usual UFO interest or evidence of meteorite or airplane.; The weather was characterized by broken intermediate clouds and thunderstorms to the south.",
+    "sighted object": "a bright spherelike object in the sky",
+    "location": "Andrews, Texas, USA",
+    "number of confirmed witnesses": 25,
+    "witness description": "A resident of Happy, Texas, who is a 24-year-old female student.",
+    "contains photographs": false
 }

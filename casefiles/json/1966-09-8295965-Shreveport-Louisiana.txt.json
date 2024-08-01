@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided text:
-
 {
-    "main event": "A civilian observed a bluish-gray colored object traveling at a high altitude towards the south in Shreveport, Louisiana on September 23, 1966.",
-    "interesting points": [
-        "The object lowered its altitude, then climbed back to its previous altitude.",
-        "The object was in sight for less than a second or two.",
-        "The description is consistent with that of an aircraft observation.",
-        "The Air Force requested more information from the observer to evaluate the sighting.",
-        "The sighting lasted for 30 seconds."
-    ],
-    "result": "Rt(possible)",
-    "sighted object": "a bluish-gray colored object",
-    "location": "Shreveport, Louisiana",
-    "witnesses": "Civilian",
-    "photographs": "None"
+    "main event": "Observers watched a bluish-gray colored object travel at a high altitude toward the south in Shreveport, Louisiana.",
+    "interesting points": "The object was round-shaped and changed altitude during the observation., The observation lasted for about 30 seconds., The object was seen at a high altitude before quickly moving out of sight., The description of the object was consistent with aircraft but was not identified., The report was part of Project Blue Book's documentation process.",
+    "sighted object": "a bluish-gray colored round object",
+    "location": "Shreveport, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

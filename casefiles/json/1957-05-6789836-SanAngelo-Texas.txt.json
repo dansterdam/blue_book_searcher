@@ -1,15 +1,9 @@
 {
-    "main event": "On May 15, 1957, in San Angelo, Texas, a ground-visual observation of an unidentified flying object (UFO) was reported. The object moved across the sky at high speed, maintained a long distance, was silver in color, and round in shape. It moved rapidly in a straight course without oscillation or tail, and disappeared below the horizon without a change in speed.",
-    "interesting points": [
-        "The UFO was observed for 2 minutes, indicating a sustained and prolonged sighting.",
-        "It moved rapidly in a straight course with no sign of regular aircraft characteristics.",
-        "The witness reported the object to be much larger than a Douglas Nike Ajax missile, indicating an unusual size.",
-        "No sound was heard from the UFO, contrary to typical aircraft observations.",
-        "The report included a witness sketch of the object's reported path and shape."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "Unidentified flying object (UFO)",
-    "location": "San Angelo, Texas",
-    "witnesses": "The witness's details were not specifically mentioned in the provided text.",
-    "photographs": "no, the report does not include photographs"
+    "main event": "An unidentified flying object was observed moving across the sky at high speed in San Angelo, Texas on 15 May 1957.",
+    "interesting points": "The object was silver and round in shape,It moved rapidly in a straight course with no oscillation or tail,The observation lasted for 2 minutes,No photographs were taken or included in the report,The object disappeared below the horizon without a change in speed.",
+    "sighted object": "a silver round object",
+    "location": "San Angelo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, unemployed, familiar with different types of aircraft",
+    "contains photographs": false
 }

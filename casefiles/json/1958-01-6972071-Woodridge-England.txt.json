@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large, dull reddish-orange object about the size of a grapefruit was observed in the sky over Woodridge, England on January 2, 1958.",
-    "interesting points": [
-        "The object moved southwest, growing larger and brighter, then disappeared.",
-        "The object was oval-shaped and made sudden movements, turning upon itself and making a sudden lunge to the left and then back down to its original position.",
-        "The object grew dimmer over time until it turned into an orange glow and disappeared.",
-        "Several military personnel from the 79th Fighter Bomber Squadron observed the object.",
-        "The report includes a discussion about the possibility of the object being an astronomical phenomenon like the planet Venus."
-    ],
-    "result": "unknown",
-    "sighted object": "a large, dull reddish-orange oval-shaped object",
+    "main event": "An unidentified flying object was observed on January 2, 1958, in Woodridge, England.",
+    "interesting points": "The object was oval shaped and dull reddish-orange in color, approximately 50 feet in diameter,The sighting lasted for 1 hour and 13 minutes,The object made sudden movements, turning and lunging before fading to an orange glow and disappearing, Other observations cited in reports included descriptions of the object moving southwest and growing larger before vanishing, Various conclusions suggested it could be an astronomical phenomenon, possibly a satellite, balloon, or aircraft.",
+    "sighted object": "oval shaped dull reddish-orange object",
     "location": "Woodridge, England",
-    "witnesses": "military personnel from the 79th Fighter Bomber Squadron",
-    "photographs": "no photographs included in the report"
+    "number of confirmed witnesses": 0,
+    "witness description": "Reports from military personnel including the 79th Fighter Bomber Squadron",
+    "contains photographs": false
 }

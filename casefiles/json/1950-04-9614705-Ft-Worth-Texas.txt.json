@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-  "main event": "A series of reports and photographs of unidentified flying objects (UFOs) over Fort Worth, Texas in April 1950.",
-  "interesting points": [
-    "The reports include descriptions of streaks of light, glowing orbs, and disc-shaped objects observed in the sky.",
-    "Some of the reports include photographs of the UFOs, but the quality and details of the images are unclear or obscured.",
-    "The Air Force investigated the reports and found that the photographic evidence did not show any clear signs of unusual or extraordinary phenomena.",
-    "The Air Force concluded that the photographic negatives and images appeared to be the result of normal photographic processing issues rather than evidence of extraterrestrial activity.",
-    "There were reports of radar installations in the area not detecting any unusual activity at the time of the sightings."
-  ],
-  "result": "inconclusive",
-  "sighted object": "Streaks of light, glowing orbs, and disc-shaped objects",
-  "location": "Fort Worth, Texas",
-  "witnesses": "Civilian witnesses, including a veteran radar bombardier",
-  "photographs": "Yes, but the quality and details are unclear or obscured"
+    "main event": "Ira Maxey, a veteran radar bombardier, reported seeing flying objects in the sky near Fort Worth, Texas, on April 9, 1950, and took photographs of them.",
+    "interesting points": "Maxey claimed to see objects coming out of the west and traveling northeast at high speed., The objects emitted a thunderous sound as they moved., Photographs taken were considered to have intelligence value and were investigated by the Air Force., The sighting occurred around 6:30 p.m., and the objects were reportedly six or seven miles away., Local radar installations reported no unusual activity at the time.",
+    "sighted object": "unidentified flying objects in the sky",
+    "location": "Ft. Worth, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Ira Maxey and his wife",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the provided UFO report:
-
 {
-    "main event": "Observers saw a bright, metallic, silvery, saucer-shaped object in the sky that hovered and faded out behind clouds.",
-    "interesting points": [
-        "The object appeared stationary at times and then suddenly moved rapidly.", 
-        "The object changed colors, from silvery to a darker shade.",
-        "The object was estimated to be about 20-25 feet in diameter and around 200 yards away.",
-        "The object produced no sound and did not change altitude or position before fading from view.",
-        "The observers compared the brightness of the object to that of a dim kerosene lamp."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic, silvery, saucer-shaped object",
-    "location": "Commerce City, Colorado",
-    "witnesses": "multiple observers",
-    "photographs": "none"
+    "main event": "Observers reported seeing a metallic, circular object in the sky that emitted a bright light and displayed movement characteristics similar to a meteorite.",
+    "interesting points": "The object appeared to circle in a dull state before brightening as if ignited., It was compared to the brightness of a meteorite or shooting star., Observers described the object as having a silvery metallic color., The object remained in sight for about 75 minutes., Handwritten notes indicated that the object changed colors and appeared luminous and round.",
+    "sighted object": "metallic circular object emitting a bright light",
+    "location": "Commerce City, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two observers in the area; specific details redacted",
+    "contains photographs": false
 }

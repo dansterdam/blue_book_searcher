@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, silver-colored object, approximately 14 inches in diameter, was observed in the sky near West Palm Beach, Florida.",
-    "interesting points": [
-        "The object approached from the northeast, made an orbit, and then proceeded southward.",
-        "The object diminished in size until it was out of sight, and the observation lasted for approximately 1 hour.",
-        "The observation was made by a civilian witness, and no photographs were taken.",
-        "The weather conditions were clear, with surface winds of 15 knots from 50 degrees, and higher-altitude winds up to 73 knots.",
-        "The object was concluded to have been likely a weather balloon."
-    ],
-    "result": "probably balloon",
-    "sighted object": "round, silver-colored object, approximately 14 inches in diameter",
-    "location": "West Palm Beach, Florida",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A round silver object was observed in West Palm Beach, Florida on January 28, 1955.",
+    "interesting points": "The object approached from the Northeast and then proceeded south after making an orbit.,The reported size of the object was approximately 14 inches in diameter.,The sighting lasted for about 1 hour.,The object fits the description of a weather balloon based on its shape and behavior.,The observation was made by a civilian with no optics used.",
+    "sighted object": "one round silver object",
+    "location": "West Palm Beach, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple radar sightings of unidentified flying objects were reported over Lackland AFB, Texas on 25 May 1953. The objects appeared as unnatural sights and remained consistent in size and speed.",
-    "interesting points": [
-        "Radar contact was made with five or more targets, which appeared to be orbiting over the base for 15 to 20 minutes.",
-        "Photographs were taken with scope cameras, but the film revealed camera damage.",
-        "A possible weather inversion was mentioned as a potential cause of the radar sightings.",
-        "Radar contact was intermittent and maintained for over 20,000 ft with no speed estimates possible.",
-        "The sightings were described as possibly caused by large government aircraft or small groups of bombers."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying objects detected by radar",
-    "location": "Lackland AFB, Texas",
-    "witnesses": "Air Force radar technicians",
-    "photographs": "scope camera photographs were attempted but revealed camera damage"
+    "main event": "On May 19, 1953, radar operators at Lackland Air Force Base in Texas detected five unidentified aerial targets over a period of approximately 25 minutes at an altitude of 25,000 feet.",
+    "interesting points": "The sighting lasted for a total of 1 hour and 5 minutes,The objects maintained an intermittent radar contact, indicating unusual behavior,The report concluded that the targets were unidentified and not of known aircraft,No physical evidence or photographs were available to support the sighting,Investigations revealed no other aircraft in the area during that time.",
+    "sighted object": "five unidentified aerial targets",
+    "location": "Lackland AFB, Texas, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Observers were radar operators and trained Air Force personnel.",
+    "contains photographs": false
 }

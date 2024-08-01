@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A group of over 200 boy scouts witnessed a fast-moving object with a tail that made sharp right-angle turns in the sky over a camp in Upper New York in 1953.",
-    "interesting points": [
-        "The object appeared to be a 'flying saucer' at first, but then the witness could see it had a tail and was moving in a straight line, not falling like a shooting star.",
-        "The witness believes the object was using some form of gravity or propulsion system to achieve its high speed and maneuvering capabilities.",
-        "The witness suggests the object could have been from the moon or the nearest star to Earth, Centauri, and speculates about the possible materials and technology used to construct it.",
-        "The witness says the sighting lasted for the entire night and that they continued to see 'falling stars' throughout the observation.",
-        "The witness was 20 years old at the time of the report and still believes in the existence of UFOs."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fast-moving object with a tail that made sharp right-angle turns",
-    "location": "Upper New York",
-    "witnesses": "Over 200 boy scouts",
-    "photographs": "none"
+    "main event": "A group of boy scouts witnessed a fast-moving object in the sky while at a camp in Ten Mile River, New York, in 1953.",
+    "interesting points": "The object was described as flying like a flying saucer making sharp right angle turns., The object was flying approximately 2,000 feet above the ground., Witnesses reported seeing it during sunset with falling stars also present., The witness theorized about the object's fuel and material properties, suggesting advanced technology., The report notes that the witness did not report the sighting until later in November 1952.",
+    "sighted object": "a fast-moving object in the sky",
+    "location": "Upper New York, New York, USA",
+    "number of confirmed witnesses": 200,
+    "witness description": "a boy scout during a camp with other boys",
+    "contains photographs": false
 }

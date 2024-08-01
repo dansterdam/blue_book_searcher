@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was sighted by several individuals over Macon, Georgia on multiple occasions in 1952.",
-    "interesting points": [
-        "The object was described as a round, orange-colored object that appeared to be moving towards the observers before receding into the distance.",
-        "Witnesses reported that the object could be seen distinctly through binoculars, appearing saucer-shaped and standing on end.",
-        "One witness, a Tactical Supervisor at a nearby Air Force base, observed the object for approximately 5 minutes through binoculars, describing it as a light-colored, distinct object that moved slowly to the southeast.",
-        "Another witness, a resident of Macon, reported seeing a red, oval-shaped object that appeared half-spherical in shape and gave off a yellow-orange light.",
-        "Several reports mention the object making rapid movements and disappearing suddenly."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, orange-colored object; red, oval-shaped object; saucer-shaped object",
-    "location": "Macon, Georgia",
-    "witnesses": "military personnel, civilian residents",
-    "photographs": "no"
+    "main event": "A round, orange-colored unidentified flying object was sighted in Macon, Georgia, on multiple occasions in August 1952.",
+    "interesting points": "The object was first noticed at sunset and appeared to be moving toward the observer., Through binoculars, the observers could see a distinct outline of a saucer shape., The object receded into the distance, appearing smaller until it could no longer be seen., Multiple individuals, including military personnel, reported seeing the object around the same time., One observer described the object as a huge light bulb, reddish-orange in color, and identical in shape to a flat circular object.",
+    "sighted object": "round orange object",
+    "location": "Macon, Georgia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "observers included a husband and wife team as well as military personnel from Robins Air Force Base",
+    "contains photographs": false
 }

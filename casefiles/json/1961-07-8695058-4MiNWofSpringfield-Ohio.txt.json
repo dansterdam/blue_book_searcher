@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light was observed making rapid horizontal movements, making a 90-degree turn, then disappearing, with no sound.",
-    "interesting points": [
-        "The sighting lasted for only 20 seconds.",
-        "The object exhibited very rapid horizontal motion.",
-        "It made an abrupt 90-degree turn before disappearing.",
-        "No sound was reported from the object.",
-        "The weather conditions at the time of the sighting are unknown."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light",
-    "location": "4 mi. NW of Springfield, Ohio",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "A sighting of a bright light making rapid horizontal motion, performing a 90-degree turn, and then disappearing, observed in Springfield, Ohio on July 8, 1961.",
+    "interesting points": "The object was seen making a rapid horizontal motion with no sound., The sighting lasted approximately 20 seconds., The sighting involved one unidentified object., The weather conditions at the time of sighting were not documented., The object made a distinct 90-degree turn before disappearing.",
+    "sighted object": "a bright light in the sky",
+    "location": "Springfield, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer is not explicitly described in the document",
+    "contains photographs": false
 }

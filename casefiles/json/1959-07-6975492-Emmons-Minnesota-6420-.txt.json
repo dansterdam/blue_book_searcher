@@ -1,15 +1,9 @@
 {
-	"main event": "A single tall and narrow vertical structure was seen emerging from a cloudy background in Emmons, Minnesota in 1959.",
-	"interesting points": [
-		"The structure was the only visible object in the photograph, with no other objects or human subjects present.",
-		"The report is sourced from Lt. Richard J. Emmons, USAF.",
-		"The photograph shows a potentially unexplained vertical structure in the sky.",
-		"The location of the sighting is Emmons, Minnesota.",
-		"The sighting occurred on July 7, 1959."
-	],
-	"result": "unexplained",
-	"sighted object": "a single tall and narrow vertical structure",
-	"location": "Emmons, Minnesota",
-	"witnesses": "Lt. Richard J. Emmons, USAF",
-	"photographs": "yes the report includes photographs"
+    "main event": "A vertical structure was reported emerging from a cloudy background in Emmons, Minnesota.",
+    "interesting points": "The report was filed by Lt. Richard J. Emmons from the USAF., The sighting occurred on July 6, 1959., The report includes one photograph showing the structure., The photograph shows a tall and narrow vertical structure with no additional objects or subjects., The case number is 6420 and project number is 10062.",
+    "sighted object": "tall and narrow vertical structure",
+    "location": "Emmons, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt. Richard J. Emmons, USAF",
+    "contains photographs": true
 }

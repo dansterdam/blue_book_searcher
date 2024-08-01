@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report text:
-
 {
-    "main event": "A person in Morgantown, West Virginia reported seeing a single unidentified object in the sky on January 8, 1967.",
-    "interesting points": [
-        "The object was observed for a total duration of 3 minutes and 20 seconds.",
-        "The object appeared to move in a varied course.",
-        "The witness was unable to estimate the speed or distance of the object.",
-        "The object made no sound ('H.O.' or 'Hum Off').",
-        "The witness provided a hand-drawn sketch of the observed object."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a single unidentified object in the sky",
-    "location": "Morgantown, West Virginia",
-    "witnesses": "a civilian witness",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An unidentified flying object was reported in Morgantown, West Virginia, on January 8, 1967, with a visual observation lasting 2 minutes.",
+    "interesting points": "The report was filed by a civilian witness,The observation was classified as a ground visual type,The conclusion of the investigation indicated insufficient data for evaluation,There was one object observed,The report emphasizes the importance of detailed information for future investigations.",
+    "sighted object": "unidentified flying object",
+    "location": "Morgantown, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "female, 23 years old",
+    "contains photographs": false
 }

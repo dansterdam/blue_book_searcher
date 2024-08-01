@@ -1,15 +1,9 @@
 {
-    "main event": "A white, disc-shaped object larger than a basketball was observed over Sparrevohn, Alaska on February 14, 1960.",
-    "interesting points": [
-        "The object looked like a light beam and had no sound or trails.",
-        "The object was observed for only 2-1/2 seconds.",
-        "The report indicates the object was probably a meteor or satellite.",
-        "This sighting was similar to earlier reported sightings in the same area that were tentatively classified as meteors.",
-        "The report notes that the information was obtained from the radar station, as the individual who made the report did not actually see the object themselves."
-    ],
-    "result": "Probably astronomical (meteor or satellite)",
-    "sighted object": "white, disc-shaped object larger than a basketball",
-    "location": "Sparrevohn, Alaska",
-    "witnesses": "Military personnel at radar station",
-    "photographs": "none"
+    "main event": "A military report noted a sighting of a white, disc-shaped object in Sparrevohn, Alaska on 14 February 1960.",
+    "interesting points": "The object was described as larger than a basketball and looked like a light beam., The sighting lasted only 2-1/2 seconds., There were no sound or trails associated with the object., The report speculates that the object was likely a meteor or satellite., The observation was made through Ground-Radar.",
+    "sighted object": "white, disc-shaped object",
+    "location": "Sparrevohn, Alaska, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military personnel at the radar station",
+    "contains photographs": false
 }

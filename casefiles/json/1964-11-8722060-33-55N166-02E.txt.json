@@ -1,15 +1,9 @@
 {
-    "main event": "The report describes an observation of a bright light in the sky by the crew of the USCGC Matagorda on November 29, 1964.",
-    "interesting points": [
-        "The light was observed at coordinates 33.54N 166.02E.",
-        "The light was at a high position angle of 45 degrees and moving on a course of 188 degrees true.",
-        "No other details about the object, such as size, shape, or maneuvers, are provided.",
-        "The report was distributed to various military and intelligence agencies, including the Department of the Air Force, the Central Intelligence Agency, and the Defense Intelligence Agency.",
-        "The conclusion of the report is that the object was likely the satellite Echo I, which was in the appropriate position at the reported time of observation."
-    ],
-    "result": "Likely Satellite (Echo I)",
-    "sighted object": "Bright light in the sky",
-    "location": "33.54N 166.02E",
-    "witnesses": "Crew of the USCGC Matagorda",
-    "photographs": "No"
+    "main event": "A bright light in the sky was observed from the USCGC Matagorda at a high position angle on November 29, 1964.",
+    "interesting points": "The object was confirmed to be the ECHO I satellite based on its trajectory and timing., The observation lasted for a total of 45 degrees elevation., The course of the object was measured at 180 degrees south., The conditions were partly cloudy with large swells at sea during the observation., The report was part of the Project Blue Book investigation documenting UFO sightings.",
+    "sighted object": "bright light in the sky",
+    "location": "33.55N, 166.02E",
+    "number of confirmed witnesses": 1,
+    "witness description": "observed from USCGC Matagorda",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A possible UFO sighting was reported in the Pacific region, with an object observed in the sky for about 4 minutes.",
-    "interesting points": [
-        "The object was the size and brightness of a first magnitude star.",
-        "The object was observed at a position of 47-09N 169-55W, bearing 020 and at an altitude of 60 degrees.",
-        "The object was observed moving from south to north at a very high speed.",
-        "The report was filed as a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The sighting was reported to various military commands, including CINCPACAF, CINCNORAD, and CINCPAC."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright object in the sky",
-    "location": "Pacific region, 47-09N 169-55W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A UFO was observed for about 4 minutes from a specific location, appearing the size and brightness of a first magnitude star.",
+    "interesting points": "The UFO was observed at a bearing of 020 degrees at an altitude of 60 degrees.,The observation lasted for 4 minutes.,The UFO was reported to be very high and traveling south to north.,The object was very fast.,There was a possibility that the observed object could be a small plane with only one red light visible.",
+    "sighted object": "UFO, size and brightness of a first magnitude star",
+    "location": "47-09N 169-55W",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

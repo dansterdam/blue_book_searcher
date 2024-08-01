@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A civilian observer spotted a small, grey-like object with red and white flashing lights in the sky over Proctor, Minnesota on August 9, 1965.",
-  "interesting points": [
-    "The object was initially stationary, then moved slowly to the northwest.",
-    "Two officers from the SAGE Direction Center were sent to the roof to observe the object, and they saw a bright star-like object in the same area that appeared to change color.",
-    "The SAGE officers concluded the civilian's reported object was likely either a star or a planet, as the B-52 aircraft in the area with its flashing red light would have been easily identifiable.",
-    "The report indicates that no photographic or material evidence was obtained.",
-    "The Air Force evaluated the sighting as unidentified."
-  ],
-  "result": "unidentified",
-  "sighted object": "small grey-like object with red and white flashing lights",
-  "location": "Proctor, Minnesota",
-  "witnesses": "civilian observer, two SAGE Direction Center officers",
-  "photographs": "none"
+    "main event": "A civilian reported a sighting of a small grey-like object with red and white flashing lights over Proctor, Minnesota on August 9, 1965.",
+    "interesting points": "The object was reported to be stationary before slowly moving to the northwest., The sighting duration was not specified, but it was still in sight at the time of the report., The object changed colors as it was observed by two military officers., The Air Force evaluated this case as unidentified., Witnesses included a civilian and two military officers.",
+    "sighted object": "small grey-like object with red and white flashing lights",
+    "location": "Proctor, Minnesota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilian and two military officers",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed an unidentified flying object near Cleveland, Ohio on November 9, 1965.",
-    "interesting points": [
-        "The object was described as bright, glowing, and oblong in shape.",
-        "The object appeared to be traveling at a high rate of speed and made a humming sound.",
-        "The object hovered in the sky and then rapidly accelerated and disappeared.",
-        "The witness provided a sketch of the object, which showed a hexagonal or hexagon-shaped exhaust or vapor trail.",
-        "The Air Force's Project Blue Book investigated the sighting but stated that the information provided was not sufficient for evaluation."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, glowing, oblong-shaped object",
-    "location": "Cleveland, Ohio",
-    "witnesses": "one witness",
-    "photographs": "no photographs were obtained"
+    "main event": "Several witnesses observed an unidentified flying object near Cleveland, Ohio on November 9, 1965.",
+    "interesting points": "The object was estimated to be flying at speeds between 5200-7300 MPH., The object was described as Zeppelin-shaped and bluish in color., The sighting lasted approximately 5 to 10 minutes, during which the object hovered and then appeared to accelerate rapidly., The witness stated that the object was clearly not an aircraft or weather balloon., There was no photographic evidence obtained for the sighting.",
+    "sighted object": "unidentified flying object",
+    "location": "Cleveland, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness mentioned being an earnest observer, not seeking publicity.",
+    "contains photographs": false
 }

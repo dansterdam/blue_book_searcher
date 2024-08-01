@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white object was sighted splitting into parts and rapidly moving with a zig-zag trajectory over Kadepa AB, Naha, Okinawa on October 29, 1961.",
-    "interesting points": [
-        "The object appeared to be maneuvering or changing direction abruptly, which could have been an anomaly or optical distortion.",
-        "The object was described as similar in color to a white fluorescent light and split into two parts, with the larger front part burning out while the smaller part continued on its course.",
-        "The sighting lasted for approximately 3-4 seconds and was observed by a highly reliable and qualified observer, who stated that it was not a meteor or meteorite.",
-        "Weather conditions at the time of the sighting included scattered clouds, good visibility, and varying wind speeds and directions at different altitudes.",
-        "No photographs were taken, and no other possible explanations for the sighting were available locally."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, white object splitting into parts",
-    "location": "Kadepa AB, Naha, Okinawa",
-    "witnesses": "a highly reliable and qualified observer",
-    "photographs": "no"
+    "main event": "An observer at Kadena Air Base in Okinawa saw a round white object splitting into parts, which exhibited rapid zig-zag movement over a span of 3-4 seconds.",
+    "interesting points": "The object split into approximately 30 segments during its rapid movement,The trajectory of the object changed abruptly, leading to speculation it may have been an optical illusion or distortion,The observation lasted for about 1-2 seconds,The observer was a highly qualified individual capable of differentiating between meteor activity and unusual sightings,The report suggested that it might have been a bolide (meteor).",
+    "sighted object": "round white object splitting into parts",
+    "location": "Kadena AB, Naha, Okinawa",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer is extremely well qualified to differentiate meteors and meteorite activity from unusual sightings",
+    "contains photographs": false
 }

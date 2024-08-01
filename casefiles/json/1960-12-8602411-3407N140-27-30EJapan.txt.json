@@ -1,15 +1,9 @@
 {
-    "main event": "A spherical, bright fiery red object was sighted over the ocean near Japan in 1960.",
-    "interesting points": [
-        "The object appeared to be the size of a pea and had a tail that was streaming behind it, diminishing in brightness.",
-        "The object was seen by an experienced naval officer who considered the sighting reliable.",
-        "The object appeared to fall straight down, then reappear and descend rapidly, lasting for about 39 seconds.",
-        "The sighting occurred at night with a clear sky and 40% cloud coverage, and the observers noticed an unusually bright and magnified moon.",
-        "The commanding officer believed the object was likely a meteor, but there was no physical evidence collected."
-    ],
-    "result": "unexplained",
-    "sighted object": "a spherical, bright fiery red object",
+    "main event": "An object appeared to hover and extinguish rapidly near Kasumiga-ura, Japan on December 9, 1960.",
+    "interesting points": "The observation lasted for 20 minutes, The object had a spherical shape and was bright firey red, The sighting may have been a psychological case with no available evidence indicating the object's physical existence, Commanding officer suggested it could have been a meteor, The sighting included a naval message confirming an experienced officer's observation.",
+    "sighted object": "a spherical object",
     "location": "Kasumiga-ura, Japan",
-    "witnesses": "naval officers",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "Lieutenant Junior Grade A. H. Clark and Junior Officer of the Deck V. A. Walker, both considered reliable and experienced.",
+    "contains photographs": false
 }

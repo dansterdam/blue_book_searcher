@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple military observers spotted numerous green and yellow objects, initially thought to be meteor showers, 75 miles north and west of Midway Island.",
-    "interesting points": [
-        "The objects were observed for 15-22 minutes, from 16:14z to 15:57z.",
-        "The objects were estimated to be flying at an altitude above 20,000 feet.",
-        "The objects exhibited a circular, directional course.",
-        "The report includes physical evidence, likely in the form of photographs or other documentation.",
-        "The conclusion reached was that the sighting was of an astronomical nature, as indicated by the attached chart."
-    ],
-    "result": "astronomical",
-    "sighted object": "numerous green and yellow objects",
-    "location": "75 miles NW of Midway Island",
-    "witnesses": "multiple military observers",
-    "photographs": "yes"
+    "main event": "Multiple military observers reported sighting multiple objects performing circular directional movements 75 miles NW of Midway Island.",
+    "interesting points": "The objects were initially thought to be meteor showers., Observation lasted from 161440Z to 1557Z., Estimated altitude above 20,000 feet., There were multiple military observers involved in the report., Physical evidence was noted in the report.",
+    "sighted object": "multiple unidentified flying objects",
+    "location": "75 Miles NW of Midway Island",
+    "number of confirmed witnesses": 0,
+    "witness description": "multiple military observers",
+    "contains photographs": true
 }

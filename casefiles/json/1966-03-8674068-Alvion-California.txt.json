@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A series of unidentified lights were observed over Pt. Cabrillo, California on March 23, 1966.",
-    "interesting points": [
-        "Four unidentified objects were observed, with colors ranging from white to red and green.",
-        "The movements of the objects were described as erratic, but they generally remained in the same positions 25-30 degrees above the horizon.",
-        "Photographs were taken of the objects, but the quality was described as poor, making it difficult to definitively identify the nature of the objects.",
-        "The objects were initially believed to possibly be a lighthouse, but the photo analysis was inconclusive.",
-        "The sighting lasted for approximately 3.5 hours, from 0630Z to 1930Z."
-    ],
-    "result": "inconclusive",
-    "sighted object": "four unidentified lights/objects in the sky",
-    "location": "Pt. Cabrillo, California",
-    "witnesses": "Mrs. __________, Boatswain Mate 2nd Ronald Adams, Engineman 2nd Carl Fullenwider, Seaman Gary Carson, and IC William E. McOlusky",
-    "photographs": "yes, but quality was poor"
+    "main event": "Four unidentified objects were observed in Alvion, California on 23/06/66 for a duration of 3.5 hours.",
+    "interesting points": "The objects were white with red and green tints., The objects displayed erratic movements but generally remained in the same position., The sighting conclusion suggested the objects could be due to lighthouses., Photos taken during the observation were of poor quality., Witnesses included several individuals at the Point Cabrillo Light Station.",
+    "sighted object": "Four unidentified flying objects",
+    "location": "Alvion, California, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Mrs __________, boatswain mate 2nd Ronald Adams, engineman 2nd Carl Fullenwider, seaman Gary Carson, and a IC William E McOlusky all at Point Cabrillo Light Station.",
+    "contains photographs": false
 }

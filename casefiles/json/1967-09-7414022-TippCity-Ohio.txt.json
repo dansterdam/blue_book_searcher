@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text:
-
 {
-    "main event": "On September 20, 1967, two youths driving in Tipp City, Ohio saw a flying saucer land on the highway behind them and then raise and hover over them until they reached the city, at which point it disappeared.",
-    "interesting points": [
-        "The object was described as a large rectangular object that fell like a leaf from a tree, with a white glaring light and one red light on the left side.",
-        "The object was so bright that it blinded the witnesses when it was hovering over them.",
-        "Other witnesses in the area also reported seeing unusual lights in the sky around the same time.",
-        "The Air Force investigated the sighting but was unable to identify the object, concluding it as 'probable aircraft'.",
-        "No photographs were taken of the object, but the witnesses provided a detailed description of its appearance and behavior."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large rectangular object with a white glaring light and one red light",
-    "location": "Tipp City, Ohio",
-    "witnesses": "two youths driving on the highway",
-    "photographs": "no"
+    "main event": "On September 20, 1967, two boys in Tipp City, Ohio observed a light in the sky which they described as appearing larger and brighter than a star, consisting of red and white lights.",
+    "interesting points": "The object was seen for about 10-15 minutes and appeared to hover before moving south,Another local resident also reported seeing unusual lights in the sky during the same time frame,The sighting was initially reported to the City Police, then to the Air Police agency,The object was described as having no distinct features, only lights,The boys expressed a desire to know more about what they saw, indicating that others in the area were afraid to report unusual sightings.",
+    "sighted object": "a bright light with red and white colors",
+    "location": "Tipp City, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two boys, ages approximately 17, who were riding motorcycles when they observed the object.",
+    "contains photographs": false
 }

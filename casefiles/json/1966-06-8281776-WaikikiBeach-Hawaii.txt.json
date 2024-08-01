@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A civilian observed a bright, round object hovering at 1,000 feet altitude over Waikiki Beach, Hawaii on June 29, 1966.",
-    "interesting points": [
-        "The object was described as bright and round, and hovered in the sky.",
-        "The witness was a highly educated 53-year-old free lance artist who appeared to be disturbed and lived in a poor one-room apartment.",
-        "The witness was a fan and follower of NICAP (National Investigations Committee on Aerial Phenomena), and was being watched by surveillance.",
-        "The Air Force personnel who investigated the case felt it was a 'pathetic attempt to gain publicity' by the witness.",
-        "The report was not considered significant enough to be included in the Project Blue Book files and was ignored."
-    ],
-    "result": "unexplained",
-    "sighted object": "Bright, round object",
+    "main event": "A report of a UFO sighting over Waikiki Beach, Hawaii, on June 29, 1966.",
+    "interesting points": "The object was described as oval-shaped, 50 to 60 feet long, emitting a white light and five blinking lights in between., The object left a vapor trail with sparks and had flames that emerged one at a time., The sighting lasted for approximately 2 minutes., A highly educated female witness, aged 53, observed the event during a night tour., The report mentioned considerable public concern regarding a possible meteor/satellite burn out incident.",
+    "sighted object": "an oval-shaped UFO",
     "location": "Waikiki Beach, Hawaii",
-    "witnesses": "Civilian witness, a highly educated 53-year-old free lance artist",
-    "photographs": "1, 3x5 inch photo attached"
+    "number of confirmed witnesses": 1,
+    "witness description": "a highly educated lady, aged 53, freelance artist",
+    "contains photographs": false
 }

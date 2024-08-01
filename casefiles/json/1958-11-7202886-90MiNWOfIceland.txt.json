@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot and crew of a U.S. Air Force aircraft sighted an unknown object while flying over the North Atlantic Ocean on November 24, 1958.",
-    "interesting points": [
-        "The object was described as a star-like object that gained and faded in brightness over the course of 15 seconds.",
-        "The object was observed to arc across the aircraft's flight path at an elevation between 12 and 22 degrees.",
-        "The pilot initially thought the object was a falling meteorite before realizing it was more distant and larger.",
-        "The navigator recorded the object's angle of elevation and azimuth as it appeared and disappeared.",
-        "The sighting lasted for approximately 2 minutes, from 1725Z to 1727Z."
-    ],
-    "result": "unexplained",
-    "sighted object": "a star-like object that gained and faded in brightness",
-    "location": "North Atlantic Ocean, approximately 90 miles northeast of Iceland",
-    "witnesses": "pilot, aircraft commander, navigator, and weather observer",
-    "photographs": "no"
+    "main event": "A senior pilot observed an unknown object believed to be an earth satellite on 24 November 1958.",
+    "interesting points": "The object was described as having the shape of a star and changing brightness over a 30-second period., The pilot initially thought it was a falling meteorite before determining it was larger and more distant., The object made an arc across the pilot's flight path at a maximum elevation of 22°., The sighting occurred at 1725Z during clear night conditions approximately 90 miles northeast of Iceland., No interception actions were taken and there was no physical evidence related to the sighting.",
+    "sighted object": "unknown object believed to be an earth satellite",
+    "location": "90 miles northeast of Iceland, Iceland",
+    "number of confirmed witnesses": 4,
+    "witness description": "Captain and crew including navigator and weather observer",
+    "contains photographs": false
 }

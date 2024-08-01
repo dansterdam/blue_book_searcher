@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A shiny white or aluminum colored object was observed to rise rapidly in Altadena, California on October 29, 1962.",
-    "interesting points": [
-        "The object was observed by Sgt James F. Daley, Deputy John R. Hogan, and two other trustees from the East Altadena area.",
-        "The object was estimated to be about 40 feet in diameter and at an altitude of 20,000 feet.",
-        "The speed of the object seemed to suddenly increase rapidly as it went overhead.",
-        "The observers did not notice any tail, trail, exhaust, or sound coming from the object.",
-        "The object was likely a weather balloon that was released from the Santa Monica Airport and blown inland by the prevailing westerly winds."
-    ],
-    "result": "Probably a weather balloon",
-    "sighted object": "A shiny white or aluminum colored object",
-    "location": "Altadena, California",
-    "witnesses": "Sgt James F. Daley, Deputy John R. Hogan, and two other trustees",
-    "photographs": "None"
+    "main event": "A shiny white or aluminum colored object was observed rising rapidly over Altadena, California on 29 October 1962.",
+    "interesting points": "The object was observed for 1 1/2 minutes by multiple witnesses including law enforcement., Witnesses reported the object moving from Northeast to Southwest and increasing in speed., The object did not emit any sound, tail, or exhaust., It was likely identified as a weather balloon released from Santa Monica Airport., The sighting is documented in a Project Blue Book report.",
+    "sighted object": "one shiny white or aluminum colored object",
+    "location": "Altadena, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Includes Sgt James F. Daley and Deputy John R. Hogan",
+    "contains photographs": false
 }

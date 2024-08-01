@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A graduate physicist spotted an unidentified white/bluish light object over Columbus, Ohio in 1951.",
-    "interesting points": [
-        "The object was about 12 inches in diameter and seemed to be emitting continuous rays of light similar to a glittering diamond.",
-        "The object was at an altitude of around 10,000 feet and its speed was not reported.",
-        "The object was observed for about 2 3/4 hours and was evaluated as possibly being an astronomical phenomenon (likely the planet Venus).",
-        "Other sightings of circular objects were reported in the Columbus, Ohio area around the same time.",
-        "An analysis of the wind conditions concluded that the object could not have been a weather balloon since it was traveling against the wind direction."
-    ],
-    "result": "possibly astronomical",
-    "sighted object": "a white/bluish light object",
-    "location": "Ellington AFB, Texas",
-    "witnesses": "a graduate physicist",
-    "photographs": "no"
+    "main event": "A graduate physicist observed eight circular objects moving in the sky near Columbus, Ohio on October 2, 1951.",
+    "interesting points": "The observation lasted approximately 15 seconds,The objects were reported to be high speed and heading west,The source concluded that the objects were likely not weather balloons due to wind direction at the time,No sound was heard during the sighting,The original brightness and straight-line path of the objects led the observer to believe they were of a real origin.",
+    "sighted object": "eight circular objects in the sky",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "graduate physicist from Battelle Memorial Institute",
+    "contains photographs": false
 }

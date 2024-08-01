@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was observed flying parallel to an aircraft from Denver, Colorado to Hanksville, Utah on September 3, 1962.",
-    "interesting points": [
-        "The object was described as being sea-green in color and giving off red, green, and white lights.",
-        "The object's speed was estimated to be around 600 mph.",
-        "The object was observed to be very close and its metallic appearance was clearly visible.",
-        "Pilots from multiple flights, including TWA and American Airlines, reported seeing the same object over Utah.",
-        "The weather conditions at the time of the sighting were recorded, including cloud cover, wind, and thunderstorms in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "a shiny, metallic object with colored lights",
-    "location": "Hanksville, Utah",
-    "witnesses": "pilots of commercial airline flights",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed flying parallel to Jupiter in the southern sky near Hanksville, Utah on September 3, 1962.",
+    "interesting points": "The object emitted red, green, and white lights at times., The object was initially thought to be Jupiter but was determined to be something else., The speed of the object was estimated to be around 600 mph., The sighting lasted for about 30 minutes., The object's metallic appearance was clearly visible.",
+    "sighted object": "unidentified flying object",
+    "location": "Hanksville, Utah, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Airline pilots from several flights observed the object.",
+    "contains photographs": false
 }

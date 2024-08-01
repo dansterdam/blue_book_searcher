@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Multiple glowing objects were observed in the sky near New Orleans, Louisiana in 1954.",
-    "interesting points": [
-        "The objects were described as moving and changing colors, including green, white, blue, and amber.",
-        "The objects were observed for 33 minutes.",
-        "There were a total of 7 objects, grouped in sets of 2.",
-        "The course of the objects was reported as unknown.",
-        "The reporting officer ultimately concluded that the objects were likely stars."
-    ],
-    "result": "was astronomical star/planet",
-    "sighted object": "multiple glowing objects in the sky",
-    "location": "New Orleans Area, LA",
-    "witnesses": "reporting officer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "On November 25, 1954, observers in the New Orleans area reported seeing a group of 7 moving objects that appeared to glow in green, white, blue, and amber colors.",
+    "interesting points": "The sighting lasted for 33 minutes., The objects were observed using ground visual methods, air intercept radar, and ground radar., There were multiple evaluations suggesting the objects could be balloons, aircraft, or astronomical bodies., The reporting officer concluded that the objects were positively identified as stars., The objects were seen in groups of 2.",
+    "sighted object": "seven glowing objects",
+    "location": "New Orleans, Louisiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified in the report",
+    "contains photographs": false
 }

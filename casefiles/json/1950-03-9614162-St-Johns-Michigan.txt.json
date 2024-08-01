@@ -1,15 +1,9 @@
 {
-  "main event": "The report details seven incidents of unidentified flying objects sighted in the continental U.S. during March 1950.",
-  "interesting points": [
-    "The location of the sightings was St Johns, Michigan.",
-    "The report was sourced from the Intelligence Division, Hq MATS, Andrews AFB, Washington 25, D.C.",
-    "The conclusion of the report was 'Insufficient Data'.",
-    "There were no photographs or physical evidence linked to the sightings.",
-    "The type of observation was categorized as air-visual."
-  ],
-  "result": "Insufficient Data",
-  "sighted object": "Unidentified Flying Objects",
-  "location": "St Johns, Michigan",
-  "witnesses": "Civilian",
-  "photographs": "None"
+    "main event": "Unidentified flying objects were reported in St Johns, Michigan on March 13, 1950.",
+    "interesting points": "The sighting occurred at 2300 Zulu time., The report was categorized as air-visual observation., Only one object was reported during this sighting., The course of the object was noted as WNW., The conclusion of the report was classified as Insufficient Data.",
+    "sighted object": "one unidentified flying object",
+    "location": "St Johns, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "source is civilian, no specific witnesses reported",
+    "contains photographs": false
 }

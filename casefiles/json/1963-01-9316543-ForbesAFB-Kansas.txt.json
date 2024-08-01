@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light changing color from orange to green to white, moving over the horizon in the east at an estimated distance of 5 miles from the observer.",
-    "interesting points": [
-        "The object was described as a burning fire-ball descending at high speed, and disappeared over the horizon.",
-        "The estimated size of the object was 2 feet in diameter.",
-        "The sighting lasted for only 4.5 seconds.",
-        "The weather at the time of the sighting included a ceiling of zero, visibility of 5/8 mile, fog, and light drizzle.",
-        "A similar sighting had been reported by another witness about a year earlier, but was not officially reported at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light changing color from orange to green to white",
-    "location": "Forbes AFB, Kansas",
-    "witnesses": "Airman Russell R. Newman",
-    "photographs": "no"
+    "main event": "Airman Russell R. Newman observed a bright light changing colors, moving over the horizon at Forbes AFB, Kansas on January 2, 1963.",
+    "interesting points": "The object changed color from orange to green to white,Witnesses described the object as a burning fireball descending at high speed,The object was estimated to be 2 feet in diameter,The sighting lasted approximately 4.5 seconds,The object disappeared over the eastern horizon.",
+    "sighted object": "a bright light changing colors",
+    "location": "Forbes AFB, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Airman Russell R. Newman from the 51st Combat Defense Squadron",
+    "contains photographs": false
 }

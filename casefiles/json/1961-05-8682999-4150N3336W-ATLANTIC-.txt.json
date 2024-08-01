@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed in the sky for about 30 minutes.",
-    "interesting points": [
-        "The object was white, round, and about as large as a first magnitude star.",
-        "The object was observed by 6 officers and 4 crew members on an aircraft.",
-        "The object was observed with the unaided eye, binoculars, and sextant.",
-        "The object was first noticed bearing 240 degrees, elevation, and disappeared into the haze on the horizon bearing 060 degrees, 15 degrees elevation.",
-        "The aircraft's position was 41°29'N 33°36'W, heading 255 degrees, at 8500 feet altitude."
-    ],
-    "result": "unexplained",
-    "sighted object": "white, round object about as large as a first magnitude star",
-    "location": "32°21' (Atlantic Ocean)",
-    "witnesses": "6 officers and 4 crew members on an aircraft",
-    "photographs": "no"
+    "main event": "A white, round object was observed in the night sky, appearing as large as a first magnitude star.",
+    "interesting points": "The sighting lasted for 30 minutes,The object was determined to be Satellite Echo I,The observation was made by a crew of 10 including 6 officers and 4 crew members,The object was visible to the unaided eye, binoculars, and a sextant,The object's trajectory was reported to be at a speed of 7 degrees per minute.",
+    "sighted object": "white round object resembling a first magnitude star",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 10,
+    "witness description": "6 officers and 4 crew members",
+    "contains photographs": false
 }

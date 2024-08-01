@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Multiple radar blips appeared 90 degrees above the horizon at Forbes AFB and McConnell AFB in Kansas in 1961.",
-    "interesting points": [
-        "The radar blips were the size of a quarter or 50 cents and appeared in groups of 2 or 3, with the individual blips being the size of a dime.",
-        "The blips changed color from green to brilliant white and pulsed before disappearing at a 45 degree angle from the horizon.",
-        "Similar sightings were reported from other parts of Missouri, Kansas, and southern Iowa on the same night.",
-        "The reporting officer tended to agree with a Kansas City astronomer that the sightings were likely caused by meteor showers, based on the fading glow and disappearance of the objects.",
-        "Weather conditions included clear skies, winds aloft, and an inversion temperature layer."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple radar blips",
-    "location": "Forbes AFB and McConnell AFB, Kansas",
-    "witnesses": "radar operators",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Multiple UFO sightings were reported on January 30, 1961, featuring ground-radar and visual observations of various objects, primarily at Forbes AFB and McConnell AFB in Kansas.",
+    "interesting points": "Radar detected blips at 90° above the horizon, fluctuating in size from a quarter to a dime and changing colors from green to brilliant white,Two witnesses reported visual sightings including a bright ball that faded in size and brilliance before disappearing,The duration of sightings varied between approximately 10-15 seconds for radar and around 30 seconds for visual observers,Certain military personnel described the object as resembling a meteor or a flare,Other reports from surrounding areas indicated similar sightings throughout the night.",
+    "sighted object": "Radar blips and a bright round object",
+    "location": "Wichita, Kansas, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "military personnel including control tower operators",
+    "contains photographs": false
 }

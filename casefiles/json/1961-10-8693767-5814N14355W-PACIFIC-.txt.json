@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A cigar-shaped or white patch was observed in the northern sky for 30 minutes.",
-    "interesting points": [
-        "The object was described as circular in shape.",
-        "The sighting was made from a ship (M/V Chena) at sea.",
-        "A separate report described a bright flash that was seen by the M/V Chena.",
-        "The flash was described as a single, white flash with no tail.",
-        "The location of the sighting was in the Pacific Ocean near Ceylon (Sri Lanka)."
-    ],
-    "result": "unexplained",
-    "sighted object": "cigar-shaped or white patch in the sky",
-    "location": "Ceylon (Pacific Ocean)",
-    "witnesses": "crew of the M/V Chena ship",
-    "photographs": "no photographs available"
+    "main event": "A bright flash sighting was reported by the M/V Chena on October 29, 1961.",
+    "interesting points": "The witness saw a single, bright white flash in a northerly direction,The flash was observed around the time of a potential atomic bomb test,The sighting lasted for a brief moment,Only one object was reported at the time of the flash,The observation conditions included a clear, dark sky with good visibility.",
+    "sighted object": "a single bright white flash",
+    "location": "Ceylon, Pacific",
+    "number of confirmed witnesses": 1,
+    "witness description": "the Captain of the M/V Chena, reliability extremely good",
+    "contains photographs": false
 }

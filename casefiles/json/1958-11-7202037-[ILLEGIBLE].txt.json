@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar-visual sighting of an unidentified flying object near Minot, North Dakota on November 23, 1959.",
-    "interesting points": [
-        "The object was described as round in shape with a ragged bottom, and emitted a bright blue and pin-head shaped light.",
-        "An apparent explosion was also observed, with blue-green and silver colors.",
-        "The object was estimated to be about 10-15 miles north of the explosion and was moving at an extremely fast speed towards the explosion.",
-        "The smoke from the apparent explosion dissipated rapidly, while the other object disappeared very fast to the southeast.",
-        "The sighting was reported by a reliable military observer and lasted for about 1 minute."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a round object with a ragged bottom, emitting blue and pin-head shaped light; an apparent explosion with blue-green and silver colors",
-    "location": "5 miles north of 48 22 North, 121 17 West, near Minot, North Dakota",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A UFO report submitted to Project Blue Book regarding a sighting of an unidentified round, bright silver object moving slightly above the horizon.",
+    "interesting points": "The object was observed moving with a slight swaying motion for about 15 seconds before disappearing., No sound was noted during the sighting., The sighting occurred on or around 3 November 1959., Investigations failed to find any explanations for the sighting., The observation involved coordination with military personnel in the vicinity of Minot.",
+    "sighted object": "one round bright silver object",
+    "location": "Minot, North Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a military pilot, very reliable",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A round, orange-colored object the size of a basketball was spotted in the sky over Gurnie, Illinois on April 8, 1956.",
-    "interesting points": [
-        "The object was observed for 6-8 minutes.",
-        "The object was described as oval in shape.",
-        "The observation was made by a single civilian witness.",
-        "No information was provided about the object's motion or flight path.",
-        "The report was inconclusive, listing several possible explanations including balloon, aircraft, astronomical, or insufficient data for evaluation."
-    ],
-    "result": "unknown",
-    "sighted object": "one round, orange-colored object",
-    "location": "Gurnie, Illinois",
-    "witnesses": "1 civilian",
-    "photographs": "none"
+    "main event": "A witness observed one oval-shaped orange object, comparable in size to a basketball, in Gurnie, Illinois on April 8, 1956.",
+    "interesting points": "The object was observed for a duration of 6-8 minutes., The object had a faded orange color., Only one witness reported the sighting., There was no motion or flight path reported., Various conclusions were made about the object being a balloon, aircraft, or astronomical phenomenon due to insufficient data.",
+    "sighted object": "one oval-shaped orange object",
+    "location": "Gurnie, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "one civilian witness",
+    "contains photographs": false
 }

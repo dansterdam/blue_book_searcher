@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple unidentified flying objects were sighted over West Virginia and Ohio, tracked by radar, and observed by military pilots.",
-    "interesting points": [
-        "The objects were described as having irregular shapes, red blinking lights, and exhibiting high-speed maneuvers that were inconsistent with known aircraft.",
-        "The objects were tracked on radar, with one object reaching speeds up to 720 knots (over 800 mph) at an altitude of 35,000 feet.",
-        "Pilots reported that the objects appeared to slow down and make sharp turns, which is not a typical behavior for conventional aircraft.",
-        "The sightings occurred on multiple occasions over several days, with reports coming from different military units and locations.",
-        "The reports mention possible weather inversions and mirage effects as potential explanations, but the pilots and radar operators stated that the objects' behavior was highly unusual and did not match known phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "Irregular shaped objects with red blinking lights",
-    "location": "West Virginia and Ohio",
-    "witnesses": "Military pilots and radar operators",
-    "photographs": "No"
+    "main event": "An unidentified flying object was sighted by Avenger Blue flight of the 5th Air Division over Parkersburg, W. Virginia on 18 December 1957.",
+    "interesting points": "The object was tracked on radar for seven minutes and observed to have red blinking lights,The sighting occurred at approximately 6:00 PM on a clear night,The object was reported to be fast and behaved in an unusual manner,Several military personnel, including pilots, witnessed the sighting,Overall observation duration was around 20-30 minutes.",
+    "sighted object": "one unidentified flying object with red blinking lights",
+    "location": "Guthrie & 40 mi E of Parkersburg, W. Virginia, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "military personnel including pilots from the 5th Air Division",
+    "contains photographs": false
 }

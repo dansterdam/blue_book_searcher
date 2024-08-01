@@ -1,15 +1,9 @@
 {
-    "main event": "A reported UFO sighting with an elongated, greenish object with some portholes observed.",
-    "interesting points": [
-        "The object was described as elongated and had some portholes.",
-        "The object had an exhaust flame one and a half times the size of the object itself.",
-        "The sighting occurred on a clear night with good visibility.",
-        "The report comes from a reliable source, a 1st Lt. security officer.",
-        "There are no photographs or other visual evidence included in the report."
-    ],
-    "result": "unknown",
-    "sighted object": "elongated, greenish object with portholes",
-    "location": "Forest Park, Illinois",
-    "witnesses": "1st Lt. security officer",
-    "photographs": "none"
+    "main event": "A report from Project Blue Book documenting a UFO sighting on 14 August 1952.",
+    "interesting points": "The object was described as elongated with a greenish hue., The sighting lasted for about three to four seconds., The object was reported to have four or five portholes., An exhaust flame was recorded as one and a half times the size of the object., The sighting was made on a clear night with 12 miles visibility.",
+    "sighted object": "elongated object with a greenish hue",
+    "location": "Forest Park, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "1st Lt. - Security Officer - considers source reliable",
+    "contains photographs": false
 }

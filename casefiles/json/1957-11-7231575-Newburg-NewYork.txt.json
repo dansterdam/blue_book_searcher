@@ -1,15 +1,9 @@
 {
-	"main event": "A UFO was observed for approximately 5 minutes at Newburgh Park, New York on 11-7-57. It was described as a round object, the size of a pail, with the upper portion yellow and the lower portion orange. The side facing the observer was glowing.",
-	"interesting points": [
-		"The observation lasted for 5 minutes, providing a significant duration for the sighting.",
-		"The UFO was described as a round object with a glowing side, which is unusual.",
-		"The object disappeared from the same position where it initially appeared, suggesting unusual movement.",
-		"An aircraft was observed circling in the area after the UFO sighting, indicating potential interest from military or aviation personnel.",
-		"The witness, identified as a housewife, reported very clear visibility during the observation."
-	],
-	"result": "unexplained",
-	"sighted object": "round, glowing UFO",
-	"location": "Newburgh Park, New York",
-	"witnesses": "housewife",
-	"photographs": "no"
+    "main event": "A round object was observed glowing in Newburgh Park, New York on November 7, 1957.",
+    "interesting points": "The object was round and the size of a pail., The upper portion of the object was yellow, while the lower portion was orange., The sighting lasted approximately 5 minutes., The observer described the aide facing them as glowing., There was an aircraft circling in the area after the observation of the object.",
+    "sighted object": "a round glowing object",
+    "location": "Newburgh Park, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a housewife",
+    "contains photographs": false
 }

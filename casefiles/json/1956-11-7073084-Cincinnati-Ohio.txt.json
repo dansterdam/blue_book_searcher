@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported on 9th November 1956 in Cincinnati, Ohio. The object was described as a bright white, luminous, round object, the size of a pencil eraser at arms' length, and it remained in the sight path for 3 to 6 seconds before disappearing behind the horizon 2 to 3 miles away.",
-  "interesting points": [
-    "The UFO was observed both visually and on ground-radar, indicating the credibility of the sighting.",
-    "The duration of the observation was very short, only lasting for 3 to 6 seconds.",
-    "The conclusion suggested possibilities of the sighting being caused by a balloon, aircraft, or meteor, but the meteor explanation did not account for all the data.",
-    "The object's shape and behavior, including its disappearance, did not fit conventional explanations.",
-    "The report did not include photographs, but it included detailed information about the observation and the observers."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright white, luminous, round object",
-  "location": "Cincinnati, Ohio",
-  "witnesses": "not specified",
-  "photographs": "no photographs included"
+    "main event": "An unidentified aerial object was sighted in Cincinnati, Ohio on November 9, 1956, which appeared bright and then disappeared before reappearing.",
+    "interesting points": "The sighting was visually confirmed and supported by ground radar,The object was described as being bright white,The duration of the sighting was between 3 to 6 seconds,Multiple possible explanations were suggested including a balloon, aircraft, or meteor, and the object's disappearance occurred 2 to 3 miles away behind the horizon.",
+    "sighted object": "a bright white unidentified aerial object",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no information about witnesses available",
+    "contains photographs": false
 }

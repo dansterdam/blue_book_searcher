@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, round light was observed moving in an arc, up and down, near Fairborn, Ohio in 1969.",
-    "interesting points": [
-        "The object was close to the ground and appeared to be 10-15 feet in diameter.",
-        "The object made a whining noise as it shot straight up and disappeared.",
-        "The sighting occurred during daylight hours.",
-        "The observer was driving in a residential area when they noticed the object.",
-        "The report includes diagrams to plot the position and motion of the observed object."
-    ],
-    "result": "Insufficient Data",
-    "sighted object": "A round, bright light",
-    "location": "Fairborn, Ohio",
-    "witnesses": "Civilian driver",
-    "photographs": "No photographs included"
+    "main event": "A UFO sighting was reported near Fairborn, Ohio on 8/12/1969.",
+    "interesting points": "The observation was made at 3:00 AM EDT., The reported object was described as round and bright, moving in an arc., The witness observed the phenomenon from a mile east of Fairborn, Ohio., Though a detailed questionnaire was provided for gathering information, many sections were marked with 'N/A' indicating insufficient data., The conclusion of the investigation was that there was 'Insufficient Data' to ascertain what the object was.",
+    "sighted object": "round, bright light that moved upward and downward in an arc",
+    "location": "Fairborn, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian observation, no detailed witness profile provided.",
+    "contains photographs": false
 }

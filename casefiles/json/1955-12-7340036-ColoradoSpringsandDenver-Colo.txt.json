@@ -1,15 +1,9 @@
 {
-    "main event": "Three observers reported seeing a single green object with an orange trail that was much brighter than a jet exhaust in Colorado Springs and Denver, Colorado.",
-    "interesting points": [
-        "The object was observed for 3-5 seconds.",
-        "The object was moving in a northwest direction.",
-        "The sighting was reported by both military and civilian sources.",
-        "The object was definitively identified as a meteor by a USAF Captain who was a pilot.",
-        "There were no photographs taken of the sighting."
-    ],
-    "result": "was Astronomical/Meteor",
-    "sighted object": "a single green object with an orange trail",
-    "location": "Colorado Springs & Denver, Colorado",
-    "witnesses": "three observers",
-    "photographs": "no"
+    "main event": "Three observers reported seeing a bright object with a green body and an orange trail in the sky.",
+    "interesting points": "The object was much brighter than jet exhaust,The observation lasted between 3 to 5 seconds,The sighting was confirmed by military and civilian sources,All three observers had the same description of the object,The USAF Captain concluded it was a meteor.",
+    "sighted object": "one bright object with a green body and an orange trail",
+    "location": "Colorado Springs & Denver, Colorado, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three observers, all same description",
+    "contains photographs": false
 }

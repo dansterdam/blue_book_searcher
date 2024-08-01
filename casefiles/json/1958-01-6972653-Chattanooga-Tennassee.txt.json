@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright object in the sky was observed moving at a high rate of speed, then suddenly stopped and hovered for 5-7 minutes before disappearing from view.",
-    "interesting points": [
-        "The object was first sighted in the west, moving east at a high rate of speed.",
-        "The object appeared to be at a great altitude.",
-        "The object suddenly stopped and hovered for approximately 5 to 7 minutes.",
-        "The sighting was observed by two witnesses, Capt. John Fugitt and Capt. James O. Smith.",
-        "The sighting occurred on December 6, 1957 around 6:30 PM EST."
-    ],
-    "result": "unexplained",
+    "main event": "On December 6, 1957, a UFO sighting was reported in Chattanooga, Tennessee, involving a bright object observed moving from west to east at high speed before hovering for several minutes.",
+    "interesting points": "The object appeared larger than the full moon at the time of observation., The altitude of the object was believed to be great., The sighting lasted approximately 5 to 7 minutes., Capt. James O. Smith corroborated the sighting., The observer noted unusual conditions at the observation site.",
     "sighted object": "a bright object in the sky",
-    "location": "Chattanooga, Tennessee",
-    "witnesses": "Capt. John Fugitt and Capt. James O. Smith",
-    "photographs": "no photographs included"
+    "location": "Chattanooga, Tennessee, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Capt. John Fugitt and Capt. James O. Smith, both military personnel.",
+    "contains photographs": false
 }

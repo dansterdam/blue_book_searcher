@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A stationary object, about 1.5 to 2 inches long, was observed about 2 feet from the ground, appearing like a balloon at around 500 feet high and slowly drifting in a northeast direction.",
-  "interesting points": [
-    "The object was observed for about 10 minutes.",
-    "The object appeared to be motionless in the sky.",
-    "The observer was unsure if the object could be identified as a known object.",
-    "The observer was standing outdoors when they noticed the object.",
-    "The weather conditions included clouds, but the sky was otherwise clear."
-  ],
-  "result": "possibly a balloon, possibly astronomical, insufficient data for evaluation",
-  "sighted object": "a stationary object, about 1.5 to 2 inches long",
-  "location": "Dayton, Ohio",
-  "witnesses": "1 observer",
-  "photographs": "no"
+    "main event": "On August 14, 1960, an observer reported seeing a small object appearing to be a balloon-like shape that was stationary about 2 feet off the ground and drifting northeast at approximately 500 feet in the air.",
+    "interesting points": "The sighting lasted for about 10 minutes., The object was described as approximately 1.5 to 2 inches long., Multiple conclusions state that it was probably a balloon, but also considered astronomical., The observer noted the object moved or maneuvered rather than flying steadily., The report contained testimonies from other witnesses, but their details were not specified.",
+    "sighted object": "A small balloon-like object",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Observed the object from the ground",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An observer sighted an oblong object with a dropping light over Binghamton, New York in 1968.",
-    "interesting points": [
-        "The observer submitted a report on an AF Form 117, but it was confusing and may not have been fully investigated.",
-        "The report indicates there was no physical evidence or photographs of the sighting.",
-        "The object was described as an 'oblong object' that had a 'dropping light'.",
-        "The duration of the observation is unknown.",
-        "The report was part of Project 10073, which was an Air Force program for investigating unidentified flying objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oblong object with a dropping light",
-    "location": "Binghamton, New York",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "An observer reported sighting an oblong object with a dropping light in Binghamton, New York in July 1968.",
+    "interesting points": "The observed object was described as moving low, then accelerating and climbing out of sight., The observer reported the weather conditions were clear during the sighting., There is no physical evidence nor photographs supporting the sighting., The object was eventually described as a glowing disc-shaped object that diminished in size before disappearing., Multiple witnesses reported similar sightings in the area.",
+    "sighted object": "oblong object with a dropping light",
+    "location": "Binghamton, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was a male, age 34, with no specific occupation mentioned.",
+    "contains photographs": false
 }

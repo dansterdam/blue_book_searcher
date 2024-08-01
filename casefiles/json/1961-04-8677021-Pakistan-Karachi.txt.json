@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two military personnel observed an unidentified bright light, changing color from red to green and moving erratically over Karachi, Pakistan on April 8, 1961.",
-    "interesting points": [
-        "The object was observed for approximately 15 minutes before disappearing from view.",
-        "The object was described as three distinct oblong gaseous pinpoint lights, larger than a star, traveling in close formation and exhibiting a jerkiness in movement suggestive of atmospheric distortion.",
-        "The relative position of the three lights remained constant throughout the sighting, with the apparent size of the lights decreasing towards the end of the sighting period.",
-        "The observers estimated the object to be traveling at a tremendous speed and at a tremendous altitude, as though in the fringe area of the atmosphere.",
-        "The report suggests this sighting may have been of the Sputnik man-in-space rocket body, and requests anticipated Zulu orbit time over Pakistan if the body had not yet decayed."
-    ],
-    "result": "unidentified",
-    "sighted object": "three distinct oblong gaseous pinpoint lights",
-    "location": "Karachi, Pakistan",
-    "witnesses": "two military personnel",
-    "photographs": "yes, 5 photographs"
+    "main event": "Two military personnel observed a bright light changing color from red to green while traveling between Karachi and Quetta, Pakistan on April 8, 1961.",
+    "interesting points": "The object was moving erratically and was observed for approximately 15 minutes., The report mentions the possibility of the object being a balloon, aircraft, or astronomical phenomenon., The object was confirmed by two military officers., The sighting occurred at 0540 hours local time., The report highlights the object's tremendous altitude and speed in relation to stars.",
+    "sighted object": "unidentified bright light changing colors",
+    "location": "Karachi, Sindh, Pakistan",
+    "number of confirmed witnesses": 2,
+    "witness description": "two military personnel",
+    "contains photographs": false
 }

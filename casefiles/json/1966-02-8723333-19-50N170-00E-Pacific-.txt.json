@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A lighted object was observed entering the atmosphere and was visible for 10 seconds.",
-    "interesting points": [
-        "The object was observed at coordinates 19.50N 170.00E in the Pacific Ocean.",
-        "The object was observed by a civilian witness.",
-        "The object was observed for a duration of 10 seconds.",
-        "The object was observed visually, with no photographs taken.",
-        "The object was concluded to be an astronomical event by the editor."
-    ],
-    "result": "astro (editor)",
-    "sighted object": "a lighted object",
-    "location": "19.50N 170.00E (Pacific Ocean)",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Observer saw a lighted object entering the atmosphere that was visible for ten seconds.",
+    "interesting points": "The sighting occurred on 18 February 1966 at 1612Z,The object changed course from 330 to 333 degrees,Only one object was reported,The observation lasted for a short duration of 10 seconds,The sighting was recorded in a Project Blue Book document.",
+    "sighted object": "lighted object entering the atmosphere",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

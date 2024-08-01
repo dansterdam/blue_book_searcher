@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was seen in the air at 8:00 to 8:15 p.m. on October 3, 1953 in North Rome Township, Bradford County, Pennsylvania.",
-    "interesting points": [
-        "The object was stationary at first, then moved slightly upward and down in a close area, hovering in the air similar to a helicopter.",
-        "The object did not emit any sound or visible exhaust.",
-        "The object was also seen by Mrs. [REDACTED] and another witness, who confirmed the sighting.",
-        "Mrs. [REDACTED] recalled seeing the same object at approximately the same location a year previously.",
-        "A rumor existed that a metallic flying object was found several years previously in approximately the same area where the unidentified object was observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified object in the sky",
-    "location": "North Rome Township, Bradford County, Pennsylvania",
-    "witnesses": "Special Agent HAROLD K. ALLEN, Jr., Mrs. [REDACTED], and another witness",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in North Rome Township, Bradford County, Pennsylvania, on 10/3/53 between 8:00 and 8:15 p.m.",
+    "interesting points": "The object was initially sighted in a stationary position but appeared to hover and move slightly upward and downward similar to a helicopter., It was reported to emit no sound and showed no visible exhaust steam., A witness reported seeing the same object at approximately the same location a year prior., The sighting occurred at night under clear conditions., The report concludes that the sighted object was determined to be Arcturus, an astronomical body.",
+    "sighted object": "an unidentified flying object",
+    "location": "North Rome, Pennsylvania, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "One witness was Special Agent Harold K. Allen, Jr., and two other unidentified local residents.",
+    "contains photographs": false
 }

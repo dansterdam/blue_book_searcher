@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A burning object resembling a low-flying aircraft was observed with burning pieces falling off.",
-    "interesting points": [
-        "The observer initially thought it was a light aircraft burning, but the fire gained intensity and the object began to break up.",
-        "The burning pieces fell to the ground and burned out before hitting the ground.",
-        "There were no reports of any downed aircraft in the area.",
-        "The observation lasted for 3-4 seconds.",
-        "The object was seen at an altitude of around 2,000 feet and approximately 5 miles away."
-    ],
-    "result": "ASTRO (SECTOR)",
-    "sighted object": "A burning object resembling a low-flying aircraft",
-    "location": "Condon, Oregon",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "An observer reported seeing a burning object resembling a low flying aircraft in Condon, Oregon on June 3, 1966.",
+    "interesting points": "The observer estimated the object was at 2000 feet and traveling about 5 miles away., The sighting lasted approximately 3 to 4 seconds., There were burning pieces falling off the object during the sighting., The observer believed it was a crippled aircraft, but no reports of a downed aircraft were confirmed in the area., The report was generated from a Project Blue Book document and concluded that the sighting was likely an aircraft.",
+    "sighted object": "a burning object resembling a low flying aircraft",
+    "location": "Condon, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

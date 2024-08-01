@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, glowing object was observed in the sky for around 2 minutes over Wall, Michigan on September 6, 1956.",
-    "interesting points": [
-        "The object was circular in shape, measuring an estimated 15-20 feet in diameter, and had a cream to orange color.",
-        "The object moved at an estimated speed of 400-500 mph, and performed erratic maneuvers with sudden stops and starts.",
-        "The object was tracked on ground radar simultaneously with the visual sighting by a pilot of F-89 jets on an intercept mission.",
-        "The report concludes that the sighting was 'possibly aircraft', but notes that the reality of the sighting was indicated by the radar tracking.",
-        "The report includes various numerical codes and text that likely describe the status or characteristics of the reported unidentified flying object (UFO)."
-    ],
-    "result": "possibly aircraft",
-    "sighted object": "bright, glowing, circular object",
-    "location": "Wall, Michigan",
-    "witnesses": "pilot of F-89 jets, ground radar",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Wall, Michigan on September 6, 1956, involving one object that was tracked visually and on ground radar.",
+    "interesting points": "The object was estimated to be 15-20 feet in diameter and circular in shape,It was cream to orange in color and reached speeds of approximately 400-500 mph,The object exhibited erratic maneuvers, with sudden starts and stops,The sighting lasted for about 10 minutes and the object disappeared into the overcast sky,The pilot of an F-89 jet reported seeing the object while on an intercept mission.",
+    "sighted object": "one circular object",
+    "location": "Wall, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Pilot of the F-89 jets on intercept mission",
+    "contains photographs": false
 }

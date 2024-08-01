@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One object was seen flying in a circle for 1 1/2 to 2 minutes in Englewood, Colorado on December 16, 1957.",
-    "interesting points": [
-        "The object was seen by a civilian witness.",
-        "The sighting lasted for 1 1/2 to 2 minutes.",
-        "The object was flying in a circular pattern.",
-        "There were no photographs taken of the object.",
-        "The report states that there was insufficient data for analysis."
-    ],
-    "result": "unknown",
-    "sighted object": "one unidentified flying object",
-    "location": "Englewood, Colorado",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "One object seen flying in a circle for 1 1/2 to 2 minutes.",
+    "interesting points": "The sighting occurred on 15 December 1957,The observation was made from the ground,The object was seen for a duration of approximately 1.5 to 2 minutes,Only one object was reported in the sighting,The source of the report was a civilian.",
+    "sighted object": "one object flying in a circle",
+    "location": "Englewood, Colorado, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian",
+    "contains photographs": false
 }

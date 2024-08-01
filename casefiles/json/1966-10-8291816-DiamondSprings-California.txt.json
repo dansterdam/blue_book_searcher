@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple sightings of unidentified aerial objects in the Diamond Springs, California area on multiple dates in October 1966.",
-    "interesting points": [
-        "The objects were described as round, aluminum-colored, and the size of an airplane, with flashing red and green lights.",
-        "The objects were observed moving in a non-linear course, sometimes appearing to fade or travel from west to east.",
-        "The sightings were reported by a civilian witness, as well as by a 6-year-old child and a teenage daughter, over the course of several weeks.",
-        "There were no unusual weather phenomena observed in the area that could explain the sightings.",
-        "A similar sighting was reported by a Captain Haws at the Dexter substation, where an unknown object was seen slowing down, stopping, and backing up over a 10-15 minute period."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, aluminum-colored objects with flashing lights",
-    "location": "Diamond Springs, California",
-    "witnesses": "civilian witness, 6-year-old child, teenage daughter, and Captain Haws",
-    "photographs": "no photographs present"
+    "main event": "Several UFO sightings were reported over Diamond Springs, California, on October 24, 1966.",
+    "interesting points": "The objects were described as round, aluminum in color, and roughly the size of an airplane,Witnesses observed the objects traveling in a nonlinear course from west to east,The sightings included reports from a six-year-old and his sister over several weeks,Weather conditions were clear with good visibility at the time of the sightings,The officer reviewing the case suggested the sighting may have been a high flying jet reflecting sunlight.",
+    "sighted object": "UFOs described as round and aluminum-colored",
+    "location": "Diamond Springs, California, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a six-year-old boy, his sister, and their mother",
+    "contains photographs": false
 }

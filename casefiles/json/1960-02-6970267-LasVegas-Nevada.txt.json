@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, circular object was spotted in the sky over Las Vegas, Nevada on February 8, 1960.",
-    "interesting points": [
-        "The object was the size of a silver dollar, silver in color, and had a white to light green tail of sparks about 3 to 5 times as long as the object.",
-        "The object looked like a shooting star and was observed for about 10 minutes.",
-        "The control tower operator said the object acted much like a meteor, but was the brightest one he had ever seen, estimating he had seen 10-15 meteors in the last 6 months.",
-        "Several airborne reports of the same object were received, with at least one observation as far north as Wendover, Utah.",
-        "The Lowell Observatory in Flagstaff, Arizona reported they had good sky coverage at the time but made no observations."
-    ],
-    "result": "Possibly a meteor",
-    "sighted object": "A bright, circular object with a tail of sparks",
-    "location": "Las Vegas, Nevada",
-    "witnesses": "Civilian control tower operator and other unspecified witnesses",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A circular, silver colored object with a tail of sparks was observed in Las Vegas, Nevada on February 8, 1960.",
+    "interesting points": "The object was about the size of a silver dollar and emitted sparks that were 3 to 5 times its length., The sighting lasted for approximately 10 minutes., The best description was given by a civilian control tower operator who noted it acted like a meteor., Multiple witnesses reported seeing the object, with several airborne reports from different areas., The object faded out or disappeared behind mountains.",
+    "sighted object": "circular silver object with a tail of sparks",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "civilian control tower operator and other witnesses in the area",
+    "contains photographs": false
 }

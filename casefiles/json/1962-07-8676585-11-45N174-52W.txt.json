@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, solid object resembling a first magnitude star was sighted by the crew of the USS Bonefish on June 11, 1962.",
-    "interesting points": [
-        "The object had a solid glow with no tail and was first noticed due to its movement in relation to the stars.",
-        "The object was sighted at a bearing of 300 degrees and disappeared behind low clouds.",
-        "The object was in view for approximately 12 minutes.",
-        "The object was sighted visually by the crew.",
-        "The sighting occurred on a moonlit night with 7/10 cloud coverage, and there were no aircraft detected on radar at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, solid object resembling a first magnitude star",
-    "location": "11 17N 174 52W",
-    "witnesses": "crew of the USS Bonefish",
-    "photographs": "no"
+    "main event": "An oval-shaped object was observed at 1800 hours on June 11, 1962, flying in a constant northwest direction.",
+    "interesting points": "The object was tracked by aircraft intercept radar before being visually acquired.,Two pilots observed the object, describing it as roughly oval and silver in color.,One pilot compared the object's size to a dime held at arm's length.,The sighting lasted approximately 2 minutes.,The object was a single entity observed flying at a specific bearing.",
+    "sighted object": "a silver oval-shaped object",
+    "location": "11 17 N, 174 52 W",
+    "number of confirmed witnesses": 2,
+    "witness description": "two pilots",
+    "contains photographs": true
 }

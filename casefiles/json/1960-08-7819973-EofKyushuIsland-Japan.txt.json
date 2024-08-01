@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An aircraft observed an unidentified object by ground radar east of Kyushu Island, Japan.",
-    "interesting points": [
-        "The object appeared to change color and was estimated to be traveling at several thousand miles per hour.",
-        "The object made a 90-degree turn in front of the observer.",
-        "The object disappeared within 4-5 seconds.",
-        "The report suggests the possibility of the object being a meteor passing through the atmosphere.",
-        "The sighting was confirmed by both ground radar and visual observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a ball of light with orange sparks following behind it",
-    "location": "East of Kyushu Island, Japan",
-    "witnesses": "aircraft crew",
-    "photographs": "none"
+    "main event": "An aircraft observed an unidentified object by ground radar east of Kyushu Island, Japan, on August 6, 1960.",
+    "interesting points": "The sighting lasted for approximately 30 minutes,The object was confirmed visually by ground radar,An observer estimated the speed of the object at several thousand miles per hour,The object was described as an orange ball of light with a fluorescent trail,The object made a 90-degree turn and disappeared within 4 to 5 seconds.",
+    "sighted object": "orange ball of light with a fluorescent trail",
+    "location": "Kyushu Island, Japan",
+    "number of confirmed witnesses": 2,
+    "witness description": "aircraft observers from the crew",
+    "contains photographs": false
 }

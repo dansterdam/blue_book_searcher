@@ -1,15 +1,9 @@
 {
-  "main event": "On September 12, 1956, a ground-visual UFO sighting was reported in Rossville, Georgia. The object observed was described as cigar-shaped, comparable in size to two-thirds of a full moon, and traveled from S.S.W. to W. before disappearing in three to five minutes.",
-  "interesting points": [
-    "The duration of the sighting was relatively short, lasting only three to five minutes.",
-    "The UFO was described as cigar-shaped, which is a less common shape for reported sightings.",
-    "The conclusion of the investigation suggested that the object was likely caused by a reflection or burning of material in the atmosphere, indicating a prosaic explanation.",
-    "The report stated that no further investigation was warranted, implying that the authorities did not consider the sighting to be of significant concern.",
-    "The sighting occurred in the evening, as the object disappeared in three to five minutes, suggesting it was observed at dusk or nightfall."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "cigar-shaped object",
-  "location": "Rossville, Georgia",
-  "witnesses": "ground observers",
-  "photographs": "no"
+    "main event": "On 12 September 1956, an object shaped like a cigar was observed in Rossville, Georgia.",
+    "interesting points": "The object moved from S.S.W. to W., disappearing in three to five minutes,The size of the object was comparable to two-thirds of a full moon,There were no further investigations warranted after the sighting,Conclusions suggested the object was probably caused by a reflection or burning material in the atmosphere,The observation lasted for a duration of three to five minutes.",
+    "sighted object": "cigar-shaped object",
+    "location": "Rossville, Georgia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses confirmed in the report",
+    "contains photographs": false
 }

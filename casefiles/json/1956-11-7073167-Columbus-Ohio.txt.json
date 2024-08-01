@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "A bright, oblong white object was observed visually for one minute in Columbus, Ohio on November 16, 1956.",
-    "interesting points": [
-        "The object was the size of a dime at arm's length.",
-        "The object was noted to be 'very high trending northward'.",
-        "The report concurs with the reporting officer that the sighting was caused by an aircraft.",
-        "There are no photographs available for this sighting.",
-        "The sighting was classified as 'Was Balloon, Probably Balloon, Other - Insufficient Data for Evaluation'."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "An observation of an oblong brilliant white object in Columbus, Ohio on November 16, 1956.",
+    "interesting points": "The object was observed for one minute,The size of the object was compared to a dime at arm's length,The object was noted to be trending northward at a high altitude,The reporting officer concurred that the sighting was likely caused by an aircraft,The conclusion suggested it was probably a balloon, but there was insufficient data for a full evaluation.",
     "sighted object": "one oblong brilliant white object",
-    "location": "Columbus, Ohio",
-    "witnesses": "reporting officer",
-    "photographs": "no"
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses mentioned",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO was observed changing color and behaving erratically over Washington, D.C. and Baltimore, MD in May 1964.",
-    "interesting points": [
-        "The object appeared as a bright star, changed color, and disappeared and reappeared.",
-        "The object's movements were described as zig-zagging and circling at a very high altitude.",
-        "Multiple sightings of the object were reported over several days in the Washington, D.C. and Baltimore, MD areas.",
-        "The object was observed by the observer as well as reported to the USAF Command Post and a Naval Investigator.",
-        "The report includes detailed information on the time, location, and elevation angle of the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright star-like object that changed color and exhibited erratic movements",
-    "location": "Washington, D.C. and Baltimore, MD",
-    "witnesses": "Multiple witnesses reported the sightings to the USAF and Navy",
-    "photographs": "No photographs are present in the report"
+    "main event": "On May 24, 1964, an object resembling a bright star was observed in Washington, D.C., exhibiting zig-zag maneuvers and changing colors.",
+    "interesting points": "The observation occurred at 2:27 PM, with the object disappearing and reappearing multiple times., The sighting involved a secondhand report., The witness described the object as heading southeast at a very high altitude., The object was said to maneuver in a manner that was likened to a light cannon., The report indicated that the observation was cloudy at the time of the sighting.",
+    "sighted object": "one bright star-like object",
+    "location": "Washington, D.C., D.C., USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "one individual reported, with a secondhand account available",
+    "contains photographs": false
 }

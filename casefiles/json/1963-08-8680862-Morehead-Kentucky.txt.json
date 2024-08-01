@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three objects were observed trailing or attached to a single-engine jet aircraft near Morehead, Kentucky on August 2, 1963.",
-    "interesting points": [
-        "The objects were estimated to be 50 to 100 feet from the aircraft and matched its speed.",
-        "The aircraft and objects were visible for about 20 seconds before a hill obstructed the view.",
-        "The witness could clearly see the wings and tail of the aircraft, indicating it was not at an extreme altitude.",
-        "The objects did not emit any light.",
-        "The witness's father speculated the objects could be atmospheric probes attached to the aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "Three unidentified objects trailing or attached to a single-engine jet aircraft",
-    "location": "Morehead, Kentucky",
-    "witnesses": "civilian witness",
-    "photographs": "no"
+    "main event": "On August 2, 1963, three unidentified objects were observed flying near a military aircraft in Morehead, Kentucky.",
+    "interesting points": "The objects were approximately 50 to 100 feet from the aircraft and did not emit light,The sighting lasted for about 30 seconds,The objects appeared to be attached to or maneuvering in conjunction with the aircraft,The witness estimated the speed of the objects at 2,500 to 3,000 MPH,One witness reported seeing a bright object that was the size of an automobile emitting a very bright light.",
+    "sighted object": "three unidentified objects near a military jet",
+    "location": "Morehead, Kentucky, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A husband and wife who were awakened by a bright light outside their window",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "Multiple reports of an unusual flying object near Pittsburgh, Pennsylvania on February 11, 1952, where pilots and officers witnessed a bright lighted object moving in a zig-zag course and displaying pulsating flame-like characteristics.",
-  "interesting points": [
-    "Pilots observed a brilliant lighted object that was much higher than their aircraft, with no exhaust or trail, and exhibited regular one to two second pulsations as it disappeared out of sight.",
-    "The object was estimated to be in excess of five miles away, based on the location of the cloud buildup, and the observers had clear, continuous unobstructed observation of the object for approximately one minute prior to it disappearing.",
-    "Previous observations were referenced, one similar to that on 23 December 1951, which was found to be a helicopter carrying experimental lighting, but no conclusive conclusions were reached on the incident.",
-    "The report was followed by an inquiry from the Air Force requesting the study of a report of an unidentified aerial object, continuing reference to it as a 'flying saucer', suggesting a high incidence of unusual reports being experienced by an airline company.",
-    "The conclusion from an ATIC report stating 'description similar to meteor' was challenged by the opinion of the reporting office that the conclusion was in error, with Major Gedeon providing detailed observations to support this."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright lighted object with pulsating flame-like characteristics",
-  "location": "Pittsburgh, Pennsylvania",
-  "witnesses": "Multiple USAF officers and pilots",
-  "photographs": "no photographs, only written reports"
+    "main event": "Two USAF pilots reported sighting a brilliant lighted object near Pittsburgh while flying in a T-11 aircraft on 11 February 1952.",
+    "interesting points": "The observed object was high to the right of the pilots and exhibited a pulsating light,The object was initially thought to be an aircraft but its behavior was inconsistent with known flying capabilities,The sighting lasted approximately one minute before the object disappeared,Both pilots were experienced officers with significant flight hours,The sky was illuminated by a bright moon, allowing for clear observation of the object.",
+    "sighted object": "brilliant lighted object",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Major Richard J. Gedeon and Captain George F. Arms, both USAF pilots",
+    "contains photographs": false
 }

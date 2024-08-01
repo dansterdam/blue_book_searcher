@@ -1,15 +1,9 @@
 {
-    "main event": "There are five black and white photographs showing blurry, indistinct objects in the sky, which could potentially be interpreted as unidentified flying objects (UFOs).",
-    "interesting points": [
-        "The photographs are from a Project Blue Book UFO report document.",
-        "The objects in the photographs are difficult to make out clearly due to the low quality and graininess of the images.",
-        "The photographs are labeled as being from the Foreign Technology Division of the Air Force Systems Command (AFSC) and are marked as 'UNCLASSIFIED'.",
-        "The photographs do not contain any clear identification or description of the objects, making it difficult to determine what they might be.",
-        "The photographs show blurred, indistinct objects with some streaks of light or trails around them."
-    ],
-    "result": "unexplained",
-    "sighted object": "blurry, indistinct objects in the sky",
-    "location": "Rochester, New York",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 5 photographs"
+    "main event": "A UFO report from Rochester, New York on February 24, 1966, documenting a blurry, indistinct object in the sky.",
+    "interesting points": "The report contains five black and white photographs that are all grainy and hard to decipher,The object in the photographs is described as an unidentified flying object (UFO),The images show no human presence or identifiable features,The quality of the photographs is low with some scratches or blemishes,The report is classified as 'UNCLASSIFIED' by the Foreign Technology Division, AFSC.",
+    "sighted object": "blurry, indistinct object in the sky",
+    "location": "Rochester, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses are mentioned in the report.",
+    "contains photographs": true
 }

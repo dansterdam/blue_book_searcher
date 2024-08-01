@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, reddish point of light was observed in the sky over St. Louis, Missouri in August 1958.",
-    "interesting points": [
-        "The object suddenly disappeared from view.",
-        "The sighting lasted for approximately 20-25 minutes.",
-        "The weather at the time was very cloudy and raining.",
-        "The observer was a civilian and the sighting was a ground-visual observation.",
-        "The object's flight path and altitude were unknown due to the heavy clouds."
-    ],
-    "result": "Other (Insufficient Data for Evaluation)",
-    "sighted object": "a round, reddish point of light",
-    "location": "St. Louis, Missouri",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian observed a pin point of reddish light in the sky in St. Louis, Missouri in August 1958.",
+    "interesting points": "The sighting occurred during heavy clouds and rain,The light suddenly disappeared possibly related to Lambert Airport light,The object was seen for about 20-25 minutes,No photographs were included in the report,The report concludes that the object could be a balloon or astronomical in nature.",
+    "sighted object": "a pin point of reddish light",
+    "location": "St. Louis, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian machinist living at 18 Avenue, St. Louis, Missouri",
+    "contains photographs": false
 }

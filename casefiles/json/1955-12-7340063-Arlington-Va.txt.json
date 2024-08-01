@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A slow-moving, unidentified object with no discernible shape was observed in the sky over Arlington, Virginia on June 14, 1955.",
-    "interesting points": [
-        "The object initially appeared to be a slow-moving meteor, but its course was not straight and it made an approximate 22-degree turn to the right before disappearing.",
-        "The object's color and brightness were not inconsistent with a meteor, but the complete absence of sound in a quiet neighborhood was notable.",
-        "The witness was an astronomer who estimated the visibility to be up to 5th magnitude, indicating a fairly clear atmosphere.",
-        "The object's speed appeared to fluctuate moderately, with the increase in speed indicating some impelling force.",
-        "The observer was asked to plot the exact course of the object on an astronomical chart to determine its elevation and speed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a slow-moving, unidentified object with no discernible shape",
-    "location": "Arlington, VA",
-    "witnesses": "an astronomer",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "An unidentified object was observed in Arlington, Va, on June 14, 1955, displaying characteristics similar to a balloon.",
+    "interesting points": "The sighting lasted for 2 minutes and 12 seconds,The object had no identifiable shape and appeared as a ball with no visible exhaust or tail,No sound was detected during the observation,The object's speed fluctuated moderately during the sighting,The conclusion reached was that the object was probably a balloon.",
+    "sighted object": "an unidentified object resembling a balloon",
+    "location": "Arlington, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An observer, likely an astronomer, reported the sighting with details of the object's trajectory.",
+    "contains photographs": false
 }

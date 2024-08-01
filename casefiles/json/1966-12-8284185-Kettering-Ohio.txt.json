@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed a single unidentified object in the sky for about 15 minutes on December 16, 1966 in Kettering, Ohio.",
-    "interesting points": [
-        "The object appeared solid and larger than a bright star, with a pink color.",
-        "The object moved slowly and appeared to stand still at times, flashing and hovering.",
-        "The witness had seen a similar object on a prior occasion.",
-        "The Air Force requested the witness to complete a detailed report form (AFD Form 164) for further evaluation.",
-        "The report indicates that attempts were made on any aircraft in the area at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "single unidentified object",
-    "location": "Kettering, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "yes, the report indicates photographs were obtained"
+    "main event": "A civilian reported observing an unidentified object in Kettering, Ohio on December 16, 1966 for 15 minutes.",
+    "interesting points": "The observation lasted 15 minutes and was confirmed to be visual from the ground., The witness filled out a Project Blue Book form detailing the event., The object was visualized as being pink and larger around., The witness used various means (eyeglasses, binoculars) to observe the object., There were weather conditions recorded at the time, indicating it was cloudy.",
+    "sighted object": "unidentified object",
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, male, aged 53",
+    "contains photographs": false
 }

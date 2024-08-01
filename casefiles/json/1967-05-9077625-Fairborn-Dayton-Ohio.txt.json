@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-  "main event": "A bright, stationary, star-like object was observed in the night sky over Fairborn, Dayton, Ohio on May 27, 1957.",
-  "interesting points": [
-    "The object was described as being brighter than the brightest stars, but slightly larger.",
-    "The object moved slowly towards the southwest and disappeared after a few minutes.",
-    "The witness estimated the object was about 5 miles away and moving at a very fast speed of around 5,000 mph.",
-    "There were no sounds or trails associated with the object.",
-    "The witness had never seen a similar object before."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright, stationary, star-like object",
-  "location": "Fairborn, Dayton, Ohio",
-  "witnesses": "1 witness",
-  "photographs": "no"
+    "main event": "A witness observed a bright, stationary object in the night sky in Fairborn, Dayton, Ohio on May 27, 1957.",
+    "interesting points": "The object was described as having a bright greyish-white color,It appeared larger than a star and had no sound emitted from it,The witness estimated the speed of the object to be very fast, around 5000 mph,The object was seen from an airfield and lasted in sight for approximately 45 minutes,The object gradually faded out and disappeared after a few minutes.",
+    "sighted object": "a bright stationary object resembling a star",
+    "location": "Fairborn, Dayton, Ohio",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 25-year-old female who reported no special experience.",
+    "contains photographs": false
 }

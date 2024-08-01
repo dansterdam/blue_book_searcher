@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A family of 4 spotted a white light object in the sky near Happy, Texas on August 12, 1965.",
-    "interesting points": [
-        "The object was round, about the size of a nickel held at arm's length, and emitted a white light.",
-        "The object was observed for 10-15 seconds, traveling in a straight line from east to west-southwest.",
-        "The children were well-informed about UFO sightings in the area and had read extensively about the phenomenon.",
-        "Meteorological data indicated unusual atmospheric conditions, including a surface inversion and upper air inversions.",
-        "A previous UFO sighting was reported near Andrews Air Force Base on August 7, 1965, with a similar description of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white light object",
-    "location": "Happy, Texas",
-    "witnesses": "a family of 4",
-    "photographs": "no"
+    "main event": "A family in Happy, Texas observed a round white light in the sky for about 15 seconds on 12 August 1965.",
+    "interesting points": "The object was seen moving from east to west southwest at a 30-degree angle., The family did not use any optical aids for the observation., The object was described as being about the size of a nickel held at arm's length., Witnesses included a reliable farmer and his family, indicating a potential for multiple perspectives., The investigation concluded no physical evidence was found at the sighting location.",
+    "sighted object": "a round white light",
+    "location": "Happy, Texas, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "a family including children, very informed about UFO sightings",
+    "contains photographs": false
 }

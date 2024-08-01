@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a UFO sighting in Centerville, Ohio on July 25, 1964.",
-    "interesting points": [
-        "The object entered the field of vision, stopped, and was observed for approximately one minute before continuing on its course, traveling across the sky quickly to the southeast.",
-        "A second object was observed about 3 miles away, traveling east or northeast.",
-        "The witness was quite confused on the direction and other details of the sighting.",
-        "The object appeared to be about the size of a basketball when held at arm's length and moved straight up, hovering for about 2 minutes before moving out of sight extremely rapidly.",
-        "The object was described as white and brilliant in color."
-    ],
-    "result": "unexplained",
-    "sighted object": "one white, brilliant object in the sky",
-    "location": "Centerville, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a UFO in Centerville, Ohio on July 25, 1964, for about 2-3 minutes.",
+    "interesting points": "The object entered the field of vision, stopped, and was observed before continuing across the sky, traveling fast to the southeast., The sighting lasted for 2-3 minutes with no photographs or physical evidence available., A second object was noted traveling about 3 miles in the east or northeast direction., The observer's name was requested to remain confidential., The object appeared to be the size of a basketball when approximately 40 feet away.",
+    "sighted object": "unidentified flying object",
+    "location": "Centerville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "15-year-old male, civilian",
+    "contains photographs": false
 }

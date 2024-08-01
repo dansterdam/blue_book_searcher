@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A cylindrical-shaped object, approximately 60-80 feet long and 15-20 feet wide, was sighted on a time-delayed photo run on board an AGC (Auxiliary General Control) ship.",
-    "interesting points": [
-        "The object was dark in color, possibly black, and had white fins or wings attached to the tail.",
-        "The object was tracked for 20,000 feet and was sighted for approximately 2 seconds.",
-        "The object appeared to penetrate a multilayered cloud cover and leave a trail of white smoke as it moved across the horizon.",
-        "The pilot and copilot of the Pan Am Pacific Unit 123 flight sighted the object and reported the incident.",
-        "A video tape of the sighting was available, but the photo results were poor."
-    ],
-    "result": "unexplained",
-    "sighted object": "cylindrical-shaped object, approximately 60-80 feet long and 15-20 feet wide",
-    "location": "Pacific Ocean (-22-64; 179-49E)",
-    "witnesses": "pilot and copilot of Pan Am Pacific Unit 123 flight",
-    "photographs": "yes, but photo results were poor"
+    "main event": "A bright object resembling an exhaust flame was observed for approximately 30 seconds on January 21, 1950.",
+    "interesting points": "The object was visible for 30 seconds and emitted no noise or trail., The observation was thought to be a normal phenomenon., Photographs were taken during the observation but were not successful., The sighting occurred at coordinates 22-23N 179-49E., The object appeared to be cylindrical in shape, about 60-80 ft long and 15-20 ft wide.",
+    "sighted object": "a bright object similar to an exhaust flame",
+    "location": "Pacific, Unknown, Unknown",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilot and copilot of a flight",
+    "contains photographs": false
 }

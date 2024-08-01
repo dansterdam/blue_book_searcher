@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to contain three black-and-white landscape photographs from a Project Blue Book case file, but no information about a UFO sighting.",
-    "interesting points": [
-        "The photographs depict a mountainous, forested area with hills and valleys, and a cloudy sky in the background.",
-        "The photographs are labeled as being from the Foreign Technology Division of the Air Force Systems Command (AFSC).",
-        "The photographs are marked as 'UNCLASSIFIED'.",
-        "The report does not contain any details about a UFO sighting or witness testimony.",
-        "The report seems to be the cover page or a blank page from a Project Blue Book case file."
-    ],
-    "result": "unexplained",
-    "sighted object": "None",
-    "location": "Santa Fe, New Mexico",
-    "witnesses": "None",
-    "photographs": "Yes, three black-and-white landscape photographs are included in the report."
+    "main event": "A report containing photographs of a mountainous landscape in Santa Fe, New Mexico on August 8, 1967.",
+    "interesting points": "The report includes two black and white photographs showing a panoramic view of mountainous terrain., The photographs depict a landscape covered in vegetation with a cloudy sky., There are no identifiable individuals or objects of focus in the images., The images appear to be taken from an aerial perspective., The report is classified as UNCLASSIFIED by the Foreign Technology Division, AFSC.",
+    "sighted object": "mountainous landscape",
+    "location": "Santa Fe, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": true
 }

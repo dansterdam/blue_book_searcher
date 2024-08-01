@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed one unidentified object in the sky over Kettering, Ohio for 8 minutes.",
-    "interesting points": [
-        "The object was a bright, metallic, teardrop-shaped object that emitted a bluish-white glow and moved rapidly at an altitude of about 500 feet.",
-        "The object made no sound as it moved.",
-        "It was not a star, planet, meteor, or any known aircraft.",
-        "Other farmers in the area reported similar sightings of glowing objects.",
-        "The sighting lasted for about 8 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "one bright, metallic, teardrop-shaped object",
-    "location": "Kettering, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A civilian reported observing an unidentified flying object over Kettering, Ohio on August 5, 1966, for a duration of 3-5 minutes.",
+    "interesting points": "The object was described as shiny and metallic, possibly the size of a car seen from about 2.3 miles away., There were two witnesses present during the sighting., The object was reported to have emitted a bluish-white glow., The sky condition was partly cloudy at the time of observation., No photos or physical evidence were documented alongside the sighting.",
+    "sighted object": "a shiny metallic object",
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians observing the skies.",
+    "contains photographs": false
 }

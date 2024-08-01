@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers noticed an unidentified bright, erratic object in the sky that disappeared rapidly.",
-    "interesting points": [
-        "The object was moving erratically and was very bright.",
-        "The object disappeared rapidly, and the observers could not determine what it was.",
-        "The observers were unsure about the conditions of the stars and moon at the time of the sighting.",
-        "The weather conditions were clear, with no clouds or precipitation.",
-        "The object appeared as a bright light, brighter than the brightest stars."
-    ],
-    "result": "possible (anomalous?)",
-    "sighted object": "bright, erratic object",
-    "location": "unknown",
-    "witnesses": "multiple observers",
-    "photographs": "no"
+    "main event": "Observers noticed a bright object moving erratically in the sky on 07/25/32.",
+    "interesting points": "The object disappeared rapidly and could not be determined what it was,The object's brightness was noted as very intense,Observers were unsure of the object's material state,It was reported that the object moved slowly at times before disappearing,The object was compared to a bright star in terms of brightness.",
+    "sighted object": "a bright, unidentified object",
+    "location": "unknown, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Observers looking at the sky",
+    "contains photographs": false
 }

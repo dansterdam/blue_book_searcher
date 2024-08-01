@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A large, round, very bright reddish-green object was spotted in the sky near Waverly, Illinois on November 9, 1957.",
-    "interesting points": [
-        "The object was stationary and had no tail or exhaust, and made no sound.",
-        "The reddish-green color is characteristic of natural phenomena or electronic equipment.",
-        "The object was just spotted by chance by the witness.",
-        "At least 15 other people also saw the same object.",
-        "The object was visible for about 50 minutes."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Large, round, very bright reddish-green object",
-    "location": "Waverly, Illinois",
-    "witnesses": "Civilian, age unknown",
-    "photographs": "No photographs provided"
+    "main event": "A report of a large, stationary object observed in the sky near Waverly, Illinois on September 1, 1957.",
+    "interesting points": "The object was larger than an airplane and had a white and green color with fuzzy edges., The object produced no sound and left no trail., Observation lasted approximately 20 minutes., There were 15 other witnesses to the same object., Various possible explanations were noted, including balloon or aircraft.",
+    "sighted object": "a large white and green object in the sky",
+    "location": "Waverly, Illinois, USA",
+    "number of confirmed witnesses": 16,
+    "witness description": "A druggist and 15 other people",
+    "contains photographs": false
 }

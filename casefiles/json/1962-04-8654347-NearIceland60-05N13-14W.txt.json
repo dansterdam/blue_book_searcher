@@ -1,17 +1,9 @@
-```json
 {
-    "main event": "A lighted object was sighted in the Icelandic Sea on 6-5-62 at 2300z.",
-    "interesting points": [
-        "The object appeared about 15 degrees above the horizon and was observed for about 15 minutes.",
-        "The object's apparent size was about 1/50 of the full moon.",
-        "The object was tracked on ground radar, travelling at 35 miles per hour on a course of 200 degrees.",
-        "The object was lost from radar contact at 2315z.",
-        "No further details or information were available in the file regarding this incident."
-    ],
-    "result": "unexplained",
-    "sighted object": "a lighted object",
-    "location": "Icelandic Sea",
-    "witnesses": "air force",
-    "photographs": "none"
+    "main event": "A lighted object was sighted over the Icelandic Sea at 2300z on June 5, 1962.",
+    "interesting points": "The object appeared 15 degrees above the horizon for about 15 minutes., The object's course was 200 degrees at 35 miles per hour., Contact was lost at 2315z., The apparent size of the object was about 1/50 of the full moon., No further information available regarding the incident.",
+    "sighted object": "one lighted object",
+    "location": "Icelandic Sea, Iceland",
+    "number of confirmed witnesses": 0,
+    "witness description": "No further details on witnesses available.",
+    "contains photographs": false
 }
-```

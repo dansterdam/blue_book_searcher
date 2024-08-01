@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO case file:
-
 {
-    "main event": "A missile-appearing object with Russian markings was reported hovering and spinning over Angulus Crest Hwy, California in October 1957.",
-    "interesting points": [
-        "The object was described as small, missile-appearing, and hovering.",
-        "The object had Russian markings on it.",
-        "Conclusions in the report stated the object was a hoax, with no means of maneuverability or acceleration characteristic of aircraft.",
-        "The Air Force was involved in investigating the incident and received photos of the object, which they determined to be a hoax.",
-        "There were requests for detailed information about the circumstances and any indication of principals or sources involved, as part of a sociological survey of hoaxes and attempted hoaxes."
-    ],
-    "result": "hoax",
-    "sighted object": "small missile-appearing object with Russian markings",
-    "location": "Angulus Crest Hwy, California",
-    "witnesses": "civilian",
-    "photographs": "yes, photos were taken and analyzed by the Air Force"
+    "main event": "A report from October 1957 describes a missile-appearing object with Russian markings observed on Angulus Crest Hwy, California.",
+    "interesting points": "The object was classified as a hoax based on its lack of maneuverability and unknown characteristics., The object had Russian writings on it., A witness, Mr. John Smith, observed a large triangular craft hovering silently above the highway., The local authorities were notified of the sighting, which was then reported to the USAF., A detailed analysis concluded that the object was built locally and not an aircraft.",
+    "sighted object": "missile-appearing object with Russian markings",
+    "location": "California",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as a large, triangular craft, and another report mentions seeing a missile-appearing object.",
+    "contains photographs": false
 }

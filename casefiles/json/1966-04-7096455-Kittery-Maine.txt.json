@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A group of 4 civilian witnesses spotted a red glowing object that rose above the tree line in Kittery, Maine on April 5, 1966.",
-    "interesting points": [
-        "The object was about 3/4 of a mile from the observers and they watched it through binoculars.",
-        "The object first appeared on the ground and then rose above the tree line.",
-        "The object moved at about the speed of a helicopter.",
-        "The object seemed to stop and hover for a couple of minutes before leaving quickly in an upward direction.",
-        "The sighting lasted for approximately 5 minutes and occurred on a foggy night."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red glowing object",
-    "location": "Kittery, Maine",
-    "witnesses": "4 civilian witnesses",
-    "photographs": "no"
+    "main event": "A civilian reported a UFO sighting in Kittery, Maine on April 5, 1966.",
+    "interesting points": "The object was first seen on the ground and then rose above the tree line,The object was observed through binoculars from about 3/4 mile away,The sighting lasted approximately 5 minutes, The object was described to be the size and speed of a helicopter, There was no outline of the object and it emitted an intense red color.",
+    "sighted object": "an intense red object",
+    "location": "Kittery, Maine, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "civilian observers including a person from the Naval Base",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "Two bright lights were observed by a guard at the Seal Beach Naval Depot in California on December 31, 1953.",
-    "interesting points": [
-        "The lights were described as being much brighter than any stars or planets, and they changed color, flashing intermittently between red, yellow, and blue.",
-        "The lights moved fairly rapidly, hovering and flashing from side to side.",
-        "The lights were estimated to be about 2 miles away and 1 degree in angular size.",
-        "The weather was clear with excellent visibility.",
-        "The lights were observed for 3-4 minutes before disappearing completely, with no noise or trail observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright lights that changed color",
-    "location": "Seal Beach Naval Depot, California",
-    "witnesses": "a guard at the naval depot",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Two bright lights were observed at Seal Beach Naval Depot in California on December 31, 1953.",
+    "interesting points": "The objects were observed for approximately 3 to 4 minutes,One of the lights was described as a very bright white light, much brighter than any stars or planets,The second observation indicated that the bright light changed colors, flashing intermittently red, yellow, and blue,The object moved in a straight line with no change of speed or direction, The report included multiple instances of sightings and concluded the possibility of missile or rocket tests.",
+    "sighted object": "two bright lights",
+    "location": "Seal Beach, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Guard at Seal Beach Naval Depot",
+    "contains photographs": false
 }

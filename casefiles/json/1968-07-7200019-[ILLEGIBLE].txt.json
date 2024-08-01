@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A bright, clearly object was spotted in the sky, climbing rapidly and then hovering in one spot for a minute or two before disappearing rapidly up toward the north.",
-    "interesting points": [
-        "The object was much brighter than the stars or planets in the area at the time.",
-        "It gave an impression of solidity and power, not at all like an airplane, satellite or other known aircraft.",
-        "The object was visible for about 3 minutes.",
-        "The object appeared low on the horizon to the east, climbed rapidly, then stopped and hovered before disappearing.",
-        "The witness could see no conventional object features on the UFO."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, clearly object in the sky",
-    "location": "Fayetteville, NC",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "A bright unidentified object was observed low on the horizon moving in a zig-zag pattern over Fayetteville, North Carolina.",
+    "interesting points": "The object was visible for about 3 minutes and was described as much brighter than nearby stars,The observation lasted for about 10 seconds before the object ascended rapidly and disappeared,Weather conditions at the time included clear skies and near a full moon,Two witnesses from a car were reporting multiple sightings of bright lights in August 1968,Overall descriptions suggested it was not consistent with known aircraft or satellites.",
+    "sighted object": "a bright unidentified object",
+    "location": "Fayetteville, North Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Reliable individuals observing an aerial phenomenon.",
+    "contains photographs": false
 }

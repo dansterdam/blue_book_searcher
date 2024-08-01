@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian student in Norwalk, Ohio spotted an oval-shaped object smaller than a half dollar at arm's length, changing in color from green to red to orange, on October 7, 1956.",
-    "interesting points": [
-        "The object came up and down, staying in a one-mile area at an elevation of 22-33 degrees.",
-        "The object was visible for 10 to 45 seconds before fading from sight.",
-        "The report notes that there were no significant astrological bodies in the North Central Ohio area during the sighting, and the object did not move like a balloon.",
-        "The report suggests the object could have been a searchlight on a hazy layer, but there was insufficient data to evaluate it.",
-        "The sighting was reported by a 15-year-old civilian student in Norwalk, Ohio on a clear, calm night."
-    ],
-    "result": "unexplained",
-    "sighted object": "oval-shaped object smaller than a half dollar, changing in color from green to red to orange",
-    "location": "Norwalk, Ohio",
-    "witnesses": "15-year-old civilian student",
-    "photographs": "no"
+    "main event": "On 7 October 1956, an oval-shaped object was sighted in Norwalk, Ohio, appearing smaller than a half dollar, hovering in a one-mile area for 10 to 45 seconds.",
+    "interesting points": "The object changed colors from green to red to orange., The sighting lasted between 10 to 45 seconds before the object faded from sight., The object was observed at an altitude that was lower than what would be expected for a balloon., No significant astronomical body was in the North Central Ohio area during the sighting., The sighting was recorded on a Project 10073 record card submitted to Project Blue Book.",
+    "sighted object": "an oval-shaped object",
+    "location": "Norwalk, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian student from Norwalk, Ohio",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A possible balloon was reported over Ocala, Florida on July 23, 1956.",
-    "interesting points": [
-        "The object was observed visually and on ground radar.",
-        "The object was described as cylindrical and red in color.",
-        "The object appeared to drop and then slowly faded from sight.",
-        "The sighting lasted for approximately 40 minutes.",
-        "The observer was a police officer in Ocala, Florida."
-    ],
-    "result": "possibly a balloon",
-    "sighted object": "a cylindrical, red object",
-    "location": "Ocala, Florida",
-    "witnesses": "a police officer",
-    "photographs": "no photographs provided"
+    "main event": "A probable balloon was sighted, confirmed through ground and radar observations in Ocala, Florida.",
+    "interesting points": "The sighting lasted for about 6.5 minutes., The object was observed through ground and radar methods., The case was classified under Project Blue Book as a UFO sighting., The object was thought to be possibly an aircraft or a balloon based on visual descriptions., There was insufficient data for a conclusive identification.",
+    "sighted object": "probable balloon",
+    "location": "Ocala, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "police officer",
+    "contains photographs": false
 }

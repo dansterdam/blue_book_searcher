@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A ground-based radar tracked an object that appeared to fall and explode over Indio, California in 1958.",
-    "interesting points": [
-        "The object was approximately the size of a dime and had the characteristics of a ballistic object.",
-        "The witness, a civilian construction worker, happened to look up and spotted the object traveling south to north at a fast speed.",
-        "The object seemed to explode after approximately 15 seconds.",
-        "Two jet aircraft were reported to be in the area, but no sighting was made.",
-        "The director of intelligence suggested the possibility that the sighting could have been related to 'moon dust'."
-    ],
-    "result": "unexplained",
-    "sighted object": "a small, fast-moving object that appeared to fall and explode",
-    "location": "Indio, California",
-    "witnesses": "a civilian construction worker",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An object approximately the size of a dime appeared to fall and explode over Indio, California on April 11, 1958.",
+    "interesting points": "The object was observed from a loading automobile that the witness was in., The object was seen traveling fast from south to north., The sighting lasted for approximately one minute., The object exploded after about fifteen seconds of visibility., There were two jet aircraft reported in the area at the time.",
+    "sighted object": "small object appearing to fall and explode",
+    "location": "Indio, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Givillian, Mr. Street, certified construction worker, age fifty-four",
+    "contains photographs": false
 }

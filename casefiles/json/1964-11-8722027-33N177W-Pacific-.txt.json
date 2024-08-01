@@ -1,15 +1,9 @@
 {
-    "main event": "A possible satellite was observed over the Pacific Ocean on November 20, 1964.",
-    "interesting points": [
-        "The object was described as being the size and brightness of a first magnitude star.",
-        "The object was observed at an altitude of 35 degrees above the horizon, moving from west to east.",
-        "The observation lasted for approximately 10 minutes, from 0950Z to 1000Z.",
-        "No photographs or physical evidence were available, and the object was not detected on radar.",
-        "The report was classified as a possible satellite sighting."
-    ],
-    "result": "possible satellite",
-    "sighted object": "a bright object in the sky",
-    "location": "33°N 177°W (Pacific Ocean)",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "An observation of a single object was reported over the Pacific Ocean on November 20, 1964.",
+    "interesting points": "The observation lasted for 10 minutes,The object was observed moving west,There was no physical evidence or photographs associated with the sighting,The object was noted to be comparable in size and brightness to a first magnitude star,The report concluded that the object was likely a satellite.",
+    "sighted object": "one object",
+    "location": "Pacific Ocean, 33N 177W",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer at specified coordinates",
+    "contains photographs": false
 }

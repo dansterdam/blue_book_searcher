@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several residents of East Brunswick, New Jersey observed a bright, disk-shaped object in the sky for approximately 5 minutes before it disappeared.",
-    "interesting points": [
-        "The object appeared to fade in and out and changed direction several times.",
-        "No noise was reported associated with the object.",
-        "The witnesses included a government official and two professional people.",
-        "Weather conditions at the time were clear and no unusual weather phenomena were reported.",
-        "The object was seen through 7x50 binoculars and described as revolving or rotating on its axis, with random intervals where it was dark or obscured from view."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Bright, disk-shaped object",
-    "location": "East Brunswick, New Jersey",
-    "witnesses": "Several residents, including a government official and two professional people",
-    "photographs": "None"
+    "main event": "Several residents of East Brunswick, New Jersey observed a bright disk-shaped light in the sky for approximately 5 minutes on February 15, 1955.",
+    "interesting points": "The object appeared to change direction several times during the sighting., The sighting was observed by reputable witnesses including a government official and two professionals., The object reportedly faded in and out of visibility., Weather conditions were clear at the time of the sighting., Observers noted that no noise was associated with the object.",
+    "sighted object": "disk-shaped light in the sky",
+    "location": "East Brunswick, New Jersey, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "residents of East Brunswick, including a government official and two professional individuals",
+    "contains photographs": false
 }

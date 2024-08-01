@@ -1,15 +1,9 @@
 {
-    "main event": "Three unidentified objects were reported over Jacksonville, Pennsylvania on June 21, 1952.",
-    "interesting points": [
-        "The report indicates that photographs were taken of the objects, but they are not included in the document.",
-        "The duration of the observation is not reported.",
-        "The conclusion of the report states there was 'INSUFFICIENT DATA FOR EVALUATION'.",
-        "The report includes a questionnaire-style form with detailed questions about the sighting, such as weather conditions, brightness of the objects, and their movements.",
-        "The report also includes a blank sketch where the witness was instructed to draw the motion and arrangement of the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "three unidentified objects",
-    "location": "Jacksonville, Pennsylvania",
-    "witnesses": "civilian",
-    "photographs": "yes, but not included in the report"
+    "main event": "A civilian reported seeing 3 unidentified objects in the sky near Jacksonville, Pennsylvania on June 21, 1952.",
+    "interesting points": "The report was part of Project Blue Book, which documented UFO sightings for the U.S. Air Force., The observation was classified as ground-visual., No photographs or physical evidence were provided with the report., The report concluded that there was insufficient data for evaluation., The objects were reported as being observed at a specific course of 33 degrees.",
+    "sighted object": "three unidentified flying objects",
+    "location": "Jacksonville, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A farmer spotted a large, circular object that moved slowly in the sky over Woodstock, Minnesota on December 6, 1956.",
-    "interesting points": [
-        "The object was described as a half-sphere shape with a flat side on top, larger than a baseball held at arm's length.",
-        "The object's color was fire red and orange.",
-        "The object tipped before it started moving northwest slowly.",
-        "The object made no sound.",
-        "The sighting lasted for 10 minutes from 2350 to 2400 hours CST."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, circular object",
-    "location": "Woodstock, Minnesota",
-    "witnesses": "Jo George, a 26-year-old Woodstock, Minnesota farmer",
-    "photographs": "no"
+    "main event": "A farmer observed a large half-sphere shaped object in the sky near Woodstock, Minnesota for 10 minutes.",
+    "interesting points": "The object was described as fire red and orange, larger than a baseball held at arm's length., It moved slowly northwest, tipping before moving., The object emitted a brilliant light but was silent., The sighting occurred at night, and no optical aids were used to observe it., The witness, Jo George, is a reliable 26-year-old farmer from the area.",
+    "sighted object": "a large half-sphere shaped object",
+    "location": "Woodstock, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Jo George, 26 years old, Woodstock, Minnesota farmer, very reliable",
+    "contains photographs": false
 }

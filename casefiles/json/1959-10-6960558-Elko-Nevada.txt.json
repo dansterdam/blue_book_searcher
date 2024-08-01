@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "The observer reported seeing a UFO on multiple occasions in 1959 and 1960 in Elko, Nevada.",
-    "interesting points": [
-        "The observer saw the UFO on 19 October 1959, as well as on 10, 11, 12 March 1960 and other unspecified dates.",
-        "The observer's sightings lasted for approximately 1 minute each.",
-        "The observer reported taking a photograph of the UFO, but the negative is requested to be forwarded.",
-        "The observer believes the UFO is from another world.",
-        "The report includes extensive correspondence with the observer about their sightings."
-    ],
-    "result": "unexplained",
+    "main event": "An observer reported seeing a UFO multiple times between October 1959 and March 1960 in Elko, Nevada.",
+    "interesting points": "The observer corresponded extensively regarding the sightings., The sightings occurred on multiple dates including 19 Oct 59 and various times in 1960., The observer interprets the sightings as objects from another world., The duration of each sighting was approximately one minute., A request was made to forward the negative of a print taken during one of the sightings.",
     "sighted object": "one unidentified flying object",
-    "location": "Elko, Nevada",
-    "witnesses": "civilian observer",
-    "photographs": "yes, but the negative is requested to be forwarded"
+    "location": "Elko, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

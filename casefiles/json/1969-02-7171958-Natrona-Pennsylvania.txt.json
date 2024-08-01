@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a ball of fire and a white object in the sky in Natrona, Pennsylvania in 1968.",
-    "interesting points": [
-        "The witness observed the objects for approximately 3 minutes.",
-        "The objects moved from northwest to southeast.",
-        "The witness provided a sketch showing the angular size and movement of the objects.",
-        "The objects were observed during partially cloudy weather conditions.",
-        "The witness stated the objects moved behind a building, causing them to disappear from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "ball of fire and a white object",
-    "location": "Natrona, Pennsylvania",
-    "witnesses": "civilian witness",
-    "photographs": "none"
+    "main event": "A UFO sighting occurred on February 22, 1968, in Natrona, Pennsylvania, observed visually for 3 minutes.",
+    "interesting points": "The sighting was made by a civilian,The object was reported to have a northwest to southeast course,The weather conditions at the time were reported as rainy,There were no photographs or physical evidence documented,The report contained sketches illustrating the observation.",
+    "sighted object": "unidentified aerial phenomenon",
+    "location": "Natrona, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian witness",
+    "contains photographs": false
 }

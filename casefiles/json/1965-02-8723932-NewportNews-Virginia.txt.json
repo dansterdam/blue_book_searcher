@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing a bright, unusual object that changed color and shape, with a surrounding smoke trail or haze, in Newport News, Virginia.",
-    "interesting points": [
-        "The object was observed for about 30 minutes, and its movements and behavior were described as unusual and strange, but no sound was heard.",
-        "The investigator concluded that the report is unreliable, as the object's observed characteristics do not correspond to any known aircraft or phenomena.",
-        "The object was described as a cylinder, small on one end and large on the other, with green, yellow, and white lights.",
-        "The object was stationary and visible for about 10 minutes, but no movement was observed.",
-        "The observer, a retired draftsman, was considered to have questionable reliability."
-    ],
-    "result": "unreliable report",
-    "sighted object": "a bright, unusual object that changed color and shape, with a surrounding smoke trail or haze",
-    "location": "Newport News, Virginia",
-    "witnesses": "a civilian",
-    "photographs": "none"
+    "main event": "A civilian observed a bright object that changed color and shape over Newport News, Virginia.",
+    "interesting points": "The object was seen for about 30 minutes and emitted a smoke trail or haze., The object had a cylindrical shape, small on one end and large on the other., It featured green and yellow lights surrounding a larger white bright light., The sighting was classified as unreliable due to a lack of physical evidence and the observer's questionable reliability., Multiple aircraft were reported in the area during the sighting.",
+    "sighted object": "a bright cylindrical object with changing colors",
+    "location": "Newport News, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, retired draftsman, questionable reliability",
+    "contains photographs": false
 }

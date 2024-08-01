@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a bright, silvery, cylindrical object with domes at an altitude of several thousand feet, moving in a southeast direction over Wheeling, West Virginia on October 29, 1963 at 2:50 PM.",
-    "interesting points": [
-        "The object was silent and did not appear to be a flying saucer.",
-        "The witness estimated the object's speed at 150 mph and its distance at 1/3 mile away.",
-        "The witness had previously seen a UFO in 1957.",
-        "The report includes a hand-drawn sketch of the cylindrical object.",
-        "The Air Force concluded the sighting was likely of Venus or a meteorite/comet, but did not reach a definite conclusion."
-    ],
-    "result": "possible sighting of Venus, meteorite or comet - no definite conclusion",
-    "sighted object": "bright, silvery, cylindrical object with domes",
-    "location": "Wheeling, West Virginia",
-    "witnesses": "1 witness, female, 45 years old",
-    "photographs": "no photographs"
+    "main event": "Witness observed bright silvery lighted objects in the shape of cylinders with domes over Wheeling, W.Va., on 29 October 63.",
+    "interesting points": "The objects were observed at several thousand feet in altitude,The sighting occurred in bright daylight,The witness reported no sound emitted from the objects,The objects were seen at a course southeast from the observing location,The conclusion of the sighting suggests it could be Venus or a possible meteorite or comet.",
+    "sighted object": "bright silvery lighted cylindrical objects with domes",
+    "location": "Wheeling, West Virginia, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness lived in Wheeling for 30 years and believes in UFOs.",
+    "contains photographs": false
 }

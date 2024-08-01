@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unidentified luminous objects were observed over Canberra, Australia on May 3, 1964. The first object moved erratically from southwest to northeast, while the second object was stationary and had a pinkish-orange glow.",
-    "interesting points": [
-        "The first object appeared to be larger and brighter than a star, and it suddenly accelerated towards the second object before bouncing back.",
-        "The second object appeared to be rotating or spinning, and it disappeared after the collision with the first object.",
-        "The sighting was investigated by the Scientific Attache of the American Embassy in Canberra, Dr. Paul Siple, and two NASA engineers, who could not provide a plausible explanation for the observed phenomena.",
-        "The incident was reported to various government agencies, including the CIA, National Security Agency, NASA, Army, and Navy.",
-        "It has been suggested that the collision could have been some unknown type of refueling or recharging process."
-    ],
-    "result": "unexplained",
-    "sighted object": "two luminous objects, one larger and brighter than a star, the other with a pinkish-orange glow",
-    "location": "Canberra, Australia",
-    "witnesses": "several ground observers, including a resident of a tourist camp",
-    "photographs": "none"
+    "main event": "On May 3, 1964, witnesses observed two unidentified luminous objects near Canberra, Australia, with one object appearing to collide with the other.",
+    "interesting points": "The first object moved in a wobbly path, got brighter as it traveled, and was larger and brighter than a star., The second object appeared to be stationary with a pinkish-orange glow., There was no noise associated with either object., The objects demonstrated unusual motion unlike known satellites, including a dramatic change in speed upon collision., The sighting was reported to the American Embassy and investigated by officials from NASA and the U.S. State Department.",
+    "sighted object": "two unidentified luminous objects",
+    "location": "Canberra, A.C.T., Australia",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mr. _, his wife, and a friend at a tourist camp",
+    "contains photographs": false
 }

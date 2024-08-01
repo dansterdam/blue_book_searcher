@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "An unidentified object described as a 'bicycle type object with holes in the sides and flashing a yellow light' was observed near Syracuse, New York on March 5, 1953.",
-    "interesting points": [
-        "The object was observed for an unknown length of time.",
-        "This was reportedly the third time the object had been observed in the area.",
-        "The altitude of the object was given as 5,000 feet, but the location of the observer and direction of the object were unknown.",
-        "The weather conditions at the time of the sighting were not reported.",
-        "The object was not picked up on radar at the nearby air defense site."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "bicycle type object with holes in the sides and flashing a yellow light",
-    "location": "Syracuse, New York",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "An unidentified flying object was reported near Syracuse, New York on 5 March 1953.",
+    "interesting points": "The object was described as a bicycle type with holes on the sides and flashing a yellow light., The sighting was reported for the third time by the observer., The object was not tracked on radar at any time during the observation., The weather conditions at the time of the sighting were unknown., The report concluded that the details were insufficient for evaluation.",
+    "sighted object": "bicycle type object with holes and a flashing yellow light",
+    "location": "Syracuse, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Only one source provided the observation, and the authenticity remains unknown.",
+    "contains photographs": false
 }

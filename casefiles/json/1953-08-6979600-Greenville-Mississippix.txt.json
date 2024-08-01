@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sighting of an unidentified flying object near Greenville, Mississippi on August 27, 1953",
-    "interesting points": [
-        "The object was described as a brilliant white, circular shape with a short 'tail', moving at a high rate of speed and disappearing from view.",
-        "Multiple witnesses, including a high school girl, an Air Force pilot, and other USAF personnel, reported seeing the object.",
-        "The object was estimated to be at an altitude of around 5,000 feet and was observed for approximately 15 minutes.",
-        "No physical evidence of the sighting was found, and no interception or identification actions were taken.",
-        "The weather conditions were clear, with high scattered clouds, and there were no known meteorological or other activities that could have accounted for the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a brilliant white, circular object with a short 'tail'",
-    "location": "Greenville, Mississippi",
-    "witnesses": "a high school girl, an Air Force pilot, and other USAF personnel",
-    "photographs": "No"
+    "main event": "A high school girl and military personnel reported seeing a UFO near Greenville, Mississippi on August 27, 1953.",
+    "interesting points": "The UFO was observed at an altitude of around 5,000 feet,It was circular in shape and emitted red and white flashing lights,Reports indicate the object had a tail about the size of a tennis ball,Multiple witnesses, including Air Force personnel, described the object as rotating and changing brightness,The sighting lasted from 22:15 to 22:38 hours.",
+    "sighted object": "circular object emitting lights",
+    "location": "Greenville, Mississippi, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "includes a high school girl and several Air Force personnel",
+    "contains photographs": false
 }

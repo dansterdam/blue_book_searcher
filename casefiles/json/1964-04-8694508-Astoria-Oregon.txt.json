@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A round white object was observed over the Columbia River/Lightship area in Grays Harbor, Washington.",
-    "interesting points": [
-        "The object was bright white with arcs of light flashing outward, with green hues in certain areas.",
-        "The object appeared larger than an aircraft and was observed visually and through a telescope.",
-        "The object was sighted between approximately 2307 and 2308 hours on April 1, 1964.",
-        "The weather conditions included SW winds at 10 knots and 5/10 cloud cover, with 10-12 miles visibility.",
-        "The object was descending in an east to west course at an altitude of 30-45 degrees."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round white object with flashing lights",
-    "location": "Grays Harbor, Washington",
-    "witnesses": "multiple observers including a Columbia River pilot boat crew",
-    "photographs": "none"
+    "main event": "A round white object was observed moving slowly to the west at an altitude of 30-45 degrees, disappearing intermittently for approximately 30-40 minutes.",
+    "interesting points": "The object appeared larger than an aircraft and emitted bright light with arcs of light flashing outward., The sighting was documented by multiple observers including members of the U.S. Navy., The object was first sighted visually and later observed using a telescope., Weather conditions included 50% cloud cover with 10-12 miles visibility., The sighting occurred at 310 degrees azimuth and 0.45 degrees elevation.",
+    "sighted object": "Round white object",
+    "location": "Grays Harbor, Washington, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Randall Brazile SNBM, Gary Smith EM3, Dave Trujillo AN3, Larry Johnson SA, John Perry SA",
+    "contains photographs": false
 }

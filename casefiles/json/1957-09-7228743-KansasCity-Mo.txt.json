@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Two white objects were observed withdrawing and moving from 006 to 010 degrees in 10 to 15 seconds in Kansas City, Missouri.",
-    "interesting points": [
-        "The objects moved at a high speed, covering several degrees in the sky in a short period of time.",
-        "The report states that there is insufficient data for a full evaluation of the sighting.",
-        "The report indicates that the observing officer concurred with the assessment that there was insufficient data.",
-        "No additional details are provided about the size, shape, or other characteristics of the observed objects.",
-        "The report does not mention any photographs or other physical evidence associated with the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "two white objects",
-    "location": "Kansas City, Missouri",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A sighting of an unidentified object took place on September 27, 1957, in Kansas City, Missouri, during which it was observed potentially in conjunction with flight paths of aircraft.",
+    "interesting points": "The sighting involved multiple types of observations, including ground and air visuals as well as radar detection., The object's course was recorded moving from west to east to northeast., The observation was likely caused by an aircraft according to comments in the report., The sighting lasted between ten to fifteen seconds., This report is part of the Project Blue Book archives, which documented UFO sightings.",
+    "sighted object": "one unidentified object",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian source reporting the sighting with observations possibly linked to aircraft activity.",
+    "contains photographs": false
 }

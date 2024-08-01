@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unknown objects were observed over Pickstown, South Dakota for about 2 hours on July 22, 1964.",
-    "interesting points": [
-        "The objects appeared like stars and were the same size as the Big Dipper constellation.",
-        "The objects were white-blue in color and moved in a straight line until disappearing behind a hedge of trees.",
-        "The sighting was made by Major (C) De Morse, the commander of the 695th Radar Squadron, who thought the objects could have been a satellite in polar orbit, moving too fast to be a balloon.",
-        "No photographs were taken, and no physical evidence was found.",
-        "The senior director of the Sioux City ADCC confirmed that there was no known jet or light aircraft traffic in the vicinity at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unknown objects in the sky",
-    "location": "Pickstown, South Dakota",
-    "witnesses": "Major (C) De Morse, 695th Radar Squadron commander",
-    "photographs": "no"
+    "main event": "Two objects were observed in the sky over Pickstown, South Dakota, on July 22, 1964.",
+    "interesting points": "The observation lasted for 2 hours,The objects appeared as bright lights in the sky,One witness described the movement as straight line over the horizon,Major De Morse suggested that the objects could have been satellites due to their speed,There were no photographs or physical evidence documented.",
+    "sighted object": "two unknown objects resembling bright lights",
+    "location": "Pickstown, South Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major De Morse, commander of the 695 Radar Squadron",
+    "contains photographs": false
 }

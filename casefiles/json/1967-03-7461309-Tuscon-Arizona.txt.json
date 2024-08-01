@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observer reported seeing a circular, baseball-sized white to yellow object in the sky over Tucson, Arizona.",
-    "interesting points": [
-        "The object was initially stationary, then rose to 25,000 feet, remained stationary briefly, and then descended and disappeared.",
-        "The object was observed for 4-5 minutes.",
-        "The observer reported the object moved from northwest to southeast.",
-        "There was no physical evidence or photographs of the object.",
-        "The Air Force concluded the sighting was a 'probable' balloon."
-    ],
-    "result": "probable balloon",
-    "sighted object": "circular, baseball-sized white to yellow object",
-    "location": "Tucson, Arizona",
-    "witnesses": "civilian observer (Mrs. ___)",
-    "photographs": "none"
+    "main event": "A civilian observed a circular object in the sky, which rose to 25,000 feet, remained stationary, then descended and disappeared over a period of 4-5 minutes.",
+    "interesting points": "The object was described as being about the size of a baseball and white to yellow in color,The observation was made visually from the ground,The object followed a course from Northwest to Southeast,The sighting occurred on March 15, 1967,The conclusion of the report suggests the object was probably a hot air balloon.",
+    "sighted object": "circular white to yellow object",
+    "location": "Tucson, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer, no additional identifying information provided.",
+    "contains photographs": false
 }

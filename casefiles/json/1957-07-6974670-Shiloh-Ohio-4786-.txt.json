@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Three witnesses reported seeing two bright, reddish-orange circular objects in the sky near Shiloh, Ohio that made a sharp 90 degree turn and accelerated out of sight at a high rate of speed.",
-    "interesting points": [
-        "The objects were described as circular in shape, reddish-orange in color, and approximately 50 feet in diameter.",
-        "The objects were observed to make a sharp 90 degree turn.",
-        "The objects then accelerated out of sight at a high rate of speed.",
-        "The investigating officer concluded the sighting was likely caused by two aircraft engaged in night training maneuvers.",
-        "No radar contacts or other aircraft were reported in the area at the time of the sighting."
-    ],
-    "result": "probable aircraft",
-    "sighted object": "two bright, reddish-orange circular objects",
-    "location": "Shiloh, Ohio",
-    "witnesses": "3",
-    "photographs": "no"
+    "main event": "Three witnesses reported seeing two bright objects in the sky for about 5 minutes on July 9, 1957, in Shiloh, Ohio.",
+    "interesting points": "The objects were described as circular in shape and reddish-orange in color,Approximately 50 feet in diameter,The objects made a sharp 90-degree turn and then accelerated out of sight,Another sighting involved a different object that appeared to be 30 feet in diameter and hovered for about 2-3 minutes, No noise was reported from the sightings.",
+    "sighted object": "two bright circular objects in the sky",
+    "location": "Shiloh, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three individuals, two residents of Shiloh and one visitor",
+    "contains photographs": false
 }

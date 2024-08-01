@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO document:
-
 {
-    "main event": "Three witnesses observed a luminous object orbiting over a building in Chicago, Illinois on August 21, 1960.",
-    "interesting points": [
-        "The object appeared to be hovering at times and motionless at other times.",
-        "The object was approximately 8 feet in diameter and 3 feet thick, and emitted a whirring sound similar to a small lawn mower motor.",
-        "The object was observed to be at an altitude of around 1,000 feet and moved at a speed comparable to a very bright car.",
-        "The object appeared to be brightly lit in the front and dull in the rear, and faced the direction it was flying.",
-        "The object eventually flew out of sight in a southeasterly direction."
-    ],
-    "result": "unidentified aerial phenomena",
-    "sighted object": "luminous, orbiting object",
-    "location": "Chicago, Illinois",
-    "witnesses": "Illene C. Darndy, Lyle Johnson, and Norma Lehmkuhl",
-    "photographs": "none"
+    "main event": "Three witnesses observed a luminous object maneuvering over their building in Chicago, Illinois on August 21, 1960.",
+    "interesting points": "The object appeared to be approximately 8 feet in diameter and 3 feet thick,The illumination was similar to a 500 watt floodlight,The object seemed to hover and was motionless at times,An unspecified whirring sound was heard,The sighting lasted about 10 minutes before the object disappeared into the southeast.",
+    "sighted object": "a luminous object that orbited and hovered",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Illene C. Darnedy, Lyle Johnson, Norma Lehmkühl",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Navy aircrews reported observing several glowing objects falling through the air toward the sea.",
-    "interesting points": [
-        "The objects were observed at an altitude of approximately 18,000 feet.",
-        "The objects were seen passing through cloud layers before falling toward the sea.",
-        "The location of the sighting was 30°51'N 174°30'W in the Pacific Ocean.",
-        "The sighting occurred at 0843Z on November 23, 1962.",
-        "The report states there was no evaluation made of the sighting."
-    ],
-    "result": "unknown",
+    "main event": "NAVY aircrews reported observing several glowing objects falling through the air toward the sea.",
+    "interesting points": "The sighting involved glowing objects passing through cloud layers at approximately 18,000 feet., The observation time was recorded as 23/0842Z on 7 November 1962., The location of the sighting was at latitude 20°21'N and longitude 174°30'W in the Pacific., There were multiple observations from military aircraft., The objects were categorized as possibly being ballistic, balloons, aircraft, or astronomical, but evaluation was insufficient.",
     "sighted object": "several glowing objects",
-    "location": "30°51'N 174°30'W (Pacific Ocean)",
-    "witnesses": "Navy aircrews",
-    "photographs": "no"
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "Navy aircrews",
+    "contains photographs": false
 }

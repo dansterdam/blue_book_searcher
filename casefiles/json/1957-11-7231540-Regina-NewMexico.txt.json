@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A ground-based radar detected an unidentified object near Regina, New Mexico in 1957.",
-    "interesting points": [
-        "The object was the size of a baseball and had a blue-grey color.",
-        "The object made a whistling sound.",
-        "The object moved from northeast to southwest.",
-        "The object was observed for 15 minutes.",
-        "Without additional data, the sighting could not be properly evaluated."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified object detected on radar",
-    "location": "Regina, New Mexico",
-    "witnesses": "a civilian observer",
-    "photographs": "no photographs included in the report"
+    "main event": "A single object resembling the size of a baseball was observed making a whistling sound in the sky.",
+    "interesting points": "The sighting lasted for about 15 minutes,The object was blue-grey in color,The observer was servicing a car at the time of the sighting,The object moved from NE to SW and then behind a mountain, There is insufficient data to evaluate the sighting further.",
+    "sighted object": "one blue-grey object",
+    "location": "Regina, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer was servicing a car",
+    "contains photographs": false
 }

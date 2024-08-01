@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report text:
-
 {
-    "main event": "A man and his wife saw a round, disc-like object about 200 feet off the ground and at an estimated 75 feet.",
-    "interesting points": [
-        "The object was spotted at 2315 time on 4 January.",
-        "The duration of the sighting was 5 minutes.",
-        "The observers were advised to report to their nearest Air Force Base, which in this case is McGuire Air Force Base.",
-        "The report was filed as Project 10073 Record.",
-        "The conclusion was 'INSUFFICIENT DATA FOR EVALUATION'."
-    ],
-    "result": "unexplained",
+    "main event": "A man and his wife observed a round, disc-like object flying about 200 feet off the ground in New Jersey.",
+    "interesting points": "The sighting lasted for about 5 minutes.,The object was estimated to be traveling at about 75 miles per hour.,The report is under the investigation of Project Blue Book.,The object was at an estimated altitude of 200 feet.,Conclusion states there is insufficient data for evaluation.",
     "sighted object": "round, disc-like object",
-    "location": "New Jersey Area",
-    "witnesses": "a man and his wife",
-    "photographs": "none"
+    "location": "New Jersey Area, New Jersey, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a man and his wife",
+    "contains photographs": false
 }

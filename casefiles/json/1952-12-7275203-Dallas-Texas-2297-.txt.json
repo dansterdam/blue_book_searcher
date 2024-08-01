@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "On December 7, 1952, a report was received from Dallas, Texas, of a sighting of an unidentified flying object.",
-    "interesting points": [
-        "The object was described as oval-shaped and approximately the size of a basketball.",
-        "The object was observed to make a 90-degree turn and then disappear.",
-        "The report included 27 photographs, but no photographs were present in the provided image.",
-        "The report contained various technical instrument panels and gauges, but no clear depictions of the UFO.",
-        "The report was part of Project Blue Book, the official government program for investigating UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oval-shaped object the size of a basketball",
-    "location": "Dallas, Texas",
-    "witnesses": "a group of three young men",
-    "photographs": "yes, the report includes 27 photographs, but none were provided"
+    "main event": "On December 7, 1952, a group of three young men observed a bright oval-shaped object in the sky over Dallas, Texas, which made a 90-degree turn and disappeared.",
+    "interesting points": "The object was described as being the size of a basketball., The object was observed moving rapidly across the sky., Weather conditions were reported to be clear with unlimited visibility., The sighting was part of the Project Blue Book investigations conducted by the USAF., The investigation did not provide a conclusive explanation for the observed phenomenon.",
+    "sighted object": "bright oval-shaped object",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three young men",
+    "contains photographs": false
 }

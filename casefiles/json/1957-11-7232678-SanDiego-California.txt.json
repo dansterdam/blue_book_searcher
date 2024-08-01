@@ -1,15 +1,9 @@
 {
-    "main event": "On October 6, 1957, a sighting of a round object with red, green, and white lights moving jerkily up and down occurred for a duration of 30 minutes.",
-    "interesting points": [
-        "The sighting lasted for a significant duration of 30 minutes, allowing for detailed observation.",
-        "The object was described as having red, green, and white lights, exhibiting unusual movement patterns.",
-        "There was uncertainty regarding the nature of the object, with possibilities including astronomical, balloon, or confirmed aircraft.",
-        "The report mentions civilian witnesses in San Diego, California, adding credibility to the sighting.",
-        "The witness observed the same object on multiple occasions, indicating sustained and repeated sightings."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "Round object with red, green, and white lights moving jerkily up and down",
-    "location": "San Diego, California",
-    "witnesses": "Civilian witness",
-    "photographs": "No photograph included"
+    "main event": "A sighting of a round object with red, green, and white lights was reported on 6 OCT 1957.",
+    "interesting points": "The object was observed moving jerkily up and down,The sighting lasted for about 30 minutes,The object was observed at a distance of approximately 1.5 miles,The report included multiple possible explanations including aircraft and astronomical phenomena,There was insufficient data for a definitive conclusion.",
+    "sighted object": "round object with red, green, and white lights",
+    "location": "San Diego, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

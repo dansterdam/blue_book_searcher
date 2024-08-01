@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A mysterious object was observed hovering above Puente, California on February 1, 1954, with red lights and making a jet engine-like noise.",
-    "interesting points": [
-        "The object was observed to move rapidly up and down, making an unusual noise similar to jet engines.",
-        "The object appeared to be a bright light that was stationary at first, then started moving rapidly.",
-        "The object was only observed by one witness, Special Agent HAROLD E. TRACY, and could not be corroborated by any other observers.",
-        "A woman reported seeing a large, bright light that changed colors and moved erratically, and was observed by herself and several other people.",
-        "Another witness reported seeing a similar large, luminous object that hovered, changed colors, and then accelerated and disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, a large, bright light that changed colors, and a large, luminous object",
-    "location": "Puente, California",
-    "witnesses": "Special Agent HAROLD E. TRACY, a woman, and another unidentified witness",
-    "photographs": "no photographs included in the report"
+    "main event": "On 1 February 1954, a report was made concerning the sighting of an unidentified object over Puente, California, which appeared with silvery fuzzy edges, floating and rapidly rotating at high altitude.",
+    "interesting points": "The object was observed to have little, if any, residue in the air, with only a small vapor trail visible., The sighting lasted approximately 20 seconds., Witness reports included descriptions of erratic flight paths and changes in shape., The object was observed by multiple witnesses, including military personnel., A substance resembling gossamer web was noted to mysteriously evaporate upon contact with air.",
+    "sighted object": "unidentified aerial object with silvery fuzzy edges",
+    "location": "Puente, California, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "various local residents including military personnel",
+    "contains photographs": true
 }

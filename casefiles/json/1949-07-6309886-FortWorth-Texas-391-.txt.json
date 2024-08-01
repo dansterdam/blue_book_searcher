@@ -1,15 +1,9 @@
 {
-  "main event": "A sighting of an unidentifiable object was reported on July 6, 1949 in Fort Worth, Texas. The object was observed for 15 seconds and was described as silver, semi-transparent, and spherical in shape, similar to a soap bubble.",
-  "interesting points": [
-    "The observer, a 1st Lt., was considered reliable and had formal AEC clearance.",
-    "The description of the object resembled that of a child's soap bubble, with no sound or exhaust trail.",
-    "The object was flying at approximately 300 MPH in a horizontal plane from South to North.",
-    "Radar sight unit at Carswell AFB released a balloon at the same time, which might explain the sighting.",
-    "No physical evidence or photographs were obtained for further analysis."
-  ],
-  "result": "prosaic explanation - balloon",
-  "sighted object": "unidentifiable object, described as silver, semi-transparent, and spherical in shape",
-  "location": "Fort Worth, Texas",
-  "witnesses": "1st Lt. who was considered reliable due to formal AEC clearance",
-  "photographs": "no"
+    "main event": "A 1st Lieutenant observed a silver, semi-transparent spheroid object while working on a B-36 at Carswell Air Force Base on July 6, 1949.",
+    "interesting points": "The object was reported to be the size of a fist at arm's length,The object flew from south to north at approximately 300 MPH,The observer experienced no associated sound or exhaust trail,Visibility was good with scattered cumulus clouds present,An investigation suggested the object could have been a released rawin balloon due to similarities in description.",
+    "sighted object": "silver, semi-transparent spheroid object",
+    "location": "Fort Worth, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "1st Lieutenant, experienced pilot, working on a B-36 aircraft",
+    "contains photographs": false
 }

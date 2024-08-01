@@ -1,15 +1,9 @@
 {
-    "main event": "A round, white object was sighted moving at high speed from north to south over Hollywood, California on August 7, 1955.",
-    "interesting points": [
-        "The object was observed for 3 seconds, traveling in an arc and then disappearing.",
-        "The object was described as 5 feet in diameter and moving as fast as a jet aircraft.",
-        "A small aircraft was also spotted in the same general area around the time of the sighting.",
-        "The observer suggested the object could have been a searchlight, such as those used for grand openings of businesses.",
-        "The sighting was reported and documented through the official Project 10073 record card process."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, 5-foot white object",
-    "location": "Hollywood, California",
-    "witnesses": "1 civilian observer (housekeeper, age 45)",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A meteor sighting was reported on 15 Aug 55.",
+    "interesting points": "The observation lasted for about 3 seconds., The object traveled in a north to south course., The sighting occurred during dark and clear conditions., There was one small aircraft in the area at the same time., The report notes probable misidentification of a searchlight.",
+    "sighted object": "meteor",
+    "location": "Hollywood, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housekeeper, age 45",
+    "contains photographs": false
 }

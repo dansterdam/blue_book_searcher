@@ -1,17 +1,9 @@
-Here is the summary in JSON format based on the details provided in the report text:
-
 {
-    "main event": "Staff Sergeant Ira L. Livingston witnessed 7 to 10 unidentified flying objects over Birmingham, Alabama on July 6, 1947.",
-    "interesting points": [
-        "The objects were round, approximately 2 feet in diameter, and traveled at an estimated speed of 500 to 600 mph.",
-        "The objects ascended vertically and then traveled in an arc.",
-        "The objects were observed at an altitude of around 2,000 feet above the horizon at a 45 degree angle.",
-        "There was no sound associated with the objects.",
-        "A photograph was taken of the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "7 to 10 round objects, approximately 2 feet in diameter",
-    "location": "Birmingham, Alabama",
-    "witnesses": "Staff Sergeant Ira L. Livingston",
-    "photographs": "yes, one photograph was taken"
+    "main event": "Staff Sergeant Ira L. Livingston reported seeing flying discs over Birmingham, Alabama on July 6, 1947.",
+    "interesting points": "Livingston was alerted by a neighbor to the sighting,Objects were estimated to be 2000 feet above the horizon traveling at a speed of 600 to 800 mph,The discs glowed dimly and were approximately 10 ft in diameter,The objects moved in a level flight and appeared one after another but not always on the same path,At no time did Livingston see more than one object simultaneously, indicating the possibility of multiple discs.",
+    "sighted object": "flying discs",
+    "location": "Birmingham, Alabama, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Staff Sergeant Ira L. Livingston and a neighbor, Mrs. Gallagher.",
+    "contains photographs": true
 }

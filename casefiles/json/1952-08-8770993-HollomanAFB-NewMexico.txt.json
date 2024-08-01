@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silvery, round object was observed at Holloman Air Force Base, New Mexico on August 25, 1952.",
-    "interesting points": [
-        "The object appeared to be silver in color, reflecting the sun, and had no lights or visible propulsion system.",
-        "The object made a 360-degree turn, climbed through a cloud, and then climbed almost straight up and out of sight.",
-        "The object was observed to be faster than a jet aircraft.",
-        "The observation lasted for 3-5 minutes by two experienced base employees, a utilities supervisor and an electrical foreman.",
-        "No photographs were taken, but the report includes a map of the Holloman AFB area where the sighting occurred."
-    ],
-    "result": "unknown",
-    "sighted object": "a silvery, round object",
-    "location": "Holloman Air Force Base, New Mexico",
-    "witnesses": "a utilities supervisor and an electrical foreman",
-    "photographs": "no"
+    "main event": "On 25 August 1952, objects were sighted in the sky near Holloman AFB, New Mexico, which were described as moving faster than a jet and displaying unusual flight patterns.",
+    "interesting points": "The observer noted that the objects were silver in color and round in shape, The sighting lasted between 3 to 5 minutes, The objects were observed to be circling the area and making sharp turns, The objects reflected sunlight but emitted no sound, The report identified that no type of optical or electronic equipment was used to verify the objects.",
+    "sighted object": "one round and flat silver object in the sky",
+    "location": "Holloman AFB, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Foreman and Utilities Operations and Plant Supervisor at Holloman AFB",
+    "contains photographs": false
 }

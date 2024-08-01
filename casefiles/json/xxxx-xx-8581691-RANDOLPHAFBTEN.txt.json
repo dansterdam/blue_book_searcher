@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified aerial object was observed over Randolph AFB, Texas on July 21, 1952.",
-    "interesting points": [
-        "The object had an elongated fuselage with no wings, but a protruding box-like empennage with no vertical stabilizer, and a pointed nose.",
-        "The object flew at a very high speed, much faster than 750 mph, and made a violent square turn before heading straight up and out of sight.",
-        "The object was observed visually from the ground for 3-5 seconds by a civilian witness who was familiar with many types of military and civilian aircraft.",
-        "Weather conditions at the time were 5,000 ft scattered visibility of 15 miles, with winds of 21 knots at 150 degrees.",
-        "No fragments or photographs of the object were obtained, and no interception or identification action was taken."
-    ],
-    "result": "unexplained",
-    "sighted object": "an elongated, wingless object with a box-like tail structure",
-    "location": "Randolph AFB, Texas",
-    "witnesses": "a civilian witness familiar with aircraft",
-    "photographs": "none"
+    "main event": "Several unidentified flying objects were reported over Randolph AFB, Texas, on July 21 and 22, 1952.",
+    "interesting points": "The objects were described as having a domed shape and emitting a silver color., Witnesses observed the objects for several seconds flying in straight lines and making sharp turns., No photographs were taken during the sightings, and no identification or interception actions were initiated., The sightings coincided with military traffic from B-29s practicing landings at Randolph AFB., Witnesses included civilians familiar with military and civilian aircraft.",
+    "sighted object": "Unknown aerial objects",
+    "location": "Randolph AFB, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians, including the wife of a military captain and steelworkers.",
+    "contains photographs": false
 }

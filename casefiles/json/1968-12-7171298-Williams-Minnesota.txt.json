@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A civilian observer sighted an unidentified object in Williams, Minnesota on December 17, 1968 for about 25 minutes.",
-  "interesting points": [
-    "The object was described as a star-like, slightly larger than a star, and green in color.",
-    "The object had a self-trail or trail as it was observed.",
-    "The object was observed from the ground using low-power binoculars.",
-    "The sighting lasted for at least 3 hours and 25 minutes.",
-    "The Air Force requested the observer to complete an AF Form 117 to provide more details about the sighting."
-  ],
-  "result": "insufficient data",
-  "sighted object": "a green, star-like object",
-  "location": "Williams, Minnesota",
-  "witnesses": "a civilian observer",
-  "photographs": "no"
+    "main event": "A civilian observed an unidentified flying object in Williams, Minnesota on December 17, 1968 for approximately 25 minutes.",
+    "interesting points": "The observer reported a blue trail associated with the object lasting at least 3 hours and 25 minutes., The report comes from Project Blue Book, a historical U.S. Air Force program., The observer used low power binoculars for viewing the object., The object was described as slightly larger than a star and green in color., No photographs or physical evidence were documented in the report.",
+    "sighted object": "One unidentified flying object",
+    "location": "Williams, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, age 32",
+    "contains photographs": false
 }

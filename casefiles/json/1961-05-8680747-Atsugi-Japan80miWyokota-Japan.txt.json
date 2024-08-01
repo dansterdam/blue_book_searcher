@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright yellow-white glowing object was observed descending rapidly from high altitude near Atsugi, Japan on May 1, 1961.",
-    "interesting points": [
-        "The object appeared to be about the size of a nickel held at arm's length, and was very bright.",
-        "The object descended rapidly in a vertical motion, with the speed decreasing as it approached the ground.",
-        "The sighting lasted for about 30 seconds and the object disappeared over the horizon.",
-        "Two other people in the control tower at Atsugi also observed the object.",
-        "The report mentions that the sighting conformed to observations of others, but does not provide additional details."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright yellow-white glowing object",
+    "main event": "A military observer reported a white burning object descending over Atsugi, Japan on May 1, 1961.",
+    "interesting points": "The sighting lasted approximately 30 seconds., The object was described as a white burning object with a short duration., There was a mention of similar observations by others., It was classified as a ground observation by military personnel., The record card was part of the U.S. Air Force's Project Blue Book.",
+    "sighted object": "white burning object",
     "location": "Atsugi, Japan",
-    "witnesses": "military personnel in the control tower",
-    "photographs": "no photographs included in the report"
+    "number of confirmed witnesses": 3,
+    "witness description": "military personnel from the control tower",
+    "contains photographs": false
 }

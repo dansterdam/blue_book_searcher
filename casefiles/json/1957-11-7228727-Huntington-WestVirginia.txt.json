@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Huntington, West Virginia reported seeing a strange, metallic object in the sky on November 1, 1957.",
-    "interesting points": [
-        "The object was described as two metallic hemispheres separated by a clear section, rapidly traveling at a high altitude.",
-        "The object made no sound initially, then produced a sound similar to a jet engine followed by a booming sound.",
-        "The object continued on a straight course and disappeared vertically from the witness's view in about one minute.",
-        "The U.S. Weather Bureau reported no unusual weather or celestial activity for that date.",
-        "Another witness on November 7, 1957 reported seeing a similar object that appeared to have a spinning lower portion and flashing lights."
-    ],
-    "result": "unexplained",
-    "sighted object": "two metallic hemispheres with a clear section, described as large as an automobile",
-    "location": "Huntington, West Virginia",
-    "witnesses": "Mrs. _____, a housewife and telephone company supervisor",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "On November 1, 1957, a woman reported seeing an unusual airborne object over Huntington, West Virginia, described as two metallic hemispheres rapidly traveling at a high altitude.",
+    "interesting points": "The object emitted no sound initially, followed by a jet engine-like noise and a booming sound., The object disappeared vertically from view within about one minute., Witness reported the object was approximately the size of an automobile., Weather conditions were clear with no unusual phenomena reported at the time of the sighting., The observer requested to remain anonymous to avoid potential ridicule.",
+    "sighted object": "two metallic hemispheres separated by a clear section",
+    "location": "Huntington, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "female, 22 years old, high school graduate, Supervisor at Traffic Department, Chesapeake and Potomac Telephone Company",
+    "contains photographs": false
 }

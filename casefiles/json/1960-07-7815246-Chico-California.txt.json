@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A radar sighting of three unidentified objects flying in a zig-zag pattern near Chico, California in 1960.",
-    "interesting points": [
-        "The objects were seen on radar, but no further details about their characteristics were provided.",
-        "The objects were reported to be flying in a zig-zag pattern.",
-        "The length of the observation was not given.",
-        "The case was listed as having 'insufficient data for evaluation' due to a lack of response from the witness.",
-        "The Air Force's Project Blue Book program was involved in investigating this sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "three unidentified radar targets",
-    "location": "Chico, California",
-    "witnesses": "ground radar operators",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Three unidentified objects were observed in Chico, California while exhibiting a zig-zag course.",
+    "interesting points": "The sighting was reported to have occurred from 1930 to 2025 on 16 July 1960., The observers described seeing many flying lights or objects., There was a request for specific information sent to the witness, but no reply was received., The report concluded that there was insufficient data for evaluation., The document mentions potential explanations including balloons, aircraft, and astronomical phenomena.",
+    "sighted object": "three unidentified objects in the sky",
+    "location": "Chico, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified; witnesses described seeing many flying lights.",
+    "contains photographs": false
 }

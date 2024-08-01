@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "Two reports of a fiery, orange-colored, glowing ball-shaped object seen over Casablanca, Morocco on April 5, 1956.",
-    "interesting points": [
-        "The object was described as a round, fiery ball that was orange in color with a bluish edge.",
-        "The object was observed flying from east to west at a low speed.",
-        "One witness, an employee of the meteorological station at Casablanca Airport, initially thought the object was a meteor.",
-        "The second witness, a civilian, reported the object circling the city at low speed for 2-3 minutes before disappearing behind clouds.",
-        "Both witnesses provided accounts of the object's maneuvers and characteristics, though the second report was considered an exaggeration of the initial meteor sighting."
-    ],
-    "result": "Possibly Astronomical Meteor",
-    "sighted object": "A round, fiery, orange-colored ball with a bluish edge",
+    "main event": "Two reports of a fiery object over Casablanca, Morocco on April 5, 1956, one by a meteorological employee and another by a local resident.",
+    "interesting points": "One witness described the object as a round fiery ball with an orange color and bluish edges., The object was initially thought to be a meteor., The sightings included observations of the object circling the city at low speed., The first sighting lasted for approximately 2-3 minutes., A local press article reported the object appearing in the east and disappearing to the southeast.",
+    "sighted object": "a round fiery ball",
     "location": "Casablanca, Morocco",
-    "witnesses": "Two civilian witnesses, including a meteorological station employee",
-    "photographs": "No photographs included in the report"
+    "number of confirmed witnesses": 2,
+    "witness description": "Employee of a meteorological station and a local resident.",
+    "contains photographs": false
 }

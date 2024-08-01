@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-  "main event": "A high-speed object was observed on radar, exhibiting irregular zig-zag movements and varying speeds up to 600-750 knots.",
-  "interesting points": [
-    "The object was tracked on radar for approximately 16 minutes.",
-    "The radar tracking indicated the object had a maximum velocity of 600-750 knots and greatly varied its speed.",
-    "A brilliant 'shooting star' phenomenon was observed, traveling at an estimated speed of 30,000 mph.",
-    "The object underwent a 'burn-out' on an approximately vertical axis and descended to approximately 2,000 feet AGL before 'burning out' again.",
-    "The entire sequence of events was observed for approximately 30 seconds."
-  ],
-  "result": "unexplained",
-  "sighted object": "a high-speed object tracked on radar, exhibiting irregular movements and varying speeds",
-  "location": "111 miles east of Kansas City, Missouri",
-  "witnesses": "radar operators",
-  "photographs": "no"
+    "main event": "An unidentified foreign object was observed near Kansas City, Missouri, displaying a brilliant shooting star phenomenon and high-speed vertical trajectory.",
+    "interesting points": "The object was tracked by radar and showed a maximum velocity of 600-750 knots,The observation lasted for approximately 30 seconds,The object underwent a burnout on a vertical axis,The radar tracking indicated the object varied its speed considerably,The maximum estimated speed of descent was approximately 30,000 mph.",
+    "sighted object": "unidentified foreign object",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Walter C. Halloran, Capt., USAF, acting as a magnetic sensing operator.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A strange aircraft was sighted over Sioux City, Iowa on January 23, 1951 by multiple witnesses including a control tower operator, assistant tower controller, and pilots.",
-    "interesting points": [
-        "The object was described as cigar-shaped, white-yellow in color, and exhibiting rapid acceleration and changes in altitude.",
-        "The object was observed by visual means and with field glasses, varying between a hovering position at around 2,000 feet and rapid acceleration up to 3,000 feet.",
-        "The object maneuvered and flew in formation with a departing airliner, remaining in the vicinity for approximately 15 minutes.",
-        "The object exhibited behaviors not characteristic of any known aircraft, such as rapid changes in speed and direction.",
-        "The sighting was reported to higher military authorities including the Secretary of Defense and Commanding General."
-    ],
-    "result": "unexplained",
-    "sighted object": "a cigar-shaped, white-yellow object exhibiting rapid maneuvers",
-    "location": "Sioux City, Iowa",
-    "witnesses": "control tower personnel, pilots",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted over Sioux City, Iowa on January 23, 1951, described by multiple witnesses as cigar-shaped and emitting a white-yellow light.",
+    "interesting points": "The sighting lasted for approximately 21 minutes,Prior reports indicated the object had characteristics similar to an aircraft but behaved erratically,Two airport control tower personnel confirmed the sighting and stated the object appeared to fly at high speeds and varied at altitudes of about 2000 feet to rapid ascents,Reports suggested that the object emitted little to no sound during its observation,The sightings were consistent with others reported in the region around the same timeframe.",
+    "sighted object": "cigar-shaped object emitting a white-yellow light",
+    "location": "Sioux City, Iowa, USA",
+    "number of confirmed witnesses": 13,
+    "witness description": "airport control tower personnel and other observers in the area",
+    "contains photographs": false
 }

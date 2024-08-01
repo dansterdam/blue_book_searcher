@@ -1,15 +1,9 @@
-{ 
-"main event": "A UFO sighting was reported on 6 Aug 1947 in Philadelphia, Penn. The object was observed to be moving very fast in a straight flight at a size described as larger than usual.",
-"interesting points": [
-	"The sighting occurred at 2230 - 2245 EST, with the object described as white in color and emitting a slight buzzing sound after passing.",
-	"The location of the sighting was specified as the Fort of Palindrome in Elkins Park, Philadelphia, Penn.",
-	"The form indicates the observation was made from the ground, and the maneuver of the object was listed as 'apparently straight flight.'",
-	"The report mentions that there was only one object observed and it was moving at a speed described as 'very fast' in a direction of 130 degrees.",
-	"The document indicates that the observation was unclassified, and it is stamped as such with additional unidentifiable signatures and approvals."
-],
-"result": "unexplained",
-"sighted object": "unidentified flying object (UFO)",
-"location": "Philadelphia, Penn.",
-"witnesses": "ground observers",
-"photographs": "no"
+{
+    "main event": "A fast-moving white object was sighted over Philadelphia on August 6, 1947.",
+    "interesting points": "The sighting occurred between 2230 and 2245 EST.,The object was larger in size compared to typical sightings.,Witnesses reported a slight buzzing sound after the object passed.,The object maintained a course of approximately 130 degrees.,The maneuvers indicated an apparently straight flight.",
+    "sighted object": "a fast-moving white object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified in the report",
+    "contains photographs": false
 }

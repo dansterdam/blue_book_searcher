@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "A bright light was observed moving at a high rate of speed, disappearing behind trees. It was described as appearing like the tail of a meteor or comet.",
-    "interesting points": [
-        "The sighting lasted for 15 minutes.",
-        "The report includes sketches, but no photographs.",
-        "The observer was located outdoors in the open countryside.",
-        "The object was first seen towards the south and last seen towards the southwest.",
-        "The weather conditions were clear with a few scattered clouds."
-    ],
-    "result": "inconclusive",
-    "sighted object": "A bright light",
-    "location": "Huntington, Indiana",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "A bright light was observed moving at a high rate of speed in Huntington, Indiana, on September 30, 1961.",
+    "interesting points": "The light was described as appearing like the tail of a meteor or comet,The sighting lasted for 15 minutes before the light disappeared behind trees,Previous UFO sightings in the area, like the one referenced from December 1928, were checked and linked to the planet Venus,The report classified the sighting as insufficient data but suggested it was probably a balloon or celestial object.",
+    "sighted object": "bright light",
+    "location": "Huntington, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted]",
+    "contains photographs": false
 }

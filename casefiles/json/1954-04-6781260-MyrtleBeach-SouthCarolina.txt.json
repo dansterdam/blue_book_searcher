@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A staff sergeant reported seeing an unidentified flying object (UFO) over Myrtle Beach, South Carolina on April 30, 1954.",
-    "interesting points": [
-        "The object was approximately twice the length of a British girl rail and about 40 feet in altitude.",
-        "The object remained stationary at an altitude of 1,200 to 1,500 feet, with an unknown azimuth, and disappeared behind trees after approximately 4.9 seconds.",
-        "The size of the object was estimated to be approximately the same as a squadron of 13 fighter planes.",
-        "The weather conditions at the time of the sighting were scattered clouds with a 20% overcast ceiling at 2,000 feet and unlimited visibility.",
-        "The report was submitted in compliance with Air Force Regulation 200-2, paragraphs 5 and 6."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "unidentified flying object",
-    "location": "Myrtle Beach, South Carolina",
-    "witnesses": "staff sergeant",
-    "photographs": "no"
+    "main event": "An airman reported a sighting of an unidentified object approximately twice the length of a British girl rail, estimated at 40 feet altitude, which remained stationary for about 4.9 seconds before disappearing behind trees.",
+    "interesting points": "The object was estimated to be the size of a squadron of 13 fighter planes., The sighting lasted for approximately 4.9 seconds., The airman was unable to identify the azimuth of the object., The observation took place in Myrtle Beach, South Carolina under scattered clouds with unlimited visibility., No photographs were included with the report.",
+    "sighted object": "unidentified object in the sky",
+    "location": "Myrtle Beach, South Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Airman Staff Grills",
+    "contains photographs": false
 }

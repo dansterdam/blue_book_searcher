@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Concord, North Carolina reported observing a moving star-like object in the sky on October 5, 1963.",
-    "interesting points": [
-        "The object was described as a bright, moving star.",
-        "The sighting lasted for 2-3 minutes.",
-        "The conclusion was that the object was 'Probably ECHO', likely referring to a satellite or other astronomical object.",
-        "The report includes multiple additional sightings by the same witness, James P. Powell, on October 9, 1963.",
-        "The additional sightings involved bright amber lights exhibiting various flight patterns, including stationary, vertical, and irregular movements."
-    ],
-    "result": "Probably Astronomical",
-    "sighted object": "A bright, moving star-like object",
-    "location": "Concord, North Carolina",
-    "witnesses": "Civilian",
-    "photographs": "No photographs included"
+    "main event": "A civilian in Concord, North Carolina observed a bright moving star-like object in the sky on 5 Oct 1963.",
+    "interesting points": "The observation lasted for 2-3 minutes., The object was described as bright and star-like., The object made no sound during the observation., The conclusion of the report suggested that it was probably an ECHO., There were additional comments indicating various possible explanations, including balloon and aircraft.",
+    "sighted object": "bright moving star-like object",
+    "location": "Concord, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

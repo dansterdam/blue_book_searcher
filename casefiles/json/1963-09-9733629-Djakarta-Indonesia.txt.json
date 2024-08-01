@@ -1,15 +1,9 @@
 {
-    "main event": "Radar detection of an unidentified object over Djakarta, Indonesia on September 25, 1963.",
-    "interesting points": [
-        "The object was detected by radar, pointing in a specific direction, and while being observed, a piece fell off the main body.",
-        "The object got dimmer as it crossed the sky and fell into the ocean when last observed.",
-        "The object was visible for 3-4 seconds at an elevation of 45°-50° at night.",
-        "The radar return could have indicated either a meteor or a possible missile attempt.",
-        "The witness was the son of a local FAA/AID representative, a sophomore engineering student at Ohio State University, and a member of the Air Force ROTC."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified radar target",
+    "main event": "A radar detection identified a possible meteor or unidentified object crossing the sky over Djakarta, Indonesia.",
+    "interesting points": "The observation lasted for 5-10 seconds while a piece fell off the main body of the object., The object was visible at a 45°-50° elevation at night., The object got dimmer as it crossed the sky., The speed and trajectory were too fast for an aircraft but too slow for a typical meteor., The witness was a son of a local FAA representative and had seven friends with him who also confirmed the sighting.",
+    "sighted object": "unidentified object or possible meteor",
     "location": "Djakarta, Indonesia",
-    "witnesses": "radar operators",
-    "photographs": "no, the report does not include any photographs"
+    "number of confirmed witnesses": 8,
+    "witness description": "witness is a student studying engineering and is a member of Air Force ROTC accompanied by seven friends aged 16-21",
+    "contains photographs": false
 }

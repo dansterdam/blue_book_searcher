@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted by military pilots over the Pacific Ocean on April 2, 1966.",
-    "interesting points": [
-        "The object was initially a ball, then broke up into two jagged pieces of equal size.",
-        "The ball was dime-sized, and the two pieces were the size of peas.",
-        "The object had a brilliant white center with red and blue fringing at the trailing edge.",
-        "The object's trail had a teardrop shape for the ball and then for the two pieces.",
-        "The object appeared to the pilots as a possible exploding aircraft or destructed missile."
-    ],
-    "result": "The object was determined to be a probable meteor.",
-    "sighted object": "An unidentified flying object that initially appeared as a ball and then broke up into two pieces.",
-    "location": "Pacific Ocean, 46.10N 155.13E",
-    "witnesses": "6 military personnel, including the pilot, co-pilot, observer, flight engineer, and radio operator.",
-    "photographs": "No photographs were present in the report."
+    "main event": "A UFO was sighted in the Pacific on April 2, 1966, by military observers.",
+    "interesting points": "The object was initially observed as a ball and then broke into two jagged pieces,The brilliant white center of the object had red and blue trailing edges,The sighting lasted approximately 10 seconds,The object appeared to fall and burn for several seconds before disappearing,No unusual meteorite activity was reported in the area at the time of the sighting.",
+    "sighted object": "One to two pieces initially seen as a ball of fire",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 6,
+    "witness description": "Military personnel including a pilot, co-pilot, and observers",
+    "contains photographs": false
 }

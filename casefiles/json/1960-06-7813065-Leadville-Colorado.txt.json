@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A Canadian visitor to the USA photographed an unidentified flying object over Leadville, Colorado on June 6, 1960.",
-    "interesting points": [
-        "The object was described as resembling a 'pulse jet or rapidly oscillating rocket' that flew very high and fast.",
-        "A second object appeared and followed the same path across the sky as the first object.",
-        "The photograph shows a double image and trails that may be reflections on the window glass through which the picture was taken.",
-        "The Air Force requested additional information from the witness, including details about the size, features, and flight path of the observed objects.",
-        "The Air Force suggested that future UFO photographs be taken without any additional information requested from the witness, in order to better understand the conditions under which the photograph was taken."
-    ],
-    "result": "unresolved",
-    "sighted object": "unidentified flying object",
-    "location": "Leadville, Colorado",
-    "witnesses": "Canadian visitor to the USA",
-    "photographs": "yes, a color slide was taken"
+    "main event": "A witness reported seeing a bright object flying high and fast, which dived and then climbed back up in Leadville, Colorado on June 4, 1960.",
+    "interesting points": "The object was described as a pale, extremely bright, almost luminous glow., The observation lasted approximately 3 seconds., The witness had tried to grab a camera but was unable to capture a photo., There were no other witnesses to the event., The sighting might have been caused by reflection from a window pane.",
+    "sighted object": "one luminous object",
+    "location": "Leadville, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "individual who reported seeing the object",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A pilot spotted a single unidentified object in the sky over Kent, Washington on August 23, 1965.",
-    "interesting points": [
-        "The object was described as having no distinct shape, about the size of a baseball, and displaying distinct red, green, and blue-green colors.",
-        "The object appeared to be moving around and spinning, though it was initially stationary until it disappeared slowly to the northeast.",
-        "The object was visible for about 30 minutes and was observed from the ground using binoculars.",
-        "Weather conditions were clear with calm winds at the time of the sighting.",
-        "No sound or trail/exhaust was reported from the object."
-    ],
-    "result": "probable meteor",
-    "sighted object": "a single unidentified object",
-    "location": "Kent, Washington",
-    "witnesses": "pilot",
-    "photographs": "no"
+    "main event": "A possible UFO sighting reported in Kent, Washington in September 1965, with a conclusion of probable meteor.",
+    "interesting points": "The sighting lasted for 20 minutes,The object was described as about the size of a baseball and had a distinct red and green color,The witness used binoculars for the observation,The object appeared in the northeast and moved in a spinning motion before disappearing,The observer was prompted to look at the object by her daughter.",
+    "sighted object": "possible meteor or unidentified flying object",
+    "location": "Kent, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. *** 59 years old housewife and assistant reporter for the Seattle Times",
+    "contains photographs": false
 }

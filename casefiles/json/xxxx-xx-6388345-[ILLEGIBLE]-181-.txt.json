@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An unidentified object was detected on radar, exhibiting high speed maneuvers beyond the capabilities of known aircraft at the time.",
-    "interesting points": [
-        "The object was detected on radar at an altitude of 25,000-30,000 feet, traveling at speeds of 220-260 mph.",
-        "The object accelerated to an estimated 1200-1500 mph, then slowed down to 800-900 mph before speeding up again.",
-        "The object was described as round, about 40-50 feet in diameter, with a 'tail' shape cut off sharply at the rear.",
-        "The radar observer attempted six interception attempts, but the object was able to outmaneuver the aircraft.",
-        "No known explanation could be provided for the sighting, and it was considered outside the realm of normal aircraft capabilities at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified round object with a tail-like shape",
-    "location": "Fukoka area, Japan",
-    "witnesses": "air force radar observer",
-    "photographs": "none"
+    "main event": "Multiple witnesses observed an unidentified object in the sky over Fukuoka, Japan on October 15, 1948, estimating it to be about 30 to 40 feet in diameter and metallic in appearance, emitting a bluish-white light.",
+    "interesting points": "Witnesses reported the object hovered at approximately 1500 feet altitude for 15 to 20 minutes, The object moved rapidly across the sky and disappeared suddenly, All witnesses stated with confidence that the object was not an airplane or helicopter, Psychological evaluations deemed the witnesses reliable, The report includes multiple radar observations and interception attempts by F-51 pilots.",
+    "sighted object": "an unidentified metallic object emitting bluish-white light",
+    "location": "Fukuoka, Kyushu, Japan",
+    "number of confirmed witnesses": 5,
+    "witness description": "Pilots and radar observers with military experience",
+    "contains photographs": false
 }

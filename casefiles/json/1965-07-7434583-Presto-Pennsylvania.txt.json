@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting occurred on July 16, 1965 in Presto, Pennsylvania.",
-    "interesting points": [
-        "The object was described as an oval, multi-colored object with a green predominant color and antenna-like wires on the side.",
-        "The object was observed at a very low altitude, between 50 to 100 feet, and moved in a straight line too slowly to be an aircraft.",
-        "The object disappeared instantaneously.",
-        "Radar data from a Pittsburgh weather report may have detected a related event around the same time.",
-        "The object was brighter than a star."
-    ],
-    "result": "The sighting was concluded to be an aircraft, with the analysis stating the data was very poor.",
-    "sighted object": "An oval, multi-colored object with antenna-like wires",
-    "location": "Presto, Pennsylvania",
-    "witnesses": "One witness",
-    "photographs": "None"
+    "main event": "An unidentified flying object was sighted on July 16, 1965, in Presto, Pennsylvania.",
+    "interesting points": "The object appeared oval and multi-colored, predominantly green, with antenna-like protrusions., It flew at a very low altitude of 50 to 100 feet and moved in a straight line too slow to be an aircraft., The sighting lasted approximately five minutes and the object disappeared instantaneously., The report concluded that data was very poor, and it was regarded as an aircraft sighting., No physical evidence or photographs were collected during this sighting.",
+    "sighted object": "oval object with multi-colors",
+    "location": "Presto, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Witnesses are not specified in the report.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A bright, elliptical object was observed moving rapidly in a northeasterly direction over Yuma, Arizona on April 8, 1959.",
-  "interesting points": [
-    "The object was observed for approximately 5 minutes before it disappeared from view.",
-    "The object was traveling at a high rate of speed, much faster than any conventional aircraft.", 
-    "The Yuma Air Force Base was notified of the sighting and an investigation was initiated, but no other reports of the sighting were received from the local area.",
-    "Based on the information provided and the lack of corroborating reports, the Yuma Air Force Base was unable to conclusively identify the object observed and the case was classified as unidentified.",
-    "The report appears to be from Project Blue Book, a historic United States Air Force program that investigated unidentified flying objects."
-  ],
-  "result": "unidentified",
-  "sighted object": "a bright, elliptical object",
-  "location": "Yuma, Arizona",
-  "witnesses": "Mr. E.R. Hamilton",
-  "photographs": "yes, the report includes photographs"
+    "main event": "A resident of Yuma, Arizona observed a bright elliptical object in the sky on the evening of April 8, 1959.",
+    "interesting points": "Mr. Hamilton observed the object for approximately 5 minutes before it disappeared from view., The object was described as bright and elliptical in shape., The object moved rapidly in a northeasterly direction., The speed of the object was noted to be much faster than any conventional aircraft., The Yuma Air Force Base was notified and an investigation was initiated, but the object could not be conclusively identified.",
+    "sighted object": "bright elliptical object",
+    "location": "Yuma, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. E.R. Hamilton, a resident of Yuma, Arizona",
+    "contains photographs": false
 }

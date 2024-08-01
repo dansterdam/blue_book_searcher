@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian observed an oval-shaped reddish glow moving rapidly on an erratic course near Alexandria, Virginia.",
-    "interesting points": [
-        "The object was observed with the naked eye, making it difficult to estimate its speed and altitude.",
-        "Checks with nearby military bases, radar, and air traffic control did not yield any additional information or reports of the object.",
-        "Commercial airline flights were reported in the area during the sighting, but the crews did not report any unusual sightings.",
-        "The sighting occurred between 2332Z and 0002Z, with clear weather and visibility over 40 miles.",
-        "The report was classified as insufficient information for evaluation."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "A civilian observed an oval-shaped reddish glow making erratic maneuvers in the sky southeast of Alexandria, Virginia on May 22, 1952.",
+    "interesting points": "The object was observed moving very rapidly with an erratic course., The sighting was made with the naked eye and lasted approximately 30 minutes., No radar or other aircraft observed the object during that time., The weather conditions were clear with visibility over 40 miles., The report classified the object as insufficient data for evaluation, leaning towards being a balloon or aircraft.",
     "sighted object": "oval-shaped reddish glow",
-    "location": "Alexandria, Virginia",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Alexandria, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian who made the observation",
+    "contains photographs": false
 }

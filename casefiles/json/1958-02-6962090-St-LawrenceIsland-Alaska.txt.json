@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Pilots of a T-33 group observer saw a bright object close to the horizon that appeared to become larger and then smaller, finally disappearing in the direction of the USSR.",
-    "interesting points": [
-        "The object was observed for almost 1/2 minute.",
-        "The object appeared to become larger and then smaller before disappearing.",
-        "The object was in the direction of the USSR.",
-        "The report indicates the reliability of the observer is questioned somewhat as to accuracy and detail.",
-        "The object did not fit the pattern of known or expected types of aircraft or missiles."
-    ],
-    "result": "Balloon",
-    "sighted object": "bright object",
-    "location": "Northeast Cape, Alaska",
-    "witnesses": "pilots of a T-33 group observer",
-    "photographs": "no"
+    "main event": "Pilots of a T-33 observed a bright object close to the horizon for about 30 seconds on February 28, 1958.",
+    "interesting points": "The object appeared to grow larger and then smaller before disappearing., The sighting directed toward the USSR., A previous report of a similar nature was noted., The reliability of the observer was somewhat questioned., Conclusions included possibilities like balloon, aircraft, or astronomical phenomena.",
+    "sighted object": "bright object near the horizon",
+    "location": "Northeast Cape, St. Lawrence Island, Alaska",
+    "number of confirmed witnesses": 2,
+    "witness description": "Pilots of a T-33 group",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The sighting of an unidentified flying object near Tacoma, Washington on April 13, 1951.",
-    "interesting points": [
-        "The object was observed by multiple witnesses, including military personnel and a civilian supervisor.",
-        "The object was described as moving at an extremely high speed, estimated to be between 600 to 800 miles per hour.",
-        "The object made several maneuvers, including turning left to the northwest, flying straight and level for about 5 minutes, then turning back to the southeast before disappearing and reappearing again.",
-        "The object left a vapor trail or stream of light that was approximately 200 to 300 yards long and silver in color.",
-        "Despite the visual and audio contacts, no positive identification of the object was possible, and the information obtained was inconclusive."
-    ],
-    "result": "unknown",
-    "sighted object": "one unidentified flying object",
-    "location": "Tacoma, Washington",
-    "witnesses": "military personnel and a civilian supervisor",
-    "photographs": "none"
+    "main event": "A sighting of an unidentified flying object took place near Tacoma, Washington on April 13, 1951.",
+    "interesting points": "The object was observed moving at an enormous speed, traveling straight up., The observation lasted for about 2 minutes., Witnesses included military personnel and a civilian supervisor., The object's heading was from southwest to northeast, then northwest., There was no positive identification of the object, and it was described as potentially being a balloon or aircraft.",
+    "sighted object": "unknown object in the sky",
+    "location": "Tacoma, Washington, USA",
+    "number of confirmed witnesses": 9,
+    "witness description": "military personnel and a civilian supervisor from Tacoma, Washington",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A United States Air Force pilot reported seeing a bright flash in the sky behind their aircraft while flying over England on March 4, 1952.",
-    "interesting points": [
-        "The pilot was flying a R-29 jet bomber at an altitude of 17,500 feet when the incident occurred.",
-        "The flash was described as extremely bright.",
-        "The incident was reported in an official Project Blue Book document.",
-        "No further details about the size, shape, or movement of the object were provided in the report.",
-        "The report indicates the sighting was considered an 'unknown' by the Air Force at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright flash in the sky",
+    "main event": "A visual observation of a single oval object reported on March 6, 1952.",
+    "interesting points": "The object was observed at an altitude of about 10,000 feet.,The angular velocity of the object was about 1 degree per second.,The sighting lasted approximately 1 minute.,No photographs were taken or available.,The incident was part of Project Blue Book, an official investigation into UFO sightings.",
+    "sighted object": "one oval object in the sky",
     "location": "England",
-    "witnesses": "R-29 jet bomber pilot",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "CPL from the 57th DV",
+    "contains photographs": false
 }

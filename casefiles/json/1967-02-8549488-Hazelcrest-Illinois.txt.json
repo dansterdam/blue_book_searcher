@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Geophysical radar tracking alleged UFOs for several hours in Hazelcrest, Illinois.",
-    "interesting points": [
-        "The report mentions very good descriptions of the alleged UFOs were noted.",
-        "The investigation indicates the sightings were likely a meteor event or a satellite.",
-        "The report describes a series of lights seen over several months, which were determined to be misidentifications of planets, stars, and airplanes.",
-        "The witness had been communicating with a Ouija board and claimed to receive messages telling her to look for UFOs.",
-        "The investigator concluded the sightings were a series of ordinary misidentifications, except perhaps the initial sighting of a metallic oval object."
-    ],
-    "result": "Likely a meteor event or satellite, with other sightings determined to be misidentifications of planets, stars, and airplanes.",
-    "sighted object": "Alleged UFOs detected on radar, as well as various lights and objects in the sky",
-    "location": "Hazelcrest, Illinois",
-    "witnesses": "Multiple witnesses, including Mrs. Yvonne Gattuso and her family",
-    "photographs": "None present in the report"
+    "main event": "An investigation into UFO sightings reported by Mrs. Yvonne Gattuso in Hazelcrest, Illinois on April 9, 1967.",
+    "interesting points": "Mrs. Gattuso observed UFOs for several months leading to the investigation,Some sightings included known planets and stars which were mistaken for UFOs,The only potentially unconventional object was an oval metallic one observed in August 1966,The investigation suggested several other sightings were misidentified as jets or atmospheric phenomena,The witnesses displayed a lack of understanding regarding basic astronomy which contributed to the confusion.",
+    "sighted object": "unidentified flying objects, possibly including Venus and a metallic object",
+    "location": "Hazelcrest, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mrs. Yvonne Gattuso, her sister-in-law, and her husband",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian aircraft flying over Memphis, Tennessee reported sighting an unidentified object.",
-    "interesting points": [
-        "The object was observed by the crew of American Airlines flight 243.",
-        "The object was reported to be of unknown type, size, and speed.",
-        "The object was observed visually from the aircraft.",
-        "The object's course was reported as northeast.",
-        "The sighting occurred at 23:17 on an unspecified date."
-    ],
-    "result": "probably aircraft",
-    "sighted object": "unidentified object",
-    "location": "Over Memphis, Tennessee",
-    "witnesses": "Civilian crew of American Airlines flight 243",
-    "photographs": "no"
+    "main event": "A civilian observed an unidentified object that resembled an aircraft over Memphis, Tennessee on November 2, 1954.",
+    "interesting points": "The object was visually observed from a DCG at an altitude of 14,000 feet., The object's course was northeast., The observation type was classified as air visual., There were no photographs included in the report., The conclusion suggested that it was probably an aircraft.",
+    "sighted object": "unidentified object resembling an aircraft",
+    "location": "Memphis, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

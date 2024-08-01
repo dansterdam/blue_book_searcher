@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "The observer sighted a bright light that seemed to be moving rapidly and disappearing/reappearing in Greenfield, Iowa on 3/12/68 at around 7:20 PM.",
-    "interesting points": [
-        "The light appeared to be brighter than the planet Venus.",
-        "The object was observed for only about 10 seconds and was described as being the size of a small source, such as a red light.",
-        "The observer stated that the light would simply disappear and then reappear.",
-        "The observer knew enough about astronomy to know that not everything in the sky can be easily explained.",
-        "The observer felt the brightness of the light was similar to an airplane's tail light."
-    ],
-    "result": "Probable aircraft",
-    "sighted object": "A bright light, possibly an aircraft",
-    "location": "Greenfield, Iowa",
-    "witnesses": "1 observer",
-    "photographs": "None"
+    "main event": "A bright light, brighter than Venus, was observed in Greenfield, Iowa on September 16, 1968.",
+    "interesting points": "The light appeared to move rapidly and could disappear and reappear in the same spot., The sighting lasted approximately 10 seconds., The object was estimated to be the size of a small light source., The conclusion leaning towards it being an aircraft., The observer reported seeing no sound from the object.",
+    "sighted object": "a bright light",
+    "location": "Greenfield, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was knowledgeable about astronomy and recognized the light as unusual compared to nearby stars.",
+    "contains photographs": false
 }

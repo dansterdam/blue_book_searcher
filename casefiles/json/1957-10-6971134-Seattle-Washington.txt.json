@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "Two round white objects the size of a dime at arm's length were observed flying away to the southwest and then braking away to the southeast.",
-  "interesting points": [
-    "The objects were flying in a short crossing course and making frequent banking and disappearing movements.",
-    "The objects appeared below and to the rear of a commercial aircraft moving from northwest to southeast.",
-    "The observers were a Master Sergeant and a Sergeant First Class, both of whom were considered reliable.",
-    "Weather conditions were clear with good visibility at the time of the sighting.",
-    "The sighting lasted for approximately 25-30 seconds."
-  ],
-  "result": "unidentified",
-  "sighted object": "two round white objects",
-  "location": "Seattle, Washington",
-  "witnesses": "Master Sergeant and Sergeant First Class",
-  "photographs": "no"
+    "main event": "Two round white objects were sighted flying away from an aircraft in Seattle on October 8, 1957.",
+    "interesting points": "The objects were the size of a dime at arm's length., They were observed flying in a short crossing course and then braking away to the southeast., The sighting lasted approximately 25 to 30 seconds., The objects appeared below and to the rear of an airliner moving from northwest to southeast., The observer was deemed reliable and visibility was excellent at the time of the sighting.",
+    "sighted object": "two round white objects",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "reliable military personnel involved in air defense",
+    "contains photographs": false
 }

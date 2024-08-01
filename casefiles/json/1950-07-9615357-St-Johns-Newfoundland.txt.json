@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "An unidentifiable object was sighted travelling in a westerly direction over the vicinity of St. John's, Newfoundland on July 31, 1950.",
-    "interesting points": [
-        "The object appeared as a bright greenish light under the overcast and seemed to break into two distinct pieces, each becoming a dull colored light before disappearing.",
-        "Witnesses described the object as a small, round, very bright light that made no reflection on the clouds and moved in a straight line at a very fast speed.",
-        "The object was observed for about 10 seconds before breaking apart.",
-        "Another witness reported seeing an object that appeared to be a comet going from east to west, which then split into two portions and disintegrated in mid-air.",
-        "Witnesses at Pepperrell Air Force Base saw a flame-like object traveling northwest at an estimated altitude of 5,000-6,000 feet, which seemed to renew itself as though a fresh charge had been set off."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified bright greenish light that broke apart",
-    "location": "St. John's, Newfoundland",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "An unidentifiable object was sighted travelling in a westerly direction over St John's, Newfoundland on 31 July 1950.",
+    "interesting points": "The object was seen as a bright greenish light under the overcast sky., It appeared to break into two distinct pieces which then became dull colored lights and disappeared., The sighting lasted for about 10 seconds., The object moved very quickly and in a straight line without making any sound., Multiple military personnel from Pepperrell Air Force Base observed the same event.",
+    "sighted object": "a bright greenish light",
+    "location": "St John's, Newfoundland, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel from Pepperrell Air Force Base and an auditor general from the USAF.",
+    "contains photographs": false
 }

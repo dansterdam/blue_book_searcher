@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-  "main event": "Radar sighting of a large green or yellow para-glowing object with erratic motions, indicating a speed of 30-40 mph. The object was lost in radar ground clutter.",
-  "interesting points": [
-    "The object was described as a large green or yellow para-glowing object.",
-    "The object's motions were erratic, indicating a speed of 30-40 mph.",
-    "The object was lost with radar ground clutter, and there were no visual observations.",
-    "The sighting lasted for 15 minutes.",
-    "The report mentions other cases of flashes or luminous objects moving through the sky at night and disappearing."
-  ],
-  "result": "unexplained",
-  "sighted object": "large green or yellow para-glowing object",
-  "location": "Pendleton, Oregon",
-  "witnesses": "radar station",
-  "photographs": "none"
+    "main event": "A radar sighting of a large para-glowing object was reported near Pendleton, Oregon on 9/8/60.",
+    "interesting points": "The object was characterized as green or yellow and was observed moving at a speed of 30-40 mph., The object was lost due to radar ground clutter after approximately 15 minutes., The sighting was only recorded via radar, with no visual observations made., The incident was part of the documented investigations of Project Blue Book., Further reports indicate similar sightings of luminous objects in the sky.",
+    "sighted object": "large green or yellow para-glowing object",
+    "location": "Pendleton, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Staff Sgt. Robert J. Prater",
+    "contains photographs": false
 }

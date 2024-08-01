@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver object with three other objects hanging from it was observed stationary and high in the sky over Hermosa Beach, California on August 29, 1955.",
-    "interesting points": [
-        "The object was described as a 'lighted experimental balloon'.",
-        "The observation lasted for 6-8 minutes.",
-        "The observer used binoculars to view the object.",
-        "The sighting occurred at dusk on August 29, 1955 at around 8:32 PM.",
-        "One of the three objects hanging from the main object appeared orange in color."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a silver object with three other objects hanging from it",
-    "location": "Hermosa Beach, California",
-    "witnesses": "civilian observer",
-    "photographs": "no photographs included in the report"
+    "main event": "An unidentified object sighting was recorded in Hermosa Beach, California, on August 29, 1955, described as a lighted experimental balloon.",
+    "interesting points": "The sighting lasted for 5 to 8 minutes., The object was silver and had 3 other objects hanging from it., The observation was stationary., The sighting was conducted using Ground-Radar and Air-Visual type observations., The conclusion stated there was insufficient data for evaluation.",
+    "sighted object": "lighted experimental balloon with three other objects hanging from it",
+    "location": "Hermosa Beach, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

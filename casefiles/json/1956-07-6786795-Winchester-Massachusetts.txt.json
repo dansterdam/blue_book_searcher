@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was sighted in Winchester, Massachusetts on July 2, 1956.",
-    "interesting points": [
-        "The object was yellow-white in color and its shape was not discernible.",
-        "The object was moving in a very light circle when first observed.",
-        "After completing four 90-degree turns, the object proceeded in a NNW direction.",
-        "The speed of the object when on a straight course was estimated at 700 mph.",
-        "The report mentions a similar sighting in Conway, Massachusetts on the same day, where the object was able to reverse its course completely and had a low-pitched hum."
-    ],
-    "result": "inconclusive",
-    "sighted object": "one unidentified yellow-white object",
-    "location": "Winchester, Massachusetts",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A sighting of an unidentified object occurred in Winchester, Massachusetts on July 2, 1956.",
+    "interesting points": "The observed object was moving in a very light circle before changing direction,The object completed four 90 degree turns during the observation,Its speed was estimated at 700 MPH on a straight course,The color of the object was described as yellow-white,The object's shape was not discernible and its size was impossible to estimate.",
+    "sighted object": "one unidentified object",
+    "location": "Winchester, Massachusetts, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

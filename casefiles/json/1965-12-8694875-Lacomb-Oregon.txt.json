@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A civilian observed three glowing orb-like objects in the sky near Lacomb, Oregon on December 20, 1955.",
-    "interesting points": [
-        "The objects glowed with an amber color, sometimes changing to white, and appeared to be about the size of a basketball even at a distance of 13 miles.",
-        "The objects flew in a formation, but would sometimes split up with one staying stationary while the other moved at high speed.",
-        "The witness observed the objects for at least 15 minutes, and they did not disappear by the time the observation was reported.",
-        "The witness used binoculars to observe the objects, which were located east-northeast of their location at an inclination of about 15 degrees.",
-        "The Air Force concluded that the objects were likely jets that were in the vicinity at the same time, based on the description of their movements."
-    ],
-    "result": "identified",
-    "sighted object": "three glowing orb-like objects",
-    "location": "Lacomb, Oregon",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "Three unidentified flying objects were observed in Lacomb, Oregon on December 20, 1955, for approximately 15 minutes.",
+    "interesting points": "The objects were described as round or oval, about the size of a basketball,Glowed with amber colors reminiscent of coals in a fire,They seemed to move back and forth in formation but one was sometimes stationary while others moved at high speeds,No sound was reported from the objects,Weather conditions were bright and clear during the sighting.",
+    "sighted object": "three round or oval glowing objects in the sky",
+    "location": "Lacomb, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer was a Chevrolet dealer from Lebanon, Oregon",
+    "contains photographs": false
 }

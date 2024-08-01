@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Crew of a British merchant ship spotted a large bright light and a bright light in the sky southeast of Iceland on April 9, 1963.",
-    "interesting points": [
-        "The first object appeared suddenly, moved rapidly, and then disappeared. It was observed for about 3 minutes.",
-        "The second object appeared suddenly, hovered for about 1 minute, and then disappeared rapidly. It was observed for about 2 minutes.",
-        "Both objects were described as much brighter than the stars.",
-        "The sightings occurred at different times (1856Z and 2018Z) on the same day.",
-        "The objects were spotted southeast of Iceland, in the same general location."
-    ],
-    "result": "unexplained",
-    "sighted object": "large bright light and a bright light",
-    "location": "SE of Iceland",
-    "witnesses": "crew of a British merchant ship",
-    "photographs": "no"
+    "main event": "On April 8, 1963, a UFO was detected near Iceland, visible on radar and described as a bright object.",
+    "interesting points": "The object was observed for a duration of 1-2 minutes,The radar could not lock onto the target, indicating it was difficult to track,The object disappeared at a 15-degree elevation, possibly due to moonlight interference,There were multiple sightings in the vicinity, including from the crew of a British merchant ship,The object was described as a large bright light, much brighter than stars.",
+    "sighted object": "a bright light in the sky",
+    "location": "62-26N 10-24W, Iceland",
+    "number of confirmed witnesses": 2,
+    "witness description": "crew of a British merchant ship",
+    "contains photographs": false
 }

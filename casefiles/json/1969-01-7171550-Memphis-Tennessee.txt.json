@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a yellow and blue bright oblong object in the sky near Memphis, Tennessee in 1969.",
-    "interesting points": [
-        "The object changed course and went out of the witness's field of vision.",
-        "The object gradually descended and disappeared from view.",
-        "The witness estimated the object was approximately 1 mile away.",
-        "The witness and their son were both impressed by the unusual size and movement of the object.",
-        "The report mentions that there was conflicting data about the length of the observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "yellow and blue bright oblong object",
-    "location": "Memphis, Tennessee",
-    "witnesses": "witness and their son",
-    "photographs": "no"
+    "main event": "A witness reported seeing a bright yellow and blue oblong object in Memphis, Tennessee on January 5 or 8, 1969.",
+    "interesting points": "The object was seen for a length of 1-2 minutes and appeared to be approximately 1 mile away., The object changed course and gradually descended out of the field of vision., The witnessing occurred in an urban setting., The phenomenon was described as self-luminous and resembling the size and appearance of a full moon., No photographs or physical evidence were collected to document the sighting.",
+    "sighted object": "a yellow and blue oblong object",
+    "location": "Memphis, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported that they were not with anyone else at the time of the sighting.",
+    "contains photographs": false
 }

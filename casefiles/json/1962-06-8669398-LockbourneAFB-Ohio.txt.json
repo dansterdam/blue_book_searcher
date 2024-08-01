@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two Air Force officers observed an unidentified, rapidly moving, bright white, elliptical object at Lockbourne AFB, Ohio on June 6, 1962.",
-    "interesting points": [
-        "The object was traveling at an extremely high rate of speed.",
-        "The object appeared to accelerate as it traveled out of sight.",
-        "The object moved in a straight path at a constant altitude.",
-        "Another officer reported seeing a UFO earlier that same day, describing it as a crescent-shaped object with racing stripes that moved close to the ground at a rapid speed.",
-        "The officers stated they had never seen anything like the object before and could not explain what they had observed."
-    ],
-    "result": "inconclusive",
-    "sighted object": "bright white, elliptical object",
-    "location": "Lockbourne AFB, Ohio",
-    "witnesses": "Air Force officers",
-    "photographs": "none"
+    "main event": "Unidentified flying object sighted at Lockbourne AFB, Ohio on June 6, 1962.",
+    "interesting points": "Lt. Rudolph J. Langenus reported observing a UFO traveling at a high rate of speed from northeast to southwest., The object had a steady light and appeared the size of a star, seen for approximately 20-30 seconds., Capt. Anderson and Capt. Ivey observed an elliptical-shaped bright white object moving at an extremely high speed for about 20 seconds., The shape of the first object was crescent with hazy light in the center and illuminated with 'racing stripes.', The object was estimated to be 15-20 feet in diameter and moved closely to the ground at 30-40 M.P.H.",
+    "sighted object": "circular, crescent-shaped and elliptical objects",
+    "location": "Lockbourne AFB, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Lt. Rudolph J. Langenus, Capt. Anderson, Capt. Ivey",
+    "contains photographs": false
 }

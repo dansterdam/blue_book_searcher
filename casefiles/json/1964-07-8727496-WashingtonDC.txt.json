@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported and investigated as part of Project Blue Book.",
-    "interesting points": [
-        "The sighting was observed for 7 minutes.",
-        "The object was described as a single object, moving at an estimated high speed.",
-        "No physical evidence was obtained.",
-        "The sighting occurred at night, with the observer noting the sky conditions and presence of stars and moon.",
-        "The observer provided details on the appearance and behavior of the object, including whether it changed brightness, shape, or moved in a zig-zag pattern."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified object in the sky",
-    "location": "Undisclosed location",
-    "witnesses": "one civilian observer",
-    "photographs": "none"
+    "main event": "A single unidentified object was observed for approximately 7 minutes on July 19, 1964.",
+    "interesting points": "The sighting was reported by a civilian observant,The object was estimated to be moving at a high speed,Details regarding the object's color and sound were supposed to be included in the report,The questionnaire features several questions to collect detailed sighting information,The report contains instructions for drawing the object's path and position in the sky.",
+    "sighted object": "one unidentified flying object",
+    "location": "Washington D.C., [not specified], USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was a civilian.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright red light was observed moving, hovering, and then disappearing over Millsap, Texas on May 8, 1962.",
-    "interesting points": [
-        "The object appeared to be a small, bright red light that moved straight across the sky for about 1/2 mile, then stopped and hovered for about 1/2 minute before going straight up and disappearing.",
-        "The witness reported that the object was visible for about 3 minutes.",
-        "The witness thought the object might have been a 'Xray-15' at first.",
-        "This was not the first time the witness had seen similar objects.",
-        "There was another sighting of a flat, elliptical, metallic-looking object with a row of lights around the edge on May 11, 1962 in the same area."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright red light",
-    "location": "Millsap, Texas",
-    "witnesses": "a single witness",
-    "photographs": "no"
+    "main event": "Witness observed a bright red light in the sky that hovered, then moved straight across for about half a mile before going straight up and disappearing on May 8, 1962.",
+    "interesting points": "The sighting lasted for about 3 minutes with a single small object observed,The object was concluded to be a balloon,The witness initially thought the object was an Xray-15,The object changed its course from hovering to moving straight, and then disappeared,The witness was alone in their car at the time of the sighting.",
+    "sighted object": "bright red light",
+    "location": "Millsap, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Male, age 45, alone in car at the time of the sighting.",
+    "contains photographs": false
 }

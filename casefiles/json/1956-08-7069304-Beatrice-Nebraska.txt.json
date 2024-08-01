@@ -1,15 +1,9 @@
 {
-	"main event": "On August 13, 1956, in Beatrice, Nebraska, an unidentified object was observed for 20 minutes, appearing as a 15 to 20 foot diameter object moving at high speeds, stopping for 2 seconds, then heading off to the southeast.",
-	"interesting points": [
-		"The observation was made by AFS 5 HAXRA AFP6, indicating potential military or trained observers.",
-		"The object was described as having a 15 to 20 foot diameter, moving at a speed too fast to follow with the eyes.",
-		"The object stopped for 2 seconds before heading off to the southeast, displaying unusual flight characteristics.",
-		"The conclusion of the report listed possibilities including balloon, aircraft, and astronomical, leaving the sighting unexplained.",
-		"No photographs were included in the report, suggesting a lack of visual evidence despite credible witnesses."
-	],
-	"result": "unexplained",
-	"sighted object": "unidentified object with a 15 to 20 foot diameter",
-	"location": "Beatrice, NE",
-	"witnesses": "Potentially credible observers from AFS 5 HAXRA AFP6",
-	"photographs": "no"
+    "main event": "An unidentified object was observed in Beatrice, Nebraska on 13 August 1956.",
+    "interesting points": "The observation lasted for 20 minutes,The object was detected via ground control and radar,The object appeared to be 15 to 20 feet in diameter,The object moved to the east at a speed too fast to follow with the eyes,The conclusions suggested it could possibly be a balloon, aircraft, or astronomical phenomenon.",
+    "sighted object": "one unidentified object",
+    "location": "Beatrice, Nebraska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Details of an observed object reported through radar and visual observation.",
+    "contains photographs": false
 }

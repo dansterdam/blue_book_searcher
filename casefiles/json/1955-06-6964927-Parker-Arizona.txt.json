@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar tracked three unidentified objects over Parker, Arizona in 1955.",
-    "interesting points": [
-        "The objects were observed on ground radar for approximately 15 minutes, moving northeast and then east at a high rate of speed.",
-        "The objects were described as yellow, white, and red in color.",
-        "The personnel observing the objects could not positively identify them and stated they were of an unknown nature.",
-        "A later sighting by a resident near Parker described a circular, brightly lighted object about 25-30 feet in diameter that emitted a bluish-white light and illuminated the surrounding desert area.",
-        "Investigations failed to reveal any conclusive evidence about the nature or origin of the unidentified aerial objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "three unidentified objects tracked on radar, and a circular, brightly lighted object",
-    "location": "Parker, Arizona",
-    "witnesses": "military personnel, civilian resident",
-    "photographs": "no"
+    "main event": "On June 6, 1955, multiple sightings of unidentified objects occurred in Parker, Arizona, involving ground radar and visual observations.",
+    "interesting points": "Three objects observed on ground radar for 15 minutes moving northeast and then east,The objects were described as yellow, white, and red,The objects appeared to travel at high speeds,The report includes an observation of a circular, brightly lighted object approximately 25-30 feet in diameter,Investigation conducted by military personnel revealed no conclusive evidence.",
+    "sighted object": "Three unidentified objects on radar and a circular, brightly lighted object in the sky",
+    "location": "Parker, Arizona, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "The sightings involved various witnesses including Mr. Wallace A. Watts and Mr. John Doe, who were accompanied by family members.",
+    "contains photographs": false
 }

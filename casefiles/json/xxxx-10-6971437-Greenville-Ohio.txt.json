@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A witness reported seeing bright flashes of light that suddenly disappeared after about 3 minutes, located 15 miles north of Greenville, Ohio on October 28, 1957.",
-    "interesting points": [
-        "The witness initially thought the object could be an airplane flying low and slow or high and fast, but dismissed this idea due to the unfavorable weather conditions at the time.",
-        "The witness described the flashes as being bright, occurring about once per second, and moving steadily to the south.",
-        "The witness was unable to get a clear view of the object itself, and could only see the bright flashes.",
-        "The witness initially thought the object could be a weather balloon, but was unsure and requested confirmation from the authorities.",
-        "The report states that no UFO reports were received from the Vandalia area on October 28, 1957."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "bright flashes of light",
-    "location": "15 miles north of Greenville, Ohio",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "A second-hand report of an unusual sighting near Greenville, Ohio on October 28, 1957, involving bright flashes in the sky.",
+    "interesting points": "The observer described bright flashes that appeared around once every second., The sighting occurred on a rainy, cloudy evening., The observer initially thought the flashes might be from an airplane but later doubted this conclusion., The sighting lasted for approximately three minutes., A 16mm film was sent by the observer but was not retrieved for analysis.",
+    "sighted object": "bright flashes in the sky",
+    "location": "Greenville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer's chemistry colleague who used binoculars to observe the flashes",
+    "contains photographs": false
 }

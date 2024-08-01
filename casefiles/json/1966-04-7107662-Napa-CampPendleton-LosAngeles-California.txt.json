@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "Multiple military and civilian witnesses observed an unidentified fluorescent green object in the sky over Camp Pendleton, California on April 21, 1966.",
-    "interesting points": [
-        "The object was described as having a large, roundish shape with two trailing edges, and appeared to be spinning in a circular motion.",
-        "The object remained in one position for a period of time before changing shape to a 'tear drop' form.",
-        "The sighting was reported to the Provost Marshal's Office, and several members of the military police duty section observed the object.",
-        "No photographs were taken, but the incident was reported through official channels to the Naval Investigative Service Office and the Air Force.",
-        "The object was tracked visually for approximately 5-10 minutes before disappearing as daylight approached."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, pale green, fluorescent object",
-    "location": "Camp Pendleton, California",
-    "witnesses": "military personnel and civilians",
-    "photographs": "no"
+    "main event": "A fluorescent green object was observed over Lake O'Neill, Camp Pendleton, California on April 21, 1966.",
+    "interesting points": "The object was described as large, pale green, and fluorescent with two trailing edges,It changed shape from roundish to a teardrop shape during the observation,The object was observed by multiple witnesses from the Military Police Company,The sighting lasted from approximately 0420 to around 0510 hours, leading to the object's disappearance with incoming daylight,No photographs were taken of the sighting.",
+    "sighted object": "fluorescent green object",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "members of the Military Police Company",
+    "contains photographs": false
 }

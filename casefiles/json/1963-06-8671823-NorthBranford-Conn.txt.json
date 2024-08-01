@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light was observed performing erratic motions in the sky over North Branford, Connecticut on June 23, 1963.",
-    "interesting points": [
-        "The object changed brightness and disappeared behind clouds, but was observed to have a circular shape.",
-        "The object's motion included reversing direction, but it maintained the same altitude.",
-        "The witness estimated the object's speed to be around 5,000 mph.",
-        "The witness was a 15-year-old male who reported the sighting to the Air Force on April 10, 1963.",
-        "No sound was heard from the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light",
-    "location": "North Branford, Connecticut",
-    "witnesses": "1 witness, a 15-year-old male",
-    "photographs": "no"
+    "main event": "A bright white light with erratic motion was observed in North Branford, Connecticut, on June 23, 1963.",
+    "interesting points": "The object changed brightness and direction, including reversing its motion., Witness estimated the object's speed to be around 5,000 mph., The object had no visible trail and disappeared behind clouds., A witness described the object as a light round or oyster-shaped object about 12-15 feet in diameter., The sighting lasted approximately 3 minutes.",
+    "sighted object": "bright white light",
+    "location": "North Branford, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "L. Egee, age 15, male",
+    "contains photographs": false
 }

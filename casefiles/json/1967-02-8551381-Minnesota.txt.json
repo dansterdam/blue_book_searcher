@@ -1,15 +1,9 @@
 {
-    "main event": "Several citizens of Stillwater, Minnesota observed a large white light or object hovering in the sky on February 6, 1967.",
-    "interesting points": [
-        "The object appeared to be giving off a bright white light.",
-        "The object remained in the sky for several minutes before suddenly disappearing.",
-        "The sighting was reported by multiple witnesses in Stillwater, Minnesota.",
-        "The object was described as hovering at a high altitude.",
-        "The report states that this case is not considered an unusual sighting."
-    ],
-    "result": "unexplained",
+    "main event": "Several citizens observed a large white light or object in the sky over Stillwater, Minnesota on 6 February 1967.",
+    "interesting points": "The object was reported to be hovering at a high altitude.,It emitted a bright white light.,The sighting lasted for several minutes.,Multiple citizens reported seeing the same object.,The object suddenly disappeared from sight.",
     "sighted object": "a large white light or object",
-    "location": "Stillwater, Minnesota",
-    "witnesses": "several citizens of Stillwater, Minnesota",
-    "photographs": "no"
+    "location": "Stillwater, Minnesota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "several citizens",
+    "contains photographs": false
 }

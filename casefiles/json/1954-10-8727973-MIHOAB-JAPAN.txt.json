@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting occurred in Mitio AB, Japan on 9th August 1954, involving a brilliant white object observed for 8 seconds moving laterally at 14,000 feet before disappearing behind a cloud layer. The report concludes that the sighting remains unidentified.",
-  "interesting points": [
-    "The UFO was observed by Japanese military personnel and had a metallic appearance.",
-    "The object changed direction and speed several times during its observation.",
-    "It disappeared from view to the south and reappeared several minutes later, then proceeded to increase speed and altitude before disappearing from view.",
-    "Witnesses described the object as a round spot of intense white light about four times the diameter of the Big Dipper star group.",
-    "The witness was contacted and informed that the object he had seen could be explained as a normal natural phenomenon, and the case was closed with the conclusion of other normal explanation."
-  ],
-  "result": "unexplained",
-  "sighted object": "brilliant white object moving laterally at 14,000 feet",
-  "location": "Mitio AB, Japan",
-  "witnesses": "Japanese military personnel",
-  "photographs": "No"
+    "main event": "Japanese military personnel observed a brilliant white object for 8 seconds at Mitio AB, Japan, on 9 August 1954.",
+    "interesting points": "The object was described as moving laterally at 14,000 feet before disappearing behind a cloud layer., A conclusion of the report indicated the sighting remains unidentified., The object was reported by personnel of the 2D Infantry Battalion, Japanese Maritime Self-Defense Force., The object showed a metallic appearance and changed direction and speed several times during its observation., A witness described seeing a black shadow on the trailing edge of the visible white light.",
+    "sighted object": "a brilliant white object",
+    "location": "Mitio AB, Japan",
+    "number of confirmed witnesses": 1,
+    "witness description": "Japanese military personnel",
+    "contains photographs": false
 }

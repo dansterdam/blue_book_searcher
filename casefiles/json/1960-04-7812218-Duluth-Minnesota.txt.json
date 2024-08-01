@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, pea-shaped yellow light was observed ascending at a very high rate of speed over Duluth, Minnesota on April 25, 1960.",
-    "interesting points": [
-        "The object was observed for 3-4 to 4 minutes by military personnel at the Duluth Air Defense Sector.",
-        "The object zigzagged and circled before fading and ascending straight up.",
-        "Weather conditions at the time of the sighting are not provided.",
-        "No photographs of the object were taken.",
-        "The report was forwarded to NORAD (North American Aerospace Defense Command)."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, pea-shaped yellow light",
-    "location": "Duluth, Minnesota",
-    "witnesses": "military personnel at the Duluth Air Defense Sector",
-    "photographs": "no"
+    "main event": "A yellow balloon was observed ascending in Duluth, Minnesota on April 27, 1960.",
+    "interesting points": "The object was reported to have a round shape and was pea-shaped in appearance., The balloon emitted a round dim yellow light., The observation lasted between 3 to 4 minutes., The witness observed the object from a local air station or weather station., There were no photographs, physical evidence, or unusual activity in the area during the sighting.",
+    "sighted object": "one yellow balloon",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observed from a local air station or weather station",
+    "contains photographs": false
 }

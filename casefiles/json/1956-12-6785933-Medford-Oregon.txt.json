@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO-like object was sighted in Medford, Oregon on December 6, 1956, described as a round white object with a streamer traveling north for about five seconds. The report concludes that the sighting was likely caused by a meteor, based on the description, duration, and flight path of the object.",
-  "interesting points": [
-    "The sighting lasted only five seconds, indicating a brief but impactful observation.",
-    "The object was described as a round white object with a streamer, suggesting unique characteristics.",
-    "The report mentions that the flight path of the object was along the horizon, adding to the mystery of the observation.",
-    "The sighting was made by a civilian observer, lending credibility to the report.",
-    "The weather conditions at the time of the sighting included a broken ceiling at 15,000 ft and unlimited visibility, providing clear atmospheric details."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "round white object with streamer",
-  "location": "Medford, Oregon",
-  "witnesses": "civilian observer",
-  "photographs": "no"
+    "main event": "A civilian observed one round white object with a streamer flying high in the sky in Medford, Oregon on December 6, 1956.",
+    "interesting points": "The object was observed for about five seconds,The object was traveling north at a high altitude,The report concluded that the sighting was likely caused by a meteor,Pilot observation was noted from a flight at 15,000 feet,The report was part of the Project Blue Book UFO investigation.",
+    "sighted object": "one round white object with streamer",
+    "location": "Medford, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

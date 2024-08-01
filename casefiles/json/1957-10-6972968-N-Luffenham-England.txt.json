@@ -1,15 +1,9 @@
 {
-    "main event": "A balloon-like object with pulsating lights was observed by air military personnel in N. Luffenham, England on October 21, 1957.",
-    "interesting points": [
-        "The object exhibited erratic behavior, making sharp and sudden changes in direction.",
-        "The object was tracked on radar by the military.",
-        "No physical evidence was found.",
-        "There have been eight other similar sightings in the same area around the same time.",
-        "The FBI is investigating the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a balloon-like object with pulsating lights",
+    "main event": "There was a visual observation of a balloon-like object with pulsating lights by air military personnel.",
+    "interesting points": "The object exhibited erratic behavior with sharp and sudden changes in direction,The object was tracked on radar,The observation lasted 8-10 minutes,The object was described as dark with six flashing lights,Other passing vehicles also noticed the object.",
+    "sighted object": "balloon-like object with pulsating lights",
     "location": "N. Luffenham, England",
-    "witnesses": "air military personnel",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "air military personnel",
+    "contains photographs": false
 }

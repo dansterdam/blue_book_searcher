@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A 15-year-old youth and his 34-year-old father observed a yellow, orange, and blue-green glowing object in the sky over Des Moines, Iowa for over 15 minutes on August 5, 1965.",
-    "interesting points": [
-        "The object was initially noticed due to its glowing feature.",
-        "The object's altitude was estimated to be between 15,000 and 20,000 feet initially, and around 8,000 feet at the time of its disappearance.",
-        "The object's course was slightly erratic, and it moved at a fast rate of speed before disappearing instantaneously.",
-        "The object was observed with both the naked eye and binoculars.",
-        "Weather conditions at the time included one visible star, scattered clouds, and varying wind speeds and directions at different altitudes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a yellow, orange, and blue-green glowing object in the sky",
-    "location": "Des Moines, Iowa",
-    "witnesses": "a 15-year-old youth and his 34-year-old father",
-    "photographs": "no"
+    "main event": "A civilian witnessed a UFO described as a yellow light changing to orange and then blue-green in Des Moines, Iowa on August 5, 1965.",
+    "interesting points": "The sighting lasted for over 15 minutes,The object was first noticed glowing but this feature wasn't evident upon closer observation with binoculars,The object had no tail, trail, or exhaust and made no sound,Initial altitude was estimated between 15,000 and 20,000 feet and ended at 8,000 feet,The UFO's course was slightly erratic and it disappeared instantaneously.",
+    "sighted object": "yellow light changing to orange and then blue-green",
+    "location": "Des Moines, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 15-year-old civilian and his father (age 34)",
+    "contains photographs": false
 }

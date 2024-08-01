@@ -1,9 +1,9 @@
 {
-    "main event": "The report appears to be in a foreign language, possibly Hebrew or Arabic, and does not contain any information about a UFO sighting.",
-    "interesting points": [],
-    "result": "unable to summarize due to lack of information",
-    "sighted object": "none",
+    "main event": "The report contains text related to a UFO sighting, but the essential details are unclear due to the language.",
+    "interesting points": "The text possibly indicates a report from a region that speaks Hebrew or Arabic., The image itself is a blank page except for the text at the top., There are no photographs present in the document., The lack of context makes it difficult to ascertain exact details of the sighting., The OCR output is limited and does not provide additional information.",
+    "sighted object": "unknown",
     "location": "unknown",
-    "witnesses": "none",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

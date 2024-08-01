@@ -1,15 +1,9 @@
 {
-    "main event": "Four unidentified objects were sighted by a civilian observer and an amateur astronomer in Fitchburg, Massachusetts on January 16, 1961.",
-    "interesting points": [
-        "The main object appeared as large as a dime held at arm's length, with three smaller objects accompanying it.",
-        "The objects maneuvered in approximately a four-foot square from where the observation took place.",
-        "The larger object would hover with the three smaller objects darting in and out of it, before the larger object shot off at a high rate of speed.",
-        "The objects were under constant observation for over 2 hours, and were also detected by radar.",
-        "The report notes the objects' unusual flight patterns, including looping, zigzagging, and hovering."
-    ],
-    "result": "unexplained",
+    "main event": "Four objects were observed in Fitchburg, Massachusetts, on January 16, 1961, during a ground-radar observation where they appeared and disappeared in an irregular pattern.",
+    "interesting points": "The sighting lasted less than 2 minutes and involved radar readings and observations by a total of 2 RAD-50 High Altitude Maneuvers,The objects were under observation by an amateur astronomer and his son,The larger object appeared as large as a dime held at arm's length,The objects maneuvered in a four-foot square area,The larger object shot off at high speed while the smaller objects remained visible for several minutes after.",
     "sighted object": "four unidentified flying objects",
-    "location": "Fitchburg, Massachusetts",
-    "witnesses": "a civilian observer and an amateur astronomer",
-    "photographs": "none"
+    "location": "Fitchburg, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "an amateur astronomer and his son",
+    "contains photographs": false
 }

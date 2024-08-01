@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO document:
-
 {
-    "main event": "Lt. Col. H. Gordon Alley of the 1st Weather Squadron at Walker AFB, New Mexico reported seeing a bright light moving erratically in the sky on June 4, 1954.",
-    "interesting points": [
-        "The object could not be identified by the observer.",
-        "The report was filed as part of Project Blue Book, the U.S. Air Force's official investigation of UFO sightings.",
-        "The report indicates that four F-94 aircraft from the 1st Fighter-Interceptor Squadron were also flying in the area at the time, but the observer evaluated the sighting as an unidentified object, not the aircraft.",
-        "The report provides details about the weather conditions at the time of the sighting, including visibility of 48 miles and high winds aloft.",
-        "The report was classified as 'UNIDENTIFIED' by the observer."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright light moving erratically in the sky",
-    "location": "Walker AFB, New Mexico",
-    "witnesses": "Lt. Col. H. Gordon Alley of the 1st Weather Squadron",
-    "photographs": "no"
+    "main event": "LT COL H. GORDON ALLEY, 1ST WEATHER SQUADRON, WALKER AFB, NM, REPORTED SEEING A BRIGHT LIGHT MOVING ERRATICALLY IN THE SKY.",
+    "interesting points": "The object was reported by a lieutenant colonel in the U.S. Air Force,The sighting occurred on June 4, 1954,The object was described as a bright light,The object exhibited erratic movement,The case was classified as 'unidentified' and closed.",
+    "sighted object": "a bright light in the sky",
+    "location": "Walker AFB, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "H. Gordon Alley, LT COL, USAF",
+    "contains photographs": false
 }

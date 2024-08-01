@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers watched a group of points of light that were initially thought to be unusual, but subsequent investigation indicated they were likely celestial objects such as stars or the planet Venus.",
-    "interesting points": [
-        "The objects appeared to be stationary and did not move appreciably during the observation period.",
-        "The objects were reported to be about 32 degrees in the eastern sky.",
-        "The observers initially thought the objects were unusual, but they were later determined to be caused by a known natural phenomenon.",
-        "The report includes a questionnaire with various questions about the observed objects, including their appearance, motion, and the observer's location.",
-        "The report mentions that the observers may have been able to estimate the size and distance of the objects if they had performed a match stick experiment at the time of the sighting."
-    ],
-    "result": "explained",
-    "sighted object": "group of points of light",
-    "location": "Kissimmee, Florida",
-    "witnesses": "observers",
-    "photographs": "no"
+    "main event": "A group observed points of light in the sky on July 29, 1964.",
+    "interesting points": "The observed lights were initially thought to be unusual but were later determined to be likely celestial objects., The observation lasted for approximately 3 hours and 35 minutes., Conditions were reported as clear and the objects appeared stationary., The conclusion of the sighting indicated it was classified as a known natural phenomenon., The estimated position of the objects was about 32 degrees in the eastern sky.",
+    "sighted object": "points of light in the sky",
+    "location": "Kissimmee, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "individual observer",
+    "contains photographs": false
 }

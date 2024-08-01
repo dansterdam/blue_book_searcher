@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A railroad conductor spotted an unidentified blue-gray object over Chama, New Mexico on December 6, 1955.",
-    "interesting points": [
-        "The object appeared to be a 'body of panel truck' in size, with black pipes projecting from the sides.",
-        "The witness had never seen a helicopter before but thought the object might be one.",
-        "The witness saw the object hovering and then descending behind a group of aspen trees.",
-        "The witness estimated the object was initially 60 feet away and then 100 yards away when it disappeared.",
-        "The witness reported the sighting to the Denver and Rio Grande Railroad and the sighting was forwarded to the Air Force for investigation."
-    ],
-    "result": "not enough information for evaluation",
-    "sighted object": "blue-gray object with black pipes",
-    "location": "Chama, New Mexico",
-    "witnesses": "railroad conductor",
-    "photographs": "no"
+    "main event": "An unidentified object resembling a blue-gray panel truck was sighted in Chama, New Mexico on December 6, 1955.",
+    "interesting points": "The object was observed for about 5 minutes,The witness, a railroad conductor, compared the object's structure to a helicopter despite never having seen one before.,The object had black pipes protruding from its sides,The witness estimated the object to be initially 60 feet away and finally about 100 yards away,There were claims of mysterious figures and strange lights reported in the area near Los Alamos.",
+    "sighted object": "an object resembling a panel truck",
+    "location": "Chama, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "railroad conductor",
+    "contains photographs": false
 }

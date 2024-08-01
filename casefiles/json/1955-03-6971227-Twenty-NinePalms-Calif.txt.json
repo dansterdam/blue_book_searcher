@@ -1,15 +1,9 @@
 {
-    "main event": "A round object, the size of a quarter, was observed in the sky over Twenty-Nine Palms, California on March 17, 1955, for approximately 10 minutes before drifting out of sight.",
-    "interesting points": [
-        "The object was observed for 10 minutes and described as round but with no distinct color.",
-        "Observers categorized the sighting as a ground visual observation, and the object was noted to have moved back and forth.",
-        "The report suggests the possibility of the object being a balloon and cites regular weather balloon releases in the vicinity as a potential explanation.",
-        "The sighting occurred in the vicinity of many weather stations, and the report mentions wind patterns at high altitudes, indicating consideration of atmospheric factors.",
-        "Conclusions listed in the report include 'possibly balloon' and 'insufficient data for conclusion', indicating uncertainty about the object's nature."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "a round object in the sky",
-    "location": "Twenty-Nine Palms, California",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "Observation of a round object in the sky over Twenty-Nine Palms, California on March 17, 1955.",
+    "interesting points": "The object was observed for approximately 10 minutes,The object was described as the size of a quarter with no distinct color noted,The object moved back and forth during the observation, The report speculates that the object could have been a balloon or aircraft,The sighting occurred in an area with many weather stations known for regular balloon releases.",
+    "sighted object": "round object in the sky",
+    "location": "Twenty-Nine Palms, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

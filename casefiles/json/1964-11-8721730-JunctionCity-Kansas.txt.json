@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "Two unidentified bright lights were seen in the sky, moving in a zigzag pattern and stopping to hover before taking off at high speed.",
-    "interesting points": [
-        "The lights were observed for approximately 15 minutes.",
-        "The observers tried to investigate the lights, but they went dark and disappeared.",
-        "The observers reported the sighting to the Air Force and requested more information.",
-        "The Air Force responded by sending the observers an AF Form 164 to complete and return for further evaluation.",
-        "The Air Force indicated that they maintain an ongoing interest in gathering factual data on unexplained aerial phenomena."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "two bright, unidentified lights in the sky",
-    "location": "Junction City, Kansas",
-    "witnesses": "two civilian observers",
-    "photographs": "no"
+    "main event": "Two witnesses reported observing bright lights in the sky moving in a zigzag pattern in Junction City, Kansas.",
+    "interesting points": "The lights were seen on November 4, 1964, around 12-14 p.m.,The witnesses described the lights as being very bright and appearing to be controlled from somewhere,At one point, the lights hovered for a few minutes before taking off at high speed,The observation lasted approximately 15 minutes,The report concluded there was insufficient data for evaluation.",
+    "sighted object": "bright lights moving in a zigzag pattern",
+    "location": "Junction City, Kansas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two civilians observed the lights",
+    "contains photographs": false
 }

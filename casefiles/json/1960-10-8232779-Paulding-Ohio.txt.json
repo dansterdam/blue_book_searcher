@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright light was observed in the eastern sky over Paulding, Ohio on multiple occasions in early October 1960.",
-    "interesting points": [
-        "The object changed color from white to orange to red and exhibited erratic movements, descending and ascending.",
-        "The object was observed by multiple witnesses, including the reporting party, their family members, and neighbors.",
-        "The object was described as being as bright as magnesium and was visible for 3-5 minutes at a time.",
-        "The witnesses were unsure of what the object was and requested an explanation from the authorities.",
-        "The Air Force investigated the sighting but concluded it was likely a star, planet, or satellite, with the unusual motion and color changes attributed to the witnesses' angle of observation."
-    ],
-    "result": "inconclusive",
-    "sighted object": "A bright light in the sky",
-    "location": "Paulding, Ohio",
-    "witnesses": "Multiple civilian witnesses, including the reporting party, their family, and neighbors",
-    "photographs": "None"
+    "main event": "A bright light observed in the eastern sky, changing colors from white to orange, then red, with erratic movements, on February 5, 1960.",
+    "interesting points": "The object was described as brilliant as magnesium., The sighting lasted between 3 and 5 minutes., Two witnesses confirmed the observation., The object was observed in the Eastern sky., Speculation concluded that it may have been a star, planet, or satellite due to atmospheric effects.",
+    "sighted object": "one bright light in the sky",
+    "location": "Paulding, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians",
+    "contains photographs": false
 }

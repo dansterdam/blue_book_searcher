@@ -1,15 +1,9 @@
 {
-    "main event": "A disc-shaped object, large in size (75-80 ft diameter, 15-20 ft height), was sighted traveling at high speed and accelerating in Phoenix, Arizona.",
-    "interesting points": [
-        "The object changed direction of flight.",
-        "The sighting lasted for approximately 10 minutes.",
-        "The object was reported to be higher and larger than a B-47 aircraft flying at 45,333 feet.",
-        "The sighting was reported to the Luke Air Force Base and other military authorities.",
-        "The case was evaluated as 'unknown' with insufficient data for a definitive conclusion."
-    ],
-    "result": "unknown",
+    "main event": "A disc-shaped object was observed traveling at high speed over Phoenix, Arizona.",
+    "interesting points": "The object was described as large, with a diameter of 75-80 ft and a height of 15-20 ft.,It traveled at high speed, accelerated rapidly, and changed direction during observation.,The observation lasted for 10 minutes with 3 confirmed witnesses.,The sighting was reported to potentially be a balloon but ruled out other explanations such as meteor or comet.,Visibility in the area was noted to be sixty miles with clear skies.",
     "sighted object": "disc-shaped object",
-    "location": "Phoenix, Arizona",
-    "witnesses": "multiple",
-    "photographs": "none"
+    "location": "Phoenix, Arizona, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "witnesses included individuals observing the object from different locations in Phoenix",
+    "contains photographs": false
 }

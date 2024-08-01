@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A Marinette policeman spotted an unidentified flying object with rotating red and green lights that was moving in various directions at an altitude above 5,000 feet on March 30, 1966.",
-    "interesting points": [
-        "The object was observed by the policeman, a fireman, and a man who had attended church at St. James Lutheran Church in Marinette.",
-        "The object was moving up, down, sideways, backwards and forwards, as well as forward in a general southwesterly and southeasterly direction.",
-        "The policeman did not know where to report the UFO sighting, so he called the Commander of Area One of the Wisconsin Wing of the Civil Air Patrol.",
-        "The report mentions that the Air Force has procedures for investigating UFO sightings under Project Blue Book.",
-        "The report requests that instructions be provided to the Civil Air Patrol wing membership on where to report UFO sightings and what data should be included."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "unidentified flying object with rotating red and green lights",
-    "location": "Marinette, Wisconsin",
-    "witnesses": "Marinette policeman, fireman, and a man who attended church",
-    "photographs": "no"
+    "main event": "A Marinette policeman reported an unidentified flying object with rotating red and green lights on March 30, 1966.",
+    "interesting points": "The UFO was observed moving up, down, sideways, backwards, and forwards at an altitude above 5,000 feet., The object exhibited multiple colors including red and green lights., The sighting was made by both a patrolman and a fireman., The report was prompted by a letter from Lt Col Michael J. Amato regarding UFO investigations., There are procedures for reporting UFO sightings to the nearest Air Force base.",
+    "sighted object": "unidentified flying object with rotating lights",
+    "location": "Marinette, Wisconsin, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Marvin Erdmann, patrolman of the Marinette City Police Department, and a fireman",
+    "contains photographs": false
 }

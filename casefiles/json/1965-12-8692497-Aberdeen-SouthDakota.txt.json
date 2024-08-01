@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Multiple unidentified objects were observed in the sky over Aberdeen, South Dakota on December 4, 1965.",
-    "interesting points": [
-        "The objects appeared as very brilliant stars that changed color from white to red to blue to green.",
-        "The objects did not appear to be in any discernible formation and their movements were described as changing course.",
-        "One of the objects appeared to be slowly moving downward on the horizon, while the other two did not appear to move.",
-        "The objects were observed for approximately 30 minutes, and were still present at the time the report was made.",
-        "No known flights or weather phenomena were reported in the area at the time of the sighting."
-    ],
-    "result": "Unresolved, listed as 'ASTRO (STARS/PLANETS)'",
-    "sighted object": "Three unidentified flying objects that changed color and appeared to move erratically",
-    "location": "Aberdeen, South Dakota",
-    "witnesses": "A civilian and a police officer from Aberdeen, South Dakota",
-    "photographs": "None"
+    "main event": "Three objects were observed changing colors in the night sky in Aberdeen, South Dakota on 4 December 1965.",
+    "interesting points": "The observation lasted for approximately 20 minutes.,The objects appeared as brilliant stars changing colors from white to red to blue to green.,One object was slowly moving downward while the other two remained stationary.,No photographs were taken of the sighting.,Weather conditions during the sighting were clear with mild winds.",
+    "sighted object": "three color-changing objects in the sky",
+    "location": "Aberdeen, South Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a reliable civilian and a police department representative",
+    "contains photographs": false
 }

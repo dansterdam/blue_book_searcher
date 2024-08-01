@@ -1,15 +1,9 @@
 {
-	"main event": "Two unusual old objects were observed in Uruguay in 1958, moving at very high speeds.",
-	"interesting points": [
-		"The observation took place on July 31, 1958, in Uruguay.",
-		"The objects were described as moving at a very high speed.",
-		"The report states that there were no photographs taken of the objects.",
-		"The length of the observation was noted to be 5 yards.",
-		"The conclusion of the report was that there was insufficient data to evaluate."
-	],
-	"result": "unexplained",
-	"sighted object": "two unusual old objects",
-	"location": "Uruguay",
-	"witnesses": "not specified",
-	"photographs": "no"
+    "main event": "Two unusual old objects were observed moving at very high speed in Uruguay.",
+    "interesting points": "The objects were observed to the north,The sighting lasted only a short period,The report notes the objects were moving very fast,The data collected was deemed insufficient for evaluation,The incident was recorded as part of Project Blue Book.",
+    "sighted object": "two unusual old objects",
+    "location": "Uruguay",
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data to evaluate",
+    "contains photographs": false
 }

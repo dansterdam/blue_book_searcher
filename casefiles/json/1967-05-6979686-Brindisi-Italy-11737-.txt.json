@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "A report from Brindisi, Italy in May 1967 that mentions 3 photos, but the provided image does not contain any photographs.",
-    "interesting points": [
-        "The report is from the Foreign Technology Division of the AFSC (Air Force Systems Command).",
-        "The report is classified as 'UNCLASSIFIED'.",
-        "The report references 3 photos, but the provided image only contains text and no photographs.",
-        "The report originates from Brindisi, Italy in May 1967.",
-        "The report appears to be a government or military document."
-    ],
-    "result": "inconclusive",
-    "sighted object": "Not specified",
+    "main event": "A UFO report was documented on May 1, 1967, in Brindisi, Italy.",
+    "interesting points": "The report is associated with the Foreign Technology Division, AFSC., The document is classified as UNCLASSIFIED., The report was revised over several pages., The report mentions the presence of 3 photos, although none were included., The content consists solely of text without any accompanying images.",
+    "sighted object": "not specified",
     "location": "Brindisi, Italy",
-    "witnesses": "Not specified",
-    "photographs": "Referenced, but not provided"
+    "number of confirmed witnesses": 0,
+    "witness description": "not provided",
+    "contains photographs": false
 }

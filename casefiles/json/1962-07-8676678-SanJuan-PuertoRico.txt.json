@@ -1,15 +1,9 @@
 {
-    "main event": "Visual and radar sightings of three unidentified objects over San Juan, Puerto Rico on July 8, 1962",
-    "interesting points": [
-        "The objects were observed visually and detected on radar, but the visual observation was described as 'indistinct and insufficient to claim definite identification'.",
-        "The radar targets were assessed as being 'manmade', possibly a failure to identify a meteorological balloon or secret aircraft.",
-        "The objects were described as having an 'orange colored light', being oval-shaped and slightly larger than a star, and moving at a very slow speed.",
-        "The sighting occurred over the San Juan harbor near Pier One at around 1:32 AM.",
-        "The altitude of the objects was not determined."
-    ],
-    "result": "unexplained",
-    "sighted object": "three unidentified objects with an orange colored light",
+    "main event": "Visual and radar sightings of three unidentified objects over San Juan, Puerto Rico on July 8, 1962.",
+    "interesting points": "The radar targets were determined to be manmade,There was a failure to identify whether the objects were meteorological balloons or secret aircraft,The visual observation was noted as indistinct, which made it insufficient for definite identification, The report mentions that the objects were moving in a level course, An orange colored light was observed, described as oval and slightly larger than a star.",
+    "sighted object": "three unidentified objects detected by radar and visually observed",
     "location": "San Juan, Puerto Rico",
-    "witnesses": "Visual and radar observation",
-    "photographs": "yes, the report indicates photos were taken"
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified in the report",
+    "contains photographs": false
 }

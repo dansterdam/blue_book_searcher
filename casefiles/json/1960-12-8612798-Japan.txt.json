@@ -1,15 +1,9 @@
 {
-    "main event": "A bright light, the size of a basketball at 2,000 yards, was observed changing color from intense white to cherry red to green to blue to white. The object appeared to change size from 30 feet to 3 feet and change direction.",
-    "interesting points": [
-        "The object was observed for 3 minutes by military personnel.",
-        "The object appeared to change course and fade to the rear of the aircraft.",
-        "The sighting occurred in Japan on December 29, 1960.",
-        "The object was tracked both visually and on radar.",
-        "The report includes details from multiple witnesses, including a senior pilot and the director of operations and training."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, changing in size and color",
+    "main event": "A military observation of an intense light that changed colors and size, reported on 29 December 1960 in Japan.",
+    "interesting points": "The object was observed for 3 minutes,The object changed color from white to cherry red to green to blue and back to white,The size of the object appeared to fluctuate between 30 feet and 3 feet,The object faded to the rear of the aircraft,The observation was conducted by military personnel using ground radar.",
+    "sighted object": "an intense light changing colors",
     "location": "Japan",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

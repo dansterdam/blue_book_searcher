@@ -1,15 +1,9 @@
 {
-    "main event": "A witness in Washington, D.C. reported seeing an unusual object that was visible for 3-5 seconds, including a bluish white flame.",
-    "interesting points": [
-        "The witness called the Washington Post and reported seeing a 'flying saucer', but only received a recording about manmade objects in the sky.",
-        "The witness provided two hand-drawn diagrams showing the approximate location of the 'saucers' or unidentified objects.",
-        "The diagrams contain various annotations and labels such as 'Flying saucer', 'radar tower', and 'To Woodward station?'.",
-        "The document includes a questionnaire with the witness providing details about the sighting, including estimating the distance and size of the object.",
-        "The witness described the object as appearing oval-shaped or elliptical, glowing a blue-white color, and appearing stationary or almost motionless in the sky."
-    ],
-    "result": "Unidentified",
-    "sighted object": "An unusual object, described as a 'flying saucer' or unidentified flying object",
-    "location": "Washington, D.C.",
-    "witnesses": "1 civilian witness",
-    "photographs": "No photographs, only hand-drawn diagrams"
+    "main event": "A civilian observed an unusual object in Washington, D.C. on October 28, 1966, which lasted for 3 to 5 seconds.",
+    "interesting points": "The observer described a bluish white flame accompanying the object,The sighting was reported to the Washington Post, but only received an automated response,Two diagrams were submitted which approximated the location of the object,The report concluded that the sighting was likely a meteor,The sketch and diagrams included various annotations and labels related to the sighting.",
+    "sighted object": "an unusual object emitting a bluish white flame",
+    "location": "Washington, D. C., USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sighting of a glowing, disc-shaped object surrounded by a bright light in Freiburg, Germany",
-    "interesting points": [
-        "The object was observed by a weather observer at the Freiburg Weather Bureau as well as two American physics students at Freiburg University.",
-        "The object was seen moving from north-northwest to south-southeast, with the light gradually fading from sight.",
-        "The object was described as a shining, glowing disc-shaped object surrounded by a tremendous light.",
-        "The sighting occurred at 2322 hours on March 18, 1959.",
-        "The report was classified as 'UNCLASSIFIED' by the Office of Naval Intelligence."
-    ],
-    "result": "unknown",
-    "sighted object": "glowing, disc-shaped object surrounded by a bright light",
-    "location": "Freiburg, Germany",
-    "witnesses": "weather observer, two American physics students",
-    "photographs": "no"
+    "main event": "A glowing disc-shaped object surrounded by a tremendous light was observed in Freiburg, Germany on 20 March 1959.",
+    "interesting points": "The object was seen by a weather observer at the Freiburg Weather Bureau and two American physics students,The object was reported to be shining and glowing,The sighting occurred at 2322 hours from North North West to South South East,The light emitted by the object gradually faded from sight, The report implies the object was unidentified with possible classifications as a balloon, aircraft, or astronomical phenomenon.",
+    "sighted object": "a glowing disc-shaped object surrounded by light",
+    "location": "Freiburg, Baden-Württemberg, Germany",
+    "number of confirmed witnesses": 3,
+    "witness description": "a weather observer and two American physics students",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright star-like object was seen moving in a westerly direction in Union City, Ohio.",
-    "interesting points": [
-        "The object was observed for a period of time from 2:54 to 7 minutes.",
-        "The object was described as resembling a bright star.",
-        "A guard was called to observe the object, but they were unable to determine what it was.",
-        "No photographs were taken of the object.",
-        "The report concludes that the object was likely a satellite (ECHO I)."
-    ],
-    "result": "Satellite (ECHO I)",
-    "sighted object": "Bright star-like object",
-    "location": "Union City, Ohio",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A sighting of a bright star moving in the eastern direction in Union City, Ohio on July 12, 1965.",
+    "interesting points": "The observation was reported by a civilian,The object was described as a bright star in flight,The course of the object was noted to be easterly,No photographs were included with the report,The conclusion of the investigation suggested it was a satellite, specifically ECHO I.",
+    "sighted object": "bright star",
+    "location": "Union City, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

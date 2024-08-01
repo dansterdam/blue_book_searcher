@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "On August 11, 1966, a military observer reported seeing a UFO in Harvard, Massachusetts. The object was visible for about 1 minute.",
+    "interesting points": "The object was described as flying under the lights of a storm and appeared to be unaffected by the lighting conditions., No physical evidence or photographs were collected from the sighting., The observer had previously noted unusual aerial phenomena in the area., The object was reported as potentially being a cloud, indicating uncertainty., The military source indicates that this was a serious observation.",
+    "sighted object": "unidentified flying object (UFO)",
+    "location": "Harvard, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer is a military personnel with a positional knowledge from their service.",
+    "contains photographs": false
 }

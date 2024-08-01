@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A yellow-white object was spotted descending at a 60-degree angle from the horizon in Corona, New Mexico on January 7, 1950.",
-    "interesting points": [
-        "The object changed colors during its descent, first appearing yellowish-white, then orange with a trail of flame, and finally bright blue-green.",
-        "The object leveled off and traveled approximately 10 degrees to the east before disappearing behind a mountain range.",
-        "The object's size was estimated to be about the same as a 6-inch diameter cup held at arm's length.",
-        "Checks with local authorities found no radar activity, unusual weather conditions, or testing devices that could have accounted for the sighting.",
-        "The witness, Captain [REDACTED] of Holloman Air Force Base, had noticed similar objects in the past but had assumed they were natural phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, ball-shaped object",
-    "location": "Corona, New Mexico",
-    "witnesses": "Captain [REDACTED], Holloman Air Force Base",
-    "photographs": "no"
+    "main event": "Captain at Holloman Air Force Base observed an unusual aerial phenomenon at 2215 hours on 7 January 1950.",
+    "interesting points": "The phenomenon was first seen at a 45-degree angle and descended at approximately a 60-degree angle., The object changed colors from yellowish white to orange, and then to bright blue-green., It had a trailing flame and was round and ball-shaped., The sighting lasted for about 10 seconds., Another reliable witness, Mr. Warren Ratliff, was present during the sighting.",
+    "sighted object": "one round ball-shaped object with a flame trail",
+    "location": "Corona, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Captain from Holloman AFB and Mr. Warren Ratliff, Manager of Mountain States Telephone & Telegraph Co.",
+    "contains photographs": false
 }

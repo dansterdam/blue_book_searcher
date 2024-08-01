@@ -1,15 +1,9 @@
 {
-    "main event": "A report from Orlando, Florida dated March 28, 1966 with 2 photographs mentioned",
-    "interesting points": [
-        "The report indicates the images are black and white photographs of an outdoor park or recreational area with palm trees and people walking in the foreground.",
-        "The images are described as being from a Project Blue Book report, with the text 'File 10311' and the date 'March 28, 1966' provided.",
-        "The report mentions that the photographs are unclassified and belong to the Foreign Technology Division, AFSC.",
-        "No details are provided about any unusual or unidentified objects in the photographs.",
-        "The report does not contain any information about a UFO sighting or encounter."
-    ],
-    "result": "insufficient information",
-    "sighted object": "no unidentified objects mentioned",
-    "location": "Orlando, Florida",
-    "witnesses": "unknown",
-    "photographs": "yes, 2 photographs mentioned but not included"
+    "main event": "A report dated March 28, 1966, regarding an incident in Orlando, Florida.",
+    "interesting points": "The report is associated with Project Blue Book., The incident includes two photographs referenced in the report., The location features a grassy field with palm trees and buildings., There are two people observed walking in the foreground of the photographs., The report is classified as unclassified by the Foreign Technology Division, AFSC.",
+    "sighted object": "outdoor park or recreational area",
+    "location": "Orlando, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "There are no specific witnesses mentioned.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were seen flying in a westerly direction over Lakeport, California on July 22, 1956.",
-    "interesting points": [
-        "The objects were observed visually by the witness for 3-4 seconds.",
-        "The objects were described as luminous and moving at an estimated speed of 600 miles per hour.",
-        "The objects disappeared from sight gradually.",
-        "The weather at the time was clear.",
-        "The observer was convinced the objects were genuine unidentified flying objects."
-    ],
-    "result": "unexplained",
+    "main event": "Two unidentified flying objects were observed flying in a westerly direction over Lakeport, California on July 22, 1956.",
+    "interesting points": "The objects were visually observed for three to four seconds., The objects were described as luminous and flying at an estimated speed of 600 miles per hour., The report stated there was insufficient data for evaluation due to the briefness of the sighting., A former scientist reported a similar sighting, describing a round object hovering for several minutes., The weather during the sightings was clear, which contributed to the visibility of the objects.",
     "sighted object": "two luminous objects",
-    "location": "Lakeport, California",
-    "witnesses": "multiple observers",
-    "photographs": "no photographs available"
+    "location": "Lakeport, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a former scientist from Berkeley, California",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted in Harrisonburg, Virginia on December 6, 1964.",
-    "interesting points": [
-        "The case number is 64-12697.",
-        "The report was filed on December 21, 1964.",
-        "The report indicates that 5 photos were taken, but the provided image does not contain any photographs.",
-        "The investigator's name is John Wilcox.",
-        "The report mentions that the sighting occurred in Harrisonburg, Virginia."
-    ],
-    "result": "unexplained",
-    "sighted object": "unspecified UFO",
-    "location": "Harrisonburg, Virginia",
-    "witnesses": "unknown",
-    "photographs": "no, the report mentions 5 photos but the provided image does not contain any"
+    "main event": "A report detailing a UFO sighting in Harrisonburg, Virginia on December 6, 1964.",
+    "interesting points": "The report was filed under case number 64-12697., The investigator assigned to the case is John Wilcox., The sighting occurred shortly before the report date., The document includes geometric shapes and lines but lacks photographic content., The report mentions that 5 photos were intended but not present.",
+    "sighted object": "UFO",
+    "location": "Harrisonburg, Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Unspecified visual sighting of an object in the sky over the Pacific Ocean",
-    "interesting points": [
-        "The object was observed at a very high altitude, moving east",
-        "The object was initially observed at a bearing of 310 degrees",
-        "The sighting lasted from approximately 1722 hours",
-        "The object returned to its original position by 1722 hours",
-        "There were no photographs taken of the observed object"
-    ],
-    "result": "unexplained",
-    "sighted object": "unspecified object in the sky",
-    "location": "31-59N 173-30W, Pacific Ocean",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "A UFO report recorded as part of Project Blue Book.",
+    "interesting points": "The report is unclassified and part of a standardized form layout used for recording UFO sightings., The report includes a date-time group indicating a specific time reference., The observation location coordinates are 31-05N 175-30W in the Pacific., It mentions a visual sighting with no accompanying photographs., The text contains information on initial bearing and observers' position.",
+    "sighted object": "unknown object observed in the Pacific",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific descriptions of witnesses provided",
+    "contains photographs": false
 }

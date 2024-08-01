@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted by several witnesses in the vicinity of VIEUX BOUCAU, France on November 28, 1963.",
-    "interesting points": [
-        "The object was described as disc-shaped, approximately 15-20 meters in diameter, and emitting a brilliant white light.",
-        "The object was observed to hover briefly at an estimated altitude of 300-400 meters, then to accelerate rapidly and disappear from view.",
-        "No sound was reported associated with the object.",
-        "No physical evidence or residue was found at the site.",
-        "The sighting was investigated by the French Air Force and the case is being forwarded to Project Blue Book for evaluation."
-    ],
-    "result": "unidentified",
+    "main event": "An unidentified flying object was sighted near Vieux Boucau, France, on 6-7 December 1963.",
+    "interesting points": "The sighting lasted approximately 10 minutes., The object was described as disc-shaped and emitted a brilliant white light., The object hovered at an altitude of 300-400 meters before accelerating rapidly., No sound was reported during the observation., The case was forwarded to Project Blue Book for further evaluation.",
     "sighted object": "disc-shaped object emitting a brilliant white light",
-    "location": "VIEUX BOUCAU, France",
-    "witnesses": "several witnesses",
-    "photographs": "none"
+    "location": "Vieux Boucau, France",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witness details provided.",
+    "contains photographs": false
 }

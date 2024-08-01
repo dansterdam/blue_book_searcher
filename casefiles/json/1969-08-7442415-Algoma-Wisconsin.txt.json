@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers sighted a bright light west of their boat that would disappear and reappear. The light was described as being bigger than their boat.",
-    "interesting points": [
-        "The light was described as being bigger than the observers' boat.",
-        "The light would disappear and reappear.",
-        "The sighting lasted for 30-45 minutes.",
-        "The object emitted a slight hum.",
-        "The sighting occurred off the coast of Algoma, Wisconsin."
-    ],
-    "result": "inconclusive",
+    "main event": "Observers sighted a bright light west of their boat that would disappear and reappear.",
+    "interesting points": "The light was described as being bigger than their boat., A nearly full moon was visible at the time of the sighting., There is insufficient data to conclusively identify the object., The sighting was probably a natural phenomenon., The object was last observed as of 13 Nov 69.",
     "sighted object": "a bright light in the sky",
-    "location": "Algoma, Wisconsin (about 7 mi off the coast south of Sturgeon Bay, Wisconsin)",
-    "witnesses": "Mr. ---- Captain and First Mate",
-    "photographs": "no"
+    "location": "Waco, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and a Captain and First Mate on a boat",
+    "contains photographs": false
 }

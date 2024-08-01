@@ -1,15 +1,9 @@
 {
-    "main event": "A disc-like object was observed in the sky over Bremerton, Washington on June 25, 1958.",
-    "interesting points": [
-        "The object was stationary and appeared to be in level flight, measuring approximately 4 inches in angular diameter.",
-        "The object exhibited an erratic motion, though the direction of travel was not specified.",
-        "The report mentions 3 photographs of the object, though no photographs are present in the provided image.",
-        "The object was observed for a duration of 2 minutes.",
-        "The report suggests the possibility that the object may have been a Northwest Airlines aircraft with a rotating, bright light."
-    ],
-    "result": "inconclusive",
+    "main event": "An unidentified object was observed in Bremerton, Washington, on June 25, 1958, appearing as a disc shape.",
+    "interesting points": "The object had an angular diameter of 4 inches and was stationary in level flight to the North., The length of the observation was approximately 2 minutes., Observers did not specify a direction of travel but noted an errand motion., The object's brightness was significant enough to be detailed in the report., It passed south to north but was obstructed by buildings during observation.",
     "sighted object": "disc-like object",
-    "location": "Bremerton, Washington",
-    "witnesses": "unknown",
-    "photographs": "yes, according to the report, but not included in the provided image"
+    "location": "Bremerton, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "details of the observer are not provided",
+    "contains photographs": false
 }

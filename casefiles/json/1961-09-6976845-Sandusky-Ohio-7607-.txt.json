@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness reported seeing a brightly lit, disc-shaped UFO hovering over Sandusky, Ohio on September 6, 1961.",
-    "interesting points": [
-        "The object was described as being approximately 30-40 feet in diameter and luminous in appearance.",
-        "The object was observed hovering and maneuvering in the sky before accelerating and disappearing rapidly.",
-        "An investigation was conducted by Project Blue Book, but no conclusive explanation for the sighting could be determined.",
-        "The case was classified as Unidentified by Project Blue Book due to the lack of a satisfactory explanation.",
-        "Another witness, Forest George, also reported seeing a circular, white UFO hovering over Lake Erie for about 15 minutes before it abruptly accelerated and disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "a brightly lit, disc-shaped UFO",
-    "location": "Sandusky, Ohio",
-    "witnesses": "John Doe, Forest George",
-    "photographs": "no, the report does not mention any photographs"
+    "main event": "On September 6, 1961, a witness reported observing a luminous unidentified flying object over Sandusky, Ohio.",
+    "interesting points": "The object was described as being circular in shape and approximately 30 to 40 feet in diameter., The object hovered before accelerating rapidly and vanishing from sight., The incident was investigated by Project Blue Book, which classified it as 'Unidentified' due to lack of conclusive evidence., No corroborating witnesses were identified for the sightings., The witness reported observing the object for 2-3 minutes.",
+    "sighted object": "luminous circular object in the sky",
+    "location": "Sandusky, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Harvey Curtis, 25 years old.",
+    "contains photographs": false
 }

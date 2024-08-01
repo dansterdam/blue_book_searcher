@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was sighted over a field in Delavan, Wisconsin, moving fast to the east for 1-2 minutes.",
-    "interesting points": [
-        "The object was described as round and small, approximately 8 feet in size.",
-        "The object was observed spinning around and blinking on and off.",
-        "The object was sighted at dusk, moving from low in the west to the south and up.",
-        "The weather conditions at the time were cloudy with calm surface winds.",
-        "No unusual activity or known air traffic in the area was reported."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round, small object",
-    "location": "Delavan, Wisconsin",
-    "witnesses": "a civilian observer",
-    "photographs": "none"
+    "main event": "A bright object was sighted over a field in Delavan, Wisconsin, moving fast to the east.",
+    "interesting points": "The sighting lasted for 1-2 minutes,The object was described as small and round, approximately eight feet in diameter,The object appeared to be spinning and flickering on and off,Observation was made from the ground by a civilian,No unusual activity or air traffic was reported in the area at the time of the sighting.",
+    "sighted object": "a small round bright object",
+    "location": "Delavan, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "one civilian",
+    "contains photographs": false
 }

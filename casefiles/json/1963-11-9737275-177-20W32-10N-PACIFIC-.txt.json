@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A small object was observed on radar for about 1 minute in the Pacific Ocean.",
-    "interesting points": [
-        "The object was described as a 'bright star in flight to the East, very high'.",
-        "The report indicates it was a probable satellite observation.",
-        "The sighting took place on November 9, 1962 at coordinates 177° 32.1'N in the Pacific Ocean.",
-        "The object was detected on ground-based radar and observed for approximately 1 minute.",
-        "The report notes that no photographs or other evidence were available for this sighting."
-    ],
-    "result": "probable satellite",
+    "main event": "A small object was observed on radar categorized as a probable satellite on 9 November 1962.",
+    "interesting points": "The object was observed for about 1 minute., The object appeared as a bright star in flight to the East., The sighting was conducted using ground radar., The observation was categorized with a very high level of visibility., No photographs were available for this sighting.",
     "sighted object": "small object on radar",
-    "location": "Pacific Ocean, 177° 32.1'N",
-    "witnesses": "radar operators",
-    "photographs": "none"
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 4,
+    "witness description": "crew members of an aircraft involved in the sighting",
+    "contains photographs": false
 }

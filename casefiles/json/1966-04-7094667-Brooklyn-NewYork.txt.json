@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A civilian in Brooklyn, New York reported seeing a strange object in the sky on multiple occasions over the course of a month.",
-    "interesting points": [
-        "The object was described as star-like, smaller than the moon, and yellow-orange in color with no definite shape.",
-        "The object remained stationary and did not move during the 30-minute observation period.",
-        "The observer initially thought the object was a helicopter, but later concluded it was likely the star Antares.",
-        "The observer claimed to have seen similar objects 4-5 times over the past month, usually on overcast nights.",
-        "The sighting was reported to the Coast Guard and the Air Force, who investigated it as part of Project Blue Book."
-    ],
-    "result": "identified as the star Antares",
-    "sighted object": "a star-like yellow-orange object with no definite shape",
-    "location": "Brooklyn, New York",
-    "witnesses": "1 civilian observer",
-    "photographs": "yes, the report mentions photographs were taken"
+    "main event": "A civilian reported a UFO sighting in Brooklyn, New York during April 1966.",
+    "interesting points": "The witness observed the object following him multiple times in a week,The object emitted heat that caused pain to the observer's arm,The observer reported feeling like the object shot something at him,All sightings occurred at night,The object was described as star-like and yellow-orange in color.",
+    "sighted object": "one stationary object resembling a star",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian with an assumed reliability of under 5",
+    "contains photographs": false
 }

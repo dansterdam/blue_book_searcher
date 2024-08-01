@@ -1,15 +1,9 @@
 {
-    "main event": "A ground-radar observation of a single object moving from south to east in Vejle, Jutland, Denmark in December 1954.",
-    "interesting points": [
-        "The observation was made using ground-radar and involved a single unidentified object.",
-        "The report mentions confirmation of the observation by L.C. Harrison Field and the involvement of US Air Force officers.",
-        "In another report from 1958, two saucer-type objects were observed climbing to sonic speed, confirmed by an officer from USAF.",
-        "The 1958 report describes the objects rising from near sea level to sonic speed climb and mentions a government threat level case.",
-        "A naval officer with high rank, trained in observation, reported an observation of an object in 1958, which made several stops and starts during a fifteen-minute observation period."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified objects, including saucer-type objects",
+    "main event": "Observers reported seeing an object moving on radar and witnessing two classic saucer-type objects climbing to sonic speed near Vejle, Denmark.",
+    "interesting points": "Radar contact with the object moving from south to east was established,The sighting lasted for 2-3 minutes with two observed objects,The observer described one object to be five times the size of a large star in the eastern sky,The object was observed moving at approximately 400 knots, or about 480 miles per hour,The Naval officer who observed the object was a trained observer with a high rank.",
+    "sighted object": "one object on radar and two classic saucer-type objects",
     "location": "Vejle, Jutland, Denmark",
-    "witnesses": "US Air Force officers, trained naval officer, and ground-radar observers.",
-    "photographs": "no photographs mentioned in the report"
+    "number of confirmed witnesses": 2,
+    "witness description": "a retired USAF officer and a naval officer of high rank",
+    "contains photographs": false
 }

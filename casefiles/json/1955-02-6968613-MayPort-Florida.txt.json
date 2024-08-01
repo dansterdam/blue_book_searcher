@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed a strange exhaust pattern in the sky at May Port, Florida on February 9, 1955.",
-    "interesting points": [
-        "The exhaust appeared white and sharply defined, spanning 180 degrees in the area.",
-        "The object left no contrails, unlike other aircraft in the vicinity.",
-        "The sighting lasted for two time units (likely minutes or seconds).",
-        "The report suggests the object may have been a 'non-conventional' aircraft.",
-        "The document appears to be a Project Blue Book record card, indicating this was an official UFO investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "strange exhaust pattern",
-    "location": "May Port, Florida",
-    "witnesses": "unspecified",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A UFO sighting was reported on 9 February 1955 in May Port, Florida, where an unidentified object emitted exhaust without leaving contrails.",
+    "interesting points": "The exhaust from the object was observed to be 180 degrees in area and sharply defined,The observation lasted for two minutes,The sighting happened at an altitude where other known craft left no contrails,The report raises the possibility of the object being a known craft,The document is a record from Project Blue Book.",
+    "sighted object": "unidentified flying object",
+    "location": "May Port, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not provided due to redaction.",
+    "contains photographs": true
 }

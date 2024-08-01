@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "Three pink objects in a V-formation were observed in the sky over Amarillo, Texas on August 29, 1952.",
-    "interesting points": [
-        "The objects were round in shape and approximately 4-5 inches in diameter.",
-        "The objects were observed for only about 2 seconds.",
-        "The observer, a USAF captain with over 2,300 hours of flight experience, reported the sighting was verified by his wife.",
-        "The weather conditions at the time of the sighting were clear with good visibility and moderate winds.",
-        "No sounds or trail were associated with the objects, and their propulsion system was unknown."
-    ],
-    "result": "unknown",
-    "sighted object": "three pink, round objects in a V-formation",
-    "location": "Amarillo, Texas",
-    "witnesses": "USAF captain and his wife",
-    "photographs": "no"
+    "main event": "Three pink objects were observed in a V formation in Amarillo, Texas on August 29, 1952.",
+    "interesting points": "The objects were pink and round in shape,The sighting lasted approximately 2 seconds,The objects were possibly balloons or military aircraft,No sound was heard accompanying the departure of the objects,The observer was a captain in the USAF and the sighting was confirmed by his wife.",
+    "sighted object": "three pink round objects in V formation",
+    "location": "Amarillo, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "captain in the USAF and his wife",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer spotted a bell-shaped object moving from east to west at jet speed in Shelton, Washington on April 5, 1957.",
-    "interesting points": [
-        "The object was estimated to be 6-8 feet in diameter and had a tail resembling a helicopter.",
-        "The object emitted a greenish, orange glow.",
-        "The sighting lasted for 2-3 minutes.",
-        "The observer believed the sighting was probably caused by an aircraft.",
-        "The report includes a hand-drawn sketch of the object, but no photographs."
-    ],
-    "result": "Probably Aircraft",
-    "sighted object": "Bell-shaped object",
-    "location": "Shelton, Washington",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "Civilian observer reported a sighting of an object resembling a bell, moving from East to West at high speed on 5 April 1957 in Shelton, Washington.",
+    "interesting points": "The object was estimated to be 6 to 8 feet in diameter., The sighting lasted for about 2 to 3 minutes., The object emitted a greenish, orange glowing light., The observer speculated that the sighting was probably caused by an aircraft., The object had a tail resembling that of a helicopter.",
+    "sighted object": "object resembling a bell",
+    "location": "Shelton, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

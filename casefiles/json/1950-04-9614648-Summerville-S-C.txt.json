@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "An unidentified flying object was observed over Summerville, South Carolina on April 3, 1950.",
-  "interesting points": [
-    "The object was described as moving slowly, about 150 feet above a house.",
-    "Multiple witnesses, including Mrs. Bright and some children, observed the object for several minutes.",
-    "The object was described as 'colored caramel' in color and attracted the attention of other witnesses in the area.",
-    "Mr. Summerville noticed the object while looking up at the sky, and stated it was traveling in a northerly direction and appeared to be hovering.",
-    "The report notes that the object's behavior was unusual, and it was traveling 'pretty fast.'"
-  ],
-  "result": "unexplained",
-  "sighted object": "an unidentified flying object",
-  "location": "Summerville, South Carolina",
-  "witnesses": "Mrs. Bright, children, Mr. Summerville",
-  "photographs": "no, the report does not include any photographs"
+    "main event": "An unidentified flying object was observed over Summerville, South Carolina on 3 April 1950.",
+    "interesting points": "The object was described as 'colored caramel' and very shiny., It passed directly over a civilian woman's home with no noise., The object was observed traveling slowly about 150 feet above ground., Multiple witnesses, including children and Mr. Summerville, reported the sighting., The object was initially seen around 1530 hours and hovered while moving in a northerly direction.",
+    "sighted object": "unidentified flying object",
+    "location": "Summerville, South Carolina, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "a civilian woman, children in the neighborhood, and Mr. Summerville",
+    "contains photographs": false
 }

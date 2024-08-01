@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white object, the size of a basketball, was observed hovering at treetop level and then moving down and disappearing behind clouds.",
-    "interesting points": [
-        "The object was observed for about 1 minute.",
-        "The object moved in a steady, brilliant manner.",
-        "The report concludes there was insufficient data to evaluate the sighting.",
-        "The object was similar in appearance to a weather flare balloon, but the local weather station reported no flare balloon was aloft at the time.",
-        "The sighting was made from the Holloman Control Tower, with the observer using binoculars."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright white object, size of a basketball",
-    "location": "Holloman Control Tower, Holloman AFB, New Mexico",
-    "witnesses": "airdrome officer, tower operator",
-    "photographs": "yes"
+    "main event": "A bright white object, size of a basketball, was reported hovering at treetop level before moving down and disappearing behind clouds on July 27, 1958.",
+    "interesting points": "The object was observed for a duration of 1 minute., It was described as being steady and brilliant in appearance., The sighting occurred at treetop level., There was no physical evidence available to support the sighting., The weather conditions at the time were overcast with light drizzle.",
+    "sighted object": "a bright white spherical object",
+    "location": "Holloman, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Airdrome officer who called the tower operator's attention to the object.",
+    "contains photographs": true
 }

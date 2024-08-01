@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A white oval object was observed traveling east to west at a high speed of 1500-2000 mph on radar at Misawa AFB, Japan on July 26, 1961.",
-  "interesting points": [
-    "The object was observed through the scope on the radar and suddenly disappeared from the radar scope after about 2 minutes of observation.",
-    "The object was traveling at a very high velocity that could not have been a meteor or any other natural phenomenon.",
-    "The radar operator was a well-trained operator and was convinced the object was a definite solid object under intelligent control.",
-    "The weather conditions at the time included high broken clouds with 10 mile visibility and winds from 202 degrees.",
-    "The report indicates this sighting was noteworthy due to recent movements of Soviet ships and the unusual characteristics of the object."
-  ],
-  "result": "unexplained",
-  "sighted object": "white oval object",
-  "location": "Misawa AFB, Japan",
-  "witnesses": "radar operator",
-  "photographs": "no"
+    "main event": "A white oval object was observed traveling east to west at high speed, then disappeared from radar after 2 minutes.",
+    "interesting points": "The object was observed on ground radar at a velocity estimated between 1500-2000 mph., The observation took place at Misawa Air Force Base in Japan on July 26, 1961., The radar operator was convinced it was a solid object under intelligent control., There were no other aircraft or known objects in the vicinity during the sighting., The observation lasted for about 2 minutes before the object vanished.",
+    "sighted object": "one white oval object",
+    "location": "Misawa, Japan",
+    "number of confirmed witnesses": 1,
+    "witness description": "a well-trained radar operator",
+    "contains photographs": false
 }

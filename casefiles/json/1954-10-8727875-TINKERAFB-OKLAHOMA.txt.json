@@ -1,15 +1,9 @@
 {
-    "main event": "Radar detection of a single unidentified object at Tinker AFB, Oklahoma on October 8, 1954",
-    "interesting points": [
-        "The object exhibited unusual flight characteristics, such as approaching, turning around, and disappearing on the radar display",
-        "The radar return was determined to be caused by a person signal rather than a single target",
-        "Multiple references were made to similarities with "UFO returns" in the report",
-        "The report includes an air intelligence information report on the observation of luminous objects at Tinker AFB",
-        "The report appears to be part of the Project Blue Book UFO investigation documents"
-    ],
-    "result": "unexplained",
-    "sighted object": "single unidentified object detected on radar",
-    "location": "Tinker AFB, Oklahoma",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A ground radar observation of a luminous object at Tinker AFB.",
+    "interesting points": "The observation lasted between 3 to 5 minutes., The report was part of the Project Blue Book UFO investigation., The source of the report was military., The radar signal indicated a return due to a person signal rather than a single target., The approach, turnaround, and disappearance of the signal were noted in the report.",
+    "sighted object": "luminous object",
+    "location": "Tinker AFB, Oklahoma, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "military radar operators",
+    "contains photographs": false
 }

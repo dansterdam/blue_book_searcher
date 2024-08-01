@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, variable red, orange, and green object was observed for over an hour, moving vertically and horizontally before appearing to descend to the ground in Glendive, Montana in 1955.",
-    "interesting points": [
-        "The object appeared star-shaped and its color varied between red, orange, and green.",
-        "The object maneuvered both vertically and horizontally from its original sighting point.",
-        "The object finally appeared to descend and land at the end of the 70-minute observation period.",
-        "An investigation was authorized for this sighting by the 4602nd Air Intelligence Service Squadron.",
-        "The report concludes that the sighting was not due to any known astronomical objects like Venus, Mars, Jupiter, or Saturn."
-    ],
-    "result": "unknown",
-    "sighted object": "a round, variable colored object",
-    "location": "Glendive, Montana",
-    "witnesses": "a civilian man and woman",
-    "photographs": "no"
+    "main event": "A civilian observed one round object shaped like a star, emitting variable red, orange, and green colors in Glendive, Montana on July 25, 1955.",
+    "interesting points": "The object maneuvered both vertically and horizontally from its original point of sighting., The sighting lasted for 1 hour and 10 minutes., The object descended at the end of the sighting and appeared to land., Venus, Mars, Jupiter, and Saturn were out at the time, but the object was concluded to be Arcturus., An investigation was authorized for this case, indicating potential official interest.",
+    "sighted object": "one round object shaped like a star",
+    "location": "Glendive, Montana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a house painter and a housewife",
+    "contains photographs": false
 }

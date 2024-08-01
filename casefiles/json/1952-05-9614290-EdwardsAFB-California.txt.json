@@ -1,15 +1,9 @@
 {
-    "main event": "Two disc-shaped objects were observed making rapid, erratic maneuvers over Edwards Air Force Base, California on May 29, 1952.",
-    "interesting points": [
-        "The objects were sighted by a number of reliable observers.",
-        "One of the objects revealed a difference of fifty-five degrees in the angle of observation compared to the other object, suggesting the objects were not conventional aircraft.",
-        "The objects ranged in altitude from 20,000 to 50,000 feet and appeared to be in level flight, in a slightly downward direction.",
-        "The objects were traveling at an estimated speed of between 400 and 500 knots and maintained a constant altitude and speed.",
-        "A low-flying, fast-moving object was also observed at about the same time and location, moving at a very high rate of speed."
-    ],
-    "result": "unexplained",
+    "main event": "Two disc-shaped objects were observed making rapid maneuvers over Edwards AFB, California, on May 29, 1952.",
+    "interesting points": "The objects demonstrated unusual performance characteristics that differed from known aircraft., The observed speed of the objects was between 400 and 500 knots., The sighting was made by 7 technical personnel considered reliable observers., The weather conditions during the sighting were excellent, with visibility of 20 miles., No physical evidence or known meteorological conditions accounted for the sighting.",
     "sighted object": "two disc-shaped objects",
-    "location": "Edwards AFB, California",
-    "witnesses": "7 technical personnel",
-    "photographs": "no"
+    "location": "Edwards AFB, California, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "technical personnel",
+    "contains photographs": false
 }

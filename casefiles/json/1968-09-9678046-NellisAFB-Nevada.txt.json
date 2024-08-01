@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light with a flashing red light at the top and solid green areas at the bottom was observed near Nellis AFB in Nevada for about 40 minutes.",
-    "interesting points": [
-        "The object was observed to glow brightly and expand or elongate, then shrink back to its original size and shape. It hovered, then moved upward out of sight.",
-        "The object did not appear to move laterally, although it seemed to shift slightly from side to side.",
-        "The object was estimated to be about 5 feet in diameter and approximately 10 miles away from the observation point.",
-        "No sound, odor, or heat was detected from the object, and it did not disturb the ground or leave any physical evidence.",
-        "The civilian scientist who observed the object reported it through proper channels to have it investigated."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light with flashing red and solid green areas",
-    "location": "near Nellis AFB, Nevada",
-    "witnesses": "civilian scientist for the United States Air Force",
-    "photographs": "no"
+    "main event": "A civilian scientist at Nellis AFB observed a bright light with a flashing red light on top for about 40 minutes, concluding it may have been a balloon.",
+    "interesting points": "The object glowed brightly and expanded, then shrank back to original size,It hovered before moving upwards out of sight,The object was approximately 5 feet in diameter and 10 miles away,It did not emit any sound or leave physical evidence,The sighting lasted about 5 minutes with no unusual aerial maneuvers.",
+    "sighted object": "a bright light with a flashing red light and solid green areas",
+    "location": "Nellis AFB, Nevada, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian Scientist for the United States Air Force",
+    "contains photographs": true
 }

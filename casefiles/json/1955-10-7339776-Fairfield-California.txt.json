@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two objects were detected on radar in close proximity, passing overhead at high speed in Fairfield, California on October 22, 1955.",
-    "interesting points": [
-        "The objects appeared to be alternating between a straight and level flight path.",
-        "There was a discrepancy between the visual observation and the radar observation, making it difficult to identify the objects.",
-        "The investigating officer could not determine the cause of the sighting and forwarded the case to ATIC as 'unknown'.",
-        "The report notes that due to the delay and the discrepancy, no investigation was authorized.",
-        "The source of the report was considered reliable."
-    ],
-    "result": "unknown",
-    "sighted object": "two objects detected on radar",
-    "location": "Fairfield, California",
-    "witnesses": "civilian, radar operator",
-    "photographs": "none"
+    "main event": "Two unidentified objects were observed on radar in close proximity on two separate occasions.",
+    "interesting points": "The first sighting lasted for about 5 minutes with the objects alternating between straight and level flight paths., The second sighting showed one possibly two objects passing overhead at high speed., No metallic appearance or sound was noted during the second sighting., Both sightings had discrepancies between visual and radar observations., The investigations were limited due to military protocols and insufficient data for evaluation.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Fairfield, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "D.A.I.C.V. visual, reliable source",
+    "contains photographs": false
 }

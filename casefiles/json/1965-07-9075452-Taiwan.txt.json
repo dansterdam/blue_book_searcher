@@ -1,15 +1,9 @@
 {
-    "main event": "Four objects were observed stationary overhead in Taiwan for about 4.5 minutes. At various intervals, three other objects were observed for 4 minutes, 10 minutes, and 1 minute.",
-    "interesting points": [
-        "The objects were too close to the sun for identification as the sunlight reflected off them, and they were too small to be identified as aircraft or balloons.",
-        "The flight characteristics of the objects, including starting, stopping, and making right angle turns, did not match known aircraft or balloon behavior.",
-        "Other similar sightings were reported in the area.",
-        "The sightings lasted for varying lengths of time, from 1 minute to over 10 minutes.",
-        "No photographs or physical evidence of the objects were obtained."
-    ],
-    "result": "unexplained",
-    "sighted object": "Four stationary objects, plus three additional objects observed at different times",
+    "main event": "Four objects were observed in the sky over Taiwan for approximately 4.5 minutes during a military report on 14 July 1965.",
+    "interesting points": "The objects varied in appearance and course,Three other objects were observed at different intervals for varying lengths of time,The report concluded that the objects resembled a satellite or aircraft,No physical evidence was collected or photos taken,Observers consisted of military personnel with experience in visual identification.",
+    "sighted object": "four unidentified flying objects",
     "location": "Taiwan",
-    "witnesses": "Military personnel",
-    "photographs": "No"
+    "number of confirmed witnesses": 4,
+    "witness description": "military personnel with visual observation experience",
+    "contains photographs": false
 }

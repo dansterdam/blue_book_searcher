@@ -1,15 +1,9 @@
 {
-    "main event": "A military pilot and observer spotted an unidentified bright white object with a tail that appeared to be a meteor-like object descending from the sky over Luke AFB, Arizona on December 15, 1954.",
-    "interesting points": [
-        "The object appeared as a bright white light that descended towards the observers, gaining intensity and apparent speed with a tail forming as it fell.",
-        "The object eventually burned out and broke apart, dulling to an orange color.",
-        "The pilots were flying an F-121 aircraft at the time of the sighting.",
-        "Weather conditions at the time included an overcast sky and varying wind speeds and temperatures at different altitudes.",
-        "The report indicates that other unidentified objects were detected in the area by the Phoenix Air Defense Sector around the same time."
-    ],
-    "result": "Inconclusive, possibly a satellite decay or meteor-like object",
-    "sighted object": "A bright white object with a tail, appearing to be a meteor-like object",
-    "location": "Luke AFB, Arizona",
-    "witnesses": "Military pilots and observers",
-    "photographs": "No"
+    "main event": "A military report from Luke AFB, Arizona detailed the observation of an unidentified aerial object on December 15, 1954.",
+    "interesting points": "The observation lasted for 15-20 seconds., The object was reported to have a northward course., The conclusion of the report indicated satellite decay as the cause of the observation., A second document noted the appearance of a bright white light with a tail, resembling a meteorite., The object was observed at an altitude of approximately 19,233 feet.",
+    "sighted object": "unidentified aerial object",
+    "location": "Luke AFB, Arizona, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel from Luke AFB",
+    "contains photographs": false
 }

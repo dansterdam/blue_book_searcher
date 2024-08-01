@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A military pilot observed a fast-moving white object with a trail that appeared to be fluorescent for one second.",
-    "interesting points": [
-        "The object was traveling at a tremendous speed and disappeared almost instantly.",
-        "The object was at an extremely high elevation, estimated around 32 degrees up from the horizon.",
-        "The object's trail appeared to evaporate instantly as it moved from west to east.",
-        "The sighting lasted between 2117032 and 2117132 (approximately 1 minute).",
-        "The report concludes the object was more likely a meteor than the expected 58-Delta-1 satellite due to the speed and short duration of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fast-moving white object with a fluorescent trail",
-    "location": "Ladd AFB, Alaska",
-    "witnesses": "a military pilot",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An unidentified object was reported on June 11, 1959, traveling at tremendous speed and leaving a white fluorescent trail.",
+    "interesting points": "The object disappeared almost instantly after being observed., The sighting involved rapid movement and a high altitude., The object was perceived to be too high to be a conventional aircraft or balloon., The object's trail evaporated instantly after its passage., The report was filed by a pilot acting intelligence officer at Ladd AFB, Alaska.",
+    "sighted object": "an unidentified flying object with a white fluorescent trail",
+    "location": "Ladd AFB, Alaska, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Henry J. Mehserele, 1/LT, 449TH FIS, reliable pilot acting as intelligence officer",
+    "contains photographs": false
 }

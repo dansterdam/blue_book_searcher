@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A teleexchange operator observed an oval or sugar-shaped lighted object approach and hover near his door, about 5 feet off the ground, for around 10-15 minutes on the night of November 5, 1966.",
-    "interesting points": [
-        "The object was approximately 20 feet by 12 feet in size and emitted a high-pitched noise.",
-        "The object had a reddish-white light emanating from the bottom and appeared to be solid.",
-        "The object hovered over the observer's automobile, though it was raining at the time and the area under the object remained dry.",
-        "The observer was afraid to look directly at the object and could not see the moon or stars during the event.",
-        "The object eventually returned to the light and departed the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oval or sugar-shaped lighted object",
-    "location": "Willow Grove, Pennsylvania",
-    "witnesses": "a teleexchange operator",
-    "photographs": "none"
+    "main event": "An unidentified object was reported in Philadelphia, Pennsylvania on 5 November 1966.",
+    "interesting points": "The object was described as oval or sugar-shaped with dimensions approximately 20' by 12',The observer first noticed a high-pitched noise on their radio prior to seeing the object,The object hovered and descended to about 5 feet from the observer's door,The sighting lasted for approximately 10-15 minutes despite rain,The area under the object remained dry during the event.",
+    "sighted object": "oval or sugar-shaped lighted object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a Teleexchange operator, intelligent, alert and observant",
+    "contains photographs": false
 }

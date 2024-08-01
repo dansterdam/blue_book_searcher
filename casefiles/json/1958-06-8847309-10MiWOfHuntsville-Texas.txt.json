@@ -1,15 +1,9 @@
 {
-    "main event": "Observation of an oval-shaped object near Huntsville, Texas on 12/10/62.",
-    "interesting points": [
-        "The object was described as oval-shaped, the size of a pin's head, and as bright as a second magnitude star.",
-        "The object was observed on ground radar and crossed the area at the same time as the predicted orbit of Sputnik III.",
-        "The Project Officer concluded the object was possibly a balloon, aircraft, or astronomical in nature, but there was insufficient data to evaluate it.",
-        "A later sighting was reported by a crew member on a B-52 flight, who described an oval-shaped reddish object the size of a pin's head that was as bright as a second magnitude star.",
-        "The B-52 crew member was able to observe the object for about 2 seconds as it passed through the field of view."
-    ],
-    "result": "unknown",
+    "main event": "An oval-shaped object was sighted near Huntsville, Texas on December 10, 1962.",
+    "interesting points": "The object was reported to be the size of the head of a pin and as bright as a second magnitude star, The sighting was conducted via ground radar, and the object was believed to be too fast to be an aircraft and slower than a shooting star, There was speculation that the object could have been Sputnik III due to the timing of its appearance, The observation lasted for approximately 2 minutes, The Project Officer concluded there was insufficient data for definitive evaluation, considering various possibilities for the object's nature.",
     "sighted object": "oval-shaped object",
-    "location": "10 miles west of Huntsville, Texas",
-    "witnesses": "ground radar operators, B-52 crew member",
-    "photographs": "no"
+    "location": "10 MI W of Huntsville, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

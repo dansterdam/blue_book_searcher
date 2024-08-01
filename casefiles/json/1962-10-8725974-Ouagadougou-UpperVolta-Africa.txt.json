@@ -1,15 +1,9 @@
 {
-    "main event": "A radar-detected object was found near Ouagadougou, Upper Volta (now Burkina Faso), Africa in 1962.",
-    "interesting points": [
-        "The object was oval-shaped and white in color.",
-        "The observation of the object lasted 4-5 minutes.",
-        "The object was moving in a northerly direction.",
-        "The object was believed to be part of a disintegrated object, possibly a guidance control element.",
-        "The object was examined, and efforts were made to gain possession of the complete article, with a decision to be made on further disposition."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oval-shaped, white object detected on radar",
-    "location": "Ouagadougou, Upper Volta (now Burkina Faso), Africa",
-    "witnesses": "radar operators",
-    "photographs": "no photographs available"
+    "main event": "A ground-radar observation of a white oval object near Ouagadougou, Upper Volta, Africa on October 5, 1962.",
+    "interesting points": "The sighting lasted 4-5 minutes and involved only one object,The course of the object was northerly,The observation was conducted as per a request by field workers,The report includes a telegram from the Department of State regarding material found nearby,The shape and configuration of the observed object indicated it may have disintegrated due to heat.",
+    "sighted object": "one white oval object",
+    "location": "Ouagadougou, Upper Volta, Africa",
+    "number of confirmed witnesses": 1,
+    "witness description": "ground-radar observation by field workers",
+    "contains photographs": false
 }

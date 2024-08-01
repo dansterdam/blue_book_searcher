@@ -1,15 +1,9 @@
 {
-    "main event": "A glowing object was photographed in the night sky over St. George, Minnesota in 1965.",
-    "interesting points": [
-        "The photograph is labeled 'UNCLASSIFIED' and 'FOREIGN TECHNOLOGY DIVISION, AFSC', indicating it was part of a government investigation.",
-        "The photograph shows a bright, glowing object in the center of a starry night sky.",
-        "The report does not provide any additional details about the sighting or the circumstances surrounding the photograph.",
-        "The report mentions that the image is a single photograph, but does not indicate if there were any other photographs or evidence related to the incident.",
-        "The location of the sighting is specified as St. George, Minnesota."
-    ],
-    "result": "unexplained",
+    "main event": "A UFO report dated October 21, 1965, was filed concerning a glowing object in the night sky over St. George, Minnesota.",
+    "interesting points": "The report includes a black-and-white photograph of the glowing object,The photograph shows a starry night sky,The report is labeled 'UNCLASSIFIED' and comes from the Foreign Technology Division, AFSC,The glowing object is centrally positioned in the image,The document is dated and organized in a structured manner.",
     "sighted object": "a bright, glowing object in the night sky",
-    "location": "St. George, Minnesota",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes a single photograph"
+    "location": "St. George, Minnesota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified in the document",
+    "contains photographs": true
 }

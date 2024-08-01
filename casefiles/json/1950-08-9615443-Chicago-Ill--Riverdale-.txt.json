@@ -1,15 +1,9 @@
 {
-  "main event": "A report of a 'flying disc' over Riverdale, Chicago, on 7 August 1950, described as traveling very high and very fast by witnesses.",
-  "interesting points": [
-    "The report was investigated with negative results, with no identifying data available and no photographic evidence.",
-    "Witnesses were unable to furnish further details concerning the incident, and no further investigation was contemplated by the headquarters.",
-    "The 'flying disc' was described as too round to be an airplane and traveling too fast to be a balloon.",
-    "The document is related to Project Blue Book, a United States Air Force program to investigate unidentified flying objects (UFOs).",
-    "The report was prepared by a local intelligence officer and addressed to the Commanding General at the Wright-Patterson Air Force Base."
-  ],
-  "result": "unexplained",
-  "sighted object": "flying disc",
-  "location": "Riverdale, Chicago, IL",
-  "witnesses": "32 witnesses",
-  "photographs": "no photographic evidence"
+    "main event": "A flying disc was reported circling over Riverdale, Chicago on 7 August 1950.",
+    "interesting points": "The object was described as traveling very high and very fast., A witness reported hearing what sounded like an airplane before seeing the object., The flying disc was observed by 32 witnesses., The object was described as too round to be an airplane and too fast to be a balloon., No further investigation was deemed necessary by headquarters.",
+    "sighted object": "a flat circular object",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 32,
+    "witness description": "witnesses near Riverdale who reported the sighting",
+    "contains photographs": false
 }

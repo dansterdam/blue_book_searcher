@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "A bright, oval-shaped object accompanied by smaller objects was sighted over British Honduras, Central America on July 8, 1962.",
-    "interesting points": [
-        "The larger object was estimated to be approximately 30 to 40 feet in diameter, and the smaller objects were approximately 6 to 8 feet in diameter.",
-        "The objects were observed for about 10 to 15 minutes before they accelerated and disappeared from view.",
-        "No sound was heard and no landing was reported.",
-        "The weather was clear at the time of the sighting.",
-        "The case remains unresolved, as no definitive explanation could be determined for the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, oval-shaped object accompanied by smaller objects",
+    "main event": "On the evening of 8 July 1962, a police officer reported seeing a bright object in the sky over British Honduras that hovered for about 10 minutes before accelerating and disappearing.",
+    "interesting points": "The object appeared to be oval in shape and was estimated to be 30 to 40 feet in diameter,Three smaller objects were also seen, approximately 6 to 8 feet in diameter,The officer noted that the object was 3 times larger than a star and pulsated at times,No sound was heard during the observation,The case remains unresolved as no definitive explanation was found.",
+    "sighted object": "a bright oval object accompanied by smaller objects",
     "location": "British Honduras, Central America",
-    "witnesses": "police officer",
-    "photographs": "no photographs present"
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer was a police officer",
+    "contains photographs": false
 }

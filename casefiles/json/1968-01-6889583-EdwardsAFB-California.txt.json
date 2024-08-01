@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified aerial object was observed at Edwards Air Force Base, California on January 23-24, 1968.",
-    "interesting points": [
-        "The object was solid and circular in shape, about the size of a barrack's window.",
-        "The object was yellowish in color with fuzzy edges.",
-        "The object rose in an upward arc, starting at roof level.",
-        "The observation lasted for about 5 minutes.",
-        "A control tower operator viewed the object and stated it appeared to be a balloon with a small light attached."
-    ],
-    "result": "Possible (BALLOON W/ATTACHED LIGHT)",
-    "sighted object": "A solid, circular object about the size of a barrack's window",
-    "location": "Edwards Air Force Base, California",
-    "witnesses": "Airman Kim Degenhardt, Security Police, and a control tower operator",
-    "photographs": "Yes, 2 negative photographs"
+    "main event": "An unidentified aerial phenomenon was observed at Edwards Air Force Base in California on the night of January 23-24, 1968.",
+    "interesting points": "The object was circular and solid, about the size of a barrack's window,The object was yellow with fuzzy edges and rose in an upward arc starting at roof level,The sighting lasted for 5 minutes and was observed visually from the ground, Airman Kim Degenhardt, of Security Police, was the reliable observer, There were no aircraft or scheduled balloon activities reported in the area at the time of the sighting.",
+    "sighted object": "a yellow circular object with fuzzy edges",
+    "location": "Edwards AFB, California",
+    "number of confirmed witnesses": 1,
+    "witness description": "Airman Kim Degenhardt, Security Police, very reliable",
+    "contains photographs": false
 }

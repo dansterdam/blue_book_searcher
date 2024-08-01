@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report:
-
 {
-    "main event": "A witness spotted a jet-sized object with a pointed front and orange color with fire on the sides over Los Angeles, California on September 9, 1965.",
-    "interesting points": [
-        "The object moved in a southeastern direction.",
-        "It was observed at 2155 local time.",
-        "The weather conditions were clear.",
-        "The reporting officer was unable to contact the observer.",
-        "The object was described as jet-sized with a pointed front, orange in color, and had fire on the sides."
-    ],
-    "result": "unexplained",
-    "sighted object": "jet-sized object with pointed front, orange color, and fire on the sides",
-    "location": "Los Angeles, California",
-    "witnesses": "unidentified observer",
-    "photographs": "none"
+    "main event": "On September 9, 1965, a civilian reported observing a UFO in Los Angeles, California, for approximately 2-3 minutes.",
+    "interesting points": "The object was initially thought to be the moon but was determined to be a separate entity., The object appeared elliptical or bullet-shaped and emitted a slight sound, described as 'very slight.', The light from the object was reported to be brighter than electrical house lights., Witnesses noted that the object moved slowly at first, and then seemed to quicken its pace and ascend., The conclusion by the observer was that it was likely an astro phenomenon, such as a meteor.",
+    "sighted object": "an elliptical or bullet-shaped object",
+    "location": "Los Angeles, Cypress, California",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer, profession not specified.",
+    "contains photographs": false
 }

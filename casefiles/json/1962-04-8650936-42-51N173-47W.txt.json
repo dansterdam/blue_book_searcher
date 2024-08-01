@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Navy barrier aircraft reported a satellite at 42°51' N 173°47' W at 0823Z on April 15, 1962, moving very fast towards the northeast.",
-    "interesting points": [
-        "The sighting was reported via a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The object was initially identified as a satellite, but its high speed and unusual movement were noted.",
-        "The report was evaluated, and it was determined that the object posed no threat.",
-        "The report was distributed to multiple military and government agencies, including the Joint Chiefs of Staff and the Commander-in-Chief of the Pacific Fleet.",
-        "The report indicates the use of advanced communication and tracking systems to monitor objects in the sky."
-    ],
-    "result": "evaluated as a satellite, but with unusual characteristics",
-    "sighted object": "a fast-moving object in the sky, initially identified as a satellite",
-    "location": "42°51' N 173°47' W",
-    "witnesses": "Navy barrier aircraft",
-    "photographs": "none"
+    "main event": "A CIRVIS report of a satellite observed at 42°53' N 173°47' W on 15 April 1962.",
+    "interesting points": "The object was reported to be moving very fast in an east-west direction,It was evaluated and suggested that it could be a balloon, aircraft, or astronomical object,The report was part of an incoming message from the Department of the Air Force,Other possible causes for evaluation were listed as unknown, There were no photographs included in the file.",
+    "sighted object": "a satellite",
+    "location": "Unknown, Unknown, Unknown",
+    "number of confirmed witnesses": 1,
+    "witness description": "A military report documenting the sighting.",
+    "contains photographs": false
 }

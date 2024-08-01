@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An unidentified object was observed on radar near Kennedy Airport in Brooklyn, New York on March 8, 1963.",
-    "interesting points": [
-        "The object appeared to fly and then stop, and at times appeared to be stationary, while radar indicated it was approximately 6 miles east of Kennedy Airport.",
-        "The object was observed at an altitude of 15-20,000 feet and had a bright light that would sometimes move as in a theater marquee.",
-        "The object's capabilities were far beyond a commercial type of aircraft.",
-        "The object did not present a threat to the security of the United States.",
-        "The observation lasted for 55 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright light, hovering object",
-    "location": "Brooklyn, New York",
-    "witnesses": "ground-based radar",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An object was observed showing characteristics far beyond those of commercial aircraft, including hovering and bright lights, on 8 March 1963.",
+    "interesting points": "The sighting lasted for 55 minutes,The radar indicated the object was approximately 6 miles east of Kennedy Airport,The object shifted from flying to appearing stationary,The lights were compared to a DC-4,The report concluded that the object did not present a security threat to the U.S.",
+    "sighted object": "a bright light hovering at 15-20,000 feet",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witness description provided",
+    "contains photographs": true
 }

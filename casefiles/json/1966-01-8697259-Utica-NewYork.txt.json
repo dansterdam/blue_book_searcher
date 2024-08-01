@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Utica, New York reported seeing an unusual aerial object on January 4, 1964 around 11:30 PM.",
-    "interesting points": [
-        "The object was observed for a varied length of time.",
-        "The object's motion was described as varied, with no clear evidence that it was a separate star, planet, meteor, or aircraft.",
-        "The report includes a conflicting description, stating there was 'no evidence' but also that 'the nature of the data the observers made remains unclear'.",
-        "The Air Force investigated the sighting but had no other reports from New York on that night, and requested the witness provide any additional information or evidence.",
-        "A retired Air Force lieutenant colonel also reported seeing an unusual fast-moving object over Utica, New York on January 6, 1966."
-    ],
-    "result": "inconclusive",
-    "sighted object": "one unusual aerial object",
-    "location": "Utica, New York",
-    "witnesses": "civilian, retired Air Force lieutenant colonel",
-    "photographs": "no"
+    "main event": "A civilian reported observing an unusual aerial object in Utica, New York on January 5, 1966, which hovered for a few minutes before accelerating away at high speed.",
+    "interesting points": "The object was first seen hovering motionless at a high angle in the northeast direction,The object appeared to be the size of a full moon and exhibited a pulsing illumination,Witnesses stated that the acceleration of the object was beyond the capability of known aircraft,There were multiple reports of sightings in the area around the same time,The letter from Project Blue Book requested additional information and emphasized the lack of reports from New York for the specified date.",
+    "sighted object": "an unusual aerial object exhibiting intermittent illumination",
+    "location": "Utica, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a married couple observing from their home",
+    "contains photographs": false
 }

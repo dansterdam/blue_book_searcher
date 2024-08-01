@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two white, circular objects, one above the other, side by side, were observed passing through an opening in the area.",
-    "interesting points": [
-        "The objects were the size of a golf ball in flight.",
-        "The light from the objects faded when they were covered by a hatch in the area.",
-        "The objects were observed as they passed through an opening in the area.",
-        "The sighting was reported by the Boeing Aircraft Company in Seattle, Washington.",
-        "The sighting duration was approximately 2 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "two white, circular objects",
-    "location": "Seattle, Washington",
-    "witnesses": "Boeing Aircraft Company personnel",
-    "photographs": "none"
+    "main event": "Two white circular objects were observed in the sky side by side, one above the other, appearing the size of a golf ball.",
+    "interesting points": "The sighting was reported by Boeing Aircraft Company,The objects emitted a slight whine sound,The objects passed through an opening and light faded upon being covered by a hatch,The observation lasted for approximately 2 minutes, and they were moving in a northward direction.",
+    "sighted object": "two white circular objects in the sky",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Boeing Aircraft Company personnel",
+    "contains photographs": false
 }

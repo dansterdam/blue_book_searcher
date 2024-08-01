@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A bright, large circular flying object was sighted hovering over Mackenzie Bay, Alaska on March 31, 1960. The object then made a fast accelerating climb to the north over the horizon. Three smaller objects were also associated with the larger object, following a similar pattern.",
-    "interesting points": [
-        "The object was described as bright and large, with a circular shape.",
-        "The object was observed hovering, then made a fast accelerating climb to the north over the horizon.",
-        "Three smaller objects were associated with the larger object, following a similar pattern of movement.",
-        "The sighting lasted for about 5 minutes.",
-        "The report states that while there was no verification, some data was available for evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, large circular flying object with three smaller associated objects",
-    "location": "Mackenzie Bay, Alaska",
-    "witnesses": "air crew (pilot, co-pilot, navigator)",
-    "photographs": "no"
+    "main event": "A bright, large circular flying object was observed hovering and then rapidly climbing to the north over Mackenzie Bay, Alaska on March 31, 1960, along with three smaller objects.",
+    "interesting points": "The main object was described as bright and large, The sighting lasted for 5 minutes, The three smaller objects followed a similar pattern as the main object, There was no verification of the sighting, but data was available for evaluation, The sighting was a ground-visual observation.",
+    "sighted object": "a bright, large circular flying object and three smaller objects",
+    "location": "Mackenzie Bay, Alaska, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses confirmed",
+    "contains photographs": false
 }

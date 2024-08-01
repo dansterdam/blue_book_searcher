@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a white and blue, round-shaped object that appeared triangular when moving, with a tail and a red light on top. The object hovered and moved back and forth.",
-    "interesting points": [
-        "The object appeared round-shaped unless it was moving, at which point it appeared triangular.",
-        "The object had a tail and a red light on top.",
-        "The object hovered and moved back and forth.",
-        "There was an inversion at 7,000 feet.",
-        "The investigating officer stated the object appeared to be a star or satellite."
-    ],
-    "result": "Insufficient Data",
-    "sighted object": "A white and blue, round-shaped object that appeared triangular when moving, with a tail and a red light on top",
-    "location": "Rome, N.Y.",
-    "witnesses": "1 civilian observer",
-    "photographs": "No"
+    "main event": "A civilian observed a round-shaped object that appeared triangular while moving, emitting red and blue lights, in Rome, New York on May 20, 1965.",
+    "interesting points": "The object was observed for about 30 minutes,It changed shape and color during observation,The conclusion from the investigating officer was that the object might have been a star or satellite,No photographic evidence was collected with the report,There is a reference to potential weather inversion at 7,000 ft.",
+    "sighted object": "one round-shaped object emitting red and blue lights",
+    "location": "Rome, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer, a fire chief in the Signal Corp",
+    "contains photographs": false
 }

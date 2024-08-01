@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a bright, spherical object moving rapidly in the sky over Hilliard, Ohio on September 7, 1961.",
-    "interesting points": [
-        "The object was tracked on radar for approximately 20 minutes, confirming the visual observations.",
-        "The object changed brightness and appeared to be rounded with a green-colored glow, sometimes appearing as large as a grapefruit.",
-        "The object moved at a high rate of speed, rushing away after initially hovering.",
-        "The observer also reported seeing glowing 'eyes' in the woods, though it's unclear if this was related to the aerial sighting.",
-        "Other residents in the area also reported seeing similar objects flying in formation on August 30, 1961."
-    ],
-    "result": "Unexplained",
-    "sighted object": "A bright, spherical object that changed brightness and color",
-    "location": "Hilliard, Ohio",
-    "witnesses": "A civilian observer and their four sons",
-    "photographs": "None"
+    "main event": "A UFO was observed and tracked on radar near Hilliard, Ohio, on September 7, 1961.",
+    "interesting points": "The object was brighter than a star and changed brightness,It moved rapidly upwards and away from the observer,The object was described as a rounded green-color and compared to the size of a grapefruit,The sighting lasted for approximately 20 minutes and was confirmed via radar,It was noted that the object appeared to be a big white ball at times.",
+    "sighted object": "bright spherical object",
+    "location": "Hilliard, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Observer was a homemaker aged 28, with four sons present during the sighting.",
+    "contains photographs": false
 }

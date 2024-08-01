@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A small, white, donut-shaped object was observed on radar, moving erratically and then breaking into two pieces before disappearing.",
-    "interesting points": [
-        "The object was initially tracked on radar, resembling an interception on a B-47 aircraft.",
-        "The object traveled north on the same track as the B-47, then broke off to the west and went out of sight.",
-        "The sighting lasted for approximately 4 minutes.",
-        "The witnesses, who were survey workers, did not appear to be familiar with aircraft.",
-        "Despite the radar contact, no visual confirmation of the object was made."
-    ],
-    "result": "unidentified",
-    "sighted object": "small, white, donut-shaped object",
-    "location": "Rouge Goupes, British Columbia, Canada",
-    "witnesses": "survey workers",
-    "photographs": "none"
+    "main event": "On March 7, 1961, a small white object shaped like an interrogation mark was observed in British Columbia, moving fast and erratically before breaking into two pieces and disappearing.",
+    "interesting points": "The object was described as small and white with a black center., The sighting lasted for 2-3 minutes., The object was classified as unidentified despite possible explanations including a balloon or aircraft., The witnesses did not appear to be familiar with aircraft., The sighting was recorded in a Project Blue Book report indicating potential military interest.",
+    "sighted object": "small white object shaped like an interrogation mark",
+    "location": "British Columbia, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "Survey worker, age 27, in good health",
+    "contains photographs": false
 }

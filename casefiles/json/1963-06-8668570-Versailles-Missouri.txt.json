@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white object was observed near Versailles, Missouri on June 24, 1963.",
-    "interesting points": [
-        "The object would get dim and then light up again.",
-        "The object was observed at an estimated altitude above 60,000 feet.",
-        "The object was observed for about 15 minutes, during which time it would pause and light up again.",
-        "The object moved in an easterly direction behind trees to the north.",
-        "The sighting was analyzed as possibly a weather balloon observation."
-    ],
-    "result": "was not identified",
-    "sighted object": "round white object",
-    "location": "Versailles, Missouri",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On June 24, 1963, a farmer observed round white objects in the sky near Versailles, Missouri.",
+    "interesting points": "The observation lasted for about 20 minutes,The objects would dim and then light up again,Initial observation indicated the objects were at an altitude above 60,000 feet,The witness described the objects as about the size of a half-dollar held at arm's length,The sighting was observed through binoculars at dusk.",
+    "sighted object": "round white objects in the sky",
+    "location": "Versailles, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "farmer, age 47",
+    "contains photographs": false
 }

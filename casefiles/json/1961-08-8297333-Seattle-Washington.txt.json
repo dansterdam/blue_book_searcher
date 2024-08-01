@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A serviceman in the U.S. Air Force observed a UFO hovering and then accelerating at a high rate of speed out of sight.",
-    "interesting points": [
-        "The serviceman took photographs of the UFO, but the negatives were confiscated by an officer who felt they should not be released to the public.",
-        "The serviceman was disappointed that he was unable to forward the photographs to the local newspaper editor, who had requested such evidence from servicemen.",
-        "The serviceman stated that the object was not a weather balloon or conventional aircraft, and that the incident was real.",
-        "The sighting lasted for several minutes.",
-        "The serviceman expressed a willingness to discuss the incident further with the newspaper editor."
-    ],
-    "result": "unexplained",
-    "sighted object": "a hovering UFO that accelerated at a high rate of speed",
-    "location": "Seattle, Washington",
-    "witnesses": "a U.S. Air Force serviceman",
-    "photographs": "yes, but the negatives were confiscated"
+    "main event": "A caller observed a bright lighting hovering over Seattle, Washington on August 1, 1953.",
+    "interesting points": "The sighting lasted for 5 minutes., 1 object was observed., A photo was taken to prove it was not a balloon., The case was submitted for further evaluation by Mr. Gross., A letter from a 1st Lt. Air Force indicates confiscation of UFO photographs.",
+    "sighted object": "a bright lighting hovering",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "private citizen",
+    "contains photographs": false
 }

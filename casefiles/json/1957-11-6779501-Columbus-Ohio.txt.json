@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "An unidentified object was observed on radar moving rapidly and erratically over Columbus, Ohio.",
-    "interesting points": [
-        "The object was observed on radar for about 4 minutes, making several fast and erratic movements at high speed in various directions.",
-        "Another sighting documented a star-shaped object moving slowly southwest for 10 minutes, which was concluded to be likely the planet Venus.",
-        "No photographs were included in the report.",
-        "The reports are from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects in the 1950s.",
-        "The reports do not provide any additional details beyond the radar observations and the analysis of the second sighting as likely being Venus."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unidentified object on radar",
-    "location": "Columbus, Ohio",
-    "witnesses": "ground radar operators",
-    "photographs": "no"
+    "main event": "A radar detection of an unidentified object moving rapidly and erratically over Columbus, Ohio in the early hours of November 4, 1957.",
+    "interesting points": "The object was seen on radar scope for about 4 minutes., The object made several fast and erratic movements at high speed in various directions., Another sighting recorded on November 15, 1957 described a star-shaped object moving slowly in the sky for 10 minutes., The later sighting was determined to be likely Venus., Both sightings involved a single object being tracked.",
+    "sighted object": "unidentified flying object on radar",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "RADAR observation only, no visual confirmation.",
+    "contains photographs": false
 }

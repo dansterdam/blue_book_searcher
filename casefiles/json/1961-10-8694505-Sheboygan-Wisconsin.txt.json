@@ -1,15 +1,9 @@
 {
-    "main event": "A bright object was spotted high up in the sky in Sheboygan, Wisconsin on February 25, 1961.",
-    "interesting points": [
-        "The object was silvery or golden in color.",
-        "It moved rapidly and disappeared over the horizon in about 30 seconds.",
-        "The object had no trail and made no sound.",
-        "The Air Force requested additional information but did not receive a photo or further details.",
-        "A later letter indicates the Air Force did not believe the sighting was related to Project Blue Book objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, silvery or golden object in the sky",
-    "location": "Sheboygan, Wisconsin",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A bright, silvery or golden object was observed in the sky with rapid motion, disappearing over the horizon in about 30 seconds.",
+    "interesting points": "The sighting occurred on February 25, 1961, at 0235 in the morning., The observation lasted for 30 seconds., The object was noted to have no sound and left no trail., A request for additional information was sent but no further details were received., The project related to this sighting is part of the Project Blue Book investigation.",
+    "sighted object": "bright silvery or golden object in the sky",
+    "location": "Sheboygan, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

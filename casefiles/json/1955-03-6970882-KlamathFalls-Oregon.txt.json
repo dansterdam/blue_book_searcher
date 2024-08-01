@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were observed in the sky over Klamath Falls, Oregon on March 14, 1955.",
-    "interesting points": [
-        "The first object was described as star-like and very bright, with a long observation duration.",
-        "The second object was described as meteor-like, flying from south to north.",
-        "The sighting lasted for 25-30 seconds.",
-        "The objects were evaluated as possibly astronomical, with the first object identified as the planet Jupiter and the second as a meteor.",
-        "The report was classified as a Project 10073 Record Card."
-    ],
-    "result": "Possibly Astronomical",
-    "sighted object": "Two unidentified objects, one star-like and bright, the other meteor-like",
-    "location": "Klamath Falls, Oregon",
-    "witnesses": "Unknown",
-    "photographs": "No"
+    "main event": "A sighting of a very bright star-like object, along with a meteor-like object, was recorded in Klamath Falls, Oregon on March 14, 1955.",
+    "interesting points": "The brightness of the first object was notable, suggesting it was very prominent in the sky., The duration of the observation was between 25 to 30 seconds., The first object was observed to have a long observation period., The second object was described as meteor-like and flew from south to north., The first object was evaluated to be possibly the planet Jupiter by the University of California Observatory.",
+    "sighted object": "star-like object and meteor-like object",
+    "location": "Klamath Falls, Oregon, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none provided",
+    "contains photographs": false
 }

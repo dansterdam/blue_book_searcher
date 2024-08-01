@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A military witness spotted a bright white light object over Price, Utah for 1-2 hours on April 6, 1966.",
-    "interesting points": [
-        "The object appeared as a bright light against the dark sky, with fuzzy and blurred edges.",
-        "The object made no distinct sound.",
-        "The witness took photographs of the object, which showed different shapes and patterns than what was seen with the naked eye.",
-        "The witness had previously seen a similar object in the same location on April 7, 1966.",
-        "The witness described the object as about the size of a match head when held at arm's length."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light",
-    "location": "Price, Utah",
-    "witnesses": "military personnel",
-    "photographs": "yes, included in the report"
+    "main event": "Two military witnesses reported seeing a bright light in the sky over Price, Utah, for 1 to 2 hours.",
+    "interesting points": "The object appeared bright white against a dark sky., The edges of the object were fuzzy and blurred., The object emitted no distinct sound., It had a length of observation of 1 to 2 hours., The sightings occurred on multiple occasions with photographs taken on at least two different dates.",
+    "sighted object": "a bright, indistinct light",
+    "location": "Price, Utah, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel",
+    "contains photographs": true
 }

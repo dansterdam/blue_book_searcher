@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Strange patterns appeared on a television set, which the observer assumed to be various forms of flying saucers or other UFOs.",
-    "interesting points": [
-        "The objects were described as being able to change from a point of light to a blurred outline and back again, indicating some kind of maneuverability.",
-        "The observer believed the objects were not distant stars or planets due to their rapid changes in brightness and ability to maneuver.",
-        "The sighting occurred in a rural area north of Baltimore, Maryland on the evening of April 7, 1964.",
-        "The report mentions that the observer's 12-year-old son also witnessed the event.",
-        "The Air Force response indicates the patterns were likely caused by some type of electrical interference or distortion on the television set, rather than actual UFOs."
-    ],
-    "result": "Possible electrical interference",
-    "sighted object": "Strange patterns on a television screen",
-    "location": "Baltimore, Maryland",
-    "witnesses": "The observer and their 12-year-old son",
-    "photographs": "No photographs included in the report"
+    "main event": "A sighting of strange patterns on a television set was reported, which the observer interpreted as various forms of flying saucers.",
+    "interesting points": "The sighting occurred on April 7, 1964, early in the evening,The object was described as cigar-shaped and capable of quick changes in brightness and mobility,The observer assumed the patterns were caused by flying saucers, but concluded that electronic interference was the likely cause, The report involved a 12-year-old son of the observer, who both witnessed the event together, A letter from the USAF suggested that external electrical interference was responsible for the observed patterns.",
+    "sighted object": "strange patterns resembling flying saucers",
+    "location": "Baltimore, Md., USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "An adult and a 12-year-old boy observing from a rural area",
+    "contains photographs": false
 }

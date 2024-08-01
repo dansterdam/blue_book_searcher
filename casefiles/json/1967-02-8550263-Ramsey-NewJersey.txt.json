@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A stationary, disc-shaped metallic object was observed hovering at a low elevation in Ramsey, New Jersey in February 1967.",
-    "interesting points": [
-        "The object appeared shiny or dull white in color and was observed for approximately 3 hours and 30 minutes.",
-        "At one point, the witness reported seeing beams of light coming from the object.",
-        "The object went behind some trees and a mountain, then went out of sight.",
-        "The witness had not seen a similar object before.",
-        "The witness reported the sighting to the authorities and provided sketches of the object and its movement."
-    ],
-    "result": "unexplained",
-    "sighted object": "a disc-shaped metallic object",
-    "location": "Ramsey, New Jersey",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A civilian reported seeing a stationary, disc-shaped object hovering in Ramsey, New Jersey for approximately 3 hours and 30 minutes in February 1967.",
+    "interesting points": "The object was described as metallic and shiny or dull white in color,The witness claimed to have seen beams of light coming from the object,The object was out of sight behind some trees and then a mountain,The sighting lasted for a substantial duration of over three hours,The report includes sketches depicting the object's position relative to the horizon.",
+    "sighted object": "a stationary disc-shaped object",
+    "location": "Ramsey, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 17-year-old female civilian",
+    "contains photographs": false
 }

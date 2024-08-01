@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A rectangular, white-centered object with red and green sides was observed in the sky over Saginaw, Michigan.",
-    "interesting points": [
-        "The object was sometimes stationary and sometimes moved slightly north.",
-        "The object appeared after 11:00 PM, always at the same position in the sky (290 degrees azimuth, 15 degrees elevation).",
-        "The object was observed through binoculars and completely disappeared from sight at times.",
-        "There was no sound associated with the object.",
-        "The observer was a civilian steel worker in Michigan."
-    ],
-    "result": "unknown",
-    "sighted object": "rectangular, white-centered object with red and green sides",
-    "location": "Saginaw, Michigan",
-    "witnesses": "civilian steel worker",
-    "photographs": "no"
+    "main event": "A rectangular object with a white center and red and green sides was observed in Saginaw, Michigan on August 3, 1955.",
+    "interesting points": "The object appeared sometimes stationary and was reported to have no sound., The object has been observed previously in the same area after 2300 hours., The observation was made using binoculars., The sighting coordinates were at azimuth 290 degrees and elevation 15 degrees., There was a consideration that the sighting could have been a weather balloon, but results were negative.",
+    "sighted object": "rectangular object with a white center and red and green sides",
+    "location": "Saginaw, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "steel worker",
+    "contains photographs": false
 }

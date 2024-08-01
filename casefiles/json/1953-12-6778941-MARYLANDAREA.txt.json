@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO report from 10th December 1953 in the Maryland area concluded the sighting of a meteor moving horizontally.",
-    "interesting points": [
-        "The report contains no photographs or physical evidence.",
-        "Observers described the object as having a gray color and being approximately 45 feet long.",
-        "Witnesses of the event included military and civilian personnel.",
-        "The report includes details of the object's altitude and flight path.",
-        "A separate newspaper report mentioned a strange greenish-blue light in the sky, spotted by RCAF observers, with no satisfactory explanation given."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "a meteor",
-    "location": "Maryland area",
-    "witnesses": "military and civilian personnel",
-    "photographs": "no"
+    "main event": "One meteor was observed moving horizontally over a wide area in Maryland.",
+    "interesting points": "The observation was documented by both military and civilian sources., The meteor was reported to have a color described as greenish-blue., The meteor brightened the clouds as it descended slowly., RCAF observers spotted the object at various points., This event marked the fourth sighting of a similar object in recent weeks.",
+    "sighted object": "meteor",
+    "location": "Maryland, MD, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military and civilian observers",
+    "contains photographs": false
 }

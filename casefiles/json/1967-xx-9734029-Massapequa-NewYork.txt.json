@@ -1,15 +1,9 @@
 {
     "main event": "An unidentified flying object was observed in Massapequa, New York in 1967.",
-    "interesting points": [
-        "The object was described as a bright, silvery object that made a whistling, high-pitched sound.",
-        "The object appeared to be solid and sharply defined, and it changed brightness at times.",
-        "The object was observed for about 5 minutes before being obscured by a passing cloud.",
-        "The observer compared the object's brightness to that of a bright star.",
-        "The observer provided a hand-drawn sketch of the object, which appeared spherical with a trail behind it."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright, silvery spherical object with a trail",
-    "location": "Massapequa, New York",
-    "witnesses": "one observer",
-    "photographs": "no photographs, only a hand-drawn sketch"
+    "interesting points": "The report mentions a questionnaire for witnesses to describe their observation,The object was described as a solid bright white light,The witness indicated that the object appeared bright and silvery,The observation lasted about 5 minutes,Local law enforcement was notified of the sighting.",
+    "sighted object": "unidentified flying object",
+    "location": "Massapequa, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "17-year-old male",
+    "contains photographs": false
 }

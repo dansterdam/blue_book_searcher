@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A civilian in Tupper Lake, New York observed an unidentified white blinking light in the sky on July 10, 1967.",
-    "interesting points": [
-        "The object was observed for 30 minutes and was described as moving like an aircraft light.",
-        "The observer, Herman Meier, reported the sighting to authorities on July 5, 1967.",
-        "The Air Force investigated the sighting and concluded it was likely an aircraft, as there was no data to indicate the object could not have been an aircraft.",
-        "The report includes a sketch by the observer that depicts the object's motion and position in the sky.",
-        "The observer estimated the object was less than a quarter mile away and the size of a football cast."
-    ],
-    "result": "Probable aircraft",
-    "sighted object": "White blinking light",
-    "location": "Tupper Lake, New York",
-    "witnesses": "Herman Meier",
-    "photographs": "No"
+    "main event": "A civilian observed a white blinking light in Tupper Lake, New York on July 10, 1967, for approximately 30 minutes.",
+    "interesting points": "The sighting was reported by Herman Meier, who was returning home from a party at around 10 o'clock at night,The object was described as making no noise and looking almost solid,Meier estimated the object to be 35 to 40 feet in diameter with little lights around the outside and a little light inside,The object moved behind clouds during the observation,The conclusion of the investigation suggested it was likely an aircraft based on the description.",
+    "sighted object": "a white blinking light in the sky",
+    "location": "Tupper Lake, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Herman Meier, resident of Loudonville, N.Y.",
+    "contains photographs": false
 }

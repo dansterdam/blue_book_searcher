@@ -1,15 +1,9 @@
 {
-    "main event": "A person sighted a yellow-pink-orange light that traveled from the northeast to the southwest and disappeared in about 4 seconds over St. Louis, Missouri on February 10, 1962.",
-    "interesting points": [
-        "The observer reported the object as a 'yellow-pink-orange light' that moved at a high speed.",
-        "The object was observed for a brief duration of 4 seconds.",
-        "The object's course was unknown according to the report.",
-        "No photographs were taken of the sighting.",
-        "The conclusion in the report was 'ASTR (METEOR)'"
-    ],
-    "result": "unexplained",
+    "main event": "An observer sighted a yellow-pink-orange light traveling from the NE to the SW for about 4 seconds.",
+    "interesting points": "The observation lasted for a brief duration of only 4 seconds,The light disappeared quickly after being sighted,The observer described the phenomenon as having a unique color palette of yellow, pink, and orange,The sighting was visually confirmed by a civilian source,The location of the sighting was St. Louis, Missouri.",
     "sighted object": "a yellow-pink-orange light",
-    "location": "St. Louis, Missouri",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "location": "St Louis, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

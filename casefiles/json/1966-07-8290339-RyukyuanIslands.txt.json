@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Military personnel sighted an unidentified flying object over the Ryukyu Islands on July 10, 1966.",
-    "interesting points": [
-        "The object was described as round and tubular, similar to a missile, and appeared larger than an aircraft.",
-        "The object changed color from blueish-green to orange during the sighting.",
-        "The object was estimated to be at an altitude of 10,000 to 20,000 feet, moving from north to south-southeast at a speed ranging from 360 knots up to very high speed.",
-        "The object was visible for 12-15 seconds and was not picked up on radar.",
-        "The observers, who were highly reliable military personnel, reported the extreme brilliance of the object as the cause for the sighting."
-    ],
-    "result": "Possible - Other (Satellite Decay)",
-    "sighted object": "one round, tubular object",
-    "location": "Ryukyu Islands",
-    "witnesses": "TSGT SELF, TSGT ESTEP, AIC CONNOROY, TSGT KANE, and TSGT KING",
-    "photographs": "No"
+    "main event": "On July 10, 1966, military personnel observed a round object in the sky over the Ryukyu Islands for 12 to 15 seconds.",
+    "interesting points": "The object changed colors from bluish green to orange, The shape was described as round and larger than an aircraft, Multiple reliable military witnesses were involved, The object was reported to be at an estimated altitude of 210,000 feet, There was no radar detection of the object.",
+    "sighted object": "one round object",
+    "location": "Ryukyu Islands, Japan",
+    "number of confirmed witnesses": 5,
+    "witness description": "TSGT Self, TSGT Estep, AIC Connoroy, TSGT Kane, TSGT King - all highly reliable military personnel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two white lights were observed hovering in the sky, with one of them suddenly taking off at a high speed and disappearing.",
-    "interesting points": [
-        "The objects were about the size of a quarter and very bright.",
-        "One of the objects remained hovering for about 2-3 minutes before taking off and disappearing.",
-        "The objects seemed quite high as there were occasional clouds beneath them.",
-        "The remaining object continued to hover for about 2-3 minutes before vanishing behind nearby hills.",
-        "The observer called their girlfriend to also witness the objects."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Two white lights",
-    "location": "Hollywood, California",
-    "witnesses": "Civilian observer and their girlfriend",
-    "photographs": "No photographs were provided"
+    "main event": "On January 11, 1967, two white lights were observed hovering in the sky over Hollywood, California.",
+    "interesting points": "The lights were about the size of a quarter and very bright,One object took off at a terrific speed and disappeared within seconds,The other object continued to hover for 2-3 minutes before also disappearing,The witness called their girlfriend to observe the lights,The report was inadequately detailed for scientific evaluation by Project Blue Book.",
+    "sighted object": "two white lights in the sky",
+    "location": "Hollywood, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "the main witness and their girlfriend",
+    "contains photographs": false
 }

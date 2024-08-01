@@ -1,15 +1,9 @@
 {
-	"main event": "A civilian in Middletown, New York reported seeing a round white object flying in the center, making an abrupt turn to the east, and then disappearing. The observation lasted for 20 seconds.",
-	"interesting points": [
-		"The object was described as white in color and made an abrupt turn to the east before disappearing, indicating unusual flight characteristics.",
-		"No photographs were taken of the object, limiting the evidence available for evaluation.",
-		"The report concludes that there was insufficient data for evaluation, leaving the sighting unexplained.",
-		"The report suggests that the object's characteristics resembled that of a jet, but it is uncertain due to insufficient data.",
-		"The sighting was made by a civilian, adding credibility to the observation."
-	],
-	"result": "unexplained",
-	"sighted object": "round white object in the sky",
-	"location": "Middletown, New York",
-	"witnesses": "civilian",
-	"photographs": "no"
+    "main event": "A round white object was observed flying in Middletown, New York, making an abrupt turn to the east and disappearing.",
+    "interesting points": "The sighting lasted for approximately 20 seconds., Only one object was reported., The object made a sudden movement that suggested unusual speed., The report concluded that there was insufficient data for evaluation., No photographs were available in the report.",
+    "sighted object": "one round white object",
+    "location": "Middletown, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "high school student",
+    "contains photographs": false
 }

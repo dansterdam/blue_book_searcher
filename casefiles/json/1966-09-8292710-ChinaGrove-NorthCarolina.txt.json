@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple people in China Grove, North Carolina reported seeing 5 disc-shaped objects with eerie lights on September 7, 1966.",
-    "interesting points": [
-        "The objects were spotted between 5:30 and 10:30 pm, with some disappearing and reappearing quickly.",
-        "The brightest object was moving at a 45 degree angle to the south.",
-        "The observer and their family/neighbors have books on UFOs and have come to certain conclusions about what they saw.",
-        "The observer's family and neighbors believe the objects were not airplanes, satellites, or balloons.",
-        "Many people were standing still while others were moving quickly when the objects were spotted."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "5 disc-shaped objects with eerie lights",
-    "location": "China Grove, North Carolina",
-    "witnesses": "the observer, their family, and neighbors",
-    "photographs": "no"
+    "main event": "Five disc-shaped objects emitting eerie lights were reported sighted in China Grove, North Carolina, on September 7, 1966.",
+    "interesting points": "The observation lasted from 5:30 p.m. to 10:30 p.m.,The objects appeared to disappear and reappear quickly,One of the objects was moving at a 45-degree angle to the South,The observer's family and neighbors also witnessed the objects and confirmed their sighting,The observer expressed personal views concluding that the objects were not airplanes, satellites, or balloons.",
+    "sighted object": "five disc-shaped objects emitting lights",
+    "location": "China Grove, North Carolina, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "the observer's family and neighbors",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A person working at a filling station in Superior, Wisconsin spotted a white, golf ball-sized object falling to the ground for about 2 seconds on April 15, 1966.",
-    "interesting points": [
-        "The object was described as a white, golf ball-sized object.",
-        "The object was observed falling to the ground for about 2 seconds.",
-        "The weather conditions at the time included clear skies with calm winds.",
-        "There was unusual activity in the area at an altitude of 4,232 feet.",
-        "The report was filed as part of Project Blue Book, the U.S. Air Force's UFO investigation program."
-    ],
-    "result": "Astro (METEOR)",
-    "sighted object": "a white, golf ball-sized object",
-    "location": "Superior, Wisconsin",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A civilian observed a UFO sighting for 2 seconds on 15 April 1966 in Superior, Wisconsin.",
+    "interesting points": "The sighting lasted only 2 seconds,The observer reported seeing one object making a downward course,The observation was made with the naked eye,The conclusion of the sighting was identified as an asteroid (meteor),Weather conditions at the time were clear with calm winds.",
+    "sighted object": "one object resembling a golf ball, white in color",
+    "location": "Superior, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "age 23, civilian",
+    "contains photographs": false
 }

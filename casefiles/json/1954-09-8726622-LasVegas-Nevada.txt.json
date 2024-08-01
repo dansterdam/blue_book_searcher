@@ -1,15 +1,9 @@
 {
-	"main event": "A military source reported a UFO sighting in Las Vegas, Nevada in September 1954. The object was described as having a rounded nose, changing from black to bright orange, and disappeared at a specific elevation and azimuth.",
-	"interesting points": [
-		"The observation lasted less than a minute.",
-		"The object's color changed from black to bright orange.",
-		"No contrails were observed despite thunderstorms and clouds in the area.",
-		"The observation took place in dark light conditions.",
-		"The conclusion listed possible explanations as a ball-shaped object, balloon, aircraft, astronomical, or unknown."
-	],
-	"result": "Unknown",
-	"sighted object": "One UFO with a rounded nose changing from black to bright orange",
-	"location": "Las Vegas, Nevada",
-	"witnesses": "Military personnel",
-	"photographs": "No"
+    "main event": "A reported UFO sighting involving an object with a rounded nose and a pointed tail observed in Las Vegas, Nevada in September 1954.",
+    "interesting points": "The observed object changed color from black to bright orange., The object was seen during thunderstorms and cloud cover., The length of the observation was less than a minute., The sighting was made from a location at 3395 ft elevation., The reliability of the witness observation is noted as unknown.",
+    "sighted object": "one ball-shaped object, possibly a balloon or aircraft",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Billy, atomic electronics supervisor, reliability unknown",
+    "contains photographs": false
 }

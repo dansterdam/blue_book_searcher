@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A man in Nederland, Texas reported seeing a bright, cigar-shaped object in the sky for 15-20 seconds on January 25, 1966 at around 7:15 PM.",
-    "interesting points": [
-        "The object was quite bright and very brilliant.",
-        "The object moved west and faded from view.",
-        "There was a power outage in the area around the same time as the sighting.",
-        "The Air Force felt it was necessary for the witness to describe the object to an artist to create a representative picture, but the witness was hesitant to do so.",
-        "The Air Force investigated the possibility of the object being a weather balloon, but could not find evidence of any balloons being launched in the area at that time."
-    ],
-    "result": "unexplained",
-    "sighted object": "cigar-shaped object",
-    "location": "Nederland, Texas",
-    "witnesses": "one civilian witness",
-    "photographs": "no"
+    "main event": "A civilian reported a sighting of a cigar-shaped unidentified flying object in Nederland, Texas on February 6, 1966.",
+    "interesting points": "The object was observed for 5 to 10 minutes,The cigar-shaped object was approximately 7 feet in size, The sighting occurred at dusk with high overcast conditions, The object was very bright and emitted noticeable lights, The conclusion of the investigation was that the object remained unidentified.",
+    "sighted object": "cigar-shaped UFO",
+    "location": "Nederland, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian whose identity is redacted",
+    "contains photographs": false
 }

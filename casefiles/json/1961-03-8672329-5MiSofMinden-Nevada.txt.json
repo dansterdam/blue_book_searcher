@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two bright, irregular objects with flashing lights were sighted, remaining stationary and then exploding with bright flashes upon impact at the horizon.",
-    "interesting points": [
-        "The objects were not those of falling stars.",
-        "The objects remained stationary and did not perform any maneuvers.",
-        "The object(s) were possibly of transient or manmade origin, but a valid conclusion could not be made due to lack of details on the object's origin or termination.",
-        "The report was categorized as 'insufficient data' due to the absence of other witnesses.",
-        "The sighting may have been related to classified Project Moondust activities expected to occur around that time."
-    ],
-    "result": "insufficient data",
-    "sighted object": "two bright, irregular objects with flashing lights",
-    "location": "5 miles south of Minden, Nevada",
-    "witnesses": "one observer, a reliable source",
-    "photographs": "none"
+    "main event": "On March 17, 1961, two bright irregular objects with flashing lights were sighted south of Minden, Nevada, remaining stationary before exploding at the horizon.",
+    "interesting points": "The sighting lasted from 2 to 4 minutes., The objects emitted bright flashes upon impact at the horizon., The report suggests the objects were not falling stars., The absence of other witnesses led to categorizing the data as insufficient., The objects' origin was uncertain, potentially manmade or transient.",
+    "sighted object": "two bright irregular objects with flashing lights",
+    "location": "Minden, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observed was driving south on Highway 95 when the sighting occurred.",
+    "contains photographs": false
 }

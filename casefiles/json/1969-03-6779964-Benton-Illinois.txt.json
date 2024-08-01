@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A person observed a bright, disc-shaped object giving off a brilliant white light in the southern sky on March 2, 1969 around 8:00 PM.",
-    "interesting points": [
-        "The object was moving too slowly and steadily to be an aircraft.",
-        "The light on the object began to dim, and it then moved upward at a terrific speed and disappeared from sight.",
-        "The witness was a fairly rational person who admitted to being quite shaken by the sighting and having no explanation for it.",
-        "The witness's attitude towards UFO research changed, becoming more open-minded and willing to look into the subject objectively.",
-        "Another witness also observed a bright, dome-shaped object with a teardrop-shaped attachment on the bottom, which could make diving or climbing motions and move at a phenomenal speed."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, disc-shaped object giving off brilliant white light",
-    "location": "Benton, Illinois",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian witnessed a bright, disc-shaped object in the sky on March 2, 1969.",
+    "interesting points": "The object gave off a brilliant white light,The object moved upward at a terrific speed,The witness initially thought it was an airplane due to its slow, steady movement,The report reflects a change in the witness's attitude towards UFO research,The sighting lasted for several minutes before the object disappeared from view.",
+    "sighted object": "disc-shaped object emitting bright white light",
+    "location": "Benton, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "The primary witness changed from a debunker to being open-minded after the sighting, and two relatives were called to observe the object.",
+    "contains photographs": false
 }

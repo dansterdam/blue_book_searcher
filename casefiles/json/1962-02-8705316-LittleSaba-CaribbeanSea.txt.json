@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian airline pilot observed what he thought was a meteor fall into the sea near Little Saba in the Caribbean Sea.",
-    "interesting points": [
-        "The object descended into the water in one piece, which would be unusual for a meteor.",
-        "The object lit up the sky before disappearing at water level.",
-        "The object was accompanied by a red haze effect.",
-        "Another Caribair flight in the area observed a ship in the vicinity.",
-        "The sighting lasted for about 9 minutes."
-    ],
-    "result": "Possible meteor sighting",
-    "sighted object": "A single unidentified object",
-    "location": "Near Little Saba, Caribbean Sea",
-    "witnesses": "Civilian airline pilot",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A civil airline pilot observed what he thought was a meteor fall into the sea near Little Saba.",
+    "interesting points": "The object was reported to be descending at high speed into the water,The pilot stated the object lit up the sky with a red haze effect,There was no indication of the object breaking up, making it unusual for a typical meteor,Another flight in the area reported a ship in proximity to the sighting,The duration of the observation was 9 minutes.",
+    "sighted object": "a meteor (possibly)",
+    "location": "Little Saba, Caribbean Sea",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civil airline pilot",
+    "contains photographs": true
 }

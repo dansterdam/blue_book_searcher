@@ -1,15 +1,9 @@
 {
-    "main event": "A circular, willow-shaped object was observed by an Air Force officer at an altitude of 17,000 feet, estimated to be at 45-50,000 feet.",
-    "interesting points": [
-        "The object was initially thought to be a balloon, but it seemed to be going against the wind.",
-        "Motion picture film was taken of the object, but it was poor quality and showed no distinguishable features.",
-        "The observation lasted for 6 minutes.",
-        "The case was concluded as 'Was Balloon, Probably Balloon, Possibly Balloon'.",
-        "Insufficient data was available for a proper evaluation of the sighting."
-    ],
-    "result": "possibly a balloon",
-    "sighted object": "circular, willow-shaped object",
-    "location": "unknown",
-    "witnesses": "Air Force officer",
-    "photographs": "yes, but poor quality"
+    "main event": "A sighting of a circular object with no discernable features was reported on 31 January 1955.",
+    "interesting points": "The object was first thought to be a balloon but appeared to move against the wind,The object was observed by the Air Force at a height of 17,000 feet, estimated to be between 45,000 and 50,000 feet,The length of the observation was 6 minutes,The motion picture film taken was of poor quality with no discernible features on the object,The report concluded it was probably a balloon due to insufficient data.",
+    "sighted object": "circular object with no discernable features",
+    "location": "Not specified, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Air Force observation",
+    "contains photographs": false
 }

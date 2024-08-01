@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A civilian in Trenton, Missouri reported seeing a bright, round object in the sky on June 23, 1965.",
-    "interesting points": [
-        "The object was described as round, about 30 feet in diameter, and giving off a bright white light.",
-        "The object seemed to hover in one spot and then make sudden movements in different directions.",
-        "Neighbors who also saw the object confirmed the description and movements.",
-        "The object made no sound as it moved.",
-        "The object finally disappeared at a high rate of speed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round object in the sky",
-    "location": "Trenton, Missouri",
-    "witnesses": "Mr. and Mrs. Guat Sanchez and neighbors",
-    "photographs": "no"
+    "main event": "A UFO sighting reported on 23 June 1965 in Trenton, Missouri, involving a bright object that appeared to follow a couple returning home.",
+    "interesting points": "Mr. and Mrs. Guat Sanchez observed the object for 20-25 minutes,The object was round and about 30 feet in diameter, emitting a bright white light,Neighbors confirmed the sighting and described similar movements of the object,The object hovered and made sudden movements in different directions before disappearing at a high rate of speed,The observation coincided with an explanation from the Air Force suggesting it may have been a refraction of the rising sun.",
+    "sighted object": "a bright white round object in the sky",
+    "location": "Trenton, Missouri, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mr. and Mrs. Guat Sanchez and neighbors",
+    "contains photographs": false
 }

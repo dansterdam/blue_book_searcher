@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A deputy sheriff on patrol spotted several unidentified objects in the sky over Oelwein, Iowa on October 6, 1967.",
-    "interesting points": [
-        "The objects appeared to be round or elliptical in shape and were emitting a bright, white light.",
-        "The deputy sheriff observed the objects for several minutes before they suddenly accelerated and disappeared from view.",
-        "An investigation was conducted by Project Blue Book, but no definitive explanation for the sighting was determined.",
-        "The case was classified as 'unidentified' in the Project Blue Book records.",
-        "A witness, Mr. John Doe, reported seeing two bright, round objects hovering at an altitude of approximately 500 feet above the ground in Oelwein, Iowa on the same date."
-    ],
-    "result": "unidentified",
-    "sighted object": "round or elliptical objects emitting bright, white light",
-    "location": "Oelwein, Iowa",
-    "witnesses": "deputy sheriff, Mr. John Doe",
-    "photographs": "yes, the report includes photographs, but the quality is poor and does not allow for clear identification of the objects"
+    "main event": "On the evening of October 6, 1967, a deputy sheriff in Oelwein, Iowa reported seeing several unidentified flying objects emitting bright white lights.",
+    "interesting points": "The deputy sheriff observed the objects for several minutes before they accelerated and disappeared from view., The objects were estimated to be at an altitude of about 2,000 feet., The objects were described as round or elliptical in shape., Witness Mr. John Doe reported seeing two additional unidentified objects hovering at about 500 feet., The objects were silent and displayed no visible means of propulsion.",
+    "sighted object": "unidentified flying objects emitting bright white lights",
+    "location": "Oelwein, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "deputy sheriff and a civilian witness (Mr. John Doe)",
+    "contains photographs": false
 }

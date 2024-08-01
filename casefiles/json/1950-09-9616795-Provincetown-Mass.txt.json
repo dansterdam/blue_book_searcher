@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "The Massachusetts Institute of Technology Radar Research Group detected an unidentified high-speed object during a routine radar tracking exercise of two F-94 fighter jets over Provincetown, Massachusetts in 1950.",
-    "interesting points": [
-        "The unidentified object crossed the path of the F-94s at about 1000 feet below them, accelerating to over 700 mph (1000 mph true airspeed) and maintaining that speed for up to 12 minutes before disappearing from the radar.",
-        "The radar return from the unidentified object was at full saturation, indicating a very large and solid target.",
-        "The object made a very tight, sharp turn that would have exerted accelerations over 11-12 G's, well beyond human tolerances.",
-        "The MIT researchers had not previously shared this incident with any other groups, and were instructed to maintain confidentiality about it.",
-        "The report indicates that many people at MIT were familiar with this sighting and it might continuously appear in newspapers."
-    ],
-    "result": "unidentified",
-    "sighted object": "unidentified high-speed aerial object",
-    "location": "Provincetown, Massachusetts",
-    "witnesses": "MIT Radar Research Group, F-94 fighter jet pilots",
-    "photographs": "no"
+    "main event": "A flying saucer was tracked by MIT radar and observed near Provincetown, Massachusetts on September 21, 1950.",
+    "interesting points": "The radar detected the object at a speed of over 700 MPH,The object maintained a straight heading without any maneuvers during the observation period,Two F-94 pilots confirmed the presence of the unidentified target,The radar signal from the saucer was at full saturation, which indicates a large object,This sighting is part of the Project Blue Book documentation on UFOs.",
+    "sighted object": "flying saucer",
+    "location": "Provincetown, Massachusetts, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Radar operators and pilots of the F-94 aircraft",
+    "contains photographs": false
 }

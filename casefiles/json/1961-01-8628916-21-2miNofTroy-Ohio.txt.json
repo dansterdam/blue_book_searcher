@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "On January 17, 1961, an unidentified object was observed visually and by radar near Troy, Ohio.",
-    "interesting points": [
-        "The object was described as a light that crossed the sky and 'exploded' without any sound.",
-        "The object was reported to have returned and exploded again.",
-        "Attempts were made to contact witnesses, but the report is categorized as 'Insufficient Data' for a complete analysis.",
-        "The observer described the object as circular in shape with no colors seen.",
-        "The object moved very quickly, giving the appearance of a jet but much faster."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A light that crossed the sky and exploded",
-    "location": "2 1/2 miles north of Troy, Ohio",
-    "witnesses": "At least one witness, possibly more",
-    "photographs": "No photographs included in the report"
+    "main event": "On January 17, 1961, a light object was observed in the sky near Troy, Ohio, which crossed the sky and exploded without any sound.",
+    "interesting points": "The object was visually observed and also tracked by radar., It had the appearance of a jet but was reported to be much faster., Witness described the object as circular with no colors seen., The object was reported to have disappeared and then reappeared before exploding., Attempts to contact witnesses for further analysis were unsuccessful.",
+    "sighted object": "a light in the sky",
+    "location": "Troy, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "observer described the object as circular, light without any colors",
+    "contains photographs": false
 }

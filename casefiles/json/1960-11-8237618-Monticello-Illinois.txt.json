@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two bright light balls, side by side, slightly oscillating and flashing rapidly, were observed in Monticello, Illinois on November 8, 1960.",
-    "interesting points": [
-        "The objects hovered for about 3 to 5 seconds before speeding off quickly.",
-        "No sound was heard from the objects.",
-        "The objects did not leave any trail.",
-        "Similar UFO sightings were reported in the area.",
-        "The report was investigated by the U.S. Air Force as part of Project Blue Book, but the objects could not be identified."
-    ],
-    "result": "unable to identify",
+    "main event": "Two bright light balls were observed side by side oscillating and flashing rapidly in Monticello, Illinois on November 8, 1960.",
+    "interesting points": "The objects hovered for about 3 to 5 seconds before speeding off quickly., The objects emitted no sound during the sighting., The observation was reported by an official U.S. Air Force investigation team., The objects had no visible trail or exhaust., The sighting duration was estimated to be very brief, lasting only a few seconds.",
     "sighted object": "two bright light balls",
-    "location": "Monticello, Illinois",
-    "witnesses": "two civilians",
-    "photographs": "no"
+    "location": "Monticello, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two civilians, identities protected",
+    "contains photographs": false
 }

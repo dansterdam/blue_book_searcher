@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A co-pilot of a London-to-Frankfurt commercial flight sighted a fast-moving, bright object that crossed the aircraft's path in Bitburg, Germany on December 6, 1952.",
-    "interesting points": [
-        "The object was described as a 'streak-shaped object with bright lighted nose and a dim trail of light behind'.",
-        "The object crossed the flight path of the aircraft in about 4-5 seconds before disappearing abruptly.",
-        "The co-pilot called the pilot's attention to the object, but it had disappeared before the pilot could see it.",
-        "No other aircraft were reported in the vicinity at the time of the sighting.",
-        "The sighting occurred at an altitude of 3,720 feet, while the aircraft was at 5,000 feet."
-    ],
-    "result": "Probably a meteor",
-    "sighted object": "Streak-shaped object with bright lighted nose and dim trail of light",
+    "main event": "A co-pilot on a London-to-Frankfurt flight reported sighting a streak-shaped object with a bright light moving across the aircraft's path on December 6, 1952.",
+    "interesting points": "The object was described as having a bright core and a dim tail of light behind it., The sighting lasted for about 4 to 5 seconds., The object crossed the flight path at approximately 30 degrees to the left., A check with the Frankfurt flight service revealed no other aircraft in the area during the sighting., The report concludes that the observed object was probably a meteor.",
+    "sighted object": "streak-shaped object with bright light",
     "location": "Bitburg, Germany",
-    "witnesses": "Co-pilot of a London-to-Frankfurt commercial flight",
-    "photographs": "No photographs included in the report"
+    "number of confirmed witnesses": 1,
+    "witness description": "co-pilot of the British European Airways flight #402",
+    "contains photographs": false
 }

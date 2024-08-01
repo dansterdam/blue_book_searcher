@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the JSON summary:
-
 {
-    "main event": "A round, orange object approximately 30 feet in diameter was spotted moving at high speed over Van Nuys, California on April 6, 1955.",
-    "interesting points": [
-        "The object was sighted at an altitude of approximately 30,000 feet.",
-        "The object was visible for around 30 seconds before disappearing.",
-        "The object changed color from white to red and green.",
-        "The object was observed by two Air Force officers.",
-        "The report states that the object could not be positively identified and remains unidentified."
-    ],
-    "result": "unidentified",
-    "sighted object": "round, orange object approximately 30 feet in diameter",
-    "location": "Van Nuys, California",
-    "witnesses": "two Air Force officers",
-    "photographs": "none"
+    "main event": "A witness observed an unidentified flying object that appeared as a round, silver object about 30 to 40 feet in diameter, moving at a high speed in Van Nuys, California on April 6, 1955.",
+    "interesting points": "The object was hovering at an altitude of approximately 500 feet.,Witnesses reported seeing a bright light in the sky that changed colors.,At least two sightings of similar objects were reported in the area around the same date.,The object was reportedly identical to a scheduled United Airlines flight with a red rotating beacon.,Sighting was observed by military personnel as well as civilians over several occurrences.",
+    "sighted object": "a round, silver flying object",
+    "location": "Van Nuys, California, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "military personnel and civilians in the area",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian engineer spotted a white, star-like object in the sky near Orlando, Florida on May 25, 1960.",
-    "interesting points": [
-        "The object was first seen at 45 degrees above the horizon, descended to 24 degrees, and then disappeared at 40 degrees above the horizon.",
-        "The object moved in a generally southeast to northwest direction, holding a steady course.",
-        "The sighting lasted for approximately 2 minutes.",
-        "The observer could not determine the size of the object due to its distance.",
-        "The report suggests the object may have been an artificial satellite, but also mentions it could have been a high-flying aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, star-like object",
-    "location": "near Orlando, Florida",
-    "witnesses": "a civilian engineer",
-    "photographs": "no"
+    "main event": "A civilian observed a white, star-like object in the sky that descended and disappeared over a duration of 5 minutes on May 25, 1960.",
+    "interesting points": "The object first appeared at 45 degrees above the horizon and descended to 24 degrees before disappearing at 40 degrees., The observer noted the object appeared round and white, resembling a star., It was suggested that the object was not a satellite due to its flight path., The observer indicated the possibility of it being a high-flying aircraft., This sighting came from a civilian engineer located near Bear Lake, 15 miles northwest of Orlando.",
+    "sighted object": "a white, round object resembling a star",
+    "location": "Orlando, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian engineer from South Seminole Ave, Orlando, Florida",
+    "contains photographs": false
 }

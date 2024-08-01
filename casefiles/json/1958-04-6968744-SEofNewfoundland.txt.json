@@ -1,15 +1,9 @@
 {
-   "main event": "The UFO sighting occurred southeast of Newfoundland on 3/26/58, with a duration of 1-3 minutes and a slightly ragged, white smoke trail observed before the object burned out.",
-   "interesting points": [
-      "The observation was both visual and on radar, with a single unidentified object spotted.",
-      "The conclusion stated that the sighting was characteristic of a fireball or bolide, possibly indicating a meteor.",
-      "The handwritten report described the UFO as circular, luminous, with a steady bright light that later disappeared.",
-      "The UFO was seen from the ship American Hunter L.P. Lines, with a very bright, steady, bluish light observed at the wheelhouse of the ship.",
-      "The report also mentioned that the observation was made during clear weather conditions."
-   ],
-   "result": "prozaic explanation",
-   "sighted object": "unidentified flying object",
-   "location": "southeast of Newfoundland",
-   "witnesses": "Pilots, crew, and US Coast Guard ship American Hunter",
-   "photographs": "no"
+    "main event": "An unidentified flying object was observed SE of Newfoundland on March 26, 1958, with a slightly ragged, white smoke trail.",
+    "interesting points": "The observation was made visually and via radar,The sighting lasted approximately 1-3 minutes,The object was concluded to likely be a balloon,Description of the sighting included characteristics typical of a fireball or bolide,The situation was documented without accompanying photographs.",
+    "sighted object": "unidentified flying object with a smoke trail",
+    "location": "Newfoundland, Canada",
+    "number of confirmed witnesses": 0,
+    "witness description": "Pilots and crew on an American ship",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was seen shooting across the sky in several South Carolina cities on April 25, 1950.",
-    "interesting points": [
-        "The object was described as very bright, bluish-white in color, and as large as the full moon.",
-        "It was visible for at least 25 seconds and appeared to be at an altitude of 5,000 to 4,000 feet.",
-        "The object moved at high speed and left no trail.",
-        "One witness near Charleston said the object appeared to be descending and estimated it was 15 to 18 inches in diameter.",
-        "The object was also seen from downtown Columbia and was visible for several seconds before disappearing."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, cylindrical object with a long trail of sparks",
-    "location": "Sumter, South Carolina",
-    "witnesses": "Lt. Col. Charles T. Weaver, Weather Observer at Shaw Air Force Base",
-    "photographs": "no"
+    "main event": "Observers in South Carolina reported seeing a very bright object shooting across the sky on April 24, 1950.",
+    "interesting points": "The object was described as very bright and visible for at least 25 seconds,The object was about as large as the full moon and appeared to be at an altitude of 4,000 to 5,000 feet,Multiple reports came from different cities including Columbia and Charleston,One witness estimated the object to be 15 to 18 inches in diameter,The object moved at high speed and left no trail.",
+    "sighted object": "a bright object shooting across the sky",
+    "location": "Charleston, South Carolina, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Various observers in Charleston and Columbia",
+    "contains photographs": false
 }

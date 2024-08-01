@@ -1,15 +1,9 @@
 {
-    "main event": "Two witnesses in Kokomo, Indiana observed a single unidentified object in the sky on March 17, 1966.",
-    "interesting points": [
-        "The object was round, white like a star, and the size of a pea.",
-        "The object was first seen at an elevation of 75 degrees and disappeared at 30 degrees elevation, moving steadily towards the north.",
-        "The object then displayed small but rapid lateral movements, which were described as 'course corrections'.",
-        "The movement of the object was sharper and more rapid than that of an aircraft.",
-        "The conclusion of the investigation was that the witnesses had observed a satellite (ECHO II) and the apparent lateral movement was due to atmospheric refraction."
-    ],
-    "result": "Concluded to be a satellite (ECHO II)",
-    "sighted object": "A single round, white object the size of a pea",
-    "location": "Kokomo, Indiana",
-    "witnesses": "2 witnesses",
-    "photographs": "None"
+    "main event": "A military report from Project Blue Book detailing a sighting of a round white object interpreted as a satellite in Kokomo, Indiana on March 17, 1966.",
+    "interesting points": "The object was observed for 5 minutes, The object appeared white like a star and was the size of a pea, It was initially seen at an elevation of 75 degrees and disappeared at 30 degrees, The object's movement included steady northward motion followed by rapid lateral corrections, The conclusion of the investigation identified the object as ECHO II satellite due to atmospheric conditions.",
+    "sighted object": "a round white object resembling a star",
+    "location": "Kokomo, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel walking dogs",
+    "contains photographs": false
 }

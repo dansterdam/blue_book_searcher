@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright silvery object was observed in the southwestern sky while returning from Westville, Indiana to LaPorte, Indiana. The object appeared very large, moved rapidly at an estimated speed of 1,000 miles per hour, and was visible for approximately 1 minute and 30 seconds.",
-    "interesting points": [
-        "The object appeared to be emitting some type of bright light.",
-        "The observed speed and size of the object would be far in excess of normal aircraft performance.",
-        "The object was not observed on radar or by air intercept radar.",
-        "The witness described similar objects being sighted in the area on other occasions, indicating they might be visiting the area frequently.",
-        "The witness estimated the object was at an altitude of 1,000 feet."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright silvery object",
-    "location": "Between Westville, Indiana and LaPorte, Indiana",
-    "witnesses": "1 witness",
-    "photographs": "none"
+    "main event": "A bright silvery object was observed in the southwestern sky while returning from Westville to LaPorte, Indiana on July 30, 1952.",
+    "interesting points": "The object was described as very large and moving rapidly across the sky., It was observed for approximately 1 minute and 30 seconds at an estimated altitude of 1,000 feet., The object emitted a bright light and was moving at an estimated speed of 1,000 miles per hour., The sighting occurred around 10:00 PM under potentially clear weather conditions., No physical evidence or photographs were obtained, leaving the object unidentified.",
+    "sighted object": "a bright silvery object emitting light",
+    "location": "LaPorte, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported seeing the object while traveling by road.",
+    "contains photographs": false
 }

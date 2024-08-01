@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object less than first magnitude star, possibly a satellite, was observed in northerly flight for 15 minutes.",
-    "interesting points": [
-        "The object was observed at a mean altitude of 10 degrees.",
-        "The object was sighted at a bearing of 132 degrees true and disappeared at a bearing of 275 degrees true.",
-        "The visibility was excellent with 20% cloud cover.",
-        "The report indicates that echo data was not available and the information came from visual analysis.",
-        "The object was estimated to be traveling at a speed of approximately 1500 mph."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright object less than first magnitude star, possibly a satellite",
-    "location": "35-34N 144-16E",
-    "witnesses": "military/coast guard",
-    "photographs": "no"
+    "main event": "A bright object, possibly a satellite, was observed in the sky moving in a northerly direction.",
+    "interesting points": "The object was of last magnitude and displayed an apparently elliptical shape.,The object was visible for 15 minutes.,The sighting was conducted visually with no echo data available.,Traveling speed was estimated at 1500 mph.,Excellent visibility with 20-29 percent cloud cover during the sighting.",
+    "sighted object": "a bright object possibly identified as a satellite",
+    "location": "35-34N, 144-16E",
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses reported",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A civilian observer spotted a white, round object in the sky over Houston, Texas on July 13, 1966.",
-    "interesting points": [
-        "The object was visible for 3-5 minutes, moving from west to east.",
-        "The observer believed the object was a satellite.",
-        "No photographs were taken of the object.",
-        "The object was observed with the naked eye.",
-        "The sighting occurred at 2:25 AM local time."
-    ],
-    "result": "probable (satellite)",
-    "sighted object": "one white, round object",
-    "location": "Houston, Texas",
-    "witnesses": "1 civilian observer",
-    "photographs": "no"
+    "main event": "On July 4, 1966, two witnesses observed two objects in the sky over Houston, Texas, which they initially thought could be jets due to the noise they made.",
+    "interesting points": "The observer noted that the objects made a noise similar to jets or rockets., Investigating officials linked the sighting to an F-102 low level fly-by by the 147 Fighter Group, Air National Guard., The observation lasted about 1 minute., The objects were seen moving consistently without erratic motion., There were multiple reports of UFO sightings in the same region during this time period.",
+    "sighted object": "Two objects making noise like jets",
+    "location": "Houston, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian observers",
+    "contains photographs": false
 }

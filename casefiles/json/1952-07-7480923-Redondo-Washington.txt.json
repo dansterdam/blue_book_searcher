@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A bright, round or oval-shaped object was sighted moving rapidly across the sky over Redondo, Washington on July 6, 1952.",
-    "interesting points": [
-        "The object appeared to be a bright, yellowish-white light, compared to a large searchlight.",
-        "The object moved at a very slow speed and made no sound that could be heard from the ground.",
-        "The object disappeared from view when the observer looked away momentarily.",
-        "Similar objects had been sighted in the same area on previous occasions in 1940s and early 1950s.",
-        "The observer believed the object was likely some type of new, classified jet aircraft or experimental craft."
-    ],
-    "result": "Unidentified",
-    "sighted object": "A bright, round or oval-shaped object",
-    "location": "Redondo, Washington",
-    "witnesses": "Multiple observers, including a clerk at the local PX and two other individuals",
-    "photographs": "No photographs were taken"
+    "main event": "A witness observed an unidentified flying object in Redondo, Washington on June 20, 1952, describing it as moving slowly like a balloon.",
+    "interesting points": "The observation lasted for approximately 25 minutes,The object was noted to be round or oval in shape and bright in color,The witness had previous sightings of similar objects since the 1940s,It was concluded that the object might have been a balloon,The witness expressed concern about the object's unusual appearance and motion.",
+    "sighted object": "unidentified flying object",
+    "location": "Redondo, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Male, 25 years old, military job, had observed similar objects previously.",
+    "contains photographs": false
 }

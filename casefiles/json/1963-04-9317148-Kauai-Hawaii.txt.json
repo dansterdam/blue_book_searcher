@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, star-like object was observed moving slowly from west-southwest to east-southeast at a high altitude.",
-    "interesting points": [
-        "The object was observed for approximately 4 minutes.",
-        "The object was described as being the same size and color as a star.",
-        "Jet aircraft were conducting high-speed test runs in the area at the time of the sighting.",
-        "No evaluation was provided due to insufficient data.",
-        "The sighting occurred on April 23, 1963 in the Port Allen area of Kauai, Hawaii."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, star-like object",
-    "location": "Port Allen, Kauai, Hawaii",
-    "witnesses": "a non-military resident",
-    "photographs": "none"
+    "main event": "A bright circular object was observed flying in a Northwest to Southeast direction at a speed of 50-55 mph on 22 April 1963.",
+    "interesting points": "The object exhibited an erratic and jumpy flight., No smoke or exhaust was observed from the object., The sighting lasted for 11 minutes., There were high altitude jet aircraft performing test runs in the vicinity at the time of the sighting., The sighted object may have been mistaken for a high altitude balloon or satellite.",
+    "sighted object": "a white circular object",
+    "location": "Kauai, Hawaii, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a non-military resident of Port Allen, Kauai, Hawaii",
+    "contains photographs": false
 }

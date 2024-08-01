@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A light was seen moving overhead from west to east over Bay City, Michigan on May 25, 1964.",
-    "interesting points": [
-        "The light was half the brightness of Jupiter and wavered in its flight.",
-        "The witness had a small telescope but did not try to observe the object through it.",
-        "The report concludes that the object was likely the Echo I satellite, and the wavering was an optical illusion.",
-        "Additional observations of a similar object were recorded on several dates in May 1964, all moving southeast.",
-        "The report includes detailed time and position data for these additional observations."
-    ],
-    "result": "Probable Explanation (Echo I Satellite)",
-    "sighted object": "A light moving overhead",
-    "location": "Bay City, Michigan",
-    "witnesses": "A citizen",
-    "photographs": "No"
+    "main event": "A witness reported seeing a light moving across the sky in Bay City, Michigan on May 25, 1964.",
+    "interesting points": "The light was observed moving from west to east while making no noise,The brightness was noted to be half that of Jupiter,The object appeared to waver in flight,The witness possessed a small telescope but did not use it to observe the object,Investigation concluded it was likely the Echo I satellite.",
+    "sighted object": "a light moving in the sky",
+    "location": "Bay City, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a student at MSU",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple unidentified flying objects were observed over Waterville and Morrisville, Vermont on May 13, 1956.",
-    "interesting points": [
-        "The objects were described as being star-shaped, yellow in color, and hovering with no sound or exhaust.",
-        "The objects were observed through binoculars for approximately 2 hours.",
-        "The objects were seen moving quickly from east to west.",
-        "The Air Force investigated the sightings and concluded they were likely caused by weather balloon clusters associated with Operation SKYHOOK.",
-        "The Air Force made calls to the local airport and weather station but found no evidence of aircraft or balloons that could explain the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "four star-shaped, yellow objects",
-    "location": "Waterville and Morrisville, Vermont",
-    "witnesses": "multiple witnesses, including a farmer and a store manager",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Four yellow star-shaped objects were observed hovering silently in Waterville and Morrisville, Vermont for approximately 2 hours on May 13, 1956.",
+    "interesting points": "The objects were described as being shaped like stars and yellow in color,The observation lasted for about 2 hours,The objects hovered without any sound or exhaust,The sighting was confirmed through binocular observations,Investigators concluded that the sightings were likely caused by clusters of weather balloons.",
+    "sighted object": "four star-shaped yellow objects",
+    "location": "Waterville, Vermont, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Wilcox, a Lathe Operator with no previous experience as a trained observer",
+    "contains photographs": false
 }

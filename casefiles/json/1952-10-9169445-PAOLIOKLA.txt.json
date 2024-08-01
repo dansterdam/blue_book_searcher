@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright blue glow traveling at jet speed in a straight line, bursting into fragments, was observed from a C-47 USAF crew.",
-    "interesting points": [
-        "The object was observed traveling from the southwest to the northeast at an estimated speed of 3,000 to 3,500 miles per hour.",
-        "The object passed by one of the observers to the east and had a bright glow, but no distinguishable exhaust.",
-        "The object burst into fragments and simultaneously disappeared.",
-        "The observation was made visually from a C-47 aircraft at an altitude of 5,500 feet.",
-        "The observers were considered reliable, including two officers with responsible positions in a flying training group."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright blue glow traveling at jet speed in a straight line, bursting into fragments",
-    "location": "Paoli, Oklahoma",
-    "witnesses": "USAF crew on a C-47 aircraft",
-    "photographs": "none"
+    "main event": "A bright blue glow traveling at jet speed was observed by a C-47 USAF crew over Paoli, Oklahoma on 28 October 1952, and it burst into fragments after a 10-second observation.",
+    "interesting points": "The object was described as a bright blue glow traveling in a straight line at high speed., The object was sighted at about 500 feet altitude., The official description noted that the object made no sound., Confirmed by USAF personnel, the sighting was corroborated by multiple witnesses in the aircraft., The sighting lasted approximately 10 seconds before the object disintegrated.",
+    "sighted object": "a bright blue glowing object",
+    "location": "Paoli, Oklahoma, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "USAF crew members aboard a C-47",
+    "contains photographs": false
 }

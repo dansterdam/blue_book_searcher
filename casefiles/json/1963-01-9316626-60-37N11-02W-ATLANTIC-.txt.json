@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was spotted traveling across the sky over the Atlantic Ocean on January 20, 1963.",
-    "interesting points": [
-        "The object was traveling from left to right, about half a mile away, at an altitude of 300 degrees.",
-        "The object had blinking lights.",
-        "The object was observed for 4 minutes, moving from 220 degrees to 230 degrees before being lost in the evening twilight.",
-        "The object was considered a possible satellite, and was observed from a latitude of 60°37'N and longitude of 11°02'W.",
-        "Observers noted the object had a 'satellite character' and was probably Echo or another late visible object."
-    ],
-    "result": "Unidentified object, possibly a satellite or other late visible object.",
-    "sighted object": "An unidentified object with blinking lights",
-    "location": "Atlantic Ocean, 60°37'N 11°02'W",
-    "witnesses": "Military and naval personnel",
-    "photographs": "No photographs present in the report."
+    "main event": "A report of a UFO sighting that involved an object with blinking lights traveling from left to right across the sky.",
+    "interesting points": "The sighting occurred over the Atlantic Ocean at a latitude of 60°37N and longitude of 11°02W.,The object was seen for 4 minutes and was observed at an altitude of approximately 300 degrees.,The object was described as having a satellite character, possibly being an Echo.,The sighting was recorded at midnight on January 20, 1963.,It was lost in evening twilight after traveling a distance of about 1/2 mile.",
+    "sighted object": "one object with blinking lights",
+    "location": "Atlantic Ocean, N/A, N/A",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified in the report",
+    "contains photographs": false
 }

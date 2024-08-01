@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A civilian observer watched an object that appeared as a light for about 15 minutes on October 20, 1966.",
-    "interesting points": [
-        "The object was practically motionless for the duration of the sighting.",
-        "The object did not disappear into the horizon, but was watched the entire time.",
-        "The description is consistent with an astronomical observation of the star Capella, which was in the NE portion of the sky at an elevation of approximately 15 degrees.",
-        "The observer was asked to estimate the speed and distance of the object, but did not provide those estimates.",
-        "The observer was also asked to sketch the object and its motion, but no drawings were included in the report."
-    ],
-    "result": "Possible Astro (CAPELLA)",
-    "sighted object": "a light",
-    "location": "Somerset, KY",
+    "main event": "A civilian observed a light in the sky for about 15 minutes in Somerset, Kentucky.",
+    "interesting points": "The object appeared motionless for the entire observation time., The sighting was considered consistent with an astronomical observation, specifically Capella., The object was watched directly without any disappearance into the horizon., The exact coordinates and time of the observation were documented as 20 October 1966 at 2300 Hour 10 Minutes., The report noted that the conditions during the sighting included a clear sky with no photographs taken.",
+    "sighted object": "a light in the sky",
+    "location": "Somerset, Kentucky, USA",
+    "number of confirmed witnesses": 1,
     "witnesses": "civilian observer",
-    "photographs": "no"
+    "photographs": false
 }

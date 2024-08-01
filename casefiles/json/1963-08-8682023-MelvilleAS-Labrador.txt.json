@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Two unidentified objects were observed on radar at the Melville Air Station in Labrador, Canada on August 5, 1963.",
-    "interesting points": [
-        "The objects were detected on the height finder radar at an altitude of 60,000 to 80,000 feet.",
-        "The objects were about 2 miles apart and displayed vertical movement.",
-        "Multiple radar displays tracked the same targets, ruling out equipment malfunction.",
-        "Two scrambled aircraft were unable to visually identify or make contact with the objects.",
-        "The radar operator believed the most likely explanation was high-speed balloons or some kind of controlled meteorological balloons."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects detected on radar",
-    "location": "Melville Air Station, Labrador, Canada",
-    "witnesses": "radar operators",
-    "photographs": "yes, radar scope photographs were taken"
+    "main event": "Unidentified flying objects (UFOs) were detected and analyzed on radar near Melville Air Station, Labrador on August 5, 1963.",
+    "interesting points": "Two objects were observed approximately 2 miles apart and at altitudes fluctuating between 60,000 to 80,000 feet., Initial radar pickup was at a 1.12 degree azimuth with a range of 6 miles., The objects disappeared at a 166 degree azimuth at over 7 miles range., Two T-33 aircraft were scrambled but could not visually identify the objects., The phenomena were analyzed as possibly being high-speed aircraft or balloons under intelligent control.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Melville, Labrador, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel from the 61st AG Squadron and the Air Terper Squadron Command",
+    "contains photographs": false
 }

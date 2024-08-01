@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A small, round, white object was observed going very fast, straight up and then down and to the northwest by a civilian witness.",
-    "interesting points": [
-        "The object was observed for about 2 minutes.",
-        "The object moved at a very high rate of speed.",
-        "The object changed direction, going straight up and then down and to the northwest.",
-        "There was no eyewitness path direction given in the report.",
-        "The report notes that the object was probably an aircraft, but could not be properly evaluated."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Small, round, white object",
-    "location": "Livermore Falls, Maine",
-    "witnesses": "Civilian",
-    "photographs": "No photographs present in the report"
+    "main event": "A small round white object was observed going very fast, moving straight up, then down, and to the northwest in Livermore Falls, Maine.",
+    "interesting points": "The sighting lasted for 2 minutes., The object was reported as one small round white object., There were mentions of a possible connection to aircraft due to comments on evaluation., Another witness reported a much larger and brilliantly colored object in the same area on June 7, 1957., The object's rapid and directional changes suggested it was in distress.",
+    "sighted object": "one small round white object",
+    "location": "Livermore Falls, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer",
+    "contains photographs": false
 }

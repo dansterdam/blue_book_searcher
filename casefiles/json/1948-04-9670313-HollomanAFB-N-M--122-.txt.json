@@ -1,15 +1,9 @@
 {
-  "main event": "A summary of UFO incidents reported and investigated by Project 'SIGN' and 'Grudge', including the analysis of sightings and the examination of recovered flying objects.",
-  "interesting points": [
-    "Incidents analyzed for potential identification with routine balloon launches by weather services and laboratory tests.",
-    "Radar tracking and camera footage support the identification of reported objects as balloons in some instances.",
-    "Chemical analysis of recovered objects recommended for further examination and comparison with known materials.",
-    "Instructions to disseminate information to civilian authorities and the public in the event of UFO sightings.",
-    "The document demonstrates a systematic approach to analyzing and categorizing reported UFO incidents."
-  ],
-  "result": "The incidents were investigated and analyzed with a recommendation to conduct further chemical analysis of recovered objects for comparison with known materials. While some sightings were attributed to balloons, there is also a protocol outlined for the dissemination of information in case of UFO sightings.",
-  "sighted object": "Unidentified flying objects (UFOs)",
-  "location": "Various locations including Muroc Air Force Base, Mt. Rainier, and other regions across the United States.",
-  "witnesses": "Air Force personnel, radar operators, and civilians involved in the observation and investigation of reported incidents.",
-  "photographs": "Photographs and radar tracking data were utilized in some instances for analysis and identification of reported objects."
+    "main event": "Two trained balloon observers reported seeing an unidentified flying object at Holloman Air Force Base on 5 April 1948.",
+    "interesting points": "The object was described as moving faster than any known aircraft., It exhibited violent maneuvers, including making large loops., The observers agreed that it was very high in the sky and possessed a rounded, indistinct form., There was no audible noise heard from the object during the observation., The object disappeared suddenly after being in sight for approximately 30 seconds.",
+    "sighted object": "one rounded, indistinct flying object",
+    "location": "Holloman Air Force Base, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "trained balloon observers from the Physics Lab Section",
+    "contains photographs": true
 }

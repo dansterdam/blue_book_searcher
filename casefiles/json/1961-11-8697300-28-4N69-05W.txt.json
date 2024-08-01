@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Report of a round, lighted, flying object traveling in an erratic, oscillating path.",
-    "interesting points": [
-        "The object was observed for about 2 minutes.",
-        "The report was considered reliable and probably accurate.",
-        "The object was evaluated as a possible balloon.",
-        "The object was sighted at the coordinates 28.4N 69.05W.",
-        "The object was traveling in a southeast direction."
-    ],
-    "result": "Possible Balloon",
-    "sighted object": "round, lighted, flying object",
-    "location": "28.4N 69.05W",
-    "witnesses": "Aviation",
-    "photographs": "no"
+    "main event": "A round, lighted, flying object was reported traveling in an erratic, oscillating path over a period of about 2 minutes.",
+    "interesting points": "The object was observed using ground radar., The sighting occurred on November 25, 1963., The object was evaluated and considered a possible balloon., The object moved at a course of southeast., The report was deemed reliable and probably accurate.",
+    "sighted object": "a round, lighted flying object",
+    "location": "28.4N, 69.05W",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witness descriptions provided",
+    "contains photographs": false
 }

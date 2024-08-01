@@ -1,15 +1,9 @@
 {
-    "main event": "A large, cylindrical object with a white flaming trail was sighted climbing straight up over Vero Beach, Florida.",
-    "interesting points": [
-        "The object was reported by multiple aircraft, including Eastern Airlines Flights 635, 635, 638 and National Flight 81, as well as the Nassau Control Tower.",
-        "The object was tracked on radar at a position 88 miles from Vero Beach.",
-        "The watch supervisor at Miami Center checked with Cape Kennedy, but they reported no knowledge of any activity that could correlate with the sighting.",
-        "The report notes that there were no missile launches scheduled that date.",
-        "The object's maneuver of climbing straight up suggests it was more likely related to conventional aircraft operations in the vicinity."
-    ],
-    "result": "INSUFFICIENT DATA FOR EVALUATION",
-    "sighted object": "a large, cylindrical object with a white flaming trail",
-    "location": "Vero Beach, Florida",
-    "witnesses": "Eastern Airlines Flights 635, 635, 638, National Flight 81, Nassau Control Tower",
-    "photographs": "None"
+    "main event": "A cylindrical object with a white flaming trail was reported climbing straight up near Vero Beach, Florida.",
+    "interesting points": "The object was reported by radar and the control tower of Miami Center,The object was located 75 miles from Vero Beach,The object was rising at high speed,There was no knowledge of any activity at Cape Kennedy that could relate to the sighting,The conclusion of the report was insufficient data for evaluation.",
+    "sighted object": "large cylindrical object with a white flaming trail",
+    "location": "Vero Beach, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "None reported",
+    "contains photographs": false
 }

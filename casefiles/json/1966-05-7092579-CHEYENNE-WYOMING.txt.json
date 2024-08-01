@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two separate groups of people in Cheyenne, Wyoming observed unidentified flying objects on May 28, 1966.",
-    "interesting points": [
-        "The first group consisted of two teenage boys who observed a circular object, about the size of a dime held at arm's length, moving erratically from north to south. After five minutes, the object suddenly 'blacked out' and disappeared.",
-        "The second group consisted of two men, one of whom was a member of the reporting organization. They observed a bright object, about the size of a quarter held at arm's length, moving rapidly in a southeasterly direction. The object changed from blue to white and disappeared after five minutes.",
-        "There was no sound associated with either sighting, and the observers were unable to determine the altitude of the objects.",
-        "Weather balloons were released by the local station at 2300 hours MST on the same day.",
-        "The report was compiled by Major Elva D. Brown, an Intelligence Officer with over 19 years of military experience."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified flying objects",
-    "location": "Cheyenne, Wyoming",
-    "witnesses": "two teenage boys and two adult men",
-    "photographs": "no"
+    "main event": "Two teenage boys in Cheyenne, Wyoming observed a round UFO moving rapidly from southwest to northeast on May 28, 1966.",
+    "interesting points": "The sighting lasted for about 5 minutes before the object disappeared.,No sound was associated with the sighting.,A second observation reported a different group of men seeing a similar object moving erratically.,Weather was clear during the sightings.,The observers were able to estimate the size of the object using a dime and a 25-cent piece held at arm's length.",
+    "sighted object": "round unidentified flying object",
+    "location": "Cheyenne, Wyoming, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "two teenage boys and two men",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single red, fire-colored object in the shape of an 'evening star' was spotted in the sky near Poughkeepsie, New York.",
-    "interesting points": [
-        "The object was the size of a baseball and changed shape from round to cigar-shaped.",
-        "The object moved at a high speed to the top level and then back down to the ground, while the observer's head was turned.",
-        "The object was visible for about 1 hour, moving from 92 degrees in the northern sky to the free top level and back.",
-        "No optical aids were used to observe the object, and there was no sound associated with it.",
-        "Weather conditions at the time were clear with 10 mile visibility and moderate winds."
-    ],
-    "result": "Unknown",
-    "sighted object": "A single red, fire-colored object in the shape of an 'evening star'",
-    "location": "Near Poughkeepsie, New York",
-    "witnesses": "A civilian observer",
-    "photographs": "No photographs present"
+    "main event": "A civilian observed a UFO in Poughkeepsie, New York on August 25, 1952.",
+    "interesting points": "The object was reported to be 5123 yards off the ground and the size of a baseball., The shape of the object changed from round to cigar., The speed of the object varied, moving to top level and then back to the ground., The observation lasted for about 10 seconds., The report concluded that the object could be a balloon, possibly aircraft, or astronomical in nature.",
+    "sighted object": "one object changing shape",
+    "location": "Poughkeepsie, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

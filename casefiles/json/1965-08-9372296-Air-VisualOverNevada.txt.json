@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A visual and radar observation of an unidentified aerial object over Nevada on August 21, 1965.",
-    "interesting points": [
-        "The object was described as oblong, with a green end, a red end, and a glowing white center.",
-        "The object was observed by both ground and air visual observers, as well as by ground-based radar.",
-        "The object was reported to be at an altitude of 15,000 feet and at a distance of 1.0 mile from the ground observers.",
-        "The object was reported to make erratic maneuvers, including stops, starts, and right-angle turns.",
-        "The radar site at Winnemucca suggested the radar returns might be due to a weather phenomenon, but the investigator was unable to determine a definitive cause."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oblong, multicolored object",
-    "location": "Nevada, including Fallon NAAS, Tonopah AFS, and Winnemucca AFS",
-    "witnesses": "ground observers, air visual observers, and radar operators",
-    "photographs": "no photographs included in the report"
+    "main event": "A military report details the visual and radar observation of a stationary, oblong object over Nevada on August 21, 1965.",
+    "interesting points": "The object was described as having a red end and a green end with a glowing white center., The object was visually tracked at a distance of 1.0 miles and at an elevation of 15,000 feet., Ground and air observers reported the object as making erratic movements., Radar analysis suggested that the returns might have been due to a weather phenomenon., The observation lasted for 3 hours and 15 minutes.",
+    "sighted object": "an oblong object",
+    "location": "Winnemucca, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "ground observers and air visual observers from compatible bases",
+    "contains photographs": false
 }

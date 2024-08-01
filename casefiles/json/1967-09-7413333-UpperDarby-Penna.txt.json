@@ -1,17 +1,9 @@
-Here is the summary in JSON format based on the information provided in the UFO report:
-
 {
-    "main event": "A 42-year-old female witness observed a circular, bright white object in the sky over Upper Darby, Pennsylvania on September 7, 1967.",
-    "interesting points": [
-        "The object was described as being round, bright white in color, and about the size of a baseball.",
-        "The object was observed for approximately 10 minutes as it moved slowly across the sky.",
-        "The witness could not identify the object and reported it did not make any sound.",
-        "The witness had previously reported seeing a similar object in 1965 that was circular in shape with alternating light rays or energy beams coming from the underside.",
-        "The U.S. Air Force detachment at Media, PA was aware of the previous sighting in 1965 but could not identify the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, bright white object",
-    "location": "Upper Darby, Pennsylvania",
-    "witnesses": "42-year-old female",
-    "photographs": "no"
+    "main event": "A civilian reported seeing a bright, round object in the sky over Upper Darby, Pennsylvania on September 7, 1967.",
+    "interesting points": "The object was described as bright white and the size of a quarter held at arm's length., The object moved in a zig-zag pattern while hovering high in the sky., The witness observed the object for approximately 2-3 minutes before it disappeared from view., The witness could not identify the object as an airplane or helicopter., The report remains unexplained and was forwarded to Project Blue Book for further evaluation.",
+    "sighted object": "bright glowing object",
+    "location": "Upper Darby, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. Nancy King, a 33-year-old female",
+    "contains photographs": false
 }

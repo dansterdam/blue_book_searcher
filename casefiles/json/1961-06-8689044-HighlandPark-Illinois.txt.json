@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object with a white glow, the size of an egg, was sighted in the sky over Highland Park, Illinois on June 30, 1961.",
-    "interesting points": [
-        "The object was observed for 30 seconds and had the characteristics of a star sighting.",
-        "An unidentified aerial object was observed at Grissom AFB, Indiana for 5 minutes on June 3, 1961.",
-        "On June 1, 1961, a large glowing object, much larger than a star, was seen over Lake Michigan near Chicago. It appeared to be moving and changing brightness.",
-        "Another witness reported seeing a dimmer, faintly blue object moving in the opposite direction of the first object.",
-        "The sighting lasted around 15 minutes after the initial observation of the large glowing object."
-    ],
-    "result": "unexplained",
-    "sighted object": "round object with white glow, unidentified aerial object",
-    "location": "Highland Park, Illinois; Grissom AFB, Indiana; near Lake Michigan",
-    "witnesses": "farmer, intelligence technician, multiple witnesses",
-    "photographs": "none"
+    "main event": "Unidentified aerial object observed in Highland Park, Illinois on 30 June 1961.",
+    "interesting points": "The object observed was round, the size of an egg, and emitted a white glow., The sighting lasted for 30 seconds., The witness indicated that the object's position resembled that of a star in the sky., There are characteristics of a star sighting based on the witness's statement., The coordinating report from another sighting included details of a large glow in the sky observed by the witness and family.",
+    "sighted object": "round object with a white glow",
+    "location": "Highland Park, Illinois, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "A person reported by an Intel Tech and six family members who confirmed the sighting",
+    "contains photographs": false
 }

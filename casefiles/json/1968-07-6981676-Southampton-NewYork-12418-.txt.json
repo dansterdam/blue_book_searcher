@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person driving northbound on CR 39 in Southampton, New York observed an unidentified aerial object overhead on April 12, 1968.",
-    "interesting points": [
-        "The object appeared to be oval in shape, dark in color, and approximately 30-40 feet in diameter.",
-        "The object was hovering and making no sound.",
-        "The witness observed the object for approximately 2-3 minutes before it accelerated rapidly and disappeared from sight to the north.",
-        "No other witnesses were present at the time of the sighting.",
-        "The weather was clear with unlimited visibility."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oval-shaped, dark colored object approximately 30-40 feet in diameter",
-    "location": "Southampton, New York",
-    "witnesses": "a single driver",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "On July 6, 1968, a witness observed a bright, oval-shaped object in the sky over Southampton, New York.",
+    "interesting points": "The object was described as approximately 20 feet in diameter and emitting a bright, white light.,The object was moving slowly in a westerly direction at around 300 to 400 feet in the air.,The witness observed the object for 1 to 2 minutes before it disappeared from view.,No other witnesses could corroborate the observation.,The sighting occurred under clear weather conditions with no physical evidence found.",
+    "sighted object": "bright, oval-shaped object emitting white light",
+    "location": "Southampton, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness saw the object while looking out the window of his residence.",
+    "contains photographs": false
 }

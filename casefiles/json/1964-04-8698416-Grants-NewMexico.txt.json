@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Several observers reported seeing a bright light in the sky near Grants, New Mexico on April 8, 1964. The light was observed moving erratically and making abrupt changes in direction.",
-    "interesting points": [
-        "The light was visible for approximately 15 minutes before disappearing.",
-        "Project Blue Book investigators were dispatched to the area to investigate the incident.",
-        "Interviews were conducted with the eyewitnesses, and the location and time of the sighting were documented.",
-        "No definitive explanation for the sighting was determined, and it was classified as an unidentified flying object.",
-        "The report includes a photograph taken by a 35mm camera, but the film was found to be blank."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright light in the sky",
-    "location": "Grants, New Mexico",
-    "witnesses": "several observers",
-    "photographs": "yes, but the film was blank"
+    "main event": "Several observers reported seeing a bright light in the sky near Grants, New Mexico on 8 April 1964.",
+    "interesting points": "The object was described as cigar-shaped or elliptical,The light was strong and pulsating, visible for approximately 15 seconds maximum during sightings,Observers noted abrupt changes in direction in the object's movement,One additional observer reported a loud noise when the object passed overhead.",
+    "sighted object": "bright light in the sky",
+    "location": "Grants, New Mexico, US",
+    "number of confirmed witnesses": 3,
+    "witness description": "One witness was a science teacher with aviation experience, and another was a garage mechanic who observed the object.",
+    "contains photographs": false
 }

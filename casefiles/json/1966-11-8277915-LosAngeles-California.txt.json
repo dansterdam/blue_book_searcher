@@ -1,15 +1,9 @@
 {
-  "main event": "Several unidentified objects were observed in the sky over Los Angeles, California on November 29, 1966 for about 20 minutes.",
-  "interesting points": [
-    "The objects were observed from the ground and the report notes that the sighting was 'Ground-Visual'.",
-    "The Air Force requested that the witness complete an additional form (FTD Form 16) to provide more information for their evaluation, indicating they did not have sufficient data to draw a conclusion.",
-    "The report states that there was 'INSUFFICIENT DATA FOR EVALUATION' in the conclusion.",
-    "The Air Force letter references a 'UFO Observation' on November 29, 1966, suggesting this was part of the Project Blue Book investigation of UFO reports.",
-    "The handwritten notes on the third page of the report describe a hovering, luminous object that suddenly shot up into the sky at high speed, with a distinct humming sound."
-  ],
-  "result": "inconclusive",
-  "sighted object": "several unidentified objects",
-  "location": "Los Angeles, California",
-  "witnesses": "civilian",
-  "photographs": "none"
+    "main event": "Several unidentified objects were observed in Los Angeles, California on 29 November 1966, lasting approximately 20 minutes.",
+    "interesting points": "The observation was made by civilians who reported seeing several objects,The objects were described as having a distinct humming sound during the sighting,The report concluded that there was insufficient data for evaluation,The duration of the sighting was approximately 20 minutes,The event occurred at 2030 hours.",
+    "sighted object": "several unidentified objects",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. Henry L-----",
+    "contains photographs": false
 }

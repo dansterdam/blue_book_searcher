@@ -1,15 +1,9 @@
 {
-  "main event": "On October 11, 1958, in Laredo, Texas, an unidentified target was detected on radar or sonar.",
-  "interesting points": [
-    "The radar or sonar screen capture showed time markings and white dots that likely represent detected signals.",
-    "Handwritten notes on the photograph indicated details like range reference and time switching.",
-    "The range reference on the radar/sonar screen indicated a distance of 504 nautical miles.",
-    "The range marks on the screen were 100 nautical miles apart.",
-    "The report includes two photos of radar or oscilloscope screen images with various markings and handwritten annotations."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified target on radar or sonar",
-  "location": "Laredo, Texas",
-  "witnesses": "unknown",
-  "photographs": "yes, the report includes photographs"
+    "main event": "An unidentified target was detected on radar in Laredo, Texas on October 11, 1958.",
+    "interesting points": "The report includes two photographs of radar screen captures,The radar images show time markings and white dots indicating detected signals,Handwritten notes accompany the photographs,The range was marked at 504 nautical miles with reference marks at 100 nautical miles apart,The event was logged specifically as an unidentified target with designation (XW-2).",
+    "sighted object": "unidentified target on radar",
+    "location": "Laredo, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses mentioned in the document",
+    "contains photographs": true
 }

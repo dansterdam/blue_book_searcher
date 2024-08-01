@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified object observed over Managua, Nicaragua on August 13, 1962.",
-    "interesting points": [
-        "The object was observed passing from northwest to southeast, appeared brilliant, and moved at a high but undetermined speed without any noise.",
-        "The object left a trail of luminous glow which appeared to be a chemical propellant.",
-        "The sighting was reported to local newspapers and led to rumors that the object was a Soviet reconnaissance aircraft.",
-        "Another unidentified flying object was observed passing over Managua from east to west on August 14, 1962, with the same appearance as the previous night's sighting.",
-        "There were unconfirmed reports of an unidentified object falling into the sea south of Leon, Nicaragua, followed by two loud explosions."
-    ],
-    "result": "unexplained",
-    "sighted object": "Unidentified, brilliant, and fast-moving object",
+    "main event": "An unidentified flying object was reported over Managua, Nicaragua, on August 13, 1962.",
+    "interesting points": "The object was observed moving from northwest to southeast at high speed without noise., Witnesses described the object as brilliant and luminous, leaving a trail resembling chemical propellant., The sighting was confirmed by multiple unqualified observers and generated local rumors of possible Soviet reconnaissance., There were additional reports of unidentified flying objects over Managua and Leon around the same time., The investigation into the sightings was not completed, leaving the identity of the objects unresolved.",
+    "sighted object": "an unidentified flying object",
     "location": "Managua, Nicaragua",
-    "witnesses": "Observers from the ARMA (armed forces) and local newspapers",
-    "photographs": "none"
+    "number of confirmed witnesses": 3,
+    "witness description": "unqualified observers including local newspaper sources",
+    "contains photographs": false
 }

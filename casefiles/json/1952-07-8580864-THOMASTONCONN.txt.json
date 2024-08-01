@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two civilian women observed a dark, gondola-shaped object from a moving car.",
-    "interesting points": [
-        "The object was observed for 4-5 minutes.",
-        "The object appeared black or darkened and had a 'gondola' underneath.",
-        "The sighting was reported to the Director of Special Investigations at Headquarters, U.S.A.F.",
-        "Several other unidentified aerial objects were observed and reported in the Thomaston, Connecticut area in the previous weeks.",
-        "A Connecticut Air National Guard flight observed a metallic, disc-shaped object hovering at 10,000 feet for about 10 minutes before it accelerated and disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "a dark, gondola-shaped object",
-    "location": "Thomaston, Connecticut",
-    "witnesses": "two civilian women in a moving car",
-    "photographs": "no photographs included"
+    "main event": "Two civilian women observed a black or darkened object with a gondola underneath from a moving vehicle on 25 July 1952.",
+    "interesting points": "Multiple unidentified aerial objects were reported in the Thomaston, Connecticut area over several weeks,Two aircraft of the Connecticut Air National Guard observed a metallic, disc-shaped object on 19 July 1952, The object was approximately 40 feet in diameter and hovering at about 10,000 feet for 10 minutes before it accelerated and disappeared, Captain Edward J. Ruppelt conducted on-site investigations and confirmed the authenticity of the sightings, The reported objects moved faster than conventional aircraft and appeared larger than stars.",
+    "sighted object": "metallic disc-shaped object",
+    "location": "Thomaston, Connecticut, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "two civilian women and two pilots from Connecticut Air National Guard",
+    "contains photographs": false
 }

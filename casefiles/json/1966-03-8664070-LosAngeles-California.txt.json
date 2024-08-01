@@ -1,15 +1,9 @@
 {
-    "main event": "A man in Los Angeles, California reported sighting an unidentified flying object in March 1966.",
-    "interesting points": [
-        "The object had a blunt nose, a square pod behind it, and a dome on top and bottom.",
-        "The object appeared slightly elongated compared to the size of the moon in the photograph.",
-        "The observer could not look directly at the object until the negatives were developed.",
-        "The object was photographed using a camera with a 2000mm lens.",
-        "The Air Force requested the original negatives to evaluate the sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a blunt-nosed, square-shaped object with domes on top and bottom",
-    "location": "Los Angeles, California",
-    "witnesses": "Mr. Maynard J. Weber, a resident of the Copper Brite Cleaners",
-    "photographs": "yes, photographs were taken but not included in the report"
+    "main event": "Mr. Maynard J. Weber reported sighting an unidentified object while working at Copper Brite Cleaners in Los Angeles on 14 March 1966.",
+    "interesting points": "The object was described as having a blunt nose with a square pod behind it and a dome on top and bottom., The size of the object appeared elongated when viewed in relation to the moon in the photograph., The observation occurred around 2130-2200 PST during the last full moon., Photographs were taken with a camera featuring a 2000mm lens., The report indicated there was no trail or exhaust seen from the object.",
+    "sighted object": "unidentified flying object",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Maynard J. Weber, 41, a resident of Los Angeles",
+    "contains photographs": false
 }

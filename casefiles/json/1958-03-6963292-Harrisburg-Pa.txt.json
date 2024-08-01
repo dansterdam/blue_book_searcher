@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported in Harrisburg, Pa. on May 26, 0830-0905 EWT. The sighting lasted 3 minutes and the object disappeared in a cloud bank.",
-  "interesting points": [
-    "The sighting described the object as rigid, long, and resembling a cigar.",
-    "The object was observed traveling northeast in a straight line before disappearing in a cloud bank after one minute.",
-    "The report mentions a flight control specialist but provides no further details.",
-    "It appears to be an internal Air Force communication related to a UFO sighting report, but does not provide any details about a photograph.",
-    "The report lacks specific details about the appearance or behavior of the object."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying object (UFO)",
-  "location": "Harrisburg, PA",
-  "witnesses": "No specific mention of witnesses",
-  "photographs": "No photographs included in the report"
+    "main event": "A sighting of an unidentified object resembling a star that disappeared in a cloud bank.",
+    "interesting points": "The sighting occurred in Harrisburg, Pennsylvania,The observation lasted approximately 3 minutes,The object was seen traveling in a straight line,The object was reported at a specific time from 0830 to 0905 EWT,The report came from Project Blue Book which was intended to investigate UFO sightings.",
+    "sighted object": "an object resembling a star",
+    "location": "Harrisburg, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "no detailed witness description provided",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two oval objects were spotted traveling in a straight line at an estimated elevation of 15,000 to 17,000 feet in Mattapan, Massachusetts in September 1955.",
-    "interesting points": [
-        "The objects were only visible for a short period of time, disappearing from view.",
-        "The sighting was over a month old when it was received.",
-        "The description of the sighting and the location of the objects led to the evaluation that the objects were likely aircraft.",
-        "The objects were seen by a 16-year-old civilian witness.",
-        "The sighting lasted for two and a half minutes."
-    ],
-    "result": "probable aircraft",
+    "main event": "A civilian observed two oval objects traveling in a straight line on September 3, 1955.",
+    "interesting points": "The objects were only visible for a short period of time,The observation lasted for 55 minutes,The objects were seen only by the reflection of moonlight,The elevation of the objects was estimated between 15,000 to 17,000 feet,The sighting was over a month old when received.",
     "sighted object": "two oval objects",
-    "location": "Mattapan, Massachusetts",
-    "witnesses": "16-year-old civilian",
-    "photographs": "yes"
+    "location": "Mattapan, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, 16 years old",
+    "contains photographs": false
 }

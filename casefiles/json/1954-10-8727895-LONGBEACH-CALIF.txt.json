@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed 0-2 objects for one second in the sky over Long Beach, California.",
-    "interesting points": [
-        "The objects were found and caught, heading northeast at 15-20,000 feet.",
-        "The objects made a 270-degree right turn and pulled out heading north.",
-        "The report states there was insufficient data to make a proper evaluation.",
-        "The report notes the duration of the observation was likely an error, as the objects could not have performed detailed maneuvers in just one second.",
-        "The report concludes there is insufficient data to make a determination about the nature of the observed objects."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "0-2 unidentified objects",
-    "location": "Long Beach, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An observation of an unidentified object in Long Beach, California on February 20, 1952.",
+    "interesting points": "The object was white and emitted no sound., The object was observed at an altitude of 15-20,000 feet., It made a 270-degree right turn and then moved north., The observation duration was only one second., The report concludes that there is insufficient data for further evaluation.",
+    "sighted object": "an unidentified white object",
+    "location": "Long Beach, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

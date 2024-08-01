@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Crew of a merchant vessel sighted a bright, red object breaking up and falling from the sky.",
-    "interesting points": [
-        "The object was sighted at 11.59N 160.49W, according to the vessel's LORAN coordinates.",
-        "The object was observed for less than 1 minute, and was described as bright and red in color.",
-        "The object appeared to be breaking up and falling at a rate of 20 degrees per second.",
-        "The report states the sighting could possibly be the decay of a satellite, but the information is too limited for a full evaluation.",
-        "The report was forwarded to various military and intelligence agencies, including CINCPAC, CNO, and SECNAV."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright, red object breaking up and falling from the sky",
+    "main event": "Crew of merchant vessel sighted a bright red object breaking up in the sky on 15 November 1962.",
+    "interesting points": "The sighting lasted less than 1 minute,The object was seen falling at a rate of 20° per second,The report suggests the sighting could possibly be a satellite decay,The sighting was noted in Project Blue Book, which investigated UFOs from 1952 to 1969,The object was described as trailing as it broke apart.",
+    "sighted object": "a bright red object breaking up",
     "location": "11.59N 160.49W",
-    "witnesses": "Crew of a merchant vessel",
-    "photographs": "None"
+    "number of confirmed witnesses": 1,
+    "witness description": "Crew of merchant vessel M/V ACONIS",
+    "contains photographs": false
 }

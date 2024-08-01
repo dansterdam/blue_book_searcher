@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed three large glowing objects in the sky over Stamford, Connecticut on July 28, 1957.",
-    "interesting points": [
-        "The objects displayed a variety of colors including white, red, green, and blue, blinking on and off in a regular, precise pattern.",
-        "The objects moved slowly towards the shoreline, with one object joining another until they merged into a single object.",
-        "At one point, the objects emitted four large, jagged beams of light that were much brighter than the main body of the objects.",
-        "As the objects approached the shoreline, the lights and colors gradually faded until the objects disappeared completely.",
-        "The sighting lasted for approximately 25 minutes."
-    ],
-    "result": "unknown",
-    "sighted object": "three large glowing objects with colored lights",
-    "location": "Stamford, Connecticut",
-    "witnesses": "civilian witness",
-    "photographs": "no photographs"
+    "main event": "A witness observed a large white light object with colored lights moving slowly over the Long Island Sound near Stamford, Connecticut on July 28, 1957.",
+    "interesting points": "The object was round with oval edges and emitted colors of red, blue, green, and white,The colors appeared to blink with precision and timing,Two similar phenomena appeared in the same location with similar characteristics,One object displayed four great jagged pieces of light that were significantly brighter than the rest,The sighting lasted from 9:40 p.m. to 10:05 p.m.",
+    "sighted object": "large white light with colored lights",
+    "location": "Stamford, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an observer who noted the detailed characteristics and behaviors of the object in the sky",
+    "contains photographs": false
 }

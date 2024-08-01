@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A bright light with rapid horizontal movement was observed by at least 3 people in Tampa, Florida on November 2, 1962.",
-    "interesting points": [
-        "The object had no visible trail.",
-        "The altitude of the object was unknown.",
-        "The sighting was reported to local authorities.",
-        "Similar sightings had been reported in the Tampa Bay area.",
-        "It was difficult to obtain clear photographs of the object due to factors like high altitude and hazy conditions."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light with rapid horizontal movement",
-    "location": "Tampa, Florida",
-    "witnesses": "at least 3 persons",
-    "photographs": "none"
+    "main event": "A ground-radar sighting of a cluster of 3 second mag star-like objects occurred on 17 November 1962 in Tampa, Florida.",
+    "interesting points": "The objects were tracked on a CPS-12 radar scope within a 15-mile range., They hovered for 2-3 minutes before departing at high speed., The objects were described as having no shape or color determined., The observer's report included comments that they might be balloons or unknown aerial phenomena., Consultations indicated that there were unidentified events, and local CAA personnel could not explain the sightings.",
+    "sighted object": "three second mag star-like objects",
+    "location": "Tampa, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer is described as an official of a successful wholesale furniture firm, mature, with a college degree, and a former Captain in the U.S. Marine Corps.",
+    "contains photographs": false
 }

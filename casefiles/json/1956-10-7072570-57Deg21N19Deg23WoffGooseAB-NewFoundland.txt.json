@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar contact was observed off the coast of Goose AB, Newfoundland, closing at 400-500 knots and then disappearing from radar.",
-    "interesting points": [
-        "The radar contact was observed at a range of 45 miles, closing in rapidly before disappearing at 15 miles range.",
-        "Visual sightings were attempted but nothing was observed visually.",
-        "The pattern of the radar contact did not resemble anything the USAF Pacific Air Tech Intel had information on.",
-        "There was a separate visual report of a 'light spiral' and a 'scoot' object, but the details are unclear.",
-        "The document mentions a possible correlation with a rocket project in the same area."
-    ],
-    "result": "unexplained",
-    "sighted object": "fast-moving radar contact, possible light spiral and scoot object",
-    "location": "Off Goose AB, Newfoundland",
-    "witnesses": "USAF radar operators, possible visual sightings",
-    "photographs": "none"
+    "main event": "A round object, color of fire, was observed as a flash in the sky off Goose AB, Newfoundland on 11 October 1956.",
+    "interesting points": "The sighting lasted approximately 15-20 minutes, The object was described as being the size of a window of an aircraft, Radar operators attempted visual sighting, but nothing was seen, The object was observed as straight down and down to the horizon, There is no photograph present in the report.",
+    "sighted object": "one ball of fire",
+    "location": "Goose AB, Newfoundland, CA",
+    "number of confirmed witnesses": 0,
+    "witness description": "USAF Air Force radar operators",
+    "contains photographs": false
 }

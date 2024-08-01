@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A female civilian in Decatur, Illinois saw a silver flash in the sky similar to the appearance of a spacecraft, while driving home from visiting friends on Highway U.S. 36 on February 26, 1950.",
-    "interesting points": [
-        "The witness did not see any planes in the sky when she saw the silver flash.",
-        "The witness was hoping someone else may have also reported seeing the same object.",
-        "A Navy commander named Robert B. McLaughlin reported seeing two saucer-shaped objects, 20 inches in diameter, that were outrunning a Navy rocket. He believed they were spaceships from another planet.",
-        "The document includes a list of additional reported sightings from various locations, including Hawthorne, California; Mexico City, Mexico; and the Mediterranean area.",
-        "The report includes some unidentified radar returns and objects observed by ground observers."
-    ],
-    "result": "unexplained",
+    "main event": "A female civilian reported seeing a silver flash while driving on Highway U.S. 36 near Good Thunder, Minnesota, on June 13, 1955.",
+    "interesting points": "The witness described the flash as similar to sunlight reflecting off a plane but noted that there were no planes in sight., The report involved acknowledgment from the Air Materiel Command regarding the witness's observation., A Navy commander reported seeing saucer-shaped objects that outpaced a Navy rocket., The commander believed these disks were spaceships from another planet operated by intelligent beings., The document is part of Project Blue Book, which investigated UFO sightings.",
     "sighted object": "a silver flash in the sky",
-    "location": "Decatur, Illinois",
-    "witnesses": "a female civilian driver",
-    "photographs": "no"
+    "location": "Good Thunder, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "female civilian, wife of the person who submitted the report",
+    "contains photographs": false
 }

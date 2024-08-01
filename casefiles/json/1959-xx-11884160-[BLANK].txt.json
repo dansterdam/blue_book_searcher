@@ -1,15 +1,9 @@
 {
-    "main event": "The image does not contain any photographs. It appears to be a page from an old Project Blue Book UFO report document.",
-    "interesting points": [
-        "The report discusses the formation of a UFO Advisory Panel composed of experts in fields like psychology, physics, astronomy, and public relations.",
-        "The panel was intended to meet monthly to review UFO cases, spot trends, and make recommendations for improving the investigation program.",
-        "The report mentions the panel discussing specific UFO sighting cases, including an airline pilot sighting, a photograph from Norway, and an incident in Louisiana involving an object striking the ground.",
-        "The panel recommended that qualified investigators with backgrounds in astrophysics, astronomical techniques, and UFO knowledge be made available to handle investigations.",
-        "The report discusses the Air Force's handling of UFO cases over the past 13 years, noting that while the priority was initially to determine if they posed a threat to national security, the focus has shifted to also considering their scientific potential."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying objects",
-    "location": "Various locations",
-    "witnesses": "Airline pilots, civilians, military personnel",
-    "photographs": "Some photographs mentioned but not included in the image"
+    "main event": "A UFO Advisory Panel Meeting was held on 27 July 1959 to discuss various UFO investigations and trends.",
+    "interesting points": "Dr. Hynek emphasized that more serious scientists in France are interested in UFOs than in the U.S.,Aime Michel presented his views on UFOs during his meeting with Dr. Hynek,The panel discussed trends from statistics collected in the first half of 1959,The meeting addressed an airline pilot sighting that was concluded to be a meteorological balloon,The discussion included a photograph of an unidentified flying object taken in Norway, which could not be conclusively identified.",
+    "sighted object": "unidentified flying object",
+    "location": "Maxwell AFB, Alabama, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Members of the UFO Advisory Panel including scientists and military personnel",
+    "contains photographs": false
 }

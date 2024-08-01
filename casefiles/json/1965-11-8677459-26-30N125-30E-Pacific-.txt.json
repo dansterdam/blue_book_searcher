@@ -1,15 +1,9 @@
 {
-    "main event": "Three F-105 pilots and one C-124 pilot reported sighting an unidentified flying object that they were escorted by for up to 15 miles.",
-    "interesting points": [
-        "The pilots were in visual contact with the unidentified object for a sufficient amount of time to make surface contact.",
-        "The object was sighted west of Iheima and north of Neyaro Bay, Tarutama Shima, at an altitude of 12,500 feet, on November 4, 1965 at 23Z.",
-        "The report was classified, indicating the sighting was considered significant.",
-        "The document appears to be a Project Blue Book report, which was a U.S. Air Force program that investigated UFO sightings.",
-        "The report mentions multiple pilots and aircraft observing the unidentified object, adding credibility to the sighting."
-    ],
-    "result": "unexplained",
+    "main event": "Three F-105 pilots and one C-124 pilot reported an unidentified flying object while on a flight near Iheima and Neyaro Bay Tarutama Shima.",
+    "interesting points": "The sighting was reported by pilots from different aircraft,The pilots were able to maintain visual contact with the object,The sighting occurred 15 miles from their escorting aircraft,The time of the sighting was noted as 4 November 1965 at 23Z,The report indicates the object was observed at a significant altitude.",
     "sighted object": "unidentified flying object",
-    "location": "West of Iheima and north of Neyaro Bay, Tarutama Shima",
-    "witnesses": "3 F-105 pilots and 1 C-124 pilot",
-    "photographs": "no"
+    "location": "Iheima, Okinawa, Japan",
+    "number of confirmed witnesses": 4,
+    "witness description": "F-105 pilots and one C-124 pilot",
+    "contains photographs": false
 }

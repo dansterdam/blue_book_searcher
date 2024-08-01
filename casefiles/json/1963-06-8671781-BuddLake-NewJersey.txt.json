@@ -1,15 +1,9 @@
 {
-    "main event": "A letter requesting identification of an unidentified object was sent to the President.",
-    "interesting points": [
-        "The unidentified object was determined to be the satellite Echo I.",
-        "The sighting was reported in Budd Lake, New Jersey on June 8, 1963.",
-        "The sighting was classified as 'Insuff. Info. to Det.', meaning insufficient information to determine the nature of the object.",
-        "The Air Force responded to the letter, indicating that the object was the satellite Enos moving in an easterly direction.",
-        "The report is from the Project Blue Book files, which was the Air Force's program to investigate UFO sightings."
-    ],
-    "result": "Identified as satellite",
+    "main event": "A sighting of an unidentified object was reported, later determined to be the satellite ECHO I.",
+    "interesting points": "The sighting was reported in a letter to the President of the United States., The observation type was classified as Ground-Visual., The object was seen moving in an easterly direction., The Air Force determined the object to be the satellite ECHO I., The report contained an indication that further information was required for a conclusive determination.",
     "sighted object": "one unidentified object",
-    "location": "Budd Lake, New Jersey",
-    "witnesses": "not specified",
-    "photographs": "none"
+    "location": "Budd Lake, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A person who reported the sighting via letter to the President.",
+    "contains photographs": false
 }

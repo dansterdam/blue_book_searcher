@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported in Seattle, Washington on June 27, 1955.",
-    "interesting points": [
-        "The sighting was ground-viewed and air-visual.",
-        "The object was observed for an unspecified length of time.",
-        "The object was reported to be flying parallel to the coast.",
-        "The original report was turned in to the USAF, but the source could not be contacted at the given address.",
-        "The case was deemed as having 'Insufficient Data for Evaluation' and was classified as 'Unknown'."
-    ],
-    "result": "unknown",
-    "sighted object": "one unidentified object",
-    "location": "Seattle, Washington",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "A single unidentified object was observed over Seattle on June 27, 1955.",
+    "interesting points": "The observation was ground-viewed and air-visual,The object was reported to be flying parallel to the coast,The original report had insufficient data for evaluation,The investigation was not authorized due to lack of verified witness details,The report belongs to the historic Project Blue Book program.",
+    "sighted object": "one unidentified flying object",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "One witness reported the object, but details were insufficient.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two brilliant red lights were observed by many sources in the area of Lancaster and Leona. The objects hovered for five minutes, then sped away.",
-    "interesting points": [
-        "The objects hovered for five minutes, then sped away.",
-        "The objects appeared to be stationary and then suddenly descended toward the western horizon.",
-        "One of the objects moved in an easterly direction at a moderate rate of speed, then turned southerly and disappeared from view.",
-        "The other object remained stationary for approximately 10 minutes, then descended in a downward pendulum-like motion and disappeared from view.",
-        "The objects were witnessed by multiple observers, including a sheriff's patrol and a state fish and game warden."
-    ],
-    "result": "unknown",
-    "sighted object": "two red, elliptical-shaped lights",
-    "location": "Lancaster, California and Leona Valley, California",
-    "witnesses": "Sheriff's deputies, state fish and game warden",
-    "photographs": "yes"
+    "main event": "Two brilliant red lights were observed by many sources in the area of Lancaster and Leona for approximately five minutes before they sped away.",
+    "interesting points": "The objects were reported to be stationary at first before they descended toward the western horizon., One object moved in an easterly direction and traveled parallel to the horizon for about 10 seconds before disappearing., A State Fish & Game Warden and other witnesses corroborated the sighting at different locations., The witness report involved multiple civilians and sheriff deputies., The sighting coincided with clear weather conditions and visibility of 15 miles.",
+    "sighted object": "two brilliant red lights",
+    "location": "Lancaster, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Sheriff deputies and civilians in the area.",
+    "contains photographs": false
 }

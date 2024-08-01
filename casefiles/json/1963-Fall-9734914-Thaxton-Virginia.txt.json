@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO case file:
-
 {
-    "main event": "The report describes various UFO sightings in the Thaxton, Virginia area, including sightings of glowing orbs, disc-shaped objects, and other unexplained aerial phenomena.",
-    "interesting points": [
-        "The report mentions sightings of 'floating visible plasma' and 'angel hair' material that appeared to descend from the sky.",
-        "There are references to the UFO sightings occurring during the latter part of 1953 and 1963.",
-        "The report indicates that the Air Force was investigating these UFO reports and appreciated the contributions from civilian witnesses.",
-        "One sighting involved a disc-shaped object that made abrupt angle changes in the air and had bright lights that were visible at night.",
-        "Another sighting described a large, well-defined object with a trail of 'electric fans' that was seen over a lake."
-    ],
-    "result": "unexplained",
-    "sighted object": "Glowing orbs, disc-shaped objects, and other unidentified aerial phenomena",
-    "location": "Thaxton, Virginia",
-    "witnesses": "Farmers and local residents",
-    "photographs": "No photographs included in the report"
+    "main event": "Multiple sightings of unidentified flying objects reported in Thaxton, Virginia during the early 1960s.",
+    "interesting points": "The reports include observations of floating plasma, a disc-shaped object performing high-speed maneuvers, and phenomena resembling 'angel hair.', The sighting durations varied, with one witness observing an object for about 30 minutes., Witnesses reported feelings of fear and a sense of strangeness during the sightings., One report included an envelope of thistle blooms, suggesting possible physical evidence associated with the sighting., The Air Force acknowledged the sightings and included them in their studies of UFOs.",
+    "sighted object": "disc-shaped object and floating plasma",
+    "location": "Thaxton, Virginia, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Various individuals including a C.P.O., residents of Thaxton, and other local witnesses",
+    "contains photographs": false
 }

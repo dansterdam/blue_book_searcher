@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Five objects were observed in the sky in Mobile, Alabama on May 25, 1966.",
-    "interesting points": [
-        "The objects appeared in conjunction with 5 white clouds that had a pink cast about them.",
-        "The phenomena was likely caused by atmospheric conditions such as scattered clouds, light wind, and possibly smoke from paper mills, which caused partial blackout of the quarter moon from the observer's location.",
-        "As the cloud mass moved, moonlight shining through varying cloud densities may have caused the reported phenomena.",
-        "The objects stayed in the same location but occasionally moved from a horizontal to vertical position.",
-        "The sighting lasted for approximately 50 minutes."
-    ],
-    "result": "Astro (MOON) (Probable)",
-    "sighted object": "Five unidentified flying objects",
-    "location": "Mobile, Alabama",
-    "witnesses": "1 civilian witness",
-    "photographs": "No"
+    "main event": "A single witness observed five unidentified objects in Mobile, Alabama on May 25, 1966, for a duration of 50 minutes.",
+    "interesting points": "The objects appeared in conjunction with five white clouds that had a pink cast., The sighting was reported under typical atmospheric conditions such as scattered clouds and light wind., The moon was not visible during the sighting but became visible afterwards., The objects were described as flat and saucer-like, yellowish-white in color., A previous sighting of a similar nature was reported in the same location about a year prior.",
+    "sighted object": "five unidentified objects",
+    "location": "Mobile, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer noted the objects' appearance and environmental conditions during the sighting.",
+    "contains photographs": false
 }

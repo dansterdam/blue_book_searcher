@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report text:
-
 {
-    "main event": "A civilian in Indianapolis, Indiana reported seeing a dome-like object traveling at a high altitude towards the northeast in November 1966.",
-    "interesting points": [
-        "The object appeared to have a light source but the observed light was not pulsating or flashing.",
-        "The object traveled across the sky at a constant speed during the 90-second observation period.",
-        "Another civilian in Indianapolis reported seeing 3 or 4 bright lights moving in a diamond pattern in November 1966.",
-        "The lights were described as pulsating and one of them seemed to go off into the distance.",
-        "The Project Blue Book investigation of the sightings was delayed, but this was not unusual as records were often discarded after several months."
-    ],
-    "result": "unexplained",
-    "sighted object": "Dome-like object, 3-4 bright lights in a diamond pattern",
-    "location": "Indianapolis, Indiana",
-    "witnesses": "Civilians",
-    "photographs": "No"
+    "main event": "On November 12, 1966, a civilian reported observing a dome-like object traveling at a constant speed in the northeastern sky.",
+    "interesting points": "The object was described as the size of small stars in the sky, It appeared to have a consistent light source that was neither pulsating nor flashing, The object was observed for 90 seconds before vanishing, A lady reported seeing 3 or 4 bright lights moving in a diamond pattern, Another sighting involved a very bright light changing colors that hovered and moved erratically for 30 minutes.",
+    "sighted object": "Dome-like object",
+    "location": "Indianapolis, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who reported the sighting.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report contains a collection of black and white photographs depicting unidentified aerial phenomena or potential UFOs.",
-    "interesting points": [
-        "The photographs show various bright, blurry, and silhouetted objects in the night sky, some of which appear to be unconventional in nature.",
-        "The images are part of a historical UFO report document from the Foreign Technology Division of the Air Force Systems Command (AFSC), indicating the U.S. government's interest in these types of sightings.",
-        "The report is labeled as 'UNCLASSIFIED', suggesting the information has been declassified and made available for public viewing.",
-        "The images do not contain any clear visual evidence of human faces or identifiable individuals, making it difficult to determine the specific witnesses or circumstances surrounding the sightings.",
-        "The report includes a total of 9 photographs, each depicting a different aerial phenomenon or potential UFO sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified aerial objects or lights",
+    "main event": "Numerous photographs depicting unidentified objects in the night sky were reviewed from an old UFO report document.",
+    "interesting points": "The photographs mostly show bright lights or objects against a dark sky., The objects in the photographs are often blurry and indistinct., Several of the images contain elements of industrial infrastructure such as power lines., The report comes from the Foreign Technology Division, suggesting a focus on unidentified aerial phenomena., No human figures are visible in any of the images.",
+    "sighted object": "unidentified flying objects in the night sky",
     "location": "Flushing, Queens, New York",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 9 photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "not applicable",
+    "contains photographs": true
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be a cover page for a Project Blue Book UFO report document, which includes several photographs.",
-    "interesting points": [
-        "The report contains three pages, each with two photographs.",
-        "The photographs depict landscapes, bodies of water, and a tall, thin object labeled 'FOREIGN TECHNOLOGY'.",
-        "The report is titled 'P'41r 11937' and is dated August 19, 1967, with a location of Lake Huron, Michigan.",
-        "The report is marked 'UNCLASSIFIED' and references 'FOREIGN TECHNOLOGY'.",
-        "No witnesses or detailed descriptions of a UFO sighting are provided in the report."
-    ],
-    "result": "Unclear, as the report appears to be a cover page without detailed information about a UFO sighting.",
-    "sighted object": "No specific object is described in the report.",
-    "location": "Lake Huron, Michigan",
-    "witnesses": "Not specified",
-    "photographs": "Yes, the report includes three pages with a total of six photographs."
+    "main event": "UFO report from August 19, 1967, detailing sightings near Lake Huron, Michigan.",
+    "interesting points": "The report includes a total of three photographs, showcasing different landscapes and bodies of water., One photograph features a tall, thin object labeled 'FOREIGN TECHNOLOGY'., Some photographs depict hazy or blurry backgrounds possibly indicating environmental conditions during the sightings., The report is classified as UNCLASSIFIED and contains references to FOREIGN TECHNOLOGY., There are details regarding varying landscapes, including mountains and shorelines in the vicinity of Lake Huron.",
+    "sighted object": "tall, thin object against a dark background",
+    "location": "Lake Huron, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses mentioned in the report.",
+    "contains photographs": true
 }

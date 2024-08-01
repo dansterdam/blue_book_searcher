@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers saw a bright bluish green light that moved slowly over Wellsburg, West Virginia on September 11, 1967.",
-    "interesting points": [
-        "The course, elevation, and azimuth of the object were not given in the report.",
-        "The report states that the information provided was not sufficient for a scientific evaluation.",
-        "The Air Force requested the witness to complete an FTD Form 164 to provide more details about the sighting.",
-        "The report mentions that the Sheriff's Office received an unidentified flying object report and provided a UFO Form 16A for the witness to fill out.",
-        "The report form asked detailed questions about the sighting, including time, location, weather conditions, object characteristics, and witness movements."
-    ],
-    "result": "unexplained",
+    "main event": "Observers saw a bright bluish green light that moved slowly in Wellsburg, West Virginia on September 11, 1967.",
+    "interesting points": "The object's course, elevation, and azimuth are not documented., The light was described as bright and bluish green., The observation was reportedly continuous for about 30 hours., The document indicates that the information provided was insufficient for scientific evaluation., The report was initiated by the Hancock County Sheriff's Office.",
     "sighted object": "a bright bluish green light",
-    "location": "Wellsburg, West Virginia",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Wellsburg, West Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unnamed observer, details redacted",
+    "contains photographs": false
 }

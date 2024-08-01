@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed an unidentified flying object near Morgantown, Pennsylvania in 1967.",
-    "interesting points": [
-        "The object was initially observed as an orange fireball, then changed to a more distinct object with changing lights.",
-        "The witness made calculations to determine the altitude and speed of the object, which were extremely high.",
-        "The object exhibited very bright lights, color changes, and erratic maneuvering that were not consistent with a conventional aircraft.",
-        "Multiple civilian witnesses, including police officers, also reported observing the same or similar objects in the area.",
-        "The witness was an experienced sky observer who had previously seen unusual aerial phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "A large, spherical, silvery object",
-    "location": "Morgantown, Pennsylvania",
-    "witnesses": "Civilian, multiple witnesses including police officers",
-    "photographs": "No photographs provided"
+    "main event": "A large spherical silvery object was observed moving in the sky near Morgantown, Pennsylvania on February 9, 1967.",
+    "interesting points": "The object was first observed at approximately 7:00 PM and was visible for about 15 minutes., The estimated diameter of the object was approximately 1/4 mile., The object moved in a northeasterly direction at speeds between 100-300 mph., Initially, the object hovered before accelerating rapidly., The Air Force could not identify the object as any known aircraft or phenomenon.",
+    "sighted object": "large spherical silvery object",
+    "location": "Morgantown, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses were named in the report.",
+    "contains photographs": false
 }

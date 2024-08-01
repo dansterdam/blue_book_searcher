@@ -1,15 +1,9 @@
 {
-	"main event": "A ground-radar observation was made near Enola, PA, on 22nd August 1959, where an extremely high object was reported moving rapidly, leaving no trail and varying in color (pink & white).",
-	"interesting points": [
-		"The UFO was observed for a duration of 12 minutes and was reported to be moving in the direction of SSW.",
-		"The report indicates that there was insufficient data for evaluation, and more data was requested for analysis.",
-		"The intelligence analysts were unable to perform analysis or attempt identity based on the report or the mere description of the object.",
-		"There was a request for full compliance with USAF Regulation AFR 200-2, specifically highlighting the need for correlating information and additional required data.",
-		"There were coordination messages sent back and forth between multiple military and intelligence entities regarding the UFO sighting, indicating significant interest and follow-up on the report."
-	],
-	"result": "unexplained",
-	"sighted object": "single high and rapidly moving object with varying colors (pink & white)",
-	"location": "Enola, PA",
-	"witnesses": "ground-radar observation",
-	"photographs": "no"
+    "main event": "A single object was reported moving rapidly at an extremely high altitude near Enola, PA, on August 22, 1959.",
+    "interesting points": "The object varied in color between pink and white,It left no trail as it moved,The observation lasted for 12 minutes,During this time, no correlation with other aircraft was found,Insufficient data resulted in further requests for analysis.",
+    "sighted object": "one rapidly moving object changing colors",
+    "location": "Enola, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "not specified in the document",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is a JSON summary of the key points from the provided UFO report text:
-
 {
-    "main event": "A witness in Seattle, Washington reported seeing strange lights in the sky and submitted photos in May 1960.",
-    "interesting points": [
-        "The witness used a 35mm camera and binoculars to take several photos of the objects, which appeared saucer-shaped with two dots above them.",
-        "The witness claimed the objects looked similar to Saturn and appeared to be moving at high speeds, stopping abruptly, and making sharp turns.",
-        "Photo analysis determined the objects were likely just reflections of stationary lights through a window, not actual flying objects.",
-        "The Air Force investigated the case and concluded the photos were a poor attempt to perpetrate a hoax.",
-        "The witness was informed that the objects were determined to be blinking lights on a window, not unidentified flying objects."
-    ],
-    "result": "explained",
-    "sighted object": "saucer-shaped objects with two dots above",
-    "location": "Seattle, Washington",
-    "witnesses": "single witness",
-    "photographs": "yes, the witness provided photos that were later analyzed"
+    "main event": "A sighting of four objects in the Seattle area on May 6, 1960, which were later determined to be reflections of street lights.",
+    "interesting points": "The witness submitted photographs that were analyzed, revealing that the lights were reflections through a window,The objects were noted to be stationary in the sky,The weather was clear, allowing for better visibility during the observation,The witness experienced difficulty obtaining clear photographs due to the conditions,Official analysis concluded that the sightings were an attempt to pass off reflections as UFOs.",
+    "sighted object": "four stationary lights in the sky",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An individual who used binoculars and a camera to capture the images.",
+    "contains photographs": false
 }

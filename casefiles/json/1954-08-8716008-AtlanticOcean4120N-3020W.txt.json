@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One group and one single unidentified flying object were sighted over the Atlantic Ocean on August 9, 1954.",
-    "interesting points": [
-        "The single object had a trailing configuration extending to 6-7 degrees.",
-        "The group of 4 objects were in close formation.",
-        "The objects had an unusual appearance, with their lights changing color and intensity.",
-        "The objects were observed maintaining high speeds until they vanished.",
-        "The sighting lasted approximately 7 minutes."
-    ],
-    "result": "unknown",
-    "sighted object": "one group and one single unidentified flying object",
-    "location": "Atlantic Ocean, 41°20'N-30°20'W",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A UFO sighting in the Atlantic Ocean on August 9, 1954, involving a single object and a group in close formation.",
+    "interesting points": "The sighting lasted for 7 minutes during daylight hours with unlimited visibility,The single object exhibited a trailing configuration of 6-7 degrees,The group of four objects was observed in close formation at an altitude of 8,000 feet,The report considered multiple explanations including balloon, aircraft, and astronomical phenomena,The objects were described as having unusual appearances with lights that changed color and intensity.",
+    "sighted object": "one single object and a group of four objects",
+    "location": "Atlantic Ocean, Unknown, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "intelligence officer interviewed by base intelligence officer",
+    "contains photographs": false
 }

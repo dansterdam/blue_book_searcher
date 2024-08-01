@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several unidentified objects were sighted over Keesler AFB and the Mobile, Alabama area on March 7-8, 1954.",
-    "interesting points": [
-        "The objects were described as brilliant, translucent, white stars, moving erratically at about 50,000 feet.",
-        "The objects were observed by multiple military personnel, including pilots who attempted to intercept them.",
-        "Photographs were taken of the objects, but the report indicates the film broke during the first picture.",
-        "The objects were estimated to be around 300 feet in diameter and moving at speeds around 20-700 mph.",
-        "One object was observed for over 2 hours as it drifted eastward at approximately 20 mph."
-    ],
-    "result": "unexplained",
-    "sighted object": "brilliant, translucent, white stars or orbs",
-    "location": "Keesler AFB and Mobile, Alabama",
-    "witnesses": "military personnel, including pilots",
-    "photographs": "yes, but film was damaged"
+    "main event": "On March 6, 1954, multiple witnesses observed a UFO at Keesler AFB, described as translucent and white, moving erratically at high altitudes.",
+    "interesting points": "The objects were seen drifting at about 20 mph at altitudes around 50,000 feet for about 5 minutes., Observers included Air Force personnel and a control tower operator., One witness mentioned having seen similar objects on several occasions., The object had a streamer hanging from it which appeared to be a quarter of its diameter., The sighting prompted an investigation with a military aircraft being dispatched to identify the object.",
+    "sighted object": "brilliant, translucent white stars or a disc-shaped object",
+    "location": "Keesler Air Force Base, Mississippi, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Air Force personnel including a control tower operator, and Captains John and Jane Doe",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A report of a fast-moving, hovering object observed at Ent AFB, Colorado in 1966.",
-    "interesting points": [
-        "The object appeared to be metallic and round in shape, similar to a 'penguin eraser'.",
-        "The object was observed at an approximate altitude of 3,000 feet.",
-        "The object approached from the west, hovered for approximately 1 minute over the base, then pulled straight up and out of sight at a high speed.",
-        "The report includes a photograph labeled 'Astro (star/planet)' but no human faces are visible.",
-        "The report discusses the importance of collecting physical evidence of unidentified flying objects for scientific examination."
-    ],
-    "result": "Identified as an astro (star/planet) object that appeared and disappeared rapidly, checked by motion on GRADE.",
-    "sighted object": "A metallic, round object",
-    "location": "Ent AFB, Colorado",
-    "witnesses": "2 observers",
-    "photographs": "Yes, one photograph labeled 'Astro (star/planet)' but no human faces visible."
+    "main event": "An object, identified as a star or planet, appeared and disappeared rapidly while monitoring for UFOs at Ent AFB on March 21, 1966.",
+    "interesting points": "The object was stationary and observed visually from the ground., The observation lasted 10 seconds., The object was visible through a break in the clouds., Its disappearance was confirmed by movement, checked after 10 seconds., The report suggests the object may have been mistaken for a star due to its appearance.",
+    "sighted object": "star/planet",
+    "location": "Ent AFB, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two individuals observed the object at night in clear skies.",
+    "contains photographs": false
 }

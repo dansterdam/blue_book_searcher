@@ -1,15 +1,9 @@
 {
-  "main event": "A dark, oval-shaped object was photographed by Paul Eisenberg on May 4, 1952 in San Francisco, California.",
-  "interesting points": [
-    "The photograph depicts a mostly clear sky with the object centered slightly above the middle of the image.",
-    "Part of a building is visible in the bottom right corner of the image, providing some context for the object's size and distance.",
-    "The object is described as dark and oval-shaped, hinting at a potential unconventional flying object.",
-    "The specific date of the event is May 4, 1952, adding a specific timeframe to the sighting.",
-    "The sighting occurred in San Francisco, California, a location known for various UFO reports and sightings."
-  ],
-  "result": "unexplained",
-  "sighted object": "dark, oval-shaped object",
-  "location": "San Francisco, California",
-  "witnesses": "Paul Eisenberg",
-  "photographs": "yes"
+    "main event": "A dark, oval-shaped object was photographed in the sky by Paul Eisenberg on May 4, 1952.",
+    "interesting points": "The photograph shows a mostly clear sky with the object centered slightly above the middle of the image., A part of a building is visible in the bottom right corner of the image., The sighting took place in San Francisco, California., The report indicates it was a UFO sighting., The date of the event is significant in the history of UFO reports.",
+    "sighted object": "dark, oval-shaped object in the sky",
+    "location": "San Francisco, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Paul Eisenberg",
+    "contains photographs": true
 }

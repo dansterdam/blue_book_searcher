@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A bright white light object around 30 feet in diameter was observed hovering at an estimated altitude of 200-300 feet above the ground, making rapid and erratic maneuvers for about 15 minutes.",
-    "interesting points": [
-        "The object moved silently, making darting back and forth and up and down movements.",
-        "At times, the object appeared to be hovering motionless, then would dart off at great speed only to return moments later.",
-        "The object displayed no visible means of propulsion.",
-        "The witness had never seen anything like it before and was perplexed by the experience.",
-        "The witness requested that the authorities investigate the sighting further."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A bright white light object around 30 feet in diameter",
-    "location": "Delmar, New York",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "An observer reported seeing a bright white object with colored lights in Delmar, New York in October 1968.",
+    "interesting points": "The sighting lasted over an hour,The object was described as having several colored lights including red, green, yellow, and bright white,The observer did not return the required SIGHTING DATA and SUPPLEMENTAL DATA forms,The report concluded there was insufficient data for evaluation, The object remained stationary during the observation period.",
+    "sighted object": "bright white object with colored lights",
+    "location": "Delmar, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer is described as a reputable citizen who expressed concern over the strange movements of the object.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Two cast iron objects weighing 13 3/4 and 1 1/2 pounds crashed through the roof of the American Oil Company in Baltimore, Maryland on May 7, 1955.",
-    "interesting points": [
-        "The objects were examined and found to be of good quality cast iron, likely from a former valve control wheel.",
-        "The objects appeared to have been installed in a damp location previously based on traces of corrosion.",
-        "The hole in the larger 13 3/4 pound object was found to have once held a handle-type assembly.",
-        "It was unlikely the objects were dropped by an aircraft as the whole object would have been dislodged rather than just the pieces.",
-        "The investigating authorities concluded the objects were likely part of some kind of machinery or equipment that was launched into the air and then came crashing back down, rather than being a genuine UFO incident."
-    ],
-    "result": "probably caused by machinery or equipment from nearby operations, not a genuine UFO incident",
+    "main event": "Two cast iron objects weighing 13 3/4 pounds crashed through the roof of the American Oil Company in Baltimore, Maryland on May 7, 1955.",
+    "interesting points": "The objects were reported to have made a distinctly audible sound upon impact,Investigations suggested the objects possibly came from nearby scrap yard operations,Initial evaluations indicated the pieces were likely of metallic composition but no definitive identification could be determined,The objects were described as being about 2 feet long and not immediately identified as aircraft,There were multiple witnesses including employees of the American Oil Company.",
     "sighted object": "two cast iron objects",
-    "location": "Baltimore, Maryland",
-    "witnesses": "employees of the American Oil Company",
-    "photographs": "no, the report does not include any photographs"
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "employees of the American Oil Company",
+    "contains photographs": false
 }

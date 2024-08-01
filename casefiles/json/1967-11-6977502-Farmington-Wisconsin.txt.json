@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "A civilian and a military personnel observed an unidentified flying object over Farmington, Wisconsin on March 21, 1967.",
-    "interesting points": [
-        "The object was described as round, 20 yards in diameter, and red-orange in color.",
-        "The object was observed moving in an easterly direction and then back to its original position before disappearing rapidly over the horizon.",
-        "The weather conditions were clear with calm winds.",
-        "The military personnel from the nearby Osceola Air Force Base were notified and dispatched to investigate, but could only observe a bright, silver-colored object in the distance.",
-        "The report concludes that the sighting was likely the planet Venus, which was the brightest astronomical body in the western sky at the time."
-    ],
-    "result": "likely explained as the planet Venus",
-    "sighted object": "a round, red-orange object 20 yards in diameter",
-    "location": "Farmington, Wisconsin",
-    "witnesses": "a civilian and a military personnel",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported in Farmington, Wisconsin on 21 November 1967, where civilians observed a bright, silver object in the sky.",
+    "interesting points": "The sighting lasted for about 15 minutes,The object was observed near the setting sun, which raises questions about celestial bodies in the area.,The object reportedly appeared larger than a star and was silver in color,The Air Force suggested that the planet Venus was likely responsible for the sighting., Multiple witnesses, including a housewife and a military radar operator, described the same event.",
+    "sighted object": "a bright, silver object in the sky",
+    "location": "Farmington, Wisconsin, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One civilian housewife and one military ACW operator",
+    "contains photographs": false
 }

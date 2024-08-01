@@ -1,15 +1,9 @@
 {
-    "main event": "A white, round object was observed at a five degree elevation off the horizon in Twenty-Nine Palms, California on May 6, 1955.",
-    "interesting points": [
-        "The object appeared to hang in the sky and then disappear from the observer's view.",
-        "The observer estimated the object was approximately 3 feet in diameter.",
-        "After checking astronomical charts, it was determined the object could not have been any celestial body or other astronomical object.",
-        "There were other indications of unusual aerial activity in the area, according to a report made by the AFOSR squadron.",
-        "Despite the unusual activity, the description of the sighting, including the weather conditions, led to the conclusion that the sighting was probably a balloon."
-    ],
-    "result": "Possibly a balloon",
-    "sighted object": "A white, round object",
-    "location": "Twenty-Nine Palms, California",
-    "witnesses": "Civilian observer",
-    "photographs": "No photographs"
+    "main event": "A white object was observed hanging in the sky before disappearing in Twenty-Nine Palms, California on May 6, 1955.",
+    "interesting points": "The object was estimated to be approximately three feet in diameter., It appeared at a five-degree elevation off the horizon., The duration of the sighting was several seconds., The sighting was considered probably a balloon, but there were no definitive conclusions., The report mentioned unusual aerial activity in the area.",
+    "sighted object": "one white object",
+    "location": "Twenty-Nine Palms, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

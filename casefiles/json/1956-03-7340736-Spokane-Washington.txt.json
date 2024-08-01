@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "On March 3, 1956, a bright light was observed over Spokane, Washington by several witnesses. The light appeared to be bluish-white in color, hovered motionless for about 5 minutes, and then accelerated rapidly and disappeared in a north-northeast direction.",
-    "interesting points": [
-        "The object was estimated to be about 25 to 30 feet in diameter and at an altitude of 2,500 to 3,000 feet.",
-        "The object made no sound and the observers could not identify it as any known aircraft.",
-        "Two other similar objects were detected on radar, with one of them splitting off and going in a different direction.",
-        "The sighting was reported to the Air Force, and the observers were interviewed, but no conclusive identification of the object could be made.",
-        "The report includes sketches of the object and its observed movements, but no photographs."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright bluish-white light, estimated to be 25-30 feet in diameter",
-    "location": "Spokane, Washington",
-    "witnesses": "multiple civilian observers",
-    "photographs": "no, the report includes sketches but no photographs"
+    "main event": "An unidentified object was observed in Spokane, Washington on March 3, 1956.",
+    "interesting points": "The object was detected on radar as a blimp and moved rapidly before fading., Two other similar objects were indicated on the radar., The pilot speculated that the object could be a civilian R-500 series fighter aircraft., Witnesses reported seeing a bright bluish-white light hovering before it accelerated quickly and disappeared., The object was estimated to be 25 to 30 feet in diameter and at an altitude of approximately 2,500 to 3,000 feet.",
+    "sighted object": "unidentified flying object",
+    "location": "Spokane, Washington, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Witnesses included civilians who were observing the sky for a comet.",
+    "contains photographs": false
 }

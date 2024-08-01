@@ -1,15 +1,9 @@
 {
-  "main event": "A single unidentified object was observed for 1-3 seconds over the Pacific Ocean on 13th October 1954 by military personnel.",
-  "interesting points": [
-    "The observation lasted only 1-3 seconds, providing minimal data for evaluation.",
-    "No sound, trails, or radical maneuvers were reported.",
-    "The object was not consistent with a meteor sighting and was too brief for confirmed balloon identification.",
-    "The rating officer believed the object was likely a balloon reflecting the sun's rays, despite the sighting area being in the dark.",
-    "The conclusion stated insufficient data for evaluation."
-  ],
-  "result": "prozaic explanation (believed to be a balloon)",
-  "sighted object": "unidentified object",
-  "location": "Pacific Ocean - 31°05' N - 144°16' W",
-  "witnesses": "military",
-  "photographs": "no"
+    "main event": "An unidentified object was observed in the Pacific Ocean on October 13, 1954.",
+    "interesting points": "The object was observed for a duration of 1 to 3 seconds.,The observation was categorized as an air visual.,The rating officer believed it was probably a balloon reflecting sunlight.,There was no sound or trails associated with the sighting.,The report concluded with insufficient data for evaluation.",
+    "sighted object": "one unidentified object",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "military source",
+    "contains photographs": false
 }

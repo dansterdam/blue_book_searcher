@@ -1,17 +1,9 @@
-Here is a summary of the key information from the UFO report in JSON format:
-
 {
-    "main event": "A citizen reported observing an unidentified flying object near Columbia, South Carolina on May 6, 1968.",
-    "interesting points": [
-        "The object was described as round in shape, silvery in color, and hovering in the sky.",
-        "The witness observed the object for approximately 10 minutes before it disappeared behind some trees.",
-        "The object moved slowly and silently from west to east, and appeared to be hovering.",
-        "The weather conditions were clear and dark at the time of the sighting.",
-        "The report includes a statement from the witness detailing the sighting, but no photographs are included."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, silvery object",
-    "location": "Columbia, South Carolina",
-    "witnesses": "one citizen",
-    "photographs": "none"
+    "main event": "A citizen reported observing a round, silvery unidentified flying object hovering in the sky near Columbia, South Carolina on May 6, 1968.",
+    "interesting points": "The witness described the object as round and glowing,The sighting lasted approximately 10 minutes, during which the object moved slowly from west to east,There were no lights visible on the object and it was observed in clear weather,Two citizens were confirmed witnesses to the event,The film submitted after the incident exhibited water spots likely from processing.",
+    "sighted object": "round, glowing object",
+    "location": "Columbia, South Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "The witness was outside doing yard work when the object was observed.",
+    "contains photographs": true
 }

@@ -1,13 +1,9 @@
 {
-    "main event": "A documentary-type film called 'UFOs Exist' is being released, which contains footage of 'flying saucers' that was filmed by the U.S. Air Force during a sighting incident on September 9, 1952.",
-    "interesting points": [
-        "The film was produced by Robert Emenegger, a Las Vegas businessman, and the technical director was Marc Rommel, an Aerospace analyst who has worked on government contracts.",
-        "The Air Force has granted permission for the release of the film, which contains some of the first authenticated motion picture evidence of 'flying saucers'.",
-        "The sightings occurred in the Southwest, but the exact location was not divulged."
-    ],
-    "result": "The Air Force has confirmed the authenticity of the 'flying saucer' footage in the film.",
-    "sighted object": "flying saucers",
-    "location": "Southwest, U.S.",
-    "witnesses": "U.S. Air Force",
-    "photographs": "yes, the film contains footage of the 'flying saucers'"
+    "main event": "A documentary film titled 'Unidentified Flying Objects' was produced, featuring radar footage and testimonies related to UFO sightings, highlighting the controversy surrounding unidentified flying objects captured on film.",
+    "interesting points": "The film involved significant figures like Capt. Edward J. Ruppelt and was derived from the Project Blue Book documentation., The movie includes footage tracked by radar over Washington, D.C., signaling official recognition of UFOs as unidentified phenomena., The Air Force's analysis concluded that some sightings were attributed to sea gulls rather than extraterrestrial sources., Discussions on the film led to a private viewing by Air Force personnel to assess its scientific validity., The film was met with mixed reactions from the Hollywood producers during its preview.",
+    "sighted object": "unidentified flying objects (UFOs)",
+    "location": "Ellendale, North Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "farmers from the area",
+    "contains photographs": false
 }

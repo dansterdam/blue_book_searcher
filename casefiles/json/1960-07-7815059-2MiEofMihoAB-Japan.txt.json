@@ -1,15 +1,9 @@
 {
-    "main event": "A military ground-radar system detected an unidentified flying object (UFO) near Miho Air Base, Japan on July 14, 1960.",
-    "interesting points": [
-        "The object was observed to be 4-5 times the size of the full moon, white in color, and appeared to have a short tail.",
-        "The object was estimated to be traveling at a speed of approximately 600 mph.",
-        "The object seemed to be 'burning' as it disappeared from view after 5-6 seconds of observation.",
-        "The report notes that the description and duration of the sighting are characteristic of a fireball or meteor, but the reported speed is considered excessive for a meteor.",
-        "The report concludes that there were no satellites reported to be reentering the atmosphere at the time, and the maneuver characteristics are not consistent with a meteor or other natural phenomenon."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, white, fast-moving object with a short tail",
-    "location": "2 miles east of Miho Air Base, Japan",
-    "witnesses": "military ground-radar system",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed near Miho Air Base, Japan on July 14, 1960.",
+    "interesting points": "The object was described as 4-5 times the size of the full moon and appeared white with a short tail., Its speed was estimated at 600 mph, and it seemed to be burning as it disappeared., The sighting lasted for 5-6 seconds., The reported direction of motion was southeast., Analysis ruled out confusion with known aircraft, natural phenomena, and a meteor.",
+    "sighted object": "one unidentified flying object",
+    "location": "Miho, Tottori, Japan",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

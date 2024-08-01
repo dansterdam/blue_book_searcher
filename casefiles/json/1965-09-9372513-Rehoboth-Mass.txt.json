@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a long, tubelike object with blue and red bands at the rear, emitting yellow sparks, while driving a car in Rehoboth, Massachusetts in September 1965.",
-    "interesting points": [
-        "The object looked like it was coming down from the sky.",
-        "The witness described the object as moving faster than an ordinary plane.",
-        "The object appeared to be made of 3 or 4 parts attached by something like girders, and had a round or bell-like structure.",
-        "The object was red in color.",
-        "The witness was driving from Yatko to Rehoboth when they saw the object around 10:15 PM."
-    ],
-    "result": "Misinterpretation of a conventional object",
-    "sighted object": "A long, tubelike object with blue and red bands and yellow sparks",
-    "location": "Rehoboth, Massachusetts",
-    "witnesses": "One civilian witness",
-    "photographs": "No"
+    "main event": "A civilian reported seeing a long tube-like object with a blue and red band at the rear, giving off yellow sparks, while driving in Rehoboth, Massachusetts, in September 1965.",
+    "interesting points": "The observation lasted only a few seconds while the observer was driving a car., The object was thought to potentially be an aircraft or even a meteor., A sketch in the report described the object as having a round or bell-like structure and red color., The report expressed skepticism, concluding it was likely a misinterpretation of a conventional object., The observer was described as being very enthused about sky objects.",
+    "sighted object": "long tube-like object with blue and red band",
+    "location": "Rehoboth, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who appeared messy and disorganized in the report",
+    "contains photographs": false
 }

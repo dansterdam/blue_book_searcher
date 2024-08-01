@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed by a crew approximately 75 miles WNW of JM 2334 (Ohio) on 25 May 1955. The observation lasted 7 minutes, and the UFO was described as stationary.",
-    "interesting points": [
-        "The observation was categorized as Air-Visual and was reported by a crew.",
-        "The report indicates that the description of the UFO closely matches that of a balloon.",
-        "No follow-up investigation was apparently made, despite the close match to a balloon description.",
-        "The UFO was observed for a relatively long duration of 7 minutes, allowing for detailed scrutiny.",
-        "The location of the observation was approximately 75 miles WNW of JM 2334 in Ohio."
-    ],
-    "result": "prosaic explanation (resembling a balloon)",
-    "sighted object": "unidentified flying object (UFO)",
-    "location": "Approximately 75 miles WNW of JM 2334, Ohio",
-    "witnesses": "Crew",
-    "photographs": "no, the report does not mention any photographs"
+    "main event": "A crew observed a stationary object resembling a balloon for 7 minutes on May 25, 1955.",
+    "interesting points": "The observation was made 75 miles WNW of JM 2334 (Ohio), The source of the observation was a crew member, The report indicates that there was no follow-up investigation conducted, The object was classified under Air-Visual observation type, The description of the object closely aligns with that of a balloon.",
+    "sighted object": "one stationary object resembling a balloon",
+    "location": "JM 2334, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "crew member",
+    "contains photographs": false
 }

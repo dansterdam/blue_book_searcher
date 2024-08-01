@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report text provided:
-
 {
-    "main event": "A commercial airline pilot sighted a very bright light traveling at a high rate of speed, estimated at 3,000-4,000 mph, near his aircraft.",
-    "interesting points": [
-        "The light was brilliant white in color and approximately 50-100 feet in diameter.",
-        "As the light passed the pilot's aircraft, it appeared slightly smaller than the B-707 jet.",
-        "The Dayton control tower also tracked the object on radar and confirmed it was traveling at a very high rate of speed.",
-        "The pilot reported the incident immediately to the Dayton control tower.",
-        "The nature and origin of the object is highly speculative."
-    ],
-    "result": "unexplained",
-    "sighted object": "a very bright light",
-    "location": "Torrance, California",
-    "witnesses": "commercial airline pilot",
-    "photographs": "no"
+    "main event": "A commercial airlines pilot observed a bright light in the sky while flying over Torrance, California, on March 11, 1967.",
+    "interesting points": "The pilot reported the light was approximately 50 to 100 feet in diameter and traveling at a speed estimated at 3,000 to 4,000 mph., The object passed by his aircraft while he was flying at 21,000 feet and at a speed of 320 mph., The Dayton control tower confirmed the radar tracking of the object during the incident., The pilot described the light as brilliant white and expressed uncertainty regarding its origin., The event was documented as part of a Project Blue Book record presenting conflicting data regarding the details.",
+    "sighted object": "a bright, brilliant white light",
+    "location": "Torrance, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Commercial Airlines Pilot S. C. Pierson",
+    "contains photographs": false
 }

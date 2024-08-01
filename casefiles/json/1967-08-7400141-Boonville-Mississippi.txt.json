@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A couple spotted a large, oval-shaped object with a bright, reddish-orange glow that moved silently across the sky near Boonville, Mississippi on August 7, 1967.",
-    "interesting points": [
-        "The object was about 30 to 40 feet in diameter and was moving at a rapid speed.",
-        "The object made a sudden, 90-degree turn and sped off towards the northeast at an incredible speed.",
-        "The witnesses, a married couple, were quite shaken by what they saw and felt it was no conventional aircraft.",
-        "The incident was reported to the U.S. Air Force, which requested additional information and photographs for a comprehensive photographic analysis.",
-        "The report indicates that the Air Force was interested in evaluating the photograph and requested details about the camera, film, and lens used."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, oval-shaped object with a bright, reddish-orange glow",
-    "location": "Boonville, Mississippi",
-    "witnesses": "a married couple",
-    "photographs": "no, the report indicates the photographs were not received"
+    "main event": "On the evening of 7 August 1967, a couple observed a bright, oval-shaped object while traveling along Highway 78 near Boonville, Mississippi.",
+    "interesting points": "The object was silent and moved at a rapid speed,It emitted a bright, reddish-orange glow and was estimated to be 30 to 40 feet in diameter,The object made a sudden 90-degree turn and sped off towards the northeast,The couple felt shaken by the experience and believed it was not a conventional aircraft,The report was submitted to Project Blue Book for further investigation.",
+    "sighted object": "a large, oval-shaped, bright object",
+    "location": "Boonville, Mississippi, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a couple traveling along Highway 78",
+    "contains photographs": false
 }

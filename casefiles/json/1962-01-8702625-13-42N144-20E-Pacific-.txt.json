@@ -1,15 +1,9 @@
 {
-    "main event": "Pilot of MATS 20996 sighted a large bright explosion of small objects over the Pacific Ocean.",
-    "interesting points": [
-        "The object was observed for a few minutes in front of the aircraft at an altitude of approximately 7,000 feet.",
-        "The sighting occurred at an aircraft altitude of 5,000 feet, with the object appearing just above a low cloud layer.",
-        "The location of the sighting was at coordinates 13-46N 144-20E.",
-        "The pilot reported the object as a large bright explosion of small objects.",
-        "The sighting was evaluated as having the characteristics of a meteor observation."
-    ],
-    "result": "probable meteor",
-    "sighted object": "large bright explosion of small objects",
-    "location": "13-42N 144-20E, Pacific Ocean",
-    "witnesses": "pilot of MATS 20996 aircraft",
-    "photographs": "no"
+    "main event": "A large bright explosion of a small object was observed for 3 minutes, appearing to be at about 7000 ft.",
+    "interesting points": "The object was sighted from an aircraft at 5000 ft,The sighting occurred in the Pacific region,The observation was made at night,The object showed characteristics similar to that of a missile,No photographs are available in this report.",
+    "sighted object": "large bright explosion of a small object",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "Pilot of MATS 20996 PATE",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, cigar-shaped object was sighted by a USMC recruiter in Aurora, Colorado on August 28, 1962.",
-    "interesting points": [
-        "The object was first sighted at 7:50 PM and was observed through 8-power binoculars.",
-        "The object approached the observer, moving smoothly and silently, for 2-3 minutes before being lost from sight.",
-        "The object was estimated to be about 1/4 mile away and at an altitude of 500-600 feet.",
-        "The report states the object could not be classified or identified.",
-        "The report suggests the possibility of the sighting being a reflected phenomenon, but the conclusion is that the object remained unidentified."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, cigar-shaped object",
-    "location": "Aurora, Colorado",
-    "witnesses": "a USMC recruiter",
-    "photographs": "no"
+    "main event": "A cigar-shaped UFO was observed over Aurora, Colorado, on February 8, 1962.",
+    "interesting points": "The UFO was first sighted at 1950R with no sound or trail observed., The object was approximately 1/4 mile away and exhibited smooth, silent motion., It was observed through 8-power binoculars at an altitude of 5-600 feet., The sighting lasted for approximately 2-3 minutes before the object was lost to sight., There are multiple possible classifications such as balloon, aircraft, or astronomical.",
+    "sighted object": "cigar-shaped unidentified flying object",
+    "location": "Aurora, Colorado, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified as the primary witness information is lacking",
+    "contains photographs": false
 }

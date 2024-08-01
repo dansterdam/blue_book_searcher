@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unidentified objects, one larger and one smaller, were observed descending in a zig-zag pattern near Barstow, California on September 21, 1954.",
-    "interesting points": [
-        "The objects were observed for 20 minutes, with the smaller object disappearing around midnight with minimal flashing and sound.",
-        "The objects were reported to police departments in Barstow, California.",
-        "A radar flight service was unable to identify the objects observed.",
-        "A pilot flying over the Barstow desert area in 1954 observed a number of small, metallic objects traveling at high speeds and changing direction abruptly.",
-        "The report mentions four men from the Provost Marshalls Office asking the Barstow Police Department about the incident."
-    ],
-    "result": "unidentified",
-    "sighted object": "two unidentified objects, one larger and one smaller",
-    "location": "Barstow, California",
-    "witnesses": "civilian, police departments, pilot",
-    "photographs": "no"
+    "main event": "Two unidentified objects were observed in Barstow, California on September 21, 1954.",
+    "interesting points": "One object was larger than the other,The objects exhibited a zigzag descent to the west,The observation lasted for approximately 20 minutes,No physical evidence or photographs were found,The report was sourced from the civilian population and the Barstow police department.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Barstow, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "source provided by civilian and police departments",
+    "contains photographs": false
 }

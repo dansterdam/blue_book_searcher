@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A sighting of an object that appeared similar to a star, alternating in color between green, blue, red, and white, moving in the southeast direction before rapidly disappearing to the northeast.",
-    "interesting points": [
-        "The object appeared to be bobbing up and down and sideways.",
-        "The sighting lasted for about 30 seconds.",
-        "The report notes that the positional data was not included, but the duration and description indicate the object was likely an astronomical body such as a first magnitude star.",
-        "The report mentions that the object could very possibly have been a balloon.",
-        "The report states that 12 observers saw the object."
-    ],
-    "result": "probably astronomical",
-    "sighted object": "an object appearing similar to a star, alternating in color",
-    "location": "Blue Mound, Illinois",
-    "witnesses": "12 observers",
-    "photographs": "no"
+    "main event": "A UFO was sighted near Blue Mound, Illinois on September 17, 1955, described as alternating colors and bobbing in the sky.",
+    "interesting points": "The object alternated between green, blue, red, and white colors,It was perceived to be very high in the sky,The sighting lasted for 30 seconds,12 confirmed witnesses including a dentist claimed to have seen it,There were conflicting conclusions about the sighting, suggesting it could be a balloon, aircraft, or astronomical body.",
+    "sighted object": "a single object resembling a star",
+    "location": "Blue Mound, Illinois, USA",
+    "number of confirmed witnesses": 12,
+    "witness description": "Dr. - 53 - Phone - Dentist - Very good",
+    "contains photographs": false
 }

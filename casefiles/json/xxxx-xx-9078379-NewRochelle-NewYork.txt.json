@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light, brighter than a star, was observed circling and making a pass over a building in New Rochelle, New York on 9/6/1952.",
-    "interesting points": [
-        "The object appeared to be circling and making a pass over a building.",
-        "The observer was unable to determine what the object was.",
-        "The object made no sound.",
-        "The object was white in color.",
-        "The incident was reported to Project Blue Book for further investigation."
-    ],
-    "result": "possible (aircraft) with landing light",
-    "sighted object": "a bright light, brighter than a star",
-    "location": "New Rochelle, New York",
-    "witnesses": "1 observer",
-    "photographs": "no photographs were provided"
+    "main event": "An observer reported a bright light in New Rochelle, New York, on 9/6/1952, which appeared to be circling and passing over a building.",
+    "interesting points": "The object was described as brighter than a star,The observer reported no sound associated with the object,The color of the object was noted as white,It was suggested that the object might possibly be an aircraft with landing lights,There are indications of previous similar sightings in the area.",
+    "sighted object": "a bright light",
+    "location": "New Rochelle, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an observer who saw the bright light",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The report contains multiple aerial or satellite images of a cloudy, hazy landscape taken from a high altitude, with no identifiable human subjects or faces.",
-    "interesting points": [
-        "The images appear to show diffuse cloud patterns and haziness, suggesting they were taken from a high altitude.",
-        "The report is from the Foreign Technology Division of the Air Force Systems Command, indicating the images may be of foreign or unidentified atmospheric phenomena.",
-        "The report is unclassified, suggesting the images do not contain sensitive or classified information.",
-        "The report is dated October 5, 1961, and was taken on Johnson Island in the Pacific Ocean.",
-        "The report mentions 12 photographs, but the provided text only describes the contents of the images and does not include any actual photographs."
-    ],
-    "result": "inconclusive",
-    "sighted object": "diffuse cloud patterns and hazy atmospheric conditions",
-    "location": "Johnson Island, Pacific",
-    "witnesses": "unknown",
-    "photographs": "yes, 12 photographs are mentioned in the report, but not included in the provided text"
+    "main event": "A UFO report dated October 5, 1961, describes aerial or satellite images of a cloudy sky from Johnson Island, Pacific.",
+    "interesting points": "The images are described as showing diffuse cloud patterns and haziness., The photographs were taken from a high altitude., There are no identifiable human subjects or faces in the images., The document is marked as unclassified., A total of 12 photographs were included with the report.",
+    "sighted object": "cloudy sky or atmospheric conditions",
+    "location": "Johnson Island, Pacific, Pacific",
+    "number of confirmed witnesses": 0,
+    "witness description": "no identifiable individuals or faces",
+    "contains photographs": true
 }

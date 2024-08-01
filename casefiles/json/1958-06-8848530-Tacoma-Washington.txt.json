@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A witness observed several large, orange-shaped objects come in over the ocean at tremendous speed and then return back over the ocean, making zig-zag motions in the sky.",
-    "interesting points": [
-        "The objects appeared to be traveling at around 3,000 miles per hour.",
-        "The objects were estimated to be several times larger than a jet plane and more oval-shaped than round.",
-        "The objects appeared and disappeared suddenly, without any sound or trace.",
-        "The witness was able to observe the objects for about 30 minutes.",
-        "The witness described the objects as being as bright as a distant car's headlights."
-    ],
-    "result": "unexplained",
-    "sighted object": "several large, orange-shaped objects",
-    "location": "Belfast, Maine",
-    "witnesses": "1 witness",
-    "photographs": "yes, the report includes photographs"
+    "main event": "On June 25, 1958, Ms. M V Vinck observed lights in the sky hovering, suddenly accelerating and disappearing in Tacoma, Washington.",
+    "interesting points": "The object was reported to hover before rapidly accelerating out of sight.,The duration of the observation was approximately one minute.,The object was classified as a light.,Ms. Vinck is the only confirmed witness.,There was speculation that the observed lights might have been a character of a meteor.",
+    "sighted object": "lights in the sky",
+    "location": "Tacoma, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ms M V Vinck",
+    "contains photographs": false
 }

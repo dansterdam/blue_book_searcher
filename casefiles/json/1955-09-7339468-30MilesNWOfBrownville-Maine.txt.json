@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large object that changed colors from red to green to yellow, with sudden drops and rises in altitude, was observed over Brownville, ME for about 2 minutes.",
-    "interesting points": [
-        "The object was approximately the size of a jet aircraft.",
-        "The object made no sound as it moved.",
-        "The object dropped vertically about 1G in altitude.",
-        "The sighting was observed by multiple witnesses, including a pulpwood truck driver, a schoolboy, and a restaurant owner.",
-        "The weather conditions were clear with good visibility at the time of the sighting."
-    ],
-    "result": "possibly astronomical",
-    "sighted object": "large, colorful object in the sky",
-    "location": "Brownville, ME",
-    "witnesses": "pulpwood truck driver, schoolboy, restaurant owner",
-    "photographs": "no"
+    "main event": "A possible aircraft was observed exhibiting sudden color changes from red to green to yellow with no sound, rising and dropping in the sky.",
+    "interesting points": "The observation lasted for 2 minutes,The object dropped vertically and rose at approximately 21-3000 feet,Several witnesses included a pulpwood truck driver and a schoolboy,The sighting was recorded using binoculars and a telescope,Weather conditions were clear with no storms or cloud cover.",
+    "sighted object": "an unidentified object changing colors in the sky",
+    "location": "Brownvill, Maine, USA",
+    "number of confirmed witnesses": 3,
+    "witnesses": "a pulpwood truck driver, a schoolboy, and a restaurant owner",
+    "photographs": false
 }

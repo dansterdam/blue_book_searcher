@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-  "main event": "A bright, multi-colored object was observed hovering and then moving slowly in a westerly direction near Hutchinson, Kansas on July 8, 1962.",
-  "interesting points": [
-    "The object had a bright, fuzzy outline and was approximately 50 feet wide and 20 feet high, hovering about 20 feet above the ground.",
-    "The object's lights changed colors in a pattern of red, blue, green, and white.",
-    "The object hovered briefly before moving slowly in a westerly direction and disappearing behind trees.",
-    "The sighting was reported to the United States Air Force on July 9, 1962.",
-    "The reporting officer considered this a legitimate observation of an unidentified flying object."
-  ],
-  "result": "unexplained",
-  "sighted object": "a bright, multi-colored object with a fuzzy outline",
-  "location": "Hutchinson, Kansas",
-  "witnesses": "a mature and reliable witness",
-  "photographs": "no"
+    "main event": "A witness observed a round, glowing orange object hovering above the ground in Hutchinson, Kansas on 8 July 1962.",
+    "interesting points": "The object was about 10-12 feet in diameter and glowed orange,It hovered for approximately 3-5 minutes before moving rapidly away,The object accelerated quickly and disappeared in a matter of seconds,No sound was reported during the sighting,The sighting was confirmed by a mature and reliable witness, and reported to the USAF.",
+    "sighted object": "a round, glowing orange object",
+    "location": "Hutchinson, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a mature and reliable witness residing in Hutchinson, Kansas",
+    "contains photographs": false
 }

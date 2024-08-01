@@ -1,15 +1,9 @@
 {
-  "main event": "A photo analysis report from 1959 involving two color slides and two black and white photographs, depicting desert sunset in Phoenix, Arizona, and mountainous terrain in Switzerland, concluded that the phenomena observed were likely reflections.",
-  "interesting points": [
-    "The color slide from Phoenix, Arizona, was likely a copy of a picture from a magazine, showing a desert sunset with colorful cloud formations and a trail of sand/earth lifted from the desert floor.",
-    "The second slide from Switzerland depicted mountainous terrain, with an oblong-appearing translucent streak likely due to reflection from a portion of the aircraft's surface.",
-    "No significant items were observed on either slide, leading to the conclusion of reflection as the probable cause of the phenomena observed.",
-    "A grainy photograph of a long, cigar-shaped object resembling a typical UFO was submitted by Miss Dora Bauer in Vienna, with an account of bright flashes and a dull grey-white oblong object disappearing and reappearing.",
-    "The photograph was taken by Franz Hlawa in Monte Rosa, Switzerland, at a height of 3,400 meters, and the object appeared only on the film, not visible to anyone present at the location."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "desert sunset in Phoenix, Arizona and mountainous terrain in Switzerland, with a long, cigar-shaped object in the submitted photograph",
-  "location": "Phoenix, Arizona, USA and Switzerland",
-  "witnesses": "Miss Dora Bauer, Franz Hlawa",
-  "photographs": "yes the report includes photographs"
+    "main event": "A photograph taken in Switzerland in 1959 possibly shows an unidentified object, which was later analyzed and deemed to likely be a reflection.",
+    "interesting points": "The photograph taken in Switzerland is a copy and the original source couldn't be identified,The analysis concluded that the oblong streak in the photo is probably due to reflection,The report includes an account of bright flashes and a cigar-shaped object seen in the sky,The photograph has been associated with a later analysis that supported its inconclusiveness,The photograph was submitted by Miss Dora Bauer and taken by Franz Hlawa at a high altitude.",
+    "sighted object": "an oblong, possibly unidentified flying object",
+    "location": "Monte Rosa, Switzerland",
+    "number of confirmed witnesses": 0,
+    "witness description": "nobody in the party saw the object; it appeared only on the film",
+    "contains photographs": true
 }

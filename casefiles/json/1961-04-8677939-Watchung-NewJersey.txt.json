@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness saw two orange-white lights in the sky that appeared to move towards them and then away, for about 15 seconds.",
-    "interesting points": [
-        "The lights were in sight for about 15 seconds.",
-        "The witness reported the object was slightly hazy.",
-        "The witness was considered a reliable witness.",
-        "The Air Force concluded the object was probably an aircraft, with no evidence of a celestial or unconventional aerial object.",
-        "The report includes two sketches or illustrations, but no photographs."
-    ],
-    "result": "probable aircraft",
-    "sighted object": "two orange-white lights",
-    "location": "Watchung, New Jersey",
-    "witnesses": "1 witness",
-    "photographs": "none"
+    "main event": "A witness observed two orange-white lights in the sky over Watchung, New Jersey, on April 30, 1961, which appeared to move toward and then away from them.",
+    "interesting points": "The sighting lasted for about 15 seconds,The lights were observed under slightly hazy weather conditions,Witness reliability is noted as reliable,The report implies that the objects might have been an aircraft,There were no photographs included in the report.",
+    "sighted object": "two orange-white lights in the sky",
+    "location": "Watchung, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Reliable witness reported seeing the lights.",
+    "contains photographs": false
 }

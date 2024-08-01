@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An aircraft crew spotted a blueish trail in the sky over the Gulf of Mexico on June 23, 1950.",
-    "interesting points": [
-        "The object was observed for 15-20 to 30 minutes.",
-        "The object exhibited a spiral descent before the light faded.",
-        "The sighting was also reported by a newspaper as being seen by an airliner pilot over Mobile, Alabama.",
-        "A weatherman stated the flash seen was likely a large meteorite.",
-        "The report form includes details about the sighting, such as the location, color, shape, and altitude of the observed object."
-    ],
-    "result": "unexplained",
-    "sighted object": "blueish trail",
-    "location": "Gulf of Mexico, 28°45'N 89°45'W",
-    "witnesses": "aircraft crew",
-    "photographs": "no"
+    "main event": "A UFO sighting involving a bluish trail observed from an aircraft crew on June 23, 1950, in Mobile, Alabama.",
+    "interesting points": "The sighting was reported to have a duration of 15 to 30 minutes., The object was described as having a spiral descent., The incident was observed from an altitude of 50,000 feet., A weatherman later suggested that the flash seen might have been a large meteorite., The report was associated with Project Blue Book, an Air Force program for investigating UFOs.",
+    "sighted object": "bluish trail",
+    "location": "Mobile, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A/C crew and a housewife, R.K., who was an airline pilot.",
+    "contains photographs": true
 }

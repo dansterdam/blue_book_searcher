@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A UFO was detected on ground radar and also observed visually by a witness named Mr. Campbell.",
-    "interesting points": [
-        "The object was stationary, silent, and white in color.",
-        "The sighting lasted for about 15 minutes.",
-        "The object was reported to have moved rapidly to the south and was lost to view.",
-        "The case is listed as 'unknown'.",
-        "Another report was received about a bright light hovering over a field for approximately 5-10 minutes before moving rapidly to the south."
-    ],
-    "result": "unknown",
+    "main event": "A UFO was detected on ground radar and also observed visually by Mr. Campbell in Middletown, Ohio on June 27, 1954.",
+    "interesting points": "The object was stationary, silent, and white in color., The sighting lasted for 15 minutes., The object was detected via ground radar., The sighting is classified as unknown., Mr. Campbell reported the sighting after observing it visually.",
     "sighted object": "a stationary, silent, white object",
-    "location": "Middletown, Ohio",
-    "witnesses": "Mr. Campbell, Mr. Houck",
-    "photographs": "yes, the report includes photographs"
+    "location": "Middletown, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Campbell",
+    "contains photographs": false
 }

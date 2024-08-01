@@ -1,15 +1,9 @@
 {
-    "main event": "Radar operators at Patuxent River Naval Air Station observed two unidentified targets on their radar screens on December 19, 1964.",
-    "interesting points": [
-        "The targets were tracked moving at speeds up to 65,000 knots (over 75,000 mph).",
-        "The targets made sharp turns and disappeared from the radar, only to reappear later.",
-        "The sighting was witnessed by multiple experienced radar operators, but they were initially hesitant to report it.",
-        "No corroborating radar data was found at other nearby facilities.",
-        "The Air Force ultimately concluded the radar returns were likely caused by some kind of electronic interference or anomaly, rather than actual unidentified flying objects."
-    ],
-    "result": "inconclusive",
-    "sighted object": "two unidentified radar targets",
-    "location": "Patuxent River, Maryland",
-    "witnesses": "experienced radar operators at the naval air station",
-    "photographs": "none"
+    "main event": "On December 9, 1964, radar operators at Patuxent River, Maryland, tracked unidentified flying objects that exhibited unusual radar signatures.",
+    "interesting points": "Radar operators observed multiple radar targets moving at high speeds estimated between 60,000-65,000 knots per hour., The targets were tracked for up to 48 seconds before fading from the radar., Investigation revealed that initial radar returns were caused by a flock of birds, not unidentified aircraft., No simultaneous data was recorded by other radar locations, indicating the returns were unique to this site., The Air Force eventually concluded that the targets were likely an electronic anomaly or interference rather than extraterrestrial objects.",
+    "sighted object": "unidentified radar targets",
+    "location": "Patuxent River, Maryland, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "radar operators from the Naval Air Station",
+    "contains photographs": false
 }

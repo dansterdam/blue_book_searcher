@@ -1,15 +1,9 @@
 {
-    "main event": "A commercial airline pilot spotted an object flying towards Albuquerque, New Mexico from the southwest corner of the state.",
-    "interesting points": [
-        "The object had a slight light on the rear and was estimated to be at 25,000 feet, moving at a very fast speed.",
-        "The report was received as a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The altitude, heading, and flight path of the object were estimated to be consistent with a jet aircraft.",
-        "The headquarters concluded that the observer likely saw a jet aircraft and the exhaust from the aircraft.",
-        "The observation lasted approximately 15 seconds."
-    ],
-    "result": "Likely a jet aircraft",
-    "sighted object": "One fast-moving object with a slight light on the rear",
-    "location": "Deming, New Mexico",
-    "witnesses": "Commercial airline pilot",
-    "photographs": "No photographs were included in the report."
+    "main event": "A commercial airline pilot observed an object flying towards Albuquerque from Deming, New Mexico.",
+    "interesting points": "The object was estimated to be at 25,000 feet and seemed to be moving very fast.,The observation lasted approximately 15 seconds.,The object had a slight light and emitted no visible tail light.,The report was received as a CIRVIS (Civilian Report of Unidentified Sightings) report.,It was suggested that the observer probably saw a jet aircraft based on the altitude and flight path.",
+    "sighted object": "one flying object",
+    "location": "Deming, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "commercial airline pilot",
+    "contains photographs": false
 }

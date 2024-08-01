@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, yellowish-red object was sighted about 500 ft above the skyline, gliding down slowly and fading out over the course of 30 minutes.",
-    "interesting points": [
-        "The object was observed to move and glide down similar to an aircraft in flight pattern.",
-        "The object slowly faded out after the 30-minute observation period.",
-        "The sighting occurred at 4:10 PM on January 25, 1956 in Edison, Washington.",
-        "The object was visually observed by an unnamed witness.",
-        "No photographs were taken, as the time of sighting had passed before the report was filed."
-    ],
-    "result": "unknown",
-    "sighted object": "round, yellowish-red object",
-    "location": "Edison, Washington",
-    "witnesses": "unnamed witness",
-    "photographs": "no photographs taken"
+    "main event": "A round yellowish-red object was observed gliding down about 500 ft above the skyline in Edison, Washington on 25 January 1956.",
+    "interesting points": "The sighting lasted for approximately 30 minutes,The object faded slowly during its descent,The observation was classified as ground-visual,The sighting occurred at 4:10 PM,The conclusion of the report was listed as unknown.",
+    "sighted object": "round yellowish-red object",
+    "location": "Edison, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Edison Washington",
+    "contains photographs": false
 }

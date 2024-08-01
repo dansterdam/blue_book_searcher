@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Pasco, Washington spotted an unidentified circular object in the sky on October 4, 1966 at 3:32 AM.",
-    "interesting points": [
-        "The object was described as having a circular shape, being the size of a penny, and being flame-colored.",
-        "The object was observed to have a flat base and was rocking slightly as it hovered in the sky.",
-        "The object gradually climbed to the north and disappeared over the horizon, with the sighting lasting around 1.5 minutes.",
-        "There were 12 other witnesses who also observed the object.",
-        "The weather conditions were clear skies with no moon."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a circular, flame-colored object in the sky",
-    "location": "Pasco, Washington",
-    "witnesses": "one primary witness, with 12 other witnesses",
-    "photographs": "no photographs were taken"
+    "main event": "A civilian reported a sighting of a circular, flame-colored object in Pasco, Washington on October 4, 1966.",
+    "interesting points": "The object was described as having a flat base and rocking slightly,The object appeared engulfed in flames with no discernable tail,It was observed for approximately 1.5 minutes,The observation was witnessed by at least one person outside a building,No photographs or physical evidence were collected.",
+    "sighted object": "circular flame-colored object",
+    "location": "Pasco, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian and possibly others outside a building",
+    "contains photographs": false
 }

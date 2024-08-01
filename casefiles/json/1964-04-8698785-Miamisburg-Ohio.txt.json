@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light, brighter than a searchlight and about 1/4 the size, was observed in the sky over Miamisburg, Ohio on April 29, 1964.",
-    "interesting points": [
-        "The object was stationary, changed brightness, flashed and flickered.",
-        "The object had a bell or circular shape that was giving and fading light.",
-        "The object was similar in appearance to a searchlight, located at about 45 degrees elevation.",
-        "Sufficient data was provided to indicate the object was likely an astronomical body such as the planet Venus, but the missing azimuth information prevented a positive identification.",
-        "The observation lasted for 15-20 minutes before the report was filed."
-    ],
-    "result": "Insufficient data to determine the nature of the observed object, likely an astronomical body.",
-    "sighted object": "A bright light, brighter than a searchlight and about 1/4 the size.",
-    "location": "Miamisburg, Ohio",
-    "witnesses": "One civilian witness",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A UFO sighting in Miamisburg, Ohio on April 29, 1964, where an observer noted a bright light changing brightness while remaining stationary.",
+    "interesting points": "The object was described as stationary at a 45-degree elevation,It exhibited characteristics similar to that of an astro-body such as Venus,The sighting lasted between 15 to 20 minutes,The object was reported by a civilian observer,The document noted a complete lack of positive identification due to omitted azimuth details.",
+    "sighted object": "a light brighter than a searchlight",
+    "location": "Miamisburg, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

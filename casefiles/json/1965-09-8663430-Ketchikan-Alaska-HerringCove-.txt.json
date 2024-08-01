@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A flying ball of fire was reported disappearing in an eastward direction near Ketchikan, Alaska.",
-    "interesting points": [
-        "The object was sighted by three adults and several children.",
-        "The object was described as an unusual bright light, 15 to 28 feet in diameter.",
-        "The object was estimated to be at an altitude of approximately 2,500 feet and traveling at a speed in excess of 300 knots.",
-        "The object's course was approximately 337 degrees true.",
-        "No further information could be obtained, as efforts to obtain additional details were ongoing."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian reported a sighting of a flying ball of fire disappearing in an eastward direction in Ketchikan, Alaska on September 4, 1965.",
+    "interesting points": "The object was described as a flying ball of fire,One object was observed,No physical evidence was reported,The course of the object was easterly,The sighting record concluded it was an astrological phenomenon.",
     "sighted object": "a flying ball of fire",
-    "location": "Ketchikan, Alaska (Herring Cove)",
-    "witnesses": "three adults and several children",
-    "photographs": "yes, the report indicates photographs were taken"
+    "location": "Ketchikan, Alaska, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "three adults and several children",
+    "contains photographs": false
 }

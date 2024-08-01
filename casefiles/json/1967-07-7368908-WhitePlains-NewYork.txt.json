@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian in White Plains, New York spotted a single star-like object that hovered motionless in the sky for 2 minutes.",
-    "interesting points": [
-        "The object was described as being approximately the same size and appearance as a star.",
-        "The object moved from southwest to northeast before disappearing into clouds.",
-        "The witness indicated the object may have been an aircraft or satellite, though they sounded sincere in their report.",
-        "Weather conditions at the time included scattered clouds, with winds ranging from 10 to 40 knots at various altitudes.",
-        "No photographs or physical evidence were obtained, and no interception or identification actions were taken."
-    ],
-    "result": "possible aircraft",
+    "main event": "A civilian observed a star-like object hovering in the sky over White Plains, New York for 2 minutes on June 6, 1963.",
+    "interesting points": "The object was described as having a white color and shape similar to an average star., The observer noticed the object while looking at the stars at a high elevation., The object moved from southwest to northeast before disappearing into the clouds., The observer considered the possibility of the object being an aircraft or satellite., Scattered cloud conditions were reported at the time of the sighting.",
     "sighted object": "one star-like object",
-    "location": "White Plains, New York",
-    "witnesses": "one civilian witness",
-    "photographs": "no"
+    "location": "White Plains, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, 24 years old, occupation salesman, BA education",
+    "contains photographs": false
 }

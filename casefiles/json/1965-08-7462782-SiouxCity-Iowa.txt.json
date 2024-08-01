@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A middle-aged male college professor reported seeing an oval, white object that appeared at about 2000 ft altitude and descended to 500 ft in about 30 seconds before ascending at a slight angle. The object remained visible for 15 minutes, appearing to get smaller before going out of sight.",
-    "interesting points": [
-        "The object was oval and white in color.",
-        "The object descended from 2000 ft to 500 ft in about 30 seconds.",
-        "The object then ascended at a slight angle.",
-        "The object was visible for 15 minutes, appearing to get smaller before disappearing.",
-        "The sighting occurred near Sioux City, Iowa on August 6, 1965 at around 10:50 PM."
-    ],
-    "result": "unexplained",
-    "sighted object": "oval, white object",
-    "location": "near Sioux City, Iowa",
-    "witnesses": "middle-aged male college professor",
-    "photographs": "no photographs mentioned"
+    "main event": "On August 6, 1965, in Sioux City, Iowa, a witness observed a large star-like object changing colors (green, red, blue, white) for approximately 15 minutes before it disappeared.",
+    "interesting points": "The object was described as the size of a quarter held at arm's length., The objects were flying in a 'V' formation when first observed., The witness reported having seen similar objects the week prior., The initial conclusion by the investigating officials was that the object was likely a weather balloon., Photographs taken during the sightings did not turn out as expected.",
+    "sighted object": "large star-like object changing colors",
+    "location": "Sioux City, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A middle-aged male college professor who reported a clear view of the object.",
+    "contains photographs": false
 }

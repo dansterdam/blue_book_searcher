@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A flickering light was observed moving slowly towards the observer, stopping, hovering, and then disappearing without making any noise.",
-    "interesting points": [
-        "The light was first observed on the horizon and moved towards the observer.",
-        "The light stopped, hovered, and made irregular movements before disappearing.",
-        "The observer was unable to determine what the light was, and felt it was necessary to report the sighting.",
-        "The Air Force investigation could not find any other reports of unusual activity in the area on the date of the sighting.",
-        "The observer was provided with a copy of the latest Department of Defense Fact Sheet on unidentified flying objects."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a flickering light",
-    "location": "Vero Beach, Florida",
-    "witnesses": "a single observer, a retired British Army Colonel",
-    "photographs": "no"
+    "main event": "A witness observed a flickering light on the horizon that moved slowly toward them, hovered, and disappeared after a short period.",
+    "interesting points": "The sighting lasted for approximately 2 minutes,The light made no noise during the sighting,Initial contact with ground observers was difficult due to atmospheric conditions,The light followed an irregular pattern as described in a sketch included with the report,No unusual activity was reported by radar or other agencies on the date of the sighting.",
+    "sighted object": "flickering light on the horizon",
+    "location": "Vero Beach, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Colonel, British Army on vacation",
+    "contains photographs": false
 }

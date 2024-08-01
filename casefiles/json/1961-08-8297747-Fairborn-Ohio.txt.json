@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A yellow-white point of light was observed moving in a straight flight overhead for 1.5 minutes in Fairborn, Ohio.",
-    "interesting points": [
-        "The object had characteristics similar to a satellite, with only slight deviation from the stars over the observation period.",
-        "No other conflicting information was reported.",
-        "Checks showed there was no Echo I satellite in the area at the time.",
-        "The sighting was both ground-visual and ground-radar tracked.",
-        "Photographs were taken of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a yellow-white point of light",
-    "location": "Fairborn, Ohio",
-    "witnesses": "ground-based observers",
-    "photographs": "yes"
+    "main event": "On 30 August 1961, a yellow-white point of light was observed moving in a straight flight overhead in Fairborn, Ohio, based on both visual and radar detection.",
+    "interesting points": "The sighting lasted approximately 1.5 minutes,The object was tracked both visually and on radar,The operator stated that it had characteristics similar to a satellite,There were no conflicting reports or other aircraft in the area at the time,The sighting occurred at an altitude of approximately 1000 feet with the object flashing bright before becoming a steady glow.",
+    "sighted object": "yellow-white point of light",
+    "location": "Fairborn, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "C.D. Civilian ground-radar operator",
+    "contains photographs": false
 }

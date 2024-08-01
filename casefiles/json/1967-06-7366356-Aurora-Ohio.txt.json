@@ -1,15 +1,9 @@
 {
-    "main event": "A person reported seeing an unidentified object in the sky near Aurora, Ohio on June 26, 1967.",
-    "interesting points": [
-        "The object was observed for about 2 minutes.",
-        "The observation was a ground visual sighting.",
-        "The report states there was 'insufficient data for evaluation' and that the case would be re-evaluated.",
-        "The Air Force requested the witness to complete an additional UFO report form to assist in the evaluation.",
-        "The witness mentioned having more UFO report forms, suggesting additional sightings or cases."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "assumed unidentified object",
-    "location": "Aurora, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Aurora, Ohio on June 26, 1967.",
+    "interesting points": "The sighting was observed for approximately 2 minutes., Only one object was reported., The observation was classified as a ground visual., The conclusion from the report was that there was insufficient data for evaluation., A request for further information was sent to the observers to assist in reevaluation.",
+    "sighted object": "one unidentified flying object",
+    "location": "Aurora, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "information not sufficient for identification",
+    "contains photographs": false
 }

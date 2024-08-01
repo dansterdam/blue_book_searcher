@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Multiple witnesses at Chanute Air Force Base reported seeing a bright flash of greenish-white light in the sky on the night of July 2, 1960.",
-    "interesting points": [
-        "The flash of light was exceptionally bright, lighting up a large area of the sky.",
-        "The object was not visible, only the flash of light was observed.",
-        "The flash of light was seen at multiple times throughout the night, around 0230Z, 0400Z, and 0730Z.",
-        "The flash of light lasted approximately 2-3 seconds each time.",
-        "The sightings were reported by senior weather forecasters and other personnel at Chanute AFB, who were considered to be very reliable observers."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright flash of greenish-white light",
-    "location": "Chanute Air Force Base, Illinois",
-    "witnesses": "senior weather forecasters and other personnel at Chanute AFB",
-    "photographs": "none"
+    "main event": "A reported sighting of a white, dish-shaped object with a blue-green glow occurred overhead at Chanute Air Force Base on July 1, 1960.",
+    "interesting points": "The sighting lasted for 1-2 minutes and the object was visible for about 5 seconds,Two witnesses described it clearly,The object disappeared abruptly from sight,The description of the object was similar to that of a meteor,The observation was made during clear weather conditions.",
+    "sighted object": "white dish-shaped object with a blue-green glow",
+    "location": "Chanute AFB, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian, Age 35, Secretary to Base WX Officer. Reliability: Very good and a member of the 1953rd AACS.",
+    "contains photographs": false
 }

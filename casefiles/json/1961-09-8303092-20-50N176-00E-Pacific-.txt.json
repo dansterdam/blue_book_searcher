@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, white, hazy light object that was blue, modulated red, and flashed for 5-10 seconds at 10 degrees elevation was observed moving from horizon to horizon over the Pacific Ocean.",
-    "interesting points": [
-        "The object was observed by the pilot and navigator of a Pan Am aircraft.",
-        "The object changed from a hot blue color to a dull red color and appeared to explode at the end of the sighting.",
-        "The object was 4 times larger than the planet Venus at its brightest.",
-        "Several other aircraft in the area also reported observing the object.",
-        "The sighting lasted for 5-10 seconds."
-    ],
-    "result": "Possibly a balloon",
-    "sighted object": "Bright, white, hazy light object that was blue, modulated red, and flashed",
-    "location": "20 50N 176 00E (Pacific Ocean)",
-    "witnesses": "Pilot and navigator of a Pan Am aircraft",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A bright, white, hazy light object was observed flashing red and moving from horizon to horizon over the Pacific on September 15, 1961.",
+    "interesting points": "The object was observed for about 10 seconds at a 10-degree elevation., It flashed red lights and was described as bright and hazy., Initial conclusions suggest the object was possibly a balloon., The sighting was reported from a ground-visual observation., The object changed color from hot blue to dull red before appearing to explode.",
+    "sighted object": "a bright white hazy light with blue and red modulation",
+    "location": "Pacific Ocean, Pacific",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major Beed GHM, pilot",
+    "contains photographs": false
 }

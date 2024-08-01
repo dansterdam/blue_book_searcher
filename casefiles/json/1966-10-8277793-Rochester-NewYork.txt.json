@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian couple and their daughter observed a cigar-shaped, white object moving overhead in Rochester, New York on October 8, 1966.",
-    "interesting points": [
-        "The object appeared similar to a star but was larger and moved in a general curve across the sky.",
-        "The object was observed for about an hour, from around 8:40 PM to 9:45 PM.",
-        "The husband who reported the sighting was an engineer with Xerox and a former Air Force Reserve Captain.",
-        "The witnesses felt the object was moving at a speed and in a manner unusual for any known aircraft.",
-        "The Air Force concluded the object was likely the ECHO II satellite, which was visible in the area at the time."
-    ],
-    "result": "Satellite (ECHO II)",
-    "sighted object": "Cigar-shaped, white object",
-    "location": "Rochester, New York",
-    "witnesses": "Civilian couple and their daughter",
-    "photographs": "No"
+    "main event": "A couple observed a cigar-shaped white object moving in the sky over Rochester, New York, on October 4, 1966.",
+    "interesting points": "The sighting lasted for about 5 minutes., The object appeared to move from easterly to northerly directions., The object was visible to the naked eye and seemed larger than a star., The object's motion could have been mistaken for that of an aircraft., The object was later concluded to be the ECHO II satellite.",
+    "sighted object": "a bright white cigar-shaped object",
+    "location": "Rochester, New York, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a couple and their daughter; the husband was an engineer with Xerox and a former Air Force Reserve Captain",
+    "contains photographs": false
 }

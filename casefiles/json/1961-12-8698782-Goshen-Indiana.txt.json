@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, greenish-blue object was spotted descending into the horizon by the crew of American Airlines Flight #14 over Goshen, Indiana.",
-    "interesting points": [
-        "The object was very bright and had high reflectivity.",
-        "The object was descending through the horizon over the course of about 6 seconds.",
-        "The sighting was reported by the American Airlines flight crew, including the captain and first officer.",
-        "The weather conditions at the time were clear with 15-mile visibility.",
-        "The object was tracked on ground-based radar as it descended into the horizon."
-    ],
-    "result": "listed as a meteor",
-    "sighted object": "one round, greenish-blue object",
-    "location": "Goshen, Indiana",
-    "witnesses": "American Airlines Flight #14 crew",
-    "photographs": "none"
+    "main event": "An American Airlines flight crew observed a bright round object descending into the horizon over Goshen, Indiana.",
+    "interesting points": "The observation lasted for approximately 6 seconds., The object was described as greenish-blue with high reflectivity., The object had characteristics similar to a meteor., The sighting was documented under Project 10073., The observation was made at a position of 45 degrees above the horizon.",
+    "sighted object": "round greenish-blue object",
+    "location": "Goshen, Indiana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "American Airlines flight crew",
+    "contains photographs": false
 }

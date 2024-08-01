@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver, round object was observed by an aircraft on visual surveillance for about 1 minute near Mt. View, California on May 31, 1952.",
-    "interesting points": [
-        "The object was observed hovering for 1-2 minutes.",
-        "The object was observed from the ground as well as from the air, and an interception attempt was made.",
-        "The object appeared to be metallic and disk-shaped from the air.",
-        "No lights were observed on the object.",
-        "The sighting occurred on August 24, 1952 and was observed for 3 minutes."
-    ],
-    "result": "unknown",
-    "sighted object": "a silver, round object",
-    "location": "Mt. View, California",
-    "witnesses": "aircraft crew, ground observers",
-    "photographs": "no"
+    "main event": "A silvery, round object hovered near Mountain View, California, observed visually for about 1-2 minutes.",
+    "interesting points": "The sighting involved one unusual spherical-shaped object,The witness reported visual surveillance of the object from the ground and air,Aircraft were in the vicinity at the time of the sighting,The object appeared metallic and disk-shaped,No running lights were observed on the object.",
+    "sighted object": "one spherical silvery object",
+    "location": "Mountain View, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The object was observed from the ground and by aircraft.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white object the size of a grapefruit was spotted over Limon, Colorado on May 11, 1956.",
-    "interesting points": [
-        "The object first appeared in the west, then turned north and faded from sight.",
-        "The object made a sound similar to that of a truck.",
-        "The sighting lasted for 30 seconds.",
-        "The object was observed from the ground.",
-        "The report states there was insufficient data to evaluate the object, and it was classified as 'Unknown'."
-    ],
-    "result": "unknown",
-    "sighted object": "a round, white object the size of a grapefruit",
-    "location": "Limon, Colorado",
-    "witnesses": "civilians",
-    "photographs": "no"
+    "main event": "A civilian observed a round white object, the size of a grapefruit, that made a sound similar to a truck in Limon, Colorado on May 11, 1956.",
+    "interesting points": "The sighting lasted 30 seconds and the object changed course from west to east and then north before fading out., The object was confirmed to be an aircraft despite insufficient data for complete evaluation., The observation was made in poor visibility conditions with scattered clouds and wind., The object was described as having an oval shape., The report indicated the location was unrestricted except for darkness.",
+    "sighted object": "one round object, color white",
+    "location": "Limon, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilians",
+    "contains photographs": false
 }

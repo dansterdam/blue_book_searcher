@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO case file:
-
 {
-    "main event": "A civilian woman observed a bright, white, round light that appeared to project a spot on some hills before disappearing instantaneously behind the mountains.",
-    "interesting points": [
-        "The witness compared the light to a locomotive headlight and said it never appeared to be overhead.",
-        "Investigating officers concluded the light was likely a locomotive headlight on a railroad trestle in the area.",
-        "The witness said the light appeared to progress slowly along the top of the hills and mountain.",
-        "The sighting lasted for less than 5 minutes.",
-        "The weather conditions were clear with good visibility at the time of the sighting."
-    ],
-    "result": "Explained (Locomotive headlight)",
-    "sighted object": "a bright, white, round light",
-    "location": "Rock Tavern, New York",
-    "witnesses": "a civilian woman",
-    "photographs": "none"
+    "main event": "A civilian reported observing a bright white light in Rock Tavern, New York on 20 October 1966.",
+    "interesting points": "The observer compared the light to a locomotive headlight., The light disappeared instantaneously behind the mountains., The sighting lasted for less than 5 minutes., The observer watched the light progress slowly along the hills and mountain., The NY State police confirmed no rail traffic was present at the time in the vicinity.",
+    "sighted object": "a round, bright white light",
+    "location": "Rock Tavern, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted], a 28-year-old housewife",
+    "contains photographs": false
 }

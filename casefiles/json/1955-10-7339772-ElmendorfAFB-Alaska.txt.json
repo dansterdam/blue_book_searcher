@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military pilot spotted an unidentified flying object with an indefinite outline and an orange flame trailing behind it over Elmendorf AFB, Alaska on October 28, 1955.",
-    "interesting points": [
-        "The object had a dark color with an orange flame following it.",
-        "The object's tail was 7 times the length of the object at the beginning of the observation, but reduced to the same size as the object in 2 seconds.",
-        "The object did not make any sound.",
-        "The military pilot was familiar with the appearance of meteors but felt this object resembled an aircraft more than a meteor.",
-        "The 10th Air Division evaluation concluded the sighting was likely a meteor due to the short duration, color of the tail, inability to track the object on radar, and the sudden shortening of the tail."
-    ],
-    "result": "Probable Astronomical (Meteor)",
-    "sighted object": "An indefinite dark object with an orange flame trailing behind it",
-    "location": "Elmendorf AFB, Alaska",
-    "witnesses": "Military pilot",
-    "photographs": "No"
+    "main event": "A pilot observed a dark object with an orange flame following it for 5 seconds over Elmendorf AFB, Alaska on October 28, 1955.",
+    "interesting points": "The object had an indefinite outline and emitted no sound,The tail of the object was initially seven times the length of the object but reduced to the same size within 2 seconds,Visibility was clear with no clouds in the area during the sighting,The pilot concluded it resembled a meteor but noted it seemed close to his aircraft,There were no radar detections of the object despite the clear conditions.",
+    "sighted object": "a dark object with an orange flame",
+    "location": "Elmendorf AFB, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a military pilot",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A small reddish object was observed for several minutes drifting towards the Southwest in Syracuse, New York on May 14, 1955. The initial observation was at zenith, and the object was undulating before moving in a Southwest direction.",
-  "interesting points": [
-    "The object was initially observed at zenith, indicating it was at the highest point in the sky at the time of observation.",
-    "The description of the sighting, wind conditions, and known times for releasing weather balloons strongly suggests that the sighting was caused by a balloon.",
-    "The observation was made by a member of the Air Force Reserve who was also an amateur astronomer.",
-    "A KC-97 aircraft and five airmen were unable to see anything unusual during the sighting.",
-    "The report concluded that the sighting was probably caused by a balloon."
-  ],
-  "result": "Probably Balloon",
-  "sighted object": "small reddish object",
-  "location": "Syracuse, New York",
-  "witnesses": "Member of Air Force Reserve, five airmen",
-  "photographs": "No"
+    "main event": "One small reddish object was observed for several minutes drifting towards the Southwest, undulating and initially seen at zenith.",
+    "interesting points": "The sighting lasted for a few minutes,The witness is an amateur astronomer and a member of the Air Force Reserve,The object was moving southwest and undulating,It was suggested that the sighting was probably caused by a weather balloon,There were several airmen present at the time of the sighting who reported seeing nothing unusual.",
+    "sighted object": "one small reddish object",
+    "location": "Syracuse, New York, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "captain and five airmen",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, round light was observed flashing intermittently over trees near Canton, Ohio in July 1957.",
-    "interesting points": [
-        "The light appeared larger than a star and much brighter.",
-        "The observers felt the object or light was moving towards them, but it did not appear to change position appreciably.",
-        "The sighting lasted from 10:00 PM to 10:30 PM EST.",
-        "The weather conditions were clear with some haze, and visibility was good.",
-        "No photographs were taken of the sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright, round light",
-    "location": "Canton, Ohio",
-    "witnesses": "Mrs. and Miss, on vacation",
-    "photographs": "no"
+    "main event": "Observers reported seeing a very bright light over trees while parked on a back road near Canton, Ohio in July 1957.",
+    "interesting points": "The sighting occurred approximately 8 miles southwest of Canton,The light was described as round and larger than a star,The light flashed intermittently, Observers felt the object was moving towards them but it did not change position significantly, The sighting lasted for about 30 minutes from 10:00 P.M. to 10:30 P.M.",
+    "sighted object": "a very bright round light",
+    "location": "Canton, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two observers on vacation",
+    "contains photographs": false
 }

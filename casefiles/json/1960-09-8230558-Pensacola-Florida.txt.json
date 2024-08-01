@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, white, round object was observed over Pensacola, Florida on September 3, 1960.",
-    "interesting points": [
-        "The object was very bright, had high-speed maneuvering motion, and was observed for 3 minutes.",
-        "The duty officer at the weather observation section of the Naval Air Station Pensacola reported the sighting to air advisory control.",
-        "The object was described as cylindrical in shape, with red and blue flashing lights, and was observed at an altitude of approximately 10,000 feet.",
-        "The duty officer notified the commanding officer, air operations officer, and security officer of the observation.",
-        "The case was considered unidentified, but possible that the object was a weather balloon."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, white, round object",
-    "location": "Pensacola, Florida",
-    "witnesses": "duty officer at the weather observation section of the Naval Air Station Pensacola",
-    "photographs": "no"
+    "main event": "An unidentified flying object was reported over Pensacola, Florida on 3 September 1960, with a duration of observation lasting three minutes.",
+    "interesting points": "The object was described as a bright, white, round object exhibiting high-speed maneuvers., The sighting was made at 2300Z and lasted for approximately three minutes., The object was reported to be at a very high altitude and moving quickly., The case is considered unidentified, with a possibility that it could have been a weather balloon., A military duty officer also observed a cylindrical object with red and blue lights moving rapidly on 7 September 1960.",
+    "sighted object": "bright, white, round object",
+    "location": "Pensacola, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Duty officer, Weather Observation Section, NAS Pensacola",
+    "contains photographs": false
 }

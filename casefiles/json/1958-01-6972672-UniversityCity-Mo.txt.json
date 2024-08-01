@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright blue-white ball of light as big as a wire was observed falling straight down.",
-    "interesting points": [
-        "The object was observed by someone on the ground.",
-        "The object fell straight down with no sound or trail.",
-        "The sighting occurred on January 9, 1958 at 10:16 PM.",
-        "The weather conditions were overcast with fair visibility.",
-        "The report concludes that the object was likely a balloon or missile."
-    ],
-    "result": "Likely a balloon or missile",
+    "main event": "A bright blue-white ball of light was observed falling straight down.",
+    "interesting points": "The sighting occurred on January 9, 1958, at 2216 hours., The object was described as being as big as a wire., The observation lasted for a brief period of time with no sound or trail from the object., The weather was overcast with fair visibility during the sighting., Conclusions suggested that the object could have been a balloon or possibly a missile.",
     "sighted object": "a bright blue-white ball of light",
-    "location": "University City, Missouri",
-    "witnesses": "1 ground witness",
-    "photographs": "no"
+    "location": "University City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness provided details about the object's size and motion.",
+    "contains photographs": false
 }

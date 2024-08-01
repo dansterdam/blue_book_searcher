@@ -1,15 +1,9 @@
 {
-    "main event": "A young witness reported seeing a large, very bright object in the sky over Richfield, Idaho on July 3, 1960.",
-    "interesting points": [
-        "The witness waited almost a year before reporting the sighting, and was the only one among the reported group of people watching the object who reported it.",
-        "The object was described as large and very bright.",
-        "The witnesses were likely watching the planet Venus during its last minutes prior to setting.",
-        "The sighting lasted for about 15 minutes.",
-        "The form instructs the observer to provide a detailed description of the event and any additional information or sketches they believe are important."
-    ],
-    "result": "unexplained",
+    "main event": "A young witness reported seeing a large, bright object in the sky in Richfield, Idaho on July 3, 1960.",
+    "interesting points": "The sighting was reported almost a year after it occurred,The witness was the only one in a group who reported the sighting,The object was described as being very bright at the time, The witness believed the object was Venus shortly before it set, The observation lasted for about 15 minutes.",
     "sighted object": "one large, bright object",
-    "location": "Richfield, Idaho",
-    "witnesses": "a young witness",
-    "photographs": "yes, the report indicates photographs were taken"
+    "location": "Richfield, Idaho, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "young witness",
+    "contains photographs": false
 }

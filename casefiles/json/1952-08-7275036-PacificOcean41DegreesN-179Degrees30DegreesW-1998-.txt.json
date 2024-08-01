@@ -1,15 +1,9 @@
 {
-    "main event": "A B-36 plane took aerial photographs of the Pacific Ocean on August 7, 1952, at 41 degrees North latitude and 179 degrees 30 minutes West longitude.",
-    "interesting points": [
-        "The report mentions two photographs were taken during this event.",
-        "There is no clear or distinguishable object or structure in the aerial photograph of the Pacific Ocean.",
-        "The second photo shows grainy, black-and-white images with small dark spots or objects visible against a mostly white background.",
-        "The coordinates of the sighting indicate a remote location in the Pacific Ocean.",
-        "The report does not provide details about the nature of the small dark spots or objects captured in the second photograph."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified objects in the sky",
-    "location": "Pacific Ocean, 41°05'N-179°30'W",
-    "witnesses": "B-36 plane crew",
-    "photographs": "no, the report does not include identifiable photographs"
+    "main event": "An aerial photograph taken by a B-36 plane over the Pacific Ocean on August 7, 1952.",
+    "interesting points": "The photograph captures a vast expanse of water with some clouds visible., The image shows no clear or distinguishable object or structure., A grainy black-and-white photograph contains a few small dark spots against a mostly white background., Coordinates indicate the sighting occurred at 41°05'N latitude and 179°30'W longitude., The report is dated in 1998, referencing the events of 1952.",
+    "sighted object": "grainy black-and-white image with dark spots",
+    "location": "Pacific Ocean, 41°05'N, 179°30'W",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses mentioned.",
+    "contains photographs": true
 }

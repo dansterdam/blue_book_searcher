@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report document, here is the summary in the requested JSON format:
-
 {
-    "main event": "A civilian observed a bright object moving from north to south over Dayton, Ohio on May 23, 1965.",
-    "interesting points": [
-        "The object was larger in appearance than a typical satellite.",
-        "It moved at a tremendous speed.",
-        "The object was estimated to be at a similar elevation as a satellite.",
-        "The sighting lasted for 5-10 minutes.",
-        "No photographs were taken of the object."
-    ],
-    "result": "identified as a balloon",
-    "sighted object": "a bright, fast-moving object",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "Multiple sightings of unidentified objects that were later evaluated as satellites occurred in Dayton, Ohio throughout May 1965.",
+    "interesting points": "Witnesses described an object as a white, brighter than stars, moving rapidly in a straight line,The object changed course from South to East,Appeared to be a starlight or bright metal color,One witness noted that the object vanished by stopping and fading away,Several observers reported their experiences during different encounters over the month.",
+    "sighted object": "unidentified aerial phenomena resembling satellites, including Echo I and Echo II",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "civilian observers, including a biology and physics teacher",
+    "contains photographs": false
 }

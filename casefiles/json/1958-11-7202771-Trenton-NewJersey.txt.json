@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted by an observer over Trenton, New Jersey on November 7, 1955 from 2130-2155Z.",
-    "interesting points": [
-        "The object was sighted to the right of the moon, moving from the north at a slow, steady pace.",
-        "The sighting was reported by a McGuire AFB officer, Lt. C.F. Demos.",
-        "Another document describes the sighted object as having a general circular shape, being the size of 0.065 inches, white in color, with no discernible features or details, no trail or exhaust, and no sound.",
-        "The object's flight path was described as irregular and disturbing slightly, ranging from the northeast to the east.",
-        "The observer was located 1/2 mile from the Trenton Battle Monument in a northerly direction and was described as quite sincere, having studied astronomy and being certain it was not an aircraft or meteor."
-    ],
-    "result": "unknown",
-    "sighted object": "circular white object",
-    "location": "Trenton, New Jersey",
-    "witnesses": "civilian observer, McGuire AFB officer",
-    "photographs": "none"
+    "main event": "Multiple unidentified flying object sightings were reported in Trenton, New Jersey, during the years 1955 and 1958, involving radar blips and visual observations.",
+    "interesting points": "The radar observation from 1958 indicated a blip moving across the screen,The reports classified the sightings as unidentified due to insufficient data,One sighting was specifically noted to be moving near the Moon at a slow, steady pace in 1955,Descriptions of the objects included a general circular shape and a white color,The observers were identified as sincere individuals with an interest in astronomy.",
+    "sighted object": "Unidentified flying objects detected by radar and visually observed",
+    "location": "Trenton, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer familiar with astronomy.",
+    "contains photographs": false
 }

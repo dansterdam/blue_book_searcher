@@ -1,17 +1,9 @@
-Here is the JSON summary based on the case file text provided:
-
 {
-    "main event": "A civilian reported seeing a realistic, unidentified object in Liberty, Ohio in 1965.",
-    "interesting points": [
-        "The object was described as a circular, glowing light maneuvering at high speed in the sky.",
-        "Photographs were taken of the object, which showed oval-shaped markings or objects.",
-        "Investigators found the witnesses to be credible and the photographs appeared genuine, but could not determine the nature of the object.",
-        "An oval-shaped indentation was found in the ground near the sighting location, with the soil appearing disturbed.",
-        "Additional sightings of oval-shaped, silver-metallic objects were reported in the same area."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, glowing light; oval-shaped objects",
-    "location": "Liberty, Ohio",
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "On 8 February 1965, witnesses observed an unidentified flying object in Liberty, Ohio.",
+    "interesting points": "Two witnesses, a husband and wife, reported seeing a glowing, circular object moving at high speed,The object was estimated to be approximately 50 feet in diameter and was observed for about 30 seconds before disappearing,The husband took two photographs of the object during the sighting,Investigators found the witnesses credible and the photographs appeared to be genuine,The investigation concluded that the object was classified as UNIDENTIFIED.",
+    "sighted object": "glowing circular object",
+    "location": "Liberty, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "husband and wife driving in a vehicle",
+    "contains photographs": true
 }

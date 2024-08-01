@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian in Brooklyn, New York reported seeing an object resembling a meteor cross the sky in about 2-3 seconds on November 14, 1964 at 10:57 PM EST.",
-    "interesting points": [
-        "The object appeared to originate very close to the star Betelgeuse in the constellation of Orion.",
-        "The object was fairly bright, about 1st magnitude, and bluish-white in color.",
-        "The object was round and very small, about the size of a star.",
-        "The object moved very fast, reaching the horizon in 2-3 seconds.",
-        "The observer ruled out a meteor, balloon, and airplane as possible explanations for the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fast-moving, round, bluish-white object",
-    "location": "Brooklyn, New York",
-    "witnesses": "a civilian observer",
-    "photographs": "no"
+    "main event": "An observer in Brooklyn sighted a bright object resembling a star moving across the sky on November 14, 1964.",
+    "interesting points": "The object had speed and flight characteristics similar to a meteor,The sighting lasted only 2-3 seconds,The object appeared to originate near the star Betelgeuse in the constellation Orion,It was described as bluish white and of approximately 1st magnitude brightness,The observer eliminated several possibilities including balloon, airplane, and meteor.",
+    "sighted object": "a bright object resembling a star",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer has a good knowledge of astronomy.",
+    "contains photographs": false
 }

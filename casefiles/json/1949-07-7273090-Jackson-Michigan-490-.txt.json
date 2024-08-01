@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO photograph was taken in Jackson, Michigan on July 27, 1949.",
-  "interesting points": [
-    "The black and white grainy image shows a prominent black spot in the center with a scattered speckled pattern around it.",
-    "The photograph seems to depict a columnar shape to the right of the center, which could be an artifact, an object, or an irregularity.",
-    "The image quality makes it difficult to determine specific features or context.",
-    "The document is from Project Blue Book, indicating a potential UFO sighting.",
-    "No visible text is present in the image, making it challenging to analyze further details."
-  ],
-  "result": "unexplained",
-  "sighted object": "unknown object in the photograph",
-  "location": "Jackson, Michigan",
-  "witnesses": "unknown",
-  "photographs": "yes, the report includes a photograph"
+    "main event": "A photograph from a UFO report shows a black and white grainy image with a prominent black spot in the center.",
+    "interesting points": "The photograph has a speckled pattern that could be noise or artifacts., There is a columnar shape that might be an artifact or object., The quality of the photograph makes it hard to determine specific features., The sighting is associated with Project Blue Book., No visible text was present in the image.",
+    "sighted object": "black spot in the center of a grainy photograph",
+    "location": "Jackson, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": true
 }

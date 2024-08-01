@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A woman named Mrs. Dewey spotted a drifting, unidentified flying object over Wichita, Kansas on February 3, 1954.",
-    "interesting points": [
-        "The object was round, estimated to be at 10,000 feet altitude, drifting slowly with no trail or noise.",
-        "Mrs. Dewey observed the object for over 4 minutes, from a 15 degree elevation angle until it disappeared beyond a garage at 20 degrees.",
-        "Mrs. Dewey used 7x50 Japanese binoculars to observe the object, which took up two-thirds of the binocular's field of view, indicating it was very large.",
-        "The object was described as having a very high and narrow shape, with a dark color and slightly curved edges.",
-        "The weather report indicated winds, temperatures, and visibility conditions at the time of the sighting."
-    ],
-    "result": "Was Balloon",
+    "main event": "A witness observed a round drifting object in the sky for over 4 minutes in Wichita, Kansas.",
+    "interesting points": "The object was estimated to be at 10,000 feet and moved at a low speed without making any noise or leaving a trail,The sighting began at a 15-degree elevation and disappeared from view at a 20-degree elevation beyond a garage roof,The object appeared very large when viewed through a seven times binoculars,The witness was Mrs. Dewey who reported the object drifting slowly in a south east direction,The conclusion of the report suggests that the object was likely a balloon.",
     "sighted object": "round drifting object",
-    "location": "Wichita, Kansas",
-    "witnesses": "Mrs. Dewey",
-    "photographs": "no"
+    "location": "Wichita, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. Dewey, who observed the object using binoculars",
+    "contains photographs": false
 }

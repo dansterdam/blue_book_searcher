@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object was observed in Bitburg, Germany by a pilot of the 22nd Fighter Day Squadron on January 30, 1958 at 0627Z. The object had an irregular flight path and was described as the size of a dime with red, greenish yellow, and slightly blue coloration.",
-  "interesting points": [
-    "The observed object had an irregular flight path and darted from side to side before moving to an overhead position.",
-    "The sighting lasted approximately three minutes and was made by a pilot with the 22nd Fighter Day Squadron.",
-    "The observer reported clear weather and two miles of visibility at the time of the sighting.",
-    "The observer speculated that the object could possibly be a balloon or helicopter.",
-    "The report was approved by 1/Lt James E. Briggs, Intelligence Officer, USAF."
-  ],
-  "result": "probable mundane explanation as it could be a balloon or helicopter",
-  "sighted object": "an unidentified flying object with irregular flight path and dime-sized appearance",
-  "location": "Bitburg, Germany",
-  "witnesses": "Pilot, 22nd Fighter Day Squadron",
-  "photographs": "no the report does not include photographs"
+    "main event": "A pilot observed an unidentified flying object with an irregular flight path over Bitburg, Germany on January 30, 1958.",
+    "interesting points": "The object had a size comparable to a dime at arm's length., The colors of the object were red, greenish yellow, and slightly blue., The sighting lasted for approximately three minutes., The object's flight path was jagged and included side-to-side motion., There is a possibility that the object could be a balloon or helicopter.",
+    "sighted object": "unidentified flying object",
+    "location": "Bitburg, N/A, Germany",
+    "number of confirmed witnesses": 1,
+    "witness description": "1st Lt James E. Briggs, Pilot, 22nd Fighter Day Squadron",
+    "contains photographs": false
 }

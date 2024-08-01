@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "An unidentified object was detected on radar near Kunia, Hawaii on February 22, 1950.",
-    "interesting points": [
-        "The object appeared to be angular in shape and the size of a 2,000-watt lamp.",
-        "The object hovered, then moved to the north, then maneuvered and disappeared.",
-        "The sighting lasted for 20 minutes.",
-        "The report lists the sighting as 'doubtful', possibly a balloon.",
-        "The report includes details about the radar return, including the coordinates, altitude, and speed of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified angular object the size of a 2,000-watt lamp",
-    "location": "Kunia, Hawaii",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "main event": "An object was observed in Kunia, Hawaii, on February 22, 1950, which appeared to be angular and the size of 2,000 watt lamps, hovered, moved to the north, maneuvered, and then disappeared.",
+    "interesting points": "The observation lasted for 20 minutes,The sighting was classified as ground-visual and involved one object,The object was not viewed visually but was described based on its characteristics,It was suggested that the object could possibly be a balloon,The type of sighting was deemed doubtful.",
+    "sighted object": "an angular object, size of 2,000 watt lamps",
+    "location": "Kunia, Hawaii, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No visual sighting by witnesses.",
+    "contains photographs": false
 }

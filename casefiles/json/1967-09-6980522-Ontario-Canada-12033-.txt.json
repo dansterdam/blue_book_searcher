@@ -1,15 +1,9 @@
 {
-    "main event": "The report contains multiple photographs of unidentified flying objects (UFOs) over residential areas and rural locations in Ontario, Canada on September 20, 1967.",
-    "interesting points": [
-        "The UFOs appear to be dark, disc-shaped objects or blurry silhouettes of aerial vehicles.",
-        "The photographs were part of a Project Blue Book document from the Foreign Technology Division of the AFSC (Air Force Systems Command).",
-        "The UFOs are depicted hovering over neighborhoods, fields, and forests in the images.",
-        "The photographs vary in quality, with some being blurry or indistinct.",
-        "No human figures are visible in the photographs, suggesting the UFOs were photographed without witnesses present."
-    ],
-    "result": "unexplained",
-    "sighted object": "dark, disc-shaped objects or blurry silhouettes of aerial vehicles",
+    "main event": "Multiple photographs of an unidentified flying object (UFO) captured in the sky above various locations in Ontario, Canada in 1967.",
+    "interesting points": "The UFOs observed were consistently described as dark and disc-shaped,Several photographs depict the UFOs over residential neighborhoods,The reports appear to come from the Foreign Technology Division, indicating a government interest in the phenomena,The photographs vary in clarity, suggesting the objects may have been moving quickly,The sightings were part of documentation likely related to Project Blue Book.",
+    "sighted object": "dark, disc-shaped UFO",
     "location": "Ontario, Canada",
-    "witnesses": "unknown",
-    "photographs": "yes, the report contains 10 photographs of UFOs"
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified, photographs only",
+    "contains photographs": true
 }

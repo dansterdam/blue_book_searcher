@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A UFO was observed in Dunbar, West Virginia on March 12, 1967.",
-    "interesting points": [
-        "The observation was made by a civilian witness.",
-        "The observation was a ground visual type.",
-        "The Air Force requested additional information to evaluate the report, indicating there was insufficient data initially.",
-        "The report was logged as part of Project Blue Book, the U.S. Air Force's official program for investigating UFO sightings.",
-        "The observation was assigned a case number of 1967-01-8540173."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "unspecified UFO",
-    "location": "Dunbar, West Virginia",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A record of a UFO observation submitted to Project Blue Book on March 12, 1967.",
+    "interesting points": "The report was initiated by a civilian source., The observation type was classified as ground visual., The report includes a request for more information to be submitted using a specific form., The conclusion of the report indicated insufficient data for evaluation., The report did not contain any photographs or physical evidence.",
+    "sighted object": "unidentified flying object",
+    "location": "Dunbar, West Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian source of the report",
+    "contains photographs": false
 }

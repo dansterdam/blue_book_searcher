@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A reddish-orange round object was observed over Barberton, Ohio, for approximately 30 to 45 minutes. The object appeared to be circling and descending a bit.",
-    "interesting points": [
-        "The object was estimated to be at an altitude of 30,000-40,000 feet.",
-        "The object was reported to be in conflict, meaning it was exhibiting unusual or concerning behavior.",
-        "The sighting was reported to the next echelon, indicating it was escalated within the military/government channels.",
-        "The report requested additional details and information from the observer to aid in the evaluation.",
-        "The report was handled by multiple Air Force offices, including the Foreign Technology Division and the Office of Special Investigations."
-    ],
-    "result": "unexplained",
-    "sighted object": "reddish-orange round object",
-    "location": "Barberton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Unidentified flying object reported near Barberton, Ohio on 30 March 1965.",
+    "interesting points": "The object was estimated to be at an altitude of 30,000-40,000 feet.,The observation was made for approximately 1.5 seconds.,The report was forwarded for additional analysis and required further information.,A letter from 20 March 1965 mentions a reddish-orange round object observed for about 30 to 45 minutes.,The investigation is part of the Project Blue Book documentation.",
+    "sighted object": "unidentified flying object",
+    "location": "Barberton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

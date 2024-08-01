@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white object was observed in the sky over Karthus, Pennsylvania on June 16, 1967.",
-    "interesting points": [
-        "The object was described as being 3 times brighter than the brightest satellite, and exhibited a rapid right-angle turn in its path.",
-        "The observer stated the object appeared to be a man-made satellite, and that he had seen similar objects a couple years prior, though not as bright.",
-        "The observer was a pilot during WWII and had taken courses in college astronomy.",
-        "The object was observed for approximately 5 minutes before fading out of sight.",
-        "The observer immediately reported the sighting to the Air Force on June 7, 1967."
-    ],
-    "result": "possible (ping-pong)",
-    "sighted object": "a bright white object",
-    "location": "Karthus, PA",
-    "witnesses": "Dr. Boris",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in the sky over Karthus, Pennsylvania, on June 1, 1967, believed to be a man-made satellite.",
+    "interesting points": "The object was described as batch white and three times brighter than the brightest satellite observed,The sighting lasted for approximately 5 minutes,The observer was Dr. Boris, a WWII pilot with astronomy training,The object exhibited rapid movement before fading out of sight,Previous sightings of similar objects occurred but were not as bright.",
+    "sighted object": "unidentified object (possibly a satellite)",
+    "location": "Karthus, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Dr. Boris, a male pilot with a background in astronomy",
+    "contains photographs": false
 }

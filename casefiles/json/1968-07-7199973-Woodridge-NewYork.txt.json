@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright star-like object was sighted in the sky over Woodridge, New York in July 1962.",
-    "interesting points": [
-        "The object was first observed in the east and hovered before disappearing at about 75 degrees elevation in the northeast.",
-        "The object appeared brighter than the stars and was the only visible object in that part of the sky.",
-        "The object was described as steady, without any blinking or flashing.",
-        "No sound was reported coming from the object.",
-        "The object appeared larger in size compared to other stars in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright star-like object",
-    "location": "Woodridge, New York",
-    "witnesses": "a witness who reported the sighting",
-    "photographs": "no photographs present"
+    "main event": "A bright star-like object was sighted hovering and then disappearing in Woodridge, New York in July 1962.",
+    "interesting points": "The object was observed for about 10 minutes,The object was first seen in the east and hovered at about a 75-degree elevation in the northeast,The light was described as brighter than the stars and was the only object visible in that part of the sky,The observer noted that there was no sound associated with the object,The sighting was reported by a school teacher who expressed a keen interest in unidentified phenomena.",
+    "sighted object": "bright star-like object",
+    "location": "Woodridge, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A school teacher with an interest in scientific phenomena",
+    "contains photographs": false
 }

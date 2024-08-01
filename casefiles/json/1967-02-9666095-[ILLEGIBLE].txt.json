@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the text:
-
 {
-    "main event": "A bright light was observed moving across the sky in Greenville, SC on January 31, 1967. The object was visible for 1 hour and 30 minutes.",
-    "interesting points": [
-        "The object appeared solid and was brighter than the brightest star.",
-        "The object changed color, going from green to orange to white.",
-        "The object was estimated to be about 1,000 feet in elevation and moved in a straight, unvarying path.",
-        "The object disappeared instantaneously after being observed for about 30 minutes.",
-        "There were other military personnel who also observed the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, solid object that changed color from green to orange to white",
-    "location": "Greenville, SC",
-    "witnesses": "civilian observer, military personnel",
-    "photographs": "no"
+    "main event": "Observers in Augusta, Georgia reported seeing a bright light moving from west to east on June 30, 1967.",
+    "interesting points": "The object seemed to get larger and brighter as it moved,It then appeared to decrease in size and headed southwest until disappearing,Observers reported that the object traveled in a straight line and did not resemble any aircraft they were familiar with,No sound was reported during the sighting,The report concluded that the object might have been a satellite or a meteor.",
+    "sighted object": "a bright light in the sky",
+    "location": "Augusta, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a person watching the sky",
+    "contains photographs": false
 }

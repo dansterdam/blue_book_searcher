@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object the size of a basketball, changing in color from red to green to amber, was observed flying south-southeast and moving up and down over Graham, North Carolina.",
-    "interesting points": [
-        "The object was observed on multiple nights (March 4, 5, and 8) at around the same time, with the same characteristics.",
-        "The object appeared to stand still at times and speed up at other times, but did not break up, give off smoke, or change shape.",
-        "The object was described as brighter than an automobile headlight over a mile away and varied in color from red to green to amber.",
-        "Multiple witnesses observed the object, including a missile design engineer, a missile draftsman, and law enforcement officers.",
-        "Investigators were unable to determine the object was an aircraft, balloon, astronomical body, or other known phenomenon."
-    ],
-    "result": "unknown",
-    "sighted object": "a round object the size of a basketball, changing in color from red to green to amber",
-    "location": "Graham, North Carolina",
-    "witnesses": "multiple civilian and law enforcement observers",
-    "photographs": "no"
+    "main event": "A round object, the size of a basketball and varying in color from red to green to amber, was observed flying south-southeast (SSE) for approximately 40 minutes on multiple occasions in March 1956.",
+    "interesting points": "The object was observed on the nights of March 4, 5, and 8, 1956, in the same position and with similar characteristics., At least four sources reported the sighting, all describing similar features of the object., Witness descriptions included the object changing brightness and flickering colors., The sighting led to numerous theories and investigations, with some believing it was a man-made satellite or the star Sirius., The object was reported to be solid, and several witnesses confirmed its colors shifted at regular intervals.",
+    "sighted object": "one round object changing colors",
+    "location": "Graham, North Carolina, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "The witnesses were varied, including civilians, a housewife, a patrolman, and an engineer, most of whom had a high school diploma or higher, with some having technical backgrounds.",
+    "contains photographs": false
 }

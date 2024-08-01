@@ -1,15 +1,9 @@
 {
-  "main event": "On August 4, 1958, a civilian in Port Lavaca, Texas, reported a UFO sighting of an object shaped like a cone, made of steel, and moving westward for a duration of 2 minutes.",
-  "interesting points": [
-    "The sighting was of a single object that seemed to be made of steel and moved in a westward direction for 2 minutes.",
-    "The report indicates the possibility of the object being a balloon, but concludes that there is insufficient data for evaluation.",
-    "The document includes radar data, with the comment 'Unusual sighting picked up on radar.'",
-    "The report mentions blinking lights and occasional variation in brightness of the object.",
-    "The witness, a civilian, reported the sighting without providing further details on the object's behavior."
-  ],
-  "result": "Unknown",
-  "sighted object": "Cone-shaped steel object",
-  "location": "Port Lavaca, Texas",
-  "witnesses": "Civilian",
-  "photographs": "no"
+    "main event": "A civilian observed a cone-shaped object moving westward over Port Lavaca, Texas on August 4, 1958.",
+    "interesting points": "The object appeared to be made of steel,The sighting lasted for approximately 2 minutes,The report suggests the possibility of it being a remote-controlled sighting,Conclusions from the investigation indicated it could have been a balloon,The observation was noted as insufficient for definitive evaluation.",
+    "sighted object": "one cone-shaped object",
+    "location": "Port Lavaca, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

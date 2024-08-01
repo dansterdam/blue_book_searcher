@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A visual sighting of an object larger than 40 times the apparent size of the moon that disappeared below the horizon in Boulder, Colorado.",
-    "interesting points": [
-        "The object appeared stationary at first, then moved to the west in approximately 2-3 minutes.",
-        "The sighting lasted for 1-2 minutes.",
-        "The weather conditions were scattered stratus clouds at 6,000 feet, with unlimited visibility and distant lightning in the northeast.",
-        "The observer was an associate with the Boulder public schools who seemed reliable.",
-        "The University of Colorado observatory also sighted the object but did not know what it was."
-    ],
-    "result": "unexplained",
-    "sighted object": "An object larger than 40 times the apparent size of the moon",
-    "location": "Boulder, Colorado",
-    "witnesses": "An associate with the Boulder public schools",
-    "photographs": "No photographs were included in the report."
+    "main event": "A visual sighting of a large object more than 40 times the moon's apparent diameter, which appeared stationary before disappearing below the horizon.",
+    "interesting points": "The sighting occurred in Boulder, Colorado, on a rainy and overcast day.,The object was observed for approximately 40 minutes.,It was reported to be brighter than any stars.,Witnesses indicated that the object moved to the west after being stationary., The sighting was associated with ground visual observations and noted to correspond with the direction provided by the witnesses.",
+    "sighted object": "large object in the sky",
+    "location": "Boulder, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Associate with Boulder Public Schools, seems reliable.",
+    "contains photographs": false
 }

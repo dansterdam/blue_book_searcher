@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object was observed on radar at a distance of approximately 35 miles near Danbury, Connecticut on August 11, 1960.",
-    "interesting points": [
-        "The object was round, pinkish-orange in color, glowing, and traveling at a high rate of speed.",
-        "The sighting was confirmed by both radar and visual observation at nearby Mt. Catrigali.",
-        "The object was described as a round shape with a reddish-orange glow, quite brilliant, and moving rapidly at an altitude of around 35,000 feet.",
-        "The disappearance of the object was suggested to be due to a change in temperature causing a color change and an explosion causing it to disappear.",
-        "The case was considered a 'doubtful' case regarding the nature of the observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, pinkish-orange glowing object",
-    "location": "Danbury, Connecticut",
-    "witnesses": "radar operators, visual observers",
-    "photographs": "none"
+    "main event": "An unidentified circular object was observed flying in Danbury, Connecticut on August 11, 1960.",
+    "interesting points": "The object was detected by radar traveling at high speed and was confirmed by visual observation from a nearby location,It was described as round and glowing, with a pinkish-orange color,The object reached an altitude of approximately 35,000 feet,There was a suggestion that the observation could be attributed to ball lightning, but doubts remain concerning the nature of the observation,The witness reported that the object disappeared suddenly after fading from view.",
+    "sighted object": "one round, pinkish-orange glowing object",
+    "location": "Danbury, Connecticut, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "The witness was with their son when they observed the object moving across the sky.",
+    "contains photographs": false
 }

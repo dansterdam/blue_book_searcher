@@ -1,15 +1,9 @@
 {
-  "main event": "The report details a UFO sighting on 29th July 1955 in Pleasant View, Washington, involving two large, silver objects that faded out of sight after about 15 minutes. The conclusion suggests that the objects were likely balloons, although the evidence does not strongly support this theory.",
-  "interesting points": [
-    "The UFO sighting lasted for 15 minutes, providing a substantial duration for observation.",
-    "The report indicates that the two objects were part of 'Moby Dick,' implying that they may have been part of a larger military operation or exercise.",
-    "The objects were spotted by multiple observers, including MRS GRACE REECE and 5 other persons at the GOC post.",
-    "Radar stations were contacted, but no radar pick-up of the objects was reported, adding to the mystery of the sighting.",
-    "The winds reported by the weather section indicated that the objects could not have been balloons, casting doubt on the conclusion."
-  ],
-  "result": "unexplained",
-  "sighted object": "two large, silver objects",
-  "location": "Pleasant View, Washington",
-  "witnesses": "MRS GRACE REECE and 5 other persons at the GOC post, along with radar station personnel",
-  "photographs": "no"
+    "main event": "Two large silver objects were observed in the sky for approximately 15 minutes before fading out of sight.",
+    "interesting points": "The sighting lasted for 15 minutes and took place at 0310Z on July 29, 1955., Observers reported that the objects appeared to be moving southwest., The observers included MRS GRACE REECE and five other persons in the area., The report suggests that the objects were considered not to be balloons despite initial theories., The sighting does not have supporting photographic evidence.",
+    "sighted object": "two large silver objects",
+    "location": "Pleasant View, Washington, USA",
+    "number of confirmed witnesses": 6,
+    "witnesses": "MRS GRACE REECE and five other persons",
+    "photographs": false
 }

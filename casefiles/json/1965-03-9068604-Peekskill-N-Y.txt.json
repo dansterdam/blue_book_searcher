@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A large red-orange object or ball of light was observed hovering in the sky over Peekskill, New York for approximately 15 minutes.",
-    "interesting points": [
-        "The object appeared to be in motion but remained in one general area for the duration of the observation.",
-        "The object was reported to emit sparks or flashes of light at times.",
-        "The sighting took place in Peekskill, New York.",
-        "The object was described as a large, hovering red-orange object or ball of light.",
-        "The observation lasted for around 15 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "large red-orange object or ball of light",
-    "location": "Peekskill, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A large red-orange object was observed hovering in the sky over Peekskill, New York, emitting sparks and flashes of light.",
+    "interesting points": "The object appeared to be about the size of the full moon and was a bright white color., It moved slowly across the sky for about 15 minutes before moving out of sight to the south., The object was observed while watching television and appeared to be rotating or tumbling., One or more persons in a nearby car also observed the object., The object made no sound that could be heard from the ground.",
+    "sighted object": "large red-orange ball of light",
+    "location": "Peekskill, N.Y., USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "one individual and one or more persons in a car",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A military aircraft sighted an unidentified flying object on December 21, 1959 at coordinates 66-37N 171-25E.",
-    "interesting points": [
-        "The object was in the shape of a fireball and appeared to be a flame with a short tail.",
-        "The object was initially the size of a pea and appeared to be disintegrating when observed.",
-        "The object was first observed descending, then leveled off and closed in on the aircraft, before continuing its descent and disintegrating as it entered the clouds.",
-        "The object was observed by three officers and two enlisted personnel for 5-6 seconds.",
-        "The aircraft was flying at an altitude of 15,333 feet with a speed of 253 knots at the time of the sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "fireball-shaped object with a short tail",
-    "location": "66-37N 171-25E",
-    "witnesses": "3 officers and 2 enlisted personnel",
-    "photographs": "unknown"
+    "main event": "A military aircraft sighted an unidentified object resembling a fireball that appeared to be disintegrating during its descent.",
+    "interesting points": "The sighting lasted 5-6 seconds., The object was first observed at an altitude of 15,333 feet., It appeared to have a flame with a short tail and was the size of a pea when spotted., The sighting was reported by three officers and two enlisted personnel., The object's course was descending southeast before it began to disintegrate.",
+    "sighted object": "an unidentified flying object shaped like a fireball",
+    "location": "66-37N, 171-25E",
+    "number of confirmed witnesses": 5,
+    "witness description": "three officers and two enlisted personnel",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted near the Osan Air Base in Korea on November 14, 1957.",
-    "interesting points": [
-        "The object was described as having a reddish-yellow to whitish-yellow color, oval shape, and disc-like appearance that would disappear and reappear in the clouds.",
-        "The object moved erratically and quickly, with observers estimating its speed at 500-600 knots (roughly 575-690 mph) at an altitude of 25,000 feet.",
-        "The object was observed for 15-30 seconds by two different observers, a GCA operator and another man, before disappearing into the clouds.",
-        "The weather conditions at the time included low clouds, high winds at altitude, and clear visibility of 7 miles.",
-        "The observers were certain the object was not a conventional aircraft and were shaken by the experience, with the report author inclined to take their account at face value."
-    ],
-    "result": "unexplained",
-    "sighted object": "oval-shaped, disc-like object that changed color from reddish-yellow to whitish-yellow",
-    "location": "Osan Air Base, Korea",
-    "witnesses": "GCA operator and another man",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Unidentified flying object sighted near Osan Air Base in Korea on November 14, 1957.",
+    "interesting points": "The object was described as having colors varying from reddish-yellow to whitish-yellow., The sighting lasted between 15 to 30 seconds., Two different observers noted the object moving in straight and level flight at approximately 500-600 knots altitude., The object disappeared into clouds, which limited further observation., One observer had prior experience as a GCA operator, contributing to their estimation of the object's speed and altitude.",
+    "sighted object": "unidentified flying object with oval and disc-like appearance",
+    "location": "Osan, Korea",
+    "number of confirmed witnesses": 2,
+    "witness description": "One observer was a GCA operator with fair knowledge of aircraft.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian in Boise, Idaho, observed a stationary bright and silvery halo circle object clinging to a cloud for a few minutes in 1947.",
-  "interesting points": [
-    "The object was observed to be 10 miles away from the observer at an altitude of 3,000 feet.",
-    "It was described as a round disc with a black and silver color, resembling a dinner saucer.",
-    "Local weather reports indicated a clear sky, contradicting the observation that the object seemed to be clinging to a high cloud.",
-    "The investigator suggested that the observed object was a sunlit lenticularis cloud effect, based on the position of the sun and his own observations of similar effects.",
-    "The document discusses evaluations by Dr. Hynek based on probabilities and explanations, categorizing incidents into astronomical and non-astronomical events with varying levels of evidence and explanations."
-  ],
-  "result": "ASTRO (SUN DOG)",
-  "sighted object": "stationary bright and silvery halo circle object",
-  "location": "Boise, Idaho",
-  "witnesses": "Civilian",
-  "photographs": "yes the report includes photographs"
+    "main event": "A civilian observer sighted a bright, silvery, halo circle object clinging to a cloud in Boise, Idaho.",
+    "interesting points": "The object was observed for a few minutes,The object was stationary at an altitude of about 3,000 feet,The object was described as a round disc and was black and silver in color,It seemed to be clinging to a large cloud which contributed to its visibility,Local weather reports indicated clear skies at the time of the observation.",
+    "sighted object": "a bright, silvery, halo circle object",
+    "location": "Boise, Idaho, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer, details of occupation not stated",
+    "contains photographs": false
 }

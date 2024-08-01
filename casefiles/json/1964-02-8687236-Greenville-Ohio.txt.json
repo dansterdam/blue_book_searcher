@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two lights were observed in the sky above Greenville, Ohio for 30 minutes on March 25, 1964.",
-    "interesting points": [
-        "The lights were about 3 fingers above the western horizon and the size of dimes.",
-        "The lights were blinking slowly.",
-        "The lights were initially assumed to be Venus and Jupiter, but continued to be observed.",
-        "The duty officer at Wright-Patterson Air Force Base received the report and contacted the officer in charge of the IDEW (Intelligence Division, Evaluation Weapons), who said the lights were 'curious and Julated'.",
-        "The duty officer could not determine what the lights were from the report."
-    ],
-    "result": "unexplained",
+    "main event": "Two lights were observed in the sky over Greenville, Ohio, on March 25, 1964.",
+    "interesting points": "The lights were seen about 3 fingers above the western horizon,They appeared to be the size of dimes and blinked slowly for a duration of 30 minutes,The sighting was reported by a civilian source,The witness had reported the lights at approximately 2355L,The investigation concluded that the lights were likely Venus and Jupiter.",
     "sighted object": "two blinking lights in the sky",
-    "location": "Greenville, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Greenville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who observed the lights",
+    "contains photographs": false
 }

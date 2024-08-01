@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains a briefing on the investigation of unidentified aerial phenomena and the future plans for the investigation.",
-  "interesting points": [
-    "The investigation considered the possibility of space travel from the planet Mars, using nuclear energy for power, estimated to require a four-stage rocket weighing at least fifteen thousand tons and reaching a velocity of roughly ninety thousand miles per hour.",
-    "Special methods were planned for radar-scope and direct photography with the Air Defense Command's assistance to capture unidentified objects.",
-    "There was a significant increase in sightings in the Southwest US, particularly with reports of 'green fireballs.' These phenomena were concentrated and remained unexplained despite a separate investigation by the AF Cambridge Research Laboratories.",
-    "The investigation covered 698 incidents, with 40% remaining unexplained, amounting to 272 sightings for which record exists but are unable to be explained.",
-    "Public interest continued, prompting the continuation of the investigation as a normal and routine part of the technical intelligence function."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified aerial phenomena",
-  "location": "United States",
-  "witnesses": "military and civilian observers",
-  "photographs": "radar-scope and direct photography planned"
+    "main event": "A briefing from the Air Technical Intelligence Center (ATIC) regarding unidentified aerial phenomena conducted on April 1, 1952.",
+    "interesting points": "The briefing discusses the historical context of unidentified aerial phenomena since 1947, including the role of the ATIC in investigating these sightings., It mentions the categorization of sightings, highlighting that a significant percentage remain unexplained., The document reflects on technological advancements in guided missiles and aircraft, providing insights into military developments of the time., Discussion includes considerations of interplanetary vehicles and other unconventional aircraft as possible explanations for sightings., There is emphasis on collaboration with civilian scientific institutions for the analysis of sightings.",
+    "sighted object": "unidentified aerial phenomena",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

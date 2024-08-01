@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar object was detected by ground radar (FPS-6) that climbed from 5,222 feet to 25,222 feet in 20 seconds, then faded from the radar.",
-    "interesting points": [
-        "The object appeared on the radar screen, climbing at a very high rate of speed, covering 132 miles in just 20 seconds.",
-        "The radar maintenance personnel checked for possible interference on the radar scope, but found no issues.",
-        "The radar operators were not regular operating personnel, but were radar maintenance staff.",
-        "The report suggests the possibility of a false target due to equipment malfunction or mountain reflection, rather than an actual flying object.",
-        "The sighting occurred at night, 17 miles south of Minot, North Dakota."
-    ],
-    "result": "possibly false target due to equipment malfunction",
-    "sighted object": "radar blip on FPS-6 ground radar",
-    "location": "17 miles south of Minot, North Dakota",
-    "witnesses": "A/2C Charles A. Wagner, 756th ACW Sq. radar maintenance staff",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported near Minot, North Dakota on 17 November 1957, observed through radar equipment.",
+    "interesting points": "The object climbed from 5,222 feet to 25,222 feet in twenty seconds., The radar indicated the object passed 60 miles in 20 seconds., The sighting was marked by potential radar equipment malfunction., It is concluded that the observed object might have been a false target due to mountain reflection., The report includes different possible conclusions about the nature of the object: balloon, aircraft, or astronomical.",
+    "sighted object": "Unidentified flying object",
+    "location": "Minot, North Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A/2C Charles A. Wagner, 785th ACW SQ, Radar Maintenance with five months experience.",
+    "contains photographs": false
 }

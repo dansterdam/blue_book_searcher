@@ -1,15 +1,9 @@
 {
-    "main event": "A military pilot saw a large, brilliant light blue object at 35,000 feet over Blackstone, Virginia on February 17, 1955.",
-    "interesting points": [
-        "The object was an extremely brilliant, large object.",
-        "The sighting lasted around 20 seconds.",
-        "The report was not further investigated due to lack of information in the original report.",
-        "An ATIC Form 164 was sent to the observer but no reply was received.",
-        "The sighting was concluded as 'Insufficient Data for Evaluation' and remained unresolved."
-    ],
-    "result": "unknown",
+    "main event": "On 17 February 1955, one light blue object was seen by an observer at 35,000 feet over Blackstone, Virginia.",
+    "interesting points": "The object was described as extremely brilliant and large., The sighting lasted for about 20 seconds., The observer was a military USAF Major/Pilot., There were a total of 16 witnesses to the event., Despite the sighting, it was not investigated due to a lack of information.",
     "sighted object": "one light blue object",
-    "location": "Over Blackstone, Virginia",
-    "witnesses": "military pilot",
-    "photographs": "yes, the report includes photographs"
+    "location": "Blackstone, Virginia, USA",
+    "number of confirmed witnesses": 16,
+    "witness description": "military personnel and others present during the observation",
+    "contains photographs": false
 }

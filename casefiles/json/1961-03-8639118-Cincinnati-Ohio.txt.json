@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white object was observed as a streak of light in the sky over Cincinnati, Ohio on March 2, 1961.",
-    "interesting points": [
-        "The object was visible for 25 minutes and had characteristics of a very bright meteor.",
-        "Several observers saw the object, which was brighter than the brightest star and streaked across the sky at high speed.",
-        "A Geiger counter was affected, suggesting the object may have been radioactive in nature.",
-        "The object did not conform to any known phenomena, leading to the conclusion that it was an unidentified flying object.",
-        "Another sighting of a similar object was reported in the nearby area on the same day."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white streak of light",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "multiple witnesses",
-    "photographs": "none"
+    "main event": "Multiple witnesses reported a sighting of an unidentified flying object in Cincinnati, Ohio on March 2, 1961, describing it as a bright streak in the sky.",
+    "interesting points": "The sighting lasted between 25 seconds to 5 minutes, Witnesses described the object as having a luminous trail, It was observed moving at high speeds, Several reports indicated similar sightings around the same time and location, One observation also noted an effect on a geiger counter suggesting a potentially radioactive nature of the object.",
+    "sighted object": "A bright streak of light in the sky",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilians, including employees of General Electric, including various observations from different locations in the Cincinnati area.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Radar operators detected an unidentified target that made several abrupt changes in course and speed during a 10-minute observation period on August 3, 1951 near Kentland, Indiana.",
-    "interesting points": [
-        "The target was tracked on radar but could not be identified as any known type of aircraft.",
-        "The target's movements and performance characteristics were inconsistent with any known aircraft.",
-        "Radar operators were experienced and reliable, indicating the sighting was authentic.",
-        "There was no visual sighting or photograph of the object.",
-        "The possibility that it may have been a remote controlled or radio controlled model was considered, but deemed unlikely due to the size and maneuverability of the target."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified radar target",
-    "location": "Kentland, Indiana",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "main event": "Radar operators tracked an unknown target on radar during a routine training mission on 3 Aug 51, which made several abrupt changes in course and speed before disappearing from view.",
+    "interesting points": "The target was tracked for approximately 10 minutes,The object exhibited movements and performance characteristics inconsistent with conventional aircraft,Operators speculated the object could possibly be a remote-controlled model, but found this unlikely given its size and maneuverability,Experienced and reliable radar operators reported the sighting, suggesting it was phenomena out of the ordinary.",
+    "sighted object": "unknown target on radar",
+    "location": "Kentland, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Radar operators part of a training mission",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A single unidentified flying object was observed on 26 July 1948 in Chamblee, Ga, emitting blue-white light and long contrails, moving at high speed in a southeast direction before turning south.",
-  "interesting points": [
-    "The UFO was observed emitting blue-white light with long contrails, indicating a high-speed movement.",
-    "The object was observed making a sharp turn from southeast to south.",
-    "The report is from Naval Air Station Outsnopur, suggesting credible witnesses.",
-    "The document is a Temporary AAF Form 339, indicating an official government record.",
-    "The report lacks photographs or sketches of the observed object."
-  ],
-  "result": "unexplained",
-  "sighted object": "a single unidentified flying object emitting blue-white light and long contrails",
-  "location": "Chamblee, Ga",
-  "witnesses": "Naval Air Station Outsnopur personnel",
-  "photographs": "no"
+    "main event": "A sighting of a blue-white light with long contrails occurred on July 26, 1948.",
+    "interesting points": "The object was observed in Chamblee, Georgia., The formation was described as a single moving blue-white light., The object was reported to have long contrails., The direction of the object's movement was southeast then turning south., The report was sourced from the Naval Air Station.",
+    "sighted object": "one blue-white light with long contrails",
+    "location": "Chamblee, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer categorized as unsourced",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness spotted a single bright oval-shaped object that was spinning and veering, observed for over 2 hours.",
-    "interesting points": [
-        "The object emitted small bursts of grayish-blue light.",
-        "The witness observed the object moving from east to southwest.",
-        "The weather conditions were clear to partly cloudy with some wind.",
-        "The report mentions surface weather data for the time of the sighting.",
-        "No analysis could be made of the possible cause of the sighting due to the limited information available."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single bright oval-shaped object",
-    "location": "Six blocks west of Prospect on Garfield",
-    "witnesses": "a contractor from Kansas City, MO",
-    "photographs": "no photographs included in the report"
+    "main event": "A detailed report from Project Blue Book documenting a UFO sighting on July 29, 1964.",
+    "interesting points": "The sighting lasted for two hours and the object was still visible., The object was described as spinning like a top and appeared to veer., The report indicates that the object was moving from east to southwest., There were no physical evidence or photographs associated with this sighting., A military intelligence officer stated that no analysis could be made from the information available.",
+    "sighted object": "An unidentified flying object described as oval and very bright",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A contractor looking out of a window from his bed.",
+    "contains photographs": false
 }

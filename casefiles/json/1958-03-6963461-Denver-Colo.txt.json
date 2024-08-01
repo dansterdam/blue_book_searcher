@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright glowing light was observed moving rapidly with sudden changes in direction over Denver, Colorado on March 3, 1958.",
-    "interesting points": [
-        "The object was seen by multiple witnesses over a 10-minute period.",
-        "The light was described as very bright and self-luminous.",
-        "The object moved at a rapid but uneven speed.",
-        "No sound was heard from the object.",
-        "No details of the object's shape or structure were reported, only that it appeared as a bright glowing light."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright glowing light in the sky",
-    "location": "Denver, Colorado",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs were obtained"
+    "main event": "A bright glowing light was observed in the sky over Denver, Colorado on 3 March 1958.",
+    "interesting points": "The light was seen by many witnesses in the Denver area,The sighting lasted for about 10 minutes,The object moved at a rapid but uneven speed and made sudden changes in direction,Several calls were received by the Denver Police Department and the Air Force regarding the sighting,The case was classified as 'Unidentified' by Project Blue Book.",
+    "sighted object": "bright glowing light in the sky",
+    "location": "Denver, Colorado, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "many witnesses in the Denver area",
+    "contains photographs": false
 }

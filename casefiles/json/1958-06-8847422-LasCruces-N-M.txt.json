@@ -1,15 +1,9 @@
 {
-	"main event": "The document contains records of UFO sightings in Las Cruces, N.M. and Hong Kong in 1958. The sightings were of unidentified objects, one being described as a meteor with long duration and the other as an unidentified spherical object transiting the horizon in 30 seconds.",
-	"interesting points": [
-		"The Las Cruces sighting involved a civilian reporting the sighting of a meteor with a long duration, but no photographs were included in the report.",
-		"The Hong Kong sighting involved military witnesses observing an unidentified spherical object transiting the horizon at an estimated altitude of 45,000 ft in 30 seconds, with no radar unit operative at the time of sighting.",
-		"The report suggests that the UFO sighting over Hong Kong was probably a meteor, but there was insufficient information to base a conclusive evaluation.",
-		"The Las Cruces sighting involved specific data such as the location, direction of the object, duration of observation, and identifying information of the observer.",
-		"The UFO report implies that there were credible witnesses, including military personnel, in the Hong Kong sighting, but no follow-up was planned as it was deemed non-threatening."
-	],
-	"result": "unexplained",
-	"sighted object": "unidentified objects, one resembling a meteor and the other an unidentified spherical object",
-	"location": "Las Cruces, N.M. and Hong Kong, China",
-	"witnesses": "civilian and military personnel",
-	"photographs": "no"
+    "main event": "A civilian observed an unidentified object in the sky which was potentially identified as a meteor.",
+    "interesting points": "The sighting lasted for about 20 seconds,The observer was a man filling up a swimming pool,The object was initially visible at 30 degrees above the ground,The object faded out to the south,The sighting was influenced by clear weather conditions.",
+    "sighted object": "unidentified object, possibly a meteor",
+    "location": "Las Cruces, New Mexico, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a man, his wife, and a babysitter",
+    "contains photographs": false
 }

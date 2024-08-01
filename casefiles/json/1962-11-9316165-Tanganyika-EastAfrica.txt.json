@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was tracked by a ground radar station and visually observed in Tanganyika, East Africa in November or December 1962.",
-    "interesting points": [
-        "The object suddenly turned 90 degrees slightly east, accompanied by a cloud.",
-        "The object could not be visually identified, but the turn could not be under control.",
-        "The sky was overcast at the time of the sighting.",
-        "The sighting was recorded on a Project 10073 Record Card, which was part of the U.S. Air Force's Project Blue Book program that investigated UFOs.",
-        "The report includes a conclusion that the object was possibly a balloon."
-    ],
-    "result": "inconclusive",
-    "sighted object": "an unidentified object tracked on radar and visually observed",
+    "main event": "An Air Force ground radar station in Tanganyika, East Africa, tracked a UFO in November or December 1962.",
+    "interesting points": "The UFO made a sudden 90-degree turn slightly east while accompanied by a cloud., The sky was overcast during the observation., The object was not visually identifiable due to weather conditions., The length of observation was not reported., The report included various conclusions, indicating possible explanations like balloon, aircraft, or meteor.",
+    "sighted object": "one unidentified flying object",
     "location": "Tanganyika, East Africa",
-    "witnesses": "Air Force ground radar station",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described seeing a light in the sky that was moving rapidly and emitting a buzzing sound.",
+    "contains photographs": false
 }

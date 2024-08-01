@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report document:
-
 {
-    "main event": "A witness spotted a flame-colored light in the horizon that moved in an erratic path.",
-    "interesting points": [
-        "The object appeared to be about the size of a 50-cent piece when high in the sky, and the size of a basketball when closer.",
-        "The object had a bright glowing white center with a faint yellowish flame-like appendage.",
-        "The object remained stationary throughout the sighting and made no noise.",
-        "The witness saw an airplane in the area at the time of the sighting.",
-        "The sighting lasted for about 1 minute."
-    ],
-    "result": "probable (hot air balloon)",
+    "main event": "A local civilian observed a flame-colored light moving in an erratic path in Helena, Arkansas on December 23, 1968.",
+    "interesting points": "The object moved in a horizontal course for approximately 3-5 minutes., The observer reported the light as being similar in size to a 50 cent piece when high in the sky, and the size of a basketball when close., The observer indicated they had seen a similar phenomenon before., The presence of children during the sighting was noted, and they also claimed to have seen the object., The phenomenon was concluded to likely be a hot air balloon due to the characteristics described.",
     "sighted object": "a flame-colored light",
-    "location": "Helena, Arkansas",
-    "witnesses": "local civilian",
-    "photographs": "none"
+    "location": "Helena, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a local civilian who reported the sighting.",
+    "contains photographs": false
 }

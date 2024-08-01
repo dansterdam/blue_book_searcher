@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "An object, the size of a baseball, held at arm's length, similar to a light on a balloon, was observed drifting SSW on radar.",
-    "interesting points": [
-        "The object was observed on radar and was estimated to be at an altitude of 35,000 feet.",
-        "The object was drifting SSW and was still in sight at the time of the report.",
-        "The description and behavior of the object indicated that it could be a high-altitude balloon.",
-        "There was insufficient data for a conclusive evaluation of the object.",
-        "The report was part of the Project Blue Book UFO investigation program."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "An object, the size of a baseball, held at arm's length, similar to a light on a balloon",
-    "location": "Stanton, Nebraska",
-    "witnesses": "Radar",
-    "photographs": "No photographs provided"
+    "main event": "An object resembling a light on a balloon was reported drifting SSW over Stanton, Nebraska.",
+    "interesting points": "The object was the size of a baseball when held at arm's length,It was still in sight at the time of the report,The object was estimated to be at an altitude of 35,000 ft,Description indicated it could be a high altitude balloon,Conclusions noted insufficient data for evaluation.",
+    "sighted object": "a light resembling a balloon",
+    "location": "Stanton, Nebraska, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

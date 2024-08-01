@@ -1,15 +1,9 @@
 {
-    "main event": "Two photographs of unidentified debris or object were taken in Snohomish, Washington in September 1962.",
-    "interesting points": [
-        "The report file number is 8090.",
-        "The report includes two black and white photographs of the unidentified debris or object.",
-        "The photographs show the debris or object from different angles on a surface or table.",
-        "The report does not contain any legible text that can be extracted by an OCR system.",
-        "The report indicates that the object or debris was part of a Project Blue Book case file."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified debris or object",
-    "location": "Snohomish, Washington",
-    "witnesses": "unknown",
-    "photographs": "yes, two black and white photographs are included"
+    "main event": "A Project Blue Book report was filed regarding an unidentified object or debris in Snohomish, Washington in September 1962.",
+    "interesting points": "The report contains two black and white photographs of an unidentified object or debris., The top photograph shows the object on a table or surface., The bottom photograph provides a different view of the same or similar object., The report does not provide any textual analysis or conclusions., The exact nature of the object remains unidentified.",
+    "sighted object": "an unidentified object or debris",
+    "location": "Snohomish, Washington, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": true
 }

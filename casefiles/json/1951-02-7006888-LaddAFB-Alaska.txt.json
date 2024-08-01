@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A strange, gray, elongated, luminous object was observed hovering over Ladd AFB, Alaska for about 15 minutes on February 25, 1951.",
-    "interesting points": [
-        "The object first appeared to be stationary, but then began moving rapidly in various directions, occasionally stopping and then moving again.",
-        "Several officers in the control tower observed the object and stated that it was not consistent with any known type of aircraft.",
-        "The object seemed to be self-luminous, emitting its own light rather than reflecting light.",
-        "When the object disappeared, it did so quite suddenly, without any trail or smoke being observed.",
-        "The object's movement was described as unlike any conventional aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a strange, gray, elongated, luminous object",
+    "main event": "An unidentified gray object was observed hovering at Ladd AFB, Alaska on 25 February 1951, emitting a puff of white smoke before proceeding west at a high speed.",
+    "interesting points": "The object hovered for 4-5 seconds before emitting smoke., It was reported by multiple military personnel from Ladd AFB., The object's behavior was described as unlike any known aircraft., Several officers observed the object over a period of 12-15 minutes., The investigation concluded that the object was unmanned and classified as UNIDENTIFIED.",
+    "sighted object": "a gray hovering object",
     "location": "Ladd AFB, Alaska",
-    "witnesses": "several officers in the control tower",
-    "photographs": "no"
+    "number of confirmed witnesses": 5,
+    "witness description": "military personnel from Ladd AFB",
+    "contains photographs": false
 }

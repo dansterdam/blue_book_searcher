@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Ottsville, Pennsylvania observed a round, approximately 50-foot diameter UFO that was illuminated from within and emitting a bright, pulsating light. The object hovered silently at an altitude of around 500 feet for several minutes before accelerating rapidly and disappearing.",
-    "interesting points": [
-        "The witness, Mr. John Doe, reported the UFO sighting to the United States Air Force as part of Project Blue Book.",
-        "The case was investigated by the Air Force, but no further details or conclusions were provided in the report.",
-        "The report mentions that photographs were taken of the UFO, but it's unclear if those photographs were successfully recovered or included in the case file.",
-        "The report mentions that there were approximately 5 witnesses to the UFO sighting.",
-        "The UFO was observed hovering silently for several minutes before rapidly accelerating and disappearing from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, approximately 50-foot diameter UFO that was illuminated from within and emitting a bright, pulsating light",
-    "location": "Ottsville, Pennsylvania",
-    "witnesses": "Mr. John Doe and approximately 5 other witnesses",
-    "photographs": "yes, the report indicates photographs were taken but it's unclear if they were successfully recovered"
+    "main event": "On August 7, 1968, Mr. John Doe observed an unidentified flying object in the sky over Ottsville, Pennsylvania.",
+    "interesting points": "The object was round, approximately 50 feet in diameter, and hovered silently at 500 feet altitude., It was illuminated from within and emitted a pulsating light., The sighting lasted 3-4 minutes before the object accelerated rapidly and disappeared., The case was part of the U.S. Air Force's Project Blue Book investigations., No further conclusions were provided in the report.",
+    "sighted object": "round unidentified flying object",
+    "location": "Ottsville, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. John Doe",
+    "contains photographs": false
 }

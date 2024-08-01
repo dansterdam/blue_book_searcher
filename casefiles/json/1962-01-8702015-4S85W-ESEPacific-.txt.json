@@ -1,15 +1,9 @@
 {
-    "main event": "The report describes a sighting of a bright, incandescent object that was observed due southwest and 5 degrees above the horizon from a ship's position. The object descended straight down before disappearing below the horizon.",
-    "interesting points": [
-        "The object was observed to be very large and was described as a probable 'Meteorite'.",
-        "The sighting occurred in the Pacific Ocean at coordinates 4 South 85 West.",
-        "The weather conditions were reported as partly cloudy and calm.",
-        "The sighting was reported by the crew of the SS Normacisle ship.",
-        "The object was observed to be hovering and then moved away rapidly before crashing into the sea."
-    ],
-    "result": "Probably a meteor",
-    "sighted object": "A bright, incandescent object",
-    "location": "4 South 85 West (ESE Pacific)",
-    "witnesses": "Crew of the SS Normacisle ship",
-    "photographs": "No"
+    "main event": "An unidentified object was sighted 3000 feet above the horizon on January 9, 1962, and appeared as a brilliant light burning out before reaching the horizon.",
+    "interesting points": "The sighting occurred at 2140Z,The object was described as a brilliant light,The object was sighted from a military source,The report suggests that the object possibly crashed into the sea after hovering and moving away rapidly,The case was categorized as probably a meteor, however, there was no wreckage found.",
+    "sighted object": "brilliant light",
+    "location": "ESE Pacific",
+    "number of confirmed witnesses": 1,
+    "witness description": "military observers",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the summary in JSON format based on the provided report text:
-
 {
-    "main event": "Witnesses along the east coast of the United States from Florida to Ohio reported sighting a bright white light traveling from east to west as far as Ohio on March 7, 1960.",
-    "interesting points": [
-        "The object was described as a brilliant white light trailing a luminous green haze or smoke.",
-        "The object appeared to have a burst of speed and move from the northwest to the southeast at a high altitude of approximately 5,000 feet.",
-        "The display was reported to be the decay and re-entry of satellite 1959 Lambda (Discovery VIII).",
-        "Air Force officials reported a strange object flashed across the eastern United States on March 8, with the incident being reported from Cape Canaveral shortly after midnight.",
-        "Control tower lights were seen as the object flashed across the skies, far brighter than any known aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright white light trailing a luminous green haze or smoke",
+    "main event": "On March 7, 1960, a series of bright lights were reported streaking across the sky over the Eastern United States, with sightings spanning from Florida to Ohio.",
+    "interesting points": "The lights were described as brilliant white and orange-red in color, moving rapidly in a pattern,They appeared to break up into three separate sightings as they traveled,Several reports came from military personnel and air traffic control towers,An Air Force official speculated the lights might be from a re-entering meteor or satellite,Many witnesses said the lights left no vapor trail and emitted no sound.",
+    "sighted object": "brilliant white lights breaking up into separate sightings",
     "location": "Eastern United States",
-    "witnesses": "various witnesses along the east coast from Florida to Ohio",
-    "photographs": "no"
+    "number of confirmed witnesses": 18,
+    "witness description": "military personnel and citizens across several states, including Florida and Ohio",
+    "contains photographs": false
 }

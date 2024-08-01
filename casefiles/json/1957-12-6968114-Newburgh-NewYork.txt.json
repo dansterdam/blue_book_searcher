@@ -1,15 +1,9 @@
 {
-    "main event": "One round orange and yellow object the size of a pea was seen stationary in the sky for 20 minutes.",
-    "interesting points": [
-        "The object was stationary during the entire 20-minute observation.",
-        "The size of the object was described as the size of a pea.",
-        "The object was orange and yellow in color.",
-        "The report indicates that the object was likely a balloon.",
-        "The observation lasted for 20 minutes."
-    ],
-    "result": "Probably Balloon",
+    "main event": "One round orange and yellow object the size of a pea was observed in Newburgh, New York.",
+    "interesting points": "The object was seen stationary for twenty minutes., The observation was classified as ground-visual and air-visual., The source of the report was a civilian., The report specifies that the object could possibly be a balloon., There were no photographs included with the report.",
     "sighted object": "one round orange and yellow object",
-    "location": "Newburgh, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Newburgh, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "The report appears to be a cover page or header from Project Blue Book, a U.S. Air Force program that investigated Unidentified Flying Objects (UFOs).",
-    "interesting points": [
-        "The report mentions 2 photos, but the images provided do not contain any visible photographs.",
-        "The text indicates the location is 'SW MIAMI, FLA.' and the date is '26 JAN 62/02007-0309'.",
-        "The second page of the report contains handwritten text and symbols, but no photographs.",
-        "The report seems to be a UFO sighting report, but no details about the sighted object or event are provided.",
-        "The report appears to be from the Project Blue Book archive, which was a historical U.S. government program that investigated UFO sightings."
-    ],
-    "result": "inconclusive",
-    "sighted object": "no details provided",
-    "location": "SW MIAMI, FLA.",
-    "witnesses": "unknown",
-    "photographs": "none provided"
+    "main event": "A UFO report from Project Blue Book dated January 26, 1962, from SW Miami, Florida.",
+    "interesting points": "The report is part of the U.S. Air Force's investigation into UFO sightings., The document includes references to two photos, but one appears blank., The report number is 7720, indicating the specific case being examined., Handwritten text and symbols are present on the document's pages., The document provides a reference number for the report that may be useful for further investigation.",
+    "sighted object": "unknown",
+    "location": "Miami, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none available",
+    "contains photographs": false
 }

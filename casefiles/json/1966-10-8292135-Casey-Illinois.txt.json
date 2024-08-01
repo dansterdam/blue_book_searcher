@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "A night watchman in Casey, Illinois observed a bright, star-like object that made left and right turns in the sky on October 26, 1966.",
-    "interesting points": [
-        "The object appeared to be at around jet aircraft altitude and moved at a similar speed.",
-        "The object had a wavering, side-to-side motion.",
-        "The object made a left turn and then a right turn during its flight path.",
-        "The sighting lasted for about 3 minutes.",
-        "The witness said the object was brighter than the brightest stars in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, star-like object",
-    "location": "Casey, Illinois",
-    "witnesses": "a night watchman",
-    "photographs": "no"
+    "main event": "A night watchman observed a bright, star-like object making maneuvers in the sky over Casey, Illinois on October 26, 1966.",
+    "interesting points": "The object was noted to have a left and right turn during its flight,The observation lasted for approximately 3 minutes,The sky was clear without any associated sound from the object,The object's appearance was described as whitish and similar to a star,The sighting occurred when Echo II satellite was passing overhead, which might explain the sighting.",
+    "sighted object": "a star-like whitish object moving in the sky",
+    "location": "Casey, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "night watchman employed by E.K. Garage",
+    "contains photographs": false
 }

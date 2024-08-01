@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright blinking light, described as a 'tadpole' shape, was observed over Calumet, Michigan on August 12, 1965.",
-    "interesting points": [
-        "The object was described as large in size, with a green top and red and white colors on the bottom.",
-        "The object was initially observed high in the sky, moving northwest, before stopping and revolving.",
-        "The sighting lasted for approximately 30 minutes.",
-        "The object was observed by both a civilian and military personnel.",
-        "The report concludes that the object was likely associated with previous sightings of the same phenomena in the same general area."
-    ],
-    "result": "Probable Astronomical Phenomenon",
-    "sighted object": "Large, silvery, round object with green, red, and white colors",
-    "location": "Calumet, Michigan",
-    "witnesses": "Civilian and military observers",
-    "photographs": "No photographs were taken"
+    "main event": "Several witnesses reported observing bright blinking lights in the sky over Calumet, Michigan, on 8 August 1963.",
+    "interesting points": "The objects were observed for a total of 29 minutes,The altitude of the lights was approximately 500-600 feet,Two or more objects were seen flying in formation,The observers noted the objects were bright and blinking,No physical evidence or photographs were collected.",
+    "sighted object": "bright blinking lights",
+    "location": "Calumet, Michigan, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. [REDACTED], unknown occupation, and John Saro from Calumet Radar Station, reliability unknown.",
+    "contains photographs": false
 }

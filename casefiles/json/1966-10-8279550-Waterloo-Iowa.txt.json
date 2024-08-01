@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Three unidentified objects, described as round and glowing in different colors, were observed by civilian witnesses in Waterloo, Iowa on October 10, 1966.",
-    "interesting points": [
-        "The objects were moving erratically, with two in a straight line and one moving on its own.",
-        "One of the larger objects changed from white to a flickering red color before stopping.",
-        "The sighting lasted for approximately 4 hours.",
-        "During the sighting, the report mentions other aircraft activity in the area, including two small light aircraft and a jet, which may have been the explanation for the sighting.",
-        "The witnesses were unsure if the objects were actually aircraft."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "three round, glowing objects of different colors",
-    "location": "Waterloo, Iowa",
-    "witnesses": "civilian, including Mrs. F. and Mr. F.",
-    "photographs": "no photographs included in the report"
+    "main event": "On October 10, 1966, three unidentified objects were observed in Waterloo, Iowa for a duration of 4 hours.",
+    "interesting points": "The objects moved in a north-west direction,Two smaller objects moved in a straight line while the larger one moved erratically,One observer reported that the large white object changed color to flickering red before stopping,The observation took place on a clear night, indicating good visibility,The report lacked sufficient data for a definitive conclusion.",
+    "sighted object": "three unidentified objects in the sky",
+    "location": "Waterloo, Iowa, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two housewives in Waterloo, Iowa, ages 27 and 32; reliability unknown.",
+    "contains photographs": false
 }

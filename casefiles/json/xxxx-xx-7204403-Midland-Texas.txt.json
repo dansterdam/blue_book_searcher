@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object, the size of a car tail light, was observed changing colors from red to green to white-blue in Midland, Texas.",
-    "interesting points": [
-        "The object was stationary and slowly faded away.",
-        "The observer used binoculars to view the object.",
-        "The object was seen for 2-3 minutes before becoming obscured by clouds.",
-        "The weather conditions were described as clear with light haze.",
-        "A school teacher, G. Hedgepeth, also observed the object traveling at a high rate of speed in a north-easterly direction for about 1 minute before it disappeared behind some hills."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, changing color object",
-    "location": "Midland, Texas",
-    "witnesses": "civilian, school teacher",
-    "photographs": "no"
+    "main event": "A report of a UFO sighting in Midland, Texas, described as a round object changing colors.",
+    "interesting points": "The object's size was compared to that of an auto tail light,The observation lasted for 2-3 minutes,The UFO changed colors from red to green to white,The sighting occurred at approximately 10:15 PM in clear conditions with light clouds and haze,An observer used 7x50 binoculars to view the object.",
+    "sighted object": "circular object changing colors",
+    "location": "Midland, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "G. Hedgepeth, a school teacher",
+    "contains photographs": false
 }

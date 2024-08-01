@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a disc-like object in the sky over Schuyverville, New York on July 24, 1954.",
-    "interesting points": [
-        "The object was oval-shaped and appeared to be the size of a grapefruit when hovering, though the observer could not determine the altitude.",
-        "The object changed colors, appearing red, white, and blue-green.",
-        "The object moved very slowly on a westerly course and disappeared behind a layer of clouds estimated at 5,000 feet.",
-        "The observation lasted for approximately 45 minutes, with the object being observed by the naked eye and with binoculars.",
-        "Fighter aircraft were vectored to the area but were unable to make a visual sighting of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-like object",
-    "location": "Schuyverville, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian observed a single unidentified flying object in Schuyverville, New York on July 24, 1954.",
+    "interesting points": "The object was described as oval in shape, resembling a disc., It appeared the size of a grapefruit when hovering, making its altitude difficult to discern., The colors reported were red, white, blue, and green., The sighting lasted approximately 15 minutes., No sound was detected during the observation.",
+    "sighted object": "one oval-shaped UFO",
+    "location": "Schuyverville, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The document appears to be the cover page or header of a document from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs) between 1947 and 1969.",
-    "interesting points": [
-        "The document contains black and white photographs of various landscapes, buildings, and a train or railway car, but no visible human faces or other identifiable elements.",
-        "The document is marked as 'UNCLASSIFIED' and comes from the 'FOREIGN TECHNOLOGY DIVISION, AFSC'.",
-        "The document does not contain any information about a UFO sighting or event, only the photographs and headers.",
-        "There are no details provided about the location, witnesses, or result of any UFO incident.",
-        "The document appears to be an older government file or report, but does not provide any information about a specific UFO case."
-    ],
-    "result": "The document does not contain any information about a UFO sighting or event, only a collection of unidentified photographs.",
-    "sighted object": "No sighted object described.",
-    "location": "No location specified.",
-    "witnesses": "No witnesses mentioned.",
-    "photographs": "The document contains several black and white photographs, but no information about them."
+    "main event": "A report from Project Blue Book dated March 24, 1967, documenting photographs of structures and a train in King of Prussia, Pennsylvania.",
+    "interesting points": "The report consists of multiple pages detailing black and white photographs without identifiable human faces., There are a total of 7 photographs described across the pages., The images show a distant row of buildings and a railway car., Some images exhibit atmospheric distortion and damage in quality., The document is classified as UNCLASSIFIED under the Foreign Technology Division, AFSC.",
+    "sighted object": "black and white photographs of buildings and a railway car",
+    "location": "King of Prussia, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses reported",
+    "contains photographs": true
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Unidentified flying objects were reported by American G2 office personnel and Taiwanese pilots over Taiwan in the 1950s and 1960s.",
-    "interesting points": [
-        "The American G2 office in Taiwan observed 5 bright lights moving in zig-zag patterns at a constant speed in 1952.",
-        "Taiwanese pilots reported seeing a large, cylindrical, silver-colored object that was approximately 30 meters long in 1960. It traveled at extremely high speeds and made sharp turns.",
-        "When the Taiwanese pilots attempted to intercept the object, it accelerated and disappeared.",
-        "The object was reported to be larger than the pilots' aircraft.",
-        "The reports include details about the objects' movement, size, shape, and color, as well as the duration of the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright lights, cylindrical silver object",
+    "main event": "Observation of 5 bright lights over Taiwan on March 29, 1952, characterized by rapid zig-zag movements and no noise.",
+    "interesting points": "The sighting was reported by an American G2 officer,The objects had a constant speed with rapid movements in zig-zag patterns,The observation lasted for 2-5 minutes,The report suggests they might be meteors,The observer used a windowed observation post.",
+    "sighted object": "five bright lights",
     "location": "Taiwan",
-    "witnesses": "American G2 office personnel, Taiwanese pilots",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "American G2 officer",
+    "contains photographs": false
 }

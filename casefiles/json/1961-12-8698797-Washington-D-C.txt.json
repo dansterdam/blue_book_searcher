@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright, diamond-shaped object was observed over Washington, D.C. on December 13, 1961.",
-    "interesting points": [
-        "The object was approximately 20 feet in size and dark gray in color.",
-        "The object had a definite shape and emitted a pulsating, gaseous flame.",
-        "The object was observed moving in a straight and level trajectory.",
-        "The sighting lasted for approximately 3.5 to 4 minutes.",
-        "The weather conditions were clear with unlimited visibility."
-    ],
-    "result": "unidentified",
-    "sighted object": "diamond-shaped, dark gray object with pulsating gaseous flame",
-    "location": "Washington, D.C.",
-    "witnesses": "multiple",
-    "photographs": "none"
+    "main event": "On December 13, 1961, witnesses observed a pulsating, diamond-shaped object in the sky above Washington, D.C.",
+    "interesting points": "The object was described as dark gray with a light at the center emitting a pulsating glow., The sighting lasted for approximately 3 to 5 minutes., Witnesses reported the object moved in an erratic pattern, including abrupt acceleration., A total of two persons confirmed witnessing the event., The object was observed at an estimated altitude of about 5000 feet.",
+    "sighted object": "a diamond-shaped, dark gray object with a pulsating glow",
+    "location": "Washington, D.C., District of Columbia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "At least two witnesses who reported seeing a bright object moving erratically in the sky.",
+    "contains photographs": false
 }

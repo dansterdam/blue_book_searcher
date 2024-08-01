@@ -1,15 +1,9 @@
 {
-    "main event": "A red spot was observed in the sky by a Virginia housewife on August 7, 1956.",
-    "interesting points": [
-        "The object was observed at night and was described as round and orange in color.",
-        "The object was visually observed from the ground.",
-        "The weather conditions were clear with a slight breeze, and the temperature was 82 degrees Fahrenheit.",
-        "Wind speeds and directions were provided for various altitudes, indicating that meteorological data was collected.",
-        "The sighting was reported through official military channels, likely as part of the Project Blue Book program."
-    ],
-    "result": "unknown",
-    "sighted object": "a red spot in the sky",
-    "location": "Virginia",
-    "witnesses": "a Virginia housewife",
-    "photographs": "no"
+    "main event": "A housewife in Richmond, Virginia reported seeing a round orange object in the night sky on August 7, 1956.",
+    "interesting points": "The sighting was recorded as a ground radar observation., The weather was clear with a slight breeze and a temperature of 82 degrees., The report was classified and marked for attention by various intelligence offices., The observation took place at around 22:25 at night., No photographs were available with the report.",
+    "sighted object": "round orange object in the sky",
+    "location": "Richmond, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife",
+    "contains photographs": false
 }

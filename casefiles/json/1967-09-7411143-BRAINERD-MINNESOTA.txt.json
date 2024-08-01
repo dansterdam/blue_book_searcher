@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-  "main event": "A 14-year-old student reported seeing a silvery, disc-shaped unidentified object on September 5, 1967 in Brainerd, Minnesota, as well as an unidentified submerged object on September 8 in the same area.",
-  "interesting points": [
-    "The student called the airport to report the sightings, but they could not explain what he saw.",
-    "The submerged object appeared to be helicopter-like, but vanished before submerging under the water with no other helicopters reported in the area before or after.",
-    "The student requested information booklets, pictures, and articles from the Unidentified Flying Objects Department to learn more about unidentified submerged objects and to display at a science fair.",
-    "The original UFO sighting report was not investigated immediately due to an error, but the department asked the student to complete a form so they could investigate further.",
-    "The conclusion in the original Project Blue Book document was 'INSUFFICIENT DATA FOR EVALUATION' since the observer failed to return the requested form."
-  ],
-  "result": "unexplained",
-  "sighted object": "silvery, disc-shaped object and an unidentified submerged object",
-  "location": "Brainerd, Minnesota",
-  "witnesses": "14-year-old student",
-  "photographs": "none"
+    "main event": "A civilian reported observing a silvery, disc-shaped object in Brainerd, Minnesota on September 5, 1967.",
+    "interesting points": "The sighting occurred around 4:00 PM,The observer's report was initially not investigated due to an error,The observer is a 14-year-old who also reported a submerged object on September 8,The observer expressed a desire for more information to display at a science fair,The conclusion stated there was insufficient data for evaluation.",
+    "sighted object": "silvery, disc-shaped object",
+    "location": "Brainerd, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 14-year-old civilian",
+    "contains photographs": false
 }

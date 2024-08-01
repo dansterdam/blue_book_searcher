@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "The U.S. Air Force conducted an investigation called Project Twinkle to study unusual light phenomena, particularly 'green fireballs', observed in the southwestern United States.",
-    "interesting points": [
-        "Observations and instrumentation including photographic, triangulation, and spectrographic methods were considered essential to study the phenomena.",
-        "The project involved setting up observation posts, using Askania cameras, and coordinating with Holloman Air Force Base and other agencies, but the results were generally negative.",
-        "Potential explanations for the observed phenomena included man-made objects like airplanes, balloons, and rockets, as well as natural phenomena like meteors and clouds.",
-        "Despite the inconclusive findings, the project was extended multiple times due to continued sightings in the area.",
-        "The document recommends discontinuing further fiscal expenditure on the project, as the evidence was not conclusive enough to warrant continued investigation."
-    ],
-    "result": "inconclusive",
-    "sighted object": "various light phenomena, including 'green fireballs'",
-    "location": "Southwestern United States, particularly around Holloman Air Force Base and Vaughn, New Mexico",
-    "witnesses": "military personnel, scientists, and civilian observers",
-    "photographs": "some photographic attempts were made but did not yield conclusive results"
+    "main event": "Project TWINKLE was initiated to investigate aerial phenomena in New Mexico, focusing on reports of unexplained light phenomena, including green fireballs.",
+    "interesting points": "The investigation revealed that most aerial sightings can be attributed to man-made objects, such as balloons and aircraft,Reports indicated that personnel from Los Alamos frequently reported unusual aerial phenomena,Despite the reports, observations during significant meteor showers were minimal,During the study period, several individuals reported sightings of fireballs and strange objects, yet little concrete data was gathered from the investigations.",
+    "sighted object": "various unidentified aerial phenomena, including bright objects and fireballs",
+    "location": "Holloman Air Force Base, New Mexico, USA",
+    "number of confirmed witnesses": 10,
+    "witness description": "personnel from Los Alamos and other military stations",
+    "contains photographs": false
 }

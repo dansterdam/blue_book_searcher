@@ -1,15 +1,9 @@
 {
-    "main event": "A military observer spotted a bright object over Ewa Beach, Hawaii on January 27, 1965.",
-    "interesting points": [
-        "The object appeared brighter than the stars, about as bright as the moon.",
-        "The object disappeared and reappeared repeatedly, indicating it was climbing.",
-        "The object's maneuvers were similar to a visible satellite.",
-        "The sighting lasted for approximately 1 minute.",
-        "The observer described the object as a 'plane of light' and estimated its angular size to be about 1/4 the size of a match head held at arm's length."
-    ],
-    "result": "Astronomical (METEOR)",
-    "sighted object": "A bright object in the sky",
-    "location": "Ewa Beach, Hawaii",
-    "witnesses": "Military observer",
-    "photographs": "No"
+    "main event": "A possible satellite observed from Ewa Beach, Hawaii on January 27, 1965.",
+    "interesting points": "The sighting lasted for approximately 1 minute,The object appeared brighter than stars, similar in brightness to the moon,The object reportedly disappeared and reappeared repeatedly, indicating it was climbing,The object exhibited maneuvers similar to a visible satellite,The conclusion of the report was that it was an astronomical observation classified as a meteor.",
+    "sighted object": "one bright object in the sky",
+    "location": "Ewa Beach, Hawaii, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "25 year old male from Ewa Beach, Honolulu",
+    "contains photographs": false
 }

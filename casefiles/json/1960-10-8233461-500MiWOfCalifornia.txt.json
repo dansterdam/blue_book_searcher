@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Pilot and co-pilot sighted a bright, white-yellow unidentified flying object that resembled fireworks with a dripping and flaking effect, moving left to right downward at an estimated length of 125 feet and 3 to 5 feet in diameter.",
-    "interesting points": [
-        "The object was sighted at an altitude of 2,725 feet and was moving in and out of scattered clouds.",
-        "The object was observed for approximately 185 seconds before it was lost from sight behind a cloud.",
-        "The pilots had extensive flight and airborne pyrotechnics experience, and they remarked on the object's apparent slow movement and extreme brilliance compared to a rocket or falling star.",
-        "The report notes that an advance copy of the sighting was delivered to a General.",
-        "The sighting occurred approximately 500 miles west of California."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, white-yellow unidentified flying object that resembled fireworks",
-    "location": "500 mi W of California",
-    "witnesses": "pilot and co-pilot",
-    "photographs": "no"
+    "main event": "A pilot and co-pilot along with two crew members sighted an unidentified flying object while flying over California.",
+    "interesting points": "The object appeared brilliant whitish yellow resembling fireworks, The object had a dripping and flaking off effect on its after portion, The estimated size of the object was about 125 feet long and 3 to 5 feet in diameter, The sighting lasted approximately 185 seconds, The crew lost sight of the object when they entered a cloud.",
+    "sighted object": "unidentified flying object",
+    "location": "500 mi W of California, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "pilot, co-pilot, and 2 crew members",
+    "contains photographs": false
 }

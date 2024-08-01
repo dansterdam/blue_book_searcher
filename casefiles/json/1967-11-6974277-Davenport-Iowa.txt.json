@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-  "main event": "The observer sighted a dark object with red and blue lights in the sky over Davenport, Iowa on November 4, 1967.",
-  "interesting points": [
-    "The observer was not sure what the object was.",
-    "The object was seen moving in the sky, but the observer did not have enough details to conclusively identify it.",
-    "The report notes that the observer did not have sufficient data to evaluate the case further.",
-    "The report indicates that similar sightings of unidentified objects with lights had been reported in the area previously.",
-    "The observer reported experiencing a 'warm, tingling' feeling in their foot for 10 minutes after the sighting, but there was no other physical evidence left behind."
-  ],
-  "result": "inconclusive",
-  "sighted object": "a dark object with red and blue lights",
-  "location": "Davenport, Iowa",
-  "witnesses": "one observer",
-  "photographs": "none"
+    "main event": "An observer reported seeing a dark object with red and blue lights in the sky on November 4, 1967.",
+    "interesting points": "The observer was uncertain about the nature of the object seen in the sky,There were insufficient data to evaluate the sighting,The sighting took place in Davenport, Iowa,The observer noted that the object had red and blue lights,The report mentions various weather conditions that might have affected visibility during the sighting.",
+    "sighted object": "dark object with red and blue lights",
+    "location": "Davenport, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer expressed uncertainty regarding the object.",
+    "contains photographs": false
 }

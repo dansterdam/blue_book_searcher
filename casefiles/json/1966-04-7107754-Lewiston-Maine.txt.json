@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian and military observer spotted a single meteor-shaped object in the sky over Lewiston, Maine on April 21, 1966.",
-    "interesting points": [
-        "The object had a round front section with a tail, and the front section was about the size of a pea held at arm's length.",
-        "The object had a bluish-white color with gold-colored sparks emitting from the tail.",
-        "The object was visible for about 4 seconds as it traveled in a straight path with a slight arc, appearing to burn itself out.",
-        "The observers were riding on a motorcycle at the time of the sighting.",
-        "The weather conditions were clear with surface winds at 5 knots."
-    ],
-    "result": "Astro (METEOR)",
-    "sighted object": "a meteor-shaped object",
-    "location": "Lewiston, Maine",
-    "witnesses": "civilian and military observer",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Lewiston, Maine on April 21, 1966, with the observer concluding it was likely a meteor.",
+    "interesting points": "The object was described as meteor-shaped with a bluish-white front and tail emitting gold colored sparks., The sighting lasted approximately 4 seconds before the object burned out., The observer was riding a motorcycle, which typically creates a lot of noise, but no sound was reported from the object., The sighting was pointed out by a passenger on the motorcycle., The weather was clear during the sighting.",
+    "sighted object": "meteor-shaped object emitting sparks",
+    "location": "Lewiston, Maine, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "2D LT Stanley W. Karol and another observer from Penthouse Apartments, both with excellent reliability.",
+    "contains photographs": false
 }

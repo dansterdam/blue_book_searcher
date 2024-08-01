@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was observed falling vertically at great speed in Ganoa, Italy on June 7, 1959.",
-    "interesting points": [
-        "The object was observed for 3-4 minutes before it emitted a long bright tail and exploded.",
-        "Approximately 15 people were present and were very surprised and frightened by the spectacle.",
-        "The sighting took place in a field located about 20 km from Ganoa, on the road to the village of Marina di Massa.",
-        "A hand-drawn diagram depicts the trajectory of the object, showing it reaching the height of Jupiter on the horizon.",
-        "The sky was moonless and the atmosphere very clear at the time of the observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, fast-moving object that emitted a tail and exploded",
-    "location": "Ganoa, Italy",
-    "witnesses": "a group of approximately 15 people, including a captain and tourist officer",
-    "photographs": "none"
+    "main event": "An eyewitness account from a captain in the military describes a bright object falling at great speed near Ganoa, Italy, on June 7, 1959.",
+    "interesting points": "The object was observed for about 3 to 4 minutes before it exploded and disappeared., Approximately 15 witnesses were present who reported feeling surprised and terrified., The sighting took place in a field in Cavalettoli, about 20 kilometers from Ganoa., A hand-drawn diagram depicting the object's trajectory was included in the report., The atmospheric conditions were noted as very clear and moonless at the time of observation.",
+    "sighted object": "a bright object falling vertically",
+    "location": "Ganoa, Tuscany, Italy",
+    "number of confirmed witnesses": 15,
+    "witness description": "A captain and tourist officer along with approximately 14 others",
+    "contains photographs": false
 }

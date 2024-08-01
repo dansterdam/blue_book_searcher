@@ -1,15 +1,9 @@
 {
-  "main event": "A definite contrail with a phosphorescent glow and intermittent flashes was sighted at Ladd Field in Alaska on 9 January 1948.",
-  "interesting points": [
-    "The sighting was made by five officers and men of the 72nd Reconnaissance Squadron.",
-    "The object or aircraft was initially vertical on the horizon and then appeared to be horizontal as it came closer.",
-    "The contrail was lost in the overcast just east of Ladd Field.",
-    "After thorough investigation, it was concluded that the contrail was caused by a B-29 aircraft practicing instrument approaches on the Ladd Field range.",
-    "The report mentioned positive instructions issued to prevent similar incidents due to inadequate investigation prior to submission of reports."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "definite contrail with a phosphorescent glow and intermittent flashes",
-  "location": "Ladd AFB, Alaska",
-  "witnesses": "five officers and men of the 72nd Reconnaissance Squadron",
-  "photographs": "no"
+    "main event": "A sighting of a phosphorescent contrail observed at Ladd AFB, Alaska on January 9, 1948.",
+    "interesting points": "The contrail had a phosphorescent glow and intermittent flashes at its point of origin., Five officers and men of the 72nd Reconnaissance Squadron were witnesses and reported varying descriptions of the sighting., The contrail appeared vertical on the horizon but became horizontal as the object approached., Initial checks indicated no aircraft were in the vicinity, but later reports confirmed a B-29 was flying in the area., The conclusion was reached that the contrail was caused by the B-29 practicing instrument flying.",
+    "sighted object": "contrail from a B-29 aircraft",
+    "location": "Ladd AFB, Alaska, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "officers and men of the 72nd Reconnaissance Squadron",
+    "contains photographs": false
 }

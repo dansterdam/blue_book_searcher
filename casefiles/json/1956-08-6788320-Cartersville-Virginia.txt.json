@@ -1,15 +1,9 @@
 {
-    "main event": "A round, orange and red object was observed at an altitude of approximately 40,000 feet over Cartersville, Virginia on August 6, 1956.",
-    "interesting points": [
-        "The object was first brought to the observer's attention by a 'flash through the trees'.",
-        "The object had no movement and was observed for 45 seconds.",
-        "The report states 'insufficient data for evaluation'.",
-        "The object was observed by a civilian witness.",
-        "The report includes handwritten details and a teletype-style message."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, orange and red object",
-    "location": "Cartersville, Virginia",
-    "witnesses": "civilian",
-    "photographs": "yes, the report includes photographs"
+    "main event": "One round object, orange and red in color, was observed at an altitude of approximately 40,000 feet.",
+    "interesting points": "The object exhibited no movement and was detected by a flash through the trees., The observation lasted for forty-five seconds., The sighting occurred in Cartersville, Virginia., The report mentioned insufficient data for further evaluation., There was no tail or exhaust visible from the object.",
+    "sighted object": "one round object, orange and red in color",
+    "location": "Cartersville, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported seeing an unidentified flying object over Cincinnati, Ohio on April 30, 1969.",
-    "interesting points": [
-        "The object was observed for 10 minutes.",
-        "The observer could not clearly identify the object, but saw it come over the trees about 2 miles away.",
-        "The observer was sent a questionnaire on July 11, 1969 to obtain more details, but it had not been returned as of December 1, 1969.",
-        "The report states that only sketchy information was available on the sighting.",
-        "The report mentions that the information was somewhat conflicting in that the observer could not see the object clearly."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified object in the sky",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "one civilian",
-    "photographs": "no"
+    "main event": "A civilian reported seeing an unidentified flying object in Cincinnati, Ohio on April 30, 1969.",
+    "interesting points": "The sighting lasted for 10 minutes,The witness observed the object as it came over the trees from a distance of about 2 miles,The weather was clear during the sighting,No physical evidence was found related to the observation, The witness's identity remains confidential.",
+    "sighted object": "one unidentified flying object",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

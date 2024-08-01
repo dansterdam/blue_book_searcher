@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A satellite-like object was observed in the sky for about 24 seconds, with a second sighting of an object with similar characteristics about 1.5 hours later, observed for 10 seconds.",
-    "interesting points": [
-        "The object appeared to be a 'falling star' or satellite.",
-        "The first sighting was about 24 seconds long, and the second sighting was about 10 seconds long.",
-        "The object was observed in the Pacific Ocean at coordinates 46°15'N 171°15'W.",
-        "The sighting was reported through a MERINT (Merchant Intercept) report.",
-        "The object was observed visually by the crew of the USS Savage."
-    ],
-    "result": "unidentified",
-    "sighted object": "satellite-like object",
-    "location": "Pacific Ocean, 46°15'N 171°15'W",
-    "witnesses": "crew of the USS Savage",
-    "photographs": "no"
+    "main event": "Sighting of an object presumed to be a satellite on 17 May 1963.",
+    "interesting points": "The object was observed for a brief period of ten seconds., The sighting lasted a total of 24 seconds with a second sighting occurring 1 1/2 hours later., The object was described as appearing similar to a falling star of second magnitude., The report involved multiple sources, including military and naval entities., There is no photograph included in the report despite a section mentioning photos.",
+    "sighted object": "an object presumed to be a satellite",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military personnel aboard the USS Savage",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the summary in the requested JSON format:
-
 {
-    "main event": "A bright light was observed in the sky near Fairfield, Illinois on August 8, 1963.",
-    "interesting points": [
-        "The light exhibited rapid changes in color and intensity.",
-        "The light moved in a straight line and then changed direction rapidly.",
-        "The object had no sound and appeared to be at high altitude.",
-        "The witness, a former U.S. Air Force pilot, attempted to photograph the object but was unsuccessful.",
-        "Multiple witnesses reported seeing the object, including a farmer named Ernest Whitecotton."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright light",
-    "location": "Fairfield, Illinois",
-    "witnesses": "a former U.S. Air Force pilot and other witnesses including a farmer",
-    "photographs": "none, the witness was unable to photograph the object"
+    "main event": "A series of UFO sightings occurred in Fairfield, Illinois, on August 5 and August 8, 1963, involving various witnesses observing bright lights and objects in the sky.",
+    "interesting points": "The objects were reported to have hovered, changed direction rapidly, and caused disturbances with vehicle radios., The local deputy sheriff and multiple witnesses confirmed the sightings, describing the objects as larger than typical stars and hovering at low altitudes., Some witnesses reported that their vehicles sputtered or malfunctioned during the sightings., One sighting involved a bright light following a car for several miles before disappearing., The Air Force later classified the objects largely as reflections of Jupiter and meteoric events.",
+    "sighted object": "unidentified bright lights and objects",
+    "location": "Fairfield, Illinois, USA",
+    "number of confirmed witnesses": 10,
+    "witness description": "Local residents, including a deputy sheriff and several families",
+    "contains photographs": false
 }

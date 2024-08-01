@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO document:
-
 {
-    "main event": "Many round white objects, the size of dimes held at arm's length, flew a straight course from northeast to southwest and faded from view after 3 minutes.",
-    "interesting points": [
-        "The objects were described as many round white objects, the size of dimes held at arm's length.",
-        "The objects flew a straight course from northeast to southwest.",
-        "The objects faded from view after 3 minutes of observation.",
-        "The duration and straight course of the objects suggest they were aircraft-generated sights, but no military aircraft were observed or indicated for the area.",
-        "The report states that there is no explanation for the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "many round white objects",
-    "location": "Valentine, Nebraska",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "Many round white objects, the size of dimes held at arm's length, flew a straight course from NE to SW and faded from view after three minutes.",
+    "interesting points": "The sighting lasted for three minutes,The objects were observed flying in a straight line,The report suggests the objects may have been aircraft-generated sightings,No military aircraft were observed in the area,The objects faded from view after a short duration.",
+    "sighted object": "round white objects",
+    "location": "Valentine, Nebraska, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none",
+    "contains photographs": false
 }

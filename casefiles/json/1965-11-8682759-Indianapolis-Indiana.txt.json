@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a metallic, silvery-white oval-shaped object that was rotating or spinning as it moved rapidly through the sky at a high altitude.",
-    "interesting points": [
-        "The object changed color from deep red to white.",
-        "It made a very distinct, sharp audible sound.",
-        "The object was estimated to be about the size of a basketball at arm's length.",
-        "The sighting lasted for approximately 30 seconds to 1 minute before the object disappeared.",
-        "The witness was outdoors in an open countryside when they observed the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "oval-shaped metallic object",
-    "location": "Redacted, Indiana",
-    "witnesses": "single witness",
-    "photographs": "no photographs"
+    "main event": "A witness reported seeing a large bright light hovering over a field in Indianapolis, Indiana, which suddenly disappeared.",
+    "interesting points": "The sighting lasted for about 10-15 seconds., The object was described as luminous, changing colors from white to yellow to red., The object appeared to be about the size of a basketball., The witness, Mary Young, had never seen a similar object before and reported it to local police., Several others also reported observing a bright object in the sky during the same time in the Indianapolis area.",
+    "sighted object": "a large bright light",
+    "location": "Indianapolis, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mary Young, 31 years old, female, no special experience with UFOs.",
+    "contains photographs": false
 }

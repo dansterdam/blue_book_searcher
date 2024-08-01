@@ -1,15 +1,9 @@
 {
-  "main event": "Ground radar in Chilo, Ohio picked up an unidentified object for 13 minutes in November 1957.",
-  "interesting points": [
-    "The duration of the observation was 13 minutes, providing a significant period for the radar to track the unidentified object.",
-    "The inability of radar operators to determine the nature of the object indicates an unfamiliar sighting.",
-    "The report concludes that the object was possibly an aircraft, a balloon, or even astronomical in nature, but ultimately it was labeled as unidentified due to insufficient data for evaluation.",
-    "There are no photographs included in the report, indicating a lack of visual evidence for this sighting.",
-    "The sighting occurred through ground radar, implying that this was not a visual observation but rather a detection through radar technology."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified object detected by ground radar",
-  "location": "Chilo, Ohio",
-  "witnesses": "ground radar operators",
-  "photographs": "no"
+    "main event": "Ground radar picked up an unidentified object in Chilo, Ohio on November 5, 1957.",
+    "interesting points": "The observation lasted for 13 minutes,There was insufficient data for evaluation of the object,The report indicates the possibility of the object being an aircraft, balloon or astronomical,The radar detection was noted to be atypical as conventional planes could not determine the nature of the object,No other reports were found in the files.",
+    "sighted object": "unidentified object detected by ground radar",
+    "location": "Chilo, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses reported.",
+    "contains photographs": false
 }

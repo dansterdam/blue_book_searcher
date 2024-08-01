@@ -1,15 +1,9 @@
 {
-    "main event": "On December 9, 1957, a ground-radar observation in Itazuke, Japan reported a lighted object larger than a star, changing colors between white, orange, and red, and maintaining a constant position relative to the aircraft for 10-15 minutes.",
-    "interesting points": [
-        "The observation was made by military personnel at Itazuke Air Base during a VIP meeting of correspondents and information officers of the United States and Japan.",
-        "Two pilots stated that the weather and visibility were excellent during the sighting.",
-        "The UFO was ultimately identified as Venus, with the precise angular measurements given by the pilots aiding in this assessment.",
-        "The lighted object held a constant relationship with the aircraft without making any maneuvers.",
-        "The observation lasted 10-15 minutes, with the object eventually fading from sight."
-    ],
-    "result": "identified as Venus",
-    "sighted object": "one lighted object larger than a star, changing colors between white, orange, and red",
+    "main event": "One lighted object appeared larger than a star, changing colors between white and orange, observed by pilots from an aircraft for 10-15 minutes.",
+    "interesting points": "The object maintained a constant position relative to the aircraft,The observation took place at Itazuke Air Base,Japan,Weather and visibility conditions were reported as excellent,There is speculation that the UFO was actually Venus,No photographs were present in the report.",
+    "sighted object": "lighted object changing colors",
     "location": "Itazuke, Japan",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "pilots of a T-33 aircraft",
+    "contains photographs": false
 }

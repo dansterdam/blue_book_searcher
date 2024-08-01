@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Analysis of a 35mm slide containing three light-toned images taken near Guadalajara, Mexico",
-    "interesting points": [
-        "The slide was forwarded to the Photo Analysis Division and Photo Processing Division for analysis.",
-        "No discernible signature could be derived from the images on the slide.",
-        "The low contrast of the images suggests they were likely caused by a ray of light entering the camera or lens flare.",
-        "A separate letter describes a son-in-law and daughter seeing unidentified flying objects and taking pictures in a primitive area near Guadalajara, which they then sent in.",
-        "The letter writer had the slide enlarged and examined under microscopes, but no one could identify the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "three light-toned images on a 35mm slide",
-    "location": "Near Guadalajara, Mexico",
-    "witnesses": "Son-in-law and daughter of the letter writer",
-    "photographs": "Yes, the letter writer enclosed a 35mm slide with the report"
+    "main event": "A report on unidentified flying objects (UFOs) analyzed by Project Blue Book with references to sightings in Mexico.",
+    "interesting points": "Analysis by Major Hector Quintanilla identified multiple reflections in a UFO slide,The report details sightings of three UFOs near Guadalajara, Mexico,The objects were captured in slides by witnesses who were in a remote area,The analysis noted that low contrast could have been due to light rays or lens flare,No identifiable signature could be determined from the images viewed under microscopes.",
+    "sighted object": "three unidentified flying objects",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "number of confirmed witnesses": 2,
+    "witness description": "A son-in-law and daughter traveling in Mexico, described as not previously interested in UFOs.",
+    "contains photographs": false
 }

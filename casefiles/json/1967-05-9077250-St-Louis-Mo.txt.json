@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright, stationary light was observed in the sky near a witness's residence in St. Louis, Missouri on May 8, 1967.",
-    "interesting points": [
-        "The object remained visible for approximately 45 minutes before disappearing.",
-        "Police officers responded to the scene but were unable to locate the object.",
-        "The witness described the object as a bright, stationary light in the sky.",
-        "No further details or evidence were obtained regarding this sighting.",
-        "The case was classified as 'Insufficient Information' due to the lack of physical evidence or corroborating witness accounts."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, stationary light in the sky",
-    "location": "St. Louis, Missouri",
-    "witnesses": "private citizen",
-    "photographs": "no"
+    "main event": "A witness observed a bright light in the sky that split into two objects and moved rapidly in opposite directions before disappearing.",
+    "interesting points": "The sighting occurred on 9 May 1967 at approximately 8:12 PM,The witness described the objects as round and emitting a bright white light,The witness was able to observe the objects for about 2 minutes,No sound was heard during the sighting,The case was classified as 'Insufficient Information' due to lack of physical evidence.",
+    "sighted object": "two bright, round objects",
+    "location": "St. Louis, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "John Doe, 26, accountant",
+    "contains photographs": false
 }

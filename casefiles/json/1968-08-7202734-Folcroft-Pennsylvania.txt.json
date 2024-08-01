@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A witness in Folcroft, Pennsylvania reported observing an unidentified flying object (UFO) on August 17, 1968 around 10:30 PM.",
-    "interesting points": [
-        "The witness had previously seen a similar phenomenon in the same location.",
-        "The witness described the object as a bright, solid source of light with sharply defined edges, appearing about the size of a basketball.",
-        "The object seemed to blot out the stars when it came into view.",
-        "The witness was a student interested in space and space travel.",
-        "The report mentions conflicting data, as the witness had stated in a previous letter that he had forwarded a photograph to DERA, but the photograph was not included in this report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, solid source of light",
-    "location": "Folcroft, Pennsylvania",
-    "witnesses": "a single witness, a student interested in space",
-    "photographs": "no photograph included, but the witness had previously provided a photograph to DERA"
+    "main event": "A sighting of an unidentified flying object described as a yellowish ball moving upwards, reported in Folcroft, Pennsylvania on August 5, 1963.",
+    "interesting points": "The observer mentioned giving a photograph of the UFO to NASA, which was not returned., The sighting involved a hand-drawn sketch indicating the path of the observed object., The object's physical description included being bright but not extremely bright, with sharply defined edges., Witness described the object as about the size of a basketball seen at a distance., The event is characterized by various conflicting data in the report.",
+    "sighted object": "yellowish ball moving upwards",
+    "location": "Folcroft, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 19-year-old student interested in space and space travel.",
+    "contains photographs": false
 }

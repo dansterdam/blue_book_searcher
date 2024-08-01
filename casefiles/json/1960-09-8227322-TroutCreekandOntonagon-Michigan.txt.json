@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round or oblong object glowing very bright was observed traveling very fast, then climbing gradually out of sight.",
-    "interesting points": [
-        "The object was close to trees and traveling very fast.",
-        "The duration of the sighting could not be determined.",
-        "The characteristics of the object were similar to a meteor, except for the unknown duration.",
-        "The object was spotted by multiple civilian witnesses in Trout Creek, Michigan.",
-        "A follow-up investigation by an intelligence officer concluded that the possible cause was a falling meteorite, and there was no visual evidence."
-    ],
-    "result": "unexplained",
-    "sighted object": "one round or oblong glowing object",
-    "location": "Trout Creek, Michigan",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no"
+    "main event": "A civilian reported sighting one or more round or oblong objects close to trees, traveling very fast and then climbing gradually out of sight.",
+    "interesting points": "The objects were glowing very bright,The sighting was characterized by features typical of a meteor except for the duration, which could not be determined, The direction of travel was noted as NW-SE, The sighting duration was unspecified, The report is part of Project 10073, which is likely linked to Project Blue Book.",
+    "sighted object": "one or more round or oblong glowing objects",
+    "location": "Trout Creek, Michigan, USA",
+    "number of confirmed witnesses": 95,
+    "witness description": "mill workers and locals in the area",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a round, baseball-sized object hovering and moving overhead in Waukesha, Wisconsin on April 3, 1966.",
-    "interesting points": [
-        "The object had a hazy film trailing it.",
-        "The object would accelerate, disappear for a few seconds, and then reappear.",
-        "The object's motion was erratic and it flew above the witness's car, causing the car to stall.",
-        "The witness could not start the car until the object had dimmed slightly and moved away.",
-        "The Air Force requested the witness complete a questionnaire (BLUE BOOK FORM 11-56) for further evaluation, as the initial information provided was insufficient."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "round, baseball-sized object with a hazy film",
-    "location": "Waukesha, Wisconsin",
-    "witnesses": "1 civilian witness",
-    "photographs": "no photographs, only text report"
+    "main event": "On April 3, 1966, a round object was observed hovering and moving overhead in Waukesha, Wisconsin for approximately 5 minutes.",
+    "interesting points": "The object was described as being the size of a baseball and bright orange in color., Observers noted that the object had an antenna sticking out of the top., The object was first spotted at about 2 miles in the air and flew directly above the observers' car., The car failed to start while the object was overhead but started again once it dimmed., There was a young person present who was unable to describe the object.",
+    "sighted object": "round bright orange object with an antenna",
+    "location": "Waukesha, Wisconsin, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians, including a young person who did not describe the object",
+    "contains photographs": false
 }

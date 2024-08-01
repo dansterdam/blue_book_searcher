@@ -1,15 +1,9 @@
 {
-    "main event": "Observation of a very bright luminous object was made at approximately 22:30 on 22 June 1952 in Minneapolis, Minnesota.",
-    "interesting points": [
-        "The object was observed at an altitude of about 45,000 feet, moving at a very high rate of speed.",
-        "The object was observed to change direction and then disappear.",
-        "Several other smaller objects were also observed in the vicinity during this time.",
-        "The report is an 'AIR INTELLIGENCE INFORMATION REPORT' from Project Blue Book, an official U.S. Air Force investigation of unidentified flying objects.",
-        "The document contains a disclaimer stating that it contains information affecting the national defense of the United States."
-    ],
-    "result": "unexplained",
-    "sighted object": "a very bright luminous object and several smaller objects",
-    "location": "Minneapolis, Minnesota",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "Observation of a very bright luminous object made at approximately 22:30 on 22 June 1952 in Minneapolis.",
+    "interesting points": "The object was observed at about 45,000 feet altitude,The luminous object was moving at a very high rate of speed,The object changed direction and then disappeared,Several smaller objects were also observed in the vicinity during the sighting,The report was conducted under Project Blue Book by Military Air Intelligence.",
+    "sighted object": "a very bright luminous object",
+    "location": "Minneapolis, Minnesota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military Air Intelligence report",
+    "contains photographs": false
 }

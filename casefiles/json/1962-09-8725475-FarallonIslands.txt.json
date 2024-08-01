@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Several reports of an object fired from the water near the Farallon Islands, leaving a long vapor trail and red fireballs",
-    "interesting points": [
-        "The object was fired from the water near the Farallon Islands.",
-        "The object left a long vapor trail and red fireballs were associated with it.",
-        "The incident was reported to various military and air force units, including the 25th NORAD Sector, COMWESTSEAFRON, VARC Hamilton AFB, CINCNORAD, and CINGSAC.",
-        "The incident was initially evaluated as an unidentified jet aircraft exercising and sunset, but the investigation was recalled.",
-        "The report was initially designated as 'FONEGON NOTA' and later as 'RY 3302288 EVAL AS UNIDENT JET ACFT EXERCISES AND SUNSET'."
-    ],
-    "result": "unexplained",
-    "sighted object": "object fired from the water, leaving a long vapor trail and red fireballs",
-    "location": "Farallon Islands",
-    "witnesses": "not stated",
-    "photographs": "no"
+    "main event": "Reports of an object fired from water near the Farallon Islands on 29 September 1962.",
+    "interesting points": "The object caused water in motion and was associated with light in color and red fireballs., The object left a long vapor trail that was still visible., The Air Force investigated the sightings but found no indication of aircraft involvement., Multiple reports were noted regarding the object., The investigation was referred to as not of aircraft origin.",
+    "sighted object": "object fired from water",
+    "location": "Farallon Islands, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not stated",
+    "contains photographs": false
 }

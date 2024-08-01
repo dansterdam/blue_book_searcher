@@ -1,15 +1,9 @@
 {
-    "main event": "The document appears to be a collection of pages from old Project Blue Book UFO reports, including questionnaires, instructions, and descriptions of UFO sightings, but does not contain any photographs.",
-    "interesting points": [
-        "The reports describe various UFO sightings, including objects of different shapes, colors, and behaviors such as hovering, speeding up, and changing brightness.",
-        "The questionnaires provide detailed instructions on how to describe and draw the observed UFO objects and their motion.",
-        "One report mentions the witness receiving a message not to talk about the sighting.",
-        "Several reports refer to the use of telescopes and cameras to observe the UFO objects.",
-        "The reports indicate that the Air Force was actively investigating and collecting information on UFO sightings through Project Blue Book."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "various unidentified flying objects, including glowing orbs, circular objects, and blinking lights",
-    "location": "multiple locations, including Shookstown, MD; Frederick, MD; Fredericksburg, VA",
-    "witnesses": "multiple witnesses, including farmers, friends, and an individual",
-    "photographs": "no photographs present in the documents"
+    "main event": "The document is a summarized record of various UFO sightings reported and processed by Project Blue Book.",
+    "interesting points": "The document mentions sketches and instructions for reporting UFO sightings, indicating participatory engagement from the observers., It references multiple UFO sightings including a yellow-gold colored object and a circular object with a vapor trail., A witness reported a bright red light that stopped blinking, showing varied observations over time., The document includes forms requesting further information from the witnesses, indicating ongoing investigations., The sightings were recorded across different timelines, with dates mentioned such as April 13, 1957.",
+    "sighted object": "yellow-gold colored object, circular object, blinking red and white light",
+    "location": "Shookstown, Maryland, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The document contains multiple descriptions but does not specify individual witness identities.",
+    "contains photographs": false
 }

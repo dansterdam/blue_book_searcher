@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, round object was sighted over Fort Benning, Georgia on January 12, 1951.",
-    "interesting points": [
-        "The object appeared to be the size of an automobile tire and was very bright.",
-        "It was visible for about half a minute, during which time it traveled about six times its own length before disappearing completely.",
-        "The object was seen by 10 civilian witnesses and was not a weather balloon launched by the local Air Force bases.",
-        "The object appeared to be just over the treetops, which were estimated to be around 1,000 feet in altitude.",
-        "A separate report from Project Twinkle mentioned an incident involving an unidentified object, but no further details were provided."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, round object",
-    "location": "Fort Benning, Georgia",
-    "witnesses": "10 civilian witnesses",
-    "photographs": "no photographs"
+    "main event": "A bright unidentified object was observed over Fort Benning, Georgia on January 12, 1951.",
+    "interesting points": "The object appeared bright and large, similar in size to an automobile tire., It was initially mistaken for a balloon due to its shape but was at an altitude deemed too high for one., The object was seen by Major Gordon and nine other witnesses., The observation lasted approximately 30 seconds, and the object traveled six times its own length before disappearing., A weather balloon check by authorities revealed no balloons were launched that day.",
+    "sighted object": "a bright round object",
+    "location": "Fort Benning, Georgia, USA",
+    "number of confirmed witnesses": 10,
+    "witness description": "Major Gordon from the 111th GIC Detachment and nine civilians",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright disc hovered over a resident's house in Glendora, California, making a swishing noise and shaking the house.",
-    "interesting points": [
-        "The object was described as a bright disc.",
-        "It hovered over the resident's house.",
-        "The object made a swishing noise.",
-        "The object shook the house.",
-        "The case was listed as having insufficient data for evaluation."
-    ],
-    "result": "unknown",
+    "main event": "On January 27, 1957, a bright disc was sighted hovering over a house in Glendora, California, making a swishing sound and shaking the house.",
+    "interesting points": "The object was observed by a resident and their son,The sighting involved a report from the Chief of Police,The object was evaluated as possibly being an aircraft, but the data was insufficient for confirmation,The case is officially listed as unknown due to lack of evidence,The local time of the observation was noted as 2020 hours.",
     "sighted object": "a bright disc",
-    "location": "Glendora, California",
-    "witnesses": "resident and son",
-    "photographs": "no"
+    "location": "Glendora, California, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a resident and their son, along with the Chief of Police",
+    "contains photographs": false
 }

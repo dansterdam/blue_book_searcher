@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A witness saw a single, round, ill-defined light flying east over Winsted, Connecticut on July 30, 1955.",
-    "interesting points": [
-        "The light was observed for about 5 minutes.",
-        "The object was flying at an unspecified altitude.",
-        "It was moving in a straight line towards the east.",
-        "The witness reported no sound associated with the object.",
-        "The sighting was categorized as a possible aircraft by Project Blue Book."
-    ],
-    "result": "Balloon",
+    "main event": "A civilian reported a sighting of a round, ill-defined light flying east for 5 minutes.",
+    "interesting points": "The object was observed for a duration of 5 minutes,The sighting was made from the ground,The report concluded that the object was likely a balloon,There was no sound associated with the sighting,The observation was made in Winsted, Connecticut.",
     "sighted object": "a round, ill-defined light",
-    "location": "Winsted, Connecticut",
-    "witnesses": "civilian witness",
-    "photographs": "no"
+    "location": "Winsted, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, factory worker, age 46",
+    "contains photographs": false
 }

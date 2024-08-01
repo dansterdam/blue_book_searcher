@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A Project Blue Book report from April 3, 1966 regarding an incident in Madison, Wisconsin involving 5 photographs.",
-    "interesting points": [
-        "The report contains 5 black-and-white photographs showing various unidentified objects or aerial phenomena in the sky.",
-        "The photographs are described as grainy, blurry, and indistinct, making it difficult to clearly identify the objects.",
-        "One photograph shows a crescent-shaped object, likely the partially illuminated moon.",
-        "Another photograph shows a dark, nighttime sky with a distinct object or craft visible.",
-        "The report indicates that the photographs depict UFOs or unidentified aerial phenomena, though their nature is unclear from the limited information provided."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified aerial objects or phenomena in the photographs",
-    "location": "Madison, Wisconsin",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 5 black-and-white photographs"
+    "main event": "A report from April 3, 1966, details sightings of unidentified aerial objects in Madison, Wisconsin.",
+    "interesting points": "The report includes 5 black-and-white photographs of unidentified objects in the sky.,One photograph features a crescent-shaped object which may be a partially illuminated moon.,Multiple images display grainy and indistinct UFO phenomena.,The sightings occurred during nighttime, enhancing the mystery of the observed objects.,The report is classified under the Foreign Technology Division.",
+    "sighted object": "unidentified aerial phenomena",
+    "location": "Madison, Wisconsin, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified in the report",
+    "contains photographs": true
 }

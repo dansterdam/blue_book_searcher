@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting occurred on March 8, 1951, at 45.09N 140.47E in the Far East, which was concluded to be a probable balloon and not a UFO.",
-    "interesting points": [
-        "The observation lasted for 9 minutes.",
-        "The sighting was reported as a single object following a course of 035 degrees and maneuvering in a southeast direction.",
-        "The conclusion states that it was probably a balloon, aircraft, or astronomical object, with insufficient data for evaluation.",
-        "The report was from Project Card and indicated that it was not considered a UFO by FEAF (Far East Air Force).",
-        "No photographs were included in the report."
-    ],
-    "result": "prozaic explanation",
-    "sighted object": "single object, probably a balloon",
-    "location": "Far East, 45.09N 140.47E",
-    "witnesses": "FEAF",
-    "photographs": "no"
+    "main event": "A sighting occurred on March 8, 1951, in the Far East, identified as possibly a balloon.",
+    "interesting points": "The sighting lasted for 9 minutes., A single object was observed., The object's course was reported as SE while it performed maneuvers., The source of the report was FEAF., The final conclusion noted that it was not a UFO.",
+    "sighted object": "one object, identified as probably a balloon",
+    "location": "45.09N, 140.47E, Far East",
+    "number of confirmed witnesses": 0,
+    "witness description": "record card indicates observations from FEAF",
+    "contains photographs": false
 }

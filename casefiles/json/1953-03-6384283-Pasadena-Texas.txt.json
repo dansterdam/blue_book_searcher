@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object about the size of a basketball was observed circling over Pasadena, Texas for about 50 minutes on March 6, 1953.",
-    "interesting points": [
-        "The object was observed circling for about 50 minutes.",
-        "The object was unidentified.",
-        "The object was about the size of a basketball.",
-        "The object was observed by multiple witnesses.",
-        "The object's motion was described as circling."
-    ],
-    "result": "unidentified",
-    "sighted object": "an object about the size of a basketball",
-    "location": "Pasadena, Texas",
-    "witnesses": "multiple",
-    "photographs": "no"
+    "main event": "On 6 March 1953, an object about the size of a basketball was observed circling over Pasadena, Texas.",
+    "interesting points": "The object was observed for approximately 50 minutes,The object was described as circling in motion,The object was confirmed to be unidentified after the observation,The report mentions varied sources for the observation,Two different observation periods were noted on separate occasions in Pasadena, Texas.",
+    "sighted object": "an unidentified object about the size of a basketball",
+    "location": "Pasadena, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A, the report does not specify any confirmed witnesses.",
+    "contains photographs": false
 }

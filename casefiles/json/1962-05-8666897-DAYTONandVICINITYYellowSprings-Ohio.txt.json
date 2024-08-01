@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was detected on radar, exhibiting erratic and rapid movements in the sky.",
-    "interesting points": [
-        "The object appeared to be a light of some kind, moving in an irregular and very rapid pattern, changing directions abruptly.",
-        "The object disappeared from the radar screen.",
-        "The sighting lasted for 15 minutes.",
-        "The object could not be identified.",
-        "The report is a Project Blue Book record card, which was used to document UFO sightings and observations."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified light object",
-    "location": "Dayton & vicinity",
-    "witnesses": "ground radar",
-    "photographs": "none"
+    "main event": "An unidentified object was detected moving erratically in the sky via ground-radar in Dayton.",
+    "interesting points": "The observation lasted for 15 minutes., The object appeared to be a light of some kind., It was moving rapidly and changing directions abruptly., Only one object was reported during the sighting., The object ultimately disappeared from the radar screen.",
+    "sighted object": "an unidentified object detected by radar",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "None reported",
+    "contains photographs": false
 }

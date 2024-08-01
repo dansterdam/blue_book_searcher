@@ -1,15 +1,9 @@
-Here is the JSON summary based on the case file:
-
 {
-    "main event": "An unidentified object was reported over the city of Montevideo, Uruguay on April 8, 1966.",
-    "interesting points": [
-        "The object was observed over the city of Montevideo.",
-        "The sighting occurred on April 8, 1966.",
-        "No further details about the sighting were provided in the report."
-    ],
-    "result": "unidentified",
-    "sighted object": "an unidentified object",
-    "location": "Montevideo, Uruguay",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "On April 7, 1966, multiple witnesses reported sighting two unidentified flying objects with red and white lights over Shreveport, Louisiana.",
+    "interesting points": "The observations included a humming sound emitted by the objects., The objects were observed changing course abruptly several times., Witnesses reported that the lights flashed brightly and then faded occasionally., The sighting lasted around 15 minutes, with an abrupt disappearance of the objects., Investigating officers suggested the lights may have been reflections of carnival lights on low-lying clouds at the time.",
+    "sighted object": "two unidentified flying objects with red and white lights",
+    "location": "Shreveport, Louisiana, USA",
+    "number of confirmed witnesses": 4,
+    "witnesses": "civilian observers in the area",
+    "photographs": "no"
 }

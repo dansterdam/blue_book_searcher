@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-  "main event": "A possible military aircraft was observed over Huntsville, Alabama.",
-  "interesting points": [
-    "The object appeared to be metallic and round, with a 'glowing' color on the surface.",
-    "The object was described as having 'black tips' and a 'red middle'.",
-    "The object was observed descending from a high altitude, likely a normal aircraft operation.",
-    "Ground observers reported the object, but it was likely a known aircraft.",
-    "No photographs were included in the report."
-  ],
-  "result": "Explained - Likely a military aircraft observed descending over Huntsville.",
-  "sighted object": "A metallic, round object with glowing color and black tips/red middle.",
-  "location": "Huntsville, Alabama",
-  "witnesses": "Ground observers",
-  "photographs": "No"
+    "main event": "An unidentified flying object was reported over Ardmore, Alabama, on November 7, 1967. The object was described as a small, bright, and luminous entity that made a sharp right-angle turn before speeding away.",
+    "interesting points": "The object was observed hovering for approximately 15 minutes., It appeared to come from the north and traveled in a straight line., The object was noted to have a glowing color with black tips and a red middle., Ground observers described the object as metallic and round in shape., No photographs or reliable identification were reported from traffic control or local authorities regarding this sighting.",
+    "sighted object": "a small, bright, and luminous object",
+    "location": "Ardmore, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported observing the object while out hunting and noted its lack of noise and unusual movement.",
+    "contains photographs": false
 }

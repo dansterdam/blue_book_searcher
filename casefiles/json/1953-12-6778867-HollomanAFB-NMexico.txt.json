@@ -1,15 +1,9 @@
 {
-    "main event": "On 3rd December 1953 at 03:00Z, radar personnel at Holloman AFB, New Mexico observed four unidentified objects for a duration of 30 minutes.",
-    "interesting points": [
-        "The report indicated the presence of three objects in a line equally spaced, with a fourth further out, moving east to west and then fading positions.",
-        "The objects maintained a specific formation and one of them stood still at one point.",
-        "The report mentions that physical evidence was not found.",
-        "The conclusion drawn was that there was insufficient data for evaluation, and the report was not submitted to radar analysts.",
-        "The report was routed to various authorities including the USAF Washington D.C., but the details were redacted."
-    ],
-    "result": "unexplained",
-    "sighted object": "Four unidentified objects observed through ground radar",
-    "location": "Holloman AFB, New Mexico",
-    "witnesses": "radar personnel",
-    "photographs": "no"
+    "main event": "Radar personnel observed four objects using ground radar at Holloman AFB.",
+    "interesting points": "The observation lasted for 30 minutes., Three objects were seen in a line, equally spaced, with one further out., The objects moved from east to west, gradually fading from positions., The report concluded that there was insufficient data for evaluation., The report was not submitted to radar analysts.",
+    "sighted object": "four unidentified flying objects",
+    "location": "Holloman AFB, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "radar personnel",
+    "contains photographs": false
 }

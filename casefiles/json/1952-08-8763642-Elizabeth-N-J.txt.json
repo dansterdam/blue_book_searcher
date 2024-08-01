@@ -1,15 +1,9 @@
 {
-  "main event": "A ground-radar observation was made in Elizabeth, N.J. on 35-8-52, evaluated as probable aircraft due to clutter on the ground-radar, with a length of observation lasting 3-5 minutes and involving one object.",
-  "interesting points": [
-    "Radio contact was observed 3/4 mile away from the location of the sighting.",
-    "The report was transmitted to various military and intelligence departments, including CG Newark Trancondep, HQ USAF Washington D.C, and AFB Colorado Springs.",
-    "The observer was a 16-year-old individual, as reported by Captain Maguire of the Elizabeth Police Department.",
-    "The observation occurred at 0143 hours, indicating a nighttime sighting.",
-    "There was no photograph present in the report, suggesting a reliance on radar data and eyewitness testimony."
-  ],
-  "result": "probable aircraft",
-  "sighted object": "one very bright object covered with lights proceeding northeast",
-  "location": "Elizabeth, N.J.",
-  "witnesses": "16-year-old observer reported by Captain Maguire of the Elizabeth Police Department",
-  "photographs": "no"
+    "main event": "A very bright object covered with lights was observed proceeding northeast from a home in Elizabeth, NJ at 0143 hours on August 14, 1952.",
+    "interesting points": "The object was detected through ground-radar as a probable aircraft,The sighting lasted for 3-5 minutes,Radio contact was secured 3/4 mile away,The incident was reported by Captain Maguire of the Elizabeth Police Department,The observer was a 16-year-old resident of Elizabeth, NJ.",
+    "sighted object": "a very bright object covered with lights",
+    "location": "Elizabeth, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 16-year-old resident of Elizabeth, NJ",
+    "contains photographs": false
 }

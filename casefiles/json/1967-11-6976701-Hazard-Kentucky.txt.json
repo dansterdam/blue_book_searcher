@@ -1,15 +1,9 @@
 {
-    "main event": "Residents of Hazard, Kentucky reported sighting a metallic object west of the sun that had been observed for several weeks.",
-    "interesting points": [
-        "The object was described as moving as a 'solid body' that retained its position relative to the sun.",
-        "The object was estimated to be approximately 30 degrees west of the sun.",
-        "Dr. Hynek suggested the object was likely the planet Venus, which was highly visible west of the sun at the time.",
-        "Weather conditions could have caused an apparent increase in the size of Venus during daylight hours.",
-        "The observers were advised that they were likely seeing the planet Venus and were encouraged to try and take a photograph of the object using a high-powered telescope."
-    ],
-    "result": "Probable explanation: The object was the planet Venus",
-    "sighted object": "Metallic object west of the sun",
-    "location": "Hazard, Kentucky",
-    "witnesses": "Residents of Hazard",
-    "photographs": "No, the report does not contain any photographs"
+    "main event": "Residents of Hazard, Kentucky observed a bright metallic object that they believed was west of the sun.",
+    "interesting points": "The object was observed for several weeks and appeared stationary relative to the sun., Dr. Hynek suggested that the object was probably Venus, which was approximately 30 degrees west of the sun., There was a suggestion that weather conditions could increase the apparent size of Venus during daylight., Major Quintanilla confirmed that observers thought it might be a planet., The residents planned to use telescopes to obtain photographs of the object.",
+    "sighted object": "a bright metallic object",
+    "location": "Hazard, Kentucky, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. Ernest and Mr. Quintanilla, who reported on behalf of residents and discussed the sighting with Dr. Hynek.",
+    "contains photographs": false
 }

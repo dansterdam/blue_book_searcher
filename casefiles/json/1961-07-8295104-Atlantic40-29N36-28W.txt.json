@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single, bright light object was observed moving erratically in the sky.",
-    "interesting points": [
-        "The object was described as being the size and brightness of a second magnitude star.",
-        "The object was observed at an elevation of 30 degrees, passing overhead and disappearing about 2 degrees above the horizon.",
-        "The object was visually observed at night in clear conditions.",
-        "The object was reported to be moving in an inconsistent manner, not typical of a balloon.",
-        "The exact nature of the object could not be determined due to the distance of observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single, bright light object",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A bright object was observed moving erratically, possibly a balloon, for a duration of 10-15 minutes.",
+    "interesting points": "The object was very bright and observed at a distance, The object's movements were inconsistent with those of a typical balloon, No sound was heard during the sighting, The object appeared large and hazy at times, The sighting was recorded as part of Project Blue Book, indicating systematic UFO investigation.",
+    "sighted object": "a bright object moving erratically",
+    "location": "unknown, Region unknown, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer noted the object's erratic movements and bright appearance",
+    "contains photographs": false
 }

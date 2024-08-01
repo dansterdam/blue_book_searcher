@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A civilian pilot spotted a round, yellowish object moving slowly and then disappearing rapidly in a southward direction near Edinburg, Texas.",
-    "interesting points": [
-        "The object was about the size of a dime held at arm's length.",
-        "The description is consistent with that of a satellite observation.",
-        "Atmospheric conditions could have distorted the sighting.",
-        "The sighting lasted for about 5 minutes.",
-        "The report includes wind and weather conditions at the time and location of the sighting."
-    ],
-    "result": "Satellite (possible)",
-    "sighted object": "round, yellowish object",
-    "location": "Edinburg, Texas",
-    "witnesses": "civilian pilot",
-    "photographs": "none"
+    "main event": "Observer watched a round, yellowish colored object travel toward the south on February 26, 1967.",
+    "interesting points": "The object was described as being about the size of a dime held at arm's length., The object moved very slowly before disappearing rapidly., The sighting was consistent with that of a satellite observation., Atmospheric conditions may have distorted the sighting., The observer's location was 25 miles out of McAllen, Texas.",
+    "sighted object": "round yellowish colored object",
+    "location": "Edinburg, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

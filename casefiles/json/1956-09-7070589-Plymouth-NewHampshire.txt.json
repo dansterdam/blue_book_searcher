@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A red object the size of a football was observed drifting erratically from side to side over Plymouth, New Hampshire on September 7, 1956.",
-    "interesting points": [
-        "The object was visually observed for 1 hour and 35 minutes.",
-        "The object appeared to 'wink out' and then reappear several times.",
-        "The object was at an elevation of approximately 22 degrees above the horizon to the east.",
-        "The witness reported that the object corresponded in color and location to the planet Mars, which was visible at the time.",
-        "The report includes telemetry data on wind speed and direction at various altitudes."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "One red object, size of a football",
-    "location": "Plymouth, New Hampshire",
-    "witnesses": "Ground observer, military personnel",
-    "photographs": "No photographs present in the report"
+    "main event": "A ground-sighted red object, the size of a football, was observed drifting erratically in Plymouth, New Hampshire.",
+    "interesting points": "The object was observed for a total of 1 hour and 35 minutes, moving several feet side to side,At times the object winked out and then reappeared several times,The sighting occurred at night with clear skies,There was speculation that the object was actually Mars,The object was described as bright red and having no unusual features.",
+    "sighted object": "one bright red object the size of a football",
+    "location": "Plymouth, New Hampshire, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "One officer on duty, a school teacher, and a housewife.",
+    "contains photographs": false
 }

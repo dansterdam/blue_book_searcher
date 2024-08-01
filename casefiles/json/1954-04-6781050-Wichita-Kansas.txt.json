@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sighting of several unidentified objects over Wichita, Kansas on April 3, 1954.",
-    "interesting points": [
-        "The objects were observed both visually and on radar, with one object periodically dropping back and then moving to resume its position in a V-formation.",
-        "The objects were described as having a reddish glow and moving at extremely high speeds, capable of stopping in midair and making sharp turns.",
-        "The objects were visible for 10-12 seconds before disappearing at a 35-degree angle and 350-degree azimuth.",
-        "The objects made no noise and left no visible contrail.",
-        "The report mentions a weather balloon that was visible in the sky at the time of the sighting, but states that the objects were different from the balloon."
-    ],
-    "result": "unexplained",
-    "sighted object": "several unidentified objects with a reddish glow",
-    "location": "Wichita, Kansas",
-    "witnesses": "civilian and military",
-    "photographs": "none"
+    "main event": "Several objects were sighted in Wichita, Kansas, showing unusual flight patterns and a bright red glow.",
+    "interesting points": "The objects were observed as being in a V formation,One object would periodically drop back and resume its position,The sighting lasted for 10-12 seconds, The objects made no noise and left no visible contrail, A separate RAF report confirmed that unidentified flying objects were investigated in Wichita around the same time.",
+    "sighted object": "several unidentified lights in the sky",
+    "location": "Wichita, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observed from a car",
+    "contains photographs": false
 }

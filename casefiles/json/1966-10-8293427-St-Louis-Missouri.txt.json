@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A farmer in Missouri reported seeing several unidentified lights and objects in the sky in 1966.",
-    "interesting points": [
-        "The report includes 35mm slides taken by the farmer's father-in-law, Mr. Schlitt, showing the objects.",
-        "The slides were analyzed by the Air Force, who suggested the objects could be the planet Jupiter or an aircraft landing light.",
-        "The report mentions that Scott Air Force Base detected a UFO on radar at the same time the slides were taken.",
-        "The report discusses the possibility of the objects being related to an aborted attempt at skywriting.",
-        "The analysis concluded that the objects were observed and photographed, but their exact identity could not be determined."
-    ],
-    "result": "inconclusive",
-    "sighted object": "Several unidentified lights and objects in the sky",
-    "location": "Clinton, Missouri",
-    "witnesses": "Mr. Schlitt, a farmer's father-in-law",
-    "photographs": "Yes, the report includes 35mm slides"
+    "main event": "A potential UFO sighting was reported in St. Louis, Missouri, on October 29, 1966.",
+    "interesting points": "Photographs taken during the sighting were classified as 35 mm slides, with varying exposure times ranging from 3 to 15 minutes,Scott AFB had UFOs on radar during the time of the sighting,The planetarium in St. Louis suggested that the sighted object was the planet Jupiter,One of the slides showed what appeared to be light sources in the sky,The analysis hinted at multiple objects traveling in similar directions, suggesting airport traffic.",
+    "sighted object": "unidentified flying objects captured in slides",
+    "location": "St. Louis, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Schlitt, who took the photographs",
+    "contains photographs": false
 }

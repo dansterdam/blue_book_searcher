@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed visually moving fast, heading northeast from the observer before being obscured by clouds. It was later identified as a star by multiple sources.",
-    "interesting points": [
-        "The UFO was observed by a civilian in Philadelphia, Pennsylvania in 1954.",
-        "The object appeared round, yellow-orange, and was observed by three individuals in formation.",
-        "A number of phone calls were made to the police, and the object was identified as a star, although it was noted to be lower than other star observations.",
-        "The sighting occurred at the Sears-Roebuck on Roosevelt Blvd in Philadelphia, PA.",
-        "The UFO was also observed and reported by a naval air station tower controller, who claimed to have never seen a similar object unless it was some top-secret military device."
-    ],
-    "result": "prosaic explanation - the UFO was identified as a star by multiple sources.",
-    "sighted object": "one UFO observed visually moving fast",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "civilian, naval air station tower controller, police department personnel",
-    "photographs": "no"
+    "main event": "A UFO was observed visually in Philadelphia, Pennsylvania on September 21, 1954.",
+    "interesting points": "The object was observed in formation with two other objects identified later as stars., Three observers reported seeing a round yellow-orange object for several minutes., The object was confirmed to be a star by police after multiple phone calls., The sighting occurred under clear conditions with no cloud cover., The object moved quickly heading northeast from the observer.",
+    "sighted object": "a round yellow-orange object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "observers noted the object's unique appearance compared to stars",
+    "contains photographs": false
 }

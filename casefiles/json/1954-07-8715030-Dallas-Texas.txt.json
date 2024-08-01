@@ -1,15 +1,9 @@
 {
-    "main event": "A round, dull rose-colored object was observed with high speed, 360-degree orbital motion over Dallas, Texas on July 12, 1954.",
-    "interesting points": [
-        "The object was observed by an Air Force-rated observer.",
-        "The weather conditions were clear with 15 knot winds aloft.",
-        "The observation lasted an unspecified amount of time.",
-        "The object exhibited high speed and a 360-degree orbital motion.",
-        "The report was classified as 'Unknown' after analysis."
-    ],
-    "result": "unknown",
-    "sighted object": "round, dull rose-colored object",
-    "location": "Dallas, Texas",
-    "witnesses": "Air Force-rated observer",
-    "photographs": "no"
+    "main event": "A round, dull rose colored object was observed at high speed in 360-degree orbit.",
+    "interesting points": "The sighting occurred at 11:50 PM local time on July 12, 1954., The object was observed from the ground in Dallas, Texas., The reliability of the observation was rated as an Air Force observer., Weather conditions were clear during the observation., The object was classified as unknown with no conclusive identification.",
+    "sighted object": "round dull rose color object",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "rated Air Force observer",
+    "contains photographs": true
 }

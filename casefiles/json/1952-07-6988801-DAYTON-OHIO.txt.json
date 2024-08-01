@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Pilots and radar observers of the 66th Fighter-Interceptor Squadron reported unusual radar returns that could not be identified with known aircraft in the Anchorage, Alaska area during July 1952.",
-    "interesting points": [
-        "The radar returns appeared to climb rapidly and then disappear off the radar scope.",
-        "The pilots and radar observers were unable to visually identify the objects despite good visibility conditions.",
-        "The radar sets were not operating at peak efficiency, but multiple observers reported the same type of unusual radar contacts.",
-        "The report indicates the radar returns were likely caused by some atmospheric condition or phenomenon specific to the Alaskan region.",
-        "No physical target or visual sighting was ever confirmed, leading to the conclusion that the radar contacts were caused by a non-physical phenomenon."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified radar returns",
-    "location": "Anchorage, Alaska",
-    "witnesses": "pilots and radar observers of the 66th Fighter-Interceptor Squadron",
-    "photographs": "no"
+    "main event": "Multiple radar returns and visual sightings by military personnel of unidentified flying objects over Anchorage, Alaska during July 1952.",
+    "interesting points": "Various radar observers and pilots from the 66th Fighter-Interceptor Squadron reported unusual radar returns on three occasions that could not be identified as known aircraft., On July 5, 1952, initial radar contact with an unidentified object was made at 20,000 yards, which climbed rapidly but was lost from sight., On July 21, 1952, a radar contact at 21,000 yards was established that disappeared before visual contact was made., The radar observers noted that at no time was visual contact established, suggesting high speeds and unusual maneuverability of the objects., Reports indicate that radar malfunctions were unlikely given multiple independent observations of similar radar contacts.",
+    "sighted object": "unidentified aerial objects",
+    "location": "Anchorage, Alaska, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "military pilots and radar observers",
+    "contains photographs": false
 }

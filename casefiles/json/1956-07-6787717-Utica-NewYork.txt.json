@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A round black object, approximately 20 yards in diameter, was sighted by personnel manning a Ground Observer Corps (GOC) post in Utica, New York on July 30, 1956.",
-    "interesting points": [
-        "The object was described as moving in a straight forward direction.",
-        "The object disappeared when a T-33 jet aircraft came into the vicinity.",
-        "A second jet aircraft was also reportedly in the area at the time of the sighting.",
-        "The report indicates the sighting was likely caused by a natural phenomenon related to cloudy skies.",
-        "The report does not contain any photographs of the observed object."
-    ],
-    "result": "probable natural phenomenon",
-    "sighted object": "a round black object approximately 20 yards in diameter",
-    "location": "Utica, New York",
-    "witnesses": "personnel manning a Ground Observer Corps (GOC) post",
-    "photographs": "no photographs included in the report"
+    "main event": "A sighting of a UFO was reported in Utica, New York on July 30, 1956.",
+    "interesting points": "The UFO was reported as round with a diameter of 20 yards and was black in color., The sighting was classified as a ground-visual observation., The conclusion indicated that the sighting was probably caused by a natural phenomenon related to cloudy skies., Personnel manning the GOC post reported that the flying object disappeared when a T/T jet aircraft came into the vicinity., The report was taken from the 4585th Installation Squadron at Wright-Patterson AFB, Ohio.",
+    "sighted object": "one round black object",
+    "location": "Utica, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Personnel manning the GOC post",
+    "contains photographs": false
 }

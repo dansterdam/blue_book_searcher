@@ -1,15 +1,9 @@
 {
-    "main event": "Two civilians reported a UFO sighting in Toronto, Canada on 20 September 1947, but the incident has been determined to be a hoax.",
-    "interesting points": [
-        "The sighting involved a yellow ball-shaped object observed by two civilians in Toronto, Canada.",
-        "The report comes from Project Blue Book, a series of systematic studies of UFOs conducted by the United States Air Force.",
-        "The incident is marked as 'Proved to be a hoax' on the debriefing form, indicating that the reported UFO sighting was not genuine.",
-        "The document is marked as 'UNCLASSIFIED', suggesting that the information is not sensitive or classified.",
-        "No photographs or sketches are included in the report, indicating a lack of visual evidence for the UFO sighting."
-    ],
-    "result": "prosaic explanation - hoax",
-    "sighted object": "yellow ball-shaped UFO",
-    "location": "Toronto, Canada",
-    "witnesses": "two civilians",
-    "photographs": "no"
+    "main event": "Two civilians reported seeing a yellow ball-shaped object in Toronto, Canada.",
+    "interesting points": "The incident was filed under Project Blue Book as Incident #8,The object was reported to be yellow and ball-shaped,A total of one object was observed,The report states that the incident has been determined to be a hoax,No photographs or sketches are attached to the report.",
+    "sighted object": "yellow ball-shaped object",
+    "location": "Toronto, Ontario, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians",
+    "contains photographs": false
 }

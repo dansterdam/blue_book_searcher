@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple Air Force navigators observed an unidentified orange-white object with erratic movements over Houston, Texas on May 20, 1952.",
-    "interesting points": [
-        "The object was first spotted at a 45-degree elevation, moved to a 180-degree bearing, and made a turn.",
-        "The object exhibited erratic side-to-side movements while maintaining a straight course.",
-        "The sighting lasted for approximately 90 seconds.",
-        "The Air Force navigators were conducting practice when they noticed the object.",
-        "The weather was clear at the time of the sighting."
-    ],
-    "result": "Possibly a Balloon",
-    "sighted object": "An orange-white unidentified object",
-    "location": "Houston, Texas",
-    "witnesses": "3 Air Force navigators",
-    "photographs": "No"
+    "main event": "Observers, including 3 Air Force Navigators, witnessed an unidentified object approaching from a 45° angle at 360° and maneuvering erratically.",
+    "interesting points": "The sighting lasted for 90 seconds,The object displayed erratic side-to-side movements while maintaining a straight course,The observers were conducting practice exercises when they noticed the object,The weather conditions during the sighting were clear,The object was described as orange-white in color.",
+    "sighted object": "an unidentified flying object",
+    "location": "Houston, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Air Force Navigators from Ellington Air Force Base",
+    "contains photographs": false
 }

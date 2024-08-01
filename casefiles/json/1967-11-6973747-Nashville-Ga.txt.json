@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Nashville, Georgia reported an unknown object on November 6 (year unknown).",
-    "interesting points": [
-        "The duration of the observation is unknown.",
-        "The type of observation is unknown.",
-        "The course of the object is unknown.",
-        "No description of the object is provided in the report.",
-        "The observer was sent an AF Form 117 to complete for further investigation."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "A civilian reported an unidentified flying object sighting in Nashville, Georgia in November 1967.",
+    "interesting points": "The report concluded that there was insufficient data for evaluation., There was no description of the object given., The duration of the observation was unknown., The number of objects sighted was not specified., The observer was instructed to complete an additional form for further investigation.",
     "sighted object": "unknown",
-    "location": "Nashville, Georgia",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Nashville, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

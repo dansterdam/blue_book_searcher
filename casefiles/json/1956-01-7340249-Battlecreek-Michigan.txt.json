@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round reddish white object was sighted flying in a straight, level flight over Battlecreek, Michigan on January 8, 1956.",
-    "interesting points": [
-        "The object was sighted at an elevation of 40 degrees and an azimuth of 150 degrees.",
-        "The sighting lasted for 20 minutes.",
-        "The report states that the object could have been a balloon, but no direction of movement was reported.",
-        "The case was listed as having insufficient data for evaluation.",
-        "Three aircraft were reported to be in the area flying east at the time of the sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a round reddish white object",
-    "location": "Battlecreek, Michigan",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A round reddish white object was sighted flying in straight level flight in Battlecreek, Michigan on 8 January 1956.",
+    "interesting points": "The sighting lasted for about 20 minutes., The object was observed at 40° elevation and 150° azimuth., It moved in a southeast direction., Two military aircraft were reported in the area at the time., The case was classified as insufficient data for evaluation.",
+    "sighted object": "one round reddish white object in the sky",
+    "location": "Battlecreek, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian source",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A possible unidentified aerial object was photographed at Itazuke AFB in Japan on December 17, 1956.",
-    "interesting points": [
-        "The image appears to be a cover sheet or title page for a Project Blue Book document, indicating the document may contain more information about the sighting.",
-        "The text states that the file contains 1 photo, but the provided image does not appear to contain a photograph, only a blurry shape in the center.",
-        "Project Blue Book was a United States Air Force program to investigate unidentified flying objects, suggesting this case was part of their investigations.",
-        "The sighting occurred at Itazuke AFB in Japan, which was an active military installation at the time.",
-        "The lack of visible text or content in the image provided suggests the report may contain additional details not included in the summary."
-    ],
-    "result": "unexplained",
-    "sighted object": "a blurry, unidentified shape in the image",
-    "location": "Itazuke AFB, Japan",
-    "witnesses": "unknown",
-    "photographs": "1 photograph referenced in the report, but not provided in the image"
+    "main event": "A document related to Project Blue Book from Itazuke AFB, Japan, dated December 17, 1956.",
+    "interesting points": "The document is titled 'File 4567',The image contains a dark, blurry shape that may represent a UFO,There is no visible content or text in the image apart from the initial details,The report is part of the United States Air Force's investigation into unidentified flying objects,The document indicates there is one photograph associated with the file.",
+    "sighted object": "dark, blurry shape (possible UFO)",
+    "location": "Itazuke, Japan",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses provided in the document",
+    "contains photographs": false
 }

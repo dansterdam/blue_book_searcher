@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Military and civilian personnel observed a luminous object traveling at high speed, changing color from white to orange, over Tyndall AFB, Florida and New Orleans, Louisiana.",
-    "interesting points": [
-        "The object was reportedly the size of a basketball and traveling at an estimated speed of 500 mph or greater.",
-        "The object was observed in the sky for approximately 3 minutes before disappearing.",
-        "The object appeared to be out of the range of ordinary aircraft and was moving at a rate of speed far in excess of any known aircraft.",
-        "The object was observed at Tyndall AFB, Florida and New Orleans, Louisiana at approximately the same time.",
-        "The object appeared to be illuminated and moving at a very high rate of speed in a very narrow path across the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a luminous object, the size of a basketball",
-    "location": "Tyndall AFB, Florida and New Orleans, Louisiana",
-    "witnesses": "Military and civilian personnel",
-    "photographs": "no"
+    "main event": "Military and civilian personnel observed a luminous object traveling at high speed, changing color from white to orange, at Tyndall AFB, Florida and New Orleans, Louisiana on November 8, 1960.",
+    "interesting points": "The object was described as being the size of a basketball and traveling at an estimated speed of 500 mph or greater., The sighting lasted for approximately 30 minutes., The object was visible for about 3 minutes before disappearing., The observers noted the object was moving in a very narrow path and was illuminated for just a few seconds., The sighting was reported by both military and civilian personnel at the same time in two different locations.",
+    "sighted object": "luminous object changing color from white to orange",
+    "location": "New Orleans, Louisiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military and civilian personnel",
+    "contains photographs": false
 }

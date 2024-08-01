@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a red, green and white object with windows jumping around in the sky over Cleveland, Ohio on September 4, 1965.",
-    "interesting points": [
-        "The object was evaluated as an 'advertising light', pending additional data.",
-        "The report includes four hand-drawn sketches of unidentified objects or objects in flight.",
-        "The witness described the object as a 'beautiful diamond shaped brilliant light with a tail, very much like a comet but diamond or elongated shaped brilliantly lit and moving fast traversing the sky to the east momentarily with a hazy tail or hazy shimmering light behind it.'",
-        "The witness was able to estimate the distance to the object as 150-200 feet away.",
-        "The witness reported that the object moved in front of some clouds during the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "red, green and white object with windows",
-    "location": "Cleveland, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian witnessed a red, green, and white object with windows moving quickly in the sky on September 4, 1965.",
+    "interesting points": "The object was observed for 33 minutes,The witness reported the object jumping around in the sky,The object was evaluated as possibly being an advertising light,The report indicated that the object was small and circular, and emitted no sound during its observation.",
+    "sighted object": "a red, green, and white object with windows",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

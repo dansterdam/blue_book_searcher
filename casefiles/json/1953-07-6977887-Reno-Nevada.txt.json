@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported in Reno, Nevada on 3rd July 1953. The observed object was a bright, metallic, white circular shape, approximately 30-50 feet in diameter, and made subtle movements in the sky for multiple hours.",
-  "interesting points": [
-    "The object was sighted for approximately 2-3 minutes and appeared to move at a high rate of speed, making a slight whirring sound, and oscillating in an up and down motion.",
-    "The witnesses include a professor of geology from the University of Nevada and a person who had spent twelve years in Air Line work as a Meteorologist and Radio Communications.",
-    "Efforts were made to report the sighting to authorities including the Air Force, Nevada State Police Headquarters, and the FBI, but received minimal interest or non-commital responses.",
-    "The sighting was designated as 'astronomical (Venus)' by Project Blue Book's contract astronomers, despite the detailed observations and efforts made by the witnesses to report the unidentified flying object.",
-    "US Air Force Technical Information Sheets and questionnaires were used to collect witness reports and details about the UFO sighting."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "bright, metallic, white circular shape",
-  "location": "Reno, Nevada",
-  "witnesses": "a professor of geology from the University of Nevada, a person with experience in Air Line work as a Meteorologist and Radio Communications, and their family members",
-  "photographs": "no"
+    "main event": "On July 3, 1953, an unidentified object was observed in Reno, Nevada, which was later determined to be the planet Venus.",
+    "interesting points": "The object was initially described as a bright metallic object approximately 30 to 40 feet in diameter., Two witnesses observed the object, which appeared stationary at times and moved in a high oscillating manner., The object was observed for nearly two hours and did not resemble any conventional aircraft., Witnesses initially speculated it could be a weather balloon but noted it did not behave like one., Extensive reporting efforts to the Air Force were met with minimal interest at first despite prolonged visibility of the object.",
+    "sighted object": "unidentified flying object (initially perceived as a metallic craft, later confirmed as Venus)",
+    "location": "Reno, Nevada, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two civilians, including a professor of geology",
+    "contains photographs": false
 }

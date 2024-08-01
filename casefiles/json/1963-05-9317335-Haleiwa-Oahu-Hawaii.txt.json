@@ -1,15 +1,9 @@
 {
-    "main event": "A military observer reported seeing one object at a very high altitude traveling in a westerly direction and leaving a bluish vapor trail.",
-    "interesting points": [
-        "The object was observed to be taking a zig-zag course.",
-        "The duration of the observation was not reported.",
-        "The manner of the object's disappearance was not described.",
-        "The case was classified as 'insufficient data' due to the limited information provided.",
-        "The report was a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report."
-    ],
-    "result": "unknown",
-    "sighted object": "one unidentified high-altitude object",
-    "location": "21°40' N, 158°05' W, Oahu, Hawaii",
-    "witnesses": "military observer",
-    "photographs": "none"
+    "main event": "One object was observed at a very high altitude on a westerly course, leaving a bluish vapor trail.",
+    "interesting points": "The sighting was reported by a military observer., The object traveled in a zigzag pattern., The altitude of the object was described as very high., There is speculation that the object could be a missile, but no confirmation is available., The case was classified as insufficient data due to limited information.",
+    "sighted object": "one unidentified object",
+    "location": "21DEG 40MIN NORTH, 158DEG 05MIN WEST",
+    "number of confirmed witnesses": 1,
+    "witness description": "Sergeant Floyd Foster, Haleiwa, Oahu, Hawaii",
+    "contains photographs": false
 }

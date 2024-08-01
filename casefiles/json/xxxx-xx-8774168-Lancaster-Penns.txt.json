@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An unidentified yellow light was observed over Lancaster, Pennsylvania on June 8, 1952. The object appeared to be stationary at first, then suddenly accelerated and maneuvered, disappearing from sight.",
-    "interesting points": [
-        "A second orange-colored object was also observed to move erratically across the heavens during the same incident.",
-        "The sighting was witnessed by the observer, his son, and members of the Ground Observer Corps.",
-        "The weather at the time was clear with 4 mile visibility and calm winds.",
-        "The report could not provide a definite explanation for the sighting, suggesting it may have been an exceptionally bright star or a weather balloon.",
-        "The estimated altitude of the yellow light was 500 feet and it was observed for around 30 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "yellow light, orange-colored object",
-    "location": "Lancaster, Pennsylvania",
-    "witnesses": "John H. Spizziri, his son, and members of the Ground Observer Corps",
-    "photographs": "no"
+    "main event": "John H. Spizziri reported seeing an unidentified flying object over Lancaster, Pennsylvania, on June 8, 1952.",
+    "interesting points": "The object was initially observed as a stationary yellow light before it suddenly accelerated and maneuvered, disappearing from view,Another orange-colored object was also observed moving erratically during the sighting,Mr. Spizziri's son and other members of the Ground Observer Corps were witnesses,The weather conditions were clear with four-mile visibility and calm winds,The observation lasted for about 30 minutes.",
+    "sighted object": "a yellow light and an orange-colored object in the sky",
+    "location": "Lancaster, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "John H. Spizziri, a Civilian observer, and his son",
+    "contains photographs": false
 }

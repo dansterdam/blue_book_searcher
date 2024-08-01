@@ -1,17 +1,9 @@
-Here is the summary in JSON format based on the provided text:
-
 {
-    "main event": "The report does not contain a specific main event. It appears to be a collection of various UFO sightings and evaluations extracted from Project Grudge and Project Blue Book reports.",
-    "interesting points": [
-        "The reports include numerous UFO sightings categorized as having high, fair, or low astronomical probability, as well as those suggestive of other explanations like balloons, aircraft, or miscellaneous causes.",
-        "Some sightings are described as having no evident explanation, with either a lack of evidence or insufficient data to provide a conclusion.",
-        "Several reports mention details like the objects' appearance, size, speed, movement, and lack of sound or exhaust trails.",
-        "One report mentions a visual and radar contact with an unidentified object of unknown origin.",
-        "The document appears to be a summary or index of UFO incidents investigated by the U.S. Air Force's Project Blue Book program."
-    ],
-    "result": "inconclusive",
-    "sighted object": "Various unidentified flying objects, including lights, round/metallic objects, and other anomalous phenomena",
-    "location": "Multiple locations across the United States, including Fairfield-Suisun Air Base, California, and Bakersfield, California",
-    "witnesses": "Military personnel, civilian observers, and air traffic control personnel",
-    "photographs": "No photographs were provided in the documents"
+    "main event": "Multiple unidentified flying object incidents reported in various locations, primarily evaluated under Project Blue Book and Project Grudge.",
+    "interesting points": "Dr. Hynek's evaluations provided a systematic classification of sightings, distinguishing between astronomical and non-astronomical explanations,Incident #41 involved a sighting in Anchorage, Alaska with no clear explanation except possible balloon,One notable sighting described a large, round, deep orange object observed by several people in Bakersfield, California,The object was reported to fade from visibility over a few minutes and was not the moon,Several reports indicated similar characteristics of sightings across different states including California and Massachusetts.",
+    "sighted object": "unidentified flying objects, described as large and round objects, some emitting bright lights or appearing metallic",
+    "location": "Bakersfield, California, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Several civilians, including radio communicators and CAA weather station personnel",
+    "contains photographs": false
 }

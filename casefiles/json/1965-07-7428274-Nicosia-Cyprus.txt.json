@@ -1,15 +1,9 @@
 {
-    "main event": "A cigar-shaped UFO was observed by multiple military personnel in Cyprus on July 6, 1965.",
-    "interesting points": [
-        "The object was observed simultaneously from three different locations on the island of Cyprus.",
-        "The object was estimated to be at an altitude of 159,000 feet.",
-        "The object's speed was estimated to be around 45 knots.",
-        "The object appeared to be circular from underneath and cone-shaped from the side.",
-        "The object was estimated to be approximately the same size as a 3,000-ton ship."
-    ],
-    "result": "Unidentified",
-    "sighted object": "Cigar-shaped UFO",
+    "main event": "A cigar-shaped UFO was observed by a Cypriot Air Force pilot near Nicosia, Cyprus, on July 6, 1965.",
+    "interesting points": "The object was observed at an altitude estimated to be 159,000 feet and at a speed of approximately 45 knots., The UFO had a circular shape from underneath and an inverted cone shape from the side., The sighting was recorded from three different locations in Cyprus., The pilot's visual estimation placed the object's height at 35,000 feet., The size of the UFO was estimated to be approximately the same as a 3000-ton ship.",
+    "sighted object": "cigar-shaped UFO",
     "location": "Nicosia, Cyprus",
-    "witnesses": "Military personnel",
-    "photographs": "No"
+    "number of confirmed witnesses": 1,
+    "witness description": "Cypriot Air Force pilot",
+    "contains photographs": false
 }

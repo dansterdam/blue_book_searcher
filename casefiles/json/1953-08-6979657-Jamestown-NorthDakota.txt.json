@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness sighted a red and white object with an unusual tail that moved at high speed and disappeared.",
-    "interesting points": [
-        "The object had a rather long straight tail that came on the right almost instantaneously.",
-        "The witness thought it might be an airplane at first, but decided it could not be an airplane due to its unusual tail and very high speed.",
-        "The witness observed the object for a few minutes and was greatly surprised by its behavior.",
-        "The witness had the feeling that they were watching something out of the ordinary.",
-        "The object suddenly started to move rapidly and disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red and white object with an unusual tail",
-    "location": "Jamestown, North Dakota",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "A light was observed in the night sky for approximately 2 minutes in Jamestown, North Dakota on August 26, 2023.",
+    "interesting points": "The object was described as a light in the night sky with no further details provided by the observer.,The object was visually observed for a duration of 2 minutes.,No physical evidence was found regarding the object.,The investigation concluded that the phenomena could not be satisfactorily explained by the observer or investigating officer.,The report was part of the Project Blue Book investigation into unidentified flying objects.",
+    "sighted object": "a light in the night sky",
+    "location": "Jamestown, North Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An unidentified observer who reported seeing the object.",
+    "contains photographs": false
 }

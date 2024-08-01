@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An American Airlines pilot spotted a large, fast-moving object near Las Vegas, Nevada on March 9, 1955.",
-    "interesting points": [
-        "The object changed course and moved at high speed, then disappeared rapidly.",
-        "The pilot said visibility was poor at the time.",
-        "The object was estimated to be about 15-20 miles away from the pilot's plane.",
-        "The sighting was reported to the Air Force and investigated as part of Project Blue Book.",
-        "The conclusions on the report cards were inconclusive, listing possibilities such as a balloon, aircraft, or astronomical object."
-    ],
-    "result": "unknown",
-    "sighted object": "a large, fast-moving object with no contrails",
-    "location": "Las Vegas, Nevada",
-    "witnesses": "an American Airlines pilot",
-    "photographs": "no photographs available"
+    "main event": "An American Airlines pilot observed a large aerial object approaching Las Vegas, Nevada, on March 9, 1955.",
+    "interesting points": "The object was reported to have no contrails and changed course while moving at high speed., Visibility was poor during the observation., The pilot estimated the distance from the plane to the object was approximately 15-20 miles., The sighting lasted for about 30 minutes., The report concludes there was insufficient data to definitively identify the object.",
+    "sighted object": "a large aerial object",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "American Airlines pilot",
+    "contains photographs": false
 }

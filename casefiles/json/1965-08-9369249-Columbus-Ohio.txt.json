@@ -1,15 +1,9 @@
 {
-    "main event": "Civilian witness observed a single stationary object in the night sky over Columbus, Ohio for approximately 4 hours from August 17-20, 1965.",
-    "interesting points": [
-        "The object appeared to be about the size of a star and was observed moving in a southward direction, contrary to the motion of stars and planets.",
-        "The object's brightness varied, shifting between bright and dim, and also displayed changing colors.",
-        "The witness reported the object to the Air Force but did not make any effort to get a closer look, as the object was estimated to be about 150 feet away.",
-        "The Air Force concluded that the observation was inaccurate or illusory, likely due to the object's characteristics and motion not matching that of known celestial bodies.",
-        "The sighting occurred during the early morning hours, from midnight to 4 AM, on clear nights only."
-    ],
-    "result": "Astro (STARS/PLANETS) V",
-    "sighted object": "A single bright, dim, and color-shifting object in the night sky",
-    "location": "Columbus, Ohio",
-    "witnesses": "Civilian witness",
-    "photographs": "No"
+    "main event": "A civilian reported a sighting of a single unidentified object over Columbus, Ohio, on August 17-20, 1965.",
+    "interesting points": "The sighting lasted for about 4 hours between midnight and 4 A.M.,The object was described as small, about the size of a star but appeared stationary and sometimes rushed away,The object exhibited bright-dim shifting colors and moved contrary to known star or planet motion,The witness estimated the object was about 150 feet away,The report was submitted to the Air Force, but the witness did not attempt to investigate further.",
+    "sighted object": "one unidentified object",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian, John Boyd, age 11, male",
+    "contains photographs": false
 }

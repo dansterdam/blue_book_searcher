@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "Visual observation of an unidentified aerial object from an air-ground radar station.",
-    "interesting points": [
-        "The object was observed visually and on ground radar to the South-Southwest at an elevation of approximately 30 degrees.",
-        "The object moved with intermittent bursts of speed over approximately 3 minutes, alternately appearing on ground radar and visually.",
-        "The object eventually disappeared from view and radar.",
-        "There was a possibility that the sighting could have been of an aircraft.",
-        "The sighting occurred in May 1962 in East Orange, New Jersey."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified aerial object",
-    "location": "East Orange, New Jersey",
-    "witnesses": "air-ground radar station personnel",
-    "photographs": "no"
+    "main event": "A visual observation of an unidentified flying object was reported on March 18, 1962, at approximately 12:30 AM from East Orange, New Jersey.",
+    "interesting points": "The object was observed visually and on ground radar,The object moved with intermittent bursts of speed over approximately 3 minutes,The object disappeared from both visual and radar observation,There were originally 4 objects observed, and then a 5th one appeared later in the same direction,The observer described the object's light as brighter than the brightest stars.",
+    "sighted object": "an unidentified flying object exhibiting rapid movement",
+    "location": "East Orange, New Jersey, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "a 10-year-old male from East Orange, NJ",
+    "contains photographs": false
 }

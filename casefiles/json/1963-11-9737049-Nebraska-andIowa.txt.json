@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "Multiple aircraft reported seeing a bright light moving from south to north at high altitude over Nebraska and Iowa on November 5, 1963.",
-    "interesting points": [
-        "The object was reported to change from bright to dim and back to bright.",
-        "The object was observed by multiple commercial and military aircraft at various locations and altitudes.",
-        "The object was reported to be moving rapidly from south to north, except for one report of it moving north to south.",
-        "The sightings lasted between 10-25 seconds.",
-        "There were no reports of ground observations, likely due to cloud cover in the area."
-    ],
-    "result": "unknown/unidentified",
-    "sighted object": "bright light/object moving at high altitude",
-    "location": "Nebraska and Iowa",
-    "witnesses": "Pilots of United Airlines flight 593, Northwest Airlines flight 909, TWA flight 58, and military flights 2.3 and SPELL 25",
-    "photographs": "none"
+    "main event": "Multiple aircraft reported sightings of unidentified lights in the sky on November 5, 1963, over Nebraska and Iowa.",
+    "interesting points": "The objects changed brightness from bright to dim and back,Objects were moving at varying speeds to the southeast and northwest, Aircraft pilots reported seeing the lights for up to 25 seconds, Observers noted a stationary object as well as objects moving rapidly across the sky, The sighting involved multiple commercial and military flights in the vicinity.",
+    "sighted object": "Unidentified lights in the sky",
+    "location": "Nebraska & Iowa, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Pilots from various commercial and military flights",
+    "contains photographs": false
 }

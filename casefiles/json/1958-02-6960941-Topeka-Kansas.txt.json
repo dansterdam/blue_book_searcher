@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A suspicious object was spotted falling straight down over Topeka, Kansas on February 19, 1953.",
-    "interesting points": [
-        "The object was described as a comet-like falling object with an orange flame and tail four times the diameter of the object.",
-        "The object appeared to disintegrate as it fell straight down at a very high speed.",
-        "A civilian observer reported seeing the object for 15 seconds while driving, stating it appeared to be falling straight down.",
-        "No known aircraft were reported in the area at the time, and no possible cause for the sighting could be determined.",
-        "The Smithsonian Astrophysical Observatory was investigating the sighting, noting it did not seem to match any known satellites or predicted objects."
-    ],
-    "result": "unknown",
-    "sighted object": "comet-like falling object with orange flame and tail",
-    "location": "Topeka, Kansas",
-    "witnesses": "civilian observer, military personnel",
-    "photographs": "no"
+    "main event": "A UFO was observed falling straight down in Topeka, Kansas on February 19, 1953.",
+    "interesting points": "The object was reported to have a comet-like appearance with an orange flame and a tail four times the diameter of the object., The object appeared to disintegrate and was observed for about 3 minutes., The sighting was reported by a civilian driving in a car., No aircraft were reported in the area at the time of the sighting., There is speculation that the object could have been an accidental drifting satellite or weather balloon.",
+    "sighted object": "comet-like falling object with orange flame",
+    "location": "Topeka, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer driving a car",
+    "contains photographs": false
 }

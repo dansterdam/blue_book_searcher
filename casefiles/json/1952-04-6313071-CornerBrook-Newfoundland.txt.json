@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified aerial object was observed over Corner Brook, Newfoundland on April 15, 1952.",
-    "interesting points": [
-        "The object was a yellowish gold color and round in shape, approximately the size of a manhole cover.",
-        "The object traveled at a high rate of speed and made rapid, sharp turns in its climb.",
-        "The object seemed to disappear over the hills at the same height as it was traveling.",
-        "Two other witnesses, in addition to the newspaper reporter, confirmed the sighting and description of the object.",
-        "The newspaper reporter had previously published an article debunking UFO sightings, but then witnessed this unexplained aerial phenomenon."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, yellowish gold object",
-    "location": "Corner Brook, Newfoundland",
-    "witnesses": "a newspaper reporter and two other witnesses",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An unidentified aerial object was observed on 15 April 1952 in Corner Brook, Newfoundland, making a 180-degree turn and disappearing after being tracked for some time.",
+    "interesting points": "The object was described as having a yellowish gold color and being round in shape., The observation was made by a newspaper reporter and other witnesses confirmed the sighting., The object was seen at a high rate of speed and made rapid turns., The reported length of observation was about 1/2 minute at a time., The source had just published an article debunking such sightings the day before.",
+    "sighted object": "unidentified aerial object",
+    "location": "Corner Brook, Newfoundland, CA",
+    "number of confirmed witnesses": 3,
+    "witness description": "newspaper reporter and two other men",
+    "contains photographs": false
 }

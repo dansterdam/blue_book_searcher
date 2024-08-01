@@ -1,17 +1,9 @@
-Here is a summary of the UFO report in JSON format:
-
 {
-    "main event": "Two ball-shaped, barrel and white objects with blue undersides were reported moving north over FE Warren AFB, Wyoming on August 21, 1965.",
-    "interesting points": [
-        "The objects were estimated to be at an altitude of 5,000 feet and a distance of 5 miles.",
-        "There were 5 military witnesses who reported the sighting.",
-        "The report indicates that previous sightings in the area had usually been attributed to astronomical objects.",
-        "The duration of the sighting was not reported, and some information was noted as missing.",
-        "The objects were described as moving at a high speed, stopping abruptly, and making right angle turns."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "two ball-shaped, barrel and white objects with blue undersides",
-    "location": "FE Warren AFB, Wyoming",
-    "witnesses": "5 military personnel",
-    "photographs": "no"
+    "main event": "A UFO sighting involving two ball-shaped white objects with blue undersides was reported at FE Warren AFB, Wyoming on August 21, 1965.",
+    "interesting points": "The objects were observed moving to the North at an estimated altitude of 5,000 feet,The sighting involved 5 confirmed military witnesses,Reports from the area during that month attributed sightings to astronautical objects,The conclusion of the report mentioned insufficient data for evaluation,No photographs or physical evidence were included in the report.",
+    "sighted object": "two ball-shaped white objects with blue undersides",
+    "location": "FE Warren AFB, Wyoming, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "military personnel on duty at the airbase",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A round, orange object was spotted traveling at 600 knots over Hubbard, Ohio on May 27, 1958.",
-    "interesting points": [
-        "The object exhibited a constant light with no flashing or pulsating.",
-        "The object moved in a southeasterly to northwesterly direction at an altitude of 5,000 feet.",
-        "The observer was unable to provide many details about the object, as several key details were unknown or unobserved.",
-        "The report indicates the object was possibly a balloon or an aircraft.",
-        "The sighting was reported to multiple military commands, including the Air Defense Command and the Air Technical Intelligence Center."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a round, orange object",
-    "location": "Hubbard, Ohio",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "An unidentified object was sighted traveling at 600 knots at an altitude of 5000 ft over Hubbard, Ohio on May 26, 1958.",
+    "interesting points": "The object was described as round and orange., It emitted a constant light with no flashing or pulsating., The direction of movement was from southeast to northwest., The observer indicated the object resembled a typical jet aircraft., The details about the sighting were largely unknown or unobserved.",
+    "sighted object": "one round orange object",
+    "location": "Hubbard, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown details from the observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Hilo, Hawaii observed an unidentified object in the sky that was spinning and streaking with lights.",
-    "interesting points": [
-        "The object was estimated to be up to 4/4's the apparent size of a house and at an altitude of about 10 feet above the ocean.",
-        "The object suddenly disappeared from view as if a switch had been turned off.",
-        "The object had an illuminated cross shape, with the cross piece appearing medium thin and of equal length.",
-        "The object had 5 lights on each arm of the cross, with the top appearing to be made of parachute material and having an orange and white stripe light located below.",
-        "The object's lights appeared to be stall and the top appeared to be unstable, wobbling from side to side."
-    ],
-    "result": "unexplained",
-    "sighted object": "an illuminated cross-shaped object with spinning lights",
-    "location": "Hilo, Hawaii",
-    "witnesses": "a tower operator and a weather observer",
-    "photographs": "no"
+    "main event": "A witness observed an unidentified object in the sky above Hilo, Hawaii, that was spinning and streaking with lights.",
+    "interesting points": "The object appeared to be the size of a house and was estimated to be 10 feet above the ocean.,The object disappeared suddenly, as if a switch was turned off.,The report details multiple possible explanations for the sighting, including a plastic bag balloon and plasma of ionized air.,The observation was made visually and with binoculars.,The sighting lasted approximately 1 minute.",
+    "sighted object": "unidentified spinning object with lights",
+    "location": "Hilo, Hawaii, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian tower operator and civilian weather observer, both with good reliability.",
+    "contains photographs": false
 }

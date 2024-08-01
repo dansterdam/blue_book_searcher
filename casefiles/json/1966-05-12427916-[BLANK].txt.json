@@ -1,15 +1,9 @@
 {
-    "main event": "The image contains a graph titled 'FIGURE 1 UFO Sightings by Year' showing the number of total UFO sightings and number of UFO's explained from 1947 to 1965.",
-    "interesting points": [
-        "The report includes historical information on UFO sightings prior to the 'modern era' starting in 1947, with peaks of activity in the 1880s-1890s, 1897, 1906, and 1909.",
-        "The report discusses the Air Force's efforts to investigate and categorize UFO sightings, including establishing Project Sign, Project Grudge, and Project Blue Book.",
-        "The report outlines the Air Force's procedures for investigating and reporting UFO sightings, including the use of consultants and specialists in various fields.",
-        "The report mentions that despite thousands of hours of astronomical observation and photographic coverage, 'not a single unidentified object has been reported as appearing on any of these plates or been sighted visually in all these observations'.",
-        "The report discusses public interest and reactions to UFO sightings, including the efforts of civilian UFO organizations to collect and publish information on the topic."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unidentified flying objects",
-    "location": "United States",
-    "witnesses": "various civilian and military observers",
-    "photographs": "not present in this document"
+    "main event": "A report from Project Blue Book details the investigation and analysis of unidentified flying objects (UFOs) by the U.S. Air Force between 1947 and 1966, highlighting the public's interest and the categorization of various sightings.",
+    "interesting points": "The report includes a graph titled 'UFO Sightings by Year' showing trends from 1947 to 1965,It mentions 701 sightings recorded between October and December of a specific year,Historical UFO sightings date back prior to 1947 and have been documented in ancient manuscripts and newspapers,The document outlines procedures for evaluating UFO sightings and categorizing them as 'Insufficient Data' or 'Unidentified',An independent study in 1953 concluded that UFOs do not pose a threat to national security and have not been proven to exist as extraterrestrial vehicles.",
+    "sighted object": "Unidentified Flying Objects (UFOs)",
+    "location": "Washington, D.C., USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The document summarizes various sightings and investigations without citing specific witnesses.",
+    "contains photographs": false
 }

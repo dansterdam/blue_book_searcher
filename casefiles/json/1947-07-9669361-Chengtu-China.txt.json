@@ -1,15 +1,9 @@
 {
-  "main event": "An object fell from the sky in Chengtu, China in 1947. It was silver in color, rectangular in shape, and had English inscriptions on it. The object was 10 inches in length, about five inches in width, and approximately one inch thick. It contained four small batteries and two radio transmitter tubes, along with a piece of white paper on the bottom.",
-  "interesting points": [
-    "The sighting was reported by S. Elliott of the 5th Air Force Weather",
-    "The object had English inscriptions, indicating a possible human origin",
-    "The presence of batteries and radio transmitter tubes raises questions about the object's purpose",
-    "The specific dimensions of the object were provided, adding detail to the report",
-    "The lack of photographs despite the object being described in detail"
-  ],
-  "result": "unexplained",
-  "sighted object": "silver, rectangular object with English inscriptions",
-  "location": "Chengtu, China",
-  "witnesses": "S. Elliott of the 5th Air Force Weather",
-  "photographs": "no"
+    "main event": "An object fell from the sky in Chengtu, China.",
+    "interesting points": "The object was silver in color and rectangular in shape.,It measured 10 inches in length, 5 inches in width, and 1 inch in thickness.,There was a piece of white paper on the bottom of the object.,Inside the object, there were four small batteries and two radio transmitter tubes.,The object had English inscriptions.",
+    "sighted object": "a silver rectangular object",
+    "location": "Chengtu, China",
+    "number of confirmed witnesses": 1,
+    "witness description": "S. Elliott from the 5th Air Force Weather",
+    "contains photographs": false
 }

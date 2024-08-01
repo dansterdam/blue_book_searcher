@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A 11 1/2 year old girl spotted a light, about as bright as a light bulb, flashing and disappearing behind buildings in Bloomsburg, Pennsylvania on July 4, 1965.",
-    "interesting points": [
-        "The light had edges like a bright star and was flashing.",
-        "The light traveled in a straight flight from east to west at about 60 degrees elevation.",
-        "The light was oval in shape.",
-        "There was no sound associated with the object.",
-        "The sighting lasted for about 5 minutes."
-    ],
-    "result": "AIRCRAFT",
-    "sighted object": "a bright flashing light",
-    "location": "Bloomsburg, Pennsylvania",
-    "witnesses": "11 1/2 year old girl",
-    "photographs": "no"
+    "main event": "An 11 1/2 year old girl observed an unidentified flying object that was oval in shape and emitted a flashing light in the sky over Bloomsburg, Pennsylvania on July 4, 1965.",
+    "interesting points": "The object was described as being about as bright as a light bulb and flashed like a star., The object was observed for about 5 minutes., The course of the object was a straight flight from East to West at an altitude of about 60 degrees., The apparent speed of the object was estimated at around 50,000 miles per hour., The conclusion drawn was that the object was an aircraft, although there was no physical evidence to confirm this.",
+    "sighted object": "flashing light in the sky",
+    "location": "Bloomsburg, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "11 1/2 year old girl",
+    "contains photographs": false
 }

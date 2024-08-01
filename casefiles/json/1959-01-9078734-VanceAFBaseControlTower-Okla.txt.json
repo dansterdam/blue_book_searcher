@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed from the control tower and an aircraft at Vance AFB, Oklahoma on January 5, 1959.",
-    "interesting points": [
-        "The object was described as being silver in color, changing to red, orange, blue, and green, and having a bright light.",
-        "The object appeared to be stationary and grow smaller in size.",
-        "The sighting lasted for about 10 minutes and was observed by both ground and air personnel.",
-        "Binoculars were used to observe the object.",
-        "The Air Technical Intelligence Center determined the object was likely a T-33 jet trainer aircraft at a high altitude."
-    ],
-    "result": "likely explained as a T-33 jet aircraft",
-    "sighted object": "unidentified flying object, size of a pea, silver changing colors",
-    "location": "Vance AFB, Oklahoma",
-    "witnesses": "control tower personnel, pilot in T-33 aircraft",
-    "photographs": "none, no mention of photographs in the report"
+    "main event": "An unidentified object was observed from the control tower at Vance AFB, Oklahoma in January 1959.",
+    "interesting points": "The object was described as round, silver, and emitting bright lights that changed colors from red to orange and blue to green., The sighting lasted for approximately 10 minutes and was confirmed by control tower personnel., Binoculars were used to observe the object, which was estimated to be at 35,000 feet., The object appeared to be hovering and rotating but also seemed to move, leading to confusion about its stationary nature., There was no definitive explanation found for the sighting, ruling out aircraft and electronic countermeasures.",
+    "sighted object": "unidentified object, size of pea, round shape",
+    "location": "Enid, Oklahoma, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Control tower operator and instructor pilot",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A witness in Glendale, Arizona spotted a white, round object the size of a quarter flying at a high rate of speed in 1960.",
-    "interesting points": [
-        "The object was first seen at an elevation of approximately 45 degrees and was last seen at an elevation of about 30 degrees.",
-        "The object traveled in a straight path and faded from sight in a northeasterly direction.",
-        "The sighting lasted no more than 15 seconds.",
-        "The witness was initially observing dust devils before spotting the strange object.",
-        "The witness was considered a credible and reliable source."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, round object the size of a quarter",
-    "location": "Glendale, Arizona",
-    "witnesses": "1 witness",
-    "photographs": "none"
+    "main event": "A witness observed a round, white object moving swiftly in the sky while watching a dust devil in Glendale, Arizona on 1 May 1960.",
+    "interesting points": "The object was described as round and the size of a quarter., The sighting lasted no more than 15 seconds., The object traveled in a straight path before fading from sight in a northeast direction., The witness believed it was not an aircraft, balloon, or any known astronomical body., The weather was clear with very good visibility at the time of the sighting.",
+    "sighted object": "a round white object",
+    "location": "Glendale, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "male, age 38, described as a reliable observer",
+    "contains photographs": false
 }

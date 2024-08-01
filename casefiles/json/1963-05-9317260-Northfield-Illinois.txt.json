@@ -1,15 +1,9 @@
 {
-    "main event": "A military unit observed a cigar-shaped object with a window emitting a bluish-white light flying to the northeast at an estimated altitude of 15,000 feet in Northfield, Illinois on May 11, 1963.",
-    "interesting points": [
-        "The object was described as 25-30 feet in diameter and was observed for approximately 25 minutes by several military units.",
-        "The object was said to be oscillating and spinning in motion, but the distance was too great to make a more detailed observation.",
-        "The report concluded that the object was probably a balloon, but there was insufficient data to make a definitive evaluation.",
-        "The weather conditions at the time of the sighting were partly cloudy with winds aloft, but no unusual activity was reported in the area.",
-        "The report does not indicate that any photographs or other physical evidence were obtained from the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "cigar-shaped object with a window emitting a bluish-white light",
-    "location": "Northfield, Illinois",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A military unit sighted a cigar-shaped object with windows flying to the northeast at an estimated altitude of 15,000 feet for approximately 25 minutes.",
+    "interesting points": "The object emitted a bluish-white light from a window at its lower end., The object was described as being 25-30 feet in diameter and cigar-shaped., Multiple military units were involved in observing the object., The report concluded that the object was likely a balloon due to insufficient data., The sighting lasted for about 25 minutes.",
+    "sighted object": "cigar-shaped object with windows",
+    "location": "Northfield, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

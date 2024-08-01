@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed a red fireball object moving from horizon to horizon in 2 minutes over W. Jefferson, Ohio on September 27, 1957.",
-    "interesting points": [
-        "The object was described as a red fireball going on a southwest course.",
-        "The object moved from horizon to horizon in just 2 minutes.",
-        "The witness was unable to provide an evaluation, indicating the sighting was unexplained.",
-        "The report is a Project Blue Book record card, suggesting this was part of the U.S. Air Force's historical investigation of unidentified aerial phenomena.",
-        "The report does not include any photographs, only a hand-drawn sketch of a circular disc-shaped object."
-    ],
-    "result": "unexplained",
+    "main event": "A witness reported seeing a red fireball moving on a southwest course across the sky in W. Jefferson, Ohio on September 27, 1957.",
+    "interesting points": "The object moved from horizon to horizon in 2 minutes., The object was described as a circular disc with a dull orange color., The witness was playing football when they first noticed the object., The weather conditions at the time were not specifically mentioned., The witness expressed certainty that the object was definitely not a falling star, but more like a rocket.",
     "sighted object": "red fireball",
-    "location": "W. Jefferson, Ohio",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "location": "W. Jefferson, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness was 25 years old, male, and indicated they had experienced in high school education.",
+    "contains photographs": false
 }

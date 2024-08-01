@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A 12-year-old boy spotted a small, glowing white object floating in the air near Waldorf, Maryland in 1964.",
-    "interesting points": [
-        "The object was about the size of a golf ball and appeared to be floating or hovering about 30 feet from the witness.",
-        "The object was visible for 5-10 seconds before rapidly moving away and disappearing from sight.",
-        "The sighting occurred around 8:30 PM on March 4, 1964.",
-        "The witness reported the sighting to his mother as soon as he got home.",
-        "The witness said he spotted the object with a small telescope."
-    ],
-    "result": "unexplained",
-    "sighted object": "a small, glowing white spherical object",
-    "location": "Waldorf, Maryland",
-    "witnesses": "a 12-year-old boy",
-    "photographs": "no"
+    "main event": "A white object was observed traveling from east to west near Waldorf, Maryland on July 8, 1964.",
+    "interesting points": "The object was visible for approximately 1 minute before it disappeared from view,The observer described the object as small and round, about 2-3 inches in diameter,The sky was reported as clear at the time of the sighting,The object emitted no sound and had a glowing white appearance,The observer was alone and reported their sighting to their mother immediately after.",
+    "sighted object": "a white glowing object",
+    "location": "Waldorf, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 12-year-old male who used a small telescope to observe the object",
+    "contains photographs": false
 }

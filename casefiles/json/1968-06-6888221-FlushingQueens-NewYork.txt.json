@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Several unidentified objects appeared in photographs taken by a man in Flushing, Queens, New York in 1968.",
-    "interesting points": [
-        "The man inadvertently photographed the objects while taking pictures of a sunset.",
-        "The objects appeared as luminescent, yellowish-white oval shapes in the photographs.",
-        "There were multiple objects visible, some in a horizontal formation and others appearing to be above and below each other.",
-        "The man was a professional photographer and did not initially believe the objects were anything unusual.",
-        "The Air Force requested the original negatives for analysis but the man was hesitant to provide them due to offers he had received to purchase the photographs."
-    ],
-    "result": "insufficient data",
-    "sighted object": "unidentified luminescent oval-shaped objects",
-    "location": "Flushing, Queens, New York",
-    "witnesses": "civilian photographer",
-    "photographs": "yes, 3 color slides were provided to the Air Force"
+    "main event": "On June 8, 1968, a series of unidentified objects were photographed in Flushing, Queens, New York, by a civilian observer who was unaware of them at the time.",
+    "interesting points": "The observer reported no visual confirmation of the objects until after the photographs were developed., The objects were described as oval or disc-shaped and luminously yellowish-white., The observer did not initially realize he captured the objects while taking pictures of a sunset., The original negatives were sent to Wright-Patterson Air Force Base for analysis and their integrity was assured by the Air Force., The conclusion of the report stated 'insufficient data' as the investigation of the objects continued.",
+    "sighted object": "unidentified objects in the sky",
+    "location": "Flushing, Queens, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian photographer unaware of the objects until reviewing photos of the sunset",
+    "contains photographs": false
 }

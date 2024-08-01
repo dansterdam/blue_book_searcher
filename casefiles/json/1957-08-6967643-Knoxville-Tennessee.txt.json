@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A reddish orange object shaped like two triangles pointing towards each other was seen flying on a straight course for 3 minutes over Knoxville, Tennessee.",
-    "interesting points": [
-        "The object was seen at an elevation of around 30 degrees, diminishing in the southwest direction.",
-        "The object's movement and light were observed.",
-        "The weather conditions were clear with good visibility.",
-        "The report mentions that the sighting was probably a guided missile or aircraft.",
-        "The report was filed by the Intelligence Officer of the 23rd ATT Squadron."
-    ],
-    "result": "Possibly Guided Missile, Possibly Aircraft, Possibly Astronomical",
-    "sighted object": "A reddish orange object shaped like two triangles pointing towards each other",
-    "location": "Knoxville, Tennessee",
-    "witnesses": "Two observers",
-    "photographs": "No photographs included in the report"
+    "main event": "A reddish orange object shaped like two triangles toward each other was seen flying on a straight course in Knoxville, Tennessee.",
+    "interesting points": "The object was observed for three minutes,The object appeared to be flying southeast and then diminished southwest,The sighting was conducted by a civilian observer,The report included a conclusion that the sighting was probably a guided missile,The observation occurred on August 13, 1957.",
+    "sighted object": "one reddish orange object shaped like two triangles",
+    "location": "Knoxville, Tennessee, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

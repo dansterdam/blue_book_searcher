@@ -1,15 +1,9 @@
 {
-    "main event": "A white balloon-shaped object was observed moving with air currents and sudden jerks in Fallon, Nevada on 9/10/68 - 9/15Z.",
-    "interesting points": [
-        "The object was observed through a 15x35 telescope for 20 to 30 minutes.",
-        "The report indicates that the evidence presented suggests the object was not a balloon, contrary to the initial conclusion.",
-        "The document includes forms and diagrams related to the sighting, such as a compass rose and an observer sketch.",
-        "The sighting was reported to the Air Force's Project Blue Book investigation.",
-        "Multiple witnesses, including a retired dairy farmer, observed the phenomenon."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian reported observing a white balloon-shaped object in Fallon, Nevada, on September 10, 1968.",
+    "interesting points": "The object moved erratically with air currents and sudden jerks., The witness observed the phenomenon through binoculars and the unaided eye., The sighting lasted for approximately 20 to 30 minutes., The object was described as white and appeared circular with a dent on one side., Despite being identified as a probable balloon, evidence suggested that it was not a balloon.",
     "sighted object": "white balloon-shaped object",
-    "location": "Fallon, Nevada",
-    "witnesses": "civilian, including a retired dairy farmer",
-    "photographs": "none"
+    "location": "Fallon, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "retired dairy farmer with a high school education; reliability unknown",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian airline crew observed a space vehicle reentry from BOAC Airlines flight.",
-    "interesting points": [
-        "The object was observed at a 15 degree elevation, moving from east to west.",
-        "The object split apart upon reentry.",
-        "The sighting was reported as a 'CIRVIS' (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The sighting was evaluated as a space vehicle reentry, but no definitive evaluation was made.",
-        "The report was shared with multiple military and intelligence agencies, including the CIA."
-    ],
-    "result": "inconclusive",
-    "sighted object": "one space vehicle reentry",
-    "location": "35°50'N 161°00'E",
-    "witnesses": "civilian airline crew",
-    "photographs": "no"
+    "main event": "A space reentry object was observed by BOAC Airlines reported on 9 April 1964.",
+    "interesting points": "The object was reported during flight at an elevation of 15 degrees from east to west., The sighting was related to the decay of Explorer IX., The report comes from a civilian airline source., The angle of reentry was noted as 45 degrees to the horizon., The object split apart upon re-entry.",
+    "sighted object": "one space vehicle re-entry",
+    "location": "35.50N, 161.00E",
+    "number of confirmed witnesses": 0,
+    "witness description": "BOAC Airlines crew and passengers",
+    "contains photographs": false
 }

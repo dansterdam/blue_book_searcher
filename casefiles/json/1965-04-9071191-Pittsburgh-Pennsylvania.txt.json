@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian in Pittsburgh, PA reported seeing a single unidentified flying object hovering for 45 minutes in April 1965.",
-    "interesting points": [
-        "The witness did not provide any photographs of the UFO.",
-        "The Air Force's preliminary investigation suggested the sighting was likely a weather phenomenon, such as a meteor or other astronomical occurrence.",
-        "The Air Force assured the witness that the matter would be held in confidence and no public release of the information would be made.",
-        "The Air Force requested the witness fill out a PIC-FTD form 36 to provide more information for further evaluation.",
-        "The Air Force indicated they have on file more than 9,200 observations of unidentified flying objects."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a single unidentified flying object",
-    "location": "Pittsburgh, PA",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Pittsburgh, Pennsylvania on April 9, 1965, with a duration of 45 minutes.",
+    "interesting points": "The object was observed hovering in the sky,The sighting was reported by a civilian named Mrs. [Redacted],The Air Force received the report and undertook an investigation,The preliminary findings suggested the sighting could have been a weather phenomenon,The case is part of a larger Air Force program with over 9,200 unidentified observations on file.",
+    "sighted object": "one unidentified flying object",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [Redacted]'s daughter observed the UFO.",
+    "contains photographs": false
 }

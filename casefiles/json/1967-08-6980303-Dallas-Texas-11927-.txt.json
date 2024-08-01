@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple photographs of an unidentified aerial object over a wooded area in Dallas, Texas on August 9, 1967.",
-    "interesting points": [
-        "The photographs depict a partially obscured aerial object hovering above the wooded area.",
-        "The object is difficult to make out clearly due to the foliage in the foreground.",
-        "There are a total of 6 photographs included in the report.",
-        "The photographs are labeled as 'UNCLASSIFIED' and attributed to the 'FOREIGN TECHNOLOGY DIVISION, AFSC'.",
-        "The report does not provide any additional details or witness accounts beyond the descriptions of the photographs."
-    ],
-    "result": "unexplained",
-    "sighted object": "partially obscured aerial object",
-    "location": "Dallas, Texas",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 6 photographs"
+    "main event": "A UFO report from August 9, 1967, details photographs of a forested area in Dallas, Texas, with some images containing unidentified objects in the sky.",
+    "interesting points": "The report contains a total of 6 photographs,The photographs show dense forested areas with no visible human subjects,One photograph depicts a partially obscured aerial object hovering above the wooded area,Another photo shows an unidentified object in the sky, obscured by trees,The report is categorized under 'UNCLASSIFIED' by the FOREIGN TECHNOLOGY DIVISION, AFSC.",
+    "sighted object": "unidentified aerial object",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": true
 }

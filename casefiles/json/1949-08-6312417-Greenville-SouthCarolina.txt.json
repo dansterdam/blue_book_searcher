@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object was sighted over Greenville, South Carolina on 15th August 1949 at 1930E.",
-  "interesting points": [
-    "The object was described as round, fairly large, grey, and moving in a northeasterly direction at an undetermined speed.",
-    "No sound was heard, and no exhaust trail was visible.",
-    "Its altitude was estimated to be 5000 feet or less, and it appeared to be maintaining a constant speed and altitude.",
-    "The Air Route Traffic Control Officers notified the Officer of the Day at Greenville AFB for further investigation.",
-    "The conclusion provided in the report suggested that the unidentified object was a Geological Weather Service balloon believed to have been released in Tennessee."
-  ],
-  "result": "prosaic explanation - Geological Weather Service balloon",
-  "sighted object": "unidentified flying object",
-  "location": "Greenville, South Carolina",
-  "witnesses": "One witness who was an employee at the Greenville Municipal Airport and another unidentified witness",
-  "photographs": "no photographs available in the report"
+    "main event": "An unidentified flying object was sighted over Greenville, South Carolina on 15 March 1949.",
+    "interesting points": "The object was described as round, fairly large, and grey., It was reported to be moving in a northeasterly direction at an undetermined speed., No sound or exhaust was observed from the object., Two witnesses reported the sighting, one being an employee at the Greenville Municipal Airport., The object was later determined to be a Geological Weather Service balloon.",
+    "sighted object": "one large grey round object",
+    "location": "Greenville, South Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One identified witness employed at the Greenville Municipal Airport and one unidentified witness.",
+    "contains photographs": false
 }

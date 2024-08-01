@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Multiple weather observers spotted an unidentified flat, white, circular object with a short tail in Yuma, Arizona in April 1952.",
-    "interesting points": [
-        "The object maintained a constant position over the horizon, moving less than 7-8 degrees in any direction.",
-        "The object was tracked with a compass and was observed for 5-8 minutes before suddenly disappearing.",
-        "The object was analyzed and determined not to be a weather balloon, aircraft, or astronomical phenomenon.",
-        "On the following day, another sighting of a similar silvery object was reported by a captain and lieutenant while practicing with a theodolite.",
-        "The observers were instructed to only observe the object for 5-10 seconds at a time and to note its altitude, angular size, color, shape, maneuvers, and disappearance."
-    ],
-    "result": "unknown",
-    "sighted object": "flat, white, circular object with a short tail",
-    "location": "Yuma, Arizona",
-    "witnesses": "multiple weather observers",
-    "photographs": "no"
+    "main event": "Several weather observers in Yuma, Arizona saw a flat white object with a circular shape and a short tail on April 17, 1950.",
+    "interesting points": "The object was described as being flat white in color with a very erratic trajectory., It was too fast for the observers to track with a theodolite., The object emitted a thin intermittent vapor trail that was one to two diameters long., Observers were unable to determine the exact speed or altitude of the object., The sightings were corroborated by multiple observers who had never seen anything like it before.",
+    "sighted object": "flat white circular object with a short tail",
+    "location": "Yuma, Arizona, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "weather observers and enlisted meteorologists",
+    "contains photographs": false
 }

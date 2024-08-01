@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright flash was observed in the sky every 20 seconds for about 10 minutes on October 3, 1965.",
-    "interesting points": [
-        "The object was observed directly over an aircraft (EC-121D) at an altitude of approximately 45,000 feet.",
-        "The aircraft commander suspected the flashes were caused by a photo mapping or reconnaissance aircraft or satellite.",
-        "The object was estimated to be traveling at a speed of 920 knots if it was at 45,000 feet, but it was not detected on the aircraft's radar.",
-        "The report indicates that if the object was taking pictures of the coast, it would have had to be much higher and traveling at a much greater speed.",
-        "The report was delivered to the Defense Intelligence Agency (DIA)."
-    ],
-    "result": "Probable aircraft (photo mission)", 
-    "sighted object": "bright flashes in the sky",
-    "location": "39.35N 126.35W (Pacific)",
-    "witnesses": "EC-121D aircraft crew",
-    "photographs": "none"
+    "main event": "A UFO was observed emitting flashes every 20 seconds on 3 October 1965.",
+    "interesting points": "The object was off the horizon and was observed for about 10 minutes., The flashes were considered to be from a photo mapping camera on an aircraft., No radar contact was made during the observation., The estimated speed of the object was 920 knots if it was at 45,000 feet., The sighting occurred over a US aircraft with no flight plan in the area.",
+    "sighted object": "unknown object emitting flashes",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 2,
+    "witnesses": "pilot and flight engineer of an EC-121D aircraft",
+    "photographs": false
 }

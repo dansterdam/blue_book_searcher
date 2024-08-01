@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A cylindrical object, the size of an airliner and 75 feet in diameter, was observed descending, hovering, and then departing with an erratic but smooth flight path.",
-    "interesting points": [
-        "The object was observed for 4 minutes.",
-        "The description of the object was similar to an earlier sighting that had a probable prosaic explanation.",
-        "The report mentions that there were a large number of aircraft flying in and around the Dallas, Texas area that day, making it impossible to determine if there were any specific aircraft in the area at the time of the sighting.",
-        "The report includes details on the elevation and azimuth of the object when it was first and last observed.",
-        "The report indicates that the object disappeared at a speed of 40 knots in a northwest direction."
-    ],
-    "result": "Possible Balloon, Possibly Aircraft, Possibly Astronomical",
-    "sighted object": "Cylindrical object, size of airliner, 75 feet in diameter",
-    "location": "3 mi NE of White Rock Lake, Dallas, Texas",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A cylindrical object, the size of an airliner, was observed near White Rock Lake, Dallas, Texas on March 30.",
+    "interesting points": "The object was 75 feet in diameter and showed hovering motion before climbing out., The observation lasted for 4 minutes., The flight path of the object was described as erratic yet smooth., There were previous similar sightings with likely prosaic explanations., The sighting has been documented in Project Blue Book, a historical UFO investigation.",
+    "sighted object": "cylindrical object",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian age 37, Supervisor of Technical Illustration; Civilian age 38, Service Manager at Royal McBee Typewriter Corp.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian spotted a round, silver object the size of a pin head at a very high altitude near Oklahoma City, Oklahoma on December 6, 1957.",
-    "interesting points": [
-        "The object was stationary but moved like an aircraft when it did move.",
-        "There were two aircraft in the area at the time of the sighting.",
-        "The movement and silver color of the object pointed to it being an aircraft.",
-        "The report concluded the object was possibly a balloon or an aircraft.",
-        "The sighting lasted for 5 minutes."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a round, silver object the size of a pin head",
-    "location": "Oklahoma City, Oklahoma",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a round, silver object at high altitude for approximately 5 minutes on December 6, 1957.",
+    "interesting points": "The object was the size of the head of a pin and appeared stationary, It moved in a manner similar to an aircraft, Two aircraft were reported to be in the area at the time of the sighting, The report suggested the object could have been a balloon or possibly an aircraft, The sighting took place in the northwest section of Oklahoma City.",
+    "sighted object": "round, silver object",
+    "location": "Oklahoma City, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, student, member of GCC and CAP",
+    "contains photographs": false
 }

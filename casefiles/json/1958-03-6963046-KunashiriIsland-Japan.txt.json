@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "Fishermen on the coast of Hokkaido, Japan observed several luminous bodies in the sky on multiple occasions in 1957 and 1958.",
-    "interesting points": [
-        "On March 31, 1957, fishermen observed a pillar of flame 100 meters high that changed color from red to blue and then disappeared after 15 minutes.",
-        "On March 1, 1958, fishermen observed a luminous body disappear after 10 minutes at an altitude of approximately 2,000 meters.",
-        "Also on March 1, 1958, fishermen observed a luminous body rise gradually for about 20 minutes before disappearing near Kapadyaya (Onerusu).",
-        "The color of the luminous bodies was not always determined, but they were not reported to be red or green.",
-        "The Maritime Safety Board recorded these incidents but did not investigate the matter further."
-    ],
-    "result": "unexplained",
-    "sighted object": "luminous bodies, pillar of flame",
-    "location": "Hokkaido coast, Japan",
-    "witnesses": "fishermen",
-    "photographs": "none"
+    "main event": "Fishermen observed a luminous body disappearing at an altitude of approximately 2,000 m off the coast of Kunashiri Island in March 1958.",
+    "interesting points": "The luminous body appeared pale and gradually increased in size,The fishermen were not familiar with clouds or natural phenomena,Three luminous sightings were reported off the Hokkaido coast,An earlier sighting on 31 October 1957 involved a pillar of flame changing color from red to blue,The sightings took place at night and durations were around 10 to 15 minutes.",
+    "sighted object": "luminous body in the sky",
+    "location": "Kunashiri Island, Japan",
+    "number of confirmed witnesses": 2,
+    "witness description": "Japanese fishermen unfamiliar with clouds and natural phenomena",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "Three unidentified objects were sighted over Los Angeles, California on May 28, 1964.",
-    "interesting points": [
-        "The objects were viewed from the air.",
-        "The report mentions the presence of fog at a low level.",
-        "The description of the sighting was consistent with it being a reflection or searchlight activity from a known fog bank.",
-        "The report was forwarded to the Air Force for further investigation.",
-        "The report mentions an attempt to contact the witness by telephone, but it was unsuccessful."
-    ],
-    "result": "unknown",
-    "sighted object": "three unidentified objects",
-    "location": "Los Angeles, California",
-    "witnesses": "unspecified",
-    "photographs": "no photographs included"
+    "main event": "A report of unidentified flying objects observed in Los Angeles on May 28, 1964.",
+    "interesting points": "The sighting was categorized with multiple possible explanations including balloon, aircraft, or searchlights reflecting off fog., Three objects were reported during the observation., The report stated that the duration of the sighting and details about changes in lights were omitted., Fog was noted as a significant factor in the visibility of the objects., The report was part of the U.S. Air Force's Project Blue Book, which investigated UFO sightings.",
+    "sighted object": "three unidentified flying objects",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Details about witnesses are not specified in the report.",
+    "contains photographs": false
 }

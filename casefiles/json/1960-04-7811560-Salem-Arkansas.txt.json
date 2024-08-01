@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-  "main event": "Multiple bright lights or objects were reported in the sky over the Salem, Arkansas area on April 9, 1960. Radar was able to detect the objects but could not identify them.",
-  "interesting points": [
-    "Strips of aluminum foil were found in a field, but could not be located later.",
-    "The Air Force was conducting confidential training exercises in the area using aluminum foil objects dropped from high altitudes.",
-    "The Air Force acknowledged receiving the report of the aluminum foil and indicated that any future similar finds should be reported to the nearest Air Force installation.",
-    "The Air Force provided a letter that had been found with the aluminum foil to the original reporter.",
-    "The conclusion was that the sighting was 'probable', likely referring to the Air Force training exercises."
-  ],
-  "result": "probable",
-  "sighted object": "multiple bright lights or objects in the sky",
-  "location": "Salem, Arkansas",
-  "witnesses": "multiple civilian witnesses",
-  "photographs": "no, the report does not include any photographs"
+    "main event": "On 3 April 1960, multiple unidentified objects were observed on the ground in Salem, Arkansas for a duration of 20 seconds.",
+    "interesting points": "The sighting lasted for 20 seconds,Locations reported bright lights or objects in the sky beginning 9 April 1960, Radar detection confirmed multiple unidentified objects in the area, Aluminum foil strips were found in the field but could not be located later, A response letter referred to training exercises involving aluminum foil.",
+    "sighted object": "multiple unidentified objects",
+    "location": "Salem, Arkansas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Various people in the area reported seeing the objects.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Airline pilots and crew spotted a bright, blinking light traveling at approximately 1,000 mph at an altitude of 3,000 ft over Lula, Mississippi on March 20, 1950.",
-    "interesting points": [
-        "The object was circular in shape with a diameter of approximately 40-50 feet.",
-        "The object emitted 3 flashes per second and had a metallic oval or circular port on the bottom side that emitted small blue-green lights.",
-        "The object was traveling at an estimated speed of at least 1,000 mph and did not show any signs of exhaust or jet propulsion.",
-        "The object passed directly in front of the airliner at a distance of no more than 1/2 mile and an altitude about 1,000 feet higher than the aircraft.",
-        "The observers, experienced pilots, stated that the object was not an aircraft or any known aerial vehicle."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, blinking light in the shape of a circular, metallic object",
-    "location": "Lula, Mississippi",
-    "witnesses": "airline pilots and crew",
-    "photographs": "none"
+    "main event": "Airline pilots observed an unidentified flying object while flying from Memphis, Tennessee.",
+    "interesting points": "The object was reported to be circular with a diameter of approximately 40-50 feet,The object emitted three brilliant flashes of light per second,The sighting lasted for approximately 12-15 seconds while the object passed directly in front of the airliner,The object was flying at an altitude of approximately 1,000 feet higher than the airline,There were no indications of the object being a known aircraft or aerial vehicle.",
+    "sighted object": "unidentified circular object emitting flashes of light",
+    "location": "Lula, Mississippi, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Airline pilots and crew",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A single unidentified flying object was sighted and observed over East St. Louis, Illinois on May 17, 1953.",
-    "interesting points": [
-        "The object was described as being aluminum colored and disk shaped with a glow around the edges and a blinding bright light in the center.",
-        "The object was observed visually and with radar, and was described as being in a clear space between cloud formations.",
-        "Operators at the 95th Fighter Interceptor Squadron and personnel of the 728th AC&W Squadron reported sightings of the unidentified flying object.",
-        "A negative report was received from the 729th ACAW Squadron in reference to the unidentified flying object.",
-        "The age and experience of the observers reporting this sighting was considered high enough that definite conclusions could be arrived at."
-    ],
-    "result": "insufficient data available to evaluate",
-    "sighted object": "a single unidentified, disk-shaped object with a glow and bright light",
-    "location": "East St. Louis, Illinois",
-    "witnesses": "multiple military personnel",
-    "photographs": "no"
+    "main event": "A single unidentified unconventional flying object was sighted over East St. Louis, Illinois on May 17, 1953.",
+    "interesting points": "The object was described as aluminum colored and disk-shaped with a glow around the edges,It hovered for several seconds before disappearing at a high rate of speed,The object was observed visually and with radar,The sighting was reported by personnel at Scotts Air Force Base,The original report was deemed to lack sufficient data for evaluation.",
+    "sighted object": "a single unidentified flying object",
+    "location": "East St Louis, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Flight crew from Scotts AFB",
+    "contains photographs": false
 }

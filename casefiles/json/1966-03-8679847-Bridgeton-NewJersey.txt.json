@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A realtor spotted a saucer-like flying object over Bridgeton, New Jersey in 1966.",
-    "interesting points": [
-        "The object suddenly disappeared when the witness's car radio cut out.",
-        "The witness, a police sergeant, said the object climbed at high speed as it went out of sight.",
-        "As the object disappeared, the car radio became operational again.",
-        "The witness described the object as a 'saucer-like flying object'.",
-        "The sighting occurred over the Polo and Clarke Pond area."
-    ],
-    "result": "unexplained",
+    "main event": "A witness observed a bright orange saucer-like object in the sky over Bridgeton, New Jersey on March 29, 1966.",
+    "interesting points": "The object was visible for approximately 4 minutes,The witness reported the object fading away,The object was seen during the night sky conditions,The report mentions a police sergeant witnessing the object as well,The radio in the police car cut out when the object was in view, but resumed working after it disappeared.",
     "sighted object": "saucer-like flying object",
-    "location": "Bridgeton, New Jersey",
-    "witnesses": "police sergeant",
-    "photographs": "none"
+    "location": "Bridgeton, New Jersey, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "realtor and police sergeant",
+    "contains photographs": false
 }

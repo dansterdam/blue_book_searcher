@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian reported seeing a UFO in Dayton, Ohio on October 5, 1968.",
-    "interesting points": [
-        "The observer saw the UFO for about 5 minutes.",
-        "The report states there was no physical evidence or photographs of the sighting.",
-        "The conclusion of the report was 'INSUFFICIENT DATA FOR EVALUATION'.",
-        "Another report from October 9, 1968 also mentions a UFO sighting in Dayton, Ohio, but states the details were not returned as of January 10, 1969.",
-        "The report includes a graph showing the observed path of the unidentified phenomenon."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "A UFO sighting was reported in Dayton, Ohio on October 5, 1968, with insufficient data for evaluation.",
+    "interesting points": "The sighting lasted approximately 5 minutes,Observers called in a UFO report to SAFB Duty Officer,The report states there was one object observed,No physical evidence was found,The observer's information could not be thoroughly evaluated due to insufficient data.",
     "sighted object": "one unidentified flying object",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, unspecified details about the observer.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "12 bright light objects were spotted in the sky near Comfort, Texas on December 8, 1957.",
-    "interesting points": [
-        "The objects were described as being the size of a pinhead and standing still in the sky.",
-        "The observer initially thought the objects were stars.",
-        "The objects were spotted around 5:35 PM local time.",
-        "The sighting lasted for about 10 minutes.",
-        "The Air Force concluded the objects were likely parachutes or weather instruments from weather balloons in the area."
-    ],
-    "result": "Possibly Balloon",
-    "sighted object": "12 bright light objects",
-    "location": "Comfort, Texas",
-    "witnesses": "Civilian observer",
-    "photographs": "No photographs were included in the report."
+    "main event": "Twelve objects were observed in the sky above Comfort, Texas, on December 8, 1957.",
+    "interesting points": "The objects were compared to the size of a pin head and described as bright lights,The observer initially thought they were stars,The objects stood still during the observation period of 10 minutes,There were suggestions that the objects could be parachutes or weather instruments from balloons,No unusual sightings were captured on radar during the incident.",
+    "sighted object": "twelve bright lights in the sky",
+    "location": "Comfort, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian who thought the objects were stars initially",
+    "contains photographs": false
 }

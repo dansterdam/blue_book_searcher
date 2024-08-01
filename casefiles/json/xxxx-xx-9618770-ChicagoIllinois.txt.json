@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed over Stark, Wisconsin on June 4, 1952.",
-    "interesting points": [
-        "The object was a bright, circular light about the size of a small aircraft, moving at an estimated speed between 500-600 mph.",
-        "The light was very intense, almost blinding, and was a steady white color.",
-        "The object was observed for approximately 2-3 minutes before disappearing from sight.",
-        "The sighting occurred at around 2120 CST (Central Standard Time).",
-        "The report was submitted by a civilian witness on routine patrol."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, circular light",
-    "location": "Stark, Wisconsin",
-    "witnesses": "civilian witness on routine patrol",
-    "photographs": "no"
+    "main event": "Multiple UFO sightings reported over Chicago, Illinois, in 1952, including a hovering bright white circular object and radar detection of several unconventional aircraft.",
+    "interesting points": "The bright white object was observed hovering for about 30 minutes before it accelerated and disappeared., A civilian pilot with 3500 hours of experience reported seeing a disc-shaped object traveling at estimated speeds of 400-600 knots., Radar crew detected 6 to 10 unconventional aircraft maneuvering at an altitude of 20,000 feet, showing behavior not consistent with known types., Witnesses described objects with a metallic appearance and high-speed movements., The reports were part of the Project Blue Book investigation into UFO activity.",
+    "sighted object": "Unidentified flying objects described as circular, disc-shaped, and metallic in appearance.",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Witnesses included civilian pilots and radar operating crew.",
+    "contains photographs": false
 }

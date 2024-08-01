@@ -1,15 +1,9 @@
 {
-    "main event": "A USAF B-26 crew sighted a round, glowing object hovering above a wooded area near Lititz, Pennsylvania.",
-    "interesting points": [
-        "The object remained stationary for approximately 20 minutes.",
-        "The object then rapidly climbed and disappeared from view.",
-        "The report was submitted by the Strategic Air Command (SAC) in Newark.",
-        "The sighting occurred on September 22, 1952, at around 8:30 PM local time.",
-        "The object was described as round and glowing, with no visible means of propulsion and no audible sound."
-    ],
-    "result": "unexplained",
+    "main event": "A USAF B-26 crew sighted a round, glowing object hovering above a wooded area near Lititz, Pennsylvania on September 22, 1952.",
+    "interesting points": "The object was approximately 20-25 feet in diameter,It hovered at an altitude of 300-400 feet,The object made no audible sound,The sighting lasted for about 20 minutes before the object rapidly climbed and disappeared,The report was part of the official Project Blue Book investigation.",
     "sighted object": "a round, glowing object",
-    "location": "Lititz, Pennsylvania",
-    "witnesses": "USAF B-26 crew",
-    "photographs": "no"
+    "location": "Lititz, Pennsylvania, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "USAF B-26 crew making a routine inspection flight",
+    "contains photographs": false
 }

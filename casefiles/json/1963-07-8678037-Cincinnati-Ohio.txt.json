@@ -1,15 +1,9 @@
 {
-    "main event": "A person observed a bright object in the sky for 1.5 hours in Cincinnati, Ohio on July 25, 1963.",
-    "interesting points": [
-        "The object was initially thought to be a star, but was later confirmed to be the planet Jupiter.",
-        "The object appeared to be bright, and the witness was unsure of its speed or distance.",
-        "The witness observed the object for 1.5 hours, and it remained in the same general location during this time.",
-        "No photographs were taken of the object.",
-        "The witness was unsure of what the object was, and had not seen similar objects previously."
-    ],
-    "result": "explained",
-    "sighted object": "a bright object in the sky",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "An object in the sky resembling a star was observed for 1.5 hours and confirmed as the planet Jupiter the following night.",
+    "interesting points": "The sighting lasted for 1 hour and 30 minutes,The object was initially thought to be a star,The object made a whirring or buzzing sound,At one point, it was reported that there were two objects observed,The witness was sitting on a porch when the object was first noticed.",
+    "sighted object": "an object resembling a star",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, name redacted, female",
+    "contains photographs": false
 }

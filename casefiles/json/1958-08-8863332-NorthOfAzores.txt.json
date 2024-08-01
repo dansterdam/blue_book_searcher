@@ -1,15 +1,9 @@
 {
-    "main event": "On 7/19/1958, a white pulsating light was observed traveling at great speed for one minute.",
-    "interesting points": [
-        "The object was observed traveling at a great speed in a southeast by south direction.",
-        "It was estimated to be at a great height and observed midway between the Square of Pegasus and Altair.",
-        "The sighting was reported by three observers and there were official conclusions suggesting it could possibly be a balloon, aircraft, or astronomical object.",
-        "No photograph was present in the UFO report.",
-        "The report suggests the object was observed traveling on a possible satellite trail."
-    ],
-    "result": "Possibly explained as a balloon, aircraft, or astronomical object according to official data.",
+    "main event": "A white pulsating object was observed traveling at great speed in the sky on July 19, 1958.",
+    "interesting points": "The observation lasted for one minute., The object was reported to be pulsating every eight seconds., Three observers confirmed the sighting., The object was traveling in a southeast by south direction., Possible explanations for the object included a balloon, aircraft, or astronomical phenomenon.",
     "sighted object": "white pulsating light",
-    "location": "Undetermined, but estimated at great height",
-    "witnesses": "Three observers",
-    "photographs": "No"
+    "location": "Not specified",
+    "number of confirmed witnesses": 3,
+    "witness description": "observers reported from SS Marine Progress",
+    "contains photographs": false
 }

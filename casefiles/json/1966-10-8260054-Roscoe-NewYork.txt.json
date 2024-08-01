@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "Two unidentified lights were observed in the sky over Roscoe, New York on October 30, 1966.",
-    "interesting points": [
-        "The objects had no clear shape, but each had a red and white blinking light.",
-        "One object moved rapidly through several positions in the sky from east to west.",
-        "The objects were about the size of two large stars.",
-        "The sighting lasted for 10 minutes.",
-        "The observer had no prior experience with such observations, but believed the report to be reliable."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified lights in the sky",
-    "location": "Roscoe, New York",
-    "witnesses": "civilian observer, a housewife",
-    "photographs": "none"
+    "main event": "A civilian observer reported seeing two unidentified lights in the night sky over Roscoe, New York on October 30, 1966.",
+    "interesting points": "The observer described the lights as having no clear outline,Each object had a red and a white blinking light,The objects were stationary at first and then rapidly moved westward,The sighting lasted for about 10 minutes,The weather conditions were exceptionally clear with great visibility.",
+    "sighted object": "two unidentified lights",
+    "location": "Roscoe, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted], a civilian housewife",
+    "contains photographs": false
 }

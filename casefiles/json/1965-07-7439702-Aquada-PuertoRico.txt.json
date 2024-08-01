@@ -1,15 +1,9 @@
 {
-    "main event": "A brilliant object was observed on the western horizon in Aguada, Puerto Rico on July 23, 1965. The object moved north, made a semi-circle turn moving to the south, and then disappeared.",
-    "interesting points": [
-        "The object seemed to change to an orange or reddish glow before disappearing.",
-        "The observer took photographs of the object.",
-        "The object made a humming sound when it rushed away.",
-        "The object was estimated to be moving at a speed of approximately 3,400 mph.",
-        "The observer had been studying astronomy and unusual sky phenomena, and believed the object may have been an unusual natural phenomenon."
-    ],
-    "result": "Aircraft (IELO) \"None Traced\"",
-    "sighted object": "A brilliant, glowing object",
+    "main event": "A brilliant object was observed in Aguada, Puerto Rico on July 23, 1965, moving in a semi-circular path and changing its color before disappearing.",
+    "interesting points": "The object made a humming sound as it moved away., The object changed from a brilliant white light to a reddish orange glow., The observer estimated the object's speed to be approximately 3,400 mph., The observer was inside a building and reported the object moved low over the trees., The object seemed to obscure itself momentarily behind fog.",
+    "sighted object": "a brilliant object with a reddish glow",
     "location": "Aguada, Puerto Rico",
-    "witnesses": "Civilian observer",
-    "photographs": "Yes, the report indicates photos were taken"
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who had been studying astronomy and unusual phenomena.",
+    "contains photographs": false
 }

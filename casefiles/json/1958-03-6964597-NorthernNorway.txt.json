@@ -1,15 +1,9 @@
 {
-  "main event": "A flying saucer was observed over northern Norway on March 19, 1958, and was tracked on radar as it passed over the island of Feodosy.",
-  "interesting points": [
-    "The flying saucer was reported to be elliptical in shape and accompanied by a humming or whistling sound.",
-    "The Norwegian Air Force conducted preliminary and follow-up investigations, confirming the presence of an unidentified flying object.",
-    "The sighting was observed by several witnesses in the area at the time.",
-    "The conclusion of the report suggests that the observed object was probably a balloon, though it could also be possibly astronomical or of aircraft origin.",
-    "The observation was based on lights, as the surrounding area visibility was reported as insufficient for detailed evaluation."
-  ],
-  "result": "Insufficient Data for Evaluation",
-  "sighted object": "an unidentified flying object described as a flying saucer",
-  "location": "Northern Norway, Feodosy Island",
-  "witnesses": "Norwegian Air Force officers, Ground-Radar",
-  "photographs": "yes the report includes photographs"
+    "main event": "A flying saucer was reported over northern Norway by observers and tracked on radar on March 19, 1958.",
+    "interesting points": "The object was described as elliptical in shape,The sighting involved multiple witnesses,It emitted a humming or whistling sound as it passed,No planes were reported in the area at the time of the sighting,The sighting was confirmed by preliminary and follow-up investigations by the Norwegian Air Force.",
+    "sighted object": "flying saucer",
+    "location": "Oslo, Norway",
+    "number of confirmed witnesses": 5,
+    "witness description": "Norwegian Air Force officers and other observers in the area",
+    "contains photographs": false
 }

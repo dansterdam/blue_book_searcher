@@ -1,15 +1,9 @@
 {
-    "main event": "The report contains sightings of unidentified aerial objects over Japan on April 27, 1950 and May 5, 1950, as recorded in an Air Intelligence Information Report from Project Blue Book.",
-    "interesting points": [
-        "The sightings describe pilots observing a large, disc-shaped, silver object traveling at tremendous speeds and displaying erratic flight behavior.",
-        "The pilots were unable to identify the objects or determine any apparent means of propulsion, exhaust, or control surfaces.",
-        "The report speculates that the sightings may have been caused by visual effects produced by shock waves from other USAF aircraft, resulting in distorted light signals and varying colors and pulsing effects.",
-        "Additionally, there are reports of 'flying saucers' streaking through the skies over Sydney, Australia, with observers describing the objects as larger than a plane, traveling at great speed, and making a flash across the sky shortly after dusk.",
-        "Officials could not explain the phenomenon, and even the Royal Australian Air Force confirmed there were no jet planes on duty near Sydney at the time of the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified aerial objects, disc-shaped, silver in color",
-    "location": "Japan and Sydney, Australia",
-    "witnesses": "pilots, air force officers, and civilian observers",
-    "photographs": "no photographs provided in the report"
+    "main event": "Multiple sightings of unidentified aerial objects were reported by USAF pilots near Misawa Air Base, Japan, on April 27 and May 5, 1950.",
+    "interesting points": "The unidentified objects were described as moving at incredible speeds, up to 600 mph, and displayed no visible means of propulsion., Multiple pilots reported seeing the objects at altitudes of 25,000 to 30,000 feet., One pilot observed the object for about 10-15 minutes before it disappeared from sight., The sightings were believed to be visual effects caused by shock waves from USAF aircraft, rather than solid objects., The cases were classified under Project Blue Book and were eventually declassified in December 2008.",
+    "sighted object": "unidentified aerial objects",
+    "location": "Misawa, Aomori, Japan",
+    "number of confirmed witnesses": 2,
+    "witness description": "USAF pilots",
+    "contains photographs": false
 }

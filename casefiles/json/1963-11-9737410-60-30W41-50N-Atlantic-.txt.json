@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unknown aircraft, presumed to be Russian, was tailing another aircraft over the Atlantic Ocean.",
-    "interesting points": [
-        "The unknown aircraft was large and flying at approximately 12,000 feet below the observing aircraft, which was at 35,000 feet.",
-        "The incident was reported to multiple military and air defense organizations, including the Canadian Air Defence Command and the Canadian Maritime Command.",
-        "The report mentions that the original transmission was not received, and a copy was sent to the CIA.",
-        "The report includes coded military terminology and abbreviations, indicating it was a formal military document.",
-        "The report spans multiple pages and appears to be part of a larger Project Blue Book investigation into unidentified flying objects."
-    ],
-    "result": "unidentified",
-    "sighted object": "large, unknown aircraft",
-    "location": "Atlantic Ocean, approximate coordinates 60.30W 41.50N",
-    "witnesses": "military aircraft crew",
-    "photographs": "none"
+    "main event": "An unknown object, presumed to be Russian, was reported trailing another unknown object over the Atlantic on 21 November 1953.",
+    "interesting points": "The sighting involved 6 round visual observations,The objects were observed for approximately 30 minutes,Multiple conclusions included that it could be a balloon or an aircraft,The incident involved military equipment and was taken seriously by various branches of the military,No photographs were included with the report.",
+    "sighted object": "unknown object presumed to be Russian",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified in the report",
+    "contains photographs": false
 }

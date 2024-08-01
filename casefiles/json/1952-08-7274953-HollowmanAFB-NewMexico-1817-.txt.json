@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "The document contains several photographs related to a UFO sighting at Holloman AFB in New Mexico in 1952.",
-    "interesting points": [
-        "The photographs show various sky scenes with potential objects of interest, such as dark circular shapes, light streaks, and silhouettes of trees and structures.",
-        "The photographs are mostly in black and white and appear to be old and somewhat damaged or faded.",
-        "The document mentions that there are 7 photographs included, but not all of them contain visible text or clear objects of interest.",
-        "The photographs depict different perspectives, including views of the sky, trees, and other structures.",
-        "The report does not provide any additional details or descriptions beyond the photographs themselves."
-    ],
-    "result": "unexplained",
-    "sighted object": "Unclear, potential dark circular shapes and light streaks in the sky",
-    "location": "Holloman AFB, New Mexico",
-    "witnesses": "Unknown",
-    "photographs": "Yes, 7 photographs are included in the document"
+    "main event": "A UFO report involving a small, dark circular object observed in the sky at Holloman AFB, New Mexico on August 4, 1952.",
+    "interesting points": "The report contains 7 photographs related to the sighting., The photographs depict various sky conditions with dark objects visible., Some images show silhouettes of trees and other structures against the sky., The photographs are largely black and white and appear to be old and damaged., There is no visible text provided in any of the photographs.",
+    "sighted object": "small dark circular object in the sky",
+    "location": "Holloman AFB, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses confirmed in the report.",
+    "contains photographs": true
 }

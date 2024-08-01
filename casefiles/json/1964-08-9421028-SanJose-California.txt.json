@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A family in San Jose, California spotted 2-3 bright, steady white lights in the sky moving slowly from south to north in 1964.",
-    "interesting points": [
-        "The lights were about one-fourth the size of the moon and were observed for about 2 minutes.",
-        "The family was outside in their backyard showing the Big Dipper to their children when they spotted the unusual lights overhead at an altitude of 2,000 to 3,000 feet.",
-        "The lights moved at a speed comparable to a reciprocating aircraft and disappeared without leaving a trail.",
-        "The sighting occurred at around 3:30 AM with clear weather conditions and low winds.",
-        "The family reported that the lights were definitely not aircraft or weather balloons, and the local airport had no known air traffic in the area at that time."
-    ],
-    "result": "possible flares",
-    "sighted object": "2-3 bright, steady white lights in the sky",
-    "location": "San Jose, California",
-    "witnesses": "a family including parents and children",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "Witnesses observed 2-3 bright lights in the sky moving slowly from NE to SW.",
+    "interesting points": "Lights were steady and not blinking,Weather conditions were clear during the sighting,No sonic booms or other sounds were heard,The sighting lasted approximately 1-2 minutes,No explanation was found for the lights.",
+    "sighted object": "two to three bright lights in the sky",
+    "location": "San Jose, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "A family with children observing the lights in their backyard.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text you provided:
-
 {
-    "main event": "A man reported seeing a metallic silver disc-shaped object in the sky in Humboldt, Saskatchewan, Canada.",
-    "interesting points": [
-        "The object was slightly larger than a familiar object like a car or building.",
-        "The object made a sputtering sound as it moved.",
-        "The object was first seen at an elevation of 40 degrees and disappeared at an elevation of 20 degrees.",
-        "The object moved horizontally and then disappeared to the northeast.",
-        "The sighting lasted for 5 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a metallic silver disc-shaped object",
+    "main event": "A man observed a flash like a welding torch in the sky, leading to the sighting of a metallic silver circular object.",
+    "interesting points": "The object was described as disc-shaped and slightly larger than a familiar object., The observation lasted for approximately 5 minutes., The object emitted a sputtering sound., The object moved horizontally and disappeared to the northeast., The investigation was conducted by C. F. Saunders on 3 August.",
+    "sighted object": "a metallic silver circular object",
     "location": "Humboldt, Saskatchewan, Canada",
-    "witnesses": "one man",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "A man who is not believed to be a qualified observer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains multiple eyewitness reports of UFO sightings in various locations, including Indiana, Illinois, and Missouri. The sightings describe bright lights, circular or cigar-shaped objects, rapid movements, and unusual maneuvers, with no sound being heard from the objects. The witnesses are considered reliable and credible, and the sightings lasted from several seconds to over 15 minutes.",
-  "interesting points": [
-    "The sightings include reports of yellow, bluish, and reddish lights, as well as bright, circular or cigar-shaped objects in the sky.",
-    "Multiple reliable witnesses, including military and civilian personnel, observed the objects, which exhibited high speeds, hovering, rapid maneuvers, and sudden disappearances.",
-    "Some witnesses described the objects as being much larger and faster than any known aircraft, with unusual glowing tails or a neon sign-like appearance.",
-    "The documents also contain observations of radar-confirmed unidentified objects, indicating a correlation between visual sightings and radar detections.",
-    "Several witnesses expressed concerns and frustrations over not receiving satisfactory explanations for the observed phenomena, and some shared personal conclusions about the nature of the UFOs."
-  ],
-  "result": "unexplained",
-  "sighted object": "various bright lights, circular, cigar-shaped, and unspecified objects in the sky",
-  "location": "Indiana, Illinois, Missouri",
-  "witnesses": "various credible witnesses including military and civilian personnel",
-  "photographs": "no photographs included in the report"
+    "main event": "A civilian couple observed several bright lights in the sky near Terre Haute, Indiana and Chicago Heights, Illinois in July 1952.",
+    "interesting points": "The couple saw two yellow lights moving in a straight line from east to west at a low elevation on July 7, 1952., Another couple sighted several bright lights that changed course abruptly and moved rapidly for about 15 minutes on July 22, 1952., The couple in Chicago Heights reported that the lights did not appear to be aircraft and emitted no sound., There were multiple credible witnesses in both sightings, and no evidence was found to discredit their observations., These sightings were part of a larger investigation under Project Blue Book, which documented numerous UFO sightings during the same period.",
+    "sighted object": "two yellow lights and several bright lights",
+    "location": "Terre Haute, Indiana and Chicago Heights, Illinois, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "a civilian couple observed the lights",
+    "contains photographs": false
 }

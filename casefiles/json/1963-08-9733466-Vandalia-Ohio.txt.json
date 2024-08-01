@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Two bright red lights were observed moving very fast and disappearing behind clouds in Vandalia, Ohio on August 30, 1963.",
-    "interesting points": [
-        "The object was observed through binoculars for 30-45 seconds.",
-        "The object appeared as two bright red lights moving at a very fast speed.",
-        "The object disappeared behind clouds, and no position data was given.",
-        "The report concluded that there was insufficient data for evaluation.",
-        "The witness had not seen a similar object before and was the only one who observed it."
-    ],
-    "result": "unexplained",
+    "main event": "Two bright red lights were observed moving very fast before disappearing behind clouds in Vandalia, Ohio.",
+    "interesting points": "The observation lasted for 30-45 seconds,The lights were viewed through binoculars,The objects were described as being solid and brighter than car headlights,Insufficient data led to a conclusion that no evaluation could be made,The sighting occurred on August 30, 1963.",
     "sighted object": "two bright red lights",
-    "location": "Vandalia, Ohio",
-    "witnesses": "one witness",
-    "photographs": "no"
+    "location": "Vandalia, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "female, specifics redacted",
+    "contains photographs": false
 }

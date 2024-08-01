@@ -1,15 +1,9 @@
 {
-  "main event": "A bright red streak, the size of a pea, was observed moving along Gila River in Arizona on 25 November 1957 for 3 minutes.",
-  "interesting points": [
-    "The observation was classified as ground-visual, indicating a sighting from the ground.",
-    "The source of the observation was a civilian.",
-	"The conclusion was that the sighting was probably astronomical, with the comment 'Sputnik II'.",
-	"The report mentions other UFO sightings on different dates and locations, all found to be bona fide satellites.",
-	"This sighting was in the same month as the launch of Sputnik II on 3 November 1957, adding to the mystery."
-  ],
-  "result": "astronomical",
-  "sighted object": "bright red streak",
-  "location": "Gila River, Arizona",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A witness observed a pea-sized bright red streak moving along the Gila River.",
+    "interesting points": "The sighting lasted for 3 minutes,The object was observed using binoculars,The witness identified the object as probably astronomical,The object was moving in a southeast course,The sighting coincided with the launch of Sputnik II.",
+    "sighted object": "a pea-sized bright red streak",
+    "location": "Gila River, Arizona, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a 47-year-old pharmacist.",
+    "contains photographs": false
 }

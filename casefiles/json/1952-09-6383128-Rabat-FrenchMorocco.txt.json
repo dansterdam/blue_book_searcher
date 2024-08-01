@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified aerial object was observed over Rabat, French Morocco on multiple occasions in 1952.",
-    "interesting points": [
-        "The object was described as round, bright, and having a metallic glow, and was observed to be silent and move at high speeds of around 500 mph.",
-        "The object was sighted by French civil air control personnel and military personnel at the Rabat airfield.",
-        "Another sighting described the object as a dull grey spherical object giving off a pulsating light, estimated to be 25-30 feet in diameter and moving at around 300 mph.",
-        "A third sighting described the object as cigar-shaped, around 15 meters long, and moving at a moderate speed while leaving a luminous trail.",
-        "The objects were observed to perform various maneuvers such as climbing straight up, leveling off, and accelerating rapidly before disappearing from sight."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, bright metallic object; dull grey spherical object; cigar-shaped object",
+    "main event": "An unidentified aerial object was observed over Rabat, French Morocco on September 6, 1952.",
+    "interesting points": "The sighting lasted for about 10-15 minutes and the object was described as circular, approximately 20-25 meters in diameter emitting a bright light., The object was estimated to be traveling at a high speed of about 600 to 800 miles per hour at an altitude of 30,000 to 40,000 feet., Multiple reports were filed by French civil air control personnel and military personnel at the airfield regarding the sighting., The weather conditions during the sighting were reported as clear with visible stars., It was reported that the object maneuvered silently and left no exhaust trail.",
+    "sighted object": "round unidentified aerial object emitting bright light",
     "location": "Rabat, French Morocco",
-    "witnesses": "French civil air control personnel, military personnel, and civilian observers",
-    "photographs": "no photographs included in the report"
+    "number of confirmed witnesses": 2,
+    "witness description": "French civil air control personnel and military personnel at Rabat, French Morocco airfield",
+    "contains photographs": false
 }

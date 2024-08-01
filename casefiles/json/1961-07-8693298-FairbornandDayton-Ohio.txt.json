@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "USAF 7 AACS and FAA GCA radar observed a single target 20 miles east of Dayton, Ohio for 1-2 minutes, lost it, and it reappeared at Fairborn, Ohio.",
-    "interesting points": [
-        "The radar target showed positive motion, but they were unable to obtain visual confirmation or identification.",
-        "The sighting was reported to Project Blue Book for further investigation.",
-        "The object was detected on both ground-radar and air-intercept radar, but was lost due to ground clutter.",
-        "The object was observed for a total of about 2 minutes.",
-        "No photographs were available in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "single radar target",
-    "location": "Fairborn & Dayton, Ohio",
-    "witnesses": "USAF 7 AACS and FAA GCA radar",
-    "photographs": "no"
+    "main event": "A UFO was observed on July 22, 1961, via ground-radar, with a single target identified by USAF and FAA near Dayton, Ohio.",
+    "interesting points": "The radar observed the object for 1-2 minutes before losing contact,The target reappeared at Fairborn, Ohio,Ground-radar and air-intercept radar contact was lost due to ground clutter,Further investigation was recommended despite the radar target showing positive motion,The sighting involved only one object and no visual confirmation could be achieved.",
+    "sighted object": "a single unidentified object",
+    "location": "Fairborn & Dayton, Ohio, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "USAF and FAA radar operators",
+    "contains photographs": false
 }

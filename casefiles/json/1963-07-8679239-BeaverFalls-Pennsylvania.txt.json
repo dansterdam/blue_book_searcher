@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A reddish-orange round ball-shaped object was observed in flight from east to north in Beaver Falls, Pennsylvania on August 1, 1963.",
-    "interesting points": [
-        "The object made no maneuvers and disappeared to the north.",
-        "The object's flight path was described as a long arc, without any changes in speed.",
-        "The object appeared to have stopped burning or stopped as it disappeared.",
-        "The total duration of the sighting was 1.5 seconds.",
-        "The witness was a chemical engineer who provided detailed observations and measurements, including the object's elevation, azimuth, and altitude."
-    ],
-    "result": "unexplained",
-    "sighted object": "reddish-orange round ball-shaped object",
-    "location": "Beaver Falls, Pennsylvania",
-    "witnesses": "chemical engineer",
-    "photographs": "no"
+    "main event": "A round reddish orange ball was observed in flight from the east to the north at Beaver Falls, Pennsylvania on July 13, 1963.",
+    "interesting points": "The object was visible for approximately 1.5 seconds., The sighting occurred in dark conditions., The witness noted that the object seemed to have stopped burning before disappearing., The witness was sitting on his porch when he first noticed the object., The sighting's altitude was estimated to be around 30,000 feet during disappearance.",
+    "sighted object": "round reddish orange ball",
+    "location": "Beaver Falls, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "The primary observer was a chemical engineer from Beaver Falls, PA, and his wife also witnessed the object.",
+    "contains photographs": false
 }

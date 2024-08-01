@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A white light with a red light beneath it was observed hovering and dropping out of sight over Sullivan, Wisconsin.",
-    "interesting points": [
-        "The object changed color from white to orange, with flashing red lights.",
-        "The object hovered and dropped down out of sight.",
-        "The sighting lasted for 45 minutes.",
-        "The observers included a salesman and a sod firm manager from Sullivan, Wisconsin, as well as a deputy sheriff.",
-        "The weather conditions were clear with good visibility at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white light with a red light beneath it",
-    "location": "Sullivan, Wisconsin",
-    "witnesses": "a salesman, a sod firm manager, and a deputy sheriff",
-    "photographs": "none"
+    "main event": "Two couples observed a white light in the sky that changed to orange with flashing red lights near Sullivan, Wisconsin on June 23, 1965.",
+    "interesting points": "The object was observed for 45 minutes., The light changed color from white to orange and had flashing red lights., The object did not emit any sound or exhaust., It was reported that the object hovered and then dropped out of sight., Observers had clear weather conditions during the sighting.",
+    "sighted object": "one white light turning to orange with flashing red lights",
+    "location": "Sullivan, Wisconsin, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Two couples, one being a salesman and the other a sod firm manager, plus a deputy sheriff.",
+    "contains photographs": false
 }

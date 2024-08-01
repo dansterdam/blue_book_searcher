@@ -1,15 +1,9 @@
 {
-    "main event": "Radar tracks of unidentified aircraft observed over Sakhalin, Japan on 21-22 Feb 1951 and 26-27 Feb 1951.",
-    "interesting points": [
-        "The radar tracks showed speeds ranging from 120 to 360 mph.",
-        "Some of the tracks showed erratic, high-speed movement, with estimates of 600-700 mph.",
-        "The report notes that during the 17 Mar 1949 to 20 Feb 1951 period, only 12 tracks were observed during darkness hours, whereas 10 tracks were observed during darkness on 21-22 Feb 1951.",
-        "The tracks were tentatively identified as Soviet aircraft by the Air Defense Controller.",
-        "Good flying conditions were reported during the observation periods."
-    ],
-    "result": "unknown",
-    "sighted object": "unidentified aircraft detected on radar",
+    "main event": "Radar tracks of unidentified aircraft were detected over Sakhalin, Japan between February 21-22, 1951.",
+    "interesting points": "Tracks were observed using ground radar, with speeds ranging from 150 to 300 mph., A total of 10 tracks of unidentified aircraft were identified during the observation period., The tracks were tentatively evaluated as U.S. aircraft by Air Defense Controllers., Various types of observations were noted including ground-visual tracking., The observation noted varying speeds and unidentified aircraft activity during hours of darkness.",
+    "sighted object": "unidentified aircraft tracks",
     "location": "Sakhalin, Japan",
-    "witnesses": "military radar operators",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

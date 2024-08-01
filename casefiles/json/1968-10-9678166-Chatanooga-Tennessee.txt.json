@@ -1,15 +1,9 @@
 {
-    "main event": "Not reported",
-    "interesting points": [
-        "The image appears to be a page from a Project Blue Book report, containing a form with various fields filled out.",
-        "The information in the report indicates the surface occurrence request for return it in the selladdressed envelope.",
-        "The report is from the Department of the Air Force, Headquarters Foreign Technology Division (AFSC), Wright-Patterson Air Force Base Ohio.",
-        "The report is addressed to Chattanooga, Tennessee 37409.",
-        "The report is signed by Hector Quintanilla, Jr., Lt Colonel, USAF, Chief, Aerial Phenomena Office, Aerospace Technology Division, Production Directorate."
-    ],
-    "result": "INSUFFICIENT DATA",
-    "sighted object": "Not reported",
-    "location": "Chattanooga, Tennessee 37409",
-    "witnesses": "Not reported",
-    "photographs": "None"
+    "main event": "A report was submitted regarding an unidentified flying object sighting in Chattanooga, Tennessee in October 1969.",
+    "interesting points": "The report was filed by a civilian,The report indicates that the number of objects observed is not reported,No photographs are included with the report,There is no physical evidence documented,The conclusion of the report is that there is insufficient data.",
+    "sighted object": "unidentified flying object",
+    "location": "Chattanooga, Tennessee, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian",
+    "contains photographs": false
 }

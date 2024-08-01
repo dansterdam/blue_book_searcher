@@ -1,17 +1,9 @@
-Here is a JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A pilot of a commercial airliner reported seeing multiple unidentified flying objects near Castle Air Force Base in California on August 20, 1953.",
-    "interesting points": [
-        "The objects appeared to be in formation initially, then broke apart and flew in circles around the aircraft.",
-        "The objects were described as having a 'mass of fire' in the rear.",
-        "The sighting occurred at an altitude of 15,000 feet.",
-        "The report notes a lack of investigative capabilities to draw any valid conclusions from the sighting.",
-        "The report was received by the 3800th Flight Service at MATS in Washington, D.C."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified flying objects",
-    "location": "Near Castle Air Force Base, California",
-    "witnesses": "pilot of a commercial airliner",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in California between 2005 and 2020, classified after analysis as likely a natural phenomenon such as a meteorite or missile trail.",
+    "interesting points": "The observation lasted from 2005 to 2020 but was of short duration,The object was streak-like in appearance and light in color,No photographs or physical evidence were collected,The conclusion categorized the sighting as a natural phenomenon,There were multiple sightings of the object by different observers.",
+    "sighted object": "unidentified flying object",
+    "location": "California Area, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

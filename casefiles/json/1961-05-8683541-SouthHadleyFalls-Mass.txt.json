@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A reddish object with a slight weaving or rolling motion was observed for 5-7 seconds in South Hadley Falls, Massachusetts on May 15, 1961.",
-    "interesting points": [
-        "The object was observed by civilian witnesses.",
-        "The observation lasted for about 8 minutes.",
-        "The object was initially thought to possibly be a satellite or an echo.",
-        "There were additional reported sightings in the area around the same time period, including observations by police officers.",
-        "The report mentions an incident on May 19, 1961 where a commercial airliner encountered a large green fireball that affected the aircraft's instruments."
-    ],
-    "result": "unexplained",
-    "sighted object": "reddish object with a slight weaving or rolling motion",
-    "location": "South Hadley Falls, Massachusetts",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An observer reported seeing a reddish object with a weaving motion over South Hadley Falls, Massachusetts, on May 15, 1961.",
+    "interesting points": "The sighting lasted for about 5-7 seconds, although the total observation time was 8 minutes., The object had a reddish rear., The sighting was classified as an Air-Visual observation., The potential identification of the object was an echo from a satellite, namely Echo 1., Two police officers reported seeing strange lights chased by two F-101 aircraft in the same area around the same time.",
+    "sighted object": "reddish object with a weaving or rolling motion",
+    "location": "South Hadley Falls, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian observers, including police officers",
+    "contains photographs": false
 }

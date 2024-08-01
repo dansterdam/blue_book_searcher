@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian Air Force Police reported a peculiar aerial observation in Sacramento, California on 15th July 1949. The object appeared as a mirror reflecting light, traveled faster than a jet, and was in sight for only a few seconds.",
-    "interesting points": [
-        "The object appeared as a mirror reflecting light and wobbled as it traveled, making it difficult to determine its shape.",
-        "It was estimated to be at twice the altitude of two jet-propelled aircraft flying in the opposite direction.",
-        "The object's speed was observed to be greatly in excess of any jet aircraft previously witnessed.",
-        "The civilian Air Force Police who reported the observation are noted as not given to exaggeration, lending credibility to the report.",
-        "The observation lasted only for a few seconds, indicating the swiftness of the object's appearance and disappearance."
-    ],
-    "result": "prosaic explanation",
+    "main event": "A civilian Air Force Police officer reported seeing a peculiar aerial object in Sacramento, California, on 15 July 1949.",
+    "interesting points": "The object was observed for only a few seconds,It appeared as a mirror reflecting light and seemed to wobble,The object was traveling faster than any jet aircraft previously observed by the witnesses,The witnessing officer estimated the object's altitude to be twice that of the jets in the area,The direction of travel for the object was northeast.",
     "sighted object": "one aerial object",
-    "location": "Sacramento, California",
-    "witnesses": "Civilian Air Force Police, McClellan AFB",
-    "photographs": "no photographs"
+    "location": "Sacramento, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian Air Force Police officer",
+    "contains photographs": false
 }

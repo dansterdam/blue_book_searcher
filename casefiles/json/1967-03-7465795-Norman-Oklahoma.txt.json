@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A spherical, orange-colored object was observed in the sky over Norman, Oklahoma on March 23, 1967.",
-    "interesting points": [
-        "The object appeared to be about one-eighth the size of the moon and traveled west at an estimated speed of 2,500 mph.",
-        "The object was visible for 6-7 minutes, moving from a 30-degree elevation and 15-20 degree azimuth to a 30-40 degree elevation before disappearing gradually to the north.",
-        "The observer used binoculars to view the object, but the type and magnification were unknown.",
-        "The weather conditions at the time included high scattered clouds, with winds from the southeast shifting to the southwest at 6,800 feet.",
-        "A weather balloon launched from Tinker AFB around the same time was determined to be the most probable cause of the reported sighting."
-    ],
-    "result": "probable weather balloon",
-    "sighted object": "spherical, orange-colored object",
-    "location": "Norman, Oklahoma",
-    "witnesses": "college students",
-    "photographs": "no"
+    "main event": "A witness observed a spherical-shaped orange object in the sky traveling at high speed in Norman, Oklahoma in 1967.",
+    "interesting points": "The object was approximately one-eighth the size of the moon,The sighting lasted for about 6-7 minutes,The object traveled west at approximately 2500 MPH, Eyewitness estimate of the object's speed was 90 miles per hour, The event might have been mistaken for a weather balloon, though no evidence confirmed that.",
+    "sighted object": "spherical orange object",
+    "location": "Norman, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "21-year-old male student",
+    "contains photographs": false
 }

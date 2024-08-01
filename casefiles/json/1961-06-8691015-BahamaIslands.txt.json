@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One object, circular and orange, was observed moving rapidly east to west over the Bahama Islands on June 8, 1961 from 2130-2145 hours.",
-    "interesting points": [
-        "The object was tracked on radar.",
-        "The object was observed by a pilot and crew.",
-        "The weather was clear with no moon.",
-        "A smoke trail was reported 22 miles north-northwest of Gable Beach, Eleuthera Island, Bahamas, apparently following the object as it fell into the water.",
-        "The sighting lasted for 15 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "one circular, orange object",
+    "main event": "An orange circular object was observed moving rapidly from east to west over the Bahama Islands.",
+    "interesting points": "The sighting lasted for 15 minutes,The weather was clear with no moon visible,The object was tracked on radar,The observation was made by a pilot and crew,One object was reported.",
+    "sighted object": "one circular orange object",
     "location": "Bahama Islands",
-    "witnesses": "pilot and crew",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "observed by pilot and crew",
+    "contains photographs": false
 }

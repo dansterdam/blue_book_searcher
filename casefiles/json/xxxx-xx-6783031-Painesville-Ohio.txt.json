@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large, orange object was observed in the sky over Painesville, Ohio for about 15 minutes before disappearing.",
-    "interesting points": [
-        "The object's velocity would be difficult to estimate, suggesting it may have been an unusual current object rather than a conventional aircraft.",
-        "Several other witnesses in the neighborhood corroborated the sighting.",
-        "The witness is considered reliable and his observations are felt to be accurate.",
-        "No reasonable explanation for the sighting has been established.",
-        "The object was described as circular and metallic in nature, estimated to be 10-15 feet in diameter, and self-luminous."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, orange object",
-    "location": "Painesville, Ohio",
-    "witnesses": "a group of people",
-    "photographs": "no"
+    "main event": "A group of people observed a large, orange object in the sky over Painesville, Ohio for about 15 minutes before it disappeared.",
+    "interesting points": "The object was described as being large and orange in color., The report states that estimating the object's velocity was difficult., The object's course was undefined., There were no photographs or physical evidence of the sighting., Witnesses included individuals with backgrounds in railroad signaling.",
+    "sighted object": "large, orange object",
+    "location": "Painesville, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "A group of people, including a railroad telegrapher and others.",
+    "contains photographs": false
 }

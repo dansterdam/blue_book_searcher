@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white object was observed slowly descending towards the ground in Los Angeles, California.",
-    "interesting points": [
-        "The object was much brighter than the surrounding sky.",
-        "The descend rate of the object was too slow to be a comet.",
-        "A witness was still visible behind the descending object.",
-        "There was a teletype dispatch related to this case on June 16, 1967.",
-        "The object was initially sighted about 48 degrees above the horizon at a bearing of 229 degrees, and it burned out at about 22 degrees above the horizon at a bearing of 175 degrees from the vessel."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white object",
-    "location": "Los Angeles, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A bright white colored UFO was observed slowly descending towards the ground in Los Angeles, California on February 12, 1967.",
+    "interesting points": "The object was much brighter than the surrounding sky., The descent rate of the object was too slow to be classified as a comet., A witness remained visible behind the descending object., The length of observation was between 1-2 minutes., There was no physical evidence or photographs taken of the sighting.",
+    "sighted object": "one bright white UFO",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer.",
+    "contains photographs": false
 }

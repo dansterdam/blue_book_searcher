@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "A ground-radar observation of an unidentified object with a solid appearance in New York City on 14 December 1959.",
-    "interesting points": [
-        "The observation lasted for approximately 2 minutes and 30 seconds.",
-        "The witness did not complete the full questionnaire, leaving many pertinent details blank.",
-        "The Air Force concluded the object was possibly a balloon, but stated there was insufficient information to make a valid conclusion.",
-        "The witness was instructed to fill out the questionnaire in more detail and return it for further analysis.",
-        "The report includes a diagram of a spherical projection grid, suggesting the object's position and movement may have been tracked using radar."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unidentified object with a solid appearance",
-    "location": "New York, NY",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "A sighting of a UFO was reported in New York, NY on 14 Dec 1959, suggesting the object was possibly a balloon.",
+    "interesting points": "The sighting lasted for approximately 2 minutes and 30 seconds., The observer described the object as having a solid appearance., Insufficient information was provided by the witness for a valid conclusion., The report suggested the object might have been a balloon., The form was incomplete, omitting many pertinent spaces.",
+    "sighted object": "object with solid appearance",
+    "location": "New York, NY, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified, witness did not complete the form",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the provided UFO report:
-
 {
-    "main event": "Sighting of a formation of unidentified objects over Brentwood, Maryland in March 1952",
-    "interesting points": [
-        "The objects were described as being in a flat, V-shaped formation, traveling in a northerly direction.",
-        "The objects were oval in shape, gray in color, and appeared to be at a high altitude and moving at a high speed, faster than a jet.",
-        "Photographs of the sighting were allegedly taken and printed in a Washington newspaper on April 4, 1952.",
-        "The sighting was reported by a civilian source, but no conclusion or investigation was conducted.",
-        "Another sighting of a similar formation of objects was reported in Colmar Manor, Maryland, with the objects being described as lights or shapes in the sky."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Formation of oval-shaped, gray objects",
-    "location": "Brentwood, Maryland",
-    "witnesses": "Civilian source",
-    "photographs": "Yes, allegedly taken and published in a newspaper"
+    "main event": "A civilian reported observing shapes or lights arranged in patterns over Colmar Manor, MD on either March 28 or 29, 1952.",
+    "interesting points": "The objects were described as traveling at high speed and high altitude., The witness kept the objects in sight for over 1 minute., One witness described the formation as resembling a 'V' shape., The objects were noted to have a grey color and glaring position., The report indicated that the sightings were uninvestigated due to insufficient data.",
+    "sighted object": "forms or lights arranged in shapes",
+    "location": "Colmar Manor, MD, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

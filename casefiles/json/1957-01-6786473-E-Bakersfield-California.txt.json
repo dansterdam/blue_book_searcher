@@ -1,15 +1,9 @@
 {
-  "main event": "A witness observed a slow drifting, large, round, white object in the sky for about half an hour. The object had no motion other than slow drifting and was visible through cloud breaks and silhouetted.",
-  "interesting points": [
-    "The sighting lasted for about half an hour, allowing for an extended observation period.",
-    "The object was described as large, round, and white, adding detail to the observation.",
-    "The object had no noticeable motion other than slow drifting, indicating unusual behavior.",
-    "The report states that the object was visible through cloud breaks, suggesting it was at a significant altitude.",
-    "The document is from Project Blue Book, a USAF program to investigate UFOs, contributing to its credibility."
-  ],
-  "result": "unexplained",
-  "sighted object": "large, round, white object drifting in the sky",
-  "location": "unspecified",
-  "witnesses": "one witness",
-  "photographs": "no, the report does not include photographs"
+    "main event": "A witness observed a slow drifting, large, round, white object in the sky for about half an hour.",
+    "interesting points": "The object exhibited no motion other than slow drifting., The object was visible through cloud breaks., The object was silhouetted against the sky., The sighting lasted for approximately 30 minutes., Insufficient information was provided for further evaluation.",
+    "sighted object": "large, round, white object",
+    "location": "",
+    "number of confirmed witnesses": 1,
+    "witness description": "a witness observed the sighting",
+    "contains photographs": false
 }

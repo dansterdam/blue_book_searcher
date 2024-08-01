@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A cylindrical object, the size of a basketball held at arm's length, was observed moving slowly northward in Sibley, Iowa.",
-    "interesting points": [
-        "The object was bright brown in color.",
-        "The observation lasted for 1 minute and 30 seconds.",
-        "The report included photos, but no photos were available in the provided document.",
-        "The object's movement and duration were evaluated as being consistent with a balloon or an aircraft.",
-        "The conclusion was that the object was 'probably a balloon', 'was astronomical', or 'possibly an aircraft'."
-    ],
-    "result": "Probable balloon or aircraft",
-    "sighted object": "One cylindrical object",
-    "location": "Sibley, Iowa",
-    "witnesses": "Civilian",
-    "photographs": "Yes, but not available in the provided document"
+    "main event": "A cylindrical object, the size of a basketball held at arm's length, was observed moving south at a slow rate of speed in Sibley, Iowa.",
+    "interesting points": "The observation lasted for 1 minute 30 seconds., The object was bright brown in color., Only one object was reported., The object was evaluated as possibly being a balloon or aircraft., The source of the sighting was a civilian.",
+    "sighted object": "one cylindrical object",
+    "location": "Sibley, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

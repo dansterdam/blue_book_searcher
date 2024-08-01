@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, fast-moving object was observed in the sky near Barstow, California on June 30, 1967.",
-    "interesting points": [
-        "The object was described as a solid, saucer-shaped craft that varied in color from dull orange to bright red.",
-        "The object exhibited rapid, zig-zag movements, making 90-degree turns at high speed.",
-        "The observer was certain their eyes were not playing tricks and that the object's motion and changes in direction were distinct.",
-        "The object was observed for approximately 3 minutes.",
-        "Arcturus, a bright star, was also visible near the horizon at the time of the sighting."
-    ],
-    "result": "Unexplained",
-    "sighted object": "Bright, saucer-shaped craft",
-    "location": "Barstow, California",
-    "witnesses": "1 observer",
-    "photographs": "No"
+    "main event": "A witness observed a UFO in Barstow, California on June 30, 1967, describing it as having a color that varied from dull orange to bright red and moving with distinct changes in direction.",
+    "interesting points": "The observation lasted for 3 minutes,The UFO was observed moving northwest,The object's motion included distinct right angle turns,The object was believed to be related to the star Arcturus,The witness was located on a desert road near the city and reported that the object moved at a very fast, constant speed.",
+    "sighted object": "one bright orange-reddish object",
+    "location": "Barstow, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was outdoors near a desert road.",
+    "contains photographs": false
 }

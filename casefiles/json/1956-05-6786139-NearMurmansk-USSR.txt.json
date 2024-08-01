@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Crew aboard a ship observed a round, disc-like object near Murmansk, USSR in 1956.",
-    "interesting points": [
-        "The object remained still for a short period, then picked up speed and vanished from the sky.",
-        "The object was estimated to be about twice the size of an American commercial airliner and moved at a speed described as 'like a streak of lightning'.",
-        "The crew rushed up on deck to observe the phenomenon, which appeared and disappeared multiple times over the course of 15 minutes.",
-        "The crew stated there was 'no doubt whatsoever' that they had seen a 'flying saucer'.",
-        "Other foreign trawlers in the area were also reported to have seen the same object."
-    ],
-    "result": "unknown",
-    "sighted object": "round, disc-like object",
-    "location": "Near Murmansk, USSR",
-    "witnesses": "crew aboard a ship",
-    "photographs": "no"
+    "main event": "Crew aboard a troop ship observed a round, disc-like object off the Russian coast near Murmansk during 1956.",
+    "interesting points": "The object appeared suddenly and performed maneuvers that included shooting across the sky at incredible speeds,It was estimated to be twice the size of a commercial airliner,The observation lasted approximately 15 minutes,The crew expressed certainty that they saw a flying saucer,The object descended to about 1000 meters and remained visible before vanishing.",
+    "sighted object": "flying saucer",
+    "location": "Murmansk, USSR",
+    "number of confirmed witnesses": 10,
+    "witness description": "crew aboard a troop ship",
+    "contains photographs": false
 }

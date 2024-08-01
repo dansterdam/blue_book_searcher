@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A black object, 5 ft in diameter and 3-5 ft thick, was sighted passing 5 ft over a car in Hanover, New Hampshire on September 6, 1967.",
-    "interesting points": [
-        "The object was round and silvery on the underside.",
-        "The observer estimated the object passed only 5 ft over his car.",
-        "The Air Force concluded there was insufficient data to determine the nature of the object.",
-        "The Air Force requested additional information from the observer to further investigate the sighting.",
-        "Weather and wind data at the time of the sighting were provided in the report."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "black, round object, 5 ft in diameter and 3-5 ft thick",
-    "location": "Hanover, New Hampshire",
-    "witnesses": "1 observer",
-    "photographs": "no photographs"
+    "main event": "An observer reported sighting a black object with a diameter of 5 ft and thickness of 3-5 ft, which passed only 5 ft above their car in Hanover, New Hampshire on September 6, 1967.",
+    "interesting points": "The object was round with a silvery underside,The observer described the object as dull black in color,The object appeared to be solid and made no noise,The sighting occurred at night with clear visibility conditions,Insufficient data was available for a conclusive evaluation.",
+    "sighted object": "a black object with a silvery underside",
+    "location": "Hanover, New Hampshire, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer was driving their car when the object passed overhead",
+    "contains photographs": false
 }

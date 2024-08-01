@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A power company lineman spotted a bright, glowing spherical object while working on a power transformer in East Dennis, Massachusetts in 1966.",
-    "interesting points": [
-        "The object was about 50-60 feet above the ground and 100 yards away from the observer.",
-        "The object was accompanied by a blue-green glow and seemed to be surrounded by a slight bluish haze.",
-        "The object appeared to be about 2 feet in diameter and had a brightness range of 22,000 to 32,000 lumens.",
-        "The object instantly disappeared from the same position where it was sighted.",
-        "The investigating official stated the object was likely an electrically charged corona around high power lines, due to the object's proximity to a power transmission line."
-    ],
-    "result": "Possible explanation: Electrically charged corona around power lines",
-    "sighted object": "A bright, glowing spherical object",
-    "location": "East Dennis, Massachusetts",
-    "witnesses": "A power company lineman",
-    "photographs": "No photographs included in the report"
+    "main event": "A power company lineman reported a spherical object with a bright blue-green glow hovering approximately 50-60 feet above the ground in East Dennis, Massachusetts.",
+    "interesting points": "The object was described as being about the size of a mercury liquid droplet,The sighting lasted for 30-40 seconds,The object appeared stationary during the observation,The investigator concluded that the object's characteristics were consistent with an electrically charged corona around high power lines,The object disappeared instantly from the same position as it was sighted.",
+    "sighted object": "spherical object emitting blue-green glow",
+    "location": "East Dennis, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "power company lineman, high school graduate, reliable",
+    "contains photographs": false
 }

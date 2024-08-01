@@ -1,15 +1,9 @@
 {
-    "main event": "A person in Hamilton, Montana observed a large, disc-shaped object that flew across the sky and then disappeared on July 4, 1963.",
-    "interesting points": [
-        "The object was brightly illuminated and changed direction several times during the 8-minute observation.",
-        "The observer had binoculars and noticed the object was smaller than a star.",
-        "The observer compared the object to ones they had seen in newspapers before.",
-        "The Air Force could not confirm the sighting and suggested it was likely caused by an Echo satellite.",
-        "The report includes tables of satellite location data for June 19, July 1, and July 8, 1963, which may be related to the sighting."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A large, disc-shaped object",
-    "location": "Hamilton, Montana",
-    "witnesses": "A single observer",
-    "photographs": "No photographs included"
+    "main event": "Multiple sightings of unidentified flying objects occurred on July 4, 1963, in Hamilton, Montana, including a disc-shaped object observed by a local resident.",
+    "interesting points": "The first sighting involved observers looking at the Moon and stars, who noted an object resembling a star in flight., A local resident reported seeing a large, disc-shaped object that changed direction while being observed with binoculars., The conclusion from the military was inconclusive, speculating the object might be balloons or possibly an aircraft., The sightings were communicated to both NASA and the USAF for further investigation., Observers expressed curiosity about the nature of the flying objects and their appearance in the sky.",
+    "sighted object": "one unidentified flying object, described as a star in flight and a large disc-shaped object",
+    "location": "Hamilton, Montana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "local residents who observed the objects at night",
+    "contains photographs": false
 }

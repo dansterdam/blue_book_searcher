@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "Two military pilots sighted an object resembling a flare that broke into two smaller objects while on a refueling mission over Indiana in 1962.",
-    "interesting points": [
-        "The object was described as having a greenish color and resembling the shape of a flare.",
-        "The object was seen falling and breaking into two smaller objects.",
-        "The pilots were conducting a routine visual clearance during a refueling mission at an altitude of 22,000 feet.",
-        "The object was sighted at an elevation of 22-6 degrees and disappeared at an azimuth of 320 degrees and elevation of 2 degrees.",
-        "The object was only visible for 2-3 seconds before disappearing suddenly."
-    ],
-    "result": "inconclusive",
-    "sighted object": "one flare-like object that broke into two smaller objects",
-    "location": "Cloverdale, Indiana",
-    "witnesses": "two military pilots",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A village site observer sighted two objects of KC type in Cloverdale, Indiana on April 8, 1960.",
+    "interesting points": "The objects were stationary and emitted light that appeared periodically reflective., The observation lasted between 3 to 5 minutes., Observers speculated the objects could be balloons, aircraft, astronomical phenomena, or satellites., The report was filed by military personnel., The objects were described as similar to the shape of a flare.",
+    "sighted object": "two objects of KC type, possibly satellites or high flying aircraft",
+    "location": "Cloverdale, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Robert F. Schraff and Ronald L. Jones, military personnel",
+    "contains photographs": false
 }

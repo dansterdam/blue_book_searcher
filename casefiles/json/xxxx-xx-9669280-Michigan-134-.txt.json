@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Three individuals reported seeing a bright, oblong object with a bright red glow pass rapidly from east to west in the sky on the evening of 6-17-57.",
-    "interesting points": [
-        "The object was described as being about the size of a basketball, having no wings or tail, and moving at a very rapid rate of speed.",
-        "The object was seen for approximately 10 seconds and then disappeared.",
-        "There was no noise associated with the object.",
-        "One of the witnesses stated that the object was definitely not an airplane, missile or satellite.",
-        "The witnesses were considered credible people in the community."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, oblong object with a bright red glow",
-    "location": "Monroe, Michigan",
-    "witnesses": "three individuals",
-    "photographs": "no"
+    "main event": "Three individuals in Monroe, Michigan reported seeing a bright, oblong object with a bright red glow passing rapidly from east to west on the evening of 17 June 1957.",
+    "interesting points": "The object was described as the size of a basketball, having no wings or tail, and was seen for approximately 10 seconds before disappearing., The witnesses reported that there was no noise associated with the object., One of the witnesses was quoted stating that the object was definitely not an airplane, missile, or satellite., There were credible witnesses of standing in the community., This sighting occurred under clear skies with excellent visibility.",
+    "sighted object": "a bright, oblong object with a bright red glow",
+    "location": "Monroe, Michigan, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "individuals of some standing in the community",
+    "contains photographs": false
 }

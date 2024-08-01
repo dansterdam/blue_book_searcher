@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "An object was observed entering the atmosphere, trailing fire, and breaking into pieces before disappearing.",
-    "interesting points": [
-        "The object was detected at coordinates 64°45'N 29°45'W in the Atlantic Ocean.",
-        "The object was first noticed trailing fire, then it broke into several pieces before finally disappearing.",
-        "The sighting occurred on December 1, 1962 at around 1830Z.",
-        "The object was heading in a westerly direction at an unknown speed.",
-        "The sighting was visual, and the nature of the object was unknown."
-    ],
-    "result": "Inconclusive (listed as 'Ball-Meteor/Fireball/Satellite' in the conclusion)",
-    "sighted object": "An object entering the atmosphere, trailing fire and breaking into pieces",
-    "location": "Atlantic Ocean, 64°45'N 29°45'W",
-    "witnesses": "Unknown (reported by military sources)",
-    "photographs": "None"
+    "main event": "On 1 December 1962, an object entered the atmosphere trailing fire, broke into pieces, and disappeared.",
+    "interesting points": "The object was first observed trailing fire before breaking apart in the atmosphere., The sighting was reported by military sources., The object was located at coordinates 64-45N 29-45W., The speed of the object was unknown., The conclusion drawn was that it was a ball-meteor, fireball, or satellite.",
+    "sighted object": "Object entering the atmosphere trailing fire",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military sources reported the sighting",
+    "contains photographs": false
 }

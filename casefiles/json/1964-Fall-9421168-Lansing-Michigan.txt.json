@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness observed a dark, round or cigar-shaped object that moved slowly, hovered, and maneuvered in the sky before disappearing.",
-    "interesting points": [
-        "The object came down from the east, moved slowly, and appeared to be about the size of a small plane (30-40 feet long).",
-        "The object hovered and maneuvered for several minutes before moving off to the west and disappearing.",
-        "The witness observed the object through binoculars and noted it was dark in color, possibly bluish-gray.",
-        "There was no sound associated with the object.",
-        "The sighting occurred around 7:05 PM on July 7, 1964 in San Jose, California while it was still daylight."
-    ],
-    "result": "unexplained",
-    "sighted object": "dark, round or cigar-shaped object",
-    "location": "San Jose, California",
-    "witnesses": "1 witness",
-    "photographs": "none"
+    "main event": "On 13 March-April 1964, witnesses reported observing an unidentified object with blinking lights moving at high speeds.",
+    "interesting points": "The object had a pulsating, blinking white light and was estimated to be about the size of a car., The sighting occurred at night, limiting visibility and details., Witnesses described a humming sound associated with the object., The object was visible for approximately 10 to 15 seconds before disappearing., No conclusive determinations about the object's nature or origin could be made.",
+    "sighted object": "a lighted object with blinking lights",
+    "location": "Lansing, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as moving rapidly and hovering without leaving any visible trail.",
+    "contains photographs": false
 }

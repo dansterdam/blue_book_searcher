@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A woman and her two daughters observed a yellowish-orange, egg-shaped object moving in a straight line in the sky over Bayshore, Long Island, New York on March 31, 1967.",
-    "interesting points": [
-        "The object had a dark band around the middle, which the witness's youngest daughter said reminded her of a hamburger.",
-        "A small white light fell from the bottom of the object and winked out after about 3 seconds.",
-        "The object then dimmed rapidly and appeared to arc up and back, before the lights came back on fully for a few seconds and then dimmed out completely.",
-        "The witness said the object was visible for about 15 minutes, from around 7:15 PM to 7:30 PM.",
-        "The witness's 11-year-old daughter said the object had a rod or something at the tip, and also a red light at the back end."
-    ],
-    "result": "Unidentified",
-    "sighted object": "Yellowish-orange, egg-shaped object",
+    "main event": "On March 31, 1967, a civilian observer in Bayshore, Long Island, New York, reported seeing a yellowish-orange object in the sky that resembled a hamburger.",
+    "interesting points": "The observer initially thought the object was a bright star until noticing its movement,Two daughters of the observer also witnessed the object and described a dark band around it,The object emitted no sound during the observation, The object appeared to dim and then suddenly re-brighten before fading out completely, The report included a reference to similar sightings identified as hot air balloons.",
+    "sighted object": "a yellowish-orange object resembling a hamburger",
     "location": "Bayshore, Long Island, New York",
-    "witnesses": "Woman and her two daughters",
-    "photographs": "No photographs included in the report"
+    "number of confirmed witnesses": 3,
+    "witness description": "a civilian observer and two daughters aged 11 and 8",
+    "contains photographs": false
 }

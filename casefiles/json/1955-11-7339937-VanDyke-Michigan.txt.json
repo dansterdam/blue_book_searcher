@@ -1,15 +1,9 @@
 {
-  "main event": "A sighting occurred on 21 November 1955 in Van Dyke, Michigan, where a brilliant flash of white light, with no sound, was observed for 3 seconds.",
-  "interesting points": [
-    "The observation lasted for only 3 seconds with a duration of 5 seconds.",
-    "The source identified the shape as a 'flash' and described it as 'brilliant' and 'white'.",
-    "The report was submitted to the USAF and the conclusions section was left unchecked due to insufficient data for evaluation.",
-    "The location of the sighting was Van Dyke, Michigan, and the witness was an executive secretary.",
-    "The document from Project Blue Book indicates that the event was classified as 'UNKNOWN' by the chief director of the agency."
-  ],
-  "result": "unexplained",
-  "sighted object": "a brilliant flash of white light",
-  "location": "Van Dyke, Michigan",
-  "witnesses": "executive secretary",
-  "photographs": "no"
+    "main event": "A sighting occurred on 21 November 1955 in Van Dyke, Michigan, featuring a brilliant white flash with no sound.",
+    "interesting points": "The sighting lasted for approximately 3 seconds., The observer reported a single object., The record card indicates insufficient data for evaluation., The shape of the sighted object was noted as 'fruit'., The brightness of the flash was described as brilliant.",
+    "sighted object": "brilliant flash of light",
+    "location": "Van Dyke, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "executive secretary, age 25",
+    "contains photographs": false
 }

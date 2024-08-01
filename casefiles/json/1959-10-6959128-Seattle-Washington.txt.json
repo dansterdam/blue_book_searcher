@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting incident occurred near Seattle, Washington on September 6, 1959. It involved several objects tracked on radar and visually observed in flight for approximately 5 hours. The conclusion was that the temperature inversion and mirage effects caused the visual and radar sightings.",
-  "interesting points": [
-    "Several objects were visually observed in flight and tracked on radar for approximately 5 hours.",
-    "The objects appeared to be a round, quarter-sized, with white and blue colors and a flickering light.",
-    "The flight patterns of the objects were erratic, and they usually appeared in pairs.",
-    "The observers reported a weak blip on radar and the objects fading after approximately three hours.",
-    "The sighting was associated with temperature inversion and mirage effects, causing the visual and radar sightings."
-  ],
-  "result": "unexplained",
-  "sighted object": "several round, quarter-sized objects with flickering lights",
-  "location": "Seattle, Washington",
-  "witnesses": "Military source and Sergeant at 13 Battery D, 2nd Missile Battalion, 43rd Artillery",
-  "photographs": "yes"
+    "main event": "Several objects were tracked on radar and visually observed in flight near Seattle, Washington, on September 6, 1959.",
+    "interesting points": "The sighting lasted for approximately 5 hours,Multiple objects were reported with erratic flight patterns, The objects usually appeared in pairs and showed a flickering light, Weather conditions were clear but fog moved in shortly after the sighting, Analysis suggested that mirage effects due to temperature inversion may have contributed to the sighting.",
+    "sighted object": "several round, white and blue objects with flickering lights",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "military observations and radar tracking",
+    "contains photographs": false
 }

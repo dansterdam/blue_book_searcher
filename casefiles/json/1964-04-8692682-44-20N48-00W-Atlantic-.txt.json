@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple sightings of unidentified objects, including a round object with a trailing tail and two unidentified aircraft with steady red lights, over the Atlantic Ocean on 10 Apr 64.",
-    "interesting points": [
-        "The round object appeared to have a round shape with a tail extending behind it, and its motion was the primary factor that distinguished it from the stars.",
-        "The two unidentified aircraft with steady red lights were sighted at the pilot's 2 o'clock position, then moved to the 11 o'clock position, while remaining in a loose formation.",
-        "The unidentified aircraft maintained on radar for approximately 5 minutes after visually disappearing.",
-        "The unidentified aircraft were estimated to be traveling at approximately 500 knots.",
-        "The sightings were reported by the pilot of a KC-135F aircraft flying at 25,000 feet."
-    ],
-    "result": "unexplained",
-    "sighted object": "round object with a trailing tail, two unidentified aircraft with steady red lights",
-    "location": "Atlantic Ocean, 44.20N 48.00W",
-    "witnesses": "pilot of KC-135F aircraft",
-    "photographs": "no"
+    "main event": "A U.S. Air Force pilot reported sightings of an unidentified flying object while flying at 25,000 feet in the Atlantic Ocean on April 10, 1964.",
+    "interesting points": "The object was observed for 10 minutes and appeared to have a round shape with a tail extending behind it., The object was the same color as the stars and was only distinguished by its motion., The pilot also reported seeing 7 vessels in a curving line with no outlines distinguished, only lights observed., Two unidentified aircraft with steady red lights were seen flying in loose formation and visually disappearing after a minute., Radar tracking of the aircraft continued for approximately 5 additional minutes after visual sighting.",
+    "sighted object": "unidentified flying object, two unidentified aircraft, and surface vessels",
+    "location": "Atlantic Ocean, Atlantic, N/A",
+    "number of confirmed witnesses": 1,
+    "witness description": "U.S. Air Force pilot Capt. D. Dunlap, USMC, flying a KC 135F",
+    "contains photographs": false
 }

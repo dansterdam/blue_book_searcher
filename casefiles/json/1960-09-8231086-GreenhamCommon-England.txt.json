@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar object was observed at Greenham Common, England on September 26, 1960.",
-    "interesting points": [
-        "The object was tracked on radar, moving in a direction of 030° at an elevation angle of 80° to 85°.",
-        "The object's speed was estimated to be in excess of 200 knots, indicating an air-breathing jet aircraft profile.",
-        "The object appeared very bright and had a short trail, before entirely disappearing behind clouds.",
-        "The total duration of the sighting was approximately 15 seconds.",
-        "The radar return and observed characteristics were reported to the RAF Maintenance Unit at Greenham Common."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified radar return",
+    "main event": "An object was observed on radar in Greenham Common, England on September 26, 1960.",
+    "interesting points": "The object was tracked moving at a ground speed of over 200 knots., The elevation angle of the object was between 80° and 85°., The duration of the observation was 5 minutes., The sighting was reported to the RAF Maintenance Unit at Greenham Common., The radar return indicated characteristics similar to an air-breathing jet aircraft.",
+    "sighted object": "one unidentified object on radar",
     "location": "Greenham Common, England",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "The observation was made via ground radar and no eyewitness accounts are mentioned.",
+    "contains photographs": false
 }

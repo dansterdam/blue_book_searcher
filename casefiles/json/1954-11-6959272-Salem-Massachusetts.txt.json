@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, white, stationary sphere-shaped object was observed in the sky over Salem, Massachusetts for 23 minutes on November 9, 1954.",
-    "interesting points": [
-        "The object was described as a bright, white sphere, similar in size to a basketball.",
-        "The object appeared to be stationary but was jumping or moving erratically.",
-        "The object faded out of view.",
-        "The observation was made by a Lieutenant from the U.S. Coast Guard in Salem, Massachusetts.",
-        "Weather conditions at the time included winds of 22-27 knots from 320 degrees at various altitudes."
-    ],
-    "result": "Probably a balloon",
-    "sighted object": "A bright, white, sphere-shaped object",
-    "location": "Salem, Massachusetts",
-    "witnesses": "Lieutenant, U.S. Coast Guard",
-    "photographs": "No"
+    "main event": "A lieutenant observed a bright white spherical object in the sky for 23 minutes in Salem, Massachusetts.",
+    "interesting points": "The object was described as a stationary white sphere that appeared to be very bright,The observation was conducted with binoculars,The object faded out after the observation period,There was only one confirmed witness to the sighting,The conclusion from the report suggested it was probably a balloon.",
+    "sighted object": "a bright white spherical object",
+    "location": "Salem, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lieutenant Condor, USCG",
+    "contains photographs": false
 }

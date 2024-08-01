@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "A radar-tracked object was observed visually by a Ground Observer Corps member, moving in an irregular, erratic pattern at high speed.",
-    "interesting points": [
-        "The object was tracked on a ground radar installation for 15 minutes.",
-        "The object moved in an irregular, erratic pattern at high speed.",
-        "The sighting occurred at Mather Air Force Base in California.",
-        "Weather conditions at the time were clear with good visibility.",
-        "The report mentions the possibility of an artificial satellite being recoverable for the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a radar-tracked object observed visually",
-    "location": "Mather Air Force Base, California",
-    "witnesses": "Ground Observer Corps member",
-    "photographs": "no photographs present"
+    "main event": "A UFO was detected on Ground-Radar and visually confirmed by a Ground Observer Corps member on March 11, 1950.",
+    "interesting points": "The object was tracked on radar for 15 minutes.,The object moved in an irregular and erratic pattern at high speed., No other details were provided in the comments section., The sighting occurred at GMT/1840Z., The report includes various data types such as azimuth and altitude measurements.",
+    "sighted object": "unknown object tracked on radar",
+    "location": "Sacramento, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a Ground Observer Corps member",
+    "contains photographs": false
 }

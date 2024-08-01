@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light, the size of a street light, was observed moving up and down in the sky over Englewood, Colorado on November 6, 1956.",
-    "interesting points": [
-        "The light was white in color.",
-        "The light just 'blinked out' after about 30 minutes of observation.",
-        "The weather conditions were clear, and there was no known air traffic in the area at the time.",
-        "A weather balloon with lights attached was released around the same time as the sighting, which may have been the cause.",
-        "The report notes that the positional data was omitted, making it insufficient for a full evaluation."
-    ],
-    "result": "probable balloon",
-    "sighted object": "a bright white light, the size of a street light",
-    "location": "Englewood, Colorado",
-    "witnesses": "one observer, age 27",
-    "photographs": "none"
+    "main event": "One object was observed in Englewood, Colorado, moving up and down and then blinking out.",
+    "interesting points": "The observation lasted for 30 minutes,The object was described as being the size of a star and white in color,No wind would have moved the object in 30 minutes,The object was likely a weather balloon that had been released before the sighting,Positional data was omitted making the report insufficient for evaluation.",
+    "sighted object": "one bright light object",
+    "location": "Englewood, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "27 years old, Englewood, Colorado",
+    "contains photographs": false
 }

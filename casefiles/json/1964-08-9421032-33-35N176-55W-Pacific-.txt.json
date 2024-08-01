@@ -1,15 +1,9 @@
 {
-    "main event": "A bright white object was observed transiting across the sky from 199 degrees to 310 degrees at a very high altitude.",
-    "interesting points": [
-        "The object was observed at coordinates 33.35N 176.55W.",
-        "The object was observed transiting from an altitude of 79 degrees to an altitude of 79 degrees.",
-        "The observation lasted from 03371 to 33 029.",
-        "The object was concluded to be a 'probable satellite'.",
-        "The report was delivered to DIA, NIX, and XOPX."
-    ],
-    "result": "probable satellite",
+    "main event": "A UFO sighting was reported as a probable satellite observed by an Air Force observer.",
+    "interesting points": "The object was described as a bright white object,The observation took place at coordinates 33.35N 176.55W,The object was reported to transit from 199 degrees to 910 degrees at a very high altitude,The report notes no physical evidence was found,The report mentions delivery of this information to various defense agencies.",
     "sighted object": "bright white object",
-    "location": "33.35N 176.55W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "not specified",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer from the Department of the Air Force",
+    "contains photographs": false
 }

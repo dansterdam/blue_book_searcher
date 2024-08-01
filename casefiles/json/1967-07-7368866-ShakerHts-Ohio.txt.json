@@ -1,15 +1,9 @@
 {
-    "main event": "Three unidentified flying objects were observed in Shaker Heights, Ohio on July 3, 1967.",
-    "interesting points": [
-        "The objects were approximately 15 feet in diameter.",
-        "The duration of the observation was not reported.",
-        "The objects were of different colors.",
-        "The observers contacted the authorities, but they were unable to provide an explanation.",
-        "The Air Force requested that the observers complete a UFO reporting form for further evaluation."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "A sighting of 3 unidentified flying objects in Shaker Heights, Ohio on July 3, 1967.",
+    "interesting points": "Witness saw what they thought was a star that turned and flew away., Witness and brother observed the UFOs around 8 p.m., The UFOs were reported to be in different colors., There was a lack of sufficient data for scientific evaluation from the Air Force., The response from the Air Force requested more detailed information.",
     "sighted object": "three unidentified flying objects",
-    "location": "Shaker Heights, Ohio",
-    "witnesses": "civilian observers, including the letter writer and their brother",
-    "photographs": "no"
+    "location": "Shaker Hts, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two brothers observing the night sky",
+    "contains photographs": false
 }

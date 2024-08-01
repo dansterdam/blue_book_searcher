@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A round, grapefruit-sized, red and white object with an irregular path was observed in Manchester, New Hampshire on November 7, 1957.",
-    "interesting points": [
-        "The object emitted an 'electric salty fluid' and caused the electricity in the house to go out.",
-        "The object had a very irregular path through the sky.",
-        "The sighting lasted for about 1 minute.",
-        "The Manchester GOC (Ground Observer Corps) had four other similar reports of the same UFO.",
-        "The observer used 25-power binoculars to view the object, and noted that it made no sound."
-    ],
-    "result": "Probable aircraft sighting", 
-    "sighted object": "round, grapefruit-sized object, red and white in color",
-    "location": "Manchester, New Hampshire",
-    "witnesses": "one observer, a 17-year-old resident of Manchester",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "A round red object, described as the size of a grapefruit, caused a power outage during a sighting in Manchester, New Hampshire on 7 November 1957.",
+    "interesting points": "The object was reported to have an irregular flight path., The sighting lasted for about one minute., There was no sound associated with the object., The sighting was made using 25 power binoculars., There were four other reports of the same UFO in the area.",
+    "sighted object": "a round red object, the size of a grapefruit",
+    "location": "Manchester, New Hampshire, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "17-year-old observer looking out the window of his home",
+    "contains photographs": false
 }

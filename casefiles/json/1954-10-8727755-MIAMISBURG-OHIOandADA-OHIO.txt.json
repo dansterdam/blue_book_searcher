@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Two people in different locations observed a blush-white object with no sound for about 2 seconds moving south.",
-    "interesting points": [
-        "The object was observed by two people in different locations.",
-        "The object moved very quickly, only being visible for about 2 seconds.",
-        "The object was described as a blush-white color with no sound.",
-        "The object was determined to be an astronomical phenomenon, likely a meteor.",
-        "Multiple pages of a detailed UFO report questionnaire were included, covering various aspects of the sighting."
-    ],
-    "result": "astronomical: meteor",
-    "sighted object": "blush-white object",
-    "location": "Miamisburg, Ohio & Ada, Ohio",
-    "witnesses": "two civilian observers in different locations",
-    "photographs": "no"
+    "main event": "Two persons observed a blush-white object moving south for two seconds in Miamisburg and Ada, Ohio in October 1994.",
+    "interesting points": "The object was seen without any sound,It was observed by two witnesses in different locations,The sighting lasted only two seconds,It was classified as an astronomical meteor,The witnesses described it as having a color of blush-white.",
+    "sighted object": "one blush-white object",
+    "location": "Miamisburg, Ohio, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "two individuals who reported their observations independently",
+    "contains photographs": false
 }

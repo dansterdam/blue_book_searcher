@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple police officers in California reported seeing a bright, stationary object in the sky on December 14, 1962.",
-    "interesting points": [
-        "The object was described as a brilliant light, approximately 50-75 feet in diameter, that remained stationary in the sky for over 90 minutes.",
-        "The object did not affect the radio equipment in the police vehicles, and no aircraft from military or civilian sources were identified in the area at the time.",
-        "One officer reported that the object was followed by a larger and brighter object that may have caused interference on the police radio.",
-        "Weather conditions at the time were clear, with no clouds reported.",
-        "Investigators considered the possibility that the object could have been a weather balloon, but were unable to confirm this."
-    ],
-    "result": "unidentified",
-    "sighted object": "a large, brilliant light",
-    "location": "Greenfield and King City, California",
-    "witnesses": "multiple police officers",
-    "photographs": "no, the report does not contain any photographs"
+    "main event": "Multiple reports of an unidentified flying object in Greenfield, California, observed by local police and residents on December 14, 1962.",
+    "interesting points": "The object was described as very brilliant and approximately 10,000 feet in altitude., Police officers observed the object for more than 90 minutes, confirming its size as 50 to 75 feet in diameter., There were no detectable emissions or interference with police radio equipment during observation., The object appeared similar to a ball of fire and had stationary behavior., The incident was reported to multiple military and civilian organizations for further investigation.",
+    "sighted object": "A brilliant light or glowing object in the sky",
+    "location": "Greenfield, Monterey County, CA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Police officers from the Greenfield Police Department and King City Police Department.",
+    "contains photographs": false
 }

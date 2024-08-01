@@ -1,15 +1,9 @@
 {
-    "main event": "Calls were received by the Control Tower at Manston AF Base, England concerning Unidentified Flying Objects on the night of September 20, 1956.",
-    "interesting points": [
-        "Two calls were received by the Control Tower, the first at 19.50 local time stating a bright object in the sky, 10-15 miles SW of Ashford, and the second at 19.55 stating the object was a bright white disc approaching Manston at very high speed, headed SE and then ESE.",
-        "The information was obtained four days after the sighting on September 24, 1956.",
-        "The addresses of the witnesses were unknown except for the town in which they live.",
-        "The Tower Operator could not provide any further information.",
-        "The report was filed on January 9, 1957."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright object in the sky, bright white disc",
+    "main event": "Two calls were received about a bright object in the sky near Ashford, Kent on September 20, 1956.",
+    "interesting points": "The first call reported a bright object 10-15 miles SW of Ashford at 19.50 local time., The second call described a bright white disc approaching Manston at high speed., Reports were forwarded to the RAF which suggested they might have been seeing balloons., Information was received four days after the sighting., Witnesses' specific addresses were not documented, only their towns.",
+    "sighted object": "a bright white disc in the sky",
     "location": "Ashford, Kent, England",
-    "witnesses": "British civilians",
-    "photographs": "none"
+    "number of confirmed witnesses": 2,
+    "witness description": "British civilians",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A witness reported seeing a green flaming object that appeared in the southern sky, remained level, and then disappeared.",
-    "interesting points": [
-        "The object first appeared 1300 yards away and disappeared 1900 yards away, remaining 1300 yards above the horizon.",
-        "The object was described as a green flaming object that first appeared orange.",
-        "The sighting lasted for 60 seconds.",
-        "The report concludes the object was most likely a meteor fireball.",
-        "The witness was driving home when they noticed the object."
-    ],
-    "result": "Probable Meteor",
-    "sighted object": "green flaming object",
-    "location": "Kettering, Ohio",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "A witness observed a green flaming object in the sky in Kettering, Ohio on May 8, 1961.",
+    "interesting points": "The object first appeared orange before becoming green., The sighting lasted for approximately 60 seconds., The object was first seen 1300 feet away and disappeared 1900 feet away., The report mentions possibilities like meteor fireballs, aircraft, or satellites., The witness was driving home at the time of the sighting.",
+    "sighted object": "a green flaming object",
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Tyson Neil, 35, male, from Kettering, Ohio",
+    "contains photographs": false
 }

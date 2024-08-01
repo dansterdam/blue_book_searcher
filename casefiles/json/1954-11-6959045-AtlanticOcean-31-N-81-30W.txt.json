@@ -1,15 +1,9 @@
 {
-    "main event": "A military aircraft spotted a brilliant, disc-shaped object over the Atlantic Ocean that was in flight and stationary.",
-    "interesting points": [
-        "The object was observed for 23 seconds, traveling from east to west at an approximate speed of 19,200 feet per second (2,232 mph).",
-        "Two separate military aircraft observed the object, one at an altitude of 21,000 feet and the other at an unknown altitude.",
-        "The weather conditions at the time of the sighting were clear, with no cloud cover or thunderstorms.",
-        "The report concludes that there was insufficient data to evaluate the nature of the observed object.",
-        "The report includes detailed weather data, including wind speeds and directions at various altitudes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a brilliant, disc-shaped object",
-    "location": "Atlantic Ocean - 31°N - 81°30'W",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A military report documents a UFO sighting over the Atlantic Ocean on 6 November 1954.",
+    "interesting points": "The object was observed as brilliant and left no vapor trail,The course of the object was east to west,The length of observation was noted at about 23 seconds,Visibility conditions were clear with no cloud cover,The report concluded that there was insufficient data for evaluation.",
+    "sighted object": "a brilliant disc-shaped object",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "military personnel involved in the observation",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified bright light was spotted in the sky over Saratoga Springs, New York on June 21, 1967.",
-    "interesting points": [
-        "The object first appeared about 15 degrees above the horizon and remained in sight for about 10 minutes.",
-        "The object seemed to stand still at times, then moved to the west and disappeared, only to reappear several moments later at a higher elevation.",
-        "Through a telescope, the object appeared to have two rectangular lights joined together, with the center part indistinguishable.",
-        "Several other people, including a 12-year-old witness, also observed the object.",
-        "The Air Force requested the witness complete a Project Blue Book form to provide more details about the sighting."
-    ],
-    "result": "possible aircraft",
-    "sighted object": "a bright light, brighter than the surrounding stars",
-    "location": "Saratoga Springs, New York",
-    "witnesses": "multiple witnesses, including a 12-year-old",
-    "photographs": "none"
+    "main event": "An unidentified flying object was sighted in Saratoga Springs, New York, on June 21, 1967.",
+    "interesting points": "The object first appeared approximately 15 degrees above the southern horizon as a bright light, It remained in sight for about 10 minutes while moving mostly to the west, Other witnesses observed the object alongside the primary witness, It was described as brighter than the stars and emitted a sound resembling a 'whishing noise', Despite the brightness, the object could not be distinguished clearly before it disappeared.",
+    "sighted object": "a bright unidentified light in the sky",
+    "location": "Saratoga Springs, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "The primary witness was a 12-year-old boy who had a good knowledge of astronomy.",
+    "contains photographs": false
 }

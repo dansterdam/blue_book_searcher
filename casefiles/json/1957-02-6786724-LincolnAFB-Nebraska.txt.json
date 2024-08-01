@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple flashing red lights were observed by control tower personnel at Lincoln AFB, Nebraska and tracked on radar on February 13, 1957.",
-    "interesting points": [
-        "The objects were estimated to be at an altitude below 6000 ft and had speeds ranging from stationary to extreme.",
-        "The objects were observed by several Air Force personnel, including a control tower operator, an air traffic control specialist, and a pilot in a B-47 aircraft.",
-        "The objects did not conform to any known type of aircraft and were not identified.",
-        "Speeds of the objects were estimated to be 1200 to 1400 knots.",
-        "The objects were observed over a period of time from approximately 2135 to 2145 hours on February 27, 1957."
-    ],
-    "result": "unexplained",
+    "main event": "Multiple unidentified flashing red lights were observed and tracked on radar by control tower personnel at Lincoln AFB, Nebraska, on 13 February 1957.",
+    "interesting points": "The objects' altitude was estimated to be below 6,000 feet., The sighting lasted for about 30 minutes., Control tower personnel observed the lights using both the naked eye and binoculars., The lights displayed erratic movement, appearing to be both stationary and moving at extreme speeds., One of the objects was described as round or rotating with a brightness similar to an automobile headlight.",
     "sighted object": "multiple flashing red lights",
-    "location": "Lincoln AFB, Nebraska",
-    "witnesses": "control tower personnel, USAF air traffic control specialist, B-47 pilot",
-    "photographs": "no"
+    "location": "Lincoln AFB, Nebraska, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "control tower personnel including air traffic control specialists",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A silver unidentified aerial object was observed on radar maintaining a 55,000 foot altitude and performing fast evasive maneuvers, and then descended to 20,000 feet and passed over Hill Air Force Base, Utah.",
-    "interesting points": [
-        "The object was observed on radar maintaining a high altitude of 55,000 feet and then descended to 20,000 feet before passing over the air force base.",
-        "The object was described as silver in color and made fast evasive maneuvers, with a ground speed estimated to be between 200 to 500 knots.",
-        "Despite attempts, no radar contact or communication was established with the object, which disappeared from the radar screen shortly after being sighted.",
-        "This sighting was documented in a declassified Project Blue Book document, indicating its significance in the study of unidentified aerial objects by the U.S. Air Force.",
-        "The report was transmitted as an incoming classified message from the Commander of the 10th Collective Security Investigation Division at Hill Air Force Base to the Office of Special Investigations (OSI) at the U.S. Air Force in Washington D.C."
-    ],
-    "result": "unexplained",
-    "sighted object": "silver unidentified aerial object",
-    "location": "Hill AFB, Utah",
-    "witnesses": "USAF radar station personnel",
-    "photographs": "no photographs"
+    "main event": "A radar operator at Hill AFB observed an unidentified aerial object maintaining a high altitude and performing evasive maneuvers.",
+    "interesting points": "The object was silver in color and descended from 55,000 feet to 20,000 feet,The radar scope showed no communications could be established with the object,The object maneuvered rapidly and flew directly over Hill AFB,Time on the radar indicated the object had a ground speed estimated between 200 to 500 knots,The sighting was part of a declassified Project Blue Book document.",
+    "sighted object": "unidentified aerial object",
+    "location": "Hill AFB, Utah, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "radar operator at USAF station",
+    "contains photographs": false
 }

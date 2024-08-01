@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pulsating red and green flashing light was observed hovering in the northeast sky, approximately 30-45 degrees above the horizon, before rapidly accelerating to the northwest and disappearing.",
-    "interesting points": [
-        "The observer attempted to contact the object using a searchlight, but the object did not disappear from view.",
-        "Attempts were made to scramble a helicopter to investigate, but the number was listed in the phone directory.",
-        "The description is consistent with a typical UFO sighting, but without additional physical evidence, a definitive conclusion is not warranted.",
-        "The object appeared to hover and then make a rapid acceleration before disappearing from view.",
-        "The sighting lasted for approximately 3 minutes."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Pulsating red and green flashing light",
-    "location": "Beaver Creek, Ohio",
-    "witnesses": "1 observer",
-    "photographs": "No"
+    "main event": "An observer noted a pulsating red and green flashing light in the northeast sky over Beaver Creek, Ohio on 27 October 1966.",
+    "interesting points": "The light appeared to be hovering before it rapidly accelerated to the northwest and disappeared from view,The observer attempted to contact the object with a searchlight, but the object remained visible,The incident was reported to patrol officers who responded to the scene,The observer described the object consistently with typical UFO sightings,The conclusion of the report stated 'Insufficient data for evaluation.'",
+    "sighted object": "pulsating red and green flashing light",
+    "location": "Beaver Creek, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One witness (a male adult), and another witness identified as Mrs. Soui.",
+    "contains photographs": false
 }

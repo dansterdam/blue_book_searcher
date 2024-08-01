@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A rapid, low-white object, pulsating and the size of a penny, was observed in Alpha, Ohio in 1945.",
-    "interesting points": [
-        "The object moved rapidly, with a 30-degree view to the WSW at 40-degree view, in a way that balloons could not have done.",
-        "The sighting lasted for less than 10 seconds.",
-        "No sound was heard from the object.",
-        "The observer appears to be a competent observer who provided a sketch to aid the investigation.",
-        "The report includes information about a KC-135 aircraft with unusual lights that were observed around the same time as the UFO sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "rapid, low-white, pulsating object the size of a penny",
-    "location": "Alpha, Ohio",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "A sighting of a rapid, glowing object resembling the size of a penny was reported in Alpha, Ohio on December 3, 1959.",
+    "interesting points": "The object was described as pulsating and white, emitting no sound., The sighting lasted less than 10 seconds., The observer noted that balloons could not account for the object's movement., The observer had confidence in reporting due to a prior similar sighting by their mother., A sketch provided by the observer aided in the investigation.",
+    "sighted object": "a rapid white object pulsating in the sky",
+    "location": "Alpha, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A competent observer, a fisherman aged 34, who provided a sketch of the sighting.",
+    "contains photographs": false
 }

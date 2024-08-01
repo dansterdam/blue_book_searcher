@@ -1,15 +1,9 @@
 {
-    "main event": "A silvery disc-shaped object was sighted near Mooseheart, Illinois on July 8, 1959 around 8 o'clock, as documented in a Project Blue Book report.",
-    "interesting points": [
-        "The sighting lasted for approximately 30 minutes.",
-        "The report indicates that there was insufficient data available about the object.",
-        "The conclusion drawn was that it was likely a balloon, celestial, or astronomical.",
-        "The sighting occurred near sunset and the weather was described as scattered clouds but not around the sighting.",
-        "There were no photographs included in the report."
-    ],
-    "result": "prosaic explanation e.g. \"It was probably astronomical\"",
-    "sighted object": "a silvery disc-shaped object",
-    "location": "Mooseheart, Illinois",
-    "witnesses": "USAF officials from Project Blue Book",
-    "photographs": "no"
+    "main event": "A silvery disc-shaped object was observed near Mooseheart, Illinois on July 8, 1959.",
+    "interesting points": "The object was seen at around 8 o'clock, near sunset., The sighting lasted for 30 minutes., The weather was described as scattered clouds but not around the sighting., The observation was made in the general direction of Aurora, Illinois., The report concludes that the object could have been a balloon, celestial, or probably astronomical.",
+    "sighted object": "silvery disc-shaped object",
+    "location": "Mooseheart, Illinois, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Members of Moosofs Mooseheart Illinois",
+    "contains photographs": false
 }

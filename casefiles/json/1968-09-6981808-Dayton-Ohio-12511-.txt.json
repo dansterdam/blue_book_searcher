@@ -1,15 +1,9 @@
 {
-    "main event": "The provided text appears to be a cover page or title page for a document related to Project Blue Book, with several black-and-white photographs of night skies.",
-    "interesting points": [
-        "The text indicates that the document contains 6 photos, but the provided images do not include all 6.",
-        "The photographs appear to show night skies with various points of light, which could potentially be interpreted as unidentified flying objects (UFOs) or stars.",
-        "The photographs have different classification markings, indicating different levels of security clearance.",
-        "The photographs are labeled as being from the Foreign Technology Division, AFSC (Air Force Systems Command) and AEDC (Arnold Engineering Development Center).",
-        "There is no other visible content or text in the photographs besides the classification markings and labels."
-    ],
-    "result": "unexplained",
-    "sighted object": "various points of light in the night sky",
-    "location": "Dayton, Ohio",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 6 photographs, but only a subset is provided"
+    "main event": "A report containing observations and photographs related to unidentified flying objects (UFOs) from Project Blue Book dated September 28, 1968.",
+    "interesting points": "The report includes a title page indicating it is part of Project Blue Book., Two pages contain photographs labeled with different classification markings., The photographs show a night sky with dark spots or bright lights that could be interpreted as UFOs., The report is categorized under 'FOREIGN TECHNOLOGY DIVISION, AFSC', indicating a military context., The lack of discernible structures in the photographs raises questions about the nature of the objects.",
+    "sighted object": "lights in the night sky",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

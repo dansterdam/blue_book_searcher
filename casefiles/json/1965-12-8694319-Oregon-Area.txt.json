@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers sighted a round beam shaft of light about the size of a watermelon, while blue-green in color. There was a sound and the object seemed to disappear and reappear.",
-    "interesting points": [
-        "The object traveled in a straight line towards the observers.",
-        "The sighting coincided with the launch of a Minuteman missile from Vandenberg AFB, and there appeared to be an unusual amount of visual phenomena associated with this particular launch.",
-        "Observers included a FAA tower controller, a construction worker, and a witness from Albany, Oregon.",
-        "Weather conditions were reported as hazy, clear, and high thin scattered clouds with some haze depending on the observer's location.",
-        "The sighting lasted from 30 seconds to 5 minutes."
-    ],
-    "result": "Other (MISSILE)",
-    "sighted object": "round beam shaft of light, blue-green in color",
-    "location": "Oregon Area",
-    "witnesses": "civilian observers including an FAA tower controller, a construction worker, and a witness from Albany, Oregon",
-    "photographs": "no"
+    "main event": "Observers sighted one to two round beam shafts of light in the Oregon area on 15 December 1965.",
+    "interesting points": "The lights were round beams about the size of a watermelon and were blue-green in color., Observers reported hearing a sound as the objects seemed to disappear and reappear., The sighting lasted between 30 seconds to 5 minutes., The object traveled in a straight line towards the observers., The sightings coincided with the launch of a minuteman missile from Vandenberg.",
+    "sighted object": "one to two round beam shafts of light",
+    "location": "Oregon Area, Oregon, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "A FAA tower controller, a construction worker, and an observer in Albany, Oregon.",
+    "contains photographs": false
 }

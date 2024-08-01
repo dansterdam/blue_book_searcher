@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A crew of three Air Force pilots in a C-47 aircraft observed approximately ten unidentified aerial objects over Sweetwater, Nevada on April 12, 1953.",
-    "interesting points": [
-        "The objects were round and flat, estimated to be the size of a T-6 aircraft, and metallic in color.",
-        "The objects were in a loose, changing formation, moving at an extremely high speed that the observers could not estimate due to the distance and large radius of their turns.",
-        "The objects passed under the right side of the C-47 aircraft, and the pilot took control to turn the plane 300 degrees to get a better view.",
-        "The other two crew members were able to spot the objects independently after the turn.",
-        "No trail, exhaust, or sound was observed from the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "approximately ten unidentified metallic, round and flat objects",
-    "location": "Sweetwater, Nevada",
-    "witnesses": "Major Fred G. Paddleford, 2nd Lt Frank E. White, and 2nd Lt John Clapper",
-    "photographs": "none"
+    "main event": "On April 12, 1953, a crew aboard a C-47 aircraft observed approximately ten unidentified objects over Sweetwater, Nevada.",
+    "interesting points": "The objects were described as round and flat, metallic in color, and observed in a loose, changing formation., The objects were at an estimated altitude of 7500 feet and were flying on a heading of approximately 150 degrees., The observer reported no sound, trail, or exhaust from the objects., The sighting lasted for about 2-3 minutes while the aircraft maneuvered for a better view., The presence of no other aircraft in the area was noted, and the weather conditions were slightly hazy with visibility of 30 miles.",
+    "sighted object": "approximately ten round flat metallic colored objects",
+    "location": "Sweetwater, Nevada, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members of a C-47 aircraft including Major Fred G. Paddleford, 2nd Lt Frank E. White, and 2nd Lt John Clapper.",
+    "contains photographs": false
 }

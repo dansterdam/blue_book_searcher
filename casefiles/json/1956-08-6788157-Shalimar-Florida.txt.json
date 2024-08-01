@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on August 6, 1956 in Shalimar, Florida. The sighting involved a round brilliant white object with no definite shape, about 1 inch in diameter at arm's length, that twinkled or radiated like a star. The object was in sight for about 8.4 seconds.",
-    "interesting points": [
-        "The object was described as having no definite shape and twinkling like a star, indicating unusual characteristics.",
-        "The sighting lasted for a relatively short duration of 8.4 seconds, providing limited time for observation.",
-        "The report includes multiple potential explanations including 'Probably Astronomical' and 'Probably Aircraft', suggesting uncertainty about the nature of the object.",
-        "The precise and concise description of the object's appearance and behavior provides specific details for analysis.",
-        "The record card indicates 'Insufficient Data for Evaluation', highlighting the challenges in reaching a definitive conclusion about the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "round brilliant white object with no definite shape",
-    "location": "Shalimar, Florida",
-    "witnesses": "not specified",
-    "photographs": "no photographs available"
+    "main event": "A witness observed a round brilliant white object in Shalimar, Florida on August 6, 1956.",
+    "interesting points": "The object appeared to have no definite shape,It was observed for about 8.4 seconds,The object twinkled or radiated like a star,The estimated size was about 1 inch in diameter at arm's length,The conclusions included possibilities of it being astronomical or an aircraft.",
+    "sighted object": "one round brilliant white object",
+    "location": "Shalimar, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "unknown",
+    "contains photographs": false
 }

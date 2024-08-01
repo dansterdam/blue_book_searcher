@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a small white object that looked like a paper plate high in the sky over Royal Oak, Michigan on April 27, 1952.",
-    "interesting points": [
-        "The object turned sideways while it was observed.",
-        "The object appeared to be stationary in the sky.",
-        "The witness went to get binoculars, but the object was gone when he returned.",
-        "The witness called a neighbor as a witness, but the neighbor could not see the object.",
-        "The observation lasted only a few seconds."
-    ],
-    "result": "unknown",
-    "sighted object": "a small white object shaped like a paper plate",
-    "location": "Royal Oak, Michigan",
-    "witnesses": "one civilian witness",
-    "photographs": "no photographs present"
+    "main event": "On 27 April 1952, at 1100 hours, a civilian observed a small white object resembling a paper plate in the sky over Royal Oak, Michigan.",
+    "interesting points": "The object appeared very high in the sky and was stationary., The observer described the object as turning sideways., The sighting lasted only a few moments before the observer went to get binoculars., Upon returning, the object was no longer visible., The observer attempted to call a neighbor to witness the sighting, but the neighbor could not see it.",
+    "sighted object": "small white object resembling a paper plate",
+    "location": "Royal Oak, Michigan, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian male",
+    "contains photographs": false
 }

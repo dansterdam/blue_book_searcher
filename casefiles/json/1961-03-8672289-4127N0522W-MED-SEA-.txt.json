@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large meteor-type object was sighted descending with a smoke trail that lasted for approximately 3 minutes.",
-    "interesting points": [
-        "The higher part of the smoke trail was dark in color and drifted rapidly, while the lower part was light grey and drifted slowly.",
-        "The object burned brightly upon entering the atmosphere.",
-        "The object was high and southwest of the observer's location, which was 41°27'N 03°22'W.",
-        "The observer was in a C-47 aircraft.",
-        "The sighting lasted for approximately 5 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large meteor-type object",
-    "location": "3930'Z C022'W (MED. SEA)",
-    "witnesses": "crew of a C-47 aircraft",
-    "photographs": "no"
+    "main event": "A large meteor-type object was sighted descending over the Mediterranean Sea, leaving a smoke trail.",
+    "interesting points": "The object burned brightly upon entering the atmosphere., The higher part of the smoke trail glowed very bright while the lower part drifted slowly., The sighting lasted approximately 5 minutes., The smoke trail was observed for about 3 minutes., The report includes multiple branches of military and intelligence agencies.",
+    "sighted object": "large meteor-type object",
+    "location": "Mediterranean Sea",
+    "number of confirmed witnesses": 1,
+    "witness description": "not specified",
+    "contains photographs": false
 }

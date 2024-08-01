@@ -1,17 +1,9 @@
-Here is the JSON summary based on the case file provided:
-
 {
-    "main event": "Two disc-shaped objects were sighted maneuvering in the sky above Lake Charles, Louisiana on September 20, 1953.",
-    "interesting points": [
-        "The objects were described as circular in shape, with colors ranging from ordinary straw to flashing red and blue.",
-        "The objects were observed to fly in an erratic pattern, changing directions and speeds abruptly.",
-        "The sighting lasted for approximately 10-15 minutes.",
-        "The location of the observers was approximately 30°14' N, 93°02' W.",
-        "The reliability and experience of the observers was evaluated as below average."
-    ],
-    "result": "unknown",
+    "main event": "Two disc-shaped objects were reported sighted in the sky over Lake Charles, Louisiana, on the night of 20 September 1953.",
+    "interesting points": "The objects were described as basketball-shaped and bluish in color., The objects were sighted for approximately 15 minutes., Witnesses indicated that the objects exhibited unusual maneuvers and speeds., No optical or electronic devices were used to observe the objects., The reliability of the observers was rated as below average.",
     "sighted object": "two disc-shaped objects",
-    "location": "Lake Charles, Louisiana",
-    "witnesses": "civilians",
-    "photographs": "yes, two disc-shaped objects were photographed"
+    "location": "Lake Charles, Louisiana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "The witnesses reported the sighting but had below average reliability and experience.",
+    "contains photographs": false
 }

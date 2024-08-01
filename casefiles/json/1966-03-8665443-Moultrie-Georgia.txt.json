@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "Two witnesses reported seeing a large red circular object hovering or floating in the sky near Moultrie, Georgia on March 12, 1966.",
-  "interesting points": [
-    "The object was on the west side of the road and seemed to be high up in the sky.",
-    "The object started off small but seemed to get larger as it moved towards the witnesses.",
-    "Lights appeared in front of the witnesses and shined lights towards the object before it continued in the same direction.",
-    "The witnesses were unsure if the object was strange and asked each other if they both saw the same thing.",
-    "The Air Force investigated the sighting but could not find any additional witnesses or evidence beyond the initial report."
-  ],
-  "result": "Inconclusive",
-  "sighted object": "Large red circular object",
-  "location": "Moultrie, Georgia",
-  "witnesses": "Two civilian witnesses",
-  "photographs": "No photographs"
+    "main event": "Two witnesses reported observing a large red circular object hovering over Moultrie, Georgia, which seemed to grow larger as it approached.",
+    "interesting points": "The object was spotted stationary east from Sale City toward Moultrie,The object appeared high in the sky and seemed to be at a great distance,Various lights were seen shining towards the object during the observation,The witnesses confirmed they both saw the same thing,The conclusion of the report identified the object as the Moon.",
+    "sighted object": "a large red circular object",
+    "location": "Moultrie, Georgia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnesses reported seeing a large red circular object in the sky.",
+    "contains photographs": false
 }

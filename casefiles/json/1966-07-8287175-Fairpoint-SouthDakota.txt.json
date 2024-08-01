@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several unidentified objects were observed over Fairpoint, South Dakota on July 6, 1966.",
-    "interesting points": [
-        "The objects were observed from two different locations, with the observers moving from one location to another to get a closer look.",
-        "The objects displayed a variety of colors, sizes, and behaviors, including darting back and forth, hovering, and disappearing.",
-        "The observers compared the sizes of the objects to different aircraft types like the KC-135, F-105, and F-102.",
-        "An Air Force helicopter was dispatched to the area to investigate, but was unable to locate the objects.",
-        "The base commander concluded the sightings were likely caused by lights on low-flying aircraft and reflections/refractions from the weather conditions."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Multiple unidentified aerial objects",
-    "location": "Fairpoint, South Dakota",
-    "witnesses": "Several USAF security police personnel",
-    "photographs": "Yes, the report indicates photographs were taken, but none are included in the provided document."
+    "main event": "Observers spotted several unidentified flying objects in Fairpoint, South Dakota from 6 July 1966, between 0345 and 0550Z.",
+    "interesting points": "Observers reported seeing a red object that disappeared and later reappeared, greenish white objects moving close to the ground, and three yellow objects darting around., The sightings occurred in weather conditions with occasional thunderstorms and scattered clouds., The total length of observation was 1 hour and 30 minutes from one position and 15 minutes from another., The military personnel involved were reliable security policemen from Ellsworth AFB., Investigating officer suspected that sightings could have resulted from low-flying aircraft and reflections on haze patches in the area.",
+    "sighted object": "Red, greenish white, and yellow objects in the sky",
+    "location": "Fairpoint, South Dakota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Military personnel assigned as security policemen from the 82nd Combat Support Group, Ellsworth AFB.",
+    "contains photographs": false
 }

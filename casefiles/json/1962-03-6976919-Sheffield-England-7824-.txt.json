@@ -1,15 +1,9 @@
 {
-    "main event": "Three unidentified flying objects were photographed in the sky above a forested landscape in Sheffield, England on March 4, 1962.",
-    "interesting points": [
-        "The UFOs appear as dark, disc-shaped objects against the blank background in the provided photograph.",
-        "The report is from Project Blue Book Special Report No. 14, dated March 6, 1962.",
-        "The report originated from Sheffield, England and was assigned case number 7824.",
-        "No other details about the sighting or the circumstances surrounding the photograph are provided in the given text.",
-        "The report does not mention any eyewitness accounts or additional information beyond the photograph itself."
-    ],
-    "result": "unexplained",
-    "sighted object": "three dark, disc-shaped UFOs",
+    "main event": "A report was filed regarding the sighting of three unidentified flying objects over a forested landscape in Sheffield, England on March 4, 1962.",
+    "interesting points": "The reported UFOs were described as dark, disc-shaped objects,The sighting was documented in Project Blue Book Special Report No. 14,The case number associated with the report is 7824,The photograph included shows the UFOs against a blank sky,The event took place in early March, adding to the historical worth of the documentation.",
+    "sighted object": "three unidentified flying objects",
     "location": "Sheffield, England",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes a photograph of the UFOs"
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": true
 }

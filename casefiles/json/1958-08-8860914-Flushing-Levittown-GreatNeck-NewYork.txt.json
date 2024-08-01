@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a fiery dollar-shaped object traveling in a straight path with steady forward motion over Flushing, Levittown, and Great Neck, New York on August 5, 1958.",
-    "interesting points": [
-        "The object was characterized as a 'fiery dollar' in shape.",
-        "The object was traveling in a straight path with steady forward motion.",
-        "The sighting was reported by multiple individuals.",
-        "The report includes details on the object's altitude, speed, and direction of travel.",
-        "The sighting was classified as 'ground-visual' and there were no known causes identified."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fiery dollar-shaped object",
-    "location": "Flushing, Levittown, Great Neck, New York",
-    "witnesses": "multiple civilians",
-    "photographs": "no"
+    "main event": "A sighting of a fiery object traveling in a straight path with steady forward motion was reported on August 5, 1958.",
+    "interesting points": "The sighting was characterized as a fiery dollar-shaped object., The event took place in multiple locations: Flushing, Levittown, and Great Neck in New York., The sighting lasted for about two minutes., The witness was described as a high school student who was just looking at the stars when the object was observed., No known cause or explanation for the sighting was provided.",
+    "sighted object": "fiery dollar-shaped object",
+    "location": "Flushing, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "high school student",
+    "contains photographs": false
 }

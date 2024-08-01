@@ -1,17 +1,9 @@
-Here is the summary in the requested JSON format:
-
 {
-    "main event": "A civilian observer spotted a bright yellow light in the sky near Kernville, California on July 31, 1967. The object moved in a straight line and then made a course change.",
-    "interesting points": [
-        "The object appeared to be about twice as large as the largest visible star.",
-        "Edwards Air Force Base was contacted at the time of the sighting, but the only thing they detected on radar was a distant airliner traveling around 100 knots.",
-        "Dr. Hynek stated that it did not appear profitable to pursue the case any further.",
-        "The sighting lasted for approximately 1 hour and 15 minutes.",
-        "The object disappeared off to the southeast, just blacking out of vision."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright yellow light in the sky",
-    "location": "Kernville, California",
-    "witnesses": "civilian observer",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An observer sighted a yellow light in the sky near Kernville, California, which appeared to move in a straight line, make a turn, and then disappear at around 11:30 PM PDT on July 31, 1967.",
+    "interesting points": "The object was described as being about twice the size of the largest visible star,The object hovered for several minutes before disappearing,It was reported that radar contact showed a target believed to be an airliner traveling at 100 knots,Dr. J. Allen Hynek concluded that pursuing the case further did not seem profitable,The exact nature of the sighting remains undetermined with conflicting data.",
+    "sighted object": "a bright yellow light",
+    "location": "Kernville, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A 67-year-old male and a 63-year-old female, both from Kernville, California.",
+    "contains photographs": false
 }

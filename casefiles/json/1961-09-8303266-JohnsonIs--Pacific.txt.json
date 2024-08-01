@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground radar operator observed one unidentified object on the radar screen for approximately 40 seconds before it disappeared.",
-    "interesting points": [
-        "The object was tracked at a distance of approximately 20 miles from the site.",
-        "The object appeared to be moving at a speed of approximately 1200-1500 knots.",
-        "The object was observed by a plan captain, radar operator, and ECM operator, who all described seeing a bright, fast-moving object with a reddish-orange color and sparks trailing behind it.",
-        "The object was estimated to be larger than a basketball in size and similar to a rotating aerodrome beacon in appearance.",
-        "The object was on an approximate course of 180 degrees and seemed to be on a ballistic trajectory."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified object",
-    "location": "Johnson Is., Pacific",
-    "witnesses": "ground radar operator, plan captain, radar operator, ECM operator",
-    "photographs": "no"
+    "main event": "A Ground-Radar operator observed one unidentified object on the radar screen at Johnson Island on 17 September 1961.",
+    "interesting points": "The object was tracked at a distance of approximately 20 miles,The object was observed for approximately 40 seconds before disappearing,The estimated speed of the object was between 1200-1500 knots,There were comments indicating insufficient data for further evaluation of the sighting,Other crew members reported observing a U.F.O. nearby with similarities to the radar observation.",
+    "sighted object": "one unidentified object on radar",
+    "location": "Johnson Island, Pacific",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground-Radar operator",
+    "contains photographs": false
 }

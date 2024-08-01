@@ -1,15 +1,9 @@
 {
-    "main event": "A possible satellite sighting with the brightness of a first magnitude star, moving east at a speed of 10 degrees per minute, was reported in the Pacific Ocean.",
-    "interesting points": [
-        "The sighting was described as a possible satellite, with the brightness of a first magnitude star.",
-        "The object was reported to be moving east at a speed of 10 degrees per minute.",
-        "The location of the sighting was in the Pacific Ocean at coordinates 35.10N 174.40W.",
-        "The sighting was reported to various military organizations, including COMBARFORPAC, COMHAWSEFRON, CINCPACAF, and CINCNORAD.",
-        "The report notes that an advance copy of the sighting was delivered to XOPX, NIN, and DIA, and the message was readdressed to the CIA."
-    ],
-    "result": "possible satellite",
-    "sighted object": "possible satellite with brightness of first magnitude star",
-    "location": "Pacific Ocean, 35.10N 174.40W",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A sighting of a possible satellite was reported on May 3, 1964, with a brightness comparable to a first magnitude star, traveling east at a speed of 10 degrees per second.",
+    "interesting points": "The sighting occurred at coordinates 35.10N 174.40W in the Pacific Ocean., The observation was classified as Air-Visual., The report includes various military organizations and codes related to the sighting., There are multiple conclusions drawn about the object, including it possibly being a balloon, aircraft, or an astronomical object., Communication about the sighting was circulated among various military branches and personnel.",
+    "sighted object": "possible satellite",
+    "location": "Pacific, Unknown, Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

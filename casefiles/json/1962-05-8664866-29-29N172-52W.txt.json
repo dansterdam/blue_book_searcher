@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, shiny object was sighted moving across the sky on May 22, 1962.",
-    "interesting points": [
-        "The object was sighted bearing 279 degrees at an elevation of 25 degrees.",
-        "The object moved quickly and was lost on the horizon bearing 299 degrees.",
-        "The object's position was 25-33N 172-52W.",
-        "The object's direction of movement was 140 degrees with a rapid bearing rate.",
-        "The sea visibility was unlimited during the sighting."
-    ],
-    "result": "no evaluation",
-    "sighted object": "bright, shiny object",
-    "location": "25-33N 172-52W",
-    "witnesses": "not specified",
-    "photographs": "none"
+    "main event": "A bright light was observed moving in the sky, initially at 280 degrees azimuth and then disappearing at 330 degrees azimuth.",
+    "interesting points": "The sighting lasted for 45 minutes., Only one object was reported., The light was described as bright and shiny., The direction of movement was at a rapid bearing rate., The visibility of the sea was unlimited.",
+    "sighted object": "a bright light moving in the sky",
+    "location": "L.M. 22 N 172 52 W",
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses",
+    "contains photographs": true
 }

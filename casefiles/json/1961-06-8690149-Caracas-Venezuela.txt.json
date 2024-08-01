@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A small, far, dark object was observed maneuvering and emitting a clear reddish light over Caracas, Venezuela on June 15, 1960.",
-    "interesting points": [
-        "The object made brilliant maneuvers at high speed, hovered, and made a complete circle.",
-        "The object was observed for about 1.5 minutes before just disappearing.",
-        "Two civilian witnesses, an aerials engineer and a school director, observed the object from the center of Caracas.",
-        "The control tower at Caracas Airport also briefly saw the object make evasive maneuvers above the airport earlier the same day.",
-        "The object's movements were described as erratic, slowing to a hover and then shooting rapidly from the center to the edge of the visual area."
-    ],
-    "result": "unidentified",
-    "sighted object": "a small, dark object emitting a reddish light",
+    "main event": "A small black object was observed maneuvering and emitting a clear reddish light in Caracas, Venezuela.",
+    "interesting points": "The object performed brilliant maneuvers at high speed before hovering and making a complete circle., The sighting lasted for about 1 1/2 minutes., The object just disappeared after the observation, leaving no trace., Two eyewitnesses included a director of a school and a well-known aerial engineer in Venezuela., The object was described as round, larger than a quarter, and smaller than a golf ball with colors similar to police vehicle headlights.",
+    "sighted object": "a small black object emitting reddish light",
     "location": "Caracas, Venezuela",
-    "witnesses": "two civilian observers and Caracas Airport control tower",
-    "photographs": "no photographs included in the report"
+    "number of confirmed witnesses": 2,
+    "witness description": "eyewitnesses were a director of a school and a well-known aerial engineer",
+    "contains photographs": false
 }

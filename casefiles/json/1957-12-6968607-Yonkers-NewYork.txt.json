@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A streak of light, about twice the size of a star and whitish-red in color, was observed for 9 seconds in Yonkers, New York on December 5, 1957.",
-    "interesting points": [
-        "The object appeared to slow down slightly and had a slight glow in front of it.",
-        "The object burned out and blinked in.",
-        "The observer said the object appeared to fall in the vicinity of Nyack, New Jersey.",
-        "The weather was clear with unlimited visibility.",
-        "The report concluded the object was possibly a meteor."
-    ],
-    "result": "unexplained",
-    "sighted object": "a streak of light larger than a star",
-    "location": "Yonkers, New York",
-    "witnesses": "civilian driver",
-    "photographs": "no"
+    "main event": "A civilian observed a streak of light resembling a meteor in Yonkers, New York on December 5, 1957.",
+    "interesting points": "The object was described as being twice the size of a star and had a whitish-red color.,The sighting lasted 9 seconds.,The object appeared to slow slightly and had a slight glow in front of it.,The object burned out and blinked in before disappearing.,The observation was made while the witness was driving a car.",
+    "sighted object": "streak of light",
+    "location": "Yonkers, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

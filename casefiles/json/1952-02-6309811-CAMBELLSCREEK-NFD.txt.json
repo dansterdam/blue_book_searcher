@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Aircraft engines heard overhead",
-    "interesting points": [
-        "The observer, Clarence Dillon, reported hearing aircraft engines overhead at 2350 CST.",
-        "The sighting occurred in Campbell Creek, 3YD.",
-        "The weather conditions were clear with a moon visible.",
-        "There were no photographs available for this sighting.",
-        "The report is a Project Blue Book record card with limited details provided."
-    ],
-    "result": "insufficient data",
-    "sighted object": "aircraft engines heard overhead",
-    "location": "Campbell Creek, 3YD",
-    "witnesses": "Clarence Dillon",
-    "photographs": "no"
+    "main event": "Observer Clarence Dillon reported hearing aircraft engines overhead on February 26, 1952, at Campbell Creek.",
+    "interesting points": "Aircraft engines were heard at night with clear weather conditions., The sighting occurred at 11:50 PM C.S.T., The observer had a shocked emotional response to the sighting., The report is part of Project Blue Book, which documents various UFO sightings., There were later sightings documented, including multiple military evaluations in 1952.",
+    "sighted object": "aircraft engines overhead",
+    "location": "Campbell Creek, 3YD, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Clarence Dillon, observer",
+    "contains photographs": false
 }

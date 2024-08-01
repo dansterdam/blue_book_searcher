@@ -1,15 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A single unidentified object was observed moving from west to east over Manhasset (Roslyn), New York on July 7, 1955.",
-    "interesting points": [
-        "The original report had a lack of information, making evaluation or analysis very difficult.",
-        "The description was brief, and the improbability of obtaining significant data precluded a follow-up investigation.",
-        "There was a lack of data for proper evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified object",
-    "location": "Manhasset (Roslyn), New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A single object was observed moving from west to east on 7 July 1955.",
+    "interesting points": "The observation was visual and made from the ground., The report comes from a civilian source., There was a lack of information in the original report., The brevity of the description makes evaluation difficult., The report indicates that significant data for follow-up investigation is unlikely.",
+    "sighted object": "one unidentified flying object",
+    "location": "Manhasset (Roslyn), New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian observation",
+    "contains photographs": false
 }

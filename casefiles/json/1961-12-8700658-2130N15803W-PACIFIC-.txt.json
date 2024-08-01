@@ -1,15 +1,9 @@
 {
-    "main event": "Unidentified object with the appearance of a bright star was sighted in the Pacific at 21.30N 158.03W.",
-    "interesting points": [
-        "The object appeared to move horizontally and vertically about 5 degrees.",
-        "The object dropped about 20 to 25 degrees in 15 minutes before disappearing on the horizon.",
-        "There were clouds in the sky, but not in the area of the object.",
-        "The observer went inside and came back out about 15 minutes later, at which point the object had dropped in elevation.",
-        "The object was described as having the appearance of a bright star, likely Sirius, and the misidentification was probably due to unusual atmospheric conditions and an active imagination."
-    ],
-    "result": "unexplained",
-    "sighted object": "Unidentified object with the appearance of a bright star",
-    "location": "21.30N 158.03W (Pacific)",
-    "witnesses": "Observer",
-    "photographs": "No"
+    "main event": "An object resembling a bright star was observed in the Pacific Ocean, moving slightly before disappearing on the horizon.",
+    "interesting points": "The object was sighted moving horizontally and vertically about 5 degrees., The observation lasted for approximately 1 minute., The object dropped about 25 degrees over 35 minutes., It was likely identified as the bright star Sirius, magnitude -1.C., Misidentification was possibly due to unusual atmospheric conditions.",
+    "sighted object": "an object with the appearance of a bright star",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer with possible active imagination",
+    "contains photographs": false
 }

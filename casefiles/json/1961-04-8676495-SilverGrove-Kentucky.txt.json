@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A businessman in Olive Hill, Kentucky observed an oblong, metallic, silver-colored object estimated to be 50-60 feet in length, moving at a very high speed and altitude of 4,000-5,000 feet, heading in a northerly direction.",
-    "interesting points": [
-        "The object was described as moving at a very high speed and demonstrated intelligence through rapid changes in direction and velocity.",
-        "The object suddenly disappeared, indicating it was not a normal aircraft.",
-        "The witness was a reliable local businessman with no other witnesses.",
-        "The sighting lasted for 2-3 minutes.",
-        "The object was observed through various optical aids including eyeglasses, sunglasses, and binoculars."
-    ],
-    "result": "unexplained",
-    "sighted object": "oblong, metallic, silver-colored object",
-    "location": "Olive Hill, Kentucky",
-    "witnesses": "reliable local businessman",
-    "photographs": "no"
+    "main event": "A local businessman in Olive Hill, Kentucky observed a single metallic-looking object in the sky on April 3, 1961, for 2-3 minutes.",
+    "interesting points": "The object was described as oblong, silver, and estimated to be 50 to 60 feet in length., The object was moving at a very high speed at an altitude of 4,000 to 5,000 feet., The witness was identified as a reliable local businessman., No other witnesses were reported for this sighting., The object changed direction and velocity rapidly, demonstrating maneuvers indicative of intelligence.",
+    "sighted object": "one oblong metallic object",
+    "location": "Olive Hill, Kentucky, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "a reliable local businessman",
+    "contains photographs": false
 }

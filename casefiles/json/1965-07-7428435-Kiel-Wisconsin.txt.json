@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A civilian in Kiel, Wisconsin reported seeing a bright, pulsating object in the sky that followed a circular path across the sky in less than a minute on July 6, 1965.",
-    "interesting points": [
-        "The object appeared to first look like a shooting star, but it was flashing on and off as it moved in an orbital path across the sky.",
-        "The object passed directly over the witness's location, moving from the west to the east horizon.",
-        "The object was the same size as a star, with a regular flashing of light that was comparable to someone turning a flashlight on and off.",
-        "The witness was certain the object was not an aircraft, satellite, or any other known object in the sky.",
-        "There was no sound associated with the object, and the sky was very clear at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, pulsating object moving in a circular path across the sky",
-    "location": "Kiel, Wisconsin",
-    "witnesses": "a civilian",
-    "photographs": "none"
+    "main event": "An unidentified object was sighted in Kiel, Wisconsin on July 6, 1965, resembling a shooting star with a flashing light.",
+    "interesting points": "The object moved in a complete orbit across the sky in less than one minute.,It had a flashing light that blinked on and off as it crossed the zenith.,The size of the object was comparable to a star.,There was a clear sky with no sound emitted from the object.,The sighting was definitively ruled out as a meteor or balloon, and other logical explanations were considered insufficient.",
+    "sighted object": "an unidentified object resembling a shooting star with a flashing light",
+    "location": "Kiel, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer with knowledge of sky observations, familiar with satellites and aircraft.",
+    "contains photographs": false
 }

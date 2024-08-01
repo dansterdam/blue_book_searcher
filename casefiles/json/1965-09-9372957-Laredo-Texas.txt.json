@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unidentified flying objects were observed over Laredo, Texas in September 1965.",
-    "interesting points": [
-        "The objects were described as cylindrical in shape and dark in color, and they moved silently, hovering, moving horizontally, and disappearing.",
-        "No physical evidence was obtained, but the sighting was reported to the U.S. Air Force for investigation.",
-        "Multiple witnesses reported seeing the objects over a period of time.",
-        "The Air Force analyzed the reports and indicated that the objects were likely natural or known phenomena such as astronomical sightings, aircraft, satellites, or balloons.",
-        "The sightings were consistent with other UFO reports received by the Air Force at the time."
-    ],
-    "result": "inconclusive",
-    "sighted object": "two unidentified cylindrical objects",
-    "location": "Laredo, Texas",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no photographs were included in the report"
+    "main event": "Several UFO sightings were reported over Laredo, Texas, between September 2 and September 9, 1965.",
+    "interesting points": "Witnesses reported multiple objects performing maneuvers and making abrupt changes in direction without any sound,Several objects were described as elongated diamond-shaped with amber and blue lights,One observer reported a sensation of mental telepathy while observing a streaking amber light,The sightings were conducted under clear sky conditions, civilian sources reported the observations consistently over several days.",
+    "sighted object": "various unidentified flying objects, including elongated diamond shapes and amber-colored lights",
+    "location": "Laredo, Texas, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Civilian individuals, including observers and their families",
+    "contains photographs": false
 }

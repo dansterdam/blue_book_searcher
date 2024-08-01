@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, large object was observed hovering and then disappearing in Lincoln Park, Michigan on April 25, 1962.",
-    "interesting points": [
-        "The object was tracked on FAA radar and confirmed by multiple witnesses in the area.",
-        "The object emitted a brilliant blue-white pulsating light and was estimated to be 500-600 feet in diameter.",
-        "The object moved at a high rate of speed, appearing to go from due south to due north and then disappearing.",
-        "The sighting lasted for 7-8 minutes.",
-        "The case is described as factual and having a high probability of accuracy."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, bright, pulsating object",
-    "location": "Lincoln Park, Michigan",
-    "witnesses": "multiple witnesses including FAA personnel",
-    "photographs": "none"
+    "main event": "A bright, pulsating object was observed in the sky over Lincoln Park, Michigan on April 25, 1962.",
+    "interesting points": "The object was approximately 500-600 feet in diameter and emitted a brilliant blue-white light that appeared to pulsate., The sighting lasted for 7-8 minutes and was tracked on FAA radar., The object was confirmed by other observers in the area., The estimated speed of the object was reported to be around 1700 M.P.H., There were multiple previous sightings of similar objects in the area since at least 1959.",
+    "sighted object": "a very bright, pulsating object",
+    "location": "Lincoln Park, Michigan, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "One witness was a 29-year-old male physicist with some training in observations of cosmic energy and nuclear reactions.",
+    "contains photographs": false
 }

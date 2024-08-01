@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was detected on radar at Thule Air Base in Greenland on October 6, 1960.",
-    "interesting points": [
-        "The object would move in a straight line and then disappear, then reappear at a different angle but always at the same distance.",
-        "The sighting lasted for 4 minutes with a total of 4 or 5 closures of the object on radar.",
-        "The report mentions that the object could have been a ballistic missile, a probable aircraft, or a possible astronomical phenomenon.",
-        "The report was initially classified as a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report, but was then requested to be reclassified as a UFO report.",
-        "Multiple witnesses observed the object, including a General Electric employee and RCA employees working on the Ballistic Missile Early Warning System (BMEWS) project at the base."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified object detected on radar",
-    "location": "Thule Air Base, Greenland",
-    "witnesses": "military personnel and contractors working on the BMEWS project",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An object was detected on radar at Thule AB, Greenland, on 6 Oct 1960, moving in a straight line and then disappearing before reappearing at different angles.",
+    "interesting points": "The object was at 20 miles elevation and was tracked for a total of 4 minutes,The sightings involved 4 or 5 closures of the object, The object was originally reported as a UFO according to AF regulations, The observations noted unusual occurrences of light in the sky, There were confirmed sightings by military personnel and others working in the area.",
+    "sighted object": "unknown object detected on radar",
+    "location": "Thule AB, Greenland",
+    "number of confirmed witnesses": 3,
+    "witness description": "employees from General Electric and RCA on the BVEWS project",
+    "contains photographs": false
 }

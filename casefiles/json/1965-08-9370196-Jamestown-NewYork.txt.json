@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two glowing objects were spotted in the sky near Jamestown, New York on August 23, 1965.",
-    "interesting points": [
-        "The objects appeared as a silver-blue light brighter than a first magnitude star, just above the horizon in the west.",
-        "The objects moved slowly to the south and then disappeared over the horizon.",
-        "The objects caused heavy static and distortion on a nearby TV picture.",
-        "The observer had also seen a similar object two days earlier but had not reported it.",
-        "A second sighting of a brilliant blue-white light was reported behind a nearby barn, lasting 4-5 minutes before disappearing rapidly."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Two glowing objects in the sky",
-    "location": "Jamestown, New York",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "A silver-blue light, brighter than a 1st magnitude star, was observed above the horizon in Jamestown, New York on August 23, 1965, lasting for 4-5 minutes.",
+    "interesting points": "The object moved slowly to the south and disappeared over the horizon., Heavy static and distorted TV picture occurred during the sighting., The observer reported seeing the same object two days earlier but didn't report it., The object was approximately 1000 feet away and at the same altitude when viewed more closely., Neighbors were present and reportedly excited about the sighting, ruling out a hoax by children.",
+    "sighted object": "a silver-blue light",
+    "location": "Jamestown, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "neighbors and a 15-year-old youth who observed the object",
+    "contains photographs": false
 }

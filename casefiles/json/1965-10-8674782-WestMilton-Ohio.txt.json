@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two lights were observed in the sky over West Milton, Ohio on October 29, 1965.",
-    "interesting points": [
-        "The object appeared to be a bullet-shaped object with no wings, with a small red light directly behind it.",
-        "The object was so bright that it caused the observer's eyes to water.",
-        "The object was estimated to be 30-40 feet away from the observer.",
-        "The observation lasted for approximately 5 minutes.",
-        "The Air Force requested more information from the witness, as the initial report was not sufficient for evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bullet-shaped lights with a red light behind them",
-    "location": "West Milton, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in West Milton, Ohio on October 29, 1965.",
+    "interesting points": "The object resembled a bullet with no wings and had a small red light behind it,The object was so shiny that it caused the observer's eyes to water,It was observed for a duration of 5 minutes,The object was traveling southwest,There were two lights reported in the sighting but were not returned for evaluation.",
+    "sighted object": "a shiny object resembling a bullet with a red light",
+    "location": "West Milton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Milton reported the sighting.",
+    "contains photographs": false
 }

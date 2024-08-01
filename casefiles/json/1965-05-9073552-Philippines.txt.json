@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, fast-moving object was observed visually and by radar from the USS Hassayampa in the Philippines on May 5-7, 1965.",
-    "interesting points": [
-        "The object was observed to change direction and speed abruptly, indicating intelligent control.",
-        "The object could not be tracked on radar, but was visually confirmed by multiple Navy personnel.",
-        "Other similar objects were observed on the radar, blinking in and out of existence, also indicating intelligent control.",
-        "The sighting lasted for approximately 3-4 hours over multiple days.",
-        "The report was considered reliable and no further investigation was planned at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "one or more bright, fast-moving objects",
+    "main event": "Military personnel observed an unidentified flying object over the Philippines from May 5-7, 1965.",
+    "interesting points": "The sighting lasted approximately 3-4 hours, It was visually confirmed and corresponded with radar observations, The object was reported to be high speed and silent, Observations included both visual and radar confirmation, No physical evidence was found.",
+    "sighted object": "unidentified flying object",
     "location": "Philippines",
-    "witnesses": "Navy personnel on the USS Hassayampa",
-    "photographs": "none"
+    "number of confirmed witnesses": 3,
+    "witness description": "Military personnel aboard USS Hassayampa",
+    "contains photographs": false
 }

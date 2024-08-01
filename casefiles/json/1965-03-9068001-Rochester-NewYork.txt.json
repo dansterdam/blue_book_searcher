@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported seeing a round or saucer-like object hovering in the sky over Rochester, New York on March 12, 1965.",
-    "interesting points": [
-        "The object was observed by multiple witnesses, including at a recording station.",
-        "Two F-101 jet interceptors were launched to investigate, but the object had already disappeared.",
-        "The object was described as being 2-3 feet in diameter and hovering, with no visible means of propulsion.",
-        "The observation lasted only 10 seconds.",
-        "The report includes a letter requesting information and pamphlets about unidentified flying objects and related phenomena."
-    ],
-    "result": "AIRCRAFT*",
-    "sighted object": "round or saucer-like object",
-    "location": "Rochester, New York",
-    "witnesses": "civilian, multiple observers at a recording station",
-    "photographs": "No"
+    "main event": "One unidentified object was observed in Rochester, New York on March 12, 1965, for approximately 10 seconds.",
+    "interesting points": "The object was reported as 'round or saucer-like in appearance',The object appeared to be 2-3 feet in diameter,Two F-101 jet interceptors were launched to investigate but the object had vanished by the time they arrived,The observation was made at a recording station,There were multiple witnesses to the sighting.",
+    "sighted object": "one round or saucer-like object",
+    "location": "Rochester, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "observed at a recording station",
+    "contains photographs": false
 }

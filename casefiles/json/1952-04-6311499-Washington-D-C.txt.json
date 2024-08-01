@@ -1,15 +1,9 @@
 {
-	"main event": "An unidentified aerial object was observed and photographed in the Washington, D.C. area on April 8, 1952.",
-	"interesting points": [
-		"The image was captured on a 20-minute time exposure, ruling out the possibility of it being a reflection or streaks of light.",
-		"The geologist who took the photo expressed confusion and was unable to arrive at a satisfactory explanation for the object.",
-		"The United States Air Force analyzed the negative but concluded that it did not indicate the existence of any unusual or unidentified aerial object.",
-		"The case involved the submission of a photograph to the Air Technical Intelligence Center for examination.",
-		"The official letter from the Air Force indicated that the image in question was likely caused by a slight distortion and did not represent an unidentified aerial object."
-	],
-	"result": "unexplained",
-	"sighted object": "unidentified aerial object",
-	"location": "Washington, D.C.",
-	"witnesses": "civilian geologist",
-	"photographs": "yes, the report includes photographs"
+    "main event": "A civilian reported observing an unidentified object in the Washington, D.C. area on July 5, 1952.",
+    "interesting points": "The observation was made using a time-exposure photograph taken on April 8, 1952,The photographer noted nothing moving in the sky during the exposure,The object could potentially be attributed to several explanations, including a balloon or an astronomical phenomenon,The report indicated that the image had a distinct density, suggesting some distortion,The Air Force concluded that the negative provided did not indicate the existence of any unusual aerial object.",
+    "sighted object": "unidentified object",
+    "location": "Washington, D.C.",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, geologist",
+    "contains photographs": false
 }

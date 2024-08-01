@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report:
-
 {
-    "main event": "A man reported seeing a bright, metallic-appearing object hovering silently over Copemish, Michigan on July 8, 1961.",
-    "interesting points": [
-        "The object was egg-shaped, approximately 40-50 feet in diameter, and had a metallic, reflective surface.",
-        "The object hovered silently for approximately 3-4 minutes before accelerating rapidly and disappearing.",
-        "No other witnesses were reported, and no physical traces or residue were observed at the site.",
-        "The Air Force investigation concluded the object was unidentified, as it did not conform to any known aircraft and could not be explained by natural phenomena.",
-        "The witness was described as a reliable truck driver."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic-appearing object",
-    "location": "Copemish, Michigan",
-    "witnesses": "a single male witness, a 45-year-old truck driver",
-    "photographs": "none"
+    "main event": "A truck driver reported seeing a bright white light in the sky while driving near Copemish, Michigan on July 8, 1961. The object was stationary for approximately 10 minutes before moving rapidly to the Southeast and disappearing.",
+    "interesting points": "The object was described as about the size of a small airplane, solid white in color, and emitting a bright white light., The witness noted that the object appeared to hover before moving rapidly., The witness, E.H. Davis, was a 45-year-old male who seemed to be a reliable source., The observation took place under clear, starry night conditions., No other witnesses were reported, suggesting a solitary sighting.",
+    "sighted object": "a bright white light in the sky",
+    "location": "Copemish, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "E.H. Davis, male, age 45, truck driver",
+    "contains photographs": false
 }

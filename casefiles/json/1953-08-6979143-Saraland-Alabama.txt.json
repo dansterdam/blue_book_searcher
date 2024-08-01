@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness in Saraland, Alabama observed multiple unidentified objects in the sky over several days in July-August 1952.",
-    "interesting points": [
-        "The objects were described as bright lights, some appearing metallic, that made erratic movements such as rapid turns, varying speeds, and darting back and forth.",
-        "The objects were observed for periods ranging from 30 minutes to 45 minutes.",
-        "The witness estimated the objects were at altitudes between 5,000 to 7,000 feet.",
-        "The objects did not resemble any known aircraft, and no sounds were associated with them.",
-        "There were no other witnesses reported besides the single civilian observer."
-    ],
-    "result": "inconclusive",
-    "sighted object": "bright lights, some appearing metallic",
-    "location": "Saraland, Alabama",
-    "witnesses": "a civilian observer",
-    "photographs": "no"
+    "main event": "A civilian reported a sighting of an unidentified object near Saraland, Alabama on August 22, 1953, lasting for about 2-3 minutes.",
+    "interesting points": "The object was described as oval in shape and had a reddish glow., It was observed near the location for approximately 20-25 minutes on a previous date., The diameter of the object was estimated to be about 25 to 30 feet., The reliability of the observer was rated low (0-2), indicating uncertainty in the account., No other aircraft were observed during the sightings.",
+    "sighted object": "a reddish glow oval-shaped object",
+    "location": "Saraland, Alabama, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer who reported the sighting and expressed fear during the event.",
+    "contains photographs": false
 }

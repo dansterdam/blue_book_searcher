@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "There is no specific main event described in the report. The document appears to be a collection of correspondence and discussions about the Air Force's Project Blue Book program investigating unidentified flying objects (UFOs).",
-    "interesting points": [
-        "The Air Force has investigated over 7,300 UFO sightings over the past 15 years without finding any evidence that they are due to interplanetary spacecraft.",
-        "There are recommendations to transfer the UFO investigation program to another agency such as NASA, the Army, or the Smithsonian, or to hire a private contractor to conduct the investigations.",
-        "There are discussions about educating the public about the Air Force's primary interest in UFOs being to determine their threat potential or military value, rather than proving or disproving the existence of extraterrestrial vehicles.",
-        "The Air Force is considering divorcing the UFO project from intelligence and security connections, and staffing it with personnel who have the proper background to analyze sightings and conduct effective public relations.",
-        "There are suggestions to have an independent citizen committee review the UFO program and issue a report to help the Air Force address the public perception issues surrounding the program."
-    ],
-    "result": "inconclusive",
+    "main event": "A series of letters and documents regarding the investigation of unidentified flying objects (UFOs) by the U.S. Air Force and recommendations for future handling of the topic.",
+    "interesting points": "The documents include a letter from J. Allen Hynek, suggesting a transfer of UFO studies to a scientific division., The Air Force considered discontinuing its special project on UFOs due to lack of evidence., Over 7300 cases of UFO sightings have been studied without evidence of interplanetary vehicles., The recommendations involve public education on UFOs and potential threats., The program may be transferred to agencies like NASA or the Smithsonian for further research.",
     "sighted object": "unidentified flying objects",
-    "location": "not specified",
-    "witnesses": "not specified",
-    "photographs": "none"
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

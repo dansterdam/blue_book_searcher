@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A sighting of an unidentified object occurred on September 8, 1960 in Lorain, Ohio, lasting for about 2 minutes.",
-    "interesting points": [
-        "The object was described as round in shape, about the size of a basketball, and glowing a bright white-red color.",
-        "The object hovered for a few moments and then rapidly accelerated out of sight.",
-        "The object was observed at an approximate altitude of 1,000 feet and was traveling at a high rate of speed.",
-        "Another report describes a bright light in the sky that made a 90 degree turn and descended rapidly to just over the trees, about 50 feet altitude, before accelerating rapidly to the north and disappearing from sight in about 10 seconds.",
-        "The sightings appear to be genuine UFO observations, though it is not possible to determine what the objects actually were."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, glowing white-red object; bright light in the sky",
-    "location": "Lorain, Ohio",
-    "witnesses": "multiple witnesses",
-    "photographs": "no"
+    "main event": "An unidentified flying object was visually observed for 2 minutes on September 8, 1960, in Lorain, Ohio.",
+    "interesting points": "The sighting lasted 2 minutes, The object was observed at approximately 9:00 PM, The object was reported to hover and then accelerate rapidly out of sight, The observer described the object as round and glowing a bright white-red color, The report includes a detailed technical information sheet though lacks photographs.",
+    "sighted object": "a round glowing object",
+    "location": "Lorain, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Details not specified in the record card.",
+    "contains photographs": false
 }

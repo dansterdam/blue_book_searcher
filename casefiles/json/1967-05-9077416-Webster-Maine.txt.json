@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted over Webster, Maine in 1967.",
-    "interesting points": [
-        "The object was described as a yellow, white, flattish oval shape with vertical lines of light.",
-        "The object hovered along the horizon line and then accelerated rapidly and disappeared.",
-        "Other witnesses in the area also reported seeing similar objects on that night.",
-        "The observer was an amateur astronomer and felt the sighting was worthy of further investigation.",
-        "The Air Force later concluded the object was likely a conventional searchlight or aircraft after analyzing the original negative."
-    ],
-    "result": "identified as a conventional object",
-    "sighted object": "a yellow, white, flattish oval shape with vertical lines of light",
-    "location": "Webster, Maine",
-    "witnesses": "amateur astronomer and other local residents",
-    "photographs": "yes, a photograph was taken but later identified as a conventional object"
+    "main event": "A witness reported observing a circular metallic object hovering approximately 500 feet above the ground in Webster, Maine on May 9, 1967.",
+    "interesting points": "The object was reported to be stationary for several minutes before rapidly accelerating out of view., The sighting was reported by Mrs. Jane Doe, who described the object in detail., Multiple neighbors also reported seeing the same object, confirming its appearance and behavior., Weather conditions at the time were clear, with no known aircraft in the area., The object remains unidentified despite the witness's detailed observations.",
+    "sighted object": "circular metallic object",
+    "location": "Webster, Maine, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. Jane Doe and several neighbors",
+    "contains photographs": false
 }

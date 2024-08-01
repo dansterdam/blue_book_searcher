@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four bright star-shaped lights were observed in the sky over Warsaw, New York on October 21, 1959.",
-    "interesting points": [
-        "The objects were described as bright lights, the size of a half dollar, white and red in color.",
-        "The objects were arranged in a formation, with two as a pair and two others scattered.",
-        "A red color appeared as a tail or exhaust, and would appear and disappear alternately.",
-        "The objects were stationary, except for one that moved directly south and then disappeared.",
-        "The observation lasted for 30 minutes, from night to dawn."
-    ],
-    "result": "The sighting was attributed to a 'superior mirage' due to atmospheric conditions, specifically a sharp temperature inversion at 4,000 feet.",
-    "sighted object": "four bright star-shaped lights",
-    "location": "Warsaw, New York",
-    "witnesses": "a civilian, described as a reliable race-horse trainer",
-    "photographs": "no"
+    "main event": "Four star-shaped bright lights were observed in Warsaw, NY on October 21, 1959, stationary for 30 minutes.",
+    "interesting points": "The lights were described as being the size of a half dollar,The colors observed were white and red,Two lights formed a pair while the other two were scattered,The red color appeared as a tail that alternately appeared and disappeared,The atmospheric conditions suggested the sighting could be due to a superior mirage.",
+    "sighted object": "four star-shaped bright lights",
+    "location": "Warsaw, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A reliable race-horse trainer from Warsaw, NY.",
+    "contains photographs": false
 }

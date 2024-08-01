@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A red, egg-shaped object was sighted visually and on radar at Pepperell AFB in Newfoundland on December 15, 1957.",
-    "interesting points": [
-        "The object was the size of a pea and remained stationary, yet moved 1.5 nautical miles in 5 minutes.",
-        "The object was observed both visually and by radar, but no object appeared on the films that were taken.",
-        "The object moved to the northeast, and the report noted that it was not a balloon unless the upper air currents had shifted.",
-        "The duration, description, and altitude pattern of the object were consistent with a balloon analysis.",
-        "The report requested that the photographs taken be sent to the Air Force for review and evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red, egg-shaped object",
-    "location": "Pepperell AFB, Newfoundland",
-    "witnesses": "S/Sgt. Frounfelker and A/3C Dougherty",
-    "photographs": "yes, 5 photos were taken but not developed"
+    "main event": "An unidentified flying object was observed at Pepperell AFB in Newfoundland on 15 December 1957.",
+    "interesting points": "The object was egg-shaped and red, and it was observed both visually and by radar., It was stationary but moved 1.5 nautical miles in 5 minutes., The object caused confusion as it did not appear on film taken during the sighting., Winds from the WNW might have affected the object's movement., Two reliable witnesses reported the sighting, and conditions were clear with unlimited visibility.",
+    "sighted object": "one red egg-shaped object",
+    "location": "Pepperell AFB, Newfoundland, CA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A/3C Dougherty, Michael P. and S/SGT Frounfeker, Robert",
+    "contains photographs": false
 }

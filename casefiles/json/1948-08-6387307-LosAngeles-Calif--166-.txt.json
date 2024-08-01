@@ -1,15 +1,9 @@
 {
-  "main event": "A series of UFO sightings were reported in Los Angeles, California in August 1948, with witnesses observing an unidentified object resembling a V-2 rocket flying at high altitudes and speeds.",
-  "interesting points": [
-    "Staff Sergeant ████████ reported the sighting of an object resembling a V-2 rocket flying from North to South at an estimated altitude of 20,000 to 30,000 feet.",
-    "The object was observed by Sergeant ████████ through high-powered binoculars, and it was confirmed to not be a shooting star.",
-    "The object was described as much larger than a B-29, with a silver color and leaving a blue exhaust trail, traveling at speeds well over 700 MPH.",
-    "No photographs or sketches were obtained, and there were no additional witnesses to the sightings.",
-    "Dr. Hynek's evaluations from the Project Grudge report categorized various UFO sightings into groups of high, fair, or low probability, providing insight into the potential astronomical or non-astronomical explanations."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified object resembling a V-2 rocket",
-  "location": "Los Angeles, Calif.",
-  "witnesses": "Staff Sergeant ████████",
-  "photographs": "no photographs or sketches were obtained"
+    "main event": "A silver-colored object resembling a V-2 rocket was sighted by a USAF Airman over Los Angeles, California in 1948.",
+    "interesting points": "The object was larger than a B-29,The witness followed the object with high-powered binoculars,The object's speed was estimated to be over 700 MPH,It left a blue exhaust trail,The observation was made during clear weather without any sound.",
+    "sighted object": "one silver V-2 rocket-like object",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "USAF Airman",
+    "contains photographs": false
 }

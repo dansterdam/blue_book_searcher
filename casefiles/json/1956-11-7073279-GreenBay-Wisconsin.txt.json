@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, greenish-white object, half the size of the full moon, was observed descending straight down in a slightly westerly direction in Green Bay, Wisconsin.",
-    "interesting points": [
-        "The object was slightly fuzzy around the edges.",
-        "The object hovered momentarily before being observed visually for about five seconds.",
-        "The description and short duration of the sighting suggest it was likely caused by a meteor.",
-        "Another sighting was reported by a witness in Green Bay, Wisconsin, of a bright light descending about 1-2 miles away and heading southeast, fading out after about five seconds.",
-        "The second sighting occurred during daylight hours with clear visibility and little cloud cover."
-    ],
-    "result": "unexplained/likely a meteor",
-    "sighted object": "a round, greenish-white object, half the size of the full moon",
-    "location": "Green Bay, Wisconsin",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs"
+    "main event": "A witness observed a round, greenish white object descending and hovering briefly over Green Bay, Wisconsin on 8 November 1956.",
+    "interesting points": "The object was half the size of the full moon and slightly fuzzy around the edges,The sighting lasted for about five seconds,The object descended straight down before hovering momentarily,The observation was made at a distance of 0.5 miles and at an angle of 25-30 degrees,The report speculated that the sighting was likely caused by a meteor.",
+    "sighted object": "one round, greenish white object",
+    "location": "Green Bay, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, home director in Green Bay",
+    "contains photographs": false
 }

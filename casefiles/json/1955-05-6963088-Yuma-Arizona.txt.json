@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-  "main event": "A single object, described as a sphere with a trailing smoke-like exhaust, was observed over Yuma, Arizona on May 20, 1955.",
-  "interesting points": [
-    "The object was observed for a short duration, approximately 2 seconds.",
-    "The object was observed to have a downward course towards the ground.",
-    "The object was initially considered a possible meteor, but later the report concluded it was likely a balloon or aircraft flare.",
-    "The report included photographic evidence, specifically a slide, of the sighting.",
-    "The sighting was reported by a civilian witness."
-  ],
-  "result": "Probably Balloon",
-  "sighted object": "A single sphere-shaped object with a trailing smoke-like exhaust",
-  "location": "Yuma, Arizona",
-  "witnesses": "Civilian",
-  "photographs": "Yes, a slide was taken"
+    "main event": "A single unidentified object with a trailing smoke-like exhaust was observed in Yuma, Arizona, on 20 May 1955.",
+    "interesting points": "The object trailed smoke for several seconds before disappearing,The observation was classified as possible meteor,The sighting occurred in a clear sky with good visibility,The document indicates a ground-visual observation type,The object was seen for a very short duration of time.",
+    "sighted object": "one object with trailing smoke-like exhaust",
+    "location": "Yuma, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, observed for a short duration",
+    "contains photographs": false
 }

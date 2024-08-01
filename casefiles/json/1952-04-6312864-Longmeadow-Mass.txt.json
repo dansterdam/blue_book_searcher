@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified bright light was observed moving erratically in the sky over Longmeadow, Massachusetts on April 23, 1952.",
-    "interesting points": [
-        "The object was observed for about 30 seconds before disappearing.",
-        "The object was described as bright, with a star-like color and shape.",
-        "The object performed rapid climbs and dives.",
-        "The object's brightness was about 1/x as bright as a star.",
-        "The object's shape changed as its altitude changed."
-    ],
-    "result": "unknown",
+    "main event": "Witnesses observed a bright light in the sky moving erratically in Longmeadow, Massachusetts.",
+    "interesting points": "The sighting lasted for approximately 40 minutes., The object exhibited rapid climbs and dives., Witnesses reported that the object changed shape as it changed altitude., The object was described as being 1/x as bright as a star., There were two engineers as confirmed witnesses.",
     "sighted object": "a bright light in the sky",
-    "location": "Longmeadow, Massachusetts",
-    "witnesses": "2 engineers",
-    "photographs": "no"
+    "location": "Longmeadow, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "engineers",
+    "contains photographs": false
 }

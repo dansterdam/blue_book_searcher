@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A shining light was observed near the Mariana Islands on December 17, 1960.",
-    "interesting points": [
-        "The object appeared very brilliant and resembled an 'echo i' traveling east.",
-        "The object was in view for 1/2 minute, rising to 30 degrees above the horizon.",
-        "The object appeared to move from the north horizon to the east.",
-        "The information reported is limited in nature, precluding a full evaluation.",
-        "The report was submitted for record purposes only."
-    ],
-    "result": "unexplained",
-    "sighted object": "a shining light",
-    "location": "Near Mariana Islands",
-    "witnesses": "military",
-    "photographs": "no"
+    "main event": "On December 17, 1960, a shining light resembling 'echo i' was observed traveling towards the horizon near the Mariana Islands.",
+    "interesting points": "The observation lasted for half a minute, The object was observed to rise to 30 degrees above the horizon, The military described the light as very brilliant, Only one object was observed in this sighting, The object was moving southeast-east from the northern horizon.",
+    "sighted object": "a brilliant shining light",
+    "location": "Mariana Islands, Pacific Ocean, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military source",
+    "contains photographs": false
 }

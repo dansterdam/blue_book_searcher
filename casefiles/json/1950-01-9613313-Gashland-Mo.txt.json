@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A single, unidentified flying object was sighted over Gashland, Missouri.",
-    "interesting points": [
-        "The object was a brilliant white color.",
-        "The object was spotted at an altitude of 3,000 to 4,000 feet.",
-        "The object was heading in a northwest direction.",
-        "No sound or exhaust trail was reported.",
-        "The shape and size of the object were unknown."
-    ],
-    "result": "insufficient data",
-    "sighted object": "a single, unidentified flying object",
-    "location": "Gashland, Missouri",
-    "witnesses": "Mr.",
-    "photographs": "not available"
+    "main event": "An unidentified flying object was reported in Gashland, Missouri on 7 January 1950.",
+    "interesting points": "The object was observed at an altitude of three to four thousand feet., The object was described as having a brilliant white color., The witness did not report any sound or exhaust trail from the object., The object was heading northwest at the time of observation., A complete report was expected to follow but the sketch and photographs were not available.",
+    "sighted object": "one unidentified flying object",
+    "location": "Gashland, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr.",
+    "contains photographs": false
 }

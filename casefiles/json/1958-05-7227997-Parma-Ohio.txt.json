@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report:
-
 {
-    "main event": "A bright light stood still in the eastern sky until an aircraft flew over it, at which point the object followed the aircraft to the east.",
-    "interesting points": [
-        "The object stood still until an aircraft flew over it, at which point it followed the aircraft to the east.",
-        "The report was filed by the operations officer of the 2246th AACS Flight Service Section at Wright-Patterson AFB.",
-        "The sighting occurred at 3:15 AM local time on May 17, 1958 in Parma, Ohio.",
-        "The object was described as a 'bright light' in the eastern sky.",
-        "The report states that there was 'insufficient data for evaluation.'"
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light",
-    "location": "Parma, Ohio",
-    "witnesses": "Mr. and his wife and son",
-    "photographs": "yes, according to the report"
+    "main event": "A bright light was observed in the eastern sky, stationary until an aircraft flew overhead, after which the light followed the aircraft to the east.",
+    "interesting points": "The sighting occurred on 16 May 58 at 0315Z,The object was reported by a local resident and his family,Insufficient data was noted for evaluation of the sighting,The report suggests multiple possibilities for the object's identity, including a balloon or aircraft,The sighting took place near Cleveland Airport.",
+    "sighted object": "bright light in the sky",
+    "location": "Parma, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a resident and his wife and son",
+    "contains photographs": false
 }

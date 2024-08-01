@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting occurred on 9 June 1956 in Sapulpa, Oklahoma. One ball-like object, silver in color and the size of a baseball held at arm's length, was observed maneuvering at 150 mph speed for approximately 2 minutes.",
-  "interesting points": [
-    "The object was observed maneuvering at a speed of 150 mph and was the size of a baseball held at arm's length.",
-    "There were several similar sightings in the area, suggesting a correlation of sighting in the area.",
-    "The report indicates that the object made sudden movements and was tracked east and north of the observed location.",
-    "The weather conditions at the time of sighting were clear with no clouds in the sky and over 20 miles of visibility.",
-    "The observers were located approximately three miles east of Sapulpa, Oklahoma, and included a male and a female, with the male's details redacted."
-  ],
-  "result": "unexplained",
-  "sighted object": "one ball-like object, silver in color, the size of a baseball held at arm's length, maneuvering at a speed of 150 mph",
-  "location": "Sapulpa, Oklahoma",
-  "witnesses": "male and female observers",
-  "photographs": "no"
+    "main event": "A civilian observed a silver ball-like object maneuvering at a speed of 150 mph on 9 June 1956.",
+    "interesting points": "The object was described as the size of a baseball held at arm's length,The observation lasted approximately 2 minutes,The sighting occurred in Sapulpa, Oklahoma,There were several similar sightings in the area around the same time,The reports suggest the sightings could be related to aircraft in the area.",
+    "sighted object": "one silver ball-like object",
+    "location": "Sapulpa, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Observations of white or green stars flying through the sky on several occasions.",
-    "interesting points": [
-        "The sighting lasted for only 1-2 seconds.",
-        "The observer saw the objects on multiple occasions.",
-        "The objects were described as resembling 'white or green stars'.",
-        "The observer wrote a letter to an Army Captain about the sightings.",
-        "The observer made a reference to a newspaper article about 'flying saucers' in relation to their own sightings."
-    ],
-    "result": "Probably Astronomical",
+    "main event": "Observations of white or green stars flying through the sky on several occasions noted in a report.",
+    "interesting points": "The sighting occurred in the night, lasting only 1-2 seconds, The observer described something resembling a moon of different colors, Reports of similar sightings in Canton, Ohio, mentioned a light green color, The observer had a long-standing interest in astronomy.",
     "sighted object": "white or green stars",
-    "location": "Coshocton, Ohio",
-    "witnesses": "single observer",
-    "photographs": "no"
+    "location": "Coshocton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "individual with a long-standing interest in watching the stars",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A bright object with a tail of blue and red lights was observed over the town of Union City, Indiana on June 6, 1960 at 8:30 PM.",
-    "interesting points": [
-        "The object was described as having a bright appearance with a tail of blue and red lights.",
-        "The sighting was made by a witness named John Doe.",
-        "The sighting occurred over the town of Union City, Indiana.",
-        "The sighting took place at 8:30 PM on June 6, 1960.",
-        "The report includes a black and white photograph of a cityscape with a cloudy, dramatic sky, but no visual imagery of the reported object."
-    ],
-    "result": "unexplained",
+    "main event": "A bright object with a tail of blue and red lights was observed over Union City, Indiana, on June 6, 1960.",
+    "interesting points": "The sighting occurred at 2030 hours., The object was bright and exhibited a tail of blue and red lights., John Doe was the sole confirmed witness to the event., The report was cataloged under Project Blue Book., A photograph of a cityscape is included in the documentation.",
     "sighted object": "a bright object with a tail of blue and red lights",
-    "location": "Union City, Indiana",
-    "witnesses": "John Doe",
-    "photographs": "yes, the report includes a black and white photograph of a cityscape, but not of the reported object"
+    "location": "Union City, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "John Doe",
+    "contains photographs": true
 }

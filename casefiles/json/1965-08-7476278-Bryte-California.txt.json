@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A flat, chrome-like object with red strips was observed in the sky over Bryte, California on August 15, 1965.",
-    "interesting points": [
-        "The object was plane-like but had an emission from the top center.",
-        "The object was observed at ground level in the west and made no sound.",
-        "The sighting lasted for 15-17 minutes during the night.",
-        "The object appeared to be stationary, then moved slowly from east to west before returning to its original position.",
-        "The witness described the object as unusually bright, like an exceptionally bright star or planet."
-    ],
-    "result": "Astro (MARS)",
-    "sighted object": "flat, chrome-like object with red strips",
-    "location": "Bryte, California",
-    "witnesses": "pilot and civilian from Division of Forestry, age 55",
-    "photographs": "no, the report does not contain any photographs"
+    "main event": "A witness, a civilian aged 55 from Bryte, California, observed a flat oval-shaped, bright orange object with red across the center in the eastern sky on August 16, 1965.",
+    "interesting points": "The object was observed for approximately 15 to 17 minutes and appeared to gradually disappear toward the ground., The object was described as being about the size of a dime and extraordinarily bright., The witness used binoculars to observe the object and noted no sound emitted., The sighting occurred at night under slightly overcast conditions., The object's movement included standing still for 8 to 10 minutes before moving slowly from east to west.",
+    "sighted object": "a flat oval-shaped bright orange object with red across the center",
+    "location": "Bryte, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One witness is a civilian aged 55 from the Division of Forestry; the other is a pilot.",
+    "contains photographs": false
 }

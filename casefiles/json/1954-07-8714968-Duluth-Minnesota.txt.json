@@ -1,15 +1,9 @@
 {
-	"main event": "On 18 July 1954, a civilian reported a steady motion object near Duluth, Minnesota, which was later identified as a potential balloon.",
-	"interesting points": [
-		"The observation lasted for 3 minutes and was categorized as a Ground-Visual type of observation.",
-		"The object was initially identified as a potential balloon, and the witness was eventually told that it was definitely a balloon.",
-		"There were no photographs included in the report, and it was observed by a civilian source (CCC).",
-		"Multiple military personnel were involved in the observation and reporting of the event, including a captain, an operations officer, and an interceptor pilot.",
-		"The report involved references to specific coordinates, altitudes, and speeds of the observed object, indicating a detailed analysis."
-	],
-	"result": "prosaic explanation (potential balloon)",
-	"sighted object": "unidentified object, later identified as a potential balloon",
-	"location": "Duluth, Minnesota",
-	"witnesses": "civilian (CCC) and military personnel",
-	"photographs": "no"
+    "main event": "A sighting of an unidentified flying object was reported near Duluth, Minnesota on 18 July 1954.",
+    "interesting points": "The sighting was observed for a duration of 3 minutes,The object was initially considered a balloon but remained unidentified,The pilots determined the object was at an estimated altitude of 45,223 feet,The sighting was conducted by the crew of the 114th Fighter Interceptor Squadron at Duluth Municipal Airport,The report was part of the Project Blue Book documentation.",
+    "sighted object": "unidentified flying object (possibly a balloon)",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilian housewives and military personnel including an operations officer and interceptor pilot.",
+    "contains photographs": false
 }

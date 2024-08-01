@@ -1,15 +1,9 @@
 {
-    "main event": "A ground-radar observation in Sunburst, Montana on 6th December 1957 reported a round silver ball traveling very fast for approximately 5 minutes.",
-    "interesting points": [
-        "The sighting was made using ground-radar and binoculars.",
-        "The report includes photographs of the object.",
-        "The conclusion was that it was possibly a balloon or astronomical in nature, but with insufficient information to confirm.",
-        "The report was considered a 'worthless report' and 'insufficient.'",
-        "The observation lasted for 5 minutes, indicating a prolonged sighting of the object."
-    ],
-    "result": "Possibly Balloon or Possibly Astronomical",
-    "sighted object": "round silver ball traveling very fast",
-    "location": "Sunburst, Montana",
-    "witnesses": "N/A",
-    "photographs": "Yes"
+    "main event": "A round silver ball was observed traveling very fast.",
+    "interesting points": "The sighting lasted for 5 minutes,The location of the sighting is Sunburst, Montana,There is some uncertainty in the identification, with conclusions suggesting it could be a balloon,The observation was made using ground-radar,The event occurred at 0350 on December 6, 1957.",
+    "sighted object": "one round silver ball",
+    "location": "Sunburst, Montana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground-radar observation",
+    "contains photographs": true
 }

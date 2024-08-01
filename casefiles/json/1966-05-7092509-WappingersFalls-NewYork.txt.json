@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Observation of an oblong-shaped object in the western sky that turned into a bright red object and then disappeared",
-    "interesting points": [
-        "The object was observed for about 2 minutes and had red, white, and green blinking lights.",
-        "The object left a straight vapor trail that went straight up as it disappeared.",
-        "The object was first seen at about 60 degrees above the horizon and disappeared at about 40 degrees above the horizon.",
-        "The photograph of the object showed it to be a high-detail instrument-like object, likely smaller than a tennis ball, and stationary.",
-        "The observer reported seeing similar peculiar lighted objects in the same general area on numerous occasions."
-    ],
-    "result": "Inconclusive, possibly an aircraft",
-    "sighted object": "An oblong-shaped object that turned into a bright red object",
-    "location": "Wappingers Falls, New York",
-    "witnesses": "Civilian observer",
-    "photographs": "Yes, one Polaroid-type black and white photograph was taken but described as poor quality"
+    "main event": "An observation of an oblong-shaped object in the western sky that turned into a bright red object and then disappeared.",
+    "interesting points": "The object was observed for two minutes before it disappeared,The observer described the object as having red, white, and green blinking lights,Several aircraft were noted in the immediate area during the sighting,The object's movement was consistent with that of an aircraft despite not being positively identified,The photograph taken was of poor quality but showed the object in motion.",
+    "sighted object": "oblong-shaped object transitioning to a bright red object",
+    "location": "Wappingers Falls, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 36-year-old housewife from Wappingers Falls.",
+    "contains photographs": false
 }

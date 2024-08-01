@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness observed an unidentified bright object in the sky near Saugatuck, Michigan on July 6, 1962.",
-    "interesting points": [
-        "The object appeared to be of two colors and was very bright, initially appearing to be a meteor.",
-        "The object was visible for approximately 1 minute during each of the two sightings, covering an arc of 25-30 degrees.",
-        "The witness calculated that based on the object's speed, it would complete one orbit around the Earth in 14-15 minutes, much faster than known satellites.",
-        "The witness was a former employee of System Development Corporation who held a security clearance of Secret while working on the SAGE (Semi-Automatic Ground Environment) system for the U.S. Air Force.",
-        "The Air Force requested additional details from the witness to conduct a complete analysis of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, multi-colored object in the sky",
-    "location": "Saugatuck, Michigan",
-    "witnesses": "a former USAF contractor",
-    "photographs": "no"
+    "main event": "An observer reported seeing a bright object in the sky which was initially thought to be a meteor while swimming in Lake Michigan near Saugatuck, Michigan.",
+    "interesting points": "The sighting occurred on July 6, 1962, at 11:51 PM and lasted for approximately one minute initially, then again spotted at 12:32 AM., The object was described as bright, with two colors, and moving westerly across the sky., The observer thought the object covered an arc of 25 - 30 degrees during each sighting., There were comparisons made that the object's speed suggested it could complete an orbit around the Earth in about 14 or 15 minutes., The report mentions a former employee of System Development Corporation with a background in the USAF.",
+    "sighted object": "a bright object in the sky, possibly a meteor",
+    "location": "Saugatuck, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a former employee of System Development Corporation with a background in the USAF",
+    "contains photographs": false
 }

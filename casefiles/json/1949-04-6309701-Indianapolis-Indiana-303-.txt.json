@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO report from 28 April 1949 in Indianapolis, Indiana, described an unconventional aircraft as 'round, like a balloon, very high, very fast', with only limited information received via a phone call.",
-  "interesting points": [
-    "The report described a circular green object illuminated, observed at an altitude of 3000-4000 ft, traveling on a heading of 310° at a speed of 20-100 mph over Indianapolis, Indiana.",
-    "The observer, Mr. L., reported long distance by phone that the objects appeared to be shaped like balloons, traveling at a speed of 300-400 mph at an altitude varying between 1000-2000 ft.",
-    "Efforts to trace the phone call to find more information about the observer were unsuccessful. The call was paid for by the observer, and no record of incoming paid calls was maintained at Chanute AFS, making it impossible to identify or locate the caller.",
-    "The report was made in accordance with Air Intelligence Regulation Number 4, 15 February 1949, but was deemed as having insufficient data for evaluation.",
-    "The objects were observed to have varying altitudes, directions, and speeds, indicating erratic movement patterns."
-  ],
-  "result": "unexplained",
-  "sighted object": "unconventional aircraft described as round, like balloons, very high, very fast",
-  "location": "Indianapolis, Indiana",
-  "witnesses": "Mr. L., an unidentified civilian observer who reported the sighting via phone call",
-  "photographs": "no"
+    "main event": "A civilian reported observing balloon-shaped objects traveling at high speeds over Indianapolis, Indiana on 28 April 1949.",
+    "interesting points": "The observer described the objects as round and balloon-like,Estimated altitude of the objects was between 1000-2000 feet.,The estimated speed of the objects was reported to be 300-400 mph.,The report was made via long distance telephone call and lacked detailed confirmation.,There were no physical evidence or photographs accompanying the report.",
+    "sighted object": "balloon-shaped objects",
+    "location": "Indianapolis, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who observed the objects from a distance",
+    "contains photographs": false
 }

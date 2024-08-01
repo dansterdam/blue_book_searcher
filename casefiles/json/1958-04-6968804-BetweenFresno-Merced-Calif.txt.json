@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A pilot spotted a circular object, the size of a pea held at arm's length, that was white and far above a weather balloon at 150,000 feet.",
-    "interesting points": [
-        "The object made a 180-degree turn and then streaked towards the Pacific Ocean at high speed.",
-        "The sighting occurred while the pilot was investigating the weather balloon.",
-        "A U-2 aircraft was in the general area at the time and also sighted the balloon.",
-        "The Air Technical Intelligence Center concluded that the object was likely an aircraft being tested, though no known cause for the sighting could be determined.",
-        "The two pilots who reported the sighting had an excellent reputation for veracity."
-    ],
-    "result": "Probably Aircraft",
-    "sighted object": "a circular, white object the size of a pea at arm's length",
-    "location": "Between Fresno and Merced, California",
-    "witnesses": "two F-100C pilots from the 436th Fighter Squadron at George Air Force Base",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported by pilots of two F-100C aircraft who observed a circular object in the sky at high altitude.",
+    "interesting points": "The object was described as circular, white, and the size of a pea held at arm's length., The object was sighted far above a weather balloon that was flying at approximately 150,000 feet., The sightings occurred at the same time that a U-2 aircraft was on a classified project in the area., The pilots made observations while investigating a large 'Sky Hook' weather balloon., The object performed a 180-degree turn and streaked toward the Pacific Ocean at high speed.",
+    "sighted object": "circular white object",
+    "location": "Between Fresno-Merced, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilots from the 436th Fighter Squadron, George AFB, California",
+    "contains photographs": false
 }

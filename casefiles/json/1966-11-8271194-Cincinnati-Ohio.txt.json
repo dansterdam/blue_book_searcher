@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "A civilian in Cincinnati, Ohio reported observing a single unidentified aerial object for about 5 minutes on November 11, 1966.",
-    "interesting points": [
-        "The object was observed during the early morning hours around 3:30 AM.",
-        "The object was described as a solid, blue-white object with fuzzy or blurred edges.",
-        "The observer estimated the angular size of the object to be about 1 degree.",
-        "The object moved behind and in front of clouds during the observation.",
-        "The observer stated the object did not make any sound and did not report any other unusual behaviors."
-    ],
-    "result": "insufficient information to evaluate",
-    "sighted object": "a single unidentified aerial object",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "a civilian observer",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed in Cincinnati, Ohio, for approximately 5 minutes on November 11, 1966.",
+    "interesting points": "The object appeared solid and blue-white in color., The sighting was made during clear night conditions., The object moved behind a cloud at one point during the observation., The witness reported that the object did not make any sound., A hand-drawn sketch showing the object's shape and movement was included in the report.",
+    "sighted object": "one unidentified flying object",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer",
+    "contains photographs": false
 }

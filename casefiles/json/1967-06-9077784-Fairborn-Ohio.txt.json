@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-  "main event": "A civilian witness observed a single bright orange or white object in the sky over Fairborn, Ohio on June 5, 1957 for about 1 hour and 15 minutes.",
-  "interesting points": [
-    "The object appeared to be brighter than normal, moved rapidly, and seemed to be giving off smaller lights.",
-    "The witness could not determine the distance to the object.",
-    "The object moved up and down and appeared to be under some form of control.",
-    "The witness described the object as a bright light, about the same brightness as a distant streetlight.",
-    "The object disappeared behind trees while the witness was observing it."
-  ],
-  "result": "insufficient data for evaluation",
-  "sighted object": "a bright orange or white light in the sky",
-  "location": "Fairborn, Ohio",
-  "witnesses": "a civilian witness",
-  "photographs": "no"
+    "main event": "A UFO sighting was reported in Fairborn, Ohio on 4 June 1967, lasting for 1 hour and 15 minutes.",
+    "interesting points": "The sighting involved a single unidentified object moving rapidly and appearing brighter than normal,The object seemed to emit smaller lights and moved vertically,The observation was conducted from the ground,The object traveled in an east-west course,The observation report concluded that there was insufficient data for scientific evaluation.",
+    "sighted object": "one bright unidentified object",
+    "location": "Fairborn, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian resident of Fairborn",
+    "contains photographs": false
 }

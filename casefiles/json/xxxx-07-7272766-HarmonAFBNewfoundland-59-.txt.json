@@ -1,15 +1,9 @@
 {
-    "main event": "The document appears to be a collection of pages from a Project Blue Book report, containing a few photographs and maps related to unidentified aerial phenomena.",
-    "interesting points": [
-        "The report mentions 4 photos associated with the file, but only 2 images are included in the document.",
-        "One of the photos shows a blurry, elongated bright shape in the sky, which appears to be an unidentified aerial phenomenon.",
-        "Another image shows a collection of metal and electronic components, as well as fragments of rocks or minerals, which are allegedly identified as "flying saucer" specimens.",
-        "The report is dated July 10, 1947, and is from Harmon AFB in Newfoundland.",
-        "The document also includes a map with various labels and annotations, but no clear photographs of UFOs."
-    ],
-    "result": "Inconclusive, the report does not provide a clear conclusion about the nature of the observed phenomena.",
-    "sighted object": "Blurry, elongated bright shape in the sky, and alleged "flying saucer" specimens.",
-    "location": "Harmon AFB in Newfoundland",
-    "witnesses": "Unspecified",
-    "photographs": "Yes, the report includes 2 photographs, but they do not clearly show any UFOs."
+    "main event": "A Project Blue Book file dated July 10, 1947, includes a report from Harmon AFB in Newfoundland with references to unidentified aerial phenomena.",
+    "interesting points": "The file mentions a total of 4 associated photographs., The first image is a blurry black and white photo of a cloudy sky., One photo appears to show a bright, elongated object in the sky., There are no clear identifiable elements in the photographs., The report contains various diagrams and maps related to air operations.",
+    "sighted object": "unidentified aerial phenomenon or object",
+    "location": "Harmon AFB, Newfoundland, Canada",
+    "number of confirmed witnesses": 0,
+    "witness description": "no identifiable witnesses mentioned",
+    "contains photographs": true
 }

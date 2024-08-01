@@ -1,15 +1,9 @@
 {
-    "main event": "Several small, irregularly-shaped white objects were photographed against a dark background in Manchester, New Hampshire on February 6, 1964.",
-    "interesting points": [
-        "The objects appear to be floating or moving in the frame.",
-        "The photograph is part of a Project Blue Book document related to a UFO report.",
-        "The report is dated February 6, 1964, from Manchester, New Hampshire.",
-        "The image does not contain any other identifiable features or context.",
-        "The report states that the image shows a 'photo of unidentified objects'."
-    ],
-    "result": "unexplained",
+    "main event": "A UFO report from February 6, 1964, in Manchester, New Hampshire, featuring unidentified objects in a photograph.",
+    "interesting points": "The photograph showed several small, irregularly-shaped white objects against a dark background., The objects appeared to be floating or moving in the frame., There were no identifiable features or context provided in the image., This report is part of the Project Blue Book document series., The document is dated February 28, 1964.",
     "sighted object": "several small, irregularly-shaped white objects",
-    "location": "Manchester, New Hampshire",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes a photograph"
+    "location": "Manchester, New Hampshire, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses mentioned",
+    "contains photographs": false
 }

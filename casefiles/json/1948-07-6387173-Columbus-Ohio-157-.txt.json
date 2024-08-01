@@ -1,15 +1,9 @@
 {
-    "main event": "The document is a compilation of reports related to sightings of unidentified flying objects in Columbus, Ohio on July 31, 1948. It includes witness statements, evaluations by Dr. Hynek, and comments on the investigations by the headquarters.",
-    "interesting points": [
-        "The witness statements describe sightings of large hovering objects, varying in color and shape, and with no audible sound.",
-        "The document includes evaluations by Dr. Hynek, categorizing incidents based on astronomical, non-astronomical, and unexplained factors.",
-        "The report mentions the possibility of balloons or ordinary aircraft being the cause of some sightings, while others lack evidence for any explanation.",
-        "The form used for interrogating witnesses and the suggested improvements in collecting 'Essential Elements of Information' are included in the report.",
-        "The document also includes statements indicating that certain sightings can be identified as 'county fair balloons' or conventional phenomena."
-    ],
-    "result": "prozaic explanation",
-    "sighted object": "unidentified flying objects",
-    "location": "Columbus, Ohio",
-    "witnesses": "Housewives, truck driver, telephone operator, CIC agents",
-    "photographs": "no"
+    "main event": "On July 31, 1948, multiple observers reported seeing unidentified objects in the sky over Columbus, Ohio.",
+    "interesting points": "Multiple witnesses described the objects as resembling large stars at great distances,Objects changed color to gold and hung in the sky,One witness noted the objects seemed to hover and change positions in the sky,Reports indicate that at least six or seven objects were observed in formation,An investigation suggested the possible identification of some sightings as balloons.",
+    "sighted object": "unidentified flying objects, possibly resembling balloons",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "One was a housewife who reported multiple objects; another a teletype operator who witnessed a descending balloon.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar tracked an unknown object for 10 seconds, which was initially assessed as a satellite echo.",
-    "interesting points": [
-        "The object was tracked by ground radar, not visually observed.",
-        "The object was initially assessed as a satellite echo.",
-        "The sighting was reported to various military and government agencies, including PACAF, CINCPAC, COMUSTDC, and COPS USAF.",
-        "The report mentions the USS Lansing, but it's unclear if this was related to the sighting.",
-        "The object was described as having the brightness of a first magnitude star."
-    ],
-    "result": "unexplained",
-    "sighted object": "unknown radar track",
-    "location": "Hawaii",
-    "witnesses": "military radar operators",
-    "photographs": "none"
+    "main event": "A ground radar observation evaluated as a satellite echo was recorded on 12 Feb 1962.",
+    "interesting points": "The observation lasted for 10 seconds., The reporting agency was the Department of the Air Force., The location involved was Kunia Facility in Hawaii., The sighting was recorded as a UFO with a brightness similar to a 1st magnitude star., The report was unclassified and sent to multiple military and government entities.",
+    "sighted object": "satellite echo",
+    "location": "Kunia, Hawaii, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none provided",
+    "contains photographs": false
 }

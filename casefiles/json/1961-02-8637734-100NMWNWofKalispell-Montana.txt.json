@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A cigar-shaped object, 60-80 ft long, was spotted at 2000 ft altitude by military observers. It hovered, then suddenly broke up and disappeared.",
-    "interesting points": [
-        "The object changed color from green to dull orange.",
-        "It appeared to have a short trail, which may have caused the shape change.",
-        "The object was silent and not moving.",
-        "It suddenly broke up and disappeared in one second.",
-        "The sighting was reported by a Major and 1st Lieutenant, both described as excellent observers."
-    ],
-    "result": "unexplained",
+    "main event": "A military report described a sighting of a cigar-shaped object, approximately 60-80 feet long, at 2000 feet altitude on 20 February 1961.",
+    "interesting points": "The object was observed for about 10 seconds and hovered before disappearing over the horizon., It appeared to change shape possibly due to a short trail., The object made no sound during the sighting., The sighting was reported by military personnel from Spokane Air Defense., The object's behavior was characteristic of a meteor becoming a bolide before disintegration.",
     "sighted object": "cigar-shaped object",
-    "location": "100 NW of Kalispell, Montana",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "location": "100 NW of Kalispell, Montana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel including Major Williams and Lieutenant Gordon",
+    "contains photographs": false
 }

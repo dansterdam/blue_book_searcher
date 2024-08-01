@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright light, described as twice as bright as a street lamp, was observed in the sky for almost two hours on March 29, 1966 in Findlay, Ohio.",
-    "interesting points": [
-        "The light was so bright it was hard to make out any other details.",
-        "The object continued to change colors during the observation.",
-        "The object remained stationary in the same spot for the nearly two-hour duration.",
-        "The witness stated the object was observed for almost two hours and it remained in the same spot.",
-        "The Air Force concluded the sighting was likely an observation of the planet Venus."
-    ],
-    "result": "ASTRO (VENUS)",
-    "sighted object": "a very bright light, twice as bright as a street lamp",
-    "location": "Findlay, Ohio",
-    "witnesses": "one civilian witness",
-    "photographs": "no, the report states there were no photos taken"
+    "main event": "A bright light, reportedly twice as bright as a street lamp, was observed in Findlay, Ohio for 1 hour and 40 minutes on March 29, 1966.",
+    "interesting points": "The witness noted that the light was so bright it was difficult to discern details,The light changed colors during the observation,The object remained stationary for the entire time,The conclusion drawn by investigators was that the sighting was likely of Venus,No physical evidence or photographs were found from the sighting.",
+    "sighted object": "a very bright light",
+    "location": "Findlay, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a teacher, Mr. David N. Dunham",
+    "contains photographs": false
 }

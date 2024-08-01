@@ -1,15 +1,9 @@
 {
-    "main event": "A witness reported seeing a slow-moving gray object through a window.",
-    "interesting points": [
-        "The object was described as a 'star object' moving very slowly.",
-        "The witness was William McNeil, from a location in New Hampshire.",
-        "The object was observed for approximately 1 minute.",
-        "The Air Force investigation concluded the object was a Martin aircraft at 25,000 feet.",
-        "The document mentions a list of 'OE Reports' with dates, suggesting there may have been additional related sightings."
-    ],
-    "result": "identified",
-    "sighted object": "a gray, slow-moving object",
-    "location": "New Hampshire",
-    "witnesses": "William McNeil",
-    "photographs": "none"
+    "main event": "William McNeil observed a slow-moving star-like object from his location in New Hampshire.",
+    "interesting points": "The sighting was made through a glass window,The object was described as light gray,The observation lasted approximately 1 minute, The observer initially mistook the object for a star,The investigation concluded it was identified as a Martin Aircraft.",
+    "sighted object": "a star-like object",
+    "location": "New Hampshire, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "William McNeil, observer from Star Route, New Hampshire",
+    "contains photographs": false
 }

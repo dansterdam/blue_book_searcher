@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO report from Project Blue Book documented a sighting of a blue-white groundish object that broke into three parts and traveled west at a high speed.",
-  "interesting points": [
-    "The object was observed by a traffic controller at Idlewild airport, along with TWA Flight 629 and Eastern on final approach",
-    "The sighting occurred at dusk on 26th September 1958",
-    "Surface winds and weather conditions were detailed in the report",
-    "A possible explanation was suggested as engine exhaust by Airdrome Officer Captain Fred Perry",
-    "The object was noted to have instantaneous movement, covering a distance in three seconds"
-  ],
-  "result": "unexplained",
-  "sighted object": "blue-white groundish object",
-  "location": "Idlewild airport, New York",
-  "witnesses": "Traffic controller at Idlewild, TWA Flight 629, Airdrome Officer Captain Fred Perry",
-  "photographs": "no"
+    "main event": "Traffic controller at Idlewild reported a UFO sighting on 26 September 1958.",
+    "interesting points": "The sighting occurred at dusk and the object was described as blue-white and groundish in color,The object broke into three parts during the sighting,The traffic controller observed the object for about three seconds as it moved westward at a speed of 800 to 1000 units,There were other flights in the area, including TWA Flight 629, which was noted in the report,The investigation involved multiple USAF commanders and agencies.",
+    "sighted object": "blue-white object breaking into three parts",
+    "location": "Idlewild Airport, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "male, 45 years, traffic controller",
+    "contains photographs": false
 }

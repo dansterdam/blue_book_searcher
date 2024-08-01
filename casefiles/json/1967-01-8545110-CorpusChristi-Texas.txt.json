@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer spotted a round, red object in the sky over Corpus Christi, Texas on January 21, 1967.",
-    "interesting points": [
-        "The object was approximately the size of a nickel held at arm's length.",
-        "The object was observed for 30 seconds, moving in an arch from north to south and disappearing into the horizon.",
-        "No optical aids were used, and the observer was a retired Army civilian.",
-        "The weather conditions were clear with 10 miles of visibility and scattered clouds.",
-        "The report indicates there was a significant amount of air traffic in the Corpus Christi area at the time, which may have accounted for the sighting."
-    ],
-    "result": "AIRCRAFT",
-    "sighted object": "a round, red object",
-    "location": "Corpus Christi, Texas",
-    "witnesses": "civilian observer (retired Army)",
-    "photographs": "none"
+    "main event": "A civilian reported observing a round red object in the sky moving north to south for 30 seconds.",
+    "interesting points": "The object was the size of a nickel held at arm's length., The sighting occurred at dusk with clear visibility., The object's flight path appeared to be an arch before drifting out of sight into the horizon., No discernible features, sound, or exhaust were noted., The cause of the sighting was suggested to be due to high air traffic in the area.",
+    "sighted object": "one round red object",
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, retired Army, reliability fair",
+    "contains photographs": false
 }

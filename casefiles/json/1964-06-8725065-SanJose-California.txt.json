@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two round, white objects were observed moving north in the sky near San Jose, California.",
-    "interesting points": [
-        "The objects were approximately the size of a grapefruit and were seen in small clouds, about 1 mile apart.",
-        "The objects moved instantaneously to the north within a matter of seconds.",
-        "The sky was well illuminated by two searchlights operating for commercial purposes in the area.",
-        "The observer, Mr. **********, was 23 years old and unemployed, and was deemed reliable.",
-        "The report concludes that the cause could not be determined, and it was difficult to make an analysis based on the limited information provided."
-    ],
-    "result": "unknown",
-    "sighted object": "two round, white objects",
-    "location": "San Jose, California",
-    "witnesses": "Mr. **********",
-    "photographs": "no"
+    "main event": "Two round white objects were observed moving north in San Jose, California on June 5, 1954.",
+    "interesting points": "The objects were reported to be about 1 mile in apparent diameter., The duration of the observation was between 2-3 minutes., The objects were seen in clear skies with no optical aids., The conclusion suggested possibilities including a balloon or unidentified aircraft., The witness appeared reliable and was described as unemployed.",
+    "sighted object": "two round white objects",
+    "location": "San Jose, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. **********, 23 years old, appeared reliable.",
+    "contains photographs": false
 }

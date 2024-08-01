@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing a single unidentified object in Beavercreek, Ohio on 2-9-64.",
-    "interesting points": [
-        "The object was observed for 12 minutes.",
-        "The object appeared stationary.",
-        "No photographs were taken of the object.",
-        "The witness could not provide a clear description of the object's appearance.",
-        "The witness reported the sighting to the Foreign Technology Division on September 26, 1964."
-    ],
-    "result": "unexplained",
-    "sighted object": "single unidentified object",
-    "location": "Beavercreek, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A report details a UFO sighting on 20 October 1964 in Beavercreek, Ohio, involving one observed object for a duration of 12 minutes.",
+    "interesting points": "The observation was classified as ground-visionary., The object was described as stationary during the observation., There was no physical evidence or photographs related to the sighting., The sighting occurred after the formation of Project Blue Book and involved a documented investigation., The report included correspondence from the Dearborn Observatory indicating skepticism about the sighting's significance.",
+    "sighted object": "one unidentified aerial object",
+    "location": "Beavercreek, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness age 32, sex: Male; details about the witness and sightings provided in a questionnaire.",
+    "contains photographs": false
 }

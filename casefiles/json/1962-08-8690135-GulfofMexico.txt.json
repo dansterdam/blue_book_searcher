@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sighting of 2 small, bright lights moving rapidly over the water like jet aircraft, disappeared quickly.",
-    "interesting points": [
-        "The objects were similar in appearance to jet aircraft, but moved much faster and with jerky, high-speed motions.",
-        "The objects disappeared quickly after being observed.",
-        "The sighting occurred over the Gulf of Mexico.",
-        "No photographs were taken of the objects.",
-        "The length of the observation is unknown."
-    ],
-    "result": "unexplained",
+    "main event": "Sighting of 2 small, bright lights moving rapidly over the water in the Gulf of Mexico.",
+    "interesting points": "The lights moved like jet aircraft but at much higher speeds and with jerky motions., The exact length of the observation is unknown., The report indicates the objects disappeared quickly., The sighting involved two objects sighted simultaneously., There were no photographs included in the report.",
     "sighted object": "two small, bright lights",
-    "location": "Gulf of Mexico",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Gulf of Mexico, NA, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "no specific witness description available; general observation recorded.",
+    "contains photographs": false
 }

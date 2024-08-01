@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting occurred near Sherman, Texas in the summer of 1965.",
-    "interesting points": [
-        "The sighting received a great deal of publicity at the time and the organization had received numerous inquiries about it since then.",
-        "The organization considered the case to be one of the more puzzling and interesting UFO reports that had come to their attention.",
-        "The handwritten document mentions a Capt. D. reporting on the sighting, which lasted for 2 hours and 3 minutes.",
-        "The document also mentions a disc-shaped object in the sky that appeared shapeless and looked like a swarm of insects.",
-        "The document mentions a plane making a U-turn and then canceling out on its ship, before returning downwards."
-    ],
-    "result": "Insufficient data for evaluation.",
-    "sighted object": "Disc-shaped object, plane",
-    "location": "Sherman, Texas",
-    "witnesses": "Capt. D.",
-    "photographs": "No photographs present in the image."
+    "main event": "A UFO sighting was reported in Sherman, Texas during the summer of 1965, notable for its unusual characteristics.",
+    "interesting points": "The sighting received significant publicity at the time and led to numerous inquiries afterward., The document states that it was one of the more puzzling and interesting UFO reports., There were mentions of the object being shapeless and resembling a swarm of insects., The sighting was reported to have occurred at approximately 7:35 PM., The report indicated that the object made a U-turn before descending.",
+    "sighted object": "a shapeless object resembling a swarm of insects",
+    "location": "Sherman, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported observing the object at 7:35 PM.",
+    "contains photographs": false
 }

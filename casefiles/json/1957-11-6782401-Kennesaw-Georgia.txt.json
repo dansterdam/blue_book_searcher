@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object with a tail, the size of a basketball, was observed falling straight downward in Kennesaw, Georgia on November 6, 1957.",
-    "interesting points": [
-        "The object gradually turned red around the edges and then glowed yellow or orange.",
-        "The object came on fast and then disappeared into its tail.",
-        "The object's tail was five to six times the size of the object itself.",
-        "The object fell at an approximately 32-degree angle from the observer's house.",
-        "The sighting lasted for 2-3 minutes."
-    ],
-    "result": "Identified as a meteor",
-    "sighted object": "A round object with a tail, the size of a basketball",
-    "location": "Kennesaw, Georgia",
-    "witnesses": "A mechanic",
-    "photographs": "None"
+    "main event": "On 6 November 1957, a round object with a tail was observed drifting slowly downwards in Kennesaw, Georgia.",
+    "interesting points": "The object was about the size of a basketball and glowed with a yellow or orange color before gradually turning red., The observation lasted between 2 to 3 minutes., The object was described as having a tail that was five to six times its size., It was suggested that the sighting could be a meteor due to characteristics resembling one., The object seemed to have a forced fall, disappearing behind trees.",
+    "sighted object": "A round object with a tail",
+    "location": "Kennesaw, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mechanic who provided observations from the ground",
+    "contains photographs": false
 }

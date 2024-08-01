@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a bright white light that was larger than a star in the sky over Duluth, Minnesota in August 1965.",
-    "interesting points": [
-        "The object was similar to a star but possibly a little larger and brighter.",
-        "The object was observed for approximately 4-50 seconds before disappearing behind clouds.",
-        "The sighting occurred when ECHO II, a satellite, was overhead in the area at the time.",
-        "The weather conditions were described as 10,000 feet broken clouds with visibility over 15 miles.",
-        "No sound or unusual features were reported about the object."
-    ],
-    "result": "unexplained, likely a satellite",
-    "sighted object": "a bright white light larger than a star",
-    "location": "Duluth, Minnesota",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a bright white object in the night sky in Duluth, Minnesota on August 12, 1965.",
+    "interesting points": "The sighting lasted approximately 10 minutes,The object was described as being brighter than the brightest stars,The observer initially thought it was a satellite,Multiple sightings were reported in the area at the same time,There were no photographs or physical evidence of the sighting.",
+    "sighted object": "One bright white object in the sky",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer with unknown reliability",
+    "contains photographs": false
 }

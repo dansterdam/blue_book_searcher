@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A triangular shaped object larger than an airplane was observed traveling and appearing to land in the south.",
-    "interesting points": [
-        "The object was observed by a civilian witness driving along Highway 61 towards Holland, Missouri.",
-        "The object was seen at an altitude of around 2,000 feet, dropping down to tree-top level before rising back up again.",
-        "Two of the three observed objects had blinking red and intermittent white lights.",
-        "One of the objects remained stationary while the other two maneuvered around it.",
-        "An analysis of 8mm film footage allegedly showing the object was found to be blank, with no photographic evidence to support the sighting."
-    ],
-    "result": "Aircraft (possible)",
-    "sighted object": "triangular shaped object larger than an airplane",
-    "location": "Holland, Missouri",
-    "witnesses": "civilian witness driving along Highway 61",
-    "photographs": "Yes, 8mm film footage was submitted but found to be blank"
+    "main event": "A witness observed three lights in the sky near Holland, Missouri, on March 8, 1967, for a duration of 20 minutes, with a triangular shaped object reportedly landing southward.",
+    "interesting points": "The triangular object was larger than a plane at a distance of approximately one mile., The lights emitted a bright light., One object remained stationary while two others maneuvered around it., The observation could possibly be related to a KC-135 aircraft conducting simulated landings in the area., The observer was a reliable witness, aged 16, from Caruthersville, Missouri.",
+    "sighted object": "three lights and a triangular shaped object",
+    "location": "Holland, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "16-year-old male, grocery store employee, reliable",
+    "contains photographs": false
 }

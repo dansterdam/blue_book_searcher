@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright, round, white object was observed moving rapidly across the sky for about 30 seconds.",
-    "interesting points": [
-        "The object was seen by Mr. and Mrs. James W. Johnson in Lakewood, Colorado.",
-        "The sighting occurred on July 7, 1967 at around 2150 hours.",
-        "The weather was clear and the stars were visible.",
-        "The object was described as bright, round, and white in color.",
-        "Captain Byers from the USAF was unable to determine the identity of the object."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, round, white object",
-    "location": "Lakewood, Colorado",
-    "witnesses": "Mr. and Mrs. James W. Johnson",
-    "photographs": "no"
+    "main event": "Mr. and Mrs. James W. Johnson reported seeing a bright, round, white object moving rapidly across the sky.",
+    "interesting points": "The sighting lasted for 30 seconds,The object was bright and round,Weather conditions were clear with stars visible,The investigation was conducted by Capt. Byers (USAF),The object was ultimately classified as unidentified.",
+    "sighted object": "bright, round, white object in the sky",
+    "location": "Lakewood, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. James W. Johnson",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be a page from an old UFO document related to Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).",
-    "interesting points": [
-        "The document contains an 'INCOMING MESSAGE' header, suggesting the report was part of official government communication.",
-        "The document includes various codes and abbreviations, such as 'ARBY-2', 'XRAY-3', 'XOKX-5', which could indicate military or intelligence agency involvement.",
-        "The report mentions specific entities like 'SEAISEALFRON', 'COPLAIRSON', 'CNISPGAGF', 'GINGGRAD', and 'PACAF BASECOM COMMAND CENTER HICKAM AFB', which may be related to military or government agencies.",
-        "The report includes details like 'CRUISE REPORT', 'V42317', 'UFO', '42/51/159-2306', '05/33372', '60 DEGREES', '85', '15 DEGREES', which could be relevant to the UFO sighting.",
-        "The report states that the 'OBSERVER EVALUATES AS SATELLITE', suggesting the sighting was potentially identified as a satellite."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying object (UFO)",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "no photographs included in the document"
+    "main event": "The document appears to be a page from an old UFO report from Project Blue Book dated August 5, 1964.",
+    "interesting points": "The report includes a variety of coded messages and references to military organizations like the USAF and CIA., It tracks various unidentified phenomena classified as UFOs., Observations included a cruise report evaluated as a potential satellite., The report contains coded communication and routing information., There is mention of a re-transmission to the CIA and NORAD.",
+    "sighted object": "unidentified flying objects (UFOs)",
+    "location": "Not specified",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

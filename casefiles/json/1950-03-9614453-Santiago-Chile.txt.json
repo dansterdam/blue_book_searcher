@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military observer spotted a fast-moving white object in the sky over Santiago, Chile on March 28, 1950.",
-    "interesting points": [
-        "The observer saw the object moving at an extremely high altitude and speed, estimated to cover 30 degrees of the sky in 5-10 seconds.",
-        "The observer initially thought the object might be an illusion or reflection, but was able to observe it clearly through binoculars.",
-        "The observer returned to the roof with a camera to try and photograph the object, but was unable to spot it again.",
-        "Other people in the downtown Santiago area were also observed looking up at the sky during the sighting.",
-        "The Air Attache concluded that a previous sighting was likely the planet Venus after further observation."
-    ],
-    "result": "unidentified",
-    "sighted object": "a fast-moving white object",
-    "location": "Santiago, Chile",
-    "witnesses": "military observer (M/Sgt), other civilians in Santiago",
-    "photographs": "no, the observer was unable to photograph the object"
+    "main event": "A military observer witnessed an unidentified object moving at high speed in Santiago, Chile on 28 March 1950.",
+    "interesting points": "The object was observed moving from south to north at an extreme rate of speed., The observer stated the object appeared more white than any other color., The witness attempted to capture the object on camera but it was gone by the time he returned., Many people in downtown Santiago were also looking at the sky at the time of the sighting., The report speculated that residents may have mistaken the object for the planet Venus.",
+    "sighted object": "one unidentified object in the sky",
+    "location": "Santiago, Region Metropolitana, Chile",
+    "number of confirmed witnesses": 1,
+    "witness description": "Master Sergeant returning to the U.S. Embassy",
+    "contains photographs": false
 }

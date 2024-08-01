@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was sighted through an overcast sky, going through a slow maneuver and changing direction at one point before fading out and disappearing.",
-    "interesting points": [
-        "The object had a variable heading and changing speed.",
-        "The object disappeared after about 11 minutes of observation.",
-        "The object was observed by radar, including an air intercept radar.",
-        "The report mentions the object's altitude and bearing at different observation times.",
-        "The report was part of Project Blue Book, a historic U.S. Air Force program that investigated UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright object",
+    "main event": "A bright object was sighted through an overcast sky, performing slow maneuvers and changing direction before disappearing.",
+    "interesting points": "The observation lasted for 11 minutes,The object changed course and speed during the sighting,The object faded out and disappeared in approximately 0.56 seconds,The sighting occurred on February 16, 1960, at 11:00 PM,The last observer/witness was D Al-Virud.",
+    "sighted object": "one bright object",
     "location": "Vegt N 103:32 G",
-    "witnesses": "D Al-Virud",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "D Al-Virud",
+    "contains photographs": false
 }

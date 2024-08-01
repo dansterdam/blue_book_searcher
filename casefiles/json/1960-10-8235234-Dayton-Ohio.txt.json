@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright light was observed moving across the sky. The light was described as being larger and brighter than a star and appeared to be oscillating or flickering.",
-    "interesting points": [
-        "The object was observed for approximately 10 minutes before disappearing.",
-        "The object was tracked on radar to a range of approximately 1.8 nautical miles, appearing as a well-defined, solid return at an altitude of 4,000-5,000 feet.",
-        "The object moved in a straight line, apparently under positive control, at an indicated speed of 240 knots.",
-        "The radar return could not be identified as any known meteorological or other natural phenomena.",
-        "Another sighting described an object that was in view for about 7 seconds while returning toward the south, with no visible propulsion and brightness about that of the stars."
-    ],
-    "result": "insufficient data",
-    "sighted object": "a bright light moving across the sky, and an unidentified radar return",
-    "location": "unknown",
-    "witnesses": "multiple",
-    "photographs": "yes, the report includes a radar scope photograph"
+    "main event": "Multiple reports of unidentified objects observed in the Ohio area during 1957 and 1960.",
+    "interesting points": "One report indicated a D-light on the western edge observed to be 30-40 feet in diameter, 2-3 blocks away., Another sighting described a bright light oscillating or flickering for 10 minutes., An unidentified object tracked on radar at an altitude of 4,000-5,000 feet and speed of 240 knots., The visual observations lacked definitive conclusions due to insufficient data., There was mention of the possibility of the observed light being a normal aircraft.",
+    "sighted object": "A D-light and a bright light in the sky",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness observed a D-light and described a bright oscillating light.",
+    "contains photographs": false
 }

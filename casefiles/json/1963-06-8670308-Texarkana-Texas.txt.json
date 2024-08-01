@@ -1,15 +1,9 @@
 {
-    "main event": "There is no clear main event described in the provided documents. The documents appear to contain various meteorological data related to wind and weather observations, as well as some coded data and tables, but no details about a specific UFO sighting event.",
-    "interesting points": [
-        "The documents contain data from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).",
-        "The documents include wind-aloft computation sheets and surface weather observation reports from locations like Shreveport, Louisiana and Texarkana, Texas.",
-        "Some of the documents mention observations of objects in the sky, but provide very limited details about their characteristics or behavior.",
-        "There is no mention of any photographs or other visual evidence related to the reported observations.",
-        "The documents appear to be from the early 1960s, during the height of public interest in UFOs and the Project Blue Book investigations."
-    ],
-    "result": "The documents do not provide enough information to determine a clear result or conclusion about any UFO sightings. The data appears to be more focused on meteorological conditions than detailed descriptions of unidentified aerial phenomena.",
-    "sighted object": "The documents do not contain clear descriptions of any sighted objects. They mention observations of objects in the sky, but provide very limited details.",
-    "location": "The locations mentioned include Shreveport, Louisiana; Texarkana, Texas; and other areas in the southern United States.",
-    "witnesses": "The documents reference observations made by unspecified individuals, but do not provide details about the witnesses.",
-    "photographs": "There are no photographs present in the provided documents."
+    "main event": "Two objects were observed in the sky over Texarkana, Texas on June 26, 1963.",
+    "interesting points": "The sighting lasted for 40-45 seconds at night,The objects were described as round and observed at a very high altitude in the northwestern sky, During the observation, the objects split into four different places along their trail and eventually faded after about half an hour, Observers had differing opinions on whether the objects could be balloons, satellites or possibly aircraft, There were 2 confirmed witnesses who did not have prior experience with UFOs.",
+    "sighted object": "two round objects in the sky",
+    "location": "Texarkana, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers reported seeing the objects clearly at night.",
+    "contains photographs": false
 }

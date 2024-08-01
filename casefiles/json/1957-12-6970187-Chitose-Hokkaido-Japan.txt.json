@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An unidentified bright light was observed by over 60 personnel from the 913th Aircraft Control and Warning Squadron in Hokkaido, Japan on December 12, 1957.",
-    "interesting points": [
-        "The object was described as a bright, circular light that changed in color from white to orange-yellow.",
-        "The object was tracked on radar, moving erratically with speeds ranging from 100 to 700 knots.",
-        "Two F-86 interceptor aircraft were scrambled to investigate the object, but were unable to make visual contact.",
-        "The object faded from radar before the interceptors could reach it, at a distance of 52 nautical miles.",
-        "No known aircraft were reported in the immediate area at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, circular light that changed in color",
-    "location": "Hokkaido, Japan",
-    "witnesses": "over 60 personnel from the 913th Aircraft Control and Warning Squadron",
-    "photographs": "none"
+    "main event": "On December 12-15, 1957, approximately 15 persons observed a very bright light in the sky in Chitose, Hokkaido, Japan, which was tracked on ground radar.",
+    "interesting points": "The sighting included a very bright light in the SSW direction that lasted for about 1 hour and 5 minutes, The object was visually observed and also intercepted via radar, but aircraft could not close in on it, A photograph purporting to show the same object was taken 2-3 days later, The light was extinguished at 0950Z after initially being detected at 0845Z, Conclusions of the sighting leaned towards it being an aircraft or a well-defined object.",
+    "sighted object": "a very bright light in the sky",
+    "location": "Chitose, Hokkaido, Japan",
+    "number of confirmed witnesses": 15,
+    "witness description": "USAF personnel and observers tracking the object",
+    "contains photographs": false
 }

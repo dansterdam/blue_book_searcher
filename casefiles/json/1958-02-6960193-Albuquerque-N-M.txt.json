@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white, circular object the size of a pea was observed for 7 seconds, traveling from southeast to northwest and disappearing behind terrain.",
-    "interesting points": [
-        "The object was initially observed at an elevation of 45 degrees and disappeared at an elevation of 20 degrees, with the observer looking north.",
-        "The object was consistent with a meteor, but the sharp outline and the fact that it was observed at dawn were inconsistent with that analysis.",
-        "The winds at the time of the sighting did not support the object being a weather balloon, as the winds would have carried the balloon in a different direction.",
-        "The report includes detailed wind speed and direction information from various altitudes, suggesting a thorough investigation.",
-        "The report concludes that the sighting was possibly astronomical, but does not provide a definitive explanation."
-    ],
-    "result": "possibly astronomical",
-    "sighted object": "white, circular object the size of a pea",
-    "location": "Albuquerque, N.M.",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A white circular object, the size of a pea, was observed traveling from southeast to northwest over Albuquerque, N.M. for 7 seconds.",
+    "interesting points": "The object had a sharp outline and was visible at dawn under clear conditions., The sighting lasted for 7 seconds before the object disappeared behind terrain., The observer reported the object moving a good distance in that short time., Initial observation was at an elevation of 45 degrees., The report concludes that the object is possibly astronomical, although there is insufficient data.",
+    "sighted object": "white circular object",
+    "location": "Albuquerque, N.M., USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was looking north at the time of the sighting.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified aerial object was observed in the sky over Kansas City, Missouri for 2-3 minutes.",
-    "interesting points": [
-        "The object appeared as a bright light in the sky, rapidly changing colors from red to green to blue.",
-        "The object moved erratically, with a zig-zag motion, before suddenly disappearing.",
-        "The object was observed on multiple occasions over several days by the same witness and others in the area.",
-        "The weather was described as clear and unlimited visibility.",
-        "No physical evidence or photographs were obtained of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light in the sky, changing colors and moving erratically",
-    "location": "Kansas City, Missouri",
-    "witnesses": "a machinist and other unspecified observers",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in Kansas City, Missouri, on September 24, 2002.",
+    "interesting points": "The object was reported to have a daylight sighting and was observed for 2-3 minutes,The object was seen moving from south to north at a high speed,No physical evidence or photographs were collected during the observation,The sighting falls under Project 10073 record,The report concluded that there was insufficient data to reach a conclusion regarding the sighting.",
+    "sighted object": "one unidentified object",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

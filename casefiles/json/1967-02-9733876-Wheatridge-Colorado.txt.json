@@ -1,15 +1,9 @@
 {
-    "main event": "A long, narrow white object with two flashing lights in the center was observed for 4-5 minutes, flying in a straight easterly direction at level flight.",
-    "interesting points": [
-        "The object appeared to have a long row of windows that looked longer than a commercial jet airliner, but it did not have any visible wings.",
-        "The object was observed from the ground and did not make any sound.",
-        "The sighting occurred on February 27, 1967 in Wheatridge, Colorado.",
-        "The report states that no data was presented to indicate the object could not have been an aircraft.",
-        "The report concludes that the object was an aircraft, despite the unusual features described."
-    ],
-    "result": "Aircraft",
-    "sighted object": "A long, narrow white object with two flashing lights in the center",
-    "location": "Wheatridge, Colorado",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A civilian reported observing a long and narrow object with a white outline and two flashing lights in Wheatridge, Colorado on February 27, 1967.",
+    "interesting points": "The object was observed for 4-5 minutes in a straight easterly direction., The object had a long row of windows appearing longer than those on commercial jet airliners but without wings., The object emitted no sound and left no trail., The visual evidence indicated the object could not be conclusively identified as an aircraft., The conclusion drawn was that the object was likely an aircraft, although this couldn't be confirmed.",
+    "sighted object": "a long and narrow object with a white outline and flashing lights",
+    "location": "Wheatridge, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

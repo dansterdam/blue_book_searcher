@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers reported seeing a red object moving in the sky, making erratic movements and pausing before disappearing.",
-    "interesting points": [
-        "The object was observed for 12-15 minutes, moving in an erratic manner, pausing, and changing directions.",
-        "The object appeared to be much larger than nearby jets, with a bright reddish-orange color.",
-        "The object moved westward and then appeared to race back in the direction it came from.",
-        "The observer used binoculars to get a good view of the object, describing it as having a brilliant red body with a bright bluish-white light on the rear.",
-        "The behavior and appearance of the object did not match that of a typical aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red object with a bright bluish-white light on the rear",
-    "location": "Rockaway, New Jersey",
-    "witnesses": "civilian observers",
-    "photographs": "no photographs"
+    "main event": "Observers reported seeing a red object moving erratically in the sky over Rockaway, New Jersey.",
+    "interesting points": "The object was observed at high altitudes between 3,000 to 5,000 feet and was visible for about 12 to 15 minutes., The object exhibited unusual behavior, pausing and changing directions unexpectedly., Witnesses described the object as having a brilliant red body with a bright bluish-white light at the rear., The object's characteristics differed from those of conventional aircraft, being larger and brighter than nearby planes., Witnesses utilized binoculars for a closer view of the object.",
+    "sighted object": "a red object with a bluish-white light",
+    "location": "Rockaway, New Jersey, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

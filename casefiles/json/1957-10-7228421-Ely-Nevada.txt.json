@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting occurred in Ely, Nevada on 2-25-57 at 1837 hours.",
-    "interesting points": [
-        "The UFO was described as a peculiar colored object the size of a basketball.",
-        "It passed the observer very fast, with the sighting lasting only 2 to 3 seconds.",
-        "The report does not contain any conclusions or further details.",
-        "The sighting was classified as a D. Air-Visual observation.",
-        "The Project Blue Book record card does not provide any explanation for the observed object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a peculiar colored object the size of a basketball",
-    "location": "Ely, NV",
-    "witnesses": "one observer",
-    "photographs": "no"
+    "main event": "One object with a peculiar color the size of a basketball passed the observer while traveling very fast on February 25, 1957.",
+    "interesting points": "The sighting lasted for only 2 to 3 seconds.,The object was observed in Ely, Nevada.,The object was described as having a peculiar color.,The observer noted that the object was traveling very fast.,There were no additional reports or conclusions in the file.",
+    "sighted object": "one object the size of a basketball",
+    "location": "Ely, Nevada, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer of the sighting",
+    "contains photographs": false
 }

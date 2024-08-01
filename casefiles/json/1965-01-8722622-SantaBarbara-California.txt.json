@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified bright silver-colored object maneuvered in the sky over Santa Barbara, California for about 10-15 minutes, taking on various shapes such as elliptical, rectangular, and circular, and changing course several times.",
-    "interesting points": [
-        "The object was estimated to be about 40 feet in diameter.",
-        "No sound was heard from the object.",
-        "The object did not appear to be an aircraft, balloon, or any other known aerial device.",
-        "The report stated that the object could not be identified.",
-        "A resident of Santa Barbara, Gerhard Voegl, reported seeing similar disc-shaped silvery objects hovering and accelerating at high speeds over the city on multiple occasions in 1964."
-    ],
-    "result": "unidentified",
-    "sighted object": "bright silver-colored object, disc-shaped silvery objects",
-    "location": "Santa Barbara, California",
-    "witnesses": "Air Force personnel, Gerhard Voegl",
-    "photographs": "none"
+    "main event": "Air Force personnel reported an unidentified bright silver-colored object maneuvering in the sky near Santa Barbara, California.",
+    "interesting points": "The object changed shapes multiple times: elliptical, rectangular, and circular.,It was observed for 10-15 minutes.,The object was about 40 feet in diameter and made no sound.,Witnesses reported it could not be identified as an aircraft, balloon, or any known aerial device.,Gerhard Voegl reported seeing similar silvery disc-shaped objects over several months in 1964.",
+    "sighted object": "a bright luminous object and disc-shaped objects",
+    "location": "Santa Barbara, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Gerhard Voegl observed unusual objects in the sky multiple times in 1964.",
+    "contains photographs": false
 }

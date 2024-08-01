@@ -1,15 +1,9 @@
 {
-    "main event": "One round white object was seen sending south and was in sight for 2-3 seconds.",
-    "interesting points": [
-        "The object was described as a round white object with a white glow.",
-        "The object was observed for a short duration of 2-3 seconds.",
-        "The observers were initially looking for a satellite, but the object did not match the expected characteristics of a satellite.",
-        "The report concludes that the object was likely a rocket that fired the Russian satellite.",
-        "The report includes detailed information about the altitude, speed, and trajectory of the observed object."
-    ],
-    "result": "likely a rocket firing a Russian satellite",
+    "main event": "A round white object was observed flying south for 2-3 seconds at Lackland AFB.",
+    "interesting points": "The sighting occurred on 11 October 1957.,The object was observed for a duration of 2-3 seconds.,The object was described as round and white.,There was no photographic evidence available.,The report concluded there were no records in 1952 or 1953 related to this sighting.",
     "sighted object": "one round white object",
-    "location": "Lackland AFB, Texas",
-    "witnesses": "Crew members of the 741st AC/S Squadron",
-    "photographs": "no photographs"
+    "location": "Lackland AFB, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

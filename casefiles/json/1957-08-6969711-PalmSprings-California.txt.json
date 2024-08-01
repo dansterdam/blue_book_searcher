@@ -1,14 +1,9 @@
 {
-  "main event": "Multiple UFO sightings reported in various locations including Palm Springs, California and Rio de Janeiro, Brazil, during August and September 1957.",
-  "interesting points": [
-    "Unusual atmospheric phenomena observed in the vicinity of Saturn, prompting additional observations to secure more definite information.",
-    "Report of a saucer-shaped object sighted over Rio de Janeiro, described as a round bath tub or ball, transparent like glass or luminous metal.",
-    "Witnesses reported a display of six UFOs hovering, emitting bluish-white light, and making a right angle turn before disappearing at a moderately slow speed.",
-    "Reports of a bright circular light hovering close to the ground and disc-like objects with tremendous speed and opalescent light.",
-    "Communication between astronomers discussing the analysis of a strange object, visible from great distances and resembling a high tension arc source."],
-  "result":"unexplained",
-  "sighted object":"various shapes and lights in the sky",
-  "location":"Palm Springs, California and Rio de Janeiro, Brazil",
-  "witnesses":"military personnel, civilians, and astronomers",
-  "photographs":"no"
+    "main event": "On August 31, 1957, a brilliant star close to the moon was observed in Palm Springs, California, and was ultimately evaluated as possibly being a balloon or aircraft while also considering astronomical phenomena.",
+    "interesting points": "The star was described as brighter than the moon with a constant brilliance., The sighting was recorded using GCA radar., The observer had insufficient data to conclude definitively what the object was., The original documentation is part of Project Blue Book's report on unidentified aerial phenomena., A letter from J. Allen Hynek discussed unusual deviations detected by a logistician on a satellite's trajectory.",
+    "sighted object": "Brilliant star-like object.",
+    "location": "Palm Springs, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground visual observation by a military radar specialist.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A bright white object, brighter than a star, was observed for about 20 minutes at Hallett Station in Antarctica on June 7, 1962.",
-    "interesting points": [
-        "The object was sighted on a true bearing of approximately 010 degrees and was observed for more than 8 minutes.",
-        "The object appeared to be approximately 10 degrees in elevation.",
-        "The object was described as a steady white light in the atmosphere.",
-        "The reported size of the object and the duration of its observation are very unusual for this area.",
-        "No photographs were obtained of the sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright white object, brighter than a star",
+    "main event": "An intense light and a white oval object with bright emitted light were observed at Hallett Station, Antarctica on July 7, 1962.",
+    "interesting points": "The sighting lasted approximately 6 minutes and included one object observed through a telescope., The object moved rapidly along the horizon before disappearing., Other witnesses reported seeing several smaller lights trailing behind the main object., The sighting was documented under clear weather conditions., The intensity of the light was said to be brighter than flares used for nighttime observations.",
+    "sighted object": "white oval object emitting bright light and trailing smaller lights",
     "location": "Hallett Station, Antarctica",
-    "witnesses": "multiple witnesses at Hallett Station",
-    "photographs": "no"
+    "number of confirmed witnesses": 3,
+    "witness description": "observers at Hallett Station, including the Commanding Officer",
+    "contains photographs": false
 }

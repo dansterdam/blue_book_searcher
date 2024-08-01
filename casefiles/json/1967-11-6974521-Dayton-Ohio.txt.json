@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the report:
-
 {
-    "main event": "A report of an unidentified flying object sighting in Dayton, Ohio on November 23, 1967.",
-    "interesting points": [
-        "The report indicates the sighting was reported to the Air Force's Project Blue Book program for investigation.",
-        "The Air Force requested the witness complete a form (AF Form 117) to provide more details about the sighting.",
-        "No photographs of the UFO were mentioned in the report.",
-        "The report states the information provided will be used to evaluate the observation.",
-        "The letter is signed by the Director of Production for the Air Force."
-    ],
-    "result": "insufficient data",
+    "main event": "A sighting was reported on November 6, 1967, in Dayton, Ohio, by two witnesses who observed an unidentified flying object.",
+    "interesting points": "The sighting was categorized as insufficient data and had no confirmed physical evidence,The witnesses submitted a form but it was not returned,The observation was classified as ground-visual and lasted between 5-7 minutes, The report indicates that the observers may have seen a star-like object moving in the sky, There is a reference to both oral and diagrammatic reporting procedures.",
     "sighted object": "unidentified flying object",
-    "location": "Dayton, Ohio",
-    "witnesses": "multiple witnesses",
-    "photographs": "none"
+    "location": "Dayton, Ohio, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "The witnesses were likely in different locations with one being near an airfield.",
+    "contains photographs": false
 }

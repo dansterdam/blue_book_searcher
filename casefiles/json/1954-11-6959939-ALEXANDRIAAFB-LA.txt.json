@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light was observed hovering at an estimated altitude of 20,000 to 25,000 feet over Alexandria AFB, Louisiana. The object then climbed to an estimated 40,000 to 50,000 feet and accelerated in a northeasterly direction until it disappeared from sight in approximately 10 seconds.",
-    "interesting points": [
-        "The object remained stable for approximately 30 seconds before making its rapid ascent and departure.",
-        "There was no radar contact on the object at any time it was under observation.",
-        "The appearance and behavior of the object were unlike anything previously observed by the officers.",
-        "The officers were unable to offer any identification or explanation for the observed phenomenon.",
-        "The sighting is being reported as an unidentified flying object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light",
-    "location": "Alexandria AFB, Louisiana",
-    "witnesses": "a Master Sgt and 1st Lt",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Multiple observations of unidentified flying objects reported at Alexandria AFB, LA on November 17, 1954.",
+    "interesting points": "The sightings included reports of round, multi-colored lights that appeared small,The length of observation was noted to be 25 minutes plus,One pilot stated that an object followed him during his route,Observers utilized binoculars to see glowing effects from the objects,Local analysis concluded the objects were probably astronomical phenomena.",
+    "sighted object": "round, multi-colored lights",
+    "location": "Alexandria AFB, Louisiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians and military personnel at the base",
+    "contains photographs": false
 }

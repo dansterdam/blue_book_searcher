@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "An object, described as a small pen-shaped object, was observed while traveling at 33 degrees elevation on a heading of 156 degrees, and then it passed at 20 degrees elevation.",
-    "interesting points": [
-        "The object was observed visually and through binoculars, and it appeared slightly hazy.",
-        "The object was detected on multiple occasions, including on December 2nd and December 23rd at 0950 local time, with observations lasting 15 seconds.",
-        "The report suggests the object may have been a test by personnel named Southwick, Simmons, and others, and that the object's reliability was considered good.",
-        "The report mentions that similar occurrences were observed on other dates, including 02, 04, 924, 930, 03.33, 3$, 93, and 06 07.",
-        "The report also mentions that 12 to 14 possible observations were made from CPA Nichols Dade Flagplot Sep."
-    ],
-    "result": "unexplained",
-    "sighted object": "a small pen-shaped object",
+    "main event": "A small pen-shaped object was observed while traveling at a 33-degree elevation on a heading of 156 degrees.",
+    "interesting points": "The object was described as having a pea shape and was observed using binoculars., The observation lasted for approximately 1 minute and 15 seconds., The visibility conditions were 20 miles with scattered cumulus clouds., It was evaluated as a potential satellite by naval officers., Multiple witnesses including lookout personnel were involved in the observation.",
+    "sighted object": "small pen-shaped object",
     "location": "Not specified",
-    "witnesses": "OOD, JOD, and 2 lookouts",
-    "photographs": "none"
+    "number of confirmed witnesses": 4,
+    "witness description": "naval personnel including lookout officers",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A single orange glowing object was observed in the sky north of Memphis, Tennessee.",
-    "interesting points": [
-        "The object appeared to be hovering and then disappeared.",
-        "The observation lasted between 15-20 minutes.",
-        "The object was moving towards the north.",
-        "A Navy blimp was also reported in the area at the time.",
-        "The report mentions the weather conditions at various altitudes."
-    ],
-    "result": "unexplained",
-    "sighted object": "single orange glowing object",
-    "location": "Memphis, Tennessee",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "An object with an orange glow was observed in the sky over Memphis, Tennessee, on June 14, 1954.",
+    "interesting points": "The object had an oval shape and was approximately 7 feet across at arms length., It was reported that the object merged into a point before disappearing., The sighting lasted for about 5-10 minutes., The object was fast, moving towards the north and appeared to hover before vanishing., The observation was made by a civilian, with no associated photographs available.",
+    "sighted object": "orange glowing oval-shaped object",
+    "location": "Memphis, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

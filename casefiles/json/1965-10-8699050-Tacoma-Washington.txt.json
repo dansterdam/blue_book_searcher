@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright white, round object was observed in the sky over Tacoma, Washington on September 24, 1955.",
-    "interesting points": [
-        "The object was the size of a quarter and had no discernible features or details.",
-        "The object rose to 3-4 degrees above the horizon, then moved to a lower angle and diminished in size slowly.",
-        "The object apparently rose away directly from the observer and disappeared.",
-        "The weather conditions were clear with calm winds and good visibility.",
-        "No other unusual activity, intercept action, or other air traffic was reported."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white, round object",
-    "location": "Tacoma, Washington",
-    "witnesses": "a civilian observer",
-    "photographs": "no"
+    "main event": "A civilian observer reported sighting a bright white round object in Tacoma, Washington on October 23, 1965.",
+    "interesting points": "The object was observed for 4.5 minutes, The object had a shape and size resembling a quarter, The object rose to 3-4 degrees above the horizon before it diminished in size, The sighting occurred while the observer was on their front porch, The object emitted no discernible features or trails.",
+    "sighted object": "round bright white object",
+    "location": "Tacoma, Washington, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer who noticed the object from their front porch",
+    "contains photographs": false
 }

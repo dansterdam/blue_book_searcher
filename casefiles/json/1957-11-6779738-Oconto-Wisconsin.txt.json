@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report you provided:
-
 {
-    "main event": "A civilian sighted a stationary object in Oconto, Wisconsin on November 6, 1957 at 2:46 AM.",
-    "interesting points": [
-        "The sighting lasted for 3 minutes and 10 seconds.",
-        "The object could not be located or identified.",
-        "No report was filed for this sighting.",
-        "The report appears to be from a Project Blue Book record card.",
-        "The report does not contain any photographs."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified stationary object",
-    "location": "Oconto, Wisconsin",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported an unidentified object in Oconto, Wisconsin on November 6, 1957.",
+    "interesting points": "The sighting occurred at 02:46 and lasted for 3 minutes and 10 seconds., The object was described as stationary., There was no identification of the object., No report was filed by the witness., The record indicates it is a page from a Project Blue Book record card.",
+    "sighted object": "unidentified object",
+    "location": "Oconto, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

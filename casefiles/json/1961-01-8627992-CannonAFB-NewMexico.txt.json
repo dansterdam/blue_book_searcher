@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single unidentified object was observed at Cannon AFB, New Mexico on January 15, 1961.",
-    "interesting points": [
-        "The object was described as a sphere that changed from white to full red in color.",
-        "The object moved slowly from the northeast, then angled up higher and sped up, before angling down towards the horizon.",
-        "The object was observed for 10-20 seconds by at least two witnesses, an Air Police airman and another person in the car.",
-        "The second witness described the object's color as first pink, then turning bright red.",
-        "Weather conditions at the time included clear skies, moderate winds, and scattered cloud cover."
-    ],
-    "result": "unexplained",
-    "sighted object": "a sphere-shaped object",
-    "location": "Cannon AFB, New Mexico",
-    "witnesses": "an Air Police airman and another person in a car",
-    "photographs": "no"
+    "main event": "Observation of an unidentified aerial object made on 15 Jan 61 at Cannon AFB, New Mexico.",
+    "interesting points": "The observation lasted between 10 to 20 seconds., Only one object was observed., Initial conclusions suggested the object was probably an aircraft or Venus., Witness accounts varied on the color of the observed object., There were three people who confirmed seeing the object during the observation.",
+    "sighted object": "unidentified aerial object",
+    "location": "Cannon AFB, New Mexico, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "First witness was an air police airman; the second witness described the object's color as pink and then bright red; the third witness required glasses to see but did not observe the object.",
+    "contains photographs": false
 }

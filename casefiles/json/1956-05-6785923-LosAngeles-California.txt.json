@@ -1,15 +1,9 @@
 {
-    "main event": "A delta-shaped object with flashing red stripes was observed standing still in the sky over Los Angeles, California on May 17, 1956.",
-    "interesting points": [
-        "The object remained stationary for the entire 20-minute observation period.",
-        "The observers initially thought the object was a star, but later determined it was not.",
-        "Six other people in addition to the main observer witnessed the object.",
-        "The object was reported to air defense sites in the area, but no further action was recommended.",
-        "The sighting was ultimately determined to be an astronomical phenomenon, likely the planet Venus."
-    ],
-    "result": "astronomical phenomenon (likely Venus)",
-    "sighted object": "delta-shaped object with flashing red stripes",
-    "location": "Los Angeles, California",
-    "witnesses": "engineer for Bendix Co. and 6 others",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in Los Angeles, California on 16 May 1956, believed to be Venus.",
+    "interesting points": "The object was described as delta-shaped and flashing, resembling a pea., The observers thought the object was stationary and compared it to a star., The sighting lasted for approximately 20 minutes., The conclusion identified the object as most likely being the planet Venus., There were six other observers present during the sighting.",
+    "sighted object": "delta-shaped object flashing",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "engineer for Bendix Co. and six others",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A bright object 50 times brighter than the brightest star was observed for over an hour in Dayton, Ohio on multiple days.",
-    "interesting points": [
-        "The object was observed on Monday and Wednesday, but not on Tuesday.",
-        "The object was at a 45 degree elevation in the east and appeared to move north.",
-        "The object was still in the east at 10:30 PM.",
-        "The object was possibly a satellite, balloon, aircraft, or the planet Jupiter.",
-        "Further data was needed for a full evaluation."
-    ],
-    "result": "inconclusive",
-    "sighted object": "bright object 50 times brighter than the brightest star",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A bright red-white object was sighted in Dayton, Ohio, on July 10, 1963, observed moving at high speed.",
+    "interesting points": "The object was visible for about 3 minutes and was detected by ground radar., The pilot made a close pass at approximately 5000 ft but the object moved away abruptly., The object was described as circulating like an echo at a 0.5-degree elevation., Witness commented that the object produced a whistling noise and appeared bright in color., Conclusions considered the object as possibly a balloon, aircraft, missile, or astronomical object.",
+    "sighted object": "red-white object",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 69-year-old male, auto-electric vet, electrical engineer",
+    "contains photographs": false
 }

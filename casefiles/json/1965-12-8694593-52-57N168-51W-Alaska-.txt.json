@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A military observer spotted a circular, white, dull-colored object about 25-30 feet in diameter in Alaska in 1965.",
-    "interesting points": [
-        "The object descended slowly, hovered, then ascended rapidly.",
-        "The sighting occurred during a routine observation period and was observed through binoculars.",
-        "No sound was heard from the object.",
-        "The weather conditions were clear and cold with a wind of 5-10 knots.",
-        "The sighting lasted for 5 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular, white, dull-colored object about 25-30 feet in diameter",
-    "location": "52-57N 168-51W, Alaska",
-    "witnesses": "military observer",
-    "photographs": "no photographs"
+    "main event": "An unidentified flying object was sighted on December 17, 1965, at various locations in Alaska.",
+    "interesting points": "The UFO was described as light grey and triangular, approximately 50-75 feet in length., The sighting was confirmed by Nikolsky., The object appeared to cause a disturbance in the air as if it were smoke., One sighting lasted only 10 seconds with no radar contact confirmed., A military observer reported a circular, white object about 25-30 feet in diameter that ascended rapidly after hovering.",
+    "sighted object": "triangular shaped unidentified flying object",
+    "location": "Alaska, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military observers and Nikolsky",
+    "contains photographs": false
 }

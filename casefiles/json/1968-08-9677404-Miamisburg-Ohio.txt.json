@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness in Miamisburg, Ohio saw a moving light in the horizon for about 3 minutes on August 29, 1968.",
-    "interesting points": [
-        "The light was described as slightly red-orange in color.",
-        "The object was seen for about 3 minutes.",
-        "The report indicates this was a 'probable aircraft' sighting.",
-        "The observer was out looking at the stars when they noticed the moving light.",
-        "The Air Force requested the witness complete a questionnaire to provide more details about the sighting."
-    ],
-    "result": "probable aircraft",
-    "sighted object": "a moving red-orange light",
-    "location": "Miamisburg, Ohio",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "On 29 August 1968, a witness observed countless unidentified objects of different sizes moving in the sky for about 3 minutes in Miamisburg, Ohio.",
+    "interesting points": "The sighting lasted approximately 3 minutes while the observer was stargazing., The objects were noted to be of countless variations in size., The color of the moving light was described as slightly red-orange., The observation was conducted with the naked eye without any special equipment., The conclusion from the investigation suggested it was probable that the objects were aircraft.",
+    "sighted object": "countless unidentified flying objects",
+    "location": "Miamisburg, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "William L. Buie, a 15-year-old male student.",
+    "contains photographs": false
 }

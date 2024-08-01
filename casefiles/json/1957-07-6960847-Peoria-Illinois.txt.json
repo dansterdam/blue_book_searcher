@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two sphere-shaped silver objects were observed in the sky over Peoria, Illinois on July 7, 1957. One object was about 5 miles behind the other and appeared to have a red light on it.",
-    "interesting points": [
-        "The objects were observed for a duration of two hours.",
-        "The objects were observed moving in a straight line to the west.",
-        "The sighting occurred in darkness and behind clouds.",
-        "The objects were observed through 7-power binoculars.",
-        "No radar contact was made on the objects from the observation station."
-    ],
-    "result": "unknown",
-    "sighted object": "two sphere-shaped silver objects",
-    "location": "Peoria, Illinois",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Two silver sphere-shaped objects were observed moving in a straight line to the west over Peoria, Illinois.",
+    "interesting points": "The sighting lasted for two hours,One object was reported to be 5 miles behind the other,One of the objects appeared to have a red light on it,Visual observation was conducted with 7-power binoculars,The objects were observed in darkness and behind clouds.",
+    "sighted object": "two silver sphere-shaped objects",
+    "location": "Peoria, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Officer McNamara Jerome J., 1/LT Duty Director, reported no radar contact and visual contact from the station.",
+    "contains photographs": false
 }

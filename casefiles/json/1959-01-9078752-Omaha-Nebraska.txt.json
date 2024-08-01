@@ -1,15 +1,9 @@
 {
-    "main event": "An observer spotted a round, glowing object in the sky near Omaha, Nebraska on January 9, 1950.",
-    "interesting points": [
-        "The object was about 6-8 times the size of a star, with a brilliant white light in the center and dimmer lights on each side in a horizontal plane.",
-        "The object's color changed from green to purple to blue to white.",
-        "The object was observed for about 15 minutes and its movement was described as westerly with constantly increasing altitude.",
-        "The observer used binoculars to observe the object, which were found to provide about 5x magnification.",
-        "The behavior and course of the object were correlated with the predicted celestial track of the first magnitude star Circus, and the initial rapid movement was attributed to temperature inversions."
-    ],
-    "result": "Possible star, possibly aircraft",
-    "sighted object": "round, glowing object",
-    "location": "Near Omaha, Nebraska",
-    "witnesses": "multiple observers, including a supervisor of a teletype maintenance shop, a lieutenant, and a captain",
-    "photographs": "none"
+    "main event": "A round, glowing object, about 6-8 times the size of a star, was observed in the sky near Omaha, Nebraska, on January 9, 1950.",
+    "interesting points": "The object had a brilliant white light in the center with dimmer lights on each side., The observation lasted for 15 minutes., The description of the object was characteristic of a star, but the reported temperature and magnitude did not match., The observer was looking out of his kitchen window with binoculars., The object was noted to twinkle, and its movement was reported to be westerly with increasing altitude.",
+    "sighted object": "a round, glowing object with brilliant white light",
+    "location": "Omaha, Nebraska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer used a pair of binoculars to observe the object.",
+    "contains photographs": false
 }

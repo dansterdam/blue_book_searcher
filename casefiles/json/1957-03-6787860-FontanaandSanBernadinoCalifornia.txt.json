@@ -1,15 +1,9 @@
 {
-    "main event": "A circular object, the size of a dime, approached from the north at a high rate of speed, passed overhead, and disappeared to the south in less than a minute.",
-    "interesting points": [
-        "The object had a reddish color and was emitting a fire-like trail from the rear.",
-        "The object was observed by a civilian witness and the sheriff of San Bernardino, who were both considered to be good observers.",
-        "The sighting occurred on a night with thin, broken clouds.",
-        "The controller at the Air Defense Command Center suggested that the sighting was most likely a meteor.",
-        "The report mentions that no aircraft were overdue at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular object, the size of a dime",
+    "main event": "A circular object the size of a dime approached from the north at a high rate of speed, passed overhead, and disappeared to the south.",
+    "interesting points": "The sighting occurred at 0250 on March 25, 1957., The observation lasted less than one minute., The sighting was made under thin broken clouds at night., The object was visually confirmed as it passed overhead., The report suggests that this object was very probably a meteor.",
+    "sighted object": "one circular object",
     "location": "Fontana & San Bernardino, California",
-    "witnesses": "a civilian and the sheriff of San Bernardino",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, Mr. Sheriff of San Bernardino",
+    "contains photographs": false
 }

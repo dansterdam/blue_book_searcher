@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two observers spotted a crescent-shaped object with horns pointing up, illuminated by a rear-shaped light and a large cone illuminated by a shaft between the horns, over Lakota, North Dakota on December 19, 1959.",
-    "interesting points": [
-        "The object was described as basketball-sized and yellowish-green or aqua in color.",
-        "The object appeared to move erratically, change speed, and fade out as it descended into ground fog.",
-        "The sighting lasted for 5-10 seconds.",
-        "The observers were a contact representative from the Veterans Administration and a soil scientist from the U.S. Soil Conservation Service, both of whom were deemed credible witnesses.",
-        "The preliminary investigation by the intelligence officer at Grand Forks Air Force Base revealed no positive explanation for the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "crescent-shaped object with horns, illuminated by rear-shaped light and large cone",
-    "location": "Lakota, North Dakota",
-    "witnesses": "two observers, a contact representative and a soil scientist",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed in Lakota, North Dakota on December 19, 1959.",
+    "interesting points": "The object was described as triangular in shape with faint red-orange lights,The object moved erratically and changed speed during observation,The object was lost from radar when it passed overhead, The sighting lasted between 5 and 10 minutes, Witnesses included a contact representative and a soil scientist, both aged 55.",
+    "sighted object": "triangular-shaped object with faint red-orange lights",
+    "location": "Lakota, North Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a contact representative from the Veterans Administration and a soil scientist from the US Soil Conservation Service, both from Grand Forks, ND",
+    "contains photographs": false
 }

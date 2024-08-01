@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was observed near Meade, Kansas on June 25, 1952.",
-    "interesting points": [
-        "The object was described as an 'intermittent fire' and was observed for 2 seconds.",
-        "The object appeared west of Meade and disappeared in the north-northwest direction.",
-        "The object was estimated to be at an altitude between 20,000 to 40,000 feet.",
-        "Weather conditions did not account for the sighting, and no meteorological or other conditions could explain the observation.",
-        "No photographs or physical evidence were available."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified flying object described as 'intermittent fire'",
-    "location": "Meade, Kansas",
-    "witnesses": "an individual at Meade, Kansas",
-    "photographs": "no photographs available"
+    "main event": "An unconfirmed sighting of an unidentified object described as 'intermittent fire' observed in Meade, Kansas on June 25, 1952.",
+    "interesting points": "The sighting lasted two seconds and appeared to be traveling NNW from the west of Meade., The object was observed at an estimated altitude of 20,000 to 40,000 feet., There were no aircraft reported in the area during the time of the sighting., Weather conditions at the time included thin scattered clouds and visibility between 10 to 15 miles., No physical evidence or photographs were available to support the sighting.",
+    "sighted object": "unidentified object described as 'intermittent fire'",
+    "location": "Meade, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "unconfirmed report from an individual in Meade, Kansas",
+    "contains photographs": false
 }

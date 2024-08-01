@@ -1,15 +1,9 @@
 {
-    "main event": "A witness spotted a white, red, and green flashing light crossing the sky in Covington, Ohio on November 23, 1958.",
-    "interesting points": [
-        "The sighting lasted for about 5 minutes.",
-        "The object was described as a white, red and green flashing light.",
-        "The object was moving due east.",
-        "No photographs were taken of the object.",
-        "The conclusion was that the sighting was a probable aircraft."
-    ],
-    "result": "probable aircraft",
-    "sighted object": "white, red and green flashing light",
-    "location": "Covington, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A witness observed a flashing light in the sky in Covington, Ohio on 11/23/58.",
+    "interesting points": "The observation lasted for 5 minutes., The light displayed white, red, and green colors., It was reported to be moving due east., The source of the sighting was a civilian., The conclusion suggested it was probably an aircraft.",
+    "sighted object": "a flashing light in the sky",
+    "location": "Covington, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness spotted an unknown aerial object over Cinnaminson, New Jersey on December 5, 1963.",
-    "interesting points": [
-        "The object appeared to be circular, bright, and rotating or vibrating as it approached.",
-        "When directly overhead, the object appeared to be 12-15 feet in diameter and self-luminous.",
-        "The object moved off toward the west and gradually disappeared, with the entire observation lasting 2-3 minutes.",
-        "No smoke, sound, or exhaust was observed from the object.",
-        "The witness, along with their husband and brother-in-law, were quite startled by the experience."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular, bright, and self-luminous aerial object",
-    "location": "Cinnaminson, New Jersey",
-    "witnesses": "civilian witness, along with their husband and brother-in-law",
-    "photographs": "no"
+    "main event": "At 5:20 p.m. on December 13, 1963, a civilian observer reported seeing a flying object resembling an Air Force jet trainer with a light green phosphorescent color in Cincinnati, Ohio.",
+    "interesting points": "The object glowed with a light green phosphorescent color close to 'spring green',The object had the shape of an elongated diamond,Two narrow wing-like projections were present on either side,The object made no noise during its flight,The estimated altitude of the object was 3,000 feet.",
+    "sighted object": "a flying object resembling an Air Force jet trainer",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer Michael J. Campione",
+    "contains photographs": false
 }

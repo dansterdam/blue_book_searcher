@@ -1,17 +1,9 @@
-Here is a JSON summary of the key details from the provided UFO report text:
-
 {
-    "main event": "Many tin foil strips were submitted for analysis after a sighting on April 12, 1962 in Mayer, Arizona.",
-    "interesting points": [
-        "The sighting lasted for 5 minutes.",
-        "The object(s) were described as 'many' in number.",
-        "The report indicates the objects were likely chaff dropped during a training mission.",
-        "The case includes a physical specimen of the 'chaff' that was collected.",
-        "The Air Force provided an explanation that the radar returns and objects were likely part of a government training exercise."
-    ],
-    "result": "Explained (Likely Chaff from training exercise)",
-    "sighted object": "Many metallic strips/chaff",
-    "location": "Mayer, Arizona",
-    "witnesses": "Unknown",
-    "photographs": "No"
+    "main event": "Many fin foil strips were submitted for analysis, identified as chaff likely dropped during a training mission.",
+    "interesting points": "The sighting lasted for 5 minutes., The objects were identified as many fin foil strips., The conclusion of the observation was that the objects were likely balloons., The report concerns a sighting in Mayer, Arizona., Various government letters discussed the incident, indicating official concern and investigation.",
+    "sighted object": "many fin foil strips (chaff)",
+    "location": "Mayer, Arizona, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No confirmed witnesses mentioned.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed in the sky over Cynthiana, Kentucky on December 12, 1967.",
-    "interesting points": [
-        "The object was approximately 30 to 40 feet in diameter, spherical in shape, and metallic in appearance.",
-        "The object emitted a bright reddish-orange glow and appeared to be hovering in the sky.",
-        "The object was observed for approximately 10 to 15 minutes before accelerating rapidly and disappearing from view.",
-        "No sound was heard emanating from the object.",
-        "The weather was clear at the time of the sighting with good visibility."
-    ],
-    "result": "unexplained",
-    "sighted object": "a spherical, metallic object emitting a bright reddish-orange glow",
-    "location": "Cynthiana, Kentucky",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "An unidentified flying object was reported in Cynthiana, Kentucky, on December 6, 1967.",
+    "interesting points": "The object was first noticed as a bright star-like object in the western sky before increasing in apparent size and becoming stationary., The object exhibited rapid, erratic flight characteristics and changed directions abruptly on several occasions., It was observed for approximately 20 minutes without any visible means of propulsion., The object was described as small and round, resembling the size of a basketball at arm's length., Another report on December 12, 1967, described a spherical object about 30 to 40 feet in diameter with a metallic appearance that emitted a reddish-orange glow.",
+    "sighted object": "small, round, white object",
+    "location": "Cynthiana, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observed a small, round, white object maneuvering silently across the sky",
+    "contains photographs": false
 }

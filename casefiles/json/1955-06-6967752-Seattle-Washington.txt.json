@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified glowing object was sighted patrolling the Washington coast on June 6, 1955.",
-    "interesting points": [
-        "The sighting occurred in Seattle, Washington.",
-        "The sighting was reported as a ground-visual observation.",
-        "Photographs were taken of the unidentified object.",
-        "The sighting was evaluated as a civilian report.",
-        "The original report could not be found, and no further investigation was authorized due to insufficient data."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified glowing object",
-    "location": "Seattle, Washington",
-    "witnesses": "civilians",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An unusual glowing object was reported patrolling the Washington coast on June 6, 1955.",
+    "interesting points": "The sighting occurred in Seattle, Washington., The observation type was ground-visual., The length of observation was recorded as 1 unit., The original report is missing and insufficient data was available for evaluation., The case was referred to the OSI and then to the ATIC.",
+    "sighted object": "unusual glowing object",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data",
+    "contains photographs": true
 }

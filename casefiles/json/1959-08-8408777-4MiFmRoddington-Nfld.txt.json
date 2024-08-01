@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright blue ball of light was observed falling from the sky near Roddington, Newfoundland on August 19, 1959.",
-    "interesting points": [
-        "The object was described as a large, blue ball of light.",
-        "The object appeared to be falling from the sky.",
-        "The sighting was reported by a civilian witness.",
-        "The location was approximately 4 miles from Roddington, Newfoundland.",
-        "The report concludes that the identity of the object could not be determined due to limited information."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, blue ball of light",
-    "location": "4 miles from Roddington, Newfoundland",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Roddington, Newfoundland on August 19, 1959.",
+    "interesting points": "The object was reported to be moving in an easterly direction., The informant identified the object as possibly being a balloon., There were insufficient data to provide a concrete identification of the object., The observation was visually confirmed from the ground., The report includes technical teletype information related to the sighting.",
+    "sighted object": "potentially a balloon or meteor",
+    "location": "Roddington, Newfoundland, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "informant willing to provide information on the sighting",
+    "contains photographs": false
 }

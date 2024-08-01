@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed an unidentified elongated, cigar-shaped object hovering in the sky over San Antonio, Texas on August 5, 1953.",
-    "interesting points": [
-        "The object appeared to be about the size of the bottom of a 5 1/2 tub and was silver in color.",
-        "The witness and others working with him saw the object hover in the sky for about 5-6 minutes with a white/gray exhaust at one end.",
-        "The object displayed no visible means of propulsion and made no sound.",
-        "The witness was startled and called his office to report the strange sighting.",
-        "No vapor trails, exhaust smoke, or other typical aircraft features were observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "an elongated, cigar-shaped object",
-    "location": "San Antonio, Texas",
-    "witnesses": "civilian workers",
-    "photographs": "none"
+    "main event": "Witnesses observed an unidentified object in the sky over San Antonio, Texas, with multiple reports detailing various characteristics, lengths of observation, and shapes.",
+    "interesting points": "The object was described as oblong and white, observed for 30 minutes on August 5, 2023., Another report described a reddish-brown light larger than a star with erratic motion for 10 minutes., Some objects were reported to appear triangular and pulsating before disappearing rapidly., Observations from different incidents indicate no sound from the objects and no visible trails or smoke., A military radar confirmed a sighting of a balloon-like object at 6000 feet on the same date.",
+    "sighted object": "Various shapes including oblong white object, reddish-brown light, and triangular shape",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilians and a military radar observer",
+    "contains photographs": false
 }

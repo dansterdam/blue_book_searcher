@@ -1,15 +1,9 @@
 {
-  "main event": "On July 7, 1954, in Mountain View, Missouri, an oval-shaped, glowing object approximately 40 feet in diameter was observed hovering silently above the trees before moving rapidly away.",
-  "interesting points": [
-    "The UFO was observed for approximately 15-20 minutes before accelerating rapidly and disappearing from view.",
-    "The object appeared to be the primary focus of the photographs, indicating the significance of the sighting.",
-    "The report was investigated by the United States Air Force as part of Project Blue Book, a program to investigate UFO sightings, adding credibility to the incident.",
-    "The witnesses, two brothers, observed the UFO at night, adding to the mysterious nature of the sighting.",
-    "The report mentions the lack of sound from the object, which is unusual for conventional aircraft."
-  ],
-  "result": "unexplained",
-  "sighted object": "glowing, oval-shaped object",
-  "location": "Mountain View, Missouri",
-  "witnesses": "two brothers",
-  "photographs": "yes, the report includes photographs"
+    "main event": "Two brothers observed an unidentified flying object over their home in Mountain View, Missouri, on July 7, 1954.",
+    "interesting points": "The object was described as oval-shaped and luminous,It was hovering silently above the trees,The object was observed for approximately 15-20 minutes,It accelerated rapidly and disappeared from view,The sighting was investigated by the United States Air Force as part of Project Blue Book.",
+    "sighted object": "oval-shaped, luminous object",
+    "location": "Mountain View, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two brothers",
+    "contains photographs": true
 }

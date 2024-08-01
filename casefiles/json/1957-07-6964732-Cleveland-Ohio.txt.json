@@ -1,15 +1,9 @@
 {
-  "main event": "The document is a Project 10073 Record Card from Project Blue Book, a U.S. Air Force program that investigated UFO sightings. It contains observations of a large yellow-like object that appeared brilliant, then dim, and back to brilliant. The object hovered over Cleveland and then moved northwest from Cleveland, Ohio, with a duration of 8 minutes.",
-  "interesting points": [
-    "The document contains a detailed description of the sighting, including the object's appearance, movement, and duration.",
-    "The conclusions section is blank, indicating no determination was made about the nature of the observed object.",
-    "The report includes details of a Capital Airlines flight 841 in the area, with pilots reporting an object passing in front of the aircraft and then speeding ahead of them before disappearing over the horizon.",
-    "The object was reported to be extremely fast, with no sound, and it hovered over Cleveland before moving northwest.",
-    "The document contains contact details and locations of different military personnel and units involved in the investigation."
-  ],
-  "result": "unexplained",
-  "sighted object": "large yellow-like object",
-  "location": "Cleveland, Ohio",
-  "witnesses": "Capital Airlines pilots and military personnel",
-  "photographs": "no"
+    "main event": "A round-shaped, yellow-like object was sighted by the pilots of Capital Airlines Flight 841 over Cleveland, Ohio.",
+    "interesting points": "The object was observed visually for 8 minutes while the aircraft was flying,The object moved northwest from Cleveland at a high speed,The pilots reported that the object was not a star or a jet and appeared brilliant before dimming and then brightening again,The report indicates that the object hovered before moving quickly out of sight,The conclusion section of the report was left blank, indicating no determination was made about the nature of the object.",
+    "sighted object": "one round-shaped object, yellow-like in color",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilots of Capital Airlines Flight 841",
+    "contains photographs": false
 }

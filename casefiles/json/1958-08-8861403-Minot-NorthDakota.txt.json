@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "A civilian observer in Minot, North Dakota spotted a blue and white object the size of a pea with an intense light like a star on August 8, 1958.",
-    "interesting points": [
-        "The object had no discernible shape and the light faded as it moved away.",
-        "The sighting lasted 15-20 seconds as the object moved in a straight line from northwest to southeast.",
-        "The observer stated 5 companions also saw the object, and it was possibly an Earth satellite, but the schedule of satellite routings was unavailable.",
-        "The weather conditions were very clear with strong westerly winds at varying altitudes.",
-        "The observer was a 31-year-old civilian in the real estate business."
-    ],
-    "result": "unexplained",
-    "sighted object": "a blue and white object the size of a pea with an intense light like a star",
-    "location": "Minot, North Dakota",
-    "witnesses": "civilian observer and 5 companions",
-    "photographs": "no"
+    "main event": "A civilian observed a blue and white object resembling a pea with intense light in Minot, North Dakota on August 8, 1958.",
+    "interesting points": "The object emitted intense light similar to that of a star before fading with distance., The sighting lasted for approximately 15-20 seconds., The observer noted it was likely a meteor from the Perseids meteor shower., Weather conditions were very clear at the time of the sighting., The observer was accompanied by five companions who also witnessed the object.",
+    "sighted object": "blue and white object with intense light",
+    "location": "Minot, North Dakota, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "civilian, age 31, real estate business",
+    "contains photographs": false
 }

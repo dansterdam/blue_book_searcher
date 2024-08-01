@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-  "main event": "A farmer observed a large, brightly lighted object maneuvering near the Landers Observatory in California on June 9, 1967.",
-  "interesting points": [
-    "The object was first observed high in the sky to the southeast, but gradually descended until it appeared to be near the observatory building.",
-    "The observatory dome was illuminated and the object seemed to be observing the dome.",
-    "The object was seen for about 5 minutes before disappearing from view.",
-    "The investigation revealed the object was likely a high altitude research balloon, and the illumination of the observatory dome may have contributed to the witness's perception of the object's proximity.",
-    "No explanation could be determined for the object's apparent maneuvering, but the sighting was determined to be of insufficient detail to categorize as an unidentified flying object."
-  ],
-  "result": "likely a high altitude research balloon, but inconclusive",
-  "sighted object": "a large, brightly lighted object",
-  "location": "Landers, California",
-  "witnesses": "Ralph Landers",
-  "photographs": "no photographs included in the report"
+    "main event": "A witness observed a large, brightly lighted object in the sky near the Landers Observatory in California on June 9, 1967.",
+    "interesting points": "The object was described as very large and brightly lighted, first seen high in the sky southeast of the observatory., The sighting lasted about 5 minutes before the object disappeared from view., The witness noted that the observatory dome was illuminated, which may have influenced their perception of the object's proximity., An investigation suggested that the object was likely a high altitude research balloon., The observatory was undergoing repairs at the time of the sighting, adding context to the reported phenomena.",
+    "sighted object": "large, brightly lighted object",
+    "location": "Landers, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ralph Landers observed the object from near the Landers Observatory.",
+    "contains photographs": false
 }

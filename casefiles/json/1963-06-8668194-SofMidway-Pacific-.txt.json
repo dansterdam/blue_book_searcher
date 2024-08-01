@@ -1,15 +1,9 @@
 {
-    "main event": "Possible satellite sighting reported near Midway Island",
-    "interesting points": [
-        "The sighting occurred at 21/1400Z on June 8, 1963",
-        "The object was described as being the approximate size and shape of a first magnitude star, sighted 30 degrees above the horizon south of Midway",
-        "The object was observed moving in an easterly direction",
-        "The report indicates the sighting was evaluated as a satellite sighting due to the object's position relative to ECHO satellite",
-        "The report concludes the sighting was unidentified, possibly a satellite"
-    ],
-    "result": "Unidentified, possibly satellite",
-    "sighted object": "Bright object in the sky, approximate size and shape of a first magnitude star",
-    "location": "Near Midway Island",
-    "witnesses": "Not specified",
-    "photographs": "None"
+    "main event": "An unidentified object was sighted over Midway, with the observation being evaluated as possibly related to a satellite.",
+    "interesting points": "The sighting occurred on 8 June 1963 at 1400Z., The object was reported to be moving easterly., The observation lasted for about 5 minutes., The echo was noted to be approximately 1° degrees SE of heading 85°., Multiple conclusions were drawn including that the sighting could be a weather balloon, possible aircraft, or astronomical phenomenon.",
+    "sighted object": "one unidentified object",
+    "location": "Midway, Pacific",
+    "number of confirmed witnesses": 1,
+    "witness description": "The report does not specify details about witnesses.",
+    "contains photographs": false
 }

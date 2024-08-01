@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unknown object was observed on ground-radar near Ankara, Turkey for approximately 20 minutes on July 23, 1956.",
-    "interesting points": [
-        "The object moved more rapidly than an aircraft.",
-        "The object was located approximately 5-10 miles northwest of Ankara.",
-        "The report includes several possible explanations for the sighting, including balloon, aircraft, electronic interference, satellite, or astronomical phenomena.",
-        "The report states that there were no visual sightings of the object.",
-        "The report mentions that related observations may have been made in other directions."
-    ],
-    "result": "unknown",
-    "sighted object": "unknown object on ground-radar",
+    "main event": "An object was observed on ground-radar near Ankara, Turkey, but not visually confirmed.",
+    "interesting points": "The observation lasted approximately 20 minutes on ground-radar., The object moved more rapidly than an aircraft., The position of the object was approximately 5-10 miles northwest of Ankara., There were no visual sightings of the object., Possible explanations include balloon, aircraft, electronic interference, satellite, or astronomical phenomena.",
+    "sighted object": "Unidentified object on ground-radar",
     "location": "Ankara, Turkey",
-    "witnesses": "ground-radar operators",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "None visually confirmed",
+    "contains photographs": false
 }

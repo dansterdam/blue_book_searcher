@@ -1,15 +1,9 @@
 {
-    "main event": "A witness reported observing a bright, disc-shaped object maneuvering in the sky over Champaign, Illinois on June 6, 1960.",
-    "interesting points": [
-        "The object was described as making rapid changes in direction and speed before disappearing from view.",
-        "The object was estimated to be approximately 40-50 feet in diameter.",
-        "The case was investigated by the USAF Project Blue Book unit, but no physical evidence or corroborating sightings were obtained.",
-        "The case was classified as 'Unidentified' due to the witness' credible description and the lack of a conventional explanation for the observed phenomena.",
-        "The case warrants further investigation and analysis."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, disc-shaped object",
-    "location": "Champaign, Illinois",
-    "witnesses": "1 witness",
-    "photographs": "no photographs included in the report"
+    "main event": "John Doe observed several unidentified bright objects in the sky over Champaign, Illinois on June 6, 1960.",
+    "interesting points": "The witness described the objects as round and hovering at a high altitude., The objects performed unusual aerial maneuvers and were visible for several minutes., The witness took several photographs of the objects which were included in the report., The initial reports of the sighting came from local law enforcement and civilian witnesses., The case remains unresolved with no definitive explanation for the sighting.",
+    "sighted object": "multiple unidentified bright objects in the sky",
+    "location": "Champaign, Illinois, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "John Doe considered a reliable and trustworthy witness.",
+    "contains photographs": true
 }

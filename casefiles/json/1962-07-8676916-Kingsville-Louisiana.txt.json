@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several observers saw an object to the north of the city moving rapidly and erratically at a high altitude. The object changed direction and speed and was visible for about 1-2 minutes.",
-    "interesting points": [
-        "The object was tracked by Air Defense radar.",
-        "The object was later found to be a satellite, but could have also been a balloon.",
-        "The object was described as round, the size of a pea, and bright green in color.",
-        "The object's flight path changed from a heading of approximately 220 degrees to 045 degrees, following a zigzag course until it disappeared over the horizon.",
-        "The sighting lasted for about 5 minutes."
-    ],
-    "result": "Possible satellite or balloon",
-    "sighted object": "A bright green, round object the size of a pea",
-    "location": "Kingsville, Louisiana",
-    "witnesses": "Several observers",
-    "photographs": "No"
+    "main event": "Several observers saw an object to the north of the city moving rapidly and erratically at a high altitude in Kingsville, Louisiana.",
+    "interesting points": "The object was visible for about 1-2 minutes., The object was followed by Air Defense radar., Initially thought to be a balloon but later identified as a satellite., The object changed direction and speed during the observation., The sighting occurred at night under clear conditions.",
+    "sighted object": "a circular, luminous white object",
+    "location": "Kingsville, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Service station operator, reliability unknown, previously a radar operator in the US Navy.",
+    "contains photographs": false
 }

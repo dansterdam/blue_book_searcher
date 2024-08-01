@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ball of white light was observed moving and changing color from white to pale green in Naha, Okinawa on August 3, 1959.",
-    "interesting points": [
-        "The object was initially observed in bright light, then disappeared behind a cloud formation.",
-        "The object was described as round, about 22 feet in size, and changing color from white to burning red.",
-        "The object was observed by both ground and air visual sources, including a Captain, 1st Lieutenant, and two Technical Sergeants.",
-        "The weather conditions included scattered clouds, visibility of 7 miles, and thunderstorms in the east with lightning.",
-        "The Air Force concluded that the observed object was a meteor based on the reports and conditions."
-    ],
-    "result": "Identified as a meteor",
-    "sighted object": "A ball of white light, changing color from white to pale green",
-    "location": "Naha, Okinawa",
-    "witnesses": "Ground and air visual observers, including military personnel",
-    "photographs": "No photographs available"
+    "main event": "A ground-visual observation of a ball of white light changing colors in Naha, Okinawa on August 3, 1959.",
+    "interesting points": "The object changed color from bright white to pale green., The object initially appeared in bright light before disappearing behind clouds., The observation lasted for approximately 5 minutes., Observers included pilots and control tower operators from Naha AB., The weather conditions included scattered clouds and thunderstorms in the east.",
+    "sighted object": "a ball of white light",
+    "location": "Naha, Okinawa, Japan",
+    "number of confirmed witnesses": 4,
+    "witness description": "Pilots and control tower operators from Naha AB",
+    "contains photographs": false
 }

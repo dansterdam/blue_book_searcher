@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed a bright, oval-shaped, white object traveling at approximately 150 mph over downtown Chicago.",
-    "interesting points": [
-        "The object was traveling at an elevation of 50 degrees.",
-        "There were no other objects observed in the vicinity at the time.",
-        "The witness was a reliable observer.",
-        "The witness could not determine the size of the object compared to a familiar object.",
-        "The witness could not estimate the angular size of the object."
-    ],
-    "result": "probable",
-    "sighted object": "a bright, oval-shaped, white object",
-    "location": "Chicago, Illinois",
-    "witnesses": "a reliable observer",
-    "photographs": "no photographs"
+    "main event": "A reliable observer reported seeing a bright white oval object traveling over downtown Chicago at a speed of 150 MPH.",
+    "interesting points": "The object was observed at an elevation of 50°.,The sighting occurred over downtown Chicago.,The object appeared to be alone with no other objects in the vicinity.,The observer described the object as bright and oval.,The speed of the object was estimated at 150 MPH.",
+    "sighted object": "bright white oval object",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a reliable observer interested in astronomy and flying objects",
+    "contains photographs": false
 }

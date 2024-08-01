@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided text:
-
 {
-    "main event": "Two civilians observed a bright light in front of them that changed to a green one. The object was descending at an angle on the horizon. They also saw what appeared to be the side or an aircraft.",
-    "interesting points": [
-        "The object was descending at an angle on the horizon.",
-        "The object changed from a bright light to a green one.",
-        "The observers also saw what appeared to be the side or an aircraft.",
-        "The conclusion was that there was insufficient data for evaluation.",
-        "The report states that additional information is needed."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright light that changed to a green one, descending at an angle",
-    "location": "Ranton, Washington",
-    "witnesses": "two civilians",
-    "photographs": "no"
+    "main event": "On 5 March 1966, two civilians observed a bright light that changed to green and descended on the horizon in Renton, Washington.",
+    "interesting points": "The witnesses described the object as possibly resembling an aircraft but it gradually moved out of sight,No physical evidence was obtained from the sighting,The object produced a low humming sound,The witnesses perceived a significant size difference between the object and an airplane observed nearby,It was noted that loud noises accompanying the sighting caused concern among residents.",
+    "sighted object": "bright light changing to green",
+    "location": "Renton, Washington, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians in the area",
+    "contains photographs": false
 }

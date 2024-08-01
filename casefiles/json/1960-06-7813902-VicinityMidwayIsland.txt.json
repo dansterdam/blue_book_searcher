@@ -1,15 +1,9 @@
 {
-    "main event": "A ball-shaped, greenish-yellow, extremely brilliant object was sighted in the vicinity of Midway Island on June 25, 1960.",
-    "interesting points": [
-        "The object was traveling at extremely high speed and disappeared approximately 15 degrees above the horizon, separating into two pieces immediately prior to burnout.",
-        "The intensity of the light increased steadily until burnout.",
-        "The object was observed for 5-8 seconds by the pilots, who stated it was unlike any shooting star they had previously seen.",
-        "The weather conditions were clear with good visibility, and the sighting was confirmed by the pilots' position relative to the ship on TACAN.",
-        "The pilot had 24 months of experience, and the co-pilot had 5 months of experience."
-    ],
-    "result": "unknown",
-    "sighted object": "A brilliantly colored, ball-shaped object",
-    "location": "Vicinity of Midway Island",
-    "witnesses": "Pilots of an aircraft",
-    "photographs": "No photographs were included in the report"
+    "main event": "A ball-shaped object was observed traveling at extremely high speed over Midway Island on 25 June 1960.",
+    "interesting points": "The object separated into two pieces just prior to burnout., It held under visual observation for 5-8 seconds., The pilots noted it was not like any shooting star they had previously seen., The object was greenish-yellow and left an impression of a trail across the sky., The sighting corresponds with previous fireball sightings.",
+    "sighted object": "a greenish-yellow ball-shaped object",
+    "location": "Midway Island, Pacific Ocean, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "both pilots of the aircraft",
+    "contains photographs": false
 }

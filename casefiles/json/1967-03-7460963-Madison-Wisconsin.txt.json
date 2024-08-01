@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A group of approximately 30 students observed a round, orange and white object moving in an arc from south to north over the University of Wisconsin campus in Madison, Wisconsin.",
-    "interesting points": [
-        "The object was the size of a half-dollar at arm's length.",
-        "The object was observed on two separate occasions on March 14, 1967, at 0345Z and 0420Z.",
-        "The object was observed by students on the 7th floor of Lowell Hall and in Ogg Hall on the University of Wisconsin campus.",
-        "The weather conditions were foggy/misty with a low ceiling.",
-        "There were several commercial flights in the Madison area at the time of the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, orange and white object",
-    "location": "Madison, Wisconsin",
-    "witnesses": "group of approximately 30 students",
-    "photographs": "none"
+    "main event": "A group of approximately 30 students observed a round-shaped white object moving from south to north multiple times on 14 Mar 67.",
+    "interesting points": "The object had different colored lights and was seen flying due south in an arc., The sighting lasted about 5 minutes., The weather at the time was foggy/misty with a low ceiling., There were several aircraft in the area during the sighting., Two students had previously reported similar sightings on the same date.",
+    "sighted object": "round-shaped white object",
+    "location": "Madison, Wisconsin, USA",
+    "number of confirmed witnesses": 30,
+    "witness description": "students at the University of Wisconsin",
+    "contains photographs": false
 }

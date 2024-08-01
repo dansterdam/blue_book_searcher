@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Tucson, Arizona reported seeing a fast-moving, round, white light in the sky for about 15 seconds.",
-    "interesting points": [
-        "The object was traveling from northwest to southeast at high speed.",
-        "A second witness, a TSGT at the Davis-Monthan Air Force Base, also observed a white light with a small red flashing light moving from northwest to southeast for 5-6 seconds.",
-        "No known aircraft were in the vicinity or flight path at the time of the sightings.",
-        "Investigators were unable to contact the Kitt Peak Observatory to check for any observed activity.",
-        "The preliminary analysis indicated the sightings were likely caused by a high-speed aircraft or a meteorite, but the investigation was ongoing."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, white light",
-    "location": "Tucson, Arizona",
-    "witnesses": "a civilian and a TSGT at Davis-Monthan Air Force Base",
-    "photographs": "none"
+    "main event": "A civilian observed a fast-moving round white light in the sky for approximately 15 seconds in Tucson, Arizona.",
+    "interesting points": "Witness reported the object traveling from NW to SE at high speed,No sound was heard during the observation,The light was described as similar in size to a match head,The sighting coincided with two F4C aircraft landing at a nearby base,Preliminary investigations suggest the object may have been an aircraft or a meteorite.",
+    "sighted object": "round white light",
+    "location": "Tucson, Arizona, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian, a geologist, considered a reliable observer",
+    "contains photographs": false
 }

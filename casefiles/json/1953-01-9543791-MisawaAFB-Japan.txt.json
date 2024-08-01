@@ -1,15 +1,9 @@
 {
-    "main event": "A USAF pilot and radar operator observed a stationary light at Misawa AFB in Japan that gradually changed color from white to reddish-orange and back, with the object also appearing on the radar scope of an F-94 aircraft.",
-    "interesting points": [
-        "The radar contact gave weak and indistinct returns, and the object's altitude was estimated to be around 50,000 feet.",
-        "The pilot attempted to close on the object, but it disappeared from view at 35,000 feet.",
-        "The radar contact was intermittent, with the object exhibiting unusual horizontal-like movement and oscillation in direction from northeast to southeast.",
-        "The report concludes that the object was not a celestial object, aircraft, meteorite, guided missile/rocket, or balloon, and the sighting is classified as a UFO.",
-        "No physical evidence or photographs were available from the incident."
-    ],
-    "result": "unidentified",
-    "sighted object": "a stationary light that changed color from white to reddish-orange and back",
+    "main event": "A pilot at Misawa AFB in Japan observed a stationary unidentified flying object emitting a light that changed color from white to reddish-orange.",
+    "interesting points": "The object was sighted at an altitude of approximately 50,000 feet and was observed using radar which showed weak indistinct returns., The pilot lost visual contact with the object after attempting to close in, as the object disappeared from sight., The weather conditions were not unusual, with visibility unlimited above overcast., Analysis indicated that typical explanations for the object's characteristics, such as a celestial object or aircraft, were unlikely., No physical evidence was found, and the conclusion remained that the object was unidentified.",
+    "sighted object": "a stationary light changing color",
     "location": "Misawa AFB, Japan",
-    "witnesses": "USAF pilot and radar operator",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "USAF pilot",
+    "contains photographs": false
 }

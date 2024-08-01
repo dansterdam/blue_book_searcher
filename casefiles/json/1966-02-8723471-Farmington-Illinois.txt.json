@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A red glowing object appeared near the witnesses' automobile, hovered, and radiated away.",
-    "interesting points": [
-        "The object suddenly appeared near the witnesses' automobile.",
-        "The object hovered and radiated away.",
-        "The witnesses heard a definite sound of something hitting the car.",
-        "The Air Force requested the witnesses to complete a Form 164 for further evaluation.",
-        "The report was inconclusive due to insufficient data."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a red glowing object",
-    "location": "Farmington, Illinois",
-    "witnesses": "2 civilians",
-    "photographs": "no"
+    "main event": "Two witnesses reported seeing a red glowing object appear near their automobile which hovered and then moved away.",
+    "interesting points": "The object circled overhead before moving in a northerly direction.,The observation lasted for 3 - 4 minutes.,The witnesses heard a sound like something hitting their car.,There was no physical evidence or photographs provided.,The report was left inconclusive due to insufficient data.",
+    "sighted object": "one red glowing object",
+    "location": "Farmington, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

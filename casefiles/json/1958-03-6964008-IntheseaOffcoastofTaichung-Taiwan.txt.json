@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, metallic object was observed floating in the water off the coast of Taichung, Taiwan.",
-    "interesting points": [
-        "The object was picked up on Chinese Communist Air Force radar at Taichung, Taiwan.",
-        "The object was loaned to the U.S. Air Force for identification, with the understanding that the report and object would be returned to the Chinese Nationalist Air Force.",
-        "The report contains photographic and descriptive drawings of the unidentified object.",
-        "The object appears to be made of various materials including black soft rubber, milk white plastic, transparent plastic, aluminum alloy, and black rubber.",
-        "The report indicates that several details of the object lend to a theory that it may be a hoax, such as the gelatinous texture, strange form, and trailing fringes that could be used to provide connection with a mechanism."
-    ],
-    "result": "unidentified",
-    "sighted object": "a round, metallic object",
-    "location": "off the coast of Taichung, Taiwan",
-    "witnesses": "Chinese Communist Air Force radar",
-    "photographs": "yes, the report includes photographs and descriptive drawings"
+    "main event": "A round, metallic object was observed floating in the water off the coast of Taichung, Taiwan on 11 March 1958.",
+    "interesting points": "The object was loaned to the USAF for identification., It was identified as an unidentified object by radar at Taichung, Taiwan., A photograph and a descriptive drawing of the object exist., The object is believed to potentially relate to some kind of valve., There have been several similar reports of maritime incidents that resulted in no substantive action.",
+    "sighted object": "round metallic object",
+    "location": "Taichung, Taiwan",
+    "number of confirmed witnesses": 0,
+    "witness description": "fishermen off the coast",
+    "contains photographs": true
 }

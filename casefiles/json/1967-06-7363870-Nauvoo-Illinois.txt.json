@@ -1,15 +1,9 @@
 {
-  "main event": "A possible sighting of a satellite (Echo II) over Nauvoo, Illinois on June 23, 1967.",
-  "interesting points": [
-    "The report describes an object that was observed for 7 minutes, moving in a south direction.",
-    "The observer was in a tent when they saw the object.",
-    "The observer was unable to estimate the speed or distance of the object.",
-    "The object was described as a metallic blue object that vanished like a 'diving light'.",
-    "A sketch was provided showing the object as seen through a 100 powered telescope."
-  ],
-  "result": "Probable Satellite (Echo II)",
-  "sighted object": "one metallic blue object",
-  "location": "Nauvoo, Illinois",
-  "witnesses": "civilians",
-  "photographs": "no"
+    "main event": "A possible satellite (Echo II) was reported sighted over Nauvoo, Illinois on June 23, 1967.",
+    "interesting points": "The observation lasted for 7 minutes,The object was seen by a civilian observer who described being in a tent during the sighting,The object was moving silently at a high rate of speed,The reported conclusion was that it was a probable satellite, no photographic evidence of the sighting was included.",
+    "sighted object": "satellite (Echo II)",
+    "location": "Nauvoo, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 13-year-old male who was outdoors in a tent",
+    "contains photographs": false
 }

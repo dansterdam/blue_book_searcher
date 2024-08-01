@@ -1,15 +1,9 @@
 {
-    "main event": "A document containing multiple photographic negatives or slides, all from Kodak, with no visible human face.",
-    "interesting points": [
-        "The document appears to be a blank page from a Project Blue Book file.",
-        "The document is labeled as 'File 2072' and is dated June 14, 1964.",
-        "The location mentioned is Dale, Indiana.",
-        "The document mentions 'Slides' as the title.",
-        "The text on the document repeatedly states 'CATACHROME' and 'Kodak'."
-    ],
-    "result": "undetermined",
-    "sighted object": "multiple photographic negatives or slides",
-    "location": "Dale, Indiana",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes photographic negatives or slides"
+    "main event": "A document related to UFO sightings was found in Project Blue Book, indicating photographic negatives or slides from Kodak in Dale, Indiana.",
+    "interesting points": "The document is from June 14, 1964., It is associated with File 2072., The slides mentioned are all from Kodak., There is no human face visible in the image., The pages contain repeated references to 'CATACHROME' by Kodak.",
+    "sighted object": "photographic negatives or slides",
+    "location": "Dale, Indiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none available",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, metallic-colored object came out of the north and came straight down and got larger as it got closer. Appeared to be disk-shaped and the size of a jet. The object hovered and then made a 90 degree turn and flew off to the northwest.",
-    "interesting points": [
-        "The object had a faint red light around it at one point.",
-        "The air base received similar reports but could not identify the object.",
-        "The object seemed to be attracted to an aircraft that took off from the nearby Lambert airport.",
-        "The object was not identified by the air base.",
-        "The observation lasted for several minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic-colored disk-shaped object",
-    "location": "St. Louis, Missouri",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A bright metallic object was observed in St. Louis, Missouri, on January 30, 1967.",
+    "interesting points": "The object was described as disk-shaped and the size of a jet,It hovered and made a 90-degree turn before flying off to the northwest,At times, a faint red light was observed around the object,The object seemed attracted to an aircraft departing from Lambert airport,The sighting lasted for several minutes before the object disappeared from view.",
+    "sighted object": "a bright metallic-colored disk-shaped object",
+    "location": "St. Louis, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who observed the object visually without any noise.",
+    "contains photographs": false
 }

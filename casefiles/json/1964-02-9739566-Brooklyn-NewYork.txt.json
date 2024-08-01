@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A civilian in Brooklyn, New York reported seeing multiple (3) white, oval-shaped objects traveling in a tight formation at a high speed on the night of February 11, 1964.",
-    "interesting points": [
-        "The objects were observed for 2-3 minutes as they traveled in a straight line towards the southeast.",
-        "The witness described the objects as slightly fuzzy around the edges, as if they were glowing, and about three-quarters the size of the full moon.",
-        "The witness heard no sound as the objects passed overhead or as they disappeared behind the apartment buildings.",
-        "The witness called the Air Force the next morning to report the sighting, and was told the matter would be handled by the Office of the Secretary of the Air Force.",
-        "The Air Force's evaluation of the sighting was that it was possibly a reflection of some sort or a meteor, but that the data was too brief for a definitive identification."
-    ],
-    "result": "unexplained",
-    "sighted object": "three white, oval-shaped objects",
-    "location": "Brooklyn, New York",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "On the night of February 11, 1964, a civilian observed multiple white objects traveling in a tight formation over Brooklyn, New York.",
+    "interesting points": "The sighting lasted for about 2-3 minutes., The observer described the objects as oval shaped and white, about three-quarters the size of the full moon., The objects moved in a straight line towards the Southeast without making any noise., A possibility of reflections or meteors was suggested in the report., The observer called the police immediately after the sighting.",
+    "sighted object": "multiple oval shaped white objects",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian walking home from a friend's house near a church",
+    "contains photographs": false
 }

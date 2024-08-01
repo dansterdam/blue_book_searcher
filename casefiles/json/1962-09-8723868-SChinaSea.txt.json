@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A large, dark, metallic-looking object was observed rapidly climbing through clouds at high altitude in the China Sea.",
-  "interesting points": [
-    "The object was estimated to be approximately 50 to 100 feet in diameter.",
-    "The object was observed for several minutes as it climbed through the clouds and then disappeared from view.",
-    "The object was moving against the wind at a very high rate of speed, with no visible vapor trails or exhaust.",
-    "The object was observed by three crew members of the ship separately and at different times, but could not be photographed due to the unexpected and extremely rapid nature of the appearance.",
-    "The observer stated that the sighting was one of the most unusual and puzzling they had experienced in many years of seafaring, and that the object appeared to be some type of structured craft, metallic in appearance, and under intelligent control as it maneuvered with ease through the clouds."
-  ],
-  "result": "unexplained",
-  "sighted object": "a large, dark, metallic-looking object",
-  "location": "China Sea",
-  "witnesses": "civilian and military crew members",
-  "photographs": "no, the report states the object could not be photographed"
+    "main event": "A large dark object was observed rapidly climbing through clouds at high altitude on September 11, 1962.",
+    "interesting points": "The object was estimated to be 50 to 100 feet in diameter and appeared structured and metallic., It was moving against the wind at a very high rate of speed without any vapor trails or exhaust., Three crew members of the ship observed the object separately at different times., The sighting lasted for several minutes before the object disappeared from view., The observer described it as one of the most unusual and puzzling sightings in many years of seafaring.",
+    "sighted object": "large dark object",
+    "location": "China Sea",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilian and military crew members",
+    "contains photographs": false
 }

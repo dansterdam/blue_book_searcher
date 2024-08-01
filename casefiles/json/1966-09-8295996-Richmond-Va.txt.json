@@ -1,13 +1,9 @@
 {
-    "main event": "A civilian observed a silver-colored object drifting across the sky with no detailed features, consistent with a meteor.",
-    "interesting points": [
-        "The object was observed for 8 seconds.",
-        "The observation was made from the ground.",
-        "The object was observed moving eastward."
-    ],
-    "result": "unexplained",
-    "sighted object": "a silver-colored object",
-    "location": "Richmond, VA",
-    "witnesses": "one civilian",
-    "photographs": "no"
+    "main event": "On September 24, 1966, a civilian reported observing a silver-colored object drifting across the sky in Richmond, Virginia.",
+    "interesting points": "The object was described as having no detailed features and was consistent with the appearance of a meteor., The sighting duration was approximately 8 seconds., The object moved in an eastward direction., The report indicated that no sound was associated with the object., The witness emphasized the lack of visual details, stating the object appeared very simple.",
+    "sighted object": "a silver colored aerial object",
+    "location": "Richmond, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

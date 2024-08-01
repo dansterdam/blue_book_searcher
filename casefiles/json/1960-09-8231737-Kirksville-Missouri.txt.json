@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Radar sighting of an unknown object near Kirksville, Missouri on September 28, 1960.",
-    "interesting points": [
-        "The object was picked up on ground radar, appearing at 70,000 feet and rapidly gaining altitude to 105,000 feet before disappearing off the scope after 45 seconds.",
-        "The radar operators reported the object as a normal radar return, but it was described as unknown and rapidly gaining altitude.",
-        "The report mentions the possibility that the sighting could have been caused by air mixing with cold dry air, as similar sightings were reported from the same radar station but not on the same equipment.",
-        "No reports were received from other stations in the area that could have confirmed or denied this weather-related explanation.",
-        "The Air Technical Intelligence Center evaluated the sightings and concluded that the appearances and disappearances of the targets, along with the rapid changes in altitude, indicated the possibility that some form of weather condition was responsible for the unidentified targets."
-    ],
-    "result": "Inconclusive, possible weather-related explanation",
-    "sighted object": "Unknown radar target",
-    "location": "Kirksville, Missouri",
-    "witnesses": "Military radar operators",
-    "photographs": "No"
+    "main event": "Military radar detected an unidentified object rapidly ascending from 70,000 ft to 105,000 ft over Kirksville, Missouri on September 28, 1960.",
+    "interesting points": "The sighting lasted for 45 seconds before the object disappeared off the radar scope., The object was picked up by ground radar as a normal return but was painted at an altitude of 70,000 ft., No similar sightings were reported from other radar stations in the area., The conditions of air mixing with cold dry air may have contributed to the radar effect observed., The report mentioned two reliable operators, Donald L. Mitchell and Walter W. Yount, who observed the radar return.",
+    "sighted object": "unidentified object on military radar",
+    "location": "Kirksville, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Donald L. Mitchell, A/3C and Walter W. Yount, A/2C, both reliable radar operators",
+    "contains photographs": false
 }

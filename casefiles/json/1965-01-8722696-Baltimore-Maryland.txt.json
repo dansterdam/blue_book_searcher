@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the summary in the requested JSON format:
-
 {
-    "main event": "A man reported observing an unidentified flying object near Baltimore, Maryland on January 8, 1965.",
-    "interesting points": [
-        "The object was described as a bright light that hovered for a short period of time before moving rapidly and disappearing.",
-        "The object was visible for approximately 2 minutes.",
-        "The object was estimated to be 50-60 feet in diameter and had a dull or grey color.",
-        "The object moved at a phenomenal speed of at least 800 miles per hour and did not make any sound.",
-        "The object executed a downward curve towards the ground before climbing up and disappearing from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, circular and silver in color, approximately 50-60 feet in diameter",
-    "location": "Near Baltimore, Maryland",
-    "witnesses": "3 reliable persons",
-    "photographs": "none"
+    "main event": "A bright light was observed over Baltimore, Maryland on January 8, 1965, by a witness while driving.",
+    "interesting points": "The object was described as 50 to 60 ft in diameter and grey in color., The witness noted that the object traveled at an estimated speed of 800 mph without making any sound., It exhibited a strange luminescent glow and made a downward curve before disappearing., Two other reliable witnesses confirmed the same sighting., The sighting lasted for approximately 2 minutes.",
+    "sighted object": "a bright light in the sky",
+    "location": "Baltimore, MD, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a 21-year-old male named John Smith who reported to Air Police Sgt, Andrews AFB",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains limited details of a UFO sighting in Creston, Iowa, on 1 September 1956, with a possibility of it being a balloon due to the movement and shape of the object. The reliability of the source is unknown.",
-  "interesting points": [
-    "The sighting described a silver glittering object in the sun directly over the observer's station with no cloud coverage.",
-    "The report also mentions a bright object hovering, with a circular shape and a shiny color, traveling at a fast speed and appearing to be about 8 ft in size.",
-    "There is a mention of a 1955 report involving a round arc-shaped object with fast speed, hovering capability, and a balloon-like shape.",
-    "The document includes a simple hand-drawn sketch or diagram depicting an elliptical or oval-shaped object, but no specific individuals are identified in the report.",
-    "The text provides various names such as A. Hitz, A. Rose, A. Cote, A. Huse, and D. D. Gist City Director, along with a 4/7/52 SEP report, indicating possible witnesses or individuals involved in the document."
-  ],
-  "result": "unexplained",
-  "sighted object": "various UFO sightings including a silver glittering object, circular shining object, and oval-shaped flying object",
-  "location": "Creston, Iowa",
-  "witnesses": "unknown reliability of source, names mentioned but unclear involvement in the sightings",
-  "photographs": "no photograph included in the document"
+    "main event": "A report describes the sighting of a shiny, round, flying object in Creston, Iowa in 1956.",
+    "interesting points": "The object was described as having a silver glitter in the sun., It was observed directly over the station with very good visibility due to no cloud cover., The object was estimated to be about 8 feet in size., The report indicates the object was hovering and had a fast speed., The reliability of the witness is unknown.",
+    "sighted object": "shiny round flying object",
+    "location": "Creston, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

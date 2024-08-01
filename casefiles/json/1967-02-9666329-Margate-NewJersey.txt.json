@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Two objects were seen going straight across the sky over Margate, New Jersey, leaving a trail of exhaust.",
-    "interesting points": [
-        "The observers were 8 years old.",
-        "The objects were described as 'astro (KEFREN)'.",
-        "The total duration of the sighting was 12 seconds.",
-        "The objects were observed visually from the ground.",
-        "The objects moved in a straight course and did not have any navigation lights."
-    ],
-    "result": "Astro (KEFREN)",
-    "sighted object": "two objects",
-    "location": "Margate, New Jersey",
-    "witnesses": "2 witnesses",
-    "photographs": "no"
+    "main event": "Two observers in Margate, New Jersey, reported seeing an object moving straight across the sky for 12 seconds.",
+    "interesting points": "The observers were only 8 years old at the time of the sighting., The object trailed exhaust as it moved., There were no navigation lights observed on the object., The object was classified as an Astro (KEFREN) in conclusion., The observers reported the object appeared whitish gray.",
+    "sighted object": "an unidentified flying object with exhaust trail",
+    "location": "Margate, New Jersey, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "young children aged 8 years",
+    "contains photographs": false
 }

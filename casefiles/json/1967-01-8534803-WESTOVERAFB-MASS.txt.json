@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "The report does not mention a specific sighting event. It appears to be a general questionnaire for reporting unidentified aerial phenomena observations.",
-    "interesting points": [
-        "The questionnaire covers details about the time, location, weather conditions, and characteristics of the observed object.",
-        "The report indicates that the information provided will be used for research purposes and the witness's name will not be used without permission.",
-        "The questionnaire asks about the object's movement, brightness, shape, and other behaviors.",
-        "There is no mention of a photograph or other physical evidence being included with the report.",
-        "The report is part of the U.S. Air Force's Project Blue Book investigation of UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "unspecified unidentified aerial phenomenon",
-    "location": "unspecified",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "An unidentified flying object was reported at Westover AFB, Massachusetts on January 23, 1967.",
+    "interesting points": "The report concluded the sighting was likely a reflection,No photographs were included in the submission,The observer had attempted to capture a comet on camera instead capturing the UFO,The document includes references to Project Blue Book, a program investigating UFOs,The report indicates that two objects were not visible during the general outdoor photography.",
+    "sighted object": "unidentified flying object",
+    "location": "Westover AFB, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer submitted a questionnaire with detailed responses about the sighting.",
+    "contains photographs": false
 }

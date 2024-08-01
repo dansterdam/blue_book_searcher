@@ -1,15 +1,9 @@
 {
-	"main event": "A UFO sighting was reported on November 7, 1957 in Greenville, Alabama. The observation was made using ground-radar and lasted for approximately half an hour. The object was described as emitting light and traveling from C.F.S. to S.S.E.",
-	"interesting points": [
-		"The report indicates that there was insufficient data available for a comprehensive analysis.",
-		"The UFO was observed traveling from C.F.S. to S.S.E.",
-		"It was a ground-radar observation lasting approximately half an hour.",
-		"The object emitted light and was described as a luminous streak.",
-		"One witness claimed to have heard a noise associated with the UFO."
-	],
-	"result": "unexplained",
-	"sighted object": "luminous streak emitting light",
-	"location": "Greenville, AL",
-	"witnesses": "Mr. Fish, Mr. Pire",
-	"photographs": "no"
+    "main event": "A ground-radar observation of a luminous streak was reported in Greenville, Alabama on November 7, 1957.",
+    "interesting points": "The observation lasted for about half an hour,The object was reported to be traveling on a course of 010,The observer noted that lights came from C.F.S. to S.S.E., One witness claimed to hear a noise but provided no description, Insufficient data was recorded in the comments section.",
+    "sighted object": "luminous streak",
+    "location": "Greenville, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "unknown",
+    "contains photographs": false
 }

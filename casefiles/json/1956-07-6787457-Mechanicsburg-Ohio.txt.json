@@ -1,17 +1,9 @@
-Based on the details provided in the UFO report, here is the summary in JSON format:
-
 {
-    "main event": "A witness observed a bright, round object or light moving rapidly from east to west over Mechanicsburg, Ohio on July 27, 1956.",
-    "interesting points": [
-        "The object was reportedly around 30-35 feet in diameter and shining a brilliant white light or flame, leaving a white trail as it moved at a slow speed.",
-        "The witness observed the object for about 2-3 minutes before it disappeared in the distance.",
-        "The witness was unable to identify the source of propulsion for the object, stating it had no visible means of propulsion.",
-        "The witness had never seen anything like the object before and described it as a 'U.F.O.'.",
-        "The report includes additional details from a separate witness who observed a bright light moving rapidly in the southwest and hovering briefly before disappearing over the horizon."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "a bright, round object or light",
-    "location": "Mechanicsburg, Ohio",
-    "witnesses": "1 or more witnesses",
-    "photographs": "no photographs included"
+    "main event": "A bright, round light was observed moving rapidly in the sky over Mechanicsburg, Ohio on July 27, 1956.",
+    "interesting points": "The object had an approximate diameter of 30-35 ft, It emitted brilliant white lights and left a white trail, The object was categorized as probably an aircraft and possibly a balloon, The witness observed the object moving from east to west at a slow speed, The sighting lasted for 2-3 minutes and the object disappeared in the distance.",
+    "sighted object": "a bright round light",
+    "location": "Mechanicsburg, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "An individual who reported seeing the object from outside his home on a clear moonlit night.",
+    "contains photographs": false
 }

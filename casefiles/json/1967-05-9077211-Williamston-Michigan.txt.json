@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "A person found a strange material on their property and reported it to the Air Force, suspecting it was related to a previous UFO sighting in the area.",
-    "interesting points": [
-        "The person found the material while mushrooming and was concerned it could be related to a previous UFO sighting in the area.",
-        "The Air Force analyzed the material and identified it as 'radar chaff', which is dropped by military aircraft to confuse radar.",
-        "The Air Force thanked the person for submitting the material and provided information on electronic countermeasures.",
-        "There must have been a radar exercise in the area that led to the 'radar chaff' being found.",
-        "The person was reluctant to report the finding because they were concerned people would think they were 'out of their mind' if they reported seeing a UFO in the area."
-    ],
-    "result": "explained (radar chaff)",
-    "sighted object": "no object sighted, only a strange material found",
-    "location": "Williamston, Michigan",
-    "witnesses": "civilian person",
-    "photographs": "no photographs included"
+    "main event": "A civilian discovered a material identified as radar chaff in the back of his house in Williamston, Michigan in May 1967.",
+    "interesting points": "The observer found the material while mowing his lawn,The observer had previously seen a spaceship in the area,The material was reported to the Air Force for analysis,It was confirmed that the material was dropped by military aircraft to confuse radar operators,The analysis indicated that there was likely a radar exercise in the vicinity around that time.",
+    "sighted object": "unknown object associated with radar chaff",
+    "location": "Williamston, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, concerned about the material due to previous UFO sightings in the area",
+    "contains photographs": false
 }

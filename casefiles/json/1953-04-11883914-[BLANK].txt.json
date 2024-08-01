@@ -1,15 +1,9 @@
 {
-"main event": "The provided report contains a series of documents and summaries related to Project Blue Book, a U.S. Air Force program for investigating unidentified flying objects. The documents include analyses of existing sightings, conferences with astronomers, and revisions of interrogation forms.",
-"interesting points": [
-	"The report includes a series of interviews with professional astronomers about their experiences and opinions regarding unidentified aerial objects.",
-	"Astronomer B expressed skepticism about the sightings and suggested the possibility of some being due to Navy secret weapons.",
-	"The report discusses the modification of interrogation forms to obtain a maximum of information from future sighting reports.",
-	"There was an emphasis on obtaining opinions from professionally trained astronomers as a means of assessing the state of knowledge about unknown objects in the skies.",
-	"The report describes a tour of various observatories and interviews with a total of 45 astronomers to gauge their opinions and experiences with unidentified aerial objects."
-],
-"result": "unexplained",
-"sighted object": "unidentified aerial objects",
-"location": "Victoria, British Columbia, and various observatories in the United States",
-"witnesses": "professional astronomers",
-"photographs": "no"
+    "main event": "The report discusses procedures for collecting and analyzing UFO sighting reports as part of Project Blue Book.",
+    "interesting points": "The report details a process for coding and analyzing data from UFO sightings, feedback from professional astronomers on their sightings or opinions, there is a comprehensive interrogation form designed to capture detailed accounts from observers, evidence suggests multiple sightings can complicate evaluations, a significant number of reports were filed in 1952, causing analysis delays.",
+    "sighted object": "Unidentified flying objects (UFOs)",
+    "location": "Wright-Patterson Air Force Base, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not applicable as the report focuses on procedural information.",
+    "contains photographs": false
 }

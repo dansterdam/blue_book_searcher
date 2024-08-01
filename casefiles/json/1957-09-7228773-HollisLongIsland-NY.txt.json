@@ -1,15 +1,9 @@
 {
-    "main event": "A round object the size of a basketball was observed in the sky over Hollis, Long Island, New York on September 19, 1957.",
-    "interesting points": [
-        "The object was observed at a 45 degree angle, moving at a constant speed towards the horizon.",
-        "The witness commented that the object's unusual speed was probably due to the winds, and it was likely a balloon.",
-        "The report concluded that the object was probably a balloon.",
-        "The sighting lasted for 3 minutes.",
-        "A sketch of the sighting is included in the report."
-    ],
-    "result": "Probable balloon",
-    "sighted object": "round object the size of a basketball",
-    "location": "Hollis, Long Island, New York",
-    "witnesses": "unknown",
-    "photographs": "no, but a sketch is included"
+    "main event": "A round object, the size of a basketball, was observed at a 45-degree angle moving at constant speed toward the horizon for about 3 minutes.",
+    "interesting points": "The sighting lasted for 3 minutes, The object was moving at an unusual speed that led the witness to believe it was a balloon, The report's observations were conducted under clear weather conditions, An aircraft (DC-6) was seen at low altitude in the vicinity during the observation, The object suddenly disappeared from view.",
+    "sighted object": "Round object size of basketball",
+    "location": "Hollis, Long Island, N.Y.",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness suspected it was probably a balloon.",
+    "contains photographs": false
 }

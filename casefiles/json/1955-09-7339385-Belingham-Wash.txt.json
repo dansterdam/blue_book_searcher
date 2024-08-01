@@ -1,15 +1,9 @@
 {
-"main event": "Multiple UFO sightings were reported on September 17th, 1955, in Bellingham, Washington.",
-"interesting points": [
-	"The sightings described round, white to red objects with no sound or trail, following a level course.",
-	"Descriptions included objects being purple, fuzzy, and still under observation at a 45 degree, 30 degree angle.",
-	"The witness, a 35-year-old male, made note that no photographs were submitted with the report.",
-	"An analysis suggested that the UFO sightings may have been the result of jets being launched in the area.",
-	"Though there were no conclusive photographs, there were multiple witnesses and detailed observations of the unidentified objects."
-],
-"result": "unexplained",
-"sighted object": "round, white to red UFOs following a level course",
-"location": "Bellingham, Washington",
-"witnesses": "Multiple witnesses reported the sightings",
-"photographs": "no photographs submitted with the report"
+    "main event": "A UFO sighting was reported on 17 September 1955 in Bellingham, Washington, characterized by a round, white to red object with no sound or trail observed for a total of one hour.",
+    "interesting points": "The sighting was reported by a tactical officer who observed it under radar conditions., The object was described as having a round shape and changing colors., The report indicated that the observation lacked sound or trail., Conclusion options included weather phenomena, possibly a balloon or aircraft, with insufficient data for definitive evaluation., The time of the observation aligned with an air drop in the area, suggesting potential connections with military activities.",
+    "sighted object": "Round, white to red object",
+    "location": "Bellingham, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Tactical officer, possibly associated with military intelligence",
+    "contains photographs": false
 }

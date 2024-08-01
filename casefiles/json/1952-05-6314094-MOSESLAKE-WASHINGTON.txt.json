@@ -1,15 +1,9 @@
 {
-  "main event": "On May 1, 1952, AEC employees in Moses Lake, Washington, reported an observation of a single silver object flying in a straight line away from the observer for 1 1/2 minutes.",
-  "interesting points": [
-    "The object did not have wings and made no sound.",
-    "It was visible for 1 1/2 minutes to a ground observer in the area.",
-    "The report mentions the presence of a patrol plane in the air at the same time as the sighting.",
-    "There were no radar contacts or photographs of the object.",
-    "The source of the report was deemed to be a civilian witness."
-  ],
-  "result": "Unknown",
-  "sighted object": "single silver object",
-  "location": "Moses Lake, Washington",
-  "witnesses": "Civilian",
-  "photographs": "No"
+    "main event": "A silver object was observed over Moses Lake, Washington for 1.5 minutes by AEC employees.",
+    "interesting points": "The object was silver in color and appeared to move in a straight line,No photographs were documented in the report,There was a weather balloon released from Yakima at the time, but the object was suspected to not be this balloon, An aircraft was in the area during the sighting, The sighting had an uncertain conclusion with suggestions of it being a balloon, aircraft, or astronomical object.",
+    "sighted object": "one silver object",
+    "location": "Moses Lake, Washington, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "AEC employees",
+    "contains photographs": false
 }

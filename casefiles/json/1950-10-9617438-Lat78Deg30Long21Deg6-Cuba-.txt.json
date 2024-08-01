@@ -1,15 +1,9 @@
 {
-  "main event": "On October 31st, 1950, a civilian pilot and engineers reported an aluminum object with a blue flame over Cuba, flying faster than a meteor at an altitude of over 5,000 feet for a duration of 3 seconds.",
-  "interesting points": [
-    "The object was described as circular and of terrific size.",
-    "No photographs or sketches of the object were included with the report.",
-    "The speed of the object was noted to be faster than a meteor, indicating unusual behavior.",
-    "The report indicates that there were multiple sightings of unidentified aerial objects in Cuba around the same time.",
-    "There was uncertainty about the authenticity of pictures of the unidentified aerial objects."
-  ],
-  "result": "unexplained",
-  "sighted object": "aluminum object with a blue flame",
-  "location": "Cuba",
-  "witnesses": "civilian pilot and engineers",
-  "photographs": "no"
+    "main event": "A civilian pilot and engineers reported a sighting of an unidentified aerial object over Cuba on October 31, 1950.",
+    "interesting points": "The object was described as aluminum with a blue flame., The size of the object was noted as terrific., The object was observed at an altitude of over 5,000 feet., The speed was reported as faster than a meteor., The duration of the sighting was just 3 seconds.",
+    "sighted object": "unidentified aerial object with aluminum and blue flame",
+    "location": "Cuba",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian pilot and engineers",
+    "contains photographs": false
 }

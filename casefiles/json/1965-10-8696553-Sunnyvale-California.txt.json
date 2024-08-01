@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, round, self-luminous object was observed traveling in the sky from the north towards the southwest in Sunnyvale, California on January 1, 1965.",
-    "interesting points": [
-        "The object was much brighter than any normal aircraft.",
-        "The witness, an engineer with knowledge of aerospace engineering, observed the object for 45-50 seconds until it disappeared behind some trees.",
-        "The weather conditions at the time were clear with no clouds in the sky.",
-        "The witness is described as a reliable observer with an intense interest in astronomy and UFOs.",
-        "No other observers are known to have seen the object."
-    ],
-    "result": "unresolved",
-    "sighted object": "a bright, round, self-luminous object",
-    "location": "Sunnyvale, California",
-    "witnesses": "Wallace H. Essaghian Jr., an aerospace engineer",
-    "photographs": "none"
+    "main event": "Mr. Norman B. Stevens observed a bright white oval-shaped object traveling at high speed in Sunnyvale, California, on October 8, 1965.",
+    "interesting points": "The object was described as being the size of a basketball and moving at approximately 500 mph., The object was visible for about 6-8 seconds before it vanished from sight., It made no noise and did not leave a vapor trail., The witness, a reliable electronics engineer, reported the incident while driving on Highway 101., This case remains classified as UNIDENTIFIED by the investigating officer.",
+    "sighted object": "a bright white oval object",
+    "location": "Sunnyvale, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Norman B. Stevens, age 35, an electronics engineer.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several groups of strange lights were observed in the sky near Wichita Falls, Texas on January 5, 1951.",
-    "interesting points": [
-        "The lights were at an altitude of approximately 1,000 feet.",
-        "The lights increased in size and intensity as the witnesses drew closer.",
-        "Two additional lights materialized and joined the others, becoming one larger light moving towards the horizon.",
-        "The sighting lasted for up to 2 hours.",
-        "The incident was initially reported as a potential balloon, but the witnesses claimed the object chased them."
-    ],
-    "result": "unexplained",
+    "main event": "Mr. and Mrs. of Waco, Texas, observed several groups of strange lights in the sky while driving from Port Worth to Waco on 5 January 1951.",
+    "interesting points": "The lights were observed at an altitude of 1000 feet., The sighting occurred at approximately 10:42 P.M., The lights increased in size and intensity as they approached., Two additional lights appeared and merged with the existing lights., The report suggests that the observed objects may have been mistaken for a balloon.",
     "sighted object": "groups of strange lights in the sky",
-    "location": "Vicinity of Wichita Falls, Texas",
-    "witnesses": "Mr. and Mrs. from Waco, Texas",
-    "photographs": "no"
+    "location": "Wichita Falls, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a couple driving from Port Worth to Waco",
+    "contains photographs": false
 }

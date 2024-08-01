@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a transparent, kite-like object moving northward at a speed of approximately 30 mph on October 6, 1966.",
-    "interesting points": [
-        "The object was observed for about 15 minutes before moving behind a house.",
-        "The witness estimated the object was about 300 feet away.",
-        "The object was described as transparent and clear.",
-        "The witness reported the object appeared to stop and then continue moving.",
-        "Investigators determined the sighting was likely a balloon launched from the Sulfur Grove station in the Dayton, Ohio area that morning."
-    ],
-    "result": "Probable balloon",
-    "sighted object": "Transparent, kite-like object",
-    "location": "Beavercreek, Ohio",
-    "witnesses": "1 civilian witness",
-    "photographs": "No"
+    "main event": "A civilian observed a kite-like object moving in a northward direction for approximately 15 minutes on 6 October 1966.",
+    "interesting points": "The object was reported to appear transparent and clear.,The movement speed was estimated at approximately 30 mph.,The object moved behind a house during the observation.,The sighting is consistent with the launch of a balloon from suburban Dayton, Ohio.,The observer described no sound associated with the object.",
+    "sighted object": "kite-like transparent object",
+    "location": "Beavercreek, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian male, 58 years old, residing in Xenia, Ohio.",
+    "contains photographs": false
 }

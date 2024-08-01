@@ -1,15 +1,9 @@
 {
     "main event": "A bright object similar to a satellite was observed at 30 degrees elevation on a course of 170 degrees.",
-    "interesting points": [
-        "The object was observed from a ship (USCGC MATAGORDA) at the coordinates 33-39.5N 164-82.9E.",
-        "The observation was reported through a military messaging system, indicating it was likely considered a significant or unusual sighting.",
-        "The object's position angle was reported as 38 degrees, and its course was 179 degrees.",
-        "The weather was reported as clear, and the sea was calm at the time of the observation.",
-        "No photographs were taken of the object, and its nature remained unknown."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright object similar to a satellite",
-    "location": "33-39.5N 164-82.9E",
-    "witnesses": "USCGC MATAGORDA crew",
-    "photographs": "none"
+    "interesting points": "The observation took place on 20 November 1964,The object was reported as a single bright object,The observation was conducted via ground-visual methods,The course of the object was noted as 170 degrees,There were no photographs or physical evidence reported.",
+    "sighted object": "one bright object similar to a satellite",
+    "location": "33-59N 164-82E",
+    "number of confirmed witnesses": 1,
+    "witness description": "not reported",
+    "contains photographs": false
 }

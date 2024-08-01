@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A brief flash of a brilliant light was observed from a military aircraft over Korea in 1951.",
-    "interesting points": [
-        "The object was described as a brilliant flash of varied colors, appearing like a heavy flak burst but different from any flak previously observed.",
-        "The initial appearance was a reddish-yellow glow ending in a blush-white burst, with no deviation in trajectory or speed.",
-        "The object did not curve and made no sound or concussion, leading to the conclusion that it was not an aircraft or explosion.",
-        "Multiple crew members on different aircraft reported seeing the flash of light, though they could not estimate the distance or size of the object.",
-        "The crew agreed they had seen several falling flares at various times during the flight, but this sighting was distinctly different."
-    ],
-    "result": "unidentified",
+    "main event": "A brilliant flash observed in the sky over Chinnampo, Korea on 10 March 1951.",
+    "interesting points": "The object appeared as a heavy flak burst and was described as having varied colors., It was initially seen as a reddish yellow glow followed by a blush-white burst., Witnesses included military personnel who reported the flash at about 3 o'clock high., The object did not deviate from its trajectory and emitted no sound., The duration of the sighting was very short, approximately 2 seconds.",
     "sighted object": "a brilliant flash of light",
     "location": "Chinnampo, Korea",
-    "witnesses": "military aircraft crew",
-    "photographs": "no"
+    "number of confirmed witnesses": 8,
+    "witness description": "military personnel on duty",
+    "contains photographs": false
 }

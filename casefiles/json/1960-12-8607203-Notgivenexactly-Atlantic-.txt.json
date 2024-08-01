@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple UFO sightings reported by pilots during training exercises",
-    "interesting points": [
-        "Pilots observed UFOs at altitudes ranging from 12,000 to 40,000 feet",
-        "The UFOs exhibited a range of speeds from hypersonic to Mach 10",
-        "The UFOs left trails that varied from white to reddish and persisted in the sky longer than normal",
-        "One pilot observed a UFO for over an hour",
-        "Radar contacts were made by a local GCI station during the sightings"
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified flying objects",
-    "location": "near Kearfott, West Florida",
-    "witnesses": "pilots involved in training exercises",
-    "photographs": "yes, the report mentions pilots taking motion pictures"
+    "main event": "Radar target observed intermittently, described as a red or orange light with one or more white lights, moving slowly against the wind on December 13, 1963.",
+    "interesting points": "The object was observed visually through binoculars,The object moved against the wind and emitted no sound,Numerous reported sightings of unknown objects occurred in the same area around the time of the sighting,The observation duration was noted but remains unknown,The report was part of Project Blue Book and includes multiple UFO reports from pilots involved in training exercises.",
+    "sighted object": "red or orange light with one or more white lights",
+    "location": "South Carolina, Atlantic, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "Visual observations made through binoculars by unidentified observers.",
+    "contains photographs": false
 }

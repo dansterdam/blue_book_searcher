@@ -1,15 +1,9 @@
 {
-    "main event": "A glowing orange object was observed in the sky over Columbus, Ohio on October 2, 1951.",
-    "interesting points": [
-        "The object appeared to increase in distance from the observer.",
-        "The object was described as glowing, with no sound.",
-        "The size of the object was compared to a flash ball, and slightly less than a DC-3 fuselage.",
-        "The object faded and diminished in size, as though moving away.",
-        "The impression was that the flash was from a balloon."
-    ],
-    "result": "Unknown",
-    "sighted object": "A glowing orange object",
-    "location": "Columbus, Ohio",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A glowing object was observed in Columbus, Ohio on 2 October 1951.",
+    "interesting points": "The object appeared orange as it increased its distance from the observer.,The object was silent throughout the observation.,The size of the object was comparable to that of a DC-3 fuselage.,The observer initially believed it could have been a balloon.,The sighting lasted for 8 minutes before the object faded and diminished in size.",
+    "sighted object": "a glowing object",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

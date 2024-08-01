@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A silvery white, spherical object was sighted visually over northwest Washington, D.C. at approximately 2418 hrs EST on September 20, 1952. The object was traveling from north to south at great speed and was visible for only about one half second. The size and altitude were indeterminate, but the object appeared to 'follow the curvature of the earth'.",
-    "interesting points": [
-        "The object had the appearance of a very bright silvery light.",
-        "The object was traveling at great speed from north to south.",
-        "The object was visible for only about one half second.",
-        "The size and altitude of the object were indeterminate.",
-        "The object appeared to 'follow the curvature of the earth'"
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright silvery light object",
-    "location": "northwest Washington, D.C.",
-    "witnesses": "Mr. Jack V. Moir",
-    "photographs": "no"
+    "main event": "A series of UFO sightings were reported in Washington, D.C. on September 6 and other dates in 1952, involving various observers and radar reports.",
+    "interesting points": "Multiple witnesses reported seeing a bright, silvery object moving across the sky, often resembling a meteor or aircraft., Several observers described the object as circular or spherical with varying colors including white, blue, and red tails., The sightings included various types of observations such as ground-radar and visual sightings from different locations in the D.C. area., Some observers noted the object made no sound and appeared to travel at high speeds., Officials suggested the sightings might be linked to balloons, meteors, or aircraft, but many reports remained inconclusive.",
+    "sighted object": "A bright silvery light, circular or spherical in shape",
+    "location": "Washington, D.C.",
+    "number of confirmed witnesses": 10,
+    "witness description": "Various civilian observers, including individuals and families, reported the sightings.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was observed in the sky near Denver, Colorado on October 7, 1956.",
-    "interesting points": [
-        "The object appeared to move very fast at an altitude of about 10,000 feet.",
-        "The object was observed for 20 seconds and was noted to the west-southeast.",
-        "The object moved in a zig-zag manner and disappeared, likely due to a meteorological variation or possible aircraft.",
-        "There were two similar sightings reported on September 23, 1956.",
-        "The weather conditions were clear and calm at the time of the sighting."
-    ],
-    "result": "Probably Balloon, Was Aircraft",
-    "sighted object": "one unidentified object",
-    "location": "Denver, Colorado",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "An observation of a fast-moving object at an altitude of about 10,000 feet was made on October 7, 1956, in Denver, Colorado.",
+    "interesting points": "The object was observed for about 20 seconds,The sighting noted a zig-zag movement before the object disappeared,The report suggested it was probably a balloon or aircraft,The object was located to the west-southeast of the observer,The visibility was clear and calm at the time of the observation.",
+    "sighted object": "one fast-moving object in the sky",
+    "location": "Denver, Colorado, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian source",
+    "contains photographs": false
 }

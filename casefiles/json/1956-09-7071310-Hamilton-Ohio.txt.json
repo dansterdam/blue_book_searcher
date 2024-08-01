@@ -1,15 +1,9 @@
 {
-  "main event": "On 22 September 1956 at 0107Z, an object the size and shape of a weather balloon, white in color, was observed on course 270 degrees top to bottom with no radar contact. The observer believed it to be an astro body, possibly a balloon. The case was evaluated as after Capella.",
-  "interesting points": [
-    "The sighting lasted for a continuous period of time.",
-    "The object was observed to be white in color and similar in size and shape to a weather balloon.",
-    "There was no radar contact with the object.",
-    "The observer believed it to be a astro body, possibly a balloon.",
-    "The case was evaluated and categorized under different possibilities including 'Possibly Balloon' and 'Possibly Astronomical'."
-  ],
-  "result": "Possibly Balloon",
-  "sighted object": "White object similar in size and shape to a weather balloon",
-  "location": "Unknown",
-  "witnesses": "1/LT USAF Intelligence Officer",
-  "photographs": "No"
+    "main event": "On 22 September 1956, an observer reported seeing an object resembling a weather balloon, white in color, with no radar contact.",
+    "interesting points": "The sighting occurred at GMT: 20/0107Z,The object was observed to be on course 270 degrees,The observer believed the object to possibly be an astro body or a balloon,The case was evaluated with multiple possibilities including insufficient data,There was no aircraft in the area during the observation.",
+    "sighted object": "an object the size and shape of a weather balloon",
+    "location": "Hamilton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "1/LT USAF Intelligence Officer",
+    "contains photographs": false
 }

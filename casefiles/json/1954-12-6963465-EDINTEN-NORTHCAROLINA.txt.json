@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified circular, dark-colored object was observed moving slowly in the east-northeast sky over Edenton, North Carolina on December 6, 1954.",
-    "interesting points": [
-        "The object was estimated to be about 45 feet in diameter.",
-        "It moved slowly for 5-10 minutes, then changed direction and moved rapidly in the south-southwest direction for 3-5 minutes before disappearing from view.",
-        "The object appeared to have no visible means of propulsion and made no sound.",
-        "The weather was clear at the time of the observation.",
-        "There were no other known aircraft in the area at the time."
-    ],
-    "result": "unknown",
-    "sighted object": "circular, dark-colored object",
-    "location": "Edenton, North Carolina",
-    "witnesses": "Mr. Harold D. Miller, Mr. Willis L. Thomas, and Mr. James C. Hyatt",
-    "photographs": "no"
+    "main event": "On 6 December 1954, multiple sightings of unusual aerial objects were reported in Edinten, North Carolina.",
+    "interesting points": "Witnesses reported a bright white object hovering before climbing straight up and disappearing., One reported object was described as oval-shaped with an estimated size of 20-25 feet long and 7-10 feet wide., Observations lasted from 5 minutes to 20 seconds depending on the sighting., Witness Gerald Cromer described an object moving in an undulating motion., The report concluded some sightings might be explained as aircraft or distant celestial bodies.",
+    "sighted object": "multiple unidentified flying objects",
+    "location": "Edinten, North Carolina, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "residents of Edinten, believed to be reliable individuals with no prior interest in UFOs",
+    "contains photographs": false
 }

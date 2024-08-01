@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An individual observed a bright, reddish-hued object in the sky below the moon near Dallas, Texas on November 25, 1965.",
-    "interesting points": [
-        "The object was described as round or egg-shaped, and estimated to be the size of a large aircraft.",
-        "The object emitted red shafts of light that appeared to emanate from it and then withdraw back into it.",
-        "The object remained stationary and visible for an extended period of about 1 hour.",
-        "The observer, a civilian in the south part of Dallas, appeared sincere but inexperienced in providing details about the UFO.",
-        "Weather data indicates the object was likely a weather balloon released from Carswell Air Force Base, despite the observer's insistence that it was not a balloon or celestial body."
-    ],
-    "result": "likely a weather balloon",
-    "sighted object": "a bright, reddish-hued object",
-    "location": "near Dallas, Texas",
-    "witnesses": "a civilian observer in the south part of Dallas",
-    "photographs": "no photographs included in the report"
+    "main event": "A civilian observed a round object in the sky below the moon near Dallas, Texas on November 25, 1965.",
+    "interesting points": "The object was described as round and perhaps egg-shaped, estimated to be the size of a large aircraft,It emitted a reddish halo and shafts of light that appeared to emanate from it,The object remained stationary and was visible for approximately one hour,The observer, located in the southern part of Dallas, was sincere but inexperienced in providing details about the sighting,Weather conditions were reported as clear with visibility of 10 miles and no significant clouds.",
+    "sighted object": "round object with a reddish halo",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, very sincere but inexperienced in providing details",
+    "contains photographs": false
 }

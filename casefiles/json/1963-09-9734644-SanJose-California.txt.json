@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A stationary object looking like a star with a light blue tinge was observed in the sky over San Jose, California.",
-    "interesting points": [
-        "The object was observed at an elevation of 60-70 degrees from the horizon, proceeding on a southerly course.",
-        "The sighting occurred on September 28, 1964, at 2709-0312 GMT.",
-        "The object had no twinkle, characteristic of a satellite observation.",
-        "There was a discrepancy in the time of observation listed in the report.",
-        "The source of the report was considered reliable."
-    ],
-    "result": "unexplained",
-    "sighted object": "a stationary object resembling a star with a light blue tinge",
-    "location": "San Jose, California",
-    "witnesses": "a single observer",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted resembling a star with a light blue tinge in San Jose, California on 28 September 1964.",
+    "interesting points": "The object was observed at a stationary elevation and did not twinkle., The observation was made at approximately 60 to 70 degrees altitude from the horizon., The source of the sighting was reported as military and is considered reliable., An error in the elevation recorded was noted, which should have been 45 degrees., There is a discrepancy regarding the time of observation which was listed as insufficient data.",
+    "sighted object": "An object resembling a star with a light blue tinge",
+    "location": "San Jose, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer in San Jose, California",
+    "contains photographs": false
 }

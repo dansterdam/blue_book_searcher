@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A witness observed a bright white light in the western sky over Dayton, Ohio on March 15, 1967.",
-    "interesting points": [
-        "The object remained stationary and was believed to be an Astro (Venus) by the observers.",
-        "On another night, the object was reported to be moving.",
-        "An observer called on March 13, 1967 to say they saw the planet Mars.",
-        "The object appeared to be four times larger than a star and moved in erratic patterns.",
-        "The object disappeared and reappeared several times during the sighting."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "Observers on two different dates saw a bright white light in the western sky near Dayton, Ohio, believing it to be an astronomical object.",
+    "interesting points": "The UFO was first thought to be Venus and remained stationary during the initial sighting., On another occasion, the object was reported to be moving., One witness reported seeing Mars instead of the UFO a few days later., The sighting lasted approximately 10 minutes and was observed by multiple witnesses., There were no photographs or physical evidence associated with the sighting.",
     "sighted object": "a bright white light",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilians",
-    "photographs": "no"
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians observing the night sky",
+    "contains photographs": false
 }

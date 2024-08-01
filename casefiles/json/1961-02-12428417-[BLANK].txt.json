@@ -1,17 +1,9 @@
-Here is a JSON summary of the key points from the UFO report:
-
 {
-    "main event": "The document discusses the U.S. Air Force's investigation into unidentified flying objects (UFOs) through the Project Blue Book program.",
-    "interesting points": [
-        "The Air Force has received a steady stream of UFO reports since 1947, with over 6,700 reported sightings by 1960.",
-        "The Air Force's objectives were to determine if UFOs posed a threat, had scientific value, and how they factored into the sky surveillance program.",
-        "Most reported UFO sightings were found to be misidentifications of natural objects and phenomena, such as meteors, balloons, and aircraft.",
-        "A small percentage of reported UFO cases could not be logically explained, but there was a lack of scientific data to conduct a definitive investigation.",
-        "The concept of UFOs being extraterrestrial visitors has a strong emotional appeal, despite the lack of scientific evidence to support it."
-    ],
-    "result": "The Air Force concluded that the majority of UFO reports were not a threat and were likely misidentifications, though a small percentage remained unexplained.",
-    "sighted object": "Unidentified flying objects (UFOs) of various shapes, colors, and behaviors",
-    "location": "United States",
-    "witnesses": "Civilian and military observers",
-    "photographs": "No photographs included in the provided document"
+    "main event": "Request for a briefing by ATIC on UFO programs for an audience at the Institute of Technology.",
+    "interesting points": "The briefing is tentatively scheduled for 9 February with a 50-minute presentation,The document highlights that UFO sightings have increased since 1947, with an average of better than one sighting a day,Many sightings are not reported through official channels but to newspapers and civilian groups,The document states that the majority of sightings can be attributed to misidentifications, and very few remain unexplained,There is a discussion on the psychological and emotional impact of UFO reports on the public.",
+    "sighted object": "Unidentified flying objects (UFOs)",
+    "location": "Wright-Patterson Air Force Base, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not applicable as the document discusses general UFO reports rather than specific sightings.",
+    "contains photographs": false
 }

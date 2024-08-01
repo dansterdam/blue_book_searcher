@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A sighting of an unidentified flying object was reported by two aircraft over the North American continent in 1962.",
-    "interesting points": [
-        "The object was first observed by an F-135A aircraft at 35,000 feet and 450 knots, appearing at 065 degrees true azimuth.",
-        "The object was reported to be of unknown size.",
-        "After the initial sighting, the object separated into approximately 12 pieces, each with a red tail, and disappeared to the east.",
-        "A second aircraft, while flying at 37,000 feet, also observed the object for about 3 minutes, reporting it moved from west to east and disappeared at 130 degrees.",
-        "The sightings were investigated as part of Project Blue Book, the U.S. Air Force's systematic study of unidentified flying objects."
-    ],
-    "result": "unidentified",
-    "sighted object": "unidentified flying object",
-    "location": "North American continent",
-    "witnesses": "two aircraft",
-    "photographs": "no"
+    "main event": "A sighting of unusual objects was reported in Manitowoc, Wisconsin on September 8, 1962, involving saucer-shaped, silver objects that appeared to be rotating and flying at an estimated altitude of 4,500 feet.",
+    "interesting points": "The sighting lasted approximately 23 minutes,The objects were estimated to travel at speeds between 300-400 mph,Additional investigations may be warranted as the sighting remains classified as unidentified,The report was submitted by G. Yes Pittman,The event was part of the United States Air Force's Project Blue Book.",
+    "sighted object": "saucer-shaped silver objects",
+    "location": "Manitowoc, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "G. Yes Pittman, who observed the sighting.",
+    "contains photographs": false
 }

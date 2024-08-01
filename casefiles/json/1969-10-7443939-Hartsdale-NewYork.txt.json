@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a metallic, bright object moving at high speed across the sky in Hartsdale, New York on October 4, 1969.",
-    "interesting points": [
-        "The object was as bright as a strip of magnesium ribbon burning.",
-        "The object moved silently, except for a brief moment when it went up about 200 feet and then quickly dropped back to its original altitude.",
-        "The sighting lasted for around 5 minutes.",
-        "The observer requested an investigation by the Air Force.",
-        "The Air Force replied that the information provided was not sufficient for a scientific investigation and requested the observer complete an additional form."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a metallic, bright object",
-    "location": "Hartsdale, New York",
-    "witnesses": "one individual",
-    "photographs": "no"
+    "main event": "An observer reported a UFO sighting in Hartsdale, New York on October 4, 1969, describing the object as moving North to South at about 1,100 M.P.H.",
+    "interesting points": "The sighting was reported as taking place on an extremely clear night,The UFO was described as metallic and tremendous in size,The object was as bright as magnesium ribbon burning,The observer noted that the object was completely silent except for one instance where it ascended quickly,The report indicates conflicting dates regarding the sighting on the provided forms.",
+    "sighted object": "a large metallic UFO",
+    "location": "Hartsdale, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An individual who reported the UFO to the Air Force.",
+    "contains photographs": false
 }

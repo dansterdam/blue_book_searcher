@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO was seen by the witness and several other people near a highway in Newburg, Missouri on May 3, 1967.",
-    "interesting points": [
-        "The object was described as round, about 80 feet in diameter, with a bright light in the center surrounded by other smaller bright lights.",
-        "The object was hovering at a low level above the trees and made no sound.",
-        "At one point, the central light went dark and the object seemed to be pulsing dimly.",
-        "When the object took off, it accelerated rapidly and disappeared from sight.",
-        "The witness observed the object for about 15 minutes."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a round object about 80 feet in diameter with a bright light in the center surrounded by other smaller bright lights",
-    "location": "Newburg, Missouri",
-    "witnesses": "the witness and a number of other people",
-    "photographs": "no"
+    "main event": "A UFO was observed by multiple witnesses near a highway in Newburg, Missouri on May 3, 1967.",
+    "interesting points": "The object was described as round, approximately 80 feet in diameter, and had a bright light in the center surrounded by smaller lights.,Witnesses observed the object for about 15 minutes while it hovered at a low level above the trees.,The object made no sound during the observation.,At one point, the central light went dark and the object appeared to pulse dimly.,The UFO accelerated rapidly and disappeared from sight when it took off.",
+    "sighted object": "a round UFO with bright lights",
+    "location": "Newburg, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "David Eckert and a number of other witnesses",
+    "contains photographs": false
 }

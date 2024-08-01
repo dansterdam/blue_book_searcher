@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer in Canada reported seeing a round, bright, single white light moving across the sky on June 8, 1962.",
-    "interesting points": [
-        "The object was about the size of a basketball and was observed at an altitude of approximately one mile.",
-        "The object was silver in color and appeared to be maneuvering slightly.",
-        "The sighting lasted for a total of 75 minutes.",
-        "The object was initially thought to be a weather balloon, but it was observed to be traveling contrary to the upper winds.",
-        "No radar returns were detected from the object, and no other reports were received."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian observer reported a sighting of a round, bright white light moving across the sky for 75 minutes on June 2, 1962.",
+    "interesting points": "The sighting occurred in dark, clear weather conditions., The object was observed to have slight maneuvering., The light was about the size of a basketball and appeared one mile high., The observer initially thought it was a balloon but noted it could not be adequately explained., The object was heading south against the wind direction.",
     "sighted object": "round, bright, single white light",
-    "location": "Canada",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "location": "Dawson Creek, British Columbia, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One (1) round sphere, a silver in color, and estimated to be about 1/2 of the size of a basketball, observed to the vicinity of some railroad tracks in Harrisburg, Pennsylvania.",
-    "interesting points": [
-        "The object was observed at 0117 on June 2-6, 1955.",
-        "The object was described as a round, silver sphere about half the size of a basketball.",
-        "No further evidence was available after the sighting.",
-        "The intelligence officer suggested the sighting may have been an optical illusion.",
-        "The conclusions were inconclusive, listing possibilities of a balloon, aircraft, or insufficient data."
-    ],
-    "result": "inconclusive",
-    "sighted object": "one silver, round sphere about half the size of a basketball",
-    "location": "Harrisburg, Pennsylvania",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A silver round sphere, estimated to be about half the size of a basketball, was observed near railroad tracks in Harrisburg, Pennsylvania on June 6, 1955.",
+    "interesting points": "The object was noted to be silver in color and approximately 1/2 the size of a basketball., The observation was classified as visual., The exact duration of the sighting was not determined., It was reported that there were no known aircraft activities in the area at the time., The intelligence officer suggested the sighting might indicate an optical illusion.",
+    "sighted object": "one round silver sphere",
+    "location": "Harrisburg, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses listed",
+    "contains photographs": false
 }

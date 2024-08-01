@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright, star-like object that appeared as three lights was observed for over 5 hours in the early morning near Xenia, Ohio.",
-    "interesting points": [
-        "The object appeared highly magnified and was visible from around 4:30 AM to 5:30 AM.",
-        "The object's position remained relatively fixed, leading to an astrological check that determined it was likely the planet Venus.",
-        "Clouds in the area caused the object's lights to fade in and out during the later part of the sighting.",
-        "A separate sighting near Xenia described an object emitting a pulsating light, hovering about 100 feet off the ground, and moving at around 50 mph.",
-        "The second object was reportedly 30 feet in diameter and at one point appeared to split into two smaller objects."
-    ],
-    "result": "Inconclusive, with the first object likely identified as Venus and the second remaining unexplained.",
-    "sighted object": "A bright, star-like object that appeared as three lights, and a separate 30-foot diameter object emitting pulsating light.",
-    "location": "Near Xenia, Ohio",
-    "witnesses": "Mrs. [redacted] and an unnamed witness.",
-    "photographs": "None"
+    "main event": "A witness reported observing a bright object that appeared as three lights hovering and moving slowly over Xenia, Ohio, for an extended period.",
+    "interesting points": "The sighting lasted for about 5 hours, The object looked like a very bright star but often appeared as three separate lights, The witness noted that the lights faded out when clouds moved in front of them, Another report suggested the object affected a car's motor as it passed overhead, An astro-check identified the object as Venus.",
+    "sighted object": "a bright object often appearing as three lights",
+    "location": "Xenia-Bellbrook, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted], who observed the object from approximately 4:30 to 5:30 A.M.",
+    "contains photographs": false
 }

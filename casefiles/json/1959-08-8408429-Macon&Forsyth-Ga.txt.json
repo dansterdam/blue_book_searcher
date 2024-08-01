@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright unidentified object was observed over Macon and Forsyth, Georgia on May 16, 1959 around 6:10 PM.",
-    "interesting points": [
-        "The object was reported to have characteristics similar to a rocket with a trail, but did not behave like a typical aircraft.",
-        "The object appeared to be stationary and was observed for some time.",
-        "The object was described as very bright.",
-        "Limited information is available about this sighting.",
-        "The report indicates the Air Technical Intelligence Center at Wright-Patterson AFB was made aware of this incident."
-    ],
-    "result": "unexplained",
-    "sighted object": "a very bright unidentified object",
-    "location": "Macon and Forsyth, Georgia",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no photographs available"
+    "main event": "A series of UFO sightings were reported in Macon and Forsyth, Georgia on August 6, 1959.",
+    "interesting points": "The first sighting was described as a blob of light that turned silver metallic and elongated, The object was noted to have no human features or sound, Some witnesses reported a larger-than-average saucer shape, Several witnesses included a civilian and a police officer, The investigation was unable to find any aircraft in the area.",
+    "sighted object": "a silver metallic object changing shape",
+    "location": "Macon and Forsyth, Georgia, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "four civilians and a police officer, one male civilian in particular was approximately 30 years old, around 5'10\" tall, and had whitish hair",
+    "contains photographs": false
 }

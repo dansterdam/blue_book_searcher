@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two unidentified objects or lights were photographed in the sky over El Paso, Texas on February 22, 1950.",
-    "interesting points": [
-        "The photograph is from a Project Blue Book UFO report document.",
-        "The photograph shows two unidentified objects or lights in the sky against a hazy or cloudy background.",
-        "No humans are visible in the photograph.",
-        "The report is from the Foreign Technology Division of the Air Force Systems Command.",
-        "The report is marked as UNCLASSIFIED."
-    ],
-    "result": "unexplained",
+    "main event": "A report from Project Blue Book detailing a UFO sighting in El Paso, Texas on February 22, 1950.",
+    "interesting points": "The report includes a reference to a photograph showing two unidentified objects or lights in the sky., The photograph is in black and white and set against a hazy or cloudy background., No humans are visible in the image., The objects are possibly identified as UFOs., The report is unclassified and comes from the Foreign Technology Division, AFSC.",
     "sighted object": "two unidentified objects or lights in the sky",
-    "location": "El Paso, Texas",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes a photograph"
+    "location": "El Paso, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not applicable; no humans visible in the photograph",
+    "contains photographs": false
 }

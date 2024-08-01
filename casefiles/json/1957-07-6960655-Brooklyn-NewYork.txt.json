@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Brooklyn, New York reported seeing a yellow-orange object in the sky on July 2, 1957.",
-    "interesting points": [
-        "The object appeared to be two bright-red lights that pulsed and then winked out.",
-        "The object moved rapidly to the west and then disappeared.",
-        "The witness observed the object for 10-15 seconds.",
-        "The report indicates the object may have been a helicopter.",
-        "The weather conditions are described, including cloud cover and wind speeds at various altitudes."
-    ],
-    "result": "inconclusive",
-    "sighted object": "yellow-orange object with two bright-red pulsing lights",
-    "location": "Brooklyn, New York",
-    "witnesses": "civilian witness",
-    "photographs": "no"
+    "main event": "A civilian reported seeing an object that appeared to be two yellow-orange lights connected by a series of smaller lights in Brooklyn, New York on July 1, 1957.",
+    "interesting points": "The object hovered for 10 to 15 seconds before moving rapidly to the west and disappearing., The lights were described as bright-red and pulsing., There were no sounds or trails associated with the object., The observations were made with 8X-powered field glasses., The sighting may have been mistaken for a helicopter.",
+    "sighted object": "two yellow-orange lights connected by smaller lights",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian named Mr Yellow-orange",
+    "contains photographs": false
 }

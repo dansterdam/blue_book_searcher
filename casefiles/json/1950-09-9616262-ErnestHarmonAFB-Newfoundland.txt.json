@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO report from Project Blue Book recorded at Ernest Harmon AFB in Newfoundland on September 2, 1950, reported a ground-visual observation of one unidentified object moving east, with insufficient data for evaluation and no physical evidence or photographs.",
-    "interesting points": [
-        "The report was sourced from the military, adding credibility to the observation.",
-        "Three objects were sighted during a flight from Goose Bay to Ernest Harbor, with one major lozenge-shaped object and two minor circular objects maintaining a constant altitude before disappearing rapidly.",
-        "The observation lasted 40 minutes, indicating a prolonged sighting of the major object.",
-        "The report was declassified after 12 years, according to DOD DIR 5200.10.",
-        "Despite the observation, there was insufficient data for evaluation, leaving the sighting unexplained."
-    ],
-    "result": "unexplained",
-    "sighted object": "one large lozenge-shaped object, two smaller circular objects",
+    "main event": "An observer at Ernest Harmon AFB reported feeling a hand turn while noticing a silhouette behind him, but upon investigation, nothing was found.",
+    "interesting points": "The sighting occurred at 0220 hours on September 2, 1950., The observer was located on the east end of the runway., There were no photographs included in the report., The report concludes there is insufficient data for evaluation., Previous observations from flight crews included a large lozenge-shaped object and smaller circular objects.",
+    "sighted object": "silhouette of a person",
     "location": "Ernest Harmon AFB, Newfoundland",
-    "witnesses": "military personnel, flight crew",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "an observer at the airbase",
+    "contains photographs": false
 }

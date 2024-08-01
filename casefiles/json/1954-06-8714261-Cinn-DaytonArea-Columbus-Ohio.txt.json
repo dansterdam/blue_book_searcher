@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the JSON summary:
-
 {
-    "main event": "Multiple reports of a silvery, round object sighted in the sky over the Dayton, Ohio area on June 26, 1954",
-    "interesting points": [
-        "The object was sighted by various observers including a charter flight, Dayton Tower, Zanesville Radio, Lockbourne AFB, and Mansfield, Ohio",
-        "The object was reported to be at an altitude of approximately 13,000-20,000 feet",
-        "The object was described as a 'metallic blob' that was reflecting sunlight",
-        "Pilots circled the object at around 20,000 feet while passengers observed it",
-        "The object was moving against the wind and was tracked for over an hour"
-    ],
-    "result": "unexplained",
-    "sighted object": "silvery, round object",
-    "location": "Dayton, Ohio area",
-    "witnesses": "Pilots, air traffic controllers, military personnel",
-    "photographs": "no photographs present in the document"
+    "main event": "Multiple sightings of a round silvery object over Columbus, Ohio, on June 25-26, 1954, reported by various observers including a transcontinental airliner crew.",
+    "interesting points": "The object was described as a 'metallic blob' by an Army colonel,The crew of the airliner and 53 passengers witnessed the object from about 20,000 feet,The object was reportedly sighted by multiple observers including a charter flight captain and military personnel,The sightings were confirmed by reports from different entities including the Cincinnati ARTC,Observers reported the object moving at an altitude of approximately 13,000'-20,000' and had unclear data regarding its size or speed.",
+    "sighted object": "round silvery object",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 54,
+    "witness description": "crew and passengers of a United Airlines flight and various military personnel",
+    "contains photographs": false
 }

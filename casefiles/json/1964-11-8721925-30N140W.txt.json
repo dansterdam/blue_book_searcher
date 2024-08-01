@@ -1,15 +1,9 @@
 {
-    "main event": "An object appeared like a light at a high altitude, moving slowly across the sky.",
-    "interesting points": [
-        "The object was observed for 10 seconds.",
-        "The object was heading 335 degrees.",
-        "The object was evaluated as the ECHO II satellite.",
-        "The observation was made by military personnel.",
-        "No photographs were taken of the object."
-    ],
-    "result": "ECHO II satellite",
-    "sighted object": "a light moving slowly across the sky",
+    "main event": "An object was observed in the sky, evaluated as the ECHO II satellite, on December 17, 1964.",
+    "interesting points": "The observation lasted for 10 seconds and was made visually from the ground,It was reported moving slowly at a high altitude,The object appeared as a light and was on a course of 335,The sighting was confirmed to be related to the ECHO II satellite,The report originated from a military source.",
+    "sighted object": "a light in the sky",
     "location": "30N 140W",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A circular, football-shaped object was sighted by a commercial pilot and one adult over Meridian, Idaho on October 23, 1963.",
-    "interesting points": [
-        "The object approached at 1 to 2 degrees, hovered overhead, then disappeared in 6 to 8 seconds before reappearing 2 or 3 minutes later.",
-        "The object emitted a deep, pulsating, loud, and extremely irritating sound.",
-        "The object hovered for 4.5 minutes, gained altitude, flew south for 2 minutes, then hovered for 0.5 minutes, for a total observation time of 6 minutes.",
-        "The object was sighted by both radar and visually.",
-        "The report indicates that the sighting has certain classified characteristics."
-    ],
-    "result": "unidentified",
-    "sighted object": "circular, football-shaped object",
-    "location": "Meridian, Idaho",
-    "witnesses": "commercial pilot and one adult",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Meridian, Idaho on October 23, 1963, involving radar and visual contact with a circular object.",
+    "interesting points": "The object was visible for 6 minutes,The object hovered over the area before disappearing and reappearing,It was observed by a commercial pilot and one adult,The sighting was recorded by both ground radar and visually,The object emitted a deep, pulsating sound that was described as irritating.",
+    "sighted object": "circular object",
+    "location": "Meridian, Idaho, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a commercial pilot and one adult",
+    "contains photographs": false
 }

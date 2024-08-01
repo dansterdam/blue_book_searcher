@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Columbus, Indiana reported seeing a single unidentified aerial object for 4.5 minutes on November 30, 1955.",
-    "interesting points": [
-        "The object was described as flying in a southeast-northwest direction.",
-        "The observer reported that photographs were taken, but the report states that no physical evidence was found.",
-        "The Air Force concluded that there was 'insufficient data for evaluation' and took no further action on the case.",
-        "In a later follow-up, the Air Force determined that the object was likely a satellite and notified the observer that no further action was required.",
-        "The report includes a handwritten diagram or sketch, but no photographs were provided."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "single unidentified aerial object",
-    "location": "Columbus, Indiana",
-    "witnesses": "civilian",
-    "photographs": "yes, but no physical evidence found"
+    "main event": "A civilian reported seeing a bright unidentified flying object over Columbus, Indiana on 30 November 1966.",
+    "interesting points": "The object was observed for a total of 4.5 minutes,The course of the object was noted as traveling from SE to NW,The report concluded that it was likely a satellite based on the review,The witness mentioned that the object appeared oval and resembled a pie plate in size,The report contained a checklist for UFO observations but no photographs were submitted.",
+    "sighted object": "one bright unidentified flying object",
+    "location": "Columbus, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

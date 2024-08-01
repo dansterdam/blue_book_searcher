@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright star-like object appeared to move in and out of the clouds over Toms River, New Jersey on March 21, 1966.",
-    "interesting points": [
-        "The object did not drop over the horizon like a satellite normally would.",
-        "The observer stated the object's motion was erratic, moving in and out of clouds.",
-        "The observer contacted local authorities and the press, but no one could identify the object.",
-        "The observer did not make any definitive claims about the nature of the object, stating they did not know what it was.",
-        "The observer questioned why it takes so long for the government to identify and inform the public about unidentified objects spotted in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright, star-like object",
-    "location": "Toms River, New Jersey",
-    "witnesses": "A civilian observer",
-    "photographs": "no"
+    "main event": "A citizen observed a bright star-like object that appeared to move in and out of the clouds over Toms River, New Jersey.",
+    "interesting points": "The sighting lasted for about 10 to 15 minutes,The object did not drop over the horizon as expected for a satellite,The object changed directions during the observation,The observation was reported to have prompted multiple calls to the State Police from other observers,The investigator noted that the object could have been an aircraft or satellite but could not confirm its identity.",
+    "sighted object": "bright star-like object",
+    "location": "Toms River, New Jersey, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "The observer was a citizen who initially believed it might be a satellite.",
+    "contains photographs": false
 }

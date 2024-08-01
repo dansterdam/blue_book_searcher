@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A pilot observed four elongated white lights flying at high speed over Burlington, Vermont, making a sudden 90-degree turn and disappearing behind a cloud layer.",
-    "interesting points": [
-        "The lights were observed at an altitude of 5,000 feet, flying from south to north.",
-        "The sighting lasted for only 2-3 minutes.",
-        "Other similar sightings were reported in the Proctor, Vermont area around the same time.",
-        "The report includes detailed weather information, including surface and high-altitude wind speeds and directions.",
-        "The pilot's estimate of the reliability of the sighting was described as 'good'."
-    ],
-    "result": "Insufficient data for evaluation",
+    "main event": "A pilot observed 4 elongated white lights flying over Burlington, Vermont, which made a sudden 90-degree turn and disappeared behind a cloud layer.",
+    "interesting points": "The sighting lasted for only 2-3 minutes.,The pilot was flying at a steady altitude of 5000 ft.,The lights were flying from south to north at high speed.,The report indicates insufficient data for definitive evaluation.,Other sightings were reported in the Proctor, Vermont area at the same time.",
     "sighted object": "four elongated white lights",
-    "location": "Burlington, Vermont",
-    "witnesses": "pilot",
-    "photographs": "no"
+    "location": "Burlington, Vermont, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a pilot",
+    "contains photographs": false
 }

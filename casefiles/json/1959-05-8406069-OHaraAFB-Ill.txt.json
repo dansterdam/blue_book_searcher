@@ -1,17 +1,9 @@
-```json
 {
-    "main event": "An object was observed hovering over O'Hare Air Force Base, Illinois on the afternoon of May 8, 1959.",
-    "interesting points": [
-        "The object was sighted for approximately 5 minutes.",
-        "The Project Blue Book record card lists several possible explanations for the sighting, including balloon, aircraft, and astronomical.",
-        "A later letter from Major Lawrence J. Tacker states that the object in the attached photograph was determined to be due to a processing defect and not a real object.",
-        "The report indicates that the witness was a reliable observer and that there was no record of any activity in the vicinity at the time of the sighting.",
-        "The Air Technical Intelligence Center analyzed the submitted photograph and determined that it was not suitable for analysis as no pattern or structure was visible that might lead to an explanation."
-    ],
-    "result": "unknown",
-    "sighted object": "an unidentified hovering object",
-    "location": "O'Hare Air Force Base, Illinois",
-    "witnesses": "unspecified",
-    "photographs": "yes, photographs were submitted but determined to be unsuitable for analysis"
+    "main event": "Multiple reports and correspondence related to UFO sightings at O'Hare Air Force Base from 1957 to 1960.",
+    "interesting points": "One sighting involved an object hovering over O'Hare AFB for approximately 5 minutes,The opinions of the Air Technical Intelligence Center generally suggested identified aircraft or balloons as explanations,There was a reliable witness who reported an object moving erratically with no visible means of propulsion,One of the photographs submitted was considered unidentifiable and attributed to processing defects,Major L.J. Tacker returned several negatives, indicating they were not suitable for analysis.",
+    "sighted object": "unknown flying object",
+    "location": "O'Hare AFB, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "reliable observer at O'Hare AFB.",
+    "contains photographs": false
 }
-```

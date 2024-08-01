@@ -1,15 +1,9 @@
 {
-  "main event": "A bright yellow ball of fire resembling a falling star was observed in Tampa, Florida in 1958. It traveled north, then east, orbited, and eventually disappeared.",
-  "interesting points": [
-    "The observation lasted for 5 minutes.",
-    "The object was seen traveling in different directions before disappearing, indicating an unconventional flight path.",
-    "The source of the observation was a civilian.",
-    "The report indicates a probability of an aircraft due to the description, duration, and flight path.",
-    "The conclusion was that there was insufficient data for evaluation, leaving the object as 'Unknown'."
-  ],
-  "result": "Unknown",
-  "sighted object": "Bright yellow ball of fire",
-  "location": "Tampa, Florida",
-  "witnesses": "Civilian",
-  "photographs": "No"
+    "main event": "A civilian witnessed a bright yellow ball of fire, resembling a falling star, traveling North, then East, orbiting before it disappeared.",
+    "interesting points": "The sighting lasted for 5 minutes,The object had an appearance similar to a falling star,The observed course was North then East,The report concluded there was insufficient data for evaluation,The report included notes suggesting characteristics of an aircraft.",
+    "sighted object": "a bright yellow ball of fire",
+    "location": "Tampa, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

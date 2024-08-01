@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "Two disc-shaped objects were observed over Twin Falls, Idaho for 3-5 minutes on July 30, 1963.",
-    "interesting points": [
-        "The objects exhibited erratic flight patterns, including vertical ascent and descent, hovering, and high-speed maneuvers.",
-        "The objects were described as having luminous, white-like lights and being approximately the size of a large star.",
-        "The objects were observed by multiple witnesses for around 45 minutes.",
-        "The objects were not detected on radar.",
-        "The case was investigated and reviewed by Project Blue Book, but the objects could not be identified."
-    ],
-    "result": "unknown",
+    "main event": "Unidentified flying objects were observed over Twin Falls, Idaho, on July 29-30, 1963.",
+    "interesting points": "The observation lasted between 3 to 5 minutes., The objects were described as 2 disc-shaped., The course of the objects was erratic., No photographs or physical evidence were obtained., The report was reviewed and classified as unknown.",
     "sighted object": "two disc-shaped objects",
-    "location": "Twin Falls, Idaho",
-    "witnesses": "multiple",
-    "photographs": "no"
+    "location": "Twin Falls, Idaho, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "None provided in the report",
+    "contains photographs": false
 }

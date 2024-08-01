@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a bright, white, star-like object moving across the sky over Kingston, New York on June 13, 1965.",
-    "interesting points": [
-        "The object appeared to be joining up with another star in the sky.",
-        "The object moved across the sky in an erratic, back-and-forth horizontal motion.",
-        "The object was observed for about 15 minutes, which is longer than a typical satellite sighting.",
-        "The object was described as unusually large and bright compared to the other stars in the sky.",
-        "Binoculars were used to try to get a better look at the object, but they were ineffective."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, white, star-like object",
-    "location": "Kingston, New York",
-    "witnesses": "a civilian observer",
-    "photographs": "no photographs were taken"
+    "main event": "A civilian observed a star-like object with a whitish-yellow tinge moving across the sky near Kingston, New York, on August 16, 1965.",
+    "interesting points": "The object was observed for about 5 minutes, It appeared stationary for a duration before moving in a northerly direction, The observer used binoculars but could not obtain clear details, There's a conclusion suggesting it could be a satellite (ECHO II), The sighting's duration was inconsistent with typical satellite behavior.",
+    "sighted object": "star-like object with a yellowish tinge",
+    "location": "Kingston, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A 33-year-old resident with a degree in Business/Psychology and an unnamed 16-year-old student observed the object.",
+    "contains photographs": false
 }

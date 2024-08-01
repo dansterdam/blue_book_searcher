@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
     "main event": "Two objects that began as a single object, moved away from each other, then returned and joined again.",
-    "interesting points": [
-        "The report is from the same officer who previously reported a similar incident earlier on the same day.",
-        "The sighting included a radar observation in addition to the visual observation.",
-        "The sighting took place in Tampa, Florida on April 13, 1963.",
-        "The case was investigated by the Air Force office at Washington National Airport.",
-        "The report was forwarded to the Air Force by the Florida Governor's Office."
-    ],
-    "result": "unexplained",
-    "sighted object": "two objects that split apart and then rejoined",
-    "location": "Tampa, Florida",
-    "witnesses": "a single officer",
-    "photographs": "no"
+    "interesting points": "The sighting was recorded with radar observations., The report comes from the same officer who reported a similar incident earlier on the same day., The report is part of the U.S. Air Force's Project Blue Book program., The incident occurred in the vicinity of Tampa, Florida., The report was forwarded to the Air Force office for further investigation.",
+    "sighted object": "two objects that separated and joined again",
+    "location": "Tampa, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Officer who reported the incident",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A large disk-shaped object with a dome on top was observed hovering over Big Moose Lake, descending into the water, and then ascending at a high rate of speed on edge.",
-    "interesting points": [
-        "The object and a companion object were flashing on Big Moose Lake during the observation.",
-        "The observation was reported by Dr. [REDACTED] and Lt. [REDACTED] on November 1, 1953.",
-        "The Air Technical Intelligence Center received a long-distance telephone call from Dr. [REDACTED] at 1445 EST on November 4, 1953 to report the sighting.",
-        "The report was part of Project Blue Book, an official Air Force investigation of UFO sightings.",
-        "The incident was later assessed to be a hoax, as the address provided for Lt. Anderson was found to be fictitious."
-    ],
-    "result": "hoax",
-    "sighted object": "large disk-shaped object with a dome on top",
-    "location": "Big Moose Lake, New York",
-    "witnesses": "Dr. [REDACTED] and Lt. [REDACTED]",
-    "photographs": "none"
+    "main event": "Dr. [REDACTED] and Lt. [REDACTED] observed a large disk-shaped object with a dome hovering over Big Moose Lake, which descended into the water and then ascended at a high rate of speed.",
+    "interesting points": "The observation date was November 1, 1953, and the report was received on November 4, 1953, via telephone., The object was described as disk-shaped and hovering above the lake., Flashing lights were observed on the object at the time of observation., The report was part of Project Blue Book, which involved analyzing UFO sightings., There are mentions of declassified protocols regarding the documentation of UFOs.",
+    "sighted object": "large disk-shaped object with a dome",
+    "location": "Big Moose Lake, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Dr. [REDACTED] and Lt. [REDACTED]",
+    "contains photographs": false
 }

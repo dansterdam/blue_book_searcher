@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A disc-shaped object, green and white in color, was observed over Ping Geung, Formosa on January 12, 1959.",
-    "interesting points": [
-        "The object appeared stationary and the observer could not close on it.",
-        "The object faded from sight after 15 minutes of observation.",
-        "The sighting was made by ground-based radar.",
-        "The report states there was no definite conclusion or evaluation of the sighting.",
-        "The sighting was classified as 'unknown'."
-    ],
-    "result": "unknown",
-    "sighted object": "disc-shaped object, green and white in color",
+    "main event": "A stationary green and white disc was observed over Ping Geung, Formosa, for approximately 15 minutes on January 12, 1959.",
+    "interesting points": "The object remained stationary and the bat could not close in on it.,The object faded from sight after the observation.,This incident was documented by the Air Force under Project Blue Book.,There was no definite conclusion reached regarding the object's nature.,The sighting was classified under ground-radar type observation.",
+    "sighted object": "green and white disc",
     "location": "Ping Geung, Formosa",
-    "witnesses": "ground radar",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "One unidentified witness",
+    "contains photographs": false
 }

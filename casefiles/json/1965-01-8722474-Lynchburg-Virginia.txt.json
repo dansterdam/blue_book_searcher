@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A military aircraft crew (two pilots and one observer) spotted a metallic or glass-like object that remained relatively stationary and was tracked on radar for approximately 2 minutes and 30 seconds in Lynchburg, Virginia on October 26, 1965.",
-    "interesting points": [
-        "The object was visually observed by the crew for approximately 12 minutes.",
-        "The object appeared to be metallic or glass-like in appearance and emitted no exhaust or sound.",
-        "The object hovered at an altitude estimated to be between 3,000 and 5,000 feet.",
-        "Ground radar indicated the object remained stationary during the observation period.",
-        "The crew members were unable to determine the exact size, shape, or altitude of the object."
-    ],
-    "result": "unidentified",
-    "sighted object": "a metallic or glass-like object",
-    "location": "Lynchburg, Virginia",
-    "witnesses": "military aircraft crew (two pilots, one observer)",
-    "photographs": "none"
+    "main event": "Two disc-shaped objects were observed hovering in the southwest sky over Lynchburg, Virginia on 8 Jan 1965.",
+    "interesting points": "The objects were silver in color and approximately 60-80 feet in diameter., They were observed for about 5 minutes before accelerating rapidly and disappearing from view., The objects moved silently and smoothly with no visible means of propulsion., The sighting was corroborated by several additional witnesses from various locations in Lynchburg., The report concluded with the case closed, indicating no further details were available.",
+    "sighted object": "two disc-shaped objects",
+    "location": "Lynchburg, Virginia, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "military aircraft crew (two pilots, one observer) and additional witnesses",
+    "contains photographs": false
 }

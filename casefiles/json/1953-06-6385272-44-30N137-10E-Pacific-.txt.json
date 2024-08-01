@@ -1,15 +1,9 @@
 {
-  "main event": "During the night of 5 June 1953, a crew member sighted 3 bright objects moving rapidly toward the west, and observed them for about 5 minutes. The crew member felt that the objects were unidentified.",
-  "interesting points": [
-    "Location: 30-37N 137-10E (Pacific)",
-    "Number of objects: 3",
-    "Length of observation: About 5 minutes",
-    "Conclusion: Insufficient information",
-    "The crew member felt that the objects were unidentified"
-  ],
-  "result": "unexplained",
-  "sighted object": "three bright objects",
-  "location": "30-37N 137-10E (Pacific)",
-  "witnesses": "crew member",
-  "photographs": "no"
+    "main event": "On the night of 5 June 1953, a crew member sighted 3 bright objects moving rapidly toward the west.",
+    "interesting points": "The sighting lasted for about 5 minutes,The objects were observed during the night,The objects were described as bright,The crew member felt that the objects were unidentified,No photographs were reported for this observation.",
+    "sighted object": "three bright objects in the sky",
+    "location": "30-37N 137-10E, Pacific",
+    "number of confirmed witnesses": 1,
+    "witness description": "a crew member",
+    "contains photographs": false
 }

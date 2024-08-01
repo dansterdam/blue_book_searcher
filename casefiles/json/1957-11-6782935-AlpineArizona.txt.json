@@ -1,15 +1,9 @@
 {
-    "main event": "A round white object the size of a nickel was seen on a downward course moving rapidly to the west.",
-    "interesting points": [
-        "The object was still in sight at the time of the report.",
-        "The description, duration, and flight path indicate the object was probably a balloon or a 'nickel star'.",
-        "The observer was an Alpine Ranger Station house view.",
-        "The weather conditions were clear with a wind speed of 32 knots.",
-        "No photographs were taken of the object."
-    ],
-    "result": "Balloon, probably",
-    "sighted object": "round white object the size of a nickel",
-    "location": "Alpine, Arizona",
-    "witnesses": "Alpine Ranger Station house view",
-    "photographs": "no"
+    "main event": "A round white object the size of a nickel was seen moving rapidly to the west in Alpine, Arizona.",
+    "interesting points": "The object was observed for 5 minutes and 31 seconds., The object's flight path was downward., It was still in sight at the time of the report., The conclusion suggested it was probably a balloon., The object was described as a 'nickel star'.",
+    "sighted object": "one round white object",
+    "location": "Alpine, Arizona, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses mentioned",
+    "contains photographs": false
 }

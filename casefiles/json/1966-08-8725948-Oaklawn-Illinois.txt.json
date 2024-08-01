@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian observed a white object that changed movement, possibly related to a missile launch, for 10 seconds in Oaklawn, Illinois on August 2, 1966.",
-    "interesting points": [
-        "The object was reported to have changed movement.",
-        "The report concludes there was 'insufficient data for evaluation'.",
-        "The report requests the witness complete an ATIC Form 164 to provide more details.",
-        "The report is addressed to a civilian witness in Oaklawn, Illinois.",
-        "The report is signed by Colonel James C. Manatt, Director of Technology and Systems."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "white object that changed movement",
-    "location": "Oaklawn, Illinois",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On 2 August 1966, a civilian reported observing a white object in Oaklawn, Illinois, which changed movement and was presumed related to a missile launch.",
+    "interesting points": "The observation lasted for approximately 10 seconds., The object was moving north at the time of the sighting., Multiple witnesses reported seeing unusual activity in the area., Witnesses described the object as disc-shaped with a soft blue-white light., The report concluded that there was insufficient data for evaluation.",
+    "sighted object": "a white object",
+    "location": "Oaklawn, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians in Oaklawn",
+    "contains photographs": false
 }

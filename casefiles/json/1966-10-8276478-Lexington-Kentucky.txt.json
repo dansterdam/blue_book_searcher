@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer in Lexington, Kentucky reported seeing a star-like object in the sky that changed color, moved rapidly, and disappeared briefly over the course of an hour-long observation.",
-    "interesting points": [
-        "The object remained stationary at first, then began performing a slow, ponderous circling motion, rising towards the zenith and moving eastward.",
-        "The object displayed a 'twinkle-shrink' or 'pulse' motion, where the central portion would appear intensely bright, then slowly contract and suddenly expand back to its original size.",
-        "The observer used binoculars to collect data on this unusual and continuous observation for 5-10 minutes.",
-        "The Air Force requested that the observer complete a Project Blue Book report form to provide more details for evaluation.",
-        "The Air Force letter mentions sending the observer's description to Dr. Menzel at Harvard Observatory, who was interested in studying similar observations."
-    ],
-    "result": "unexplained",
-    "sighted object": "a star-like object that changed color and moved rapidly",
-    "location": "Lexington, Kentucky",
-    "witnesses": "1 civilian observer",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A civilian observed a star-like object displaying unusual movements and colors in the sky in Lexington, Kentucky on October 3, 1966.",
+    "interesting points": "The observer noted that the object twinkled and changed colors, moving rapidly and briefly disappearing from view., The sighting lasted for about 60 minutes with continuous observations for five to ten minutes., The object exhibited slow circling motions and a pulsing effect similar to neon lights., The observer initially mistook the object for a star before realizing it was moving., The report includes a letter from Project Blue Book requesting further information on the sighting.",
+    "sighted object": "a star-like object",
+    "location": "Lexington, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian named M.D. who was returning home from a scout meeting.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the government UFO document:
-
 {
-    "main event": "An unidentified object was observed falling over Camp Crook, South Dakota on July 28-29, 1954.",
-    "interesting points": [
-        "The object was black with exhaust like a jet aircraft and was traveling very fast.",
-        "The object exploded once in the air and once on the ground with no sound except for the explosions.",
-        "Rapid City reported seeing 10-15 unidentified objects over the city.",
-        "Pilots who were scrambled to identify the objects believed they were caused by a thin layer of clouds and a large amount of falling stars in the area.",
-        "The report includes a series of phone calls from an airlines dispatcher and the Rapid City Filter Center about the unidentified objects."
-    ],
-    "result": "unknown",
-    "sighted object": "unidentified falling object, possibly a meteor or aircraft",
-    "location": "Camp Crook, Rapid City, South Dakota",
-    "witnesses": "military and civilian",
-    "photographs": "none"
+    "main event": "An object was observed to fall in Camp Crook, Rapid City, S.D. on 28-29 July 1954, resembling a black aircraft with jet-like exhaust and causing explosions.",
+    "interesting points": "Several explosions were reported, one in the air and one on the ground., The object traveled very fast, about the size of an aircraft., There were calls from airline dispatchers about unidentified flying objects in the area., Up to 100 objects were later reported over Rapid City., Pilots scrambled for identification thought the phenomena were possibly caused by a meteor shower.",
+    "sighted object": "a black object resembling an aircraft",
+    "location": "Camp Crook, Rapid City, S.D.",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Mister (name redacted) saw the object fall 12 miles south of the city.",
+    "contains photographs": false
 }

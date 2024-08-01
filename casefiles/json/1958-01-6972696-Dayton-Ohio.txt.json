@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three unidentified objects with blinking lights were observed in Dayton, Ohio on January 6, 1958. The source thought they were landing lights of a 'mysterious' car that stopped in front of her house.",
-    "interesting points": [
-        "The objects appeared to hover, then move away.",
-        "The objects were observed for 8-10 seconds.",
-        "The witness seemed reliable and reported the incident because of interest in the subject.",
-        "An oblong object was observed on radar at Wright-Patt AFB on March 27, 1959. It appeared to hover, then move away.",
-        "Another sighting on January 15, 1955 involved an object observed on radar that was stationary, then abruptly disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "three unidentified objects, oblong object, unidentified radar target",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian, radar operator",
-    "photographs": "no"
+    "main event": "On January 6, 1958, three unidentified objects with blinking lights were observed in Dayton, Ohio, believed to be landing lights from a mysterious car.",
+    "interesting points": "The observation occurred at dusk at 6:00 A.M.,Three objects were seen but their course was considered inconsistent due to the eccentricity of the source,The objects were thought to be landing lights of a vehicle, there were varying conclusions about what the objects could have been,Including a balloon or visual phenomenon,No photographs were included in the report.",
+    "sighted object": "three unidentified objects with blinking lights",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness believed the lights were from a 'mysterious' car",
+    "contains photographs": false
 }

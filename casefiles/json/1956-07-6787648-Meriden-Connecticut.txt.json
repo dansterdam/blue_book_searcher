@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "A long, cigar-shaped, white object was observed in the sky by a ground visual from a two-story observation post.",
-    "interesting points": [
-        "The object was observed through field glasses and appeared to be approximately 2.35 miles away.",
-        "The object was moving toward the southwest direction.",
-        "The object's brightness faded over the 15-minute observation period.",
-        "No other details about the object's movement or behavior were provided.",
-        "The weather conditions were reported as very clear."
-    ],
-    "result": "unexplained",
-    "sighted object": "long, cigar-shaped, white object",
-    "location": "N/A",
-    "witnesses": "S/SGT MOREL, Operation Tech",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A report from Project Blue Book documents the sighting of a long star-shaped object with a bright white glow on 28 July 1956.",
+    "interesting points": "The object was observed for 15 minutes,The object was moving toward the southwest,The sighting was conducted from a two-story observation post with field glasses,No photographs were included in the report despite the mention of photos,The observation conditions were described as very clear.",
+    "sighted object": "long star-shaped object with bright glow",
+    "location": "Montauk, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "S/Sgt Morel, operation tech",
+    "contains photographs": false
 }

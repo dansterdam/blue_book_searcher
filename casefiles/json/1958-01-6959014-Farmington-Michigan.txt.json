@@ -1,15 +1,9 @@
 {
-	"main event": "On January 23, 1958, in Farmington, Michigan, a civilian observed an object with the appearance of a star, larger and brighter than the eastern star, with a bright reddish glow as it passed over the horizon. The object was described as revolving with flashes.",
-	"interesting points": [
-		"The object was 7 times larger and 7 times brighter than the eastern star.",
-		"It had a bright reddish glow as it passed over the horizon and was revolving with flashes.",
-		"The observation lasted for approximately 10 minutes.",
-		"The conclusion of the sighting was that the object was the planet Venus.",
-		"A photograph showing the object is present at the bottom of the first page, although not very clear."
-	],
-	"result": "Astronomical Venus",
-	"sighted object": "star-like object with bright reddish glow",
-	"location": "Farmington, Michigan",
-	"witnesses": "Civilian",
-	"photographs": "yes, a photograph is included"
+    "main event": "A witness observed a bright object with the appearance of a star in Farmington, Michigan on January 23, 1958.",
+    "interesting points": "The object was larger and brighter than the eastern star,It emitted a bright reddish glow as it passed over the horizon,The object was observed for 10 minutes while revolving with flashes,The sighting was concluded to be the planet Venus,There is a photograph included, though it is not very clear.",
+    "sighted object": "one bright object resembling a star",
+    "location": "Farmington, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The object was described as having a reddish glow and revolving with flashes.",
+    "contains photographs": false
 }

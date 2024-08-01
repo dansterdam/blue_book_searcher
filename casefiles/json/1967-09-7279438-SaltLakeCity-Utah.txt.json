@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright white light that was brighter than the brightest star was sighted in the sky, moving from southwest to northwest.",
-    "interesting points": [
-        "The object was silent and did not make any noise.",
-        "The object stopped, hovered, and then moved again, appearing to wobble.",
-        "The object was in sight for 3 to 7 minutes.",
-        "The observer decided to stop their car to get a better look at the object.",
-        "The observer did not want any publicity and requested the report be kept confidential."
-    ],
-    "result": "Probable aircraft",
-    "sighted object": "A bright white light",
-    "location": "Salt Lake City, Utah",
-    "witnesses": "Civilian observer",
-    "photographs": "No photographs present"
+    "main event": "On September 25, 1967, a bright white light brighter than the brightest star was observed in Salt Lake City, Utah for approximately 3 minutes.",
+    "interesting points": "The observer noted the object was silent and showed no visible lights other than the bright white light itself., The object moved slowly, stopped in mid-air, and appeared to wobble., The sighting occurred about five miles from the observer, who reported visibility for about three to seven minutes., The observer's family was skeptical about the sighting, and they preferred not to publicize their report., The Air Force concluded that the sighting was probably an aircraft, but they lacked conclusive evidence due to the lack of aircraft flight records.",
+    "sighted object": "a bright white light",
+    "location": "Salt Lake City, Utah, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Male, age 15, expressed concern about public skepticism.",
+    "contains photographs": false
 }

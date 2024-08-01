@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object was observed in the sky over Colonial Hill, Pennsylvania on August 5, 1956.",
-    "interesting points": [
-        "The object was first seen in the east, moving west-northwest.",
-        "The object was an amber color, rather large in size, and very bright.",
-        "The object disappeared rapidly from view.",
-        "The object's color, formation, speed, and course appeared to be more of an unusual aircraft rather than astronomical or weather phenomena.",
-        "The case was considered to be a bona fide sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "an amber-colored, bright, and large object",
-    "location": "Colonial Hill, Pennsylvania",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "An object was observed in the sky moving from East to West-North-West for 5 seconds on August 5, 1956, in Colonial Hill.",
+    "interesting points": "The object was amber in color and very bright., The object was large in size., The object disappeared rapidly from view., The observation was conducted via ground-radar., The case is classified as probably bona fide rather than due to astronomical or weather phenomena.",
+    "sighted object": "an amber colored large object in the sky",
+    "location": "Colonial Hill, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 34-year-old Pennsylvania Air Force Station member.",
+    "contains photographs": false
 }

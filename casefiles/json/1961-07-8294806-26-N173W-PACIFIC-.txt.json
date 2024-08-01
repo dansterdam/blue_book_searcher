@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright light object was observed descending slowly in the Pacific region in 1960.",
-    "interesting points": [
-        "The object was observed varying in altitude from very high to very low, appearing to be descending slowly.",
-        "The object was observed through a telescope and with the naked eye, and it was bright and illuminating.",
-        "The pilot stated that he detected no sound and could not identify the object.",
-        "The document mentions a parallel object at 4,000-5,000 feet, with a diameter of 17.5-20 feet, heading 175 degrees, and moving at a speed of 4-6 degrees per second or 0.5-1 degree per second.",
-        "The document also mentions an object falling from south to north, and two other stationary objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light object in the sky",
-    "location": "Pacific region",
-    "witnesses": "pilot",
-    "photographs": "no"
+    "main event": "A pilot reported observing a bright light descending slowly in the Pacific Ocean on July 26, 1960.",
+    "interesting points": "The object was described as a bright light that the pilot observed through a telescope and with the naked eye., The light varied in altitude from very high to very low and was seen descending very slowly., The pilot detected no sound from the object during the observation., The sighting lasted for 30 minutes in total., The report indicates there were no identifiable aircraft in the vicinity.",
+    "sighted object": "a bright light in the sky",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "a pilot who observed the object",
+    "contains photographs": false
 }

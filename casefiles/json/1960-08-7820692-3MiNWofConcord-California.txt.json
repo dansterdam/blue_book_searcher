@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO with red and white lights, about the size of a star, was observed near Concord, California on August 20, 1960.",
-    "interesting points": [
-        "The object appeared to go straight up and then disappeared, lasting less than a minute.",
-        "The observer reported that the movement of the object was confined to a very small area.",
-        "The object's behavior was characteristic of a star-like object, and the position matched the location of the star Vega.",
-        "The sighting was confirmed by multiple witnesses, including a paper delivery boy.",
-        "The object was observed for about 5 minutes before disappearing."
-    ],
-    "result": "possible star Vega",
-    "sighted object": "a UFO with red and white lights, about the size of a star",
-    "location": "3 miles northwest of Concord, California",
-    "witnesses": "multiple witnesses, including a paper delivery boy",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A UFO sighting was reported on August 20, 1960 near Concord, California, involving an object with red and white lights that appeared star-size, observed for a brief period before disappearing.",
+    "interesting points": "The object was observed to have no noticeable trail or exhaust,It went straight up before disappearing,The sighting lasted about 3 to 5 seconds,The observer believed the object resembled the star Vega,It was confirmed that all movement of the object was in a very small area.",
+    "sighted object": "one star-size object with red and white lights",
+    "location": "Concord, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported observing an unidentified object in Langhorne, Pennsylvania on July 7, 1966.",
-    "interesting points": [
-        "The object was estimated to be 3 to 3.5 feet in diameter and seemed to be suspended in the air.",
-        "The object made no sound and hovered for about 5 minutes before accelerating and disappearing from sight within 2-3 seconds.",
-        "There were no visible vapor trails.",
-        "Another witness named Cassidy also reported observing the object on September 24, 1966.",
-        "A handwritten note mentions seeing a large circular disc-shaped object approximately 30 feet in diameter."
-    ],
-    "result": "unexplained",
-    "sighted object": "a hovering, silent object estimated to be 3-3.5 feet in diameter",
-    "location": "Langhorne, Pennsylvania",
-    "witnesses": "civilian, Cassidy",
-    "photographs": "no"
+    "main event": "On July 7, 1966, a civilian reported observing one unidentified flying object in Langhorne, Pennsylvania.",
+    "interesting points": "The object was observed hovering without any sound for about 5 minutes before it accelerated out of sight in 2-3 seconds., The observer estimated the diameter of the object to be around 3 to 3.5 feet., The sighting occurred on a clear night with no moon present., The document includes various annotations and observations but no photographic evidence., A separate note described a large circular object estimated to be about 30 feet.",
+    "sighted object": "one unidentified flying object",
+    "location": "Langhorne, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

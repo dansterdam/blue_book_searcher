@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple unidentified aerial objects were observed and photographed by US naval crews over Guantanamo Bay, Cuba on April 4, 1960.",
-    "interesting points": [
-        "The objects were described as metallic, circular in shape, and approximately 30-40 feet in diameter.",
-        "The objects were observed maneuvering at high speeds, making sharp turns, and appearing to hover.",
-        "The sightings occurred over a period of approximately 2 hours, between 0200 and 0400 hours.",
-        "No sound was heard from the objects.",
-        "The photographs and associated documentation were forwarded to Project Blue Book for further analysis and evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "metallic, circular objects approximately 30-40 feet in diameter",
+    "main event": "On April 6, 1960, unidentified aerial objects were observed in the sky over Guantanamo Bay, Cuba, and photographed by the crews of various US naval vessels.",
+    "interesting points": "The objects were metallic, circular in shape, and approximately 30-40 feet in diameter,The objects were observed maneuvering at high speeds and making sharp turns,The sightings lasted for about 2 hours,No sound was heard from the objects during the observation,The photographs and documentation have been forwarded to Project Blue Book for further analysis.",
+    "sighted object": "unidentified aerial objects",
     "location": "Guantanamo Bay, Cuba",
-    "witnesses": "US naval crews",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "crews of various US naval vessels",
+    "contains photographs": true
 }

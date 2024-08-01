@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silvery elliptical object was observed hovering over a wooded area north of Meriden, Connecticut on July 29, 1962.",
-    "interesting points": [
-        "The object appeared to be metallic, silvery grey in color and about 50 feet in diameter.",
-        "The object hovered motionless for about 5 minutes then moved off rapidly to the north and disappeared from sight.",
-        "There was no sound associated with the sighting.",
-        "The sighting was witnessed by two reliable USAF officers.",
-        "The object was initially mistaken for a weather balloon but its metallic appearance and rapid departure indicated it was probably some type of aircraft."
-    ],
-    "result": "unexplained",
+    "main event": "On July 29, 1962, a silvery elliptical object was observed hovering over a wooded area north of Meriden, Connecticut.",
+    "interesting points": "The object was described as metallic and silvery grey, about 50 feet in diameter.,The object hovered for about 5 minutes before moving rapidly to the north.,The sighting was witnessed by two reliable observers, both USAF officers.,Initial assumption was that the object was a weather balloon, but its characteristics suggested otherwise.,There was no sound associated with the sighting.",
     "sighted object": "a silvery elliptical object",
-    "location": "Meriden, Connecticut",
-    "witnesses": "two USAF officers",
-    "photographs": "none"
+    "location": "Meriden, Connecticut, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "USAF officers",
+    "contains photographs": false
 }

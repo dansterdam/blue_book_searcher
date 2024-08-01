@@ -1,15 +1,9 @@
 {
-    "main event": "This appears to be a scanned document containing 3 photos related to a Project Blue Book case from October 1962 in North Carolina.",
-    "interesting points": [
-        "The document contains metadata indicating it is from Project Blue Book and contains 3 photos.",
-        "The photos depict mountainous, hilly terrain and a scenic landscape, but no human faces or individuals are visible.",
-        "The text at the top and bottom of the images indicates they are from the Foreign Technology Division of the Air Force Systems Command and are unclassified.",
-        "There is no information provided about a UFO sighting or any other unusual event.",
-        "The document appears to be a record of the Project Blue Book investigation, but does not contain details about a specific UFO incident."
-    ],
-    "result": "unclear",
-    "sighted object": "no specific sighted object mentioned",
-    "location": "North Carolina",
-    "witnesses": "none mentioned",
-    "photographs": "yes, 3 photographs present but no UFOs visible"
+    "main event": "A UFO report from October 1962, associated with Project Blue Book, features photographs of mountainous and hilly terrain in North Carolina.",
+    "interesting points": "The report references three photographs, Two photos show hilly terrain without any visible human presence, One photo displays a scenic landscape captured in black and white, The source of the report is the Foreign Technology Division of AFSC, The document is classified as UNCLASSIFIED.",
+    "sighted object": "mountainous and hilly terrain",
+    "location": "North Carolina, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no human faces or individuals visible in the images",
+    "contains photographs": true
 }

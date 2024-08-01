@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, bluish-white object was observed in the sky near the coordinates 19.31N 171.43E in the Far East on May 30, 1964.",
-    "interesting points": [
-        "The object was much larger than a first magnitude star.",
-        "The object appeared to be in flight, moving on a northeast course.",
-        "The object disappeared behind trees at an elevation of 62 to 70 degrees above the horizon.",
-        "The object was observed to be moving extremely fast.",
-        "The report indicates that the most probable explanation was a meteor."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, bluish-white object",
-    "location": "19.31N 171.43E (Far East)",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "On May 30, 1964, a brilliant bluish-white object was observed in the sky in the Far East.",
+    "interesting points": "The object was much larger than a first magnitude star., The object appeared to be flying at a high speed and disappeared behind trees., The sighting was recorded by Coral 30/17252., The object was observed from a course of GGO degrees at an azimuth of 25 degrees., The report suggests that the most probable explanation for the appearance was a meteor.",
+    "sighted object": "one brilliant bluish-white object",
+    "location": "19.31N, 171.43E, Far East",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses reported",
+    "contains photographs": false
 }

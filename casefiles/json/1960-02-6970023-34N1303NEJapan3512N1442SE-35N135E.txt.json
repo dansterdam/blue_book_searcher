@@ -1,15 +1,9 @@
 {
-    "main event": "Three aircraft sighted a UFO over Iwojima, Japan, on February 21, 1960.",
-    "interesting points": [
-        "The UFO was observed at an apparent altitude of 7,000 feet.",
-        "The UFO was observed for 11 minutes.",
-        "The reporting officers evaluated the sighting as a probable meteor.",
-        "A Japanese pilot initially thought the object was a missile, but the Japan Weather Bureau evaluated it as a meteor.",
-        "The incident was considered a probable natural phenomenon by the reporting officers, and no further formal report was planned."
-    ],
-    "result": "Probable natural phenomenon (meteor)",
-    "sighted object": "Three unidentified flying objects",
-    "location": "Iwojima, Japan (34°N 130°E)",
-    "witnesses": "Crew members of three aircraft",
-    "photographs": "None"
+    "main event": "UFO sighted from three aircraft over Iwojima on February 21, 1960.",
+    "interesting points": "The sighting lasted for 11 minutes,The UFO was observed at an approximate altitude of 7,000 ft.,It was reported as a probable meteor by the reporting officers,Three aircraft confirmed the sighting at different locations,The Japanese pilot initially thought the object was a missile.",
+    "sighted object": "UFO possibly identified as a meteor",
+    "location": "Iwojima, Japan",
+    "number of confirmed witnesses": 3,
+    "witness description": "officers and pilots from military aircraft",
+    "contains photographs": false
 }

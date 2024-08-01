@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, irregular object was observed in the sky over Brookville, Ohio on September 7, 1957 around 2:25 AM.",
-    "interesting points": [
-        "The object was described as a bright light that changed colors, alternating between red and green.",
-        "The object appeared to be stationary at times, then suddenly speed up and rush away.",
-        "The object was observed for about 10 minutes before disappearing from view.",
-        "Multiple witnesses reported seeing the object, including a GOC (Ground Observer Corps) observer.",
-        "The object was seen with the naked eye and did not appear to be behind or in front of any clouds."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, irregular object with alternating red and green lights",
-    "location": "Brookville, Ohio",
-    "witnesses": "multiple witnesses, including a GOC observer",
-    "photographs": "none"
+    "main event": "A red, white and orange object was observed in Brookville, Ohio in September 1957.",
+    "interesting points": "The object was described as having a blinking light pattern of red, orange, and white., The sighting lasted for 1 minute or less., The object was reported to be stationary at first., The sighting occurred at 2127 hours on September 7, 1957., There is speculation that the object could be possibly identified as an aircraft or weather phenomenon.",
+    "sighted object": "a red, white and orange object with blinking lights",
+    "location": "Brookville, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Details not specified in the report.",
+    "contains photographs": false
 }

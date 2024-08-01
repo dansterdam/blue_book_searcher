@@ -1,15 +1,9 @@
 {
-  "main event": "A series of UFO sightings and reports from Project Blue Book, including observations by trained airmen and a commercial pilot, as well as a hunter and teacher, in various locations and conditions.",
-  "interesting points": [
-    "Reports include sightings of circular or elliptical-shaped objects with detailed sketches and diagrams.",
-    "Observations were made by technically experienced airmen, a commercial pilot, and a regular civilian hunter and teacher, providing diverse perspectives on the sightings.",
-    "Variety of questions in the reports cover details about the observed object, the observer's surroundings, and weather conditions.",
-    "The sightings date back to as early as 1952, indicating long-standing interest and investigation into UFO phenomena.",
-    "Some reports include official documentation and requests for information, demonstrating the military's formal approach to investigating these sightings."
-  ],
-  "result": "unexplained",
-  "sighted object": "various unidentified circular or elliptical-shaped objects",
-  "location": "Olmsted AFB, Pa., Fairfax, Virginia, USA, Turkey",
-  "witnesses": "technically experienced airmen, commercial pilot, hunter and teacher, regular civilians",
-  "photographs": "no photographs included in the reports"
+    "main event": "A flying object was observed by military personnel at Olmsted AFB, Pennsylvania, possibly identified as a mirage or goose.",
+    "interesting points": "The sighting was recorded in a Project Blue Book document., The object was described as a circular or disc-shaped UFO., Observers indicated the object showed tremendous horizontal speed., There were sketches included to illustrate the observed object's movement., The object appeared to handle rapidly and disappeared from view instantaneously.",
+    "sighted object": "circular or disc-shaped unidentified flying object",
+    "location": "Olmsted AFB, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military personnel and observers involved in the report",
+    "contains photographs": false
 }

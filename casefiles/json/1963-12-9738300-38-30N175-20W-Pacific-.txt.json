@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A rapidly moving object was observed in the sky by three witnesses on December 14, 1963 at 5:32 Z (GMT).",
-    "interesting points": [
-        "The object was observed in the Pacific Ocean at coordinates 38-30N 175-20W.",
-        "The object was described as being as bright as a first magnitude star.",
-        "The object was visible for 1 minute and 15 seconds.",
-        "The object was moving in an easterly direction.",
-        "The report states that no evaluation was made at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a rapidly moving object with brightness of a first magnitude star",
-    "location": "38-30N 175-20W (Pacific Ocean)",
-    "witnesses": "three observers",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A rapidly moving object was observed over the Pacific Ocean on December 14, 1963.",
+    "interesting points": "The object was sighted by three observers who described it as having the brightness of a first magnitude star., The course of the object was towards the east., The length of the observation was 1 minute and 15 seconds., The altitude of the object could not be determined by the witnesses., The report was sent to several military and government branches for further analysis.",
+    "sighted object": "a rapidly moving unidentified object",
+    "location": "Pacific Ocean, Unknown Region, Pacific",
+    "number of confirmed witnesses": 3,
+    "witness description": "three observers with no specific data available",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report does not provide details about a specific UFO sighting event.",
-    "interesting points": [
-        "The report includes a handwritten letter from a person interested in UFO sightings and requesting more information from Project Blue Book.",
-        "The report contains some handwritten notes that describe an unspecified UFO sighting, including details about the object's speed, size, and movement.",
-        "The report mentions a previous UFO sighting by the observer, who is described as having seen many UFOs in the past.",
-        "The report concludes that the sighting is an 'UNRELIABLE REPORT'.",
-        "The report appears to be incomplete, with some pages missing or redacted."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unknown",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A witness reported seeing a UFO on June 6, 1968, although no specific details about the observation time or course were provided.",
+    "interesting points": "The observer has a history of seeing UFOs,The report was categorized as an unreliable report,Comments indicate that the military did not investigate UFO sightings seriously,The object was reported to have a fuzzy outline but moved at high speeds,The sighting occurred around the time of a significant mass sighting reported in the Cleveland Press.",
+    "sighted object": "one unidentified flying object",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer has seen many UFOs in the past.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A PA-12 aircraft with lights under the wings was observed and mistaken for a UFO near Suffolk County, New York on August 12, 1965.",
-    "interesting points": [
-        "The object was described as a large, irregular object with over 100 lights, appearing very low and hovering.",
-        "The object seemed to have the ability to hover and descend rapidly.",
-        "The object was observed by both ground and air visual sightings.",
-        "The weather was clear and windless at the time of the sighting.",
-        "The object was investigated by the Air Force and determined to be an advertising aircraft."
-    ],
-    "result": "Identified as an aircraft with advertising lights",
-    "sighted object": "Large, irregular object with over 100 lights",
-    "location": "Suffolk County, New York",
-    "witnesses": "Ground and air visual sightings",
-    "photographs": "None"
+    "main event": "A large irregular object with over 100 lights was reported hovering very low, which was later identified as a PA-12 aircraft advertising a motel opening.",
+    "interesting points": "The object was reported to have the ability to hover and descend rapidly., The sighting was confirmed by ground and air visual observations., Weather conditions were clear and windless at the time of the sighting., There were reports of the object splitting into two and then merging back into one., An investigation by the Air Force evaluated the sighting and concluded it was an aircraft.",
+    "sighted object": "large irregular object with lights",
+    "location": "Riverhead, Suffolk County, NY",
+    "number of confirmed witnesses": 2,
+    "witness description": "1st Lt Douglas Kapson and a police officer",
+    "contains photographs": false
 }

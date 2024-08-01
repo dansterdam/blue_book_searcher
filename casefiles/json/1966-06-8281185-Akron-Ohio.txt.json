@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the report:
-
 {
-    "main event": "A witness observed several bright, erratic lights in the sky near Akron, Ohio on June 25, 1966.",
-    "interesting points": [
-        "The witness initially thought the lights might have been a landing craft, as they seemed to be moving in an erratic fashion.",
-        "The lights were brighter than the stars in the sky and seemed to be lower than the stars.",
-        "The witness turned off the radio to try to hear any unusual sounds, but did not hear anything unusual.",
-        "The lights followed the witness's car at the same speed and altitude for about 2 minutes before veering off at an angle.",
-        "The witness contacted the local sheriff's department, but they had not received any other reports about the incident."
-    ],
-    "result": "explained",
-    "sighted object": "bright, erratic lights in the sky",
-    "location": "Akron, Ohio",
-    "witnesses": "a civilian couple",
-    "photographs": "no"
+    "main event": "A couple observed a very bright unidentified light in the sky while driving in the Akron area on June 25, 1966.",
+    "interesting points": "The light appeared to change colors, resembling an aircraft, seen from their vehicle at high speeds,The witnesses thought the object might have been landing because of its erratic movements,The lights followed their vehicle at a similar speed and altitude for about two minutes before disappearing into the trees,Reports confirmed that the Goodyear blimp was in the area around the same time but puzzled the witnesses as it was flying at night,Other reports and analyses mentioned the possibility of misidentifying the blimp's lights due to atmospheric conditions.",
+    "sighted object": "very bright light in the sky",
+    "location": "Akron, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A couple returning home from a trip, observed unusual lights while driving.",
+    "contains photographs": false
 }

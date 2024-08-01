@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two objects were observed moving in opposite directions at high speeds over Covina, California on July 26, 1965.",
-    "interesting points": [
-        "The objects were described as having the appearance of burning in the center.",
-        "The objects were observed by a civilian witness in Covina, California.",
-        "The sighting was reported to the Space Systems Division Command Post at 2206 hours on July 26, 1965.",
-        "The weather conditions at the time were clear.",
-        "No identification actions were taken, and normal nighttime air traffic was reported in the Los Angeles area."
-    ],
-    "result": "unidentified",
-    "sighted object": "two unidentified objects",
-    "location": "Covina, California",
-    "witnesses": "civilian witness",
-    "photographs": "no photographs"
+    "main event": "Two unidentified objects were observed moving at high speeds in Covina, California on July 25, 1965.",
+    "interesting points": "The objects were estimated to be traveling at speeds of 2000 mph and at thousands of miles high., The sighting lasted for approximately 20 minutes., The observer described the objects as disappearing by fading out of sight., One object moved southwest while the other moved northwest., No physical evidence of the objects was left behind.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Covina, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a 17-year-old male.",
+    "contains photographs": false
 }

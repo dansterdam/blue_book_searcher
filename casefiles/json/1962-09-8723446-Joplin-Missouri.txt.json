@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three unidentified flying objects, one large and two smaller, were observed over Joplin, Missouri on September 8, 1962.",
-    "interesting points": [
-        "The objects were observed without any trail or sound, and were the size of an aircraft.",
-        "The objects seemed to move in close and then back away intermittently, but did not appear to be on a collision course.",
-        "The sighting lasted for approximately 3 hours.",
-        "The objects were observed from the ground, with the witness using binoculars.",
-        "The weather conditions were clear, with high broken clouds and 15 miles of visibility."
-    ],
-    "result": "could not be identified",
-    "sighted object": "one large and two smaller white objects",
-    "location": "Joplin, Missouri",
-    "witnesses": "ground witness",
-    "photographs": "none"
+    "main event": "On September 8, 1962, a sighting of one large and two smaller white objects over Joplin, Missouri was reported.",
+    "interesting points": "The objects were observed for a duration of 3 hours.,The objects made no sound and left no trail.,The sighting involved one large object in front with two smaller objects trailing behind.,The objects were sighted at approximately 45 degrees above the horizon.,There was no discernible movement or features on the objects during the observation.",
+    "sighted object": "one large white object and two smaller white objects",
+    "location": "Joplin, Missouri, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not provided",
+    "contains photographs": false
 }

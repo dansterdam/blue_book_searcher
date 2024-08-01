@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, pulsing light was observed hovering and maneuvering in the sky near Princeton, New Jersey on May 20, 1960.",
-    "interesting points": [
-        "The light sometimes went out and reappeared.",
-        "The object was described as a bright, pulsing light with a color combination of green and white.",
-        "The object was stationary during the 7-minute observation period.",
-        "It was determined that there was no radar contact and the sighting was probably that of a balloon or a paper-tin reflection of a beam antenna in the area.",
-        "Another sighting of a disc-shaped, bright silver object with rapid and erratic maneuvers was reported near Princeton, New Jersey on April 15, 1957."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A bright, pulsing light",
-    "location": "Millstone, New Jersey",
-    "witnesses": "A civilian observer",
-    "photographs": "No photographs were included in the report."
+    "main event": "A resident of Millstone, New Jersey observed a bright, pulsing light in the sky on May 20, 1960.",
+    "interesting points": "The object was described as having a color combination of green and white., The light went out and reappeared during the sighting., The sighting lasted for about 7 minutes., It was determined there was no radar contact with the object., The sighting was likely attributed to a balloon or a reflection from an antenna.",
+    "sighted object": "bright, pulsing light",
+    "location": "Millstone, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A resident of the area",
+    "contains photographs": false
 }

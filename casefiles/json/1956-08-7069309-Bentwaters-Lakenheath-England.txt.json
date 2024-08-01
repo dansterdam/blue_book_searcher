@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified flying objects were tracked on radar and observed visually over RAF Stations Bentwaters and Lakenheath, England on the night of August 13-14, 1956.",
-    "interesting points": [
-        "The objects were tracked on radar making abrupt changes in speed and direction, reaching estimated speeds of 600-800 mph and 4,000-5,000 mph.",
-        "Visual observations confirmed the radar trackings, with pilots describing the objects as clear white lights with apparent rapid acceleration.",
-        "One object was observed to split into two distinct objects which then closed in on an RAF fighter aircraft before rapidly accelerating away.",
-        "The objects displayed maneuverability and performance characteristics that were beyond the capabilities of any known aircraft at the time.",
-        "Despite numerous observations by trained military personnel, the exact nature of the objects could not be conclusively determined."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying objects",
-    "location": "Bentwaters and Lakenheath, England",
-    "witnesses": "radar operators, pilots, and ground personnel at RAF stations",
-    "photographs": "none"
+    "main event": "Multiple unidentified objects were tracked on radar and visually observed over Bentwaters and Lakenheath, England on the night of 13-14 August 1956.",
+    "interesting points": "Radar operators reported tracking several unidentified targets for up to 2-3 minutes at speeds exceeding 600-800 mph., Visual observation described an orange-red object hovering and then accelerating rapidly., Some objects displayed the ability to split and merge during observation., The objects exhibited characteristics inconsistent with known aircraft capabilities., Extensive military investigations were conducted but concluded with no definitive identification of the observed phenomena.",
+    "sighted object": "unidentified flying objects tracked on radar and visually seen",
+    "location": "Bentwaters, England",
+    "number of confirmed witnesses": 5,
+    "witness description": "RAF radar operators and USAF personnel",
+    "contains photographs": false
 }

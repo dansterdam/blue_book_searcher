@@ -1,15 +1,9 @@
 {
-  "main event": "This UFO report details a sighting near Melbourne, Florida on October 26, 1952, involving a large ball of green fire and the appearance of three additional smaller balls behind the original one.",
-  "interesting points": [
-    "The sighting lasted for 35-40 seconds and was witnessed by a civilian source.",
-    "The observed object was estimated to have been at an altitude of 23,000 feet when first sighted and 20,000 feet when it disappeared.",
-    "The sighting was also verified by crew members of National Airlines flight numbers 595 and 454, adding credibility to the report.",
-    "Weather and wind conditions at the time of sighting were reported as clear with unlimited visibility.",
-    "The observer reported that he could probably see 125 miles at the time of sighting."
-  ],
-  "result": "Unexplained",
-  "sighted object": "Large ball of green fire and three additional smaller balls",
-  "location": "Melbourne, Fla.",
-  "witnesses": "Civilian source and crew members of National Airlines flights",
-  "photographs": "No photographs included in the report"
+    "main event": "A civilian co-pilot and passenger observed a fireball while flying over Melbourne, Florida.",
+    "interesting points": "The sighting lasted for 35-40 seconds., The object was initially estimated at 23,000 feet., The object maintained a horizontal course and was traveling at a very high rate of speed., Other crew members from National Airlines flights also reported similar sightings., The visibility at the time of the sighting was stated to be unlimited.",
+    "sighted object": "a fireball",
+    "location": "Melbourne, Florida, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilians including a co-pilot and a passenger of a National Airlines flight.",
+    "contains photographs": false
 }

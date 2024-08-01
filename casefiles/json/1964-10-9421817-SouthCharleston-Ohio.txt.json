@@ -1,15 +1,9 @@
 {
-    "main event": "A photographer took photographs of an unidentified flying object (UFO) near South Charleston, Ohio on October 31, 1964.",
-    "interesting points": [
-        "The photographer took multiple photos of the same scene, with slight changes in exposure time.",
-        "The strange objects were not visible to the photographer at the time of exposure, and no sounds were heard.",
-        "Photo analysis indicates the images were likely caused by a series of exposures prior to film loading or after removal from the film clip holder, resulting in a superimposed image from a housed light source.",
-        "The sharpest image was probably caused by a light with a reflector and screen, similar to common ceiling lighting.",
-        "The photographer did not want the images released to the news until the investigation was completed, as the photographer believed it was not 'trick photography'."
-    ],
-    "result": "inconclusive, likely caused by photographic anomalies",
+    "main event": "A freelance photographer in South Charleston, Ohio, submitted a report regarding the observation of unidentified flying objects captured in photographs on October 31, 1964.",
+    "interesting points": "The photographer reported observing a circular object that seemed white or silver,The object was visible for about 10-15 minutes,The photographer claimed the object was not visible to him at the time of exposure,Analysis concluded that the photographic anomalies were likely caused by scratches or reflections in the negatives,The report highlighted that the images were not a result of trick photography as suspected by some individuals.",
     "sighted object": "unidentified flying object",
-    "location": "South Charleston, Ohio",
-    "witnesses": "a freelance photographer",
-    "photographs": "yes, multiple photographs and a negative were provided for analysis"
+    "location": "South Charleston, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "freelance photographer",
+    "contains photographs": false
 }

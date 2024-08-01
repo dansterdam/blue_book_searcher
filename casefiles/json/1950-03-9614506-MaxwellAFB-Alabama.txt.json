@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "An unidentified object was observed over the runway at Maxwell AFB, Alabama on March 29, 1950.",
-  "interesting points": [
-    "The object appeared to be a formation of five aircraft in a 'V' formation, but was flying silently and appeared to stand still at times.",
-    "The object had 10-12 large red lights.",
-    "Radio transmissions were made to aircraft in the area at the time, but no reports were received from the aircraft.",
-    "The witness, a control tower operator, did not ask the aircraft in the area to try and identify the object.",
-    "The report concluded that there was 'insufficient data' since additional personnel in the tower and aircraft in the area did not report the objects."
-  ],
-  "result": "unexplained",
-  "sighted object": "An unidentified object with 10-12 large red lights",
-  "location": "Maxwell AFB, Alabama",
-  "witnesses": "Control tower operator",
-  "photographs": "Yes, the report includes photographs"
+    "main event": "Sgt Turner observed a flying saucer that appeared to be a formation of five aircraft with large red lights on 29 March 1950 at Maxwell AFB.",
+    "interesting points": "The object was heading approximately 335 degrees and flew silently., The witness initially thought it was a formation of five aircraft but later lost sight of some due to transmission lines., The object was reported to have 10-12 large red lights., The event occurred at 2030 hours CST without additional reports from other aircraft in the area., The sighting was deemed insufficient data as other tower personnel did not confirm seeing the objects.",
+    "sighted object": "a flying saucer",
+    "location": "Maxwell AFB, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Sgt Turner, control tower operator",
+    "contains photographs": false
 }

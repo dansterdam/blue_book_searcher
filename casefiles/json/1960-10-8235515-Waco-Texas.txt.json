@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "A civilian observed a single unidentified object over Waco, Texas on October 15, 1960.",
-    "interesting points": [
-        "The object was round, approximately 15-20 feet in diameter, and had a red light.",
-        "The object exhibited rapid movement, fast acceleration, slow descent and hover, then fast disappearance.",
-        "The object made a right angle turn as it was moving northward.",
-        "The sighting lasted for 6-8 minutes.",
-        "There was an absence of sound from the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "one round object, 15-20 feet in diameter, with a red light",
-    "location": "Waco, Texas",
-    "witnesses": "civilian man, age 63, retired",
-    "photographs": "no"
+    "main event": "On October 15, 1960, a civilian reported observing a UFO in Waco, Texas, described as a red light with rapid movement.",
+    "interesting points": "The object was estimated to be 15-20 feet in diameter., It exhibited fast acceleration, a slow descent, and hovering before disappearing., The sighting lasted for approximately 6-8 minutes., The observer was a retired 63-year-old civilian, and his reliability is unknown., A strong possibility exists that the sighting was a balloon.",
+    "sighted object": "a red light in the sky",
+    "location": "Waco, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian - Mr. XXXXXXX, retired, age 63",
+    "contains photographs": false
 }

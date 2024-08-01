@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Civilian observers at Warner Robins Air Force Base in Georgia spotted an orange glowing object traveling across the sky for around 10 minutes on January 7, 1953.",
-    "interesting points": [
-        "The object was observed to be high altitude and moving from west to east.",
-        "There were no weather balloons or reported aircraft traffic in the area that could account for the sighting.",
-        "The report states the sighting was possibly caused by an unidentified aircraft.",
-        "The sighting was observed by two civilian sources, who were described as reliable.",
-        "Weather conditions at the time included clear skies, 15 miles visibility, and varying wind speeds at different altitudes."
-    ],
-    "result": "possibly aircraft",
-    "sighted object": "an orange glowing object",
-    "location": "Warner Robins Air Force Base, Georgia",
-    "witnesses": "two civilian observers",
-    "photographs": "no"
+    "main event": "Two residents observed a round orange glowing object moving slowly in a straight line at high altitude over Warner Robins Air Force Base on January 7, 1953.",
+    "interesting points": "The object was described as round, orange in color, with no sound or exhaust trail,The sighting lasted from 2232Z to 2235Z,The observers included a civilian electrician employed at the Air Force Base and his wife,The weather conditions were clear with 15 miles visibility at the time of the sighting,No meteorological activity that could account for the sighting was present.",
+    "sighted object": "round orange glowing object",
+    "location": "Warner Robins, Georgia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a civilian employed at the Air Force Base as an electrician and his wife",
+    "contains photographs": false
 }

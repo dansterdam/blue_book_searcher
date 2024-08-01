@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observed a bright white object in the sky over Lynchburg, Virginia on June 11, 1966 for about 6 minutes.",
-    "interesting points": [
-        "The object appeared to be a light that could be compared to a satellite, with north-south motion characteristic of a satellite.",
-        "The object was traveling towards the southeast.",
-        "The observer could not accurately measure the angular size of the object.",
-        "The observer described the object as looking like a 'round star-shaped object' that was brighter than the North Star.",
-        "The observer said the object did not make any sound and did not disappear while being watched."
-    ],
-    "result": "Satellite (Echo II)",
-    "sighted object": "A bright white object in the sky",
-    "location": "Lynchburg, Virginia",
-    "witnesses": "1 civilian observer",
-    "photographs": "No"
+    "main event": "A civilian observed a light in the sky that appeared to move like a satellite on June 11, 1966, in Lynchburg, Virginia.",
+    "interesting points": "The observation lasted for 6 minutes,The object was noted to have a north-south motion characteristic of a satellite,The observer described the object as bright white and brighter than the North Star,There were no other witnesses reported in the area,The conclusion of the report suggested it was a satellite (Echo II).",
+    "sighted object": "a light in the sky",
+    "location": "Lynchburg, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian from Lynchburg",
+    "contains photographs": false
 }

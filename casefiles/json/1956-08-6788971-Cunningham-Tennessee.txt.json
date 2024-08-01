@@ -1,17 +1,9 @@
 {
-    "main event": "A UFO sighting was reported in Cunningham, Tennessee, on 10 August 1956. The object was tracked for 20 minutes, moving at a constant speed and altitude, with no known aircraft in the area at the time of sighting.",
-
-    "interesting points": [
-        "The UFO was tracked on both ground-radar and air-visual for 20 minutes, with no known aircraft in the area at the time.",
-        "The object's appearance was described as a brilliant light, the size of a softball or basketball, hovering and pulsating, and changing colors between yellow and blue before shooting straight up and disappearing.",
-        "The UFO was observed to be bright and approximately the size of a dinner plate, flying straight and steady with slight oscillation and color changes from bright red when still to yellow when moving.",
-        "It traveled from north to south, with an apparent speed of about 600 mph when first observed, slowing down to about 300 mph at final disappearance, and no sound was heard.",
-        "The witness, Lt. Col. Melvin Fisher, reported the UFO as multi-colored, with evasive, violent, fast, erratic movements, excellent maneuverability, and observed for 15 minutes at an altitude over 20,000 ft."
-    ],
-
-    "result": "unexplained",
-    "sighted object": "unidentified flying object",
-    "location": "Cunningham, Tennessee",
-    "witnesses": "US Air Force Ground Observer and Command officer Lt. Col. Melvin Fisher",
-    "photographs": "no"
+    "main event": "An unidentified flying object was tracked on radar and visually observed near Cunningham, Tennessee on 10 August 1956.",
+    "interesting points": "The object was tracked on radar for 20 minutes without any known aircraft in the area., The object was described as a brilliant light, pulsating in yellow and blue colors., The object reportedly flew straight and steady, with slight oscillation., The apparent speed of the object was noted to be around 600 mph initially, slowing to 300 mph., No sound was heard during the observation, and there were clear weather conditions at the time.",
+    "sighted object": "one brilliant light, the size of a dinner plate and basketball",
+    "location": "Cunningham, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "128 US Air Force Ground Observer",
+    "contains photographs": false
 }

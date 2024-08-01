@@ -1,15 +1,9 @@
 {
-    "main event": "A bright light was observed in the sky near Tehran, Iran on September 18-19, 1957, which exhibited unusual movements and behavior.",
-    "interesting points": [
-        "The light was estimated to be 3-4 times brighter than the planet Venus.",
-        "The light approached to within 40-50 km of the Mehrabad Airport in Tehran, hovered, then accelerated rapidly and disappeared to the north.",
-        "The light changed in size, dimmed and brightened intermittently during the 50-minute observation.",
-        "A jet interceptor was scrambled to investigate, but its radio and instruments went off as it approached the object, which then suddenly accelerated and disappeared.",
-        "A second scrambled jet also failed to make visual contact with the object."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, circular light in the sky",
+    "main event": "A control tower operator at Mehrabad Airport in Tehran observed a bright, circular light moving in the sky for approximately 50 minutes.",
+    "interesting points": "The light was estimated to be 3 to 4 times brighter than Venus., The light hovered and then accelerated rapidly, disappearing from view., A jet interceptor was scrambled but lost contact when the object accelerated away., The light appeared to dim and brighten intermittently during the observation., Information was sent to the Defense Intelligence Agency for further evaluation.",
+    "sighted object": "an extremely bright, circular light",
     "location": "Tehran, Iran",
-    "witnesses": "control tower operator at Mehrabad Airport, pilots of scrambled jets",
-    "photographs": "yes, the report indicates photographs were taken"
+    "number of confirmed witnesses": 1,
+    "witness description": "control tower operator at Mehrabad Airport",
+    "contains photographs": false
 }

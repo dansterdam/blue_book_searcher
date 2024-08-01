@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A civilian observed an unidentified flying object over Perry, Georgia on August 18, 1966.",
-    "interesting points": [
-        "The object appeared to be in the shape of a semi-circle or one quarter of the moon, changing to a ball shape.",
-        "The object was about the size of a basketball and was bright orange in color.",
-        "The object was observed for about 7 minutes, traveling from northwest to southeast at approximately 10 miles per hour.",
-        "The Air Force investigator could not make a positive identification of the object, as there was no physical evidence or photographs taken.",
-        "The Air Force attempted to contact local airports and weather stations but could not find any known aircraft or balloon activity in the area at the time of the sighting."
-    ],
-    "result": "unexplained",
+    "main event": "One unidentified flying object was reported by a civilian in Perry, Georgia on 18 August 1966.",
+    "interesting points": "The sighting occurred approximately at 2030 hours on 18 August 1966., The object appeared to change shape from a semi-circle to a ball., The object was described as bright orange and was observed for approximately seven minutes., The observer was a 45-year-old supply clerk at Robins AFB with limited knowledge in astronomy., No physical evidence or photographs were captured of the sighting.",
     "sighted object": "unidentified flying object",
-    "location": "Perry, Georgia",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "location": "Perry, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, age 45, supply clerk, Robins AFB",
+    "contains photographs": false
 }

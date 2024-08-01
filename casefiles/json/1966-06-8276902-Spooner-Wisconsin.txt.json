@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "Two unidentified objects were observed hovering 25 feet above the ground in Spooner, Wisconsin on June 22, 1966.",
-    "interesting points": [
-        "The objects were described as distinctly revolving and tinged with water in the air.",
-        "No sound was reported, such as a sonic boom.",
-        "Radar at the nearby Duluth airport was unable to detect the objects due to the radar's limited range.",
-        "Multiple reports and sightings of unidentified objects were made in the Spooner, Wisconsin area around this time.",
-        "The objects were observed for about 25 seconds before disappearing."
-    ],
-    "result": "undetrmined",
-    "sighted object": "two revolving, water-tinged objects",
-    "location": "Spooner, Wisconsin",
-    "witnesses": "multiple",
-    "photographs": "no"
+    "main event": "Observers reported seeing multiple unidentified objects over Spooner, Wisconsin in June 1966, with various descriptions across several reports.",
+    "interesting points": "The objects were observed at different times and durations, generally described as having no sound and exhibiting unusual movements., The reports mention at least two distinct objects, one described as disk-shaped and another as silvery and oblong., Observations included details like the height of the objects (~25 ft) and their speed and maneuverability., Multiple witnesses reported seeing these objects at close range, with some providing sketches of their movements., One report noted the objects illuminated as they moved rapidly across the sky.",
+    "sighted object": "unidentified flying objects",
+    "location": "Spooner, Wisconsin, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "varied, including military personnel and civilians",
+    "contains photographs": false
 }

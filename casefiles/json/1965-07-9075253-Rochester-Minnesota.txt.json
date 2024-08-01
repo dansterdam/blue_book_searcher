@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright reddish object was observed by multiple witnesses at the Rochester airport in Minnesota on July 3, 1965.",
-    "interesting points": [
-        "The object was observed to be a steady light that gradually faded from view over the course of 10-15 minutes.",
-        "The object appeared to change shape, getting wider and thinner as it moved.",
-        "At one point, the object emitted a bright beam of light that lasted for a few seconds.",
-        "Multiple witnesses, including air traffic control personnel, observed the object.",
-        "The object moved in a smooth, deliberate motion unlike an airplane or satellite."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright reddish, shape-changing object",
-    "location": "Rochester, Minnesota",
-    "witnesses": "air traffic control personnel and other observers",
-    "photographs": "none"
+    "main event": "On July 3, 1965, witnesses observed an unidentified object in the sky over Rochester, Minnesota, which was stationary before moving slowly eastward.",
+    "interesting points": "The object was observed for about 15 minutes, appeared to change shape, and emitted a beam of light for a few seconds., Four witnesses from different locations reported seeing the object, confirming its visibility., The sky was clear with no clouds at the time of the sighting., The object maintained a constant brightness throughout the observation., Witnesses noted its size was comparable to a major planet in the solar system.",
+    "sighted object": "a strange unidentified object in the sky",
+    "location": "Rochester, Minnesota, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Neighbors and an amateur astronomer observed the object, noting its unique changes in shape and light emission.",
+    "contains photographs": false
 }

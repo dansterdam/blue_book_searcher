@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright red-orange object, the size of a pea, with a trail 4 times its size, was observed in the sky near Humboldt, Saskatchewan, Canada on February 17, 1961.",
-    "interesting points": [
-        "The object was visible for 6-8 minutes, which is longer than what would be expected for a meteor.",
-        "The object maneuvered in the sky, increasing and decreasing in size during the observation.",
-        "Several witnesses reported seeing the object on the evening of December 6, 1961, with the sighting lasting around 30 minutes.",
-        "No photographs or other physical evidence were obtained.",
-        "The Air Force investigated the reports and concluded the object was likely an atmospheric entry, possibly related to the USAF Satellite Tracking Program."
-    ],
-    "result": "Astronomical - Possibly a meteor or satellite entry",
-    "sighted object": "Bright red-orange object, size of a pea, with a trail 4 times its size",
-    "location": "Humboldt, Saskatchewan, Canada",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "Several persons reported seeing an unusual light or object in the sky near Humboldt, Saskatchewan, Canada on the evening of December 6, 1961.",
+    "interesting points": "The object was first sighted at approximately 7:30 p.m. and was observed for about 30 minutes., The object was described as a bright light, possibly rotating or spinning., Some witnesses reported the object seemed to increase in size and then decrease during the observation., The object was seen maneuvering in the sky before disappearing from view., No photographs or physical evidence was obtained, and the Air Force is investigating the reports.",
+    "sighted object": "bright light possibly rotating in the sky",
+    "location": "Humboldt, Sask, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, details of other witnesses are limited",
+    "contains photographs": false
 }

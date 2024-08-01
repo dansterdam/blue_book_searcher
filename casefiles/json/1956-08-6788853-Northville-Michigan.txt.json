@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round white object, the size of a baseball at arm's length, was observed changing color from white to dark red and disappearing 3 or 4 times over a 30-minute period.",
-    "interesting points": [
-        "The object appeared to move southwest and stop at approximately 45 degrees azimuth from the observer's location.",
-        "The sighting was initially believed to be caused by the planet Venus, despite a slight inconsistency in azimuth elevation that could be attributed to error in human judgment.",
-        "The color changes and appearance of the object were attributed to temperature observation, which can account for such changes.",
-        "The date, time, and duration of the sighting further support the evaluation of the object as the planet Venus.",
-        "The report concludes that the sighting was 'Was Astronomical Venus, Probably Astronomical, Possibly Astronomical'."
-    ],
-    "result": "Was Astronomical Venus",
-    "sighted object": "round white object",
-    "location": "Northville, Michigan",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "One round white object was observed changing color from white to dark red over Northville, Michigan.",
+    "interesting points": "The object was the size of a baseball when seen at arm's length., The object disappeared 3 or 4 times during the observation., The sighting lasted approximately 30 minutes., The object appeared to move southwest., The conclusion suggested it could be planet Venus despite some inconsistencies in observation data.",
+    "sighted object": "one round white object",
+    "location": "Northville, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observation",
+    "contains photographs": false
 }

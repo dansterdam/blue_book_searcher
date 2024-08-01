@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sighting of an unidentified flying object over Iceland on August 6, 1955.",
-    "interesting points": [
-        "The object was described as having a half-oval, half-circular shape, brown-gray in color, and about the size of a DC-3 airplane.",
-        "The object was observed for about 10 seconds and was traveling at a very rapid rate of speed, estimated to be around 700 knots.",
-        "The object did not have any lights on it and was traveling in a northwesterly direction, disappearing behind a mountain.",
-        "The observer stated that this was not a natural phenomenon and was a strange flying object they had never seen before.",
-        "The description of the object and its performance characteristics were consistent with reports received from other sources on similar types of objects."
-    ],
-    "result": "unidentified",
-    "sighted object": "half-oval, half-circular shaped object, brown-gray in color",
-    "location": "Near Eyjafjallajökull glacier, Iceland",
-    "witnesses": "Private citizen in Iceland",
-    "photographs": "no"
+    "main event": "A private citizen observed an unidentified flying object with a half-oval, half-circular shape in Iceland on 6 Aug 55.",
+    "interesting points": "The object changed formation from a steady line to scattered and back to a straight line,The object was brown-gray and about the size of a DC-3 airplane,It was traveling in a northwesterly direction at an estimated speed of 700 knots,The radar was out of operation at the time of the sighting,The observer concluded the object was not a natural phenomenon.",
+    "sighted object": "one half-oval, half-circular brown-gray object",
+    "location": "Eyjafjallajokull, Iceland",
+    "number of confirmed witnesses": 1,
+    "witness description": "private citizen",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A pilot in Wiesbaden, Germany spotted an illuminated colored object that appeared larger than a star, approached, and then disappeared from west to east.",
-    "interesting points": [
-        "The object appeared to be bluish in color and made no sound.",
-        "The sighting lasted for approximately 30 seconds.",
-        "This report is being forwarded to Project Blue Book, which suggests it was considered an unusual sighting.",
-        "The object's movement included approaching and disappearing on the horizon.",
-        "The location of the sighting was Wiesbaden, Germany."
-    ],
-    "result": "unexplained",
-    "sighted object": "An illuminated colored object that appeared larger than a star",
+    "main event": "A military pilot observed an illuminated colored object in Wiesbaden, Germany, on April 28, 1959.",
+    "interesting points": "The object appeared larger than a star and bluish in color., It approached from the West and disappeared toward the East., The observation lasted approximately 30 seconds., The object made no sound during the sighting., The report was deemed unusual and forwarded to Project Blue Book.",
+    "sighted object": "one illuminated colored object",
     "location": "Wiesbaden, Germany",
-    "witnesses": "Pilot, Military",
-    "photographs": "No"
+    "number of confirmed witnesses": 1,
+    "witness description": "Pilot, Military",
+    "contains photographs": false
 }

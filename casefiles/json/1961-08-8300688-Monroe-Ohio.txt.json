@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "A witness in Monroe, Ohio observed a bright, fast-moving white object in the sky on August 30, 1961.",
-    "interesting points": [
-        "The object changed color from white to amber as it traveled across the sky.",
-        "The witness estimated the object was moving about 3 times the speed of a jet fighter, at an altitude of around 7 miles.",
-        "The witness was a 14-year-old amateur rocketeer who had a strong interest in UFOs.",
-        "The sighting lasted around 20 seconds before the object disappeared over the horizon.",
-        "Multiple other witnesses in the Cincinnati area reported similar sightings of a strange object in the sky around the same time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, fast-moving white object that changed color to amber",
-    "location": "Monroe, Ohio",
-    "witnesses": "a 14-year-old amateur rocketeer",
-    "photographs": "no"
+    "main event": "A witness reported observing a single unidentified flying object in Monroe, Ohio on August 30, 1961, for about 2 minutes and 25 seconds.",
+    "interesting points": "The object was possibly mistaken for the exhaust trail of a jet aircraft., The observer estimated the object's speed to be about three times that of a jet fighter., The witness was an amateur rocketeer aged 14., The object appeared very bright and shiny at first, resembling a star., A newspaper article discussed a similar sighting in Cincinnati on August 31, 1961.",
+    "sighted object": "one unidentified flying object",
+    "location": "Monroe, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "14-year-old male, amateur rocketeer",
+    "contains photographs": false
 }

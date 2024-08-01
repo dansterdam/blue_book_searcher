@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A possible satellite or unidentified aerial object was observed making a vertical descent with a bright explosion in Iceland on November 20, 1964.",
-    "interesting points": [
-        "The object was observed by military sources.",
-        "The object was reported to have made a vertical descent.",
-        "The object was described as a 'possible satellite' and a 'bright explosion'.",
-        "The location of the sighting was 66.39N 30.23W in Iceland.",
-        "The conclusion of the report was that the object was an 'Astronomical (METEOR)' sighting."
-    ],
-    "result": "Astronomical (METEOR)",
-    "sighted object": "Possible satellite, bright explosion",
-    "location": "Iceland (66.39N 30.23W)",
-    "witnesses": "Military",
-    "photographs": "No"
+    "main event": "A military report documented a potential UFO sighting in Iceland on 20 November 1964.",
+    "interesting points": "The object was reported as descending vertically., The source of the sighting was military., The report suggested the object could be a possible satellite or meteor., No photographs or physical evidence were included in the report., The conclusion stated that the observation was likely of astronomical origin.",
+    "sighted object": "one unidentified object",
+    "location": "Iceland",
+    "number of confirmed witnesses": 1,
+    "witness description": "military observation",
+    "contains photographs": false
 }

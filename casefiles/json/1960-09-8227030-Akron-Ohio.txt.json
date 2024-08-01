@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report text provided:
-
 {
-    "main event": "Three bright lights were observed in the sky over Akron, Ohio on March 22, 1960. The objects were maneuverable, hovered, and then disappeared.",
-    "interesting points": [
-        "The objects were described as reddish-orange in color and were estimated to be at an altitude of 3,000-5,000 feet.",
-        "The objects were observed to be 'tying and untying' and moving from west to north.",
-        "The objects were described as maneuverable, hovering, and then disappearing without making any sound.",
-        "The sighting was investigated, but the conclusions were inconclusive - it could have been a balloon, aircraft, or astronomical in nature.",
-        "The witness reported the sighting to the Air Force, who forwarded it to the Aerial Phenomena Branch for analysis and evaluation."
-    ],
-    "result": "inconclusive",
-    "sighted object": "four reddish-orange maneuverable objects",
-    "location": "Akron, Ohio",
-    "witnesses": "multiple witnesses",
-    "photographs": "no"
+    "main event": "A sighting of reddish-orange lights in the sky observed in Akron, Ohio on March 22, 1960.",
+    "interesting points": "The objects were seen tying and untying in the air., Four reddish-orange objects were reported at an altitude of 3000-5000 feet., The objects moved unpredictably, first to the west, then to the north., The sighting lasted for approximately 3 minutes and was silent., Investigations suggested that the objects could possibly be balloons.",
+    "sighted object": "four reddish-orange objects",
+    "location": "Akron, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a witness, her two children, and others who observed the event",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A woman observed a silver and white, tumbling object in the wind in Houston, Pennsylvania in 1965.",
-    "interesting points": [
-        "The object was silver on one side and white on the other, with a binary metal appearance.",
-        "The object was moving in a tumbling motion, as if blown by the wind.",
-        "The witness was initially observing paper blowing around in the air when she noticed the unusual object.",
-        "Several other similar sightings of glowing, disc-shaped objects were reported in the area around that time.",
-        "The report included sketches depicting the shapes and movements of the unidentified flying objects observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a silver and white, tumbling object",
-    "location": "Houston, Pennsylvania",
-    "witnesses": "a female observer",
-    "photographs": "no photographs, only sketches included"
+    "main event": "A witness observed a silver and white colored object tumbling in the wind in Houston, Pennsylvania on October 8, 1965.",
+    "interesting points": "The object was described as having a silver side and a white side, resembling binary metal., It was observed during clear weather conditions with good visibility., The object was estimated to be about 40-50 feet in diameter and approximately 2 miles away., Witness estimated the object's speed to be about 1800 mph., The sighting lasted for approximately 20 seconds and the object moved from north to south.",
+    "sighted object": "a silver and white colored disc-shaped object",
+    "location": "Houston, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "witness observed the object while watching papers blown by the wind",
+    "contains photographs": false
 }

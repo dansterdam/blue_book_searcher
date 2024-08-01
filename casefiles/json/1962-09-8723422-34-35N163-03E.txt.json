@@ -1,15 +1,9 @@
 {
-    "main event": "A radar observed an unidentified object that appeared as a first magnitude star, moving erratically at an elevation of 38,000 degrees and an azimuth of 250 degrees.",
-    "interesting points": [
-        "The object pulsated intermittently and had bright flashes observed during the sighting.",
-        "The observation lasted for 38 minutes, with the object moving on an erratic course.",
-        "The radar could not determine if the object was a satellite, as it did not echo on the radar scope during the observation.",
-        "The sighting occurred on September 13, 1962 at the coordinates 31.19N, 163.03E.",
-        "There were two witnesses to the event, but no photographs were included in the report."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "an unidentified object that appeared as a first magnitude star",
+    "main event": "A UFO observation recorded by Project Blue Book in September 1962 involving a single object seen via ground radar.",
+    "interesting points": "The object was described as pulsating intermittently and appeared to behave erratically on the radar., The observation lasted for 38 minutes with continuous tracking of the object., The sighting happened at an elevation of 38,000 feet and azimuth of 250 degrees., Two witnesses reported the event., The report suggests that the sighting likely originates from a satellite, but data was deemed insufficient for a conclusive evaluation.",
+    "sighted object": "an object appearing as a 1st magnitude star",
     "location": "31.19N, 163.03E",
-    "witnesses": "two",
-    "photographs": "none"
+    "number of confirmed witnesses": 2,
+    "witness description": "Two observers recorded the sighting via ground radar.",
+    "contains photographs": false
 }

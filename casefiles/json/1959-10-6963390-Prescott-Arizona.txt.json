@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "A red and blue object was observed that turned green and then disappeared over Prescott, Arizona.",
-    "interesting points": [
-        "The object had no sound.",
-        "The report states the object's shape and size were unknown.",
-        "The object's motion and manner of departure were also unknown.",
-        "The report concludes the case is inconclusive due to lack of detail.",
-        "Weather conditions at the time were clear with high winds."
-    ],
-    "result": "Unidentified",
-    "sighted object": "A red and blue object that turned green and disappeared",
-    "location": "Prescott, Arizona",
-    "witnesses": "Unknown",
-    "photographs": "Yes, but not present in this document"
+    "main event": "On October 22, 1959, a sighting occurred in Prescott, Arizona, where a red and blue object turned green and then disappeared.",
+    "interesting points": "The visibility was clear with winds at 7 knots from the north,The object was noted to produce no sound,Only one object was observed,The case was deemed inconclusive due to a lack of detail,The object was suggested to possibly be a balloon, bird, aircraft, astronomical phenomenon, or anomalous.",
+    "sighted object": "one red and blue object that turned green",
+    "location": "Prescott, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was a pilot whose identifying information is not provided.",
+    "contains photographs": false
 }

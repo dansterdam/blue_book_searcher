@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO report from Project Blue Book dated 7th July 1952 from Springfield, Ohio, mentioning a sighting and a detailed questionnaire for the observer to provide information about the unidentified aerial phenomenon.",
-  "interesting points": [
-    "The report includes a detailed questionnaire with specific questions about the sighting, such as the time of day, the location, the appearance of the object, and the observer's personal details.",
-    "The form includes questions about the behavior and characteristics of the object, such as its brightness, movement, shape, and sound.",
-    "The observer is asked to draw a picture showing the shape and motion of the object, as well as estimate its size and distance from the observer.",
-    "The questionnaire also collects data about the weather and the presence of other witnesses during the sighting.",
-    "The observer, identified as a Superintendent Engineer aged 27, provided his personal details and indicated his vocational training and profession."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified aerial phenomenon",
-  "location": "Springfield, Ohio",
-  "witnesses": "only one witness documented",
-  "photographs": "no photographs included in the report"
+    "main event": "A UFO sighting report from Springfield, Ohio on July 7, 1952.",
+    "interesting points": "The sighting lasted approximately 30 minutes., The observer estimated the object's speed at 225-250 mph., The observer estimated the distance of the object to be 500-600 feet away., The observer was a Superintendent Engineer aged 27., The report is part of the Project Blue Book documentation.",
+    "sighted object": "an unidentified flying object",
+    "location": "Springfield, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Superintendent Engineer, age 27",
+    "contains photographs": false
 }

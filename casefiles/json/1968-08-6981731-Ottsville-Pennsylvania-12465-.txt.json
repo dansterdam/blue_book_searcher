@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A series of black and white photographs depicting a night sky with a bright, circular object or light source in the center.",
-    "interesting points": [
-        "The photographs appear to be older or of low quality, with a grainy and indistinct appearance.",
-        "The object or light source is surrounded by smaller, scattered points of light that appear to be stars.",
-        "One photograph shows a dark silhouette or shape in the foreground, which could potentially be the edge of a building or other structure.",
-        "The photographs are part of a UFO report from the Foreign Technology Division of the AFSC (Air Force Systems Command).",
-        "The report is labeled as 'UNCLASSIFIED', indicating the contents are not classified information."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, circular object or light source in the night sky",
-    "location": "Ottsville, Pennsylvania",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 6 photographs"
+    "main event": "A report from August 21, 1968, detailing photographs of a night sky with bright circular objects.",
+    "interesting points": "The report includes descriptions of a bright circular object located in the center of the images,The images are all black and white and show a grainy and indistinct appearance,Multiple images suggest a recurring theme of stars surrounding a bright central object,There are no human faces or identifiable individuals present in any of the images,The photographs may have been affected by age or low quality, resulting in a speckled appearance.",
+    "sighted object": "a bright circular object in the night sky",
+    "location": "Ottsville, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

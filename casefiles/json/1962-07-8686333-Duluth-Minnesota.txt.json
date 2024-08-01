@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A railroad switchman in Duluth, Minnesota observed a bright, white, round light hovering in the sky for 15 minutes before it faded from view after making a short darting movement to the east.",
-    "interesting points": [
-        "The witness was unable to determine the altitude or size of the object.",
-        "The light appeared to be spinning.",
-        "The sighting occurred at 11:15 PM on February 4, 1962.",
-        "Two co-workers also witnessed the object.",
-        "The object made a zig-zag movement across the sky before fading from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round, white light",
-    "location": "Duluth, Minnesota",
-    "witnesses": "a railroad switchman and two co-workers",
-    "photographs": "no photographs present in the report"
+    "main event": "A witness observed a round bright white light hovering in the sky for 15 minutes before it faded from view after making a short darting movement to the east.",
+    "interesting points": "The light was very bright and seemed to be spinning,The observation lasted for 15 minutes,The witness was a railroad switchman,The sighting occurred on February 4, 1962,The object made a short darting movement before fading from view.",
+    "sighted object": "round bright white light",
+    "location": "Duluth, MINN, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "railroad switchman",
+    "contains photographs": false
 }

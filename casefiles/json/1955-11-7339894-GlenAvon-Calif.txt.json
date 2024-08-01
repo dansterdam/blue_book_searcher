@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A round object about half the size of the full moon was observed in the sky for 30 seconds near Glen Avon, California.",
-    "interesting points": [
-        "The object appeared and disappeared at the same point in the sky.",
-        "There was no noise associated with the object that drew the observers' attention to it.",
-        "The report concluded that the object was either a balloon or an aircraft, but the identity could not be determined.",
-        "The observer was a 16-year-old at the time of the sighting.",
-        "Weather conditions were reported as clear and broken with 20 angels (20,000 feet) of altitude and calm winds."
-    ],
-    "result": "inconclusive",
-    "sighted object": "round object about half the size of the full moon",
-    "location": "Glen Avon, California",
-    "witnesses": "one 16-year-old observer",
-    "photographs": "no"
+    "main event": "A round object approximately half the diameter of a full moon was observed for 30 seconds before disappearing at the same point it appeared.",
+    "interesting points": "The object made noise that did not attract the attention of the observers,The sighting occurred on November 12, 1955, in Glen Avon, California,The object was described as round and small with a faint trail,The observers did not associate the noise with the object,Opinions varied on the object's identity, suggesting it might be a balloon or aircraft.",
+    "sighted object": "one round object",
+    "location": "Glen Avon, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

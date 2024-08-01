@@ -1,17 +1,9 @@
-Here is the summary in JSON format based on the provided case file:
-
 {
-    "main event": "A civilian witnessed a bright, fast-moving object near Minneapolis, Minnesota on October 20, 1966.",
-    "interesting points": [
-        "The object was described as small, bright, clear, and slightly oblong in shape.",
-        "The object was photographed, but the analysis concluded that the photograph was likely the result of a reflection or distortion caused by taking the picture through a window or windshield.",
-        "The object was observed for about 25-35 seconds, during which it shot off the horizon at a steep angle and disappeared.",
-        "A sound was heard during the sighting, but no other physical evidence was found.",
-        "Despite the investigation, the identity of the object could not be conclusively determined."
-    ],
-    "result": "unexplained",
-    "sighted object": "a small, bright, oblong object",
-    "location": "Minneapolis, Minnesota",
-    "witnesses": "civilian",
-    "photographs": "yes, the report includes a photograph, but it was determined to be inconclusive"
+    "main event": "Witnesses reported observing a bright light in the sky near Minneapolis, Minnesota, on 8 September 1966.",
+    "interesting points": "The object was described as being much brighter than any star and changing colors from white to yellow to red., The witnesses stated that the object appeared round or oval, with an estimated altitude of 1500 to 2000 feet., During the sighting, the witnesses experienced malfunctions with their automobile engine and radio which resumed normal operation after the object disappeared., The investigation revealed no conventional aircraft in the area at the time of the sighting., The incident was part of an ongoing investigation by the USAF's Project Blue Book.",
+    "sighted object": "a bright light that changed colors and appeared to be moving rapidly",
+    "location": "Minneapolis, Minnesota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Robert Olson and Robert Dean, employed by the University of Minnesota",
+    "contains photographs": false
 }

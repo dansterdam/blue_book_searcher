@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "An Air Force pilot flying a T-33 aircraft reported seeing a rapidly moving, unidentified blue light near Lackland Air Force Base, Texas on December 5, 1952.",
-    "interesting points": [
-        "The light was described as having the intensity of a normal aircraft strobe light, and it was orbiting counter-clockwise over the air base.",
-        "The pilot attempted to intercept the object but was unable to close in on it.",
-        "The object disappeared to the south after about 5 minutes of observation.",
-        "The official conclusion was that the object was 'probably a balloon'.",
-        "The incident was investigated by the Air Technical Intelligence Center and intelligence headquarters in Washington, D.C."
-    ],
-    "result": "Probable balloon",
-    "sighted object": "A rapidly moving blue light",
-    "location": "Lackland AFB, Texas",
-    "witnesses": "1st Lt. Robert O. Arnold, 3646th Pilot Training Wing",
-    "photographs": "No photographs included in the report"
+    "main event": "An Air Force pilot observed a rapidly moving bluish-white light over Laredo, Texas, on December 4, 1952, while conducting training exercises.",
+    "interesting points": "The object made a close head-on pass at the pilot's aircraft, missing it by about 50 yards., The light was described as flickering and moving at a very high rate of speed., The observer attempted to locate the object again but was unable to do so., The incident was reported to have unusual characteristics inconsistent with known aircraft or meteor behavior., The official conclusion suggested the object was probably a balloon or aircraft due to insufficient data.",
+    "sighted object": "a bluish-white light",
+    "location": "Laredo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "1st Lt. Robert O. Arnold, a pilot from the 3646th Pilot Training Wing",
+    "contains photographs": false
 }

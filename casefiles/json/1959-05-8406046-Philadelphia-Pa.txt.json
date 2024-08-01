@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, flashing, disc-shaped object with several smaller objects attached to it was reported, moving rapidly and erratically.",
-    "interesting points": [
-        "The object hovered, then shot out of sight rapidly.",
-        "The object was described as a bright, disc-shaped object with several smaller objects attached to it.",
-        "The object moved rapidly and erratically.",
-        "The observer used a telescope to view the object, in addition to seeing it with the naked eye.",
-        "The sighting lasted for approximately 1.5 hours, with the object appearing and disappearing multiple times."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, disc-shaped object with several smaller objects attached",
-    "location": "Northeast Philadelphia, Pennsylvania",
-    "witnesses": "civilian amateur astronomer",
-    "photographs": "yes, the report mentions photographs were taken but they were not clear"
+    "main event": "A bright disc-shaped object with smaller objects attached hovered and then shot out of sight near Philadelphia, Pennsylvania, around May 15, 1959.",
+    "interesting points": "The object was described as a bright disc with several smaller objects,The sighting included an unusual flashing and intermittent glow,The object was observed moving rapidly and erratically,An amateur astronomer reported the sighting from his home in Northeast Philadelphia,The sighting coincided with reported flares dropped from a U.S. Navy aircraft in the area.",
+    "sighted object": "bright disc-shaped object with smaller objects",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, works for an electronics firm, and is an amateur astronomer.",
+    "contains photographs": false
 }

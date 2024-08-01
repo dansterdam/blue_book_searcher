@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO case file:
-
 {
-    "main event": "Unidentified flying object observed over Veracruz, Mexico and Tampico, Mexico in August 1952",
-    "interesting points": [
-        "The object was described as a large, blue-green flying disc that moved at a high speed and produced a blinding light.",
-        "Witnesses reported the object made a whistling or humming sound as it passed overhead.",
-        "The object was observed to change size and perform zig-zag maneuvers in the sky.",
-        "Similar sightings were reported in other parts of Mexico around the same time period.",
-        "The object's trajectory and movements could not be easily explained or attributed to a known phenomenon."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, blue-green flying disc",
-    "location": "Veracruz and Tampico, Mexico",
-    "witnesses": "multiple civilian observers",
-    "photographs": "no photographs available"
+    "main event": "Numerous UFO sightings were reported in August 1952, specifically from locations in Mexico, including one sighting investigated by the American Consulate.",
+    "interesting points": "Nine objects were reported as 'possibly balloons or aircraft', With one sighting reported to have occurred at approximately 1800 hours local time, The informant described the object as circular, emitting bright white light and changing colors, It was observed to maneuver unusually and appeared to increase and decrease in size, Reports also include a flying disk seen over Tampico with distinctive light characteristics and speed.",
+    "sighted object": "flying disks and bright circular objects",
+    "location": "Mexico City, Mexico",
+    "number of confirmed witnesses": 1,
+    "witness description": "an unidentified informant near Azadnomis, Mexico",
+    "contains photographs": false
 }

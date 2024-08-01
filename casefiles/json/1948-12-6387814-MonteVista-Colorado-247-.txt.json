@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO incident labeled as 1747 was reported by a civilian in Monte Vista, Colorado in December 1948.",
-  "interesting points": [
-    "The incident was labeled with a specific number, indicating a systematic categorization of UFO reports.",
-    "It involved a civilian witness, adding credibility to the report.",
-    "The report includes the date and location of the UFO sighting, providing specific details for further investigation.",
-    "The document contains standard fields for recording the length of observation and local time, indicating a structured approach to data collection.",
-    "The classification of the report as 'UNCLASSIFIED' suggests a level of transparency in the handling of UFO documentation."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying object",
-  "location": "Monte Vista, Colorado",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A UFO sighting report from Monte Vista, Colorado in December 1948.",
+    "interesting points": "The incident is numbered 1747,The information is classified as unclassified,The report is sourced from a civilian,The date of observation is mentioned but not clearly visible,The length of observation details are noted but not legible.",
+    "sighted object": "unknown",
+    "location": "Monte Vista, Colorado, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian source",
+    "contains photographs": false
 }

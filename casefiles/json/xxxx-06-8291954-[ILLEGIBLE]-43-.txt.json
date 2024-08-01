@@ -1,17 +1,9 @@
-Here is a JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A bright, metallic-looking oval-shaped object was observed hovering in the sky before rapidly accelerating and disappearing.",
-    "interesting points": [
-        "The object appeared to give off a reddish-orange light.",
-        "The object remained stationary for about 30 seconds before slowly moving across the sky in a straight line.",
-        "The object suddenly accelerated at a very high rate of speed and disappeared from sight within seconds.",
-        "The entire sighting lasted approximately one minute.",
-        "The object's performance characteristics were beyond the capabilities of any known aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic-looking oval-shaped object",
-    "location": "Los Angeles", 
-    "witnesses": "civilian",
-    "photographs": "No"
+    "main event": "An observer reported a bright round light in the sky for several minutes on June 27 in Los Angeles.",
+    "interesting points": "The object was described as a bright round light observed during the night.,The object appeared to be stationary throughout the observation.,No sound was reported from the object.,There were no photographs or physical evidence collected from the sighting.,The conclusion of the report stated that the object remains unidentified.",
+    "sighted object": "a bright round light",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer.",
+    "contains photographs": false
 }

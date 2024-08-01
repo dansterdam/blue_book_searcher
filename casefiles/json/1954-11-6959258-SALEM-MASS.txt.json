@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, white, stationary but jumping sphere was observed in the sky.",
-    "interesting points": [
-        "The object seemed to be stationary but was 'jumping'.",
-        "The object faded out.",
-        "The report states that the object fits the specifications of a balloon.",
-        "The report concludes that there is insufficient data to warrant further investigation.",
-        "The observation lasted for an unspecified duration."
-    ],
-    "result": "possibly aircraft/balloon",
-    "sighted object": "bright, white sphere",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A very bright white sphere was observed, which seemed to be stationary but was jumping and eventually faded out.",
+    "interesting points": "The sighting occurred on 9th November 1954 at 092132Z local time., The object was described as being very bright and white., There were insufficient data to warrant further investigation., The report suggests that the object fits the specifications of a balloon., No photographs are present in the report.",
+    "sighted object": "white sphere",
+    "location": "Unknown, Unknown, Unknown",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witness descriptions provided.",
+    "contains photographs": false
 }

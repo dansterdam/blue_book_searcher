@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two observers in Columbus, Ohio reported seeing a partially unidentified flying object on March 31, 1966 around 2150 hours EST.",
-    "interesting points": [
-        "The object appeared to be quite large and had four lights around the periphery and one larger light in the center.",
-        "The object was observed to be hovering and moving slowly in an erratic manner.",
-        "The investigation will include every effort to resolve this sighting.",
-        "One witness reported seeing a bright light in the sky while driving between 2300-2330 EST, about 6 miles west of Columbus.",
-        "Another witness reported seeing a bright reddish light with a silvery outer ring that appeared to be slightly larger than the full moon and was noiseless."
-    ],
-    "result": "unexplained",
+    "main event": "On 31 March 1966, a partially unidentified flying object was sighted by two observers in Columbus, Ohio.",
+    "interesting points": "The object was first observed at approximately 2150 hours EST and was under observation for about 10 minutes,The object appeared to be quite large with four lights around the periphery and one larger light in the center,It was observed to be hovering and moving slowly in an erratic manner,The witnesses included Mr. and Mrs. Columbus, who reported sighting a bright light in the sky while driving,One witness described the object as having a reddish bright light and a silvery outer ring.",
     "sighted object": "partially unidentified flying object with lights",
-    "location": "Columbus, Ohio",
-    "witnesses": "two observers",
-    "photographs": "none"
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. Columbus",
+    "contains photographs": false
 }

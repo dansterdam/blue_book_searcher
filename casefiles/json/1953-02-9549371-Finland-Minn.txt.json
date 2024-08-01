@@ -1,15 +1,9 @@
 {
-  "main event": "An unknown object appeared on a radar scope in Finland, Minnesota in February 1953, twice the size of an average aircraft, but it was determined to be radar interference from another station.",
-  "interesting points": [
-    "The object was twice the size of an average aircraft and appeared on the radar scope at 140 miles range.",
-    "The radar station specialists determined that the 'blip' on the radar scope was caused by interference from another radar station.",
-    "No visual observation was made of the unknown object at any time.",
-    "The radar equipment used was the CPS-5 with DRYATRONS as the modulator.",
-    "The radar indicators used to track the target were P.P.I. with a radar scan rate of 5."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "an unknown object on radar",
-  "location": "Finland, Minnesota",
-  "witnesses": "Radar personnel",
-  "photographs": "no"
+    "main event": "An unknown object appeared on radar at 140 miles, heading of 155°, and was twice the size of an ordinary aircraft.",
+    "interesting points": "The object was detected using CPS-5 radar equipment., The radar showed the object as a blip caused by interference from another radar station., No visual observation of the object was made during the incident., The radar operation was confirmed to be functioning properly with no recent maintenance difficulties., The weather conditions were reported as good during the observation.",
+    "sighted object": "unknown object on radar",
+    "location": "Ilm., Finland",
+    "number of confirmed witnesses": 2,
+    "witness description": "S/SGT. Duffy and operator A/2C Cling, unknown opinion on a flying saucer.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report text:
-
 {
-    "main event": "A stationary, star-like object glowing reddish-white and green was observed by two USAF officers at Ellsworth AFB, South Dakota in 1958.",
-    "interesting points": [
-        "The object was pin-point in size and did not have a visible source of light.",
-        "The object was observed to be stationary at a high altitude, about 30 degrees off the horizon.",
-        "The object was first noticed due to its brightness and flashing colors.",
-        "The two witnesses were Lt. Dwyer and 2nd Lt. Roggenbuck, both USAF officers stationed at Ellsworth AFB.",
-        "The sighting occurred at 3:00 AM on September 28, 1958 under clear sky conditions."
-    ],
-    "result": "unexplained",
-    "sighted object": "a stationary, star-like object glowing reddish-white and green",
-    "location": "Ellsworth AFB, South Dakota",
-    "witnesses": "two USAF officers, Lt. Dwyer and 2nd Lt. Roggenbuck",
-    "photographs": "no photographs present in the report"
+    "main event": "A military observation of a stationary star-like object glowing reddish-white and green was reported at Ellsworth AFB, South Dakota on 5 September 1958.",
+    "interesting points": "The object was described as being pin point in size and glowing,It was determined to be located at 220 degrees azimuth near the star Arcturus,There were no other aircraft or astronomical explanations provided,The observation was made under clear sky conditions at nighttime,Two USAF personnel confirmed the sighting.",
+    "sighted object": "one stationary glowing object",
+    "location": "Ellsworth AFB, South Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "USAF personnel, Lt. Dwyer and 2nd Lt. Roggenbuck",
+    "contains photographs": false
 }

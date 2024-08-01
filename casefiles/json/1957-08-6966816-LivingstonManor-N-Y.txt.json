@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One round, basketball-sized, transparent object was sighted by three civilians in Livingston Manor, New York on August 7, 1957.",
-    "interesting points": [
-        "The object was sighted at different altitudes by the three witnesses, ranging from 12-15,000 feet to 25-33,000 feet.",
-        "The object was observed for about 1 hour and was still in sight when the report was filed.",
-        "The witnesses used binoculars to observe the object.",
-        "The reporting officer and one of the observers believed the object to be a weather balloon.",
-        "The weather conditions at the time included scattered clouds at various altitudes."
-    ],
-    "result": "was balloon",
-    "sighted object": "one round, basketball-sized, transparent object",
-    "location": "Livingston Manor, NY",
-    "witnesses": "three civilians",
-    "photographs": "no"
+    "main event": "A sighting of one round, transparent object resembling a basketball occurred in Livingston Manor, N.Y. on August 7, 1957.",
+    "interesting points": "The sighting lasted for one hour and the object was still in sight during that time., The object was observed at altitudes of 12,000 to 33,000 feet by different witnesses., It was reported that one witness initially noticed the object while looking up., Some witnesses used binoculars to observe the object., The reporting officer and one observer suspected the object to be a weather balloon.",
+    "sighted object": "one transparent object",
+    "location": "Livingston Manor, N.Y.",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians in the area, including an engineer",
+    "contains photographs": false
 }

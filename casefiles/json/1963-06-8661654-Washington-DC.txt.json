@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was sighted in the sky over Washington, D.C. on June 13, 1963.",
-    "interesting points": [
-        "The object changed in size, able to increase, diminish or fade during phases of clear and cloudy skies.",
-        "The object moved back and forth from south to east, going from an elevation of 60 degrees.",
-        "The object was still in sight when the observers retired for the night.",
-        "The object had a pinkish glow around it.",
-        "The sighting lasted for over an hour."
-    ],
-    "result": "unidentified",
-    "sighted object": "one single object",
+    "main event": "A sighting of a single unidentified object moving back and forth in the sky was reported in Washington, D.C. on June 13, 1963.",
+    "interesting points": "The object changed in size, increasing and diminishing during phases of clear and cloudy weather., The object was visible at an elevation of approximately 60 degrees., Witnesses reported a pinkish glow around the object., It was still in sight when the observers retired for the night., No aircraft or other vehicles were reported in the area during the time of the sighting.",
+    "sighted object": "one unidentified object changing in size",
     "location": "Washington, D.C.",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. ******, age unknown, voluntary worker at National Institutes of Health, reliability good.",
+    "contains photographs": false
 }

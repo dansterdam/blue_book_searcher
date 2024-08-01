@@ -1,15 +1,9 @@
 {
-  "main event": "A ground-radar observation of a UFO in Montevideo, Uruguay in 1959.",
-  "interesting points": [
-    "The observation lasted for 9 minutes, indicating a sustained and significant event.",
-    "The report was evaluated as having insufficient data, leaving the sighting unexplained.",
-    "The document implies that similar cases would be further studied.",
-    "The observation form includes detailed questions about the appearance and behavior of the UFO.",
-    "The witness's opinion and details about the sighting were also requested on the form."
-  ],
-  "result": "unexplained",
-  "sighted object": "one UFO",
-  "location": "Montevideo, Uruguay",
-  "witnesses": "not translated; the document mentions 'insufficiency of data'",
-  "photographs": "no"
+    "main event": "A UFO sighting was documented in Montevideo, Uruguay in 1959 as part of Project Blue Book.",
+    "interesting points": "The sighting was reported to last 9 minutes,The type of observation recorded was ground-radar,Only one object was observed during the sighting,The report was deemed insufficient for further investigation due to lack of data,The sighting was recorded in Spanish with details on the observation process.",
+    "sighted object": "one unidentified aerial object",
+    "location": "Montevideo, Uruguay",
+    "number of confirmed witnesses": 0,
+    "witness description": "Details regarding witnesses are incomplete.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO was reported in Saudi Arabia on November 27, 1953, observed descending from 20 degrees elevation to 5 degrees elevation at a speed of 1.75 degrees per second before disappearing from sight.",
-  "interesting points": [
-    "The UFO was described as a round silver object, about the size of a pinhead, with one side appearing reflective.",
-    "The observation lasted only two seconds, taking place at dusk.",
-    "No preliminary analysis was offered due to the short duration of the sighting and lack of detail on physical characteristics.",
-    "The report mentions the release of one balloon from Dhahran Airfield, but it is unclear if it was related to the UFO sighting.",
-    "The report indicates an insufficient amount of data for evaluation and offers no explanation for the observed phenomenon."
-  ],
-  "result": "unexplained",
-  "sighted object": "a round silver UFO",
-  "location": "Saudi Arabia",
-  "witnesses": "military personnel",
-  "photographs": "no photographs"
+    "main event": "A round silver object, about the size of a pinhead, was observed descending at dusk in Saudi Arabia on November 27, 1953.",
+    "interesting points": "The object appeared to move at a rate of 1.75 degrees per second., The object was described as being round and flat with one side reflective., The sighting lasted for approximately two seconds., There were no physical evidence or photographs available., The conclusion of the report stated 'insufficient data for evaluation.'",
+    "sighted object": "a round silver object",
+    "location": "Dahran, Eastern Province, Saudi Arabia",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

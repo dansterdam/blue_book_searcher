@@ -1,15 +1,9 @@
 {
-    "main event": "Report of a motor sighting, not a UFO sighting",
-    "interesting points": [
-        "The sighting lasted for 3-4 minutes",
-        "The object was observed for 1 minute",
-        "The object was described as a 'hilite' in size",
-        "The report states that it was 'not a report of UFO'",
-        "The report mentions a person named Clark Barthauser, who was a Liaison Officer, viewing a 'model' for about 10 minutes"
-    ],
-    "result": "motor sighting, not UFO",
-    "sighted object": "a 'hilite' sized object",
-    "location": "Reedsort, Oregon",
-    "witnesses": "PP (name redacted)",
-    "photographs": "no photographs"
+    "main event": "A report of a motor sighting was documented, not a UFO sighting.",
+    "interesting points": "The sighting occurred on 19th October 1963 in Reedsort, Oregon., The observation lasted for 3-4 minutes., The size of the object was noted as 1 hilite., A liaison officer was involved in the memo routing slip regarding the event., The engagement mentioned a plane landing in Portland-Eugene.",
+    "sighted object": "motor sighting",
+    "location": "Reedsort, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "PP (name redacted)",
+    "contains photographs": false
 }

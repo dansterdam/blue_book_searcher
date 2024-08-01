@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-  "main event": "A civilian witness spotted a blue to white blinking star-shaped object in the sky above Corpus Christi, Texas on October 14, 1966.",
-  "interesting points": [
-    "The object was observed for about 30 minutes.",
-    "The object was located up above the horizon, west-northwest of Corpus Christi.",
-    "The witness could not provide details on the object's flight path or how it disappeared.",
-    "There was no sound or exhaust observed from the object.",
-    "The weather conditions were clear with 15 mile visibility."
-  ],
-  "result": "insufficient data for evaluation",
-  "sighted object": "a blinking star-shaped object",
-  "location": "Corpus Christi, Texas",
-  "witnesses": "one civilian witness, Mrs. [REDACTED]",
-  "photographs": "none"
+    "main event": "A UFO sighting was reported over Laredo, Texas on 14 October 1966.",
+    "interesting points": "The observer reported seeing an egg-shaped to round object,The UFO changed colors from blue to orange,One of the witnesses was a 50-year-old housewife,The object was observed for about one hour,The reported speed of the object was between 17,000 to 20,000 mph.",
+    "sighted object": "one egg-shaped to round UFO",
+    "location": "Laredo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted], a 50-year-old housewife",
+    "contains photographs": false
 }

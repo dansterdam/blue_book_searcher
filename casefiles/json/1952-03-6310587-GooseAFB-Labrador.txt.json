@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Vapor trails were sighted at a very high altitude over Goose Air Base in Labrador.",
-    "interesting points": [
-        "The vapor trails were narrow and formed into a serpentine pattern.",
-        "The trails were observed at a very high altitude and in a northeasterly direction over the air base.",
-        "The MATS instructor pilot who reported the incident had seen similar vapor trails while flying in Europe during World War II.",
-        "The sighting was confirmed by another pilot, Major R. Hange.",
-        "There was no knowledge of any aircraft in the area at the time of the incident."
-    ],
-    "result": "unknown",
-    "sighted object": "vapor trails",
-    "location": "Goose Air Base, Labrador",
-    "witnesses": "MATS instructor pilot, Major R. Hange",
-    "photographs": "none"
+    "main event": "An instructor pilot observed sausage-shaped vapor trails at very high altitude over Goose Air Base, Labrador.",
+    "interesting points": "The vapor trails were reported to form in a serpentine pattern at an altitude of 43,000 feet., The vapor trails were seen during a flight by MATS instructor pilot and confirmed by another pilot., The sighting was reported to tower operations but no other aircraft were known to be in the area., The source had prior experience with vapor trails from his time in Europe during World War II., The report concluded there was insufficient data for evaluation.",
+    "sighted object": "sausage-shaped vapor trails",
+    "location": "Goose Air Base, Labrador, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "MATS instructor pilot and a major",
+    "contains photographs": false
 }

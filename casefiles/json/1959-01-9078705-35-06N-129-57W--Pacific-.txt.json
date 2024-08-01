@@ -1,15 +1,9 @@
 {
-    "main event": "An emergency sighting of a shiny bell-shaped object traveling from west to east in the southern horizon, as reported in an official document by the Department of the Air Force.",
-    "interesting points": [
-        "The object appeared to be traveling from west to east along the horizon and then disappeared over the horizon.",
-        "Duration of observation was 45 minutes, during which the object's magnetic heading, altitude, and speed were noted.",
-        "The altitude of the object was described as quite brilliant, possibly leaving a clear trail of illumination.",
-        "Instructions were provided for distributing the sighting information to various military and government agencies, indicating the seriousness of the report.",
-        "The document does not confirm the presence of any photographs of the observed object."
-    ],
-    "result": "prozaic explanation",
-    "sighted object": "shiny bell-shaped object",
-    "location": "Pacific, 35-06N 129-57W",
-    "witnesses": "Department of the Air Force personnel",
-    "photographs": "no"
+    "main event": "An observation of a shiny object similar to a meteor was reported on 2 Jan 69.",
+    "interesting points": "The object was observed for a duration of 45 minutes.,The object flew from west to east along the horizon.,The altitude of the object was noted as quite brilliant with a possible clear trail of illumination.,The report indicates it may have been a meteor.,The observation was part of an emergency report distributed to multiple military and government agencies.",
+    "sighted object": "shiny object resembling a meteor",
+    "location": "Pacific Ocean, NA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Not specified, observed from a position with coordinates 35-06N 129-57W.",
+    "contains photographs": false
 }

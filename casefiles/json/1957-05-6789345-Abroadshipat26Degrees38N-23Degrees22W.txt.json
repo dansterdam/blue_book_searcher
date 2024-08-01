@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported on May 6th, 1957, about 250 miles east of 26°38' N - 23°22' W. The sighting involved a circular shape with a brilliant glow, forming a ring around it, moving at a moderate speed and disappearing behind clouds at an altitude of 9,000' on bearing of 222°.",
-  "interesting points": [
-    "The UFO sighting involved a circular shape with a brilliant glow forming a ring around it, which is unusual and not commonly reported.",
-    "The sighting was documented to have occurred at a specific location, adding credibility to the report.",
-    "The report indicates that the UFO disappeared behind clouds at an altitude of 9,000', suggesting a controlled flight pattern.",
-    "The document includes a joint message form from Project Blue Book, indicating the official status and investigation of the UFO sighting.",
-    "There is mention of coordination with Navy officers and a naval repair station, underscoring the seriousness of the investigation."
-  ],
-  "result": "unexplained",
-  "sighted object": "circular UFO with brilliant glow",
-  "location": "About 250 miles east of 26°38' N - 23°22' W",
-  "witnesses": "Ship officers, mates, and a radio officer as well as naval personnel",
-  "photographs": "no"
+    "main event": "A sighting of a circular shape with a brilliant glow formed a ring around it, moving at moderate speed, disappearing behind clouds at an altitude of 9,000 feet.",
+    "interesting points": "The sighting occurred on May 6, 1957, at 2015 Z.,The object was observed approximately 250 miles east of the specified location latitude and longitude.,The object moved slowly off to the ESE before losing sight due to cloud cover.,A previous message referenced an official and significant interview undertaken following the sighting.,The object was positively identified as not being an astral body according to eyewitness accounts.",
+    "sighted object": "circular shape with a brilliant glow",
+    "location": "Unknown location, Unknown Region, Unknown Country",
+    "number of confirmed witnesses": 5,
+    "witness description": "Ship officers and crew members who observed the phenomena through binoculars.",
+    "contains photographs": false
 }

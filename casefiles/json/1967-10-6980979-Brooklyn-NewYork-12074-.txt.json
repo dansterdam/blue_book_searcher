@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A circular, lighted object was observed hovering in the sky over Brooklyn, New York on October 6, 1967.",
-    "interesting points": [
-        "The object was approximately 30 feet in diameter and bright silver in color, appearing to be metallic.",
-        "The object hovered at an altitude of around 1,000-2,000 feet for 3-5 minutes before rapidly accelerating and disappearing from view.",
-        "The sighting was made by a private citizen while walking in a public park.",
-        "Weather conditions were clear with excellent visibility at the time of the sighting.",
-        "The report states that the object does not correspond to any known aircraft or conventional aerial vehicle, and its rapid acceleration and disappearance indicate technological capabilities beyond current human technology."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, metallic object",
-    "location": "Brooklyn, New York",
-    "witnesses": "private citizen",
-    "photographs": "no, the report does not mention any photographs"
+    "main event": "On October 6, 1967, a circular, luminous object was observed hovering over Brooklyn, New York, for approximately 3-5 minutes before disappearing.",
+    "interesting points": "The object was described as round and approximately 30-40 feet in diameter, hovering at an altitude of 1,000-2,000 feet., The witness observed the object from a public park and reported it was bright silver and metallic., The weather conditions were clear, allowing for excellent visibility during the sighting., The report indicates the object exhibited no visible means of propulsion., The incident has been classified as UNIDENTIFIED with no known explanation.",
+    "sighted object": "circular, luminous object",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a private citizen observing from a public park and was identified as a housewife with her family.",
+    "contains photographs": false
 }

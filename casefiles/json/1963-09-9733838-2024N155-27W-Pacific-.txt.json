@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Pilots of Hawaiian Airlines Flight 9332 sighted a greenish-blue burning object 31 to 4 degrees above the horizon, bearing 075 degrees from their position at 22-24N 155-27W at 0914252Z.",
-    "interesting points": [
-        "The object was initially thought to be a burning star, but it lingered above the horizon too long.",
-        "The object was very close to the flight's aim point and was moving very slowly.",
-        "The sighting lasted for approximately 5 minutes.",
-        "The report states that there was 'no evaluation' of the object.",
-        "The sighting was reported through a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report, indicating it was considered a significant event."
-    ],
-    "result": "unexplained",
-    "sighted object": "greenish-blue burning object",
-    "location": "Pacific Ocean (Approx. 27N 155-27W)",
-    "witnesses": "Pilots of Hawaiian Airlines Flight 9332",
-    "photographs": "no"
+    "main event": "Several observers reported seeing 3-4 objects above the horizon at approx. 27N 155-27W on September 9, 1963.",
+    "interesting points": "The sighting occurred over a duration of 5 minutes, The objects were initially thought to be burning stars, but the duration of the sighting was too long for this assumption, The weather conditions were reported as clear, An Airman named Robert F. Havens was involved in the report, A separate sighting by Hawaiian Airlines No. 9332 noted a greenish blue burning object at a similar location.",
+    "sighted object": "3-4 objects above the horizon",
+    "location": "Pacific, Approx. 27N 155-27W",
+    "number of confirmed witnesses": 6,
+    "witness description": "Airline crew and military personnel",
+    "contains photographs": false
 }

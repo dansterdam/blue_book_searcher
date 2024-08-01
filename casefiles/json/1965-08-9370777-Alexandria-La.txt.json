@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white-yellow star-shaped object that brightened and dimmed with a red color change was observed stationary but jumping around in the sky over Alexandria, Louisiana for over 90 minutes.",
-    "interesting points": [
-        "The object was stationary but jumped around from south to north and back again.",
-        "The object was observed on and off for over 90 minutes.",
-        "The object was at a distance and appeared to be a white-yellow star-shaped object.",
-        "The object had a red color change and brightened and dimmed during the observation.",
-        "The object was at an elevation of about 30 degrees in the west."
-    ],
-    "result": "Astro (ARCTURUS)",
-    "sighted object": "A white-yellow star-shaped object",
-    "location": "Alexandria, Louisiana",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A military personnel and a state agent reported sightings of unidentified flying objects in Alexandria, Louisiana in August 1965.",
+    "interesting points": "The first sighting on 26 August involved a white-yellow star shaped object that exhibited brightening and dimming effects., A state agent's vehicle was struck by a bright object emitting a blue-green light, causing damage to his windshield., Military personnel from Keesler Air Force Base reported seeing a circular object with blue-green lights moving at high speed., The sightings were labeled as reliable observations by the state agent., None of the witnesses had a camera available to document the sightings.",
+    "sighted object": "unidentified flying objects including a star-shaped and circular object with lights",
+    "location": "Alexandria, Louisiana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "state agent and military personnel",
+    "contains photographs": false
 }

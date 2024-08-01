@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Two employees of a county in Montana reported seeing a white, egg-shaped object that 'rode up and down' on two consecutive days between April 19-25, 1964.",
-    "interesting points": [
-        "The object was observed twice on consecutive days during the week of April 19-25.",
-        "The object was described as white and egg-shaped.",
-        "The motion of the object was described as 'riding up and down'.",
-        "The location of the sighting was 24 miles east of Miles City, Montana, on the road to Terry, Montana, in an area that was inaccessible except by air or horseback.",
-        "The report was made after the observers heard a radio broadcast about a similar alleged sighting in Helena, Montana."
-    ],
-    "result": "insufficient data for analysis",
-    "sighted object": "white, egg-shaped object",
-    "location": "24 miles east of Miles City, Montana, on the road to Terry, Montana",
-    "witnesses": "two employees of a county in Montana",
-    "photographs": "no"
+    "main event": "Object observed twice on consecutive days between 19 and 25 April 1964.",
+    "interesting points": "The object was reported as white in color and egg-shaped., Motion was described as 'rise up and down'., The observation was made by ranchers not mentioned by name., The exact size of the object was not reported., The location of the sighting was twenty-four miles east of Miles City, Montana, making it inaccessible except by air or horseback.",
+    "sighted object": "egg-shaped white object",
+    "location": "Miles City, Montana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "ranchers from ___ County, Montana",
+    "contains photographs": false
 }

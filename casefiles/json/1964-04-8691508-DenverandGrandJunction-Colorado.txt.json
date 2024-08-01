@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple reports of a bright, flashing, streaking object moving westerly in the sky over Colorado on April 9, 1964.",
-    "interesting points": [
-        "The object was observed from multiple aircraft as well as from the ground by the Denver Air Route Traffic Control Center watch supervisor.",
-        "The object was reported to be affecting radio communications.",
-        "General Cabell also observed the object at 0202 on April 9.",
-        "Reports of the sighting were received at Holloman AFB and across New Mexico.",
-        "The object was only visible for a few seconds."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright, flashing, streaking object",
-    "location": "Denver and Grand Junction, Colorado",
-    "witnesses": "civilian and military personnel",
-    "photographs": "no photographs included in the report"
+    "main event": "Multiple reports were received from Denver Air Traffic Control and military personnel regarding a bright white streaking object observed in flight for a few seconds on 9 April 1964.",
+    "interesting points": "The object moved westerly across the sky at a high speed., Witnesses included two supervisors from Denver Air Route Traffic Control Center., Reports of the object's effect on radio communications were received from New Mexico State Police., General Cabell observed the object at 0202 on 9 April., The object was described as a bright, flashing streak in the sky.",
+    "sighted object": "bright white flashing streaking object",
+    "location": "Denver & Grand Junction, Colorado",
+    "number of confirmed witnesses": 2,
+    "witnesses": "Denver Air Route Traffic Control Center supervisors",
+    "photographs": false
 }

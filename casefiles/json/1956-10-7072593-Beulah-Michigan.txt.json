@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A civilian witness observed a large, oval-shaped object with a row of blue lights along the bottom in Beulah, Michigan on October 22, 1956.",
-    "interesting points": [
-        "The object was aluminum-colored and made a hissing sound.",
-        "The object was observed visually and through a 30-power scope for 2-5 minutes.",
-        "The object disappeared very quickly towards the east-northeast.",
-        "The case was not conclusively explained and was marked as 'insufficient data' for evaluation.",
-        "Multiple witnesses in the Benzie County area reported similar sightings that were confirmed."
-    ],
-    "result": "unknown",
-    "sighted object": "large, oval-shaped object with blue lights",
-    "location": "Beulah, Michigan",
-    "witnesses": "civilian, including Mr. Robert Sutton",
-    "photographs": "yes, the report includes several photographs of the object"
+    "main event": "One oval or egg-shaped object was observed in Beulah, Michigan on 22 October 1956.",
+    "interesting points": "The object was aluminum colored with a row of blue lights along the bottom., It produced a hissing sound during the sighting., The sighting lasted for about 2 to 5 minutes., The object was observed visually and through a 30 power scope., The object disappeared very fast into the ENE direction.",
+    "sighted object": "oval or egg-shaped object",
+    "location": "Beulah, Michigan, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Mr. Robert Sutton and confirmed by at least three other persons in the Benzie County area.",
+    "contains photographs": true
 }

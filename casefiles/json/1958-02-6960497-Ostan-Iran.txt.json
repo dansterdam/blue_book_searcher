@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Bright light passing through the sky, another unidentified aircraft flying so high it could not be seen, but leaving two vapor streams.",
-    "interesting points": [
-        "The unidentified aircraft was moving at a very high speed, estimated at 400-500 knots, and was maneuvering in an unusual way, indicating it was not a typical aircraft.",
-        "The object was sighted by multiple observers, including Iranian fishermen and military personnel.",
-        "There was concern that the object might be of Russian origin, causing excitement in the local population.",
-        "The incident occurred in the Ostan region of Iran, near the border with the Soviet Union.",
-        "The U.S. Air Force was involved in the investigation and analysis of the incident."
-    ],
-    "result": "unknown",
-    "sighted object": "bright light and unidentified high-altitude aircraft",
-    "location": "Ostan, Iran",
-    "witnesses": "Iranian fishermen and military personnel",
-    "photographs": "no"
+    "main event": "Bright light observed passing through the sky and unidentified aircraft leaving two vapor streams over Ostan, Iran on February 2, 1958.",
+    "interesting points": "The observation lasted for about 3 minutes., There were multiple witnesses including two Iranian fishermen and military personnel., The object was estimated to be flying at 400-500 knots and at an altitude of 10-15,000 feet., The sighted object was initially thought to be a USAF experimental jet plane., The local population speculated it might be Russian missiles causing excitement in the area.",
+    "sighted object": "bright light and unidentified aircraft",
+    "location": "Tabriz, Ostan, Iran",
+    "number of confirmed witnesses": 5,
+    "witness description": "two fishermen and military personnel",
+    "contains photographs": false
 }

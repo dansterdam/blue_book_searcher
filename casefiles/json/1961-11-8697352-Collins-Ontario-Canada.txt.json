@@ -1,15 +1,9 @@
 {
-    "main event": "A large ball of fire was observed traveling through the air at low altitude below the clouds, from east to west, near Collins, Ontario, Canada.",
-    "interesting points": [
-        "The object was observed for about 15 minutes, moving at a good speed but not extremely fast.",
-        "The weather at the time was reported to be a 4/10 overcast, with cloud cover at 3,000 feet.",
-        "The director on duty at the nearby air operations center was asked if his crew had seen anything on the radar, but he stated they had not observed any unidentified objects.",
-        "The object was described as a large, oval-shaped ball of fire in color.",
-        "The observer, who was located about half a mile from Collins, stated that the object was not an aircraft or weather balloon."
-    ],
-    "result": "unexplained",
-    "sighted object": "large ball of fire",
+    "main event": "A large ball of fire was observed traveling through the air at low altitude near Collins, Ontario on May 5, 1961.",
+    "interesting points": "The observation lasted for 15 minutes, The ball of fire was estimated to be at an altitude of 3,000 to 4,000 feet, The weather at the time was reported to be low overcast at 3,000 feet, The object was seen traveling from east to west at a good speed, Ground radar tracked the object but it was still unclear if it was a ballistic missile or aircraft.",
+    "sighted object": "ball of fire traveling",
     "location": "Collins, Ontario, Canada",
-    "witnesses": "civilian observer",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "A male observer reporting from a pond located approximately half a mile from Collins.",
+    "contains photographs": false
 }

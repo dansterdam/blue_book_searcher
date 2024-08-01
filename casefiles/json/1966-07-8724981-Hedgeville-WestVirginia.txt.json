@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A civilian witness reported seeing a large, round, bright object hovering and maneuvering over Hedgeville, West Virginia on July 8, 1966.",
-    "interesting points": [
-        "The object was described as metallic in appearance and emitting a soft, pulsing glow.",
-        "The object remained in the area for several minutes before suddenly accelerating and disappearing from sight at a high rate of speed.",
-        "The witness immediately contacted local authorities to report the incident.",
-        "No other witnesses have come forward at this time.",
-        "Investigation into this case is ongoing, with no definitive conclusions reached."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, round, bright object",
-    "location": "Hedgeville, West Virginia",
-    "witnesses": "1 civilian witness",
-    "photographs": "none"
+    "main event": "On July 22, 1966, a civilian reported sighting a bright object in the sky in Hedgeville, West Virginia, which was observed for approximately 20 minutes.",
+    "interesting points": "The object appeared round and was described as having a brilliant bright light around its outer edge., Witness reported it was stationary and did not move during the entire observation period., The sighting reportedly occurred just before dawn when it still maintained brightness., The observer noted that the object resembled the size of a dinner plate., The object was visible clearly despite the approaching dawn and had no noise associated with it.",
+    "sighted object": "a bright round object with a brilliant light edge",
+    "location": "Hedgeville, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, female, observed the object at ground level",
+    "contains photographs": false
 }

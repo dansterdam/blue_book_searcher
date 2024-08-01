@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A white glow was observed in the sky that hopped, then climbed rapidly and leveled off.",
-    "interesting points": [
-        "The object had a 'white glow' and something possibly behind the light.",
-        "The object exhibited unusual flight characteristics, including level flight, then a rapid climb and eventual level-off.",
-        "The report mentions the object's behavior did not correlate with known aircraft in the area at the time.",
-        "The observer was an Air Force reservist.",
-        "A balloon released from a nearby Air Force base was considered but likely not involved."
-    ],
-    "result": "unexplained",
-    "sighted object": "white glow in the sky",
-    "location": "Cleburne, Texas",
-    "witnesses": "Convair service engineer",
-    "photographs": "no"
+    "main event": "A white glowing object was observed hopping in the sky and climbing rapidly over Crowley, Texas on September 21, 1957.",
+    "interesting points": "The object was described to have a white glow, The sighting lasted only 10 seconds, The object initially had a level flight before climbing rapidly, The observer noted that the object's behavior did not correlate with any known aircraft in the area, The observer was a Convair service engineer and an Air Force reservist.",
+    "sighted object": "white glowing object",
+    "location": "Crowley, Texas, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "Convair service engineer and Air Force reservist",
+    "contains photographs": false
 }

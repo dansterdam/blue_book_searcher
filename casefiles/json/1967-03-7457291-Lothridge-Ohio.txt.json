@@ -1,17 +1,9 @@
-Here is the summary of the UFO case in JSON format:
-
 {
-    "main event": "A person spotted an unidentified object in the sky over Lothridge, Ohio on March 9, 1967.",
-    "interesting points": [
-        "The object was solid and bright, compared to a star of the first magnitude.",
-        "The object had no distinct form or outline, and was dark gray in color.",
-        "The object was observed for 11 minutes, moving from southwest to east.",
-        "The case was forwarded to the University of Colorado for further investigation.",
-        "The Air Force was unable to conduct a complete investigation due to insufficient data."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a solid, bright object in the sky",
-    "location": "Lothridge, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in Lothridge, Ohio on March 9, 1967.",
+    "interesting points": "The object was described as solid and had a brightness comparable to a first magnitude star., The sighting lasted for 11 minutes and the object was noted to have a 'saucer-like' shape., There were no distinct sounds associated with the object., The observer compared the colors of the object to dark gray., The official conclusion of the Air Force was 'insufficient data for evaluation.'",
+    "sighted object": "a solid object with bright lights",
+    "location": "Lothridge, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a couple driving down a country road",
+    "contains photographs": false
 }

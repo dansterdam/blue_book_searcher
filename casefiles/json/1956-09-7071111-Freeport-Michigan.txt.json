@@ -1,15 +1,9 @@
 {
-    "main event": "A ground-visual observation of a UFO was reported on 23 September 1950 in Freeport, Michigan. The object was seen in the morning around sunrise and remained in observation until 0745.",
-    "interesting points": [
-        "The sighting lasted for approximately 15 minutes from 0730 to 0745.",
-        "The observer had sighted a similar object before.",
-        "The object was described as transitioning from silver to red to yellow.",
-        "The observer used 10-power field glasses to view the object.",
-        "The document mentions a friend of the observer who also saw the object and computed that it was over the Pacific Ocean."
-    ],
-    "result": "Doubtful, with possible explanations listed as 'D Probably Balloon' or 'D Probably Aircraft' due to insufficient data for evaluation.",
-    "sighted object": "One object transitioning from silver to red to yellow",
-    "location": "Freeport, Michigan",
-    "witnesses": "The observer and a friend of the observer",
-    "photographs": "No photographs included in the report"
+    "main event": "A UFO was sighted in Freeport, Michigan on September 23, 1950, between 0730 and 0745.",
+    "interesting points": "The object was observed at an elevation of 240 degrees and was still visible at 0745., The observer has sighted objects like this before., The object was described as silver to red to yellow in color., The sighting was made with 10 power field glasses., There was a suggestion that the object might be a balloon or aircraft, but insufficient data was available for evaluation.",
+    "sighted object": "Unidentified object",
+    "location": "Freeport, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Male, 45 years old, steelworker, wears bifocals for work.",
+    "contains photographs": false
 }

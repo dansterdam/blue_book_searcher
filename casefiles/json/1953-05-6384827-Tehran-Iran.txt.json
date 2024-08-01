@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Several unidentified flying objects were observed over Tehran, Iran by control tower operators and Iranian Air Force pilots on the night of 13 March 1953.",
-    "interesting points": [
-        "The objects displayed unusual maneuverability and luminosity.",
-        "The objects were tracked on radar by the Iranian Air Force.",
-        "The sighting lasted for approximately 1 hour and 20 minutes.",
-        "The weather was clear and the visibility was good at the time of the sighting.",
-        "No conventional aircraft were known to be in the vicinity during the incident."
-    ],
-    "result": "unexplained",
-    "sighted object": "several unidentified flying objects",
+    "main event": "On 13 March 1953, several unidentified objects were sighted in the sky over Tehran, Iran. The objects were tracked on radar and engaged by Iranian Air Force fighter jets. The incident lasted several hours and involved multiple sightings and encounters with the unknown objects.",
+    "interesting points": "Multiple sightings were reported over several hours,The objects were tracked on military radar,Engagement by Iranian Air Force fighter jets occurred,The objects displayed unusual maneuverability and luminosity,Reports of foreign aircraft overflights were considered during investigations.",
+    "sighted object": "unidentified flying objects",
     "location": "Tehran, Iran",
-    "witnesses": "control tower operators, Iranian Air Force pilots",
-    "photographs": "no"
+    "number of confirmed witnesses": 5,
+    "witness description": "Control tower operators, Iranian Air Force pilots, and military personnel",
+    "contains photographs": false
 }

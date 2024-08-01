@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report provided:
-
 {
-    "main event": "The crew of a KC-135 aircraft spotted an unidentified bluish-white object with a teardrop shape over Nevada in 1963.",
-    "interesting points": [
-        "The object was pea-sized at first but grew larger as it continued on a downward sloping trajectory.",
-        "The object left a contrail approximately 5 miles long, which grew significantly larger in size compared to the object itself.",
-        "The object was spotted at an angle of 60 degrees right and 30 degrees above the aircraft, and it descended at an increasing angle of declination.",
-        "The object disintegrated rapidly, with the contrail dissipating slowly.",
-        "The sighting lasted for about 4 minutes, while the contrail was visible for 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a teardrop-shaped bluish-white object",
-    "location": "40 miles NE of Las Vegas, Nevada",
-    "witnesses": "5 military personnel aboard a KC-135 aircraft",
-    "photographs": "no"
+    "main event": "Three military observers reported witnessing a tear drop shaped, bluish-white object disintegrate in the sky approximately 40 miles NE of Las Vegas, Nevada on 18 July 1963.",
+    "interesting points": "The object was sighted for about 4 minutes with a contrail lasting 10 minutes., The observers included Major Warren H. Williams and several other military personnel., The sighting coincided with a potential missile launch from Point Arguello., The sighting occurred under clear weather with unlimited visibility., The object was described as pea-sized before disintegration.",
+    "sighted object": "tear drop shaped object",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "military personnel including officers and a sergeant",
+    "contains photographs": false
 }

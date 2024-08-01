@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A resident of Pleasant Garden, North Carolina reported seeing a bright, luminous object in the sky that appeared to be changing color and pulsating.",
-    "interesting points": [
-        "The object was described as no brighter than a star, with a luminous, pulsating appearance.",
-        "The object moved off to the north and was observed for about 12 minutes.",
-        "The witness had prior experience as a radar technician and missile control operator in the U.S. Air Force.",
-        "The witness provided sketches showing the object's path and location in the sky.",
-        "Multiple similar sightings were reported in the area around the same time."
-    ],
-    "result": "Inconclusive, likely an aircraft",
-    "sighted object": "A bright, luminous object that changed color and pulsated",
-    "location": "Pleasant Garden, North Carolina",
-    "witnesses": "A civilian witness",
-    "photographs": "None"
+    "main event": "A light, no brighter than a star, was observed pulsating and changing colors over Pleasant Garden, North Carolina on August 30, 1953.",
+    "interesting points": "The sighting lasted for approximately 12 minutes, The object moved off to the north without performing any maneuvers, The observer reported atmospheric conditions affecting visibility, The witness estimated the object to be about the size of a helicopter, The report contains sketches of the object and its trajectory.",
+    "sighted object": "a pulsating light in the sky",
+    "location": "Pleasant Garden, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 62-year-old male, former Air Force radar technician",
+    "contains photographs": false
 }

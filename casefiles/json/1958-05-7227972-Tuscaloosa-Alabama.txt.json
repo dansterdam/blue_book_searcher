@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A red ball of fire, approximately 50-60 feet tall or larger, was observed in the sky over Tuscaloosa, Alabama.",
-    "interesting points": [
-        "The object was observed for 5-10 seconds and traveled in a northerly direction.",
-        "The object was reported to Tuscaloosa radio by multiple civilian observers.",
-        "An aircraft flying over Birmingham also reported seeing a flash of light, but did not observe the object.",
-        "The report suggests the object was likely a meteor, though it is listed as 'Unknown' in the conclusions.",
-        "Detailed weather conditions at the time of the sighting were provided, including wind speeds and cloud cover."
-    ],
-    "result": "unknown",
-    "sighted object": "a red ball of fire, approximately 50-60 feet tall or larger",
-    "location": "Tuscaloosa, Alabama",
-    "witnesses": "multiple civilian observers",
-    "photographs": "none"
+    "main event": "A red ball of fire was observed in Tuscaloosa, Alabama on May 16, 1958.",
+    "interesting points": "The object was described as being 50-60 ft tall or larger,The sighting lasted for about 5-10 seconds and the object traveled north over Tuscaloosa,It was observed from the ground,Comments included that the object appeared to be a meteor,Multiple reports of a similar sighting were received by Tuscaloosa Radio.",
+    "sighted object": "a red ball of fire",
+    "location": "Tuscaloosa, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer from Tuscaloosa",
+    "contains photographs": false
 }

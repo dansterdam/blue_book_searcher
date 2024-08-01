@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A radar-tracked unidentified object was observed over Lake City AFS, Tennessee for 41 minutes in December 1957.",
-    "interesting points": [
-        "The object was about the size of 3 B-47 aircraft and was tracked on radar at an altitude of 13,000 feet.",
-        "The object's speed was estimated to be around 90 knots, which is inconsistent with its ability to stay in the radar range for 41 minutes.",
-        "The object was observed descending from an initial altitude and its speed was estimated to be 52 knots at one point.",
-        "The object faded from the radar screen after about 15 minutes of observation.",
-        "The weather conditions included winds from the northwest to southeast at 30-40 knots, but the object was moving in the direction of the wind."
-    ],
-    "result": "unexplained",
-    "sighted object": "a radar-tracked unidentified object",
-    "location": "Lake City AFS, Tennessee",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A radar detection and visual observation of a UFO occurred at Lake City AFS in December 1957.",
+    "interesting points": "The object was estimated to be about the size of 3 B-47 aircraft,The object was detected at an altitude of 13,000 feet,The observation lasted for 41 minutes,The estimated speed of the object was 90 knots, and it was suggested that the object was moving in the direction of the prevailing winds.",
+    "sighted object": "one unidentified aerial object",
+    "location": "Lake City, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "surveillance supervisor, reliably good",
+    "contains photographs": false
 }

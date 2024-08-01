@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A farmer spotted 3 glowing blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "On January 7, 1969, witnesses reported observing a circular luminous object hovering and then moving rapidly in Boydton, Virginia.",
+    "interesting points": "The object was described as being approximately 50 feet in diameter and disc-shaped,It exhibited rapid acceleration and maneuverability,No sound was reported during the sighting,The weather conditions were clear with a light wind,Two families, the Kings and the Smiths, witnessed the event.",
+    "sighted object": "one disc-shaped luminous object",
+    "location": "Boydton, Virginia, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mr. William King, Mrs. Annie King, Robert King",
+    "contains photographs": false
 }

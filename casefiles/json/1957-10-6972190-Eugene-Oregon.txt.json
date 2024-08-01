@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground observer spotted a slow-moving object, larger than a meteor, falling straight to Earth and disappearing on the horizon.",
-    "interesting points": [
-        "The object was described as yellowish in color and one in number.",
-        "The object fell straight to Earth in a vertical trajectory.",
-        "The sighting was very brief, with no additional details provided.",
-        "The observer was from a Civilian Ground Observer Corps (GOC) tower.",
-        "The report includes inconclusive conclusions, suggesting the object could have been a balloon, aircraft, or meteor."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a single, slow-moving object larger than a meteor",
-    "location": "Eugene, Oregon",
-    "witnesses": "Civilian GOC observer",
-    "photographs": "none"
+    "main event": "A bright yellowish object, larger than a meteor, was observed falling straight to the earth in Eugene, Oregon.",
+    "interesting points": "The observation was made using ground radar and visual methods., The sighting lasted for a very brief period of time., The object disappeared into the horizon after being seen., It was concluded that the object was probably a meteor, but there was insufficient data for evaluation., The report was part of Project Blue Book and involved communication with military intelligence.",
+    "sighted object": "a yellowish object larger than a meteor",
+    "location": "Eugene, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "one observer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian in Green City, Missouri reported a UFO sighting on 29 January 1955, with the observation lasting 24-25 seconds.",
-    "interesting points": [
-        "The object was described as hovering at an estimated altitude of approximately 300 feet, with a diameter of approximately 3/4 inch and featuring windows.",
-        "The observer was driving a vehicle at the time of the sighting, adding credibility to the report.",
-        "The investigator's opinion was undetermined due to the brevity of the sighting and limited data, but the unusual character of the object did not lend itself to any obvious explanation.",
-        "The report includes photographs, adding potential visual evidence to the sighting.",
-        "The conclusion stated 'Insufficient Data for Evaluation' and 'Unknown', leaving the identification of the object unresolved."
-    ],
-    "result": "unexplained",
-    "sighted object": "Unidentified Flying Object (UFO) with windows",
-    "location": "Green City, Missouri",
-    "witnesses": "Civilian",
-    "photographs": "Yes"
+    "main event": "A driver observed a UFO hovering approximately 300 feet above ground for 24-25 seconds on 29 January 1955.",
+    "interesting points": "The object was estimated to be 300 feet in diameter and 3/4 inch thick with windows., The sighting lasted for only 24-25 seconds., The object was described as having unusual characteristics that did not lend themselves to any obvious explanation., The identification of the object was deemed undetermined due to insufficient data., The report was part of Project Blue Book, a systematic study of UFO sightings conducted by the U.S. Air Force.",
+    "sighted object": "one unidentified flying object",
+    "location": "Green City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a driver",
+    "contains photographs": true
 }

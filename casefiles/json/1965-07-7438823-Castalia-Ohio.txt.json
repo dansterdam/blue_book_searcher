@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A resident of Castalia, Ohio reported seeing an unidentified aerial object on July 25, 1965.",
-    "interesting points": [
-        "The object was first noticed moving rapidly from east to west at an altitude estimated to be about 2,000 feet.",
-        "The object appeared circular in shape with a brilliant white light.",
-        "When the object reached a point overhead, it stopped, hovered briefly, then reversed its direction of travel, moving slowly from west to east and finally disappearing to the east.",
-        "The duration of the observation was approximately 15 minutes.",
-        "The report states that this office has been unable to identify a conventional explanation for the lighted object observed on this occasion."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular object with a brilliant white light",
-    "location": "Castalia, Ohio",
-    "witnesses": "a resident",
-    "photographs": "no"
+    "main event": "An observer in Castalia, Ohio, reported seeing a silvery cigar-shaped object at high speed moving from east to west on July 25, 1965.",
+    "interesting points": "The sighting lasted approximately 10-25 seconds, with the object estimated to be about 20 feet in length,The object slowed down, hovered, and then accelerated before disappearing,The observer noted no sound was made by the object,It was moving at a course of 355 degrees,The investigation concluded the object was unidentified with no physical evidence found.",
+    "sighted object": "a silvery cigar-shaped object",
+    "location": "Castalia, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a retired accountant, age 55",
+    "contains photographs": false
 }

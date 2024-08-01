@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported at S. Weymouth Naval Station, N.J. on 13 December 1957. The observed object was described as a blue, daly shaped object with bright lights blinking steadily, moving from SE to NW and then NW to SE.",
-    "interesting points": [
-        "The sighting lasted for only 10 seconds, indicating a brief observation.",
-        "The object was described as having steady blinking lights, suggesting a structured and intentional movement.",
-        "The report mentioned the possibility of the object being a meteor, indicating an attempt to provide a prosaic explanation for the sighting.",
-        "Despite the mention of photographs, the report does not contain any actual photographs.",
-        "The document acknowledges the poor quality of the report and the lack of detailed information."
-    ],
-    "result": "prosaic explanation (meteor)",
+    "main event": "A blue, daly shaped object with bright lights blinking steadily was observed at S. Weymouth Naval Station.",
+    "interesting points": "The sighting took place on December 13, 1957,The object was seen moving from Southeast to Northwest and then back,The observation lasted for about 10 seconds,The object was described as possibly being a meteor,There are no photographs included with this specific record card.",
     "sighted object": "blue, daly shaped object with bright blinking lights",
-    "location": "S. Weymouth Naval Station, N.J.",
-    "witnesses": "N/A",
-    "photographs": "no"
+    "location": "S. Weymouth, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Robert A. Watt, T. Comdr.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A light, alternating from blue-white to orange-red, was observed by a tower operator at NAS Noris. The object was stationary then moved at high speed.",
-    "interesting points": [
-        "The object appeared as a bright light that alternated in color from blue-white to orange-red.",
-        "The object was observed by a tower operator at NAS Noris as an aircraft was taking off.",
-        "Upon approach, the pilot reported a rapid acceleration of the object westward at high speed.",
-        "Airborne radar could not acquire the object at 17 miles but maintained contact for 48 miles, closing to within 6 miles.",
-        "The object maintained an 8-mile separation from the pursuing aircraft despite radical power changes and erratic maneuvering."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright light alternating in color",
-    "location": "NAS Noris, San Diego, California", 
-    "witnesses": "tower operator, pilot",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported in San Diego, California on 11 October 1957, involving a light that alternated from blue-white to orange-red and was observed to be stationary before moving rapidly.",
+    "interesting points": "The object was described as a light with fluctuating colors., It was stationary for a time before accelerating rapidly., The sighting was recorded at 0232 hours., Interpretations of the event included possible explanations such as a balloon or meteor., Further analysis of photographic data was suggested to gain better understanding.",
+    "sighted object": "a light alternating from blue-white to orange-red",
+    "location": "San Diego, California, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness observed the object visually and noted its color changes.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Two low flying cigar-shaped objects were sighted over the Iran-Loftabad border area.",
-    "interesting points": [
-        "One object came from the direction of Russia-Afghanistan, flew over the border area, and then returned in the same direction.",
-        "The second object also came from the Russia-Afghanistan direction but continued flying northward.",
-        "The objects were witnessed by the border commander, who noted they were wingless and had no visible pilots.",
-        "The objects remained intact for 3 hours before gradually expanding in a pattern or contrail.",
-        "The report comments that there is no new construction in the area."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "Two low flying cigar-shaped objects were sighted over the Loftabad border area in Iran.",
+    "interesting points": "The objects came from the direction of Russia-Afghanistan, One object flew over the border and returned to Iran while the other continued northward, The objects remained intact for 3 hours before gradually expanding in a contrail pattern, The border commander reported that the objects were wingless and had no visible pilots, The report lacks sufficient data for proper evaluation including duration and corroborating witnesses.",
     "sighted object": "two cigar-shaped objects",
     "location": "Loftfabal, Iran",
-    "witnesses": "border commander",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "border commander",
+    "contains photographs": false
 }

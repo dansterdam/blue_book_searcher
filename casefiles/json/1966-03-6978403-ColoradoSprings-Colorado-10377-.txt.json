@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A resident of Colorado Springs, Colorado reported seeing a bright glowing object in the sky on March 6, 1966.",
-    "interesting points": [
-        "The object was approximately the size of a golf ball held at arm's length and was hovering silently above the trees.",
-        "The witness was able to observe the object for several minutes before it rapidly accelerated and disappeared from sight.",
-        "Air Force personnel were notified and investigated the incident, but were unable to determine the nature or origin of the observed phenomenon.",
-        "Another witness, Mr. Charles Keeney, reported seeing a circular, metallic-looking object moving across the sky in a northerly direction for about 5 minutes.",
-        "Mr. Keeney took one photograph of the object with his Kodak Instamatic camera, which was submitted as part of the report."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright glowing object and a circular, metallic-looking object",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "a resident, Mr. Charles Keeney",
-    "photographs": "yes, one photograph was taken by Mr. Keeney"
+    "main event": "Mr. and Mrs. E. Crum observed a large, bright reddish-orange circular object hovering in the sky in Colorado Springs on March 6, 1966.",
+    "interesting points": "The object was about the size of a basketball at arm's length, The Crums reported the sighting to the Colorado Springs Police Department immediately after, The object began to move slowly before accelerating rapidly and disappearing from sight, Air Force personnel were notified and investigated but found no explanation for the sighting, Mr. Charles Keeney also reported seeing a metallic circular object hovering in the sky around the same date.",
+    "sighted object": "large circular object glowing reddish-orange",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. E. Crum",
+    "contains photographs": false
 }

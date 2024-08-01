@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "Four objects were observed which maneuvered over an area of approximately one-half square mile during a 15-20 minute period.",
-    "interesting points": [
-        "The objects maneuvered over an area of approximately one-half square mile during a 15-20 minute period.",
-        "The original report was forwarded to this headquarters by the 1st Marine Air Wing.",
-        "The report was approved by Brigadier General Charles Y. Banfill, Director of Intelligence.",
-        "The report was downgraded at 3 year intervals and declassified after 12 years.",
-        "The sighting occurred in Benedict, Maryland."
-    ],
-    "result": "unexplained",
-    "sighted object": "four unidentified objects",
-    "location": "Benedict, Maryland",
-    "witnesses": "not specified",
-    "photographs": "no"
+    "main event": "Two sergeants spotted an unidentified flying object over Benedict, Maryland on June 22, 1952, describing it as circular and colored silvery with orange hues, performing unusual maneuvers.",
+    "interesting points": "The object was first seen traveling from north to south at an estimated speed of 200-300 knots., The object came to a complete stop overhead and then oscillated before moving in a straight line., It performed a 180-degree turn, climbing in a spiral before disappearing completely., Witnesses reported no sounds during the observation., The meteorological conditions at the time of the sighting reported clear visibility with no unusual weather.",
+    "sighted object": "a circular unidentified flying object",
+    "location": "Benedict, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two sergeants from the VYA-212 Operations Office",
+    "contains photographs": false
 }

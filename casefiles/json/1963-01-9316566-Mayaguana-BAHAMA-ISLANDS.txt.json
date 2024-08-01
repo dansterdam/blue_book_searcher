@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A fast-moving, bright object was observed descending over the Mayaguana airstrip on January 5, 1963.",
-    "interesting points": [
-        "The object was described as a point of light similar to a large star, descending on a course approximately 5 degrees south of due east.",
-        "The object was estimated to be at an altitude of 5 miles and have a length of 1 to 2 feet.",
-        "The object was estimated to be traveling at a speed of 223 knots.",
-        "The object was observed by two Pan Am employees from 11:32 GMT to 11:33 GMT, when it was lost from sight at the horizon.",
-        "No electronic interference was noted, and checks were made with the local population, but no known space objects were scheduled to pass at that time."
-    ],
-    "result": "unknown",
-    "sighted object": "a fast-moving, bright object descending over the airstrip",
+    "main event": "An object similar to a large star was observed over the horizon at a speed of 2,500 mph on 5 January 1963.",
+    "interesting points": "The object was described as a pin-point of light observed for 1 minute.,The object was heading approximately 5 degrees south of due east.,The estimated altitude of the object was around 5 miles.,It was observed by two employees from a nearby location.,The report mentions that NORADS/ADC ruled out known satellite schedules.",
+    "sighted object": "a pin-point of light resembling a large star",
     "location": "Mayaguana",
-    "witnesses": "two Pan Am employees",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "employees from a local area",
+    "contains photographs": true
 }

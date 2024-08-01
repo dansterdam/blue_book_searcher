@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains records and descriptions of UFO sightings in Uruguay and Los Angeles in 1955.",
-  "interesting points": [
-    "The Uruguay report indicates a sighting of a single unidentified object, with a conclusion that it was possibly astronomical.",
-    "The report from Uruguay includes detailed questions about the observed phenomenon, such as its brightness, speed, and movement.",
-    "The document from Uruguay suggests possible intelligent control of the observed object and mentions the presence of other unidentified luminous objects.",
-    "In the Los Angeles report, the initial impression of flying saucers was later identified as a flock of birds with dark wing tips.",
-    "The Los Angeles sighting caused a flood of reports to police stations, indicating widespread public interest and concern about the UFO phenomenon."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying objects",
-  "location": "Uruguay, Los Angeles, CA",
-  "witnesses": "student, unidentified observers in Uruguay; general public in Los Angeles",
-  "photographs": "no"
+    "main event": "A UFO sighting was reported in Uruguay on May 29, 1955, with the conclusion indicating it was a balloon.",
+    "interesting points": "The sighting occurred at 21:30 hours, The observation did not report the length of time, There was one object observed moving south, The investigation was conducted by the Centro de Investigacion de Objetos Voladores Identificados in Uruguay, The report included unconfirmed comments on the object's rapid speed and brightness.",
+    "sighted object": "one unidentified object",
+    "location": "Uruguay",
+    "number of confirmed witnesses": 0,
+    "witness description": "Student, details unspecified",
+    "contains photographs": false
 }

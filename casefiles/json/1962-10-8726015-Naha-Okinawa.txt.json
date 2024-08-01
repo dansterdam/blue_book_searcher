@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed over Naha Air Force Base, Okinawa on October 8, 1962.",
-    "interesting points": [
-        "The object was described as a bright, round, white or light silver object that was approximately 10-30 feet in diameter.",
-        "The object was observed maneuvering erratically, accelerating rapidly, and climbing to high altitudes before disappearing from view.",
-        "The sighting was reported by multiple military personnel, including a captain in the control tower.",
-        "No sound was heard from the object, and it was not detected on radar.",
-        "Similar sightings of round, luminous objects were reported in the Okinawa area around the same time period."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round, white or light silver object",
-    "location": "Naha Air Force Base, Okinawa",
-    "witnesses": "military personnel, including a control tower captain",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An unidentified flying object was observed over Naha, Okinawa on 8 October 1962.",
+    "interesting points": "The object was described as bright and moving swiftly, sometimes appearing elliptical in shape and about 50 to 60 feet in diameter., Multiple witnesses, including military personnel, reported the object over a span of 10-15 minutes., The object exhibited erratic flight patterns, including abrupt altitude and direction changes., The sighting included both visual and radar tracking of the object., No physical evidence was identified at the scene following extensive investigation.",
+    "sighted object": "unidentified flying object",
+    "location": "Naha, Okinawa, Japan",
+    "number of confirmed witnesses": 10,
+    "witness description": "military personnel and a civilian employee",
+    "contains photographs": false
 }

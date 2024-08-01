@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A high-altitude unidentified object was sighted over Bethesda, Maryland on June 6, 1953.",
-    "interesting points": [
-        "The object was observed for approximately one hour, moving from north to east.",
-        "The object appeared spherical or oval in shape, with a bright surface that reflected sunlight.",
-        "The object moved at a high altitude and had some characteristics of a balloon, but moved faster than a typical balloon.",
-        "Multiple witnesses observed the object, but its reliability was reported as unknown.",
-        "Weather balloon releases in the area around the time of the sighting were investigated, but did not match the characteristics of the reported object."
-    ],
-    "result": "unexplained",
-    "sighted object": "A high-altitude unidentified object, potentially a balloon or aircraft",
-    "location": "Bethesda, Maryland",
-    "witnesses": "Multiple civilian observers",
-    "photographs": "No photographs included in the report"
+    "main event": "A civilian reported observing a weather balloon in Bethesda, Maryland on June 2, 1953.",
+    "interesting points": "The observation lasted for 5 minutes and was conducted visually,The object was described as spherical in shape and off-white in color,The object floated freely at a moderate altitude and drifted in a northerly direction,The report concluded that it was a normal civilian balloon or low altitude weather balloon,The observation occurred during daylight hours with clear skies.",
+    "sighted object": "one weather balloon",
+    "location": "Bethesda, Maryland, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian observations",
+    "contains photographs": false
 }

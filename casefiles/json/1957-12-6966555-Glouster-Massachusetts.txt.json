@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An unidentified object was observed in the sky over Glouster, Massachusetts on December 2, 1957.",
-    "interesting points": [
-        "The object was larger than a shooting star and had a long white trail.",
-        "The object turned yellow prior to burning out.",
-        "The object burned out into two pieces.",
-        "The observation lasted for 4 seconds.",
-        "The source of the report was military."
-    ],
-    "result": "explained",
-    "sighted object": "a large object with a long white trail",
-    "location": "Glouster, Massachusetts",
-    "witnesses": "military",
-    "photographs": "no"
+    "main event": "An object larger than a shooting star was observed with a long white trail that turned yellow before burning out.",
+    "interesting points": "The object burned out into two pieces.,The sighting lasted for about 4 seconds.,The object was traveling south.,The observation was sourced from military data.,The object exhibited characteristics typical of a satellite.",
+    "sighted object": "one object with a long white trail",
+    "location": "Glouster, Massachusetts, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military source",
+    "contains photographs": false
 }

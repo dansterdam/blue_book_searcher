@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting occurred in Upper Greenwood Lake, New Jersey on August 13, 1952. The object was described as shiny, metallic, and spherical, drifting eastward, and was possibly a balloon observation as it had no further identifications.",
-  "interesting points": [
-    "The UFO sighting lasted for 25-30 seconds, observed by a private citizen.",
-    "The object was described as spherical, shiny, and metallic, and it was drifting eastward.",
-    "The witness mentioned that the object appeared like a large star and moved towards the horizon to the east at high speed.",
-    "Some witnesses reported seeing an object with red tips and white lights, while others saw a moving light in the sky very high in the sky.",
-    "The UFO sighting occurred in very clear and bright weather conditions with a visibility of 13-15 miles and no cloud cover."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "shiny, metallic, and spherical object drifting eastward",
-  "location": "Upper Greenwood Lake, New Jersey",
-  "witnesses": "private citizen, group of teen-agers",
-  "photographs": "no"
+    "main event": "A private citizen observed a shiny, metallic, spherical object drifting eastward over Upper Greenwood Lake, New Jersey, on August 13, 1952.",
+    "interesting points": "The object was visible for about 25-30 seconds,The sighting is suspected to be a balloon observation,There was no additional information provided by the witness,No further investigations could confirm the origin of the object,The object appeared to have a shiny appearance and was moving in a defined course.",
+    "sighted object": "a shiny, metallic, spherical object",
+    "location": "Upper Greenwood Lake, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "private citizen",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A blue-white, star-shaped object about the size of a dime was observed traveling east to west with a sharp right angle turn to the north in Newburgh, New York on August 14, 1958.",
-    "interesting points": [
-        "The object rose abruptly and disappeared.",
-        "The witness had reported seeing other similar phenomena previously.",
-        "The duration of the sighting was only 10 seconds.",
-        "The weather conditions included 4 miles visibility with haze and thunderstorms in the area.",
-        "There were 3 jet aircraft in the area at the time of the sighting."
-    ],
-    "result": "Was Aircraft",
-    "sighted object": "blue-white, star-shaped object",
-    "location": "Newburgh, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On 14 August 1958, a witness observed a star-shaped, blue-white object the size of a dime traveling East to West with a sharp right angle turn to North before disappearing.",
+    "interesting points": "The sighting lasted for only 10 seconds,The object made an abrupt rise and vanished from sight,The conditions included haze and thunderstorms at the time,The witness claims to have reported other phenomena previously,The conclusion of the report suggested it was likely an aircraft.",
+    "sighted object": "star-shaped, blue-white object",
+    "location": "Newburgh, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Laborer in Newburgh, NY",
+    "contains photographs": false
 }

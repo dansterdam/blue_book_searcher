@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, round, red light the size of a softball was observed for 40 minutes in Anoka, Minnesota on July 26, 1955.",
-    "interesting points": [
-        "The object was observed traveling across the river from Anoka to the other side.",
-        "The object was described as a 'small bright light' that was 'very bright' and seemed to be about the size of a baseball held at arm's length.",
-        "The object was observed to be circling about 20 feet in size.",
-        "The object had a blinking pattern of flashes - 60 seconds, 60/third, 40 seconds, and 60 seconds.",
-        "The observer concluded that the object was likely a 'Deljon', which is not further explained in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round, red light the size of a softball",
-    "location": "Anoka, Minnesota",
-    "witnesses": "1 witness across the river from Anoka",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A round, red glare was observed in Anoka, Minnesota on 26 July 1955.",
+    "interesting points": "The object was described as a light bulb size, appearing as a bright glare,The observation lasted for forty minutes,One witness reported it was traveling across a river,It was estimated to be about the size of a baseball,There was little wind during the observation",
+    "sighted object": "one round, red glare",
+    "location": "Anoka, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness was located across the river from Anoka",
+    "contains photographs": false
 }

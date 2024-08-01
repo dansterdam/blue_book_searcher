@@ -1,15 +1,9 @@
 {
-    "main event": "A white point of light was observed moving at fast speed with no sound or trail in Berlin, Germany on 28 March 1948.",
-    "interesting points": [
-        "The observation lasted for an unspecified length of time.",
-        "The object was traveling from south to north.",
-        "The report suggests a possible astronomical explanation such as a meteor, but deems it very unlikely.",
-        "The document concludes that there is insufficient data for evaluation.",
-        "The incident is categorized as unclassified, indicating the lack of a definitive explanation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white point of light",
+    "main event": "A sighting of a white point of light was reported in Berlin, Germany on 28 March 1948.",
+    "interesting points": "The incident occurred around 1630 GMT,There was no sound or trail observed from the object,The height of the object was approximately 14 kilometers,The object was moving at a fast speed in a south to north direction,The conclusion points toward the sighting possibly being a meteor.",
+    "sighted object": "a white point of light in the sky",
     "location": "Berlin, Germany",
-    "witnesses": "not specified",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data for evaluation",
+    "contains photographs": false
 }

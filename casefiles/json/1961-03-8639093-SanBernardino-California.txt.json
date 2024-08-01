@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Three slightly larger than planet Venus objects were seen in the sky over San Bernardino, California on May 1, 1961.",
-    "interesting points": [
-        "The objects initially appeared as golden flashes on the front, then changed to the back, and then disappeared.",
-        "The objects were spotted at an elevation of 20 degrees above the eastern horizon, moving from northwest to southeast.",
-        "The sighting lasted for approximately 3 minutes.",
-        "The witness, a civilian who was considered reliable, reported the objects also being seen by other members of their family.",
-        "The report was considered potentially applicable to Project Moondust, which investigated unidentified aerial phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "three slightly larger than planet Venus objects",
-    "location": "San Bernardino, California",
-    "witnesses": "civilian, considered reliable",
-    "photographs": "no"
+    "main event": "A sighting of 3 objects slightly larger than planet Venus with golden flashes was reported in San Bernardino, California on May 1, 1961.",
+    "interesting points": "The objects appeared at 20° above the eastern horizon and were visible for about 3 minutes.,The report indicated that the objects had initially golden flashes on their fronts and backs.,Witnesses stated the objects disappeared quickly and traveled on a NW-SE course.,The sighting was from a reliable civilian witness and corroborated by other family members.,The report concluded the objects could be ballistic missiles, but insufficient data for a definitive evaluation.",
+    "sighted object": "three objects slightly larger than planet Venus",
+    "location": "San Bernardino, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian witness along with corroborating family members",
+    "contains photographs": false
 }

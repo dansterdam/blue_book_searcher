@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright, round, silvery object was observed in the sky near Boone, North Carolina on October 7, 1968.",
-    "interesting points": [
-        "The object caused the lights and television in the witness's home to fluctuate and become distorted.",
-        "The object was about the size of a silver dollar held at arm's length.",
-        "Several employees from Carroll Electric also observed the object.",
-        "The witness was a retired Air Force ranger.",
-        "The sighting occurred around 7:00 PM on a clear night with no wind."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round, silvery object",
-    "location": "Boone, North Carolina",
-    "witnesses": "a retired Air Force ranger and several employees from Carroll Electric",
-    "photographs": "no"
+    "main event": "On October 7, 1968, a self-luminous object was observed by witnesses in Boone, North Carolina, moving slowly at a constant elevation before disappearing.",
+    "interesting points": "The object periodically disappeared behind trees before reappearing., The sighting lasted for about 5 minutes., Observers described the object as bright and larger than typical aircraft., Multiple witnesses, including an air force officer, reported the event., The object had no visible means of propulsion.",
+    "sighted object": "a self-luminous object",
+    "location": "Boone, North Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "The witnesses included a local resident and an air force officer.",
+    "contains photographs": false
 }

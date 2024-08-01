@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Possible satellite observation in the Pacific Ocean on August 22, 1962",
-    "interesting points": [
-        "The object was observed for 20 minutes, with a brightness of a second magnitude star.",
-        "The object was observed moving from south to north at an extremely high speed.",
-        "The altitude of the object was unknown.",
-        "The report mentioned that no evaluation was provided.",
-        "The report was forwarded to various military and intelligence agencies, including the Office of the Secretary of the Navy and the Air Force General Reference Center."
-    ],
-    "result": "unidentified",
-    "sighted object": "possible satellite",
-    "location": "35N174W Pacific Ocean",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A satellite was observed in flight for 20 minutes at extremely high speed and altitude unknown.",
+    "interesting points": "The observation lasted for 20 minutes,It was categorized as a satellite observation,The size and magnitude of the object were unknown,The case is listed as unidentified data,The observation had a brief summary indicating it was a possible satellite in sight.",
+    "sighted object": "a satellite",
+    "location": "Pacific Ocean, 35N174W",
+    "number of confirmed witnesses": 0,
+    "witness description": "n/a",
+    "contains photographs": false
 }

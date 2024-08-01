@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Two cigar-shaped objects were observed traveling at high speed near Goodlettsville, Tennessee on December 8, 1961.",
-    "interesting points": [
-        "The objects were observed for 5-15 seconds, during which they disappeared instantaneously.",
-        "The objects were located approximately 18 miles from a certain geographic coordinate.",
-        "The witness described the flight characteristics of the objects as 'unusual'.",
-        "The witness reported the objects to the Air Force but did not receive any further follow-up.",
-        "The Air Force later determined the objects were likely non-persistent contrails illuminated by moonlight."
-    ],
-    "result": "explained",
-    "sighted object": "two cigar-shaped objects",
-    "location": "Goodlettsville, Tennessee",
-    "witnesses": "witness and one other person",
-    "photographs": "no"
+    "main event": "Two cigar-shaped objects traveling at high speed were observed in Goodlettsville, Tennessee on December 8, 1961.",
+    "interesting points": "The objects were detected by ground radar and had unusual flight characteristics., The sighting lasted between 5 to 15 seconds., The objects disappeared instantaneously after being seen., The witness was able to estimate they were 1 to 1.5 miles away., The sighting was reported to the U.S. Air Force but was later attributed to moonlit contrails.",
+    "sighted object": "cigar-shaped objects",
+    "location": "Goodlettsville, Tennessee, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One male witness aged 28 with 2 years of I.T. experience.",
+    "contains photographs": false
 }

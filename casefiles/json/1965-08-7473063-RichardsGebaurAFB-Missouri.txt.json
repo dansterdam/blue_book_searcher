@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Three sub-teen youths reported seeing an object dividing, but the data was considered insignificant and not worth a full report.",
-    "interesting points": [
-        "The object was described as having three blinking lights in a triangular pattern.",
-        "The object was observed at an estimated altitude of 2,000 feet, passing northeast to southwest.",
-        "The witnesses were judged to be of unreliable credibility.",
-        "The sighting lasted for about 5 minutes.",
-        "There were no photographs or other physical evidence of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "an object with three blinking lights in a triangular pattern",
-    "location": "Richards Gebaur AFB, Missouri",
-    "witnesses": "three sub-teen youths",
-    "photographs": "none"
+    "main event": "Three sub-teen youths reported seeing an object with three blinking lights in a triangular formation.",
+    "interesting points": "The object was estimated to be at an altitude of 2,000 feet and was observed passing from northeast to southwest.,The sighting lasted approximately 5 minutes.,The witnesses judged their reliability as none.,The report concluded that the data was insignificant and not worth a full report.,No physical evidence or photographs were present in the report.",
+    "sighted object": "object with three blinking lights in a triangular pattern",
+    "location": "Richards Gebaur AFB, Missouri, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three sub-teen youths",
+    "contains photographs": false
 }

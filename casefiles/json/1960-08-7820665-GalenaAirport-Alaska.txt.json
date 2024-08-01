@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright light, approximately 200 yards in distance, was observed at Galena Airport in Alaska.",
-    "interesting points": [
-        "The object was observed for 12 seconds and had a straight path.",
-        "The object disappeared behind a cloud.",
-        "The sighting was correlated with a previous sighting on August 19, 1960 near Norne, Alaska, which was possibly a satellite.",
-        "The object was described as a bright light, the size of a pea.",
-        "The report states that no USAF traffic was in the Galena area at the time of the sighting."
-    ],
-    "result": "unknown",
+    "main event": "An observation of a bright light at Galena Airport, Alaska, on 20 Aug 60, which appeared white like a star and disappeared behind a cloud.",
+    "interesting points": "The object was observed for about 30 seconds,The distance of the object was approximately 200 yards,The observation was correlated with a possible satellite sighting from Norne, Alaska,The object was described as the size of a pea,The radar indicated the object was on a NNE course.",
     "sighted object": "a bright light",
-    "location": "Galena Airport, Alaska",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Galena, Alaska, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "Weather station personnel unable to get wide observations due to cloud cover.",
+    "contains photographs": false
 }

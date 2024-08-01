@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian witness observed an unidentified object in the sky for about 1 minute.",
-    "interesting points": [
-        "The object appeared to be a bright, flashing point source moving rapidly at a high altitude from northeast to southeast.",
-        "The object's maneuver was similar to that of an aircraft, but it disappeared from view very quickly.",
-        "The witness described the object as appearing very bright and traveling at a very high rate of speed.",
-        "The report includes a hand-drawn sketch of the observed object and its motion.",
-        "The report mentions that the observed object was not identified and was classified as an 'Unusual Sight'."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, flashing point source",
-    "location": "near Pataskala, Ohio",
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "On August 8, 1966, an observer reported sighting three unidentified objects in the sky over California, lasting approximately 15 minutes.",
+    "interesting points": "The sighting was classified as a ground-visual observation., The observer stated they saw the objects moving in an unusual manner., No photos or physical evidence were provided., The sighting was recorded in the Project Blue Book series of reports., The observer was certain of the objects' movements and their presence.",
+    "sighted object": "three unidentified flying objects",
+    "location": "California",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described himself as a 65-year-old male, providing limited detail about the sighting.",
+    "contains photographs": false
 }

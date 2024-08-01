@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple UFO sightings reported over Nantucket Island, Massachusetts on January 19-21, 1961.",
-    "interesting points": [
-        "The UFOs were reported to have red, white, and blue flashing lights, as well as steady white lights.",
-        "The UFOs were observed to climb straight up, move in various directions, and appear to be sphere-shaped.",
-        "The UFOs were sighted by multiple observers, including personnel at the Brant Point Coast Guard Life Boat Station, Sankaty Head Light Station, and Loran Transmitting Station.",
-        "The sightings were reported to various military and Coast Guard units, including CINCNORAD, COMASDFORIANT, and COMEASTAREA.",
-        "Some observers reported interference with Loran navigation signals during the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "Unidentified sphere-shaped objects with flashing colored lights",
-    "location": "Nantucket Island, Massachusetts",
-    "witnesses": "Coast Guard, military, and civilian personnel",
-    "photographs": "none"
+    "main event": "Multiple sightings of unidentified flying objects (UFOs) over Nantucket Island reported on January 21, 1961.",
+    "interesting points": "Different witnesses reported seeing one object initially as red and white flashing light that later changed to a steady white light., Observers at multiple locations, including Brant Point and Sankaty Head, confirmed seeing the objects., Some reports noted an altitude of approximately 900 to 1000 feet., The objects reportedly moved from north to northeast and appeared stationary before climbing straight up., Witnesses described the shape of at least one object as spherical, larger than a normal star.",
+    "sighted object": "unidentified flying objects with red and white lights",
+    "location": "Nantucket Island, Massachusetts, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Officers at Brant Point Coast Guard Life Boat Station and personnel from Sankaty Head Light Station",
+    "contains photographs": false
 }

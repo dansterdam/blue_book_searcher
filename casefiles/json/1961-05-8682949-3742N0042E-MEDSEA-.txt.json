@@ -1,15 +1,9 @@
 {
-    "main event": "A very bright, fast-moving object was sighted in the Mediterranean Sea on May 15, 1961.",
-    "interesting points": [
-        "The object was visually observed and also detected on radar.",
-        "The object was as bright as the star Sirius.",
-        "The object's measured altitude was 59 degrees, 49 minutes, 15 seconds.",
-        "The object was moving from west to east at a high speed.",
-        "The sighting lasted for 5-10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a very bright, fast-moving object",
-    "location": "Mediterranean Sea (33°29'N 24°3'E)",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A military observation reported a very bright fast-moving object in the Mediterranean Sea on May 15, 1961.",
+    "interesting points": "The observation lasted for about 5-10 minutes., The object was bright white and moved from west to east., It was as bright as the star Sirius., The observation was recorded using both visual and radar methods., There is a possibility that the object could be a natural phenomenon.",
+    "sighted object": "one very bright fast-moving object",
+    "location": "Mediterranean Sea",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

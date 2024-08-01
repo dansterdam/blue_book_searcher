@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified aerial object was sighted over Navosta, Texas in August 1951.",
-    "interesting points": [
-        "The object was observed for approximately 1500 hours and was described as high in the sky, very bright, and changing in both speed and direction.",
-        "The report states that the object was under intelligent control and the sighting was witnessed by multiple people.",
-        "The witnesses observed a bright, luminous object in the sky which moved in an erratic manner without making any sound.",
-        "The sighting lasted for 15 minutes.",
-        "The cause of the sighting is unknown and the case is still under investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, luminous object in the sky",
-    "location": "Navosta, Texas",
-    "witnesses": "several residents of Navosta area",
-    "photographs": "no"
+    "main event": "An unidentified aerial object was sighted over Navosta, Texas on August 7, 1951, observed moving in an erratic manner and described as high in the sky, very bright, and changing speed and direction.",
+    "interesting points": "The object was observed for approximately 15 minutes and appeared to be under intelligent control., Witnesses included several residents of the Navosta area., The sighting was reported to have occurred around 1500 hours (3 PM)., The object was moving in an up and down motion before quickly disappearing., There was clear weather at the time of the sighting, and the object did not emit any sound.",
+    "sighted object": "a bright, luminous object",
+    "location": "Navosta, Texas, USA",
+    "number of confirmed witnesses": 10,
+    "witness description": "several residents of the Navosta area",
+    "contains photographs": false
 }

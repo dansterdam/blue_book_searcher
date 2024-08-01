@@ -1,15 +1,9 @@
 {
-	"main event": "The documents contain various unidentified flying object (UFO) sightings and investigations, including a report of an object sighted in West Trenton, New Jersey, on July 4, 1947, which was speculated to be a bright meteor or a rocket from a Fourth of July celebration.",
-	"interesting points": [
-		"Some sightings were speculated to be related to late Fourth of July celebrations, indicating a consideration for mundane explanations.",
-		"The documents mention an observation of a flying saucer without a tail or halo in West Trenton, New Jersey, in 1947.",
-		"There are references to data collection, investigation, and interpretation of UFO sightings by Project 'SIGN', along with evaluations and classifications of incidents.",
-		"The investigation results suggest that some sightings could potentially be explained as synoptic weather balloons or other ordinary objects, while others lack evident explanations.",
-		"The documents highlight the involvement of various entities, including the Air Weather Service, Air Material Command, and the Intelligence Department of the Air Force, in investigating and interpreting UFO sightings."
-	],
-	"result": "Some sightings were speculated to have prosaic explanations, while others remained unexplained.",
-	"sighted object": "Unidentified flying objects, including a bright meteor and a flying saucer",
-	"location": "West Trenton, New Jersey, and other unspecified locations",
-	"witnesses": "Observers from different locations and agencies, including unspecified individuals and Project 'SIGN' staff",
-	"photographs": "None of the documents provided include photographs"
+    "main event": "An object was sighted over West Trenton, New Jersey on July 4, 1947, which might have been mistaken for a bright meteor or part of a Fourth of July rocket.",
+    "interesting points": "The sighting occurred during a holiday celebration which could explain misidentifications., The observer's age suggests that the object could have been perceived differently by a young child., The document discusses the possibility of the object being related to an amusement park's fireworks display., The sighting was clear and noted to be high in altitude and fast., Incidents from the 'Project SIGN' archives suggest a systematic approach to reviewing such sightings as potential meteorological events.",
+    "sighted object": "a fast-moving object, possibly a meteor or firework",
+    "location": "West Trenton, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "young lad, likely a child",
+    "contains photographs": false
 }

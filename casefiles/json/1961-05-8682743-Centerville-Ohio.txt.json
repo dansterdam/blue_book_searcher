@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "A witness observed a cluster of eight bright lights that appeared to be hovering and changing direction in Centerville, Ohio on May 11, 1961.",
-    "interesting points": [
-        "The lights were much larger and brighter than the moon, estimated to be around 15 degrees in size.",
-        "The lights were observed for about 30 minutes before disappearing.",
-        "The witness could see the outlines and shapes of the objects despite it being dark outside.",
-        "The witness was unable to estimate the speed or distance of the objects.",
-        "The report includes a Project Blue Book Technical Information Sheet with additional details about the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "cluster of eight bright lights",
-    "location": "Centerville, Ohio",
-    "witnesses": "one civilian witness",
-    "photographs": "none"
+    "main event": "A witness observed a bright light moving erratically for 5-10 minutes in Centerville, Ohio.",
+    "interesting points": "The sighting occurred on May 11, 1961, at 1:45 A.M.,The object was described as a bright light of short duration,The witness noted the object's erratic movement,The sighting lasted for 5-10 minutes,The witness reported that the light was larger than the normal size of the moon.",
+    "sighted object": "a bright light in the sky",
+    "location": "Centerville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer who noted the light's erratic movement",
+    "contains photographs": false
 }

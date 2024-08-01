@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A group of three teenage girls reported seeing a round, cigar-shaped unidentified flying object (UFO) in the sky over Fort Carson, Colorado on August 5, 1965.",
-    "interesting points": [
-        "The reports varied on the size of the object, ranging from the size of a basketball to a vehicle tire.",
-        "The object appeared to be silver-white in color and gave off a ray of light.",
-        "The object was observed at an elevation of 45 to 60 degrees in a southeasterly direction.",
-        "The object moved in a straight line from the southeast to the southwest at a slight angle away from the observers, before disappearing behind the mountains.",
-        "The sighting lasted for 5 to 10 minutes."
-    ],
-    "result": "unknown",
-    "sighted object": "round, cigar-shaped unidentified flying object",
-    "location": "Fort Carson, Colorado",
-    "witnesses": "group of three teenage girls",
-    "photographs": "none"
+    "main event": "A group of three teenage girls reported seeing a bright white light moving slowly in the sky over Fort Carson, Colorado.",
+    "interesting points": "The light was observed for about 10 seconds,The light was described as being intensely bright and white,The object appeared to move in a straight line before disappearing behind mountains,Reports from the witnesses varied in size descriptions of the object from basketball to vehicle tire,All three witnesses received a reliability estimate of good.",
+    "sighted object": "a bright white light in the sky",
+    "location": "Fort Carson, Colorado, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three teenage girls from Colorado Springs, Colorado",
+    "contains photographs": false
 }

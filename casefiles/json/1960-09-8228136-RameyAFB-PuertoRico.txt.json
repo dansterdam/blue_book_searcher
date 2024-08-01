@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided text:
-
 {
-    "main event": "Multiple unidentified objects were sighted in the sky over Ramey Air Force Base in Puerto Rico on September 16, 1960.",
-    "interesting points": [
-        "The objects were described as round in shape with a tail, ranging in size from the size of a pea to a half dollar held at arm's length.",
-        "The objects were observed changing colors from bluish-white to dusky red, with approximately 10-12 objects seen in a formation with one leading and one trailing.",
-        "The objects had a tail approximately 3-5 times the length of the object itself.",
-        "The objects were observed by multiple reliable military personnel, including a commander, NCOs, and other base personnel.",
-        "The objects were observed climbing, descending, and making sharp turns, indicating intelligent control."
-    ],
-    "result": "unexplained",
-    "sighted object": "round objects with tails",
-    "location": "Ramey Air Force Base, Puerto Rico",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A blinking light was observed at Ramey AFB, Puerto Rico, on September 15, 1960, which varied in color from blue-white to dully red and appeared to be under intelligent control.",
+    "interesting points": "The sighting lasted for about 5-10 minutes., The radar indicated an unidentified object at the location., Witnesses included both military and civilian personnel., The object was described as descending and ascending rapidly., It was concluded that the object was likely a satellite or unidentified aircraft.",
+    "sighted object": "a blinking light",
+    "location": "Ramey AFB, Puerto Rico",
+    "number of confirmed witnesses": 5,
+    "witness description": "military and civilian personnel",
+    "contains photographs": false
 }

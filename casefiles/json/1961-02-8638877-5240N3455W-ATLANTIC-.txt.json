@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was spotted by the crew of the USCGC Bartaria on February 28, 1961.",
-    "interesting points": [
-        "The object's brightness was that of a first magnitude star.",
-        "The object was observed at an approximate high altitude, with a bearing of 270 degrees and an angle of 15 degrees.",
-        "The object then changed its bearing to 135 degrees and its angle to 5 degrees.",
-        "The report concludes that the object was possibly a satellite.",
-        "The report was sent as an advance copy to several military commands."
-    ],
-    "result": "possibly a satellite",
-    "sighted object": "an unidentified flying object",
-    "location": "2-6-60N 34-52W",
-    "witnesses": "crew of the USCGC Bartaria",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed at high altitude for 30 minutes on February 28, 1961.",
+    "interesting points": "The object was observed at an estimated altitude of 2700 feet and disappeared approximately 130 feet as it reached 15 feet elevation., The sighting lasted for 30 minutes., The object was possibly identified as a satellite or aircraft., No photographs were taken during the observation., The brightness of the object was compared to a first magnitude star.",
+    "sighted object": "unidentified flying object",
+    "location": "Not specified",
+    "number of confirmed witnesses": 0,
+    "witness description": "not mentioned",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Weather observer, forecaster, and dispatcher at Bryan AFB in Texas observed a bright, white, cylindrical object flying at high speed and altitude on June 17, 1955.",
-    "interesting points": [
-        "The object was tracked visually and on radar, approaching speeds of 600 kph (373 mph).",
-        "The object seemed to be complete in itself, suggesting it could be a hot air balloon.",
-        "The object was observed over a 30-minute period at intervals.",
-        "Investigations concluded the object was likely a weather balloon released from the base.",
-        "The sighting was classified as probably caused by a balloon."
-    ],
-    "result": "probable balloon",
-    "sighted object": "bright, white, cylindrical object",
-    "location": "Bryan AFB, Texas",
-    "witnesses": "weather observer, forecaster, dispatcher",
-    "photographs": "no"
+    "main event": "Observations of an unidentified flying object at Bryan Air Force Base in Texas on 17 June 1955.",
+    "interesting points": "The object was tracked by an aircraft and observed by multiple weather personnel,The object was visually confirmed between 0624Z and 0638Z and was seen moving at an estimated speed of 600 KPH,The characteristics of the object suggested it was possibly a weather balloon,Military checks revealed no aircraft or balloons reported in the area during the sighting,The sighting lasted for a total of approximately 30 minutes during which the object circled the field.",
+    "sighted object": "An illuminated object possibly resembling a weather balloon",
+    "location": "Bryan, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Weather observer, forecaster, and dispatcher from Bryan AFB",
+    "contains photographs": false
 }

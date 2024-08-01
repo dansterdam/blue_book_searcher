@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Dallas, Texas saw a bright, round object with lights or windows around the rim moving silently at a fast speed in the sky on September 3, 1966.",
-    "interesting points": [
-        "The object moved towards the witness, stopped and hovered overhead for about 2 minutes, then moved off at a very high speed.",
-        "The witness is a college graduate and respected member of the community, and insists it was not a conventional aircraft.",
-        "The object was about the size of a baseball and at an altitude of 1000-1500 feet.",
-        "None of the witness's neighbors saw the object, only the witness did.",
-        "The weather was clear with no clouds in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round object with lights or windows around the rim",
-    "location": "Dallas, Texas",
-    "witnesses": "one civilian witness",
-    "photographs": "no photographs present"
+    "main event": "A witness observed a bright light in the sky moving towards him in Dallas, Texas on September 3, 1966.",
+    "interesting points": "The witness described the light as being about the size of a baseball, steady and bright without blinking,It moved silently at a fairly fast speed and hovered for about 2 minutes,The object had lights or windows around the rim and appeared round in shape,The witness, a college graduate, insisted it was not a conventional aircraft,No other neighbors reported seeing the object despite many being outdoors.",
+    "sighted object": "a bright light in the sky",
+    "location": "Dallas, Texas, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "a college graduate and respected member of the community",
+    "contains photographs": false
 }

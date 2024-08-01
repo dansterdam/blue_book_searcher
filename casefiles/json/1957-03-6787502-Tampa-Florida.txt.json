@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A large, bright light was observed moving rapidly, stopping, turning 180 degrees, and then moving rapidly south in Tampa, Florida on March 31, 1957.",
-    "interesting points": [
-        "The light was so bright that no solid part of the object was visible due to the darkness.",
-        "The witness, a civilian, described the light as more round than anything else.",
-        "The light was approximately the same brightness as aircraft landing lights.",
-        "The light had an orange to fiery glow.",
-        "The witness was an aviation machinist who had previously served in the Navy and flew often."
-    ],
-    "result": "Probable searchlight reflection",
-    "sighted object": "one large, bright light",
-    "location": "Tampa, Florida",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a large light moving rapidly in Tampa, Florida, on March 31, 1957.",
+    "interesting points": "The light was observed for approximately three minutes,The witness stated the light turned 180 degrees and moved south rapidly,The observation was classified as ground-visual,The conclusion suggested it was probably caused by a searchlight off an aircraft,The sighting was reported by an individual with a background as an aviation machinist in the Navy.",
+    "sighted object": "a large light in the sky",
+    "location": "Tampa, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who was an aviation machinist with Navy experience",
+    "contains photographs": false
 }

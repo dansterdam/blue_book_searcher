@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two objects were seen flying northeast for 5 minutes.",
-    "interesting points": [
-        "The objects were seen by a civilian observer.",
-        "The observer reported that the description, duration, and flight path indicate the objects were likely aircraft.",
-        "The sighting occurred at night in clear weather conditions.",
-        "There was no unusual weather or astronomical activity reported at the time.",
-        "No interception or identification action was taken, and no physical evidence such as materials or photographs was available."
-    ],
-    "result": "likely aircraft",
-    "sighted object": "two objects",
-    "location": "Greensboro, NC",
-    "witnesses": "civilian, military",
-    "photographs": "none"
+    "main event": "Two objects were seen flying NE for approximately 5 minutes in Greensboro, NC.",
+    "interesting points": "The sighting occurred on June 20, 1957., The source of the sighting was a civilian., The objects were observed for a total of 5 minutes., The description indicates that the objects were likely aircraft., There were no photographs or physical evidence presented in the report.",
+    "sighted object": "two unknown flying objects",
+    "location": "Greensboro, NC, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian, age 15, male, student in 8th grade from Greensboro.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "Incident #153 on August 5, 1948, in Georgia involved a sighting of a blue-white streak of light at an altitude of 20,000-35,000 ft that lasted 5-10 seconds.",
-  "interesting points": [
-    "The document suggests that the sighting was consistent with a daytime/bright fireball, though the observer did not perceive it as a 'shooting' or falling star.",
-    "The report is sourced from an ex-USAF pilot, indicating a credible witness.",
-    "The evaluations extracted from Project Blue Book categorized sightings into different probabilities, from high to low, and suggested various explanations such as astronomical, non-astronomical, and unexplained.",
-    "The report contains extensive lists of categorized UFO sightings, including those with no evident explanation.",
-    "The document mentions redacted details, making it challenging to discern complete information."
-  ],
-  "result": "unexplained",
-  "sighted object": "blue-white streak of light",
-  "location": "Georgia",
-  "witnesses": "ex-USAF pilot",
-  "photographs": "no"
+    "main event": "An ex-USAF pilot reported observing a bright fireball in the sky over Newport & Richland, Georgia on August 5, 1948.",
+    "interesting points": "The fireball was described as having blue-white streaks of light., The length of the object was approximately 2600 feet., The elevation of the object ranged between 20,000-35,000 feet., The sighting lasted for 5-10 seconds., The observer stressed that it was not a shooting or falling star.",
+    "sighted object": "a bright fireball",
+    "location": "Newport & Richland, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an ex-USAF pilot",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a small, round, dot-like object moving across the sky over Mollala, Oregon on October 26, 1965.",
-    "interesting points": [
-        "The object appeared to be smaller than a star or planet, and was navigating in an apparent north-northeast to south-southwest direction.",
-        "The witness observed the object through binoculars and with the naked eye, and it appeared to be moving but maintained a steady course and speed.",
-        "The object was suspected to be a satellite, specifically the Portland KPS-2 satellite, based on its observed characteristics.",
-        "This was not the first time the witness had observed a similar object, and previous sightings had been reported to Portland Air Force Base.",
-        "The report notes that there was a great deal of air traffic, both civilian and military, in the area, and it is questionable whether the witness could accurately discern the various types of aircraft navigation lights or rotating beacons."
-    ],
-    "result": "The object was suspected to be a satellite, specifically the Portland KPS-2 satellite.",
-    "sighted object": "a small, round, dot-like object",
-    "location": "Mollala, Oregon",
-    "witnesses": "a witness",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in the sky over Mollala, Oregon on 26 October 1965.",
+    "interesting points": "The object was noted to be a small, round dot smaller than a star or planet,It was observed moving from an NNE to SSW direction over Portland,The object was suspected to be the KPS-2 satellite,It was visible to the naked eye and through binoculars,The witness reported seeing the object at least five times previously.",
+    "sighted object": "small round dot in the sky",
+    "location": "Mollala, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a teacher looking for the object",
+    "contains photographs": false
 }

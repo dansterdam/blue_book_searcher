@@ -1,14 +1,9 @@
 {
-    "main event": "The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which documents a UFO sighting.",
-    "interesting points": [
-        "The sighting involved 3 bright lights in a triangular formation, with 2 in line leading 1 trailing, traveling from west to east.",
-        "The sighting lasted for 1 minute.",
-        "The case is classified as unidentified, and additional data is required for evaluation.",
-        "There is no photograph included in the document."
-    ],
-    "result": "unidentified",
-    "sighted object": "3 bright lights in a triangular formation",
-    "location": "Edwards AFB, CALIF.",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "On March 28, 1962, multiple witnesses at Edwards AFB reported seeing three bright lights in a triangular formation traveling from west to east.",
+    "interesting points": "The lights traveled in a triangular formation, with two leading and one trailing., The observation lasted for about one minute., The sighting was classified as unidentified by the Air Force., The course of the lights was from westerly to easterly., The sighting took place at 2155 hours.",
+    "sighted object": "three bright lights",
+    "location": "Edwards AFB, California, USA",
+    "number of confirmed witnesses": 10,
+    "witness description": "multiple military personnel",
+    "contains photographs": false
 }

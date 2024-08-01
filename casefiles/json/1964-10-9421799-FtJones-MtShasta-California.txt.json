@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "An unidentified flying object was sighted over Mt. Shasta, California.",
-    "interesting points": [
-        "The object was described as saucer-shaped and reflecting a medium glow, with no color reported.",
-        "The sighting occurred around 8-10 minutes after sunset, and the object appeared circular and slightly below the horizon before disappearing.",
-        "The sighting was witnessed from a private airplane at an altitude of 11,500 feet and a heading of 140 degrees magnetic.",
-        "The initial sighting was 15 miles northwest of Fort Jones, California, and the object was observed for a few seconds.",
-        "The report concludes that the sighting was likely a weather balloon, but there was insufficient data for a full evaluation."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "saucer-shaped object reflecting a medium glow",
-    "location": "Mt. Shasta, California",
-    "witnesses": "Mr. and Mrs. St., observers from a private airplane",
-    "photographs": "none"
+    "main event": "A white, solid, circular object was sighted approximately 8 to 10 minutes after sunset over Ft. Jones, California.",
+    "interesting points": "The object was approximately 2° to 3° in diameter and showed no color,The sighting was visual only and referred to as a UFO,The object's appearance was slightly below the horizon before it disappeared,There was no physical evidence found related to the sighting,The conclusion of the report suggested that the weather balloon theory is probable.",
+    "sighted object": "a white, solid circular object",
+    "location": "Ft. Jones, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. St. Mercer from Washington",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian in Belmont, Ohio observed an object in the sky on September 13, 1961 at around 9:15 PM.",
-    "interesting points": [
-        "The object was observed for only 2 minutes and was initially thought to be the planet Venus.",
-        "The case is listed as having 'insufficient data' for a full evaluation.",
-        "The report indicates the object was stationary and appeared as a light, but provides few other details about its appearance or behavior.",
-        "The witness was unable to provide a detailed description or drawing of the observed object.",
-        "No other witnesses are mentioned, and no photographs were taken."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A single light-like object in the sky",
-    "location": "Belmont, Ohio",
-    "witnesses": "1 civilian witness",
-    "photographs": "None"
+    "main event": "A civilian reported seeing Venus in the sky at Belmont, Ohio on September 13, 1961.",
+    "interesting points": "The observation time lasted only 2 minutes,The sighting was categorized as insufficient data,The object appeared stationary,The major concluded that it was probably Venus, the object was reported to have been a light,",
+    "sighted object": "Venus",
+    "location": "Belmont, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who reported the sighting",
+    "contains photographs": false
 }

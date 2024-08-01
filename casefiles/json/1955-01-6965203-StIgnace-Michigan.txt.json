@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report provided:
-
 {
-    "main event": "A round, dark object approximately 20-25 feet in diameter was observed traveling at a high rate of speed and going in a downward trajectory over St. Ignace, Michigan on January 5, 1955.",
-    "interesting points": [
-        "The object was observed by several people who reported it to the local police.",
-        "The object was observed for several minutes before disappearing.",
-        "The local and state police investigated the area but found no trace of a landing.",
-        "No photographs were obtained of the object.",
-        "The report concludes the sighting was possibly an astronomical observation."
-    ],
-    "result": "possibly astronomical",
-    "sighted object": "round, dark object approximately 20-25 feet in diameter",
-    "location": "St. Ignace, Michigan",
-    "witnesses": "multiple people, reported to local police",
-    "photographs": "none"
+    "main event": "A round, dark object was observed traveling at a high rate of speed in St. Ignace, Michigan on January 5, 1955.",
+    "interesting points": "The object was approximately 20-25 feet in diameter,The object traveled in a downward trajectory,It was observed over the city for several minutes before disappearing,Several witnesses reported seeing the object, Local and State Police investigated but found no traces of landing.",
+    "sighted object": "a round, dark object in the sky",
+    "location": "St. Ignace, Michigan, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "several people who reported the sighting to the police",
+    "contains photographs": false
 }

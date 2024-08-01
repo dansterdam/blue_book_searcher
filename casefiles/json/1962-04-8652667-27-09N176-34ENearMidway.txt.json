@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object was observed at an elevation of 14,000 feet, appearing like a star or planet, hovering for a short period and then disappearing behind clouds.",
-    "interesting points": [
-        "The object was observed heading almost straight down from an elevation of approximately 65 degrees to the horizon.",
-        "The object's brightness showed marked variation during the sighting, and at one point suddenly increased to half as bright as the planet Venus before slowly fading out.",
-        "The object was described as a round, white light, about the size of a full moon, moving very rapidly in the horizontal plane across the visible area from southwest to northeast for about 30 seconds.",
-        "The object appeared to accelerate and decelerate appreciably during the observation.",
-        "The weather was clear with a visibility of 10 miles."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, white light, about the size of a full moon",
-    "location": "Midway, Pacific",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed on 23 April 1962 at an elevation of 14,000 feet, appearing as a bright star or planet.",
+    "interesting points": "The object hovered before disappearing behind clouds at a 35-degree elevation., At one point, the object's brightness increased to half that of Venus., The object was seen moving almost straight down at an angle of approximately 65 degrees to the horizon., The sighting lasted an unknown length of time and took place at 2:37/13Z., The object vanished from view around 16:04.",
+    "sighted object": "a round, white light size of the full moon",
+    "location": "Midway, Pacific, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses detailed in the report",
+    "contains photographs": false
 }

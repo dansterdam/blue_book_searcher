@@ -1,15 +1,9 @@
 {
-    "main event": "A single unidentified flying object was observed over Abilene, Texas for 1 hour on September 29, 1966.",
-    "interesting points": [
-        "The object was described as round, quarter-sized, and white with a light.",
-        "The object would stand still, then move rapidly in one direction before returning to its original position.",
-        "The object's color was different from the surrounding stars.",
-        "The object was capable of high-speed maneuvers, including appearing to fade but never fully disappearing.",
-        "Two civilian witnesses, a gas station attendant and a housewife, reported the sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a single unidentified flying object",
-    "location": "Abilene, Texas",
-    "witnesses": "a gas station attendant and a housewife",
-    "photographs": "no"
+    "main event": "A report of a UFO sighting in Abilene, Texas on 29 September 1966, observed by multiple witnesses.",
+    "interesting points": "The sighting lasted for one hour,The object was described as round and white with light,There were multiple witnesses including a 17-year-old gas station attendant and a 44-year-old housewife,The objects stood still before moving rapidly in different directions,No physical evidence or photographs were collected.",
+    "sighted object": "one round white object with light",
+    "location": "Abilene, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a 17-year-old gas station attendant and a 44-year-old housewife",
+    "contains photographs": false
 }

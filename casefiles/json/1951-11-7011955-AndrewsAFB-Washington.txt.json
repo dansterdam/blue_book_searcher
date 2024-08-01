@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-  "main event": "Pilot of a Capital Air Lines aircraft spotted a strange object near Andrews Air Force Base in Washington, D.C. on November 16, 1951.",
-  "interesting points": [
-    "The object was reported to be brighter than a star and moving slowly, if at all.",
-    "The object was observed for 20-25 minutes before turning and heading back.",
-    "Other lights were later seen on the object.",
-    "A B-29 aircraft was sent to investigate but did not see anything.",
-    "Weather officials suggested the object could have been the planet Venus, but the pilot said it passed under Venus and headed south."
-  ],
-  "result": "unexplained",
-  "sighted object": "a bright, slowly moving object with additional lights",
-  "location": "Andrews Air Force Base, Washington, D.C.",
-  "witnesses": "Capital Air Lines pilot",
-  "photographs": "none"
+    "main event": "A pilot at Andrews AFB observed a strange object in the sky for approximately 10 seconds.",
+    "interesting points": "The object was sighted approximately 30 miles away at an altitude of 8000 feet., The object appeared brighter than a typical star but was moving very slowly., Several other lights were observed on the object later., A radar check did not detect the object., It was suggested that the object might have been Venus due to weather conditions.",
+    "sighted object": "a strange bright object in the sky",
+    "location": "Andrews AFB, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Pilot from Capital Air Lines reported the sighting to GCA Tower.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the old government UFO document:
-
 {
-    "main event": "A witness reported seeing a stationary white light in the sky for 10 minutes from Dayton, Ohio.",
-    "interesting points": [
-        "The witness was discussing the UFO with the duty officer when the report was made.",
-        "Both the witness and duty officer thought the object was a star.",
-        "The Air Force sent the witness a form to complete but it was returned because there was no such address in Dayton.",
-        "The Air Force requested the witness complete an AF Form 117 to provide more details about the sighting.",
-        "The witness described the object as a white light that appeared solid, changed brightness, and disappeared from view."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a stationary white light",
-    "location": "Dayton, Ohio",
-    "witnesses": "one witness, plus a duty officer who overheard the discussion",
-    "photographs": "none"
+    "main event": "Observers reported seeing a white light in the sky over Dayton, Ohio.",
+    "interesting points": "The first report states that the light was stationary and observed for 10 minutes., Two witnesses discussed the UFO and both thought it was a star., Additional information on the sighting was requested but not received., There was insufficient data for proper evaluation in a subsequent report., The object was described as brighter than an airplane light and had the ability to change brightness and shape.",
+    "sighted object": "a white light in the sky",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers believed the object was a star.",
+    "contains photographs": false
 }

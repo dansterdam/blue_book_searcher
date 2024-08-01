@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "Two unidentified objects were detected on ground radar between Osel Island and the Gulf of Finland.",
-    "interesting points": [
-        "The report describes the objects as a 'possible missile and drop'.",
-        "The objects were detected by military radar.",
-        "The report mentions the time of the detection as 2105 DC.",
-        "The report states that the sky was clear, and no land features could be distinguished.",
-        "The report uses technical military language and abbreviations, indicating this was an official government document."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects detected on radar",
-    "location": "Between Osel Island and the Gulf of Finland",
-    "witnesses": "military radar operators",
-    "photographs": "no photographs provided"
+    "main event": "Observation of two objects via ground radar between Osel Island and the Gulf of Finland.",
+    "interesting points": "The report indicates a military source for the observation., The objects were detected via ground-radar., No distinct course for the objects was given., Comments suggest the possibility of a missile and drop., The radar observation occurred in clear weather conditions with no visible land features distinguishable.",
+    "sighted object": "two unidentified objects",
+    "location": "Between Osel Island & Gulf of Finland",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military personnel conducting the radar observations",
+    "contains photographs": false
 }

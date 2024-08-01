@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A cylindrical, aluminum-colored object was sighted in the sky over Wichita, Kansas on May 26, 1966.",
-    "interesting points": [
-        "The object was about the size of a fist at normal distance and appeared to be tumbling, but not in a regular pattern.",
-        "A second, saucer-shaped object was later sighted and considered a recurrence of the first.",
-        "Both objects faded from sight after about 5 minutes of observation.",
-        "The witnesses, who were employees of Petroleum Management Incorporated, stated the objects were not aircraft.",
-        "Preliminary analysis indicated there were 50-100 aircraft in the air during the sightings, but the witnesses were certain the objects were not aircraft."
-    ],
-    "result": "Possible (AIRCRAFT) - Possible varying conclusion not in depth investigation concluded.",
-    "sighted object": "cylindrical, aluminum-colored object and a saucer-shaped object",
-    "location": "Wichita, Kansas",
-    "witnesses": "4 civilian employees of Petroleum Management Incorporated",
-    "photographs": "No"
+    "main event": "An unidentified cylindrical object was observed in Wichita, Kansas on May 26, 1966, by four witnesses.",
+    "interesting points": "The object was described as aluminum colored and about the size of a jet,The observation lasted for approximately 5 minutes,The object appeared to tumble irregularly before fading from sight,It was noted that at least 50 to 60 aircraft were in the area during the sighting,All witnesses were employed at Petroleum Management Incorporated.",
+    "sighted object": "one aluminum cylindrical object",
+    "location": "Wichita, Kansas, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Employees of Petroleum Management Incorporated, with backgrounds including a former Navy fighter pilot and a WWII navigator.",
+    "contains photographs": false
 }

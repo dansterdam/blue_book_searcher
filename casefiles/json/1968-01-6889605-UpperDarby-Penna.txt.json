@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed two bright objects moving westward for about 5 minutes before disappearing behind a building in Upper Darby, Pennsylvania on January 27, 1968.",
-    "interesting points": [
-        "The objects were described as looking similar to 'hut caps'.",
-        "The witness has seen many UFOs before, including a sighting on September 19, 1967.",
-        "The Air Force sent the witness a Form 117 questionnaire, but they did not return it.",
-        "The Air Force concluded this was an 'UNRELIABLE REPORT'.",
-        "The witness was instructed to complete and return the Form 117 questionnaire for further investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects",
-    "location": "Upper Darby, Pennsylvania",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A witness observed two objects resembling hut caps traveling westward for about 5 minutes before disappearing behind a building on January 27, 1968.",
+    "interesting points": "The sighting lasted about 5 minutes,The objects were described as looking like hut caps,The observer has seen many UFOs before,The report concluded as unreliable due to insufficient evidence,There was only 1 confirmed witness.",
+    "sighted object": "two objects resembling hut caps",
+    "location": "Upper Darby, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer has prior experience with UFO sightings.",
+    "contains photographs": false
 }

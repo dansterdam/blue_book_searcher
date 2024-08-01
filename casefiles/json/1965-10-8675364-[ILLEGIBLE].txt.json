@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A circular object with square rectangular windows was observed over Amityville, New York on November 1, 1965.",
-    "interesting points": [
-        "The object had a white pulsating glow and an orange or reddish light in the center.",
-        "The object approached in size when viewed from 12 miles away, but did not travel at high speed.",
-        "The object had no trail, no sound, and disappeared immediately.",
-        "The weather conditions at the time included broken clouds at 8,900 feet, 15 mile visibility, and winds from the southwest.",
-        "The report includes detailed weather information and witness details."
-    ],
-    "result": "unexplained",
-    "sighted object": "A circular object with square rectangular windows",
-    "location": "Amityville, New York",
-    "witnesses": "Two witnesses, a 23-year-old and a 21-year-old",
-    "photographs": "No photographs included in the report"
+    "main event": "A circular object with square rectangular outline was observed in Amityville, New York on 31 October 1955.",
+    "interesting points": "The object was first observed at a distance of 12 miles away and appeared circular with a square rectangular outline., It emitted a white pulsating light on the ends and an orange or reddish light in the center., The observation lasted approximately 15 minutes without any sound or trail., The object was not traveling at high speed and disappeared immediately from sight., Weather conditions were noted with 15 miles visibility and broken clouds at 8900 feet.",
+    "sighted object": "circular object with square rectangular outline",
+    "location": "Amityville, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two individuals from Amityville, aged 21 and 23 years",
+    "contains photographs": false
 }

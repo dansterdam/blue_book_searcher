@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Multiple silver, oblong objects similar to a parachute canopy were observed in the sky over Las Vegas, Nevada on April 26, 1964.",
-    "interesting points": [
-        "The objects were in a mass formation, described as 'like a bunch of bees'.",
-        "The objects flew in a southerly direction for about 30 seconds, then reversed course and headed north, disappearing from view.",
-        "The objects were observed at an elevation of 30-40 degrees for about 2 minutes.",
-        "The observer was an engineer for Westinghouse with an unknown reliability level.",
-        "The weather conditions were clear with high, thin broken clouds."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple silver, oblong objects",
-    "location": "Las Vegas, Nevada",
-    "witnesses": "engineer for Westinghouse",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Multiple silver objects observed in formation, resembling parachute canopies, in Las Vegas on April 26, 1964.",
+    "interesting points": "The objects flew at about 30-40 degrees elevation,The formation comprised 12-15 objects,The objects displayed a flight pattern similar to that of a bunch of bees,The sighting lasted for approximately 2 minutes,The sighting occurred during daylight and the objects disappeared to the north.",
+    "sighted object": "multiple silver objects in formation",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. G. S., an engineer for Westinghouse",
+    "contains photographs": false
 }

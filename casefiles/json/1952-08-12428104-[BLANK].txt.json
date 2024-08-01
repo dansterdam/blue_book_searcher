@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A group of professors at Texas Tech University observed several unidentified flying objects over Lubbock, Texas in August and September 1951.",
-    "interesting points": [
-        "The objects appeared in a V-shaped formation, consisting of a series of bluish-green lights that varied in intensity.",
-        "The objects moved swiftly and silently across the sky, appearing and disappearing suddenly.",
-        "The professors estimated the angular velocity of the objects to be around 30 degrees per second.",
-        "Amateur photographer Carl Hart Jr. captured photographs of the objects, which were examined by experts and could not be disproved.",
-        "The professors observed the objects on multiple occasions, often around 9:20 PM each night."
-    ],
-    "result": "unexplained",
-    "sighted object": "a swiftly moving semi-circle of bluish-green lights in a V-formation",
-    "location": "Lubbock, Texas",
-    "witnesses": "professors from Texas Tech University, including V.T. Robinson, A.G. Oberg, and W.L. Ducker",
-    "photographs": "yes, photographs taken by Carl Hart Jr. were examined and found to be genuine"
+    "main event": "In August 1952, Dr. Robinson and a group of professors observed a formation of 12 to 15 pale objects moving noiselessly across the sky, described as producing a pale-yellow blinking light.",
+    "interesting points": "The group of professors, initially skeptical, were shocked by the low and spectacular sighting, leading to the nickname 'Heinemann's Horror',The angular magnitude of each object was estimated to be 12 inches across at a distance of 30-40 feet,The sighting lasted for a significant amount of time but the group was unable to capture photographs due to the rapid movement of the objects,Dr. Kaplan noted that daytime 'fireball' incidents last much longer than any known meteors, indicating an anomaly,Dr. La Paz concluded that the green fireballs appeared to move in horizontal paths unlike genuine meteorites which move concavely.",
+    "sighted object": "12 to 15 pale objects in a quadrant formation",
+    "location": "Not specified, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Professors from a Texas university, including Dr. Robinson and Dr. Heinemann",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-	"main event": "A UFO observation report from 23 October 1956, where the object was initially a red glow, later becoming stationary and appearing to move up and down.",
-	"interesting points": [
-		"The object was initially a red glow and later became stationary, still in sight at the time of the report.",
-		"The report suggests possible explanations like balloon, astronomical, or astronomical satellite.",
-		"The witness indicated it was a 20-minute observation, and the report included photographs.",
-		"The witness described the sound as dark and roaring, and the color as dull red.",
-		"The document contained a series of detailed questions about the witness's location, the object's appearance, movement, and other observations."
-	],
-	"result": "prosaic explanation - possibly balloon or astronomical object",
-	"sighted object": "initially a red glow, later appearing stationary and moving up and down",
-	"location": "unknown",
-	"witnesses": "anonymous witness",
-	"photographs": "yes, the report includes photographs"
+    "main event": "A UFO sighting occurred on 23 October 1956, involving a red glow that became stationary and appeared to move up and down.",
+    "interesting points": "The sighting lasted for approximately 20 minutes,The object was reported to have a dull red color,It was suspected to possibly be a balloon or an astronomical satellite,Two objects were seen during the observation,The witness noted a dark, roaring sound associated with the object.",
+    "sighted object": "a red glowing object in the sky",
+    "location": "Not specified, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness details are redacted, described seeing the object with a little girl present.",
+    "contains photographs": false
 }

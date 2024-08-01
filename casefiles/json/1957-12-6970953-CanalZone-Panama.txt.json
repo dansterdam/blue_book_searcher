@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground-based radar observation of an unidentified flying object over the Canal Zone, Panama on December 19, 1957.",
-    "interesting points": [
-        "The object was reported to have had rapid movement and an intense light.",
-        "The object was observed to be at an elevation of 10-15 degrees from the horizon, with a compass bearing of 257 degrees.",
-        "The object's flight path appeared to be an orbit.",
-        "The object was observed for 7-10 seconds.",
-        "The report includes details from two separate observers, one at the west end of Balboa Boulevard and another 500 yards west of Albrook AFB."
-    ],
-    "result": "unknown",
-    "sighted object": "A single unidentified flying object detected on radar",
+    "main event": "A UFO was observed in the Canal Zone, Panama on 19 December 1957, with the observation lasting 7 to 8 seconds.",
+    "interesting points": "The object was detected via ground radar,The source of the observation was civilian,The sighting was concluded to likely be that of a meteor,Only one object was observed, The observation took place at GMT 20/03352.",
+    "sighted object": "one unidentified object",
     "location": "Canal Zone, Panama",
-    "witnesses": "Two civilian observers, including a student, radio operator, and tower operator",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "source was civilian; details not provided on individual witnesses",
+    "contains photographs": false
 }

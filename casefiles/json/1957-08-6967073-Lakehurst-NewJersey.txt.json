@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported in Lakehurst, N.J. on 6 Aug 1957, between 0040-0100Z, describing one to two objects flashing lights and changing colors directly over one another for 5 minutes.",
-  "interesting points": [
-    "The sighting lasted for 5 minutes, allowing for a relatively long observation period.",
-    "The objects were described as flashing lights and changing colors, indicating dynamic behavior.",
-    "The observer reported the objects as one directly over the other, which is unusual for conventional aircraft.",
-    "The report concludes that the objects were probably meteors, which is a common explanation for UFO sightings.",
-    "The document contains coded military-style text, adding an air of secrecy and official investigation to the report."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "one to two objects flashing lights and changing colors directly over one another",
-  "location": "Lakehurst, N.J.",
-  "witnesses": "unknown",
-  "photographs": "no"
+    "main event": "A UFO sighting was reported in Lakehurst, N.J. on August 6, 1957, with objects flashing lights and changing colors.",
+    "interesting points": "The sighting lasted for 5 minutes,1 to 2 objects were observed,The objects were seen directly over one another,The lights emitted by the objects were reported to be flashing and changing colors,The conclusion of the report suggested they were probably meteors.",
+    "sighted object": "one or two objects with flashing lights",
+    "location": "Lakehurst, New Jersey, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

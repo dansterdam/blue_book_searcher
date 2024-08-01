@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO report from Project Blue Book on February 6, 1952, at Dobbins AFB, Georgia, described a spheroid-shaped object, which was identified as an ascending balloon and later recovered.",
-    "interesting points": [
-        "The observation was conducted by an OSI agent, indicating the involvement of a credible source.",
-        "The report states that photos were taken, adding a visual element to the documentation.",
-        "The conclusion of the report was that the object was a balloon, providing a prosaic explanation for the sighting.",
-        "The fact that the object was recovered adds a layer of verifiability to the investigation.",
-        "This report is part of Project Blue Book, a systematic study of UFOs conducted by the United States Air Force, adding institutional credibility to the findings."
-    ],
-    "result": "prosaic explanation",
+    "main event": "An OSI agent observed a spheroid-shaped object that was evidently an ascending balloon at Dobbins AFB.",
+    "interesting points": "The sighting occurred on February 6, 1952., The observation lasted for 1 unit of time., There was one object observed., The object was recovered after the sighting., The conclusion drawn was that the object was a balloon.",
     "sighted object": "spheroid-shaped object",
-    "location": "Dobbins AFB, Georgia",
-    "witnesses": "OSI agent",
-    "photographs": "yes"
+    "location": "Dobbins AFB, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "OSI agent",
+    "contains photographs": true
 }

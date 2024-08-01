@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two bright white objects shaped like footballs were observed near Sacramento, California on April 29, 1966.",
-    "interesting points": [
-        "The objects were seen at an angle from 30 degrees, lit up, and appeared to be coming towards the witness.",
-        "The objects appeared to stop and there was a bright light, like landing lights, that remained on for a few seconds.",
-        "The objects were still in sight after 45 minutes of observation.",
-        "The witness reported that the objects were hovering and going up and down, sometimes stopping.",
-        "One of the objects seemed to change from a brilliant white to reddish-orange in color."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright white objects shaped like footballs",
-    "location": "Sacramento, California",
-    "witnesses": "civilian witness",
-    "photographs": "no photographs included"
+    "main event": "Two bright football-shaped objects were observed in the sky over Sacramento, California on 29 April 1966.",
+    "interesting points": "The sighting lasted for 45 minutes, The objects seemed to hover and move up and down, One object changed color from brilliant white to reddish-orange, The objects were observed from an angle of approximately 30 degrees, Witness described the sound of the objects as loud, similar to a jet.",
+    "sighted object": "Two oval objects, football-shaped",
+    "location": "Sacramento, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Air Craft Worker, McDonnell AFB, California",
+    "contains photographs": false
 }

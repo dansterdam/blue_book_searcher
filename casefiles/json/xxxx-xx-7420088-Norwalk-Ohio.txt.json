@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Unidentified object sighted in the sky over Ohio on September 24, 1952 and on August 20, 1967",
-    "interesting points": [
-        "The object was sighted over 30 days prior to the filing of the report, with no further details provided.",
-        "An Air Force officer reported hearing discussions about UFOs at the air base where he was stationed in the 1952-1956 timeframe.",
-        "The officer and his family may have seen unexplained lights in the sky in the early years.",
-        "The sighting on August 20, 1967 involved an object that climbed, descended, maneuvered erratically, and then simply vanished.",
-        "Another sighting on the same date was reported by people in Norwalk, Ohio, who saw a brightly colored, long narrow object in the sky that also vanished."
-    ],
-    "result": "unidentified",
-    "sighted object": "unidentified object, possibly a silver or station-like object, and a brightly colored, long narrow object",
-    "location": "Norwalk, Ohio and surrounding areas",
-    "witnesses": "Air Force officer, the officer's family, and other people in the Norwalk, Ohio area",
-    "photographs": "none"
+    "main event": "An unidentified object was observed over Norwalk, Ohio on September 24, 1952.",
+    "interesting points": "The object was reportedly seen by multiple witnesses,including the writer and their father.,The object climbed and descended steadily, maneuvering erratically.,The sighting lasted for about 10 minutes.,Witnesses initially believed it was a reflection from a plane.,The letter was part of a larger Project Blue Book UFO report.",
+    "sighted object": "an unidentified silver or bright light in the sky",
+    "location": "Norwalk, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "the writer and their father were the primary witnesses",
+    "contains photographs": false
 }

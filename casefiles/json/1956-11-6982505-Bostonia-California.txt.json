@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains multiple black-and-white photographs of a disc-shaped unidentified flying object (UFO) against a cloudy sky, taken in Bostonia, California, on November 2, 1956.",
-  "interesting points": [
-    "The UFO appears to emit a slight glow or reflect light, and it is slightly tilted and luminous in the photographs.",
-    "The presence of a tree or foliage in the lower portion of some images indicates that the photographs were taken from the ground looking upward.",
-    "The disc-shaped object in the sky is a classic 'flying saucer' shape often associated with historical UFO sightings.",
-    "The images display a circular, disc-like object with a bright light or glare towards the right side, creating a classic UFO appearance.",
-    "The witness reputation, as related to investigating officers, reveals them to be steady, reliable, and displaying a high degree of integrity at all times."
-  ],
-  "result": "unexplained",
-  "sighted object": "disc-shaped unidentified flying object (UFO)",
-  "location": "Bostonia, California",
-  "witnesses": "reliable witnesses",
-  "photographs": "yes, the report includes photographs"
+    "main event": "A photograph depicting a disc-shaped unidentified flying object (UFO) was taken on November 2, 1956, in Bostonia, California.",
+    "interesting points": "The UFO appears to be disc-shaped and emitting a slight glow., The photograph shows a tree silhouette at the bottom, indicating the perspective from the ground., The object is tilted and displays a classic 'flying saucer' appearance., The image contains shadows casting beneath the UFO., There are bright light sources in the image contributing to its luminous appearance.",
+    "sighted object": "a disc-shaped UFO",
+    "location": "Bostonia, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Technician-instructor in an air materials department, reliable with a high degree of integrity.",
+    "contains photographs": true
 }

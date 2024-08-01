@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified bright object was observed maneuvering in the Pacific Ocean by three crew members of a B aircraft on April 20, 1958.",
-    "interesting points": [
-        "The object was described as a white, luminous object that maneuvered in the area.",
-        "The object was observed at various altitudes, including 900 feet, 3,302 feet, 3,725 feet, and 17,230 feet.",
-        "The object was observed for a total duration of 15 minutes.",
-        "The crew members who observed the object were familiar with the area and celestial phenomena, but they were unable to identify the object.",
-        "The report concludes that there is insufficient information to determine the identity of the object."
-    ],
-    "result": "unknown",
-    "sighted object": "a white, luminous object",
-    "location": "33-50N 130-45W Pacific Ocean",
-    "witnesses": "3 crew members of a B aircraft",
-    "photographs": "none"
+    "main event": "Three crew members of a B aircraft sighted an unidentified luminous object over the North Pacific Ocean on April 20, 1958.",
+    "interesting points": "The object was bright and appeared to maneuver before becoming smaller and disappearing., The crew members were familiar with celestial phenomena but were unable to identify the object., It was noted that the object might resemble the operation of a jet/rocket or starburner., The sighting lasted for 15 minutes and occurred at night., The report concluded that there was insufficient evidence to determine the identity of the object.",
+    "sighted object": "a white luminous object",
+    "location": "Pacific Ocean, 33-50N 130-45W, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members familiar with celestial phenomena",
+    "contains photographs": false
 }

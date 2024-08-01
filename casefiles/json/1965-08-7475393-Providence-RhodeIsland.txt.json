@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Two objects with bright yellow and white lights were observed flying over Providence, Rhode Island on August 12, 1965.",
-    "interesting points": [
-        "The objects were observed through binoculars and appeared to be connected to a disc.",
-        "The objects were first sighted by employees of the US Signal Corps office and later confirmed by several police officers.",
-        "The objects hovered over the city for several minutes before suddenly accelerating at a high rate of speed and disappearing from sight.",
-        "The report mentions that the observer would appreciate an investigation and comments on the nature of the objects.",
-        "The final page of the report contains redacted or obscured text that does not appear to be directly related to the UFO sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "two objects with bright yellow and white lights",
-    "location": "Providence, Rhode Island",
-    "witnesses": "employees of the US Signal Corps office and several police officers",
-    "photographs": "none"
+    "main event": "Two objects with bright yellow and white lights were observed flying over Providence, Rhode Island on 12 August 1965.",
+    "interesting points": "The objects were observed by employees of the US Signal Corps and local police officers,The lights appeared to be connected to a disc-shaped object,The sighting occurred at about 10:10 PM EST,The objects were seen through binoculars and hovered for several minutes before accelerating away,No physical evidence was reported.",
+    "sighted object": "two flying objects with bright lights",
+    "location": "Providence, Rhode Island, USA",
+    "number of confirmed witnesses": 10,
+    "witness description": "employees of the US Signal Corps and local police officers",
+    "contains photographs": false
 }

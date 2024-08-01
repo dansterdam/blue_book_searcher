@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-  "main event": "A USAF pilot observed an unidentified object while flying at 12,000 feet near San Antonio, Texas.",
-  "interesting points": [
-    "The object was traveling at a tremendous speed and displayed unusual aerial maneuvers.",
-    "This was the third reported sighting of an unidentified object in the San Antonio area within the past 60 days.",
-    "The object was circular in shape, bluish-white in color, and giving the appearance of tremendous speed.",
-    "The size of the object could not be determined, but it was estimated to be 5 to 10 times the size of a star due to its brightness.",
-    "The object climbed nearly vertically and disappeared from view in 2 to 3 seconds."
-  ],
-  "result": "unexplained",
-  "sighted object": "a circular, bluish-white, luminous object",
-  "location": "near San Antonio, Texas",
-  "witnesses": "USAF pilot, Major Anthony Railo",
-  "photographs": "no"
+    "main event": "On 17 July 1952, a USAF pilot observed an unidentified flying object near San Antonio, Texas while flying at 12,000 feet.",
+    "interesting points": "The object was about 3 feet in diameter and flew at an estimated speed of 400 MPH., This sighting was the third reported in the San Antonio area within the last 60 days., The object exhibited unusual aerial maneuvers and climbed nearly vertically before disappearing., No sound was heard during the sighting, and it was visible for approximately 3 seconds., Major Anthony Railo was a confirmed witness, and there were no meteorological conditions to account for the sighting.",
+    "sighted object": "circular object emitting bluish-white light",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a USAF pilot and Major Anthony Railo",
+    "contains photographs": false
 }

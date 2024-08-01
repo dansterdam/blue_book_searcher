@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A driver saw a large, glowing, disc-shaped object near Datil, New Mexico on September 20-21, 1950.",
-    "interesting points": [
-        "The object appeared to hover or stop in midair, then accelerate rapidly and disappear.",
-        "The object was estimated to be 40-50 feet in diameter and larger than any aircraft the witness had seen before.",
-        "The witness saw the object appear on two consecutive days in the same general area.",
-        "Another unidentified object was sighted by members of the local military command a few hours later on the same day.",
-        "The witness was convinced he saw an unusual object, though he was initially unsure if it was the sun, a tornado, or a lightning bolt."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, glowing, disc-shaped object",
-    "location": "Datil, New Mexico",
-    "witnesses": "driver, military command",
-    "photographs": "none"
+    "main event": "An unidentified flying object (UFO) was observed in the skies near Amarade State RA 1, New Mexico, on September 20, 1950.",
+    "interesting points": "The object was described as an orange red ball, larger than the largest planes the observer had seen., The sighting occurred during a rainstorm, and the observer noted an unusual change in the weather after seeing the object., The object appeared in different positions and seemed to move slowly and smoothly at all times., The observer thought the object was a possible tornado or lightning bolt at first but later understood it to be a UFO., No other witnesses at the drilling rig saw the object despite attempts to inform them about the sighting.",
+    "sighted object": "an orange red ball",
+    "location": "Amarade State, Chaves County, New Mexico, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was driving to a wildcat well and noted various characteristics of the sighted object.",
+    "contains photographs": false
 }

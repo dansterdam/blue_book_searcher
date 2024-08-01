@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright light was observed moving in an erratic manner over Homestead City, Florida on July 20, 1967.",
-    "interesting points": [
-        "The object was described as a bright white or yellow-green light, larger than a star but smaller than the moon, around 8-10 feet in diameter.",
-        "The object made an intermittent buzzing sound and remained stationary for a few seconds before rapidly moving away and disappearing.",
-        "Two security policemen at Homestead Air Force Base were the initial witnesses to the sighting.",
-        "The newspaper article mentions that the sighting received wide coverage and recognition as a potential UFO incident in the Homestead area.",
-        "The report notes that the investigation was delayed due to difficulties in obtaining witness statements and clarifying some details."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, larger than a star but smaller than the moon, around 8-10 feet in diameter",
-    "location": "Homestead City, Florida",
-    "witnesses": "two security policemen at Homestead Air Force Base",
-    "photographs": "no"
+    "main event": "Multiple unidentified flying object sightings reported in Homestead City, Florida during July 1967.",
+    "interesting points": "One sighting lasted 3-5 minutes with a round object emitting a white-yellow glow., Witnesses reported hearing sound during the first sighting, but the second sighting was silent., A 15-year-old girl insisted on her sighting of a 'flying saucer' despite skepticism., Multiple reports and investigations were conducted by the Air Force regarding the sightings., The object showed erratic movements including shooting straight up and down before disappearing.",
+    "sighted object": "a bright white light or round object with a yellow glow",
+    "location": "Homestead City, Florida, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Delila and her husband Merle, and security policemen",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Several slow moving lights were spotted in the sky over Omaha, Nebraska around midnight. The lights paused momentarily before moving off to the northwest.",
-    "interesting points": [
-        "The lights were described as aircraft, possibly with landing lights, rather than true UFOs.",
-        "The witnesses did not interpret the incident as a UFO sighting.",
-        "The actions and course of the objects were similar to those sometimes seen with aircraft under certain atmospheric conditions.",
-        "No physical evidence was found, and the witnesses did not detect any ground disturbance, noise, or smell.",
-        "After approximately three minutes, the object accelerated rapidly upward and disappeared."
-    ],
-    "result": "Probable aircraft",
-    "sighted object": "Slow moving lights in the sky",
-    "location": "Omaha, Nebraska",
-    "witnesses": "Several persons",
-    "photographs": "No"
+    "main event": "Several slow moving lights were observed in the sky over Omaha, Nebraska, shortly after midnight on July 12, 1968.",
+    "interesting points": "The lights paused momentarily before shifting direction to the northwest,The officer and several other witnesses interpreted the objects as aircraft rather than UFOs,There were no reports of aircraft being in the vicinity at that time,The objects were observed moving slowly and making no sound,There is no physical evidence left from the incident.",
+    "sighted object": "several slow moving lighted objects",
+    "location": "Omaha, Nebraska, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "an officer on duty and several persons who saw the lights",
+    "contains photographs": false
 }

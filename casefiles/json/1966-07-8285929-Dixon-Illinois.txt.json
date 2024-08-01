@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a bright, red, hemisphere-shaped object with a white section that changed direction and moved in a zig-zag pattern over Dixon, Illinois on July 3, 1966.",
-    "interesting points": [
-        "The object was observed for about 18 seconds and appeared to be extremely bright, red, and shaped like a truncated cone that was 'on fire'.",
-        "The object changed direction and moved in a zig-zag motion.",
-        "The witness estimated the object was about 200 feet away and moved at a fairly slow speed.",
-        "The witness did not hear any sound coming from the object.",
-        "The witness provided a hand-drawn sketch of the observed object."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A bright, red, hemisphere-shaped object with a white section",
-    "location": "Dixon, Illinois",
-    "witnesses": "1 civilian witness",
-    "photographs": "No photographs, only a hand-drawn sketch"
+    "main event": "An observer reported seeing a single extremely bright red object in the sky over Dixon, Illinois on July 3, 1966.",
+    "interesting points": "The object changed direction and exhibited a zig-zag motion,The front section of the object resembled a truncated cone that appeared to be on fire,The object was visible for approximately 18 seconds,The observation was made at night under clear sky conditions,The observer offered to take a lie detector test to confirm their account.",
+    "sighted object": "a bright red object resembling a truncated cone",
+    "location": "Dixon, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "male, 17 years old",
+    "contains photographs": false
 }

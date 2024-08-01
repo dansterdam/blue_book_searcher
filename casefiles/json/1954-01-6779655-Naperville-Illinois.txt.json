@@ -1,15 +1,9 @@
 {
-    "main event": "Moving light, 600 - 700 mph.",
-    "interesting points": [
-        "The object was observed for 3-4 minutes.",
-        "The report includes photos of the sighting.",
-        "The lights appear to be aircraft.",
-        "No information was found that conflicted with aircraft data.",
-        "The object was sighted near Naperville, Illinois and was followed for approximately 5 minutes with binoculars."
-    ],
-    "result": "likely aircraft",
-    "sighted object": "moving light",
-    "location": "Naperville, Illinois",
-    "witnesses": "unknown",
-    "photographs": "yes"
+    "main event": "A witness observed moving lights in the sky, which were thought to be aircraft.",
+    "interesting points": "The lights were reported to be moving at speeds of 600 - 700 mph., The observation lasted for about 3-4 minutes., A fighter was sighted in the vicinity., The lights followed the fighter for approximately 5 minutes., The observation was made through 7 ported binoculars.",
+    "sighted object": "moving lights in the sky",
+    "location": "Naperville, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "individual using binoculars",
+    "contains photographs": true
 }

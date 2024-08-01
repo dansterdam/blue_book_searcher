@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A 12-year-old boy named Mark Ifrtchitz sighted and photographed an unidentified flying object (UFO) over Rochester, Minnesota in March 1967.",
-    "interesting points": [
-        "The object appeared as an 'inverted mushroom', slightly larger than a car, with a stack on top and a smoke or plastic streamer coming from the stack.",
-        "The object initially hovered, then tilted 45 degrees, wobbled, and disappeared to the northwest.",
-        "Mark and his classmates at Washington Junior High School saw the object, and they were 'really shocked' at the photographs he was able to take.",
-        "Mark was reluctant to report the incident to the Air Force authorities, as some of his classmates accused him of 'rigging the pictures', which he denied.",
-        "Mark was interested in astronomy and had received a telescope for Christmas."
-    ],
-    "result": "unexplained",
-    "sighted object": "an inverted mushroom-shaped object with a stack on top",
-    "location": "Rochester, Minnesota",
-    "witnesses": "a 12-year-old boy named Mark Ifrtchitz and his classmates",
-    "photographs": "yes, the report indicates that Mark took three photographs of the object"
+    "main event": "A 12-year-old boy observed and photographed a UFO described as an inverted mushroom over Rochester, Minnesota on March 12, 1967.",
+    "interesting points": "The boy initially thought it was a plane but noted it didn't move like one,Observations were made from the boy's home window,The object was visible for about 45 seconds before it shot up and out of sight,The boy took three photographs of the object,Local news reported on the sighting and included photographs, though no official photographs from the Air Force were obtained.",
+    "sighted object": "one inverted mushroom-shaped object",
+    "location": "Rochester, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "12-year-old boy named Mark Ifrtchitz, who demonstrated sincerity in reporting the incident.",
+    "contains photographs": false
 }

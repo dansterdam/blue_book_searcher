@@ -1,15 +1,9 @@
 {
-    "main event": "A strange light was observed in the sky for 30 minutes near Fort Lupton, Colorado on June 24, 1967.",
-    "interesting points": [
-        "The object was described as a round, pea-sized blue-white light.",
-        "The object was observed to be stationary in the sky.",
-        "The observation lasted for 30 minutes.",
-        "The report was filed by Guy J. Laflamme, an A.T. at Lowry Air Force Base.",
-        "No photographs were taken of the object."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a round, pea-sized blue-white light",
-    "location": "Fort Lupton, Colorado",
-    "witnesses": "Guy J. Laflamme, A.T., USAF, Lowry AFB",
-    "photographs": "no"
+    "main event": "A UFO was observed in Fort Lupton, Colorado on June 24, 1967.",
+    "interesting points": "The observation lasted for 30 minutes,The object was noted to be stationary during the observation,There was no sufficient data for scientific evaluation provided in the report,The object was described as round and blue-white,The report does mention an elongated light as part of the observation.",
+    "sighted object": "round blue-white object",
+    "location": "Fort Lupton, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Guy J. Laflamme, A.T., USAF, Lowry AFB",
+    "contains photographs": false
 }

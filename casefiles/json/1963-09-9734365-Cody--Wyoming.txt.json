@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four round objects with pale yellow lights circled low over a power line in Cody, Wyoming on September 23, 1963.",
-    "interesting points": [
-        "The objects moved very rapidly without any seen exhaust or trail, indicating they were intelligently controlled.",
-        "In addition to the four round objects, there were also longer, deeper red-colored lights observed in the sky.",
-        "The unusual aerial activity was witnessed for about 45 minutes under clear sky conditions.",
-        "The sighting was observed through a 75-power telescope and a police opti-scope.",
-        "The objects appeared to roll over, causing the smaller lights to alternately diminish and grow brighter."
-    ],
-    "result": "unexplained",
-    "sighted object": "Four round objects with pale yellow lights, and longer, deeper red-colored lights",
-    "location": "Cody, Wyoming",
-    "witnesses": "Eight people, including two local police officers",
-    "photographs": "no"
+    "main event": "At approximately 1742 on 23 September 1963, four round objects with pale yellow lights circled low over a power line.",
+    "interesting points": "The objects moved very rapidly without any visible exhaust or trail., The sighting lasted for about 45 minutes in clear sky conditions., Witnesses reported deep red elongated lights associated with the objects., The objects were described as being intelligently controlled., Eight persons including two local police were confirmed witnesses.",
+    "sighted object": "four round objects with pale yellow lights",
+    "location": "Cody, Wyoming, USA",
+    "number of confirmed witnesses": 8,
+    "witness description": "civilians including local police officers",
+    "contains photographs": false
 }

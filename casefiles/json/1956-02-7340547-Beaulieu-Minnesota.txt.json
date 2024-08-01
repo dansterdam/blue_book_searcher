@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a green and red object like a basketball slowly descending in flight to the northeast and disappearing over the horizon.",
-    "interesting points": [
-        "The object was described as green and red in color.",
-        "The object was observed to be slowly descending in flight.",
-        "The object disappeared over the horizon in a northeastern direction.",
-        "The report indicates weather balloons were in the area at the time.",
-        "The sighting was evaluated as likely being an aircraft based on the limited information provided."
-    ],
-    "result": "was aircraft",
-    "sighted object": "green and red object like a basketball",
-    "location": "Beaulieu, Minnesota",
-    "witnesses": "civilian witness (D. Lathmann)",
-    "photographs": "no"
+    "main event": "An observer reported a sighting of a descending object resembling a basketball, with green and red colors, in Beaulieu, Minnesota on 18 February 1956.",
+    "interesting points": "The object was reported to be slowly descending to the northeast,The observer described the object as having colors similar to aircraft lights,The sighting concluded as possibly being an aircraft or a weather balloon,The reliability of the ground observer was rated as excellent,The weather at the time of the sighting was clear with no reported obstructions.",
+    "sighted object": "one object resembling a basketball, colored green and red",
+    "location": "Beaulieu, Minnesota, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "ground observer with excellent reliability",
+    "contains photographs": false
 }

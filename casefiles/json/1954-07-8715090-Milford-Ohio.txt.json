@@ -1,15 +1,9 @@
 {
-    "main event": "A circular object was sighted in the sky over Milford, Ohio on July 23, 1954 at around 2:40 PM.",
-    "interesting points": [
-        "The Department of Defense and the Clermont County Civilian Defense Office received numerous telephone calls reporting the sighting.",
-        "The object was described as a strange circular shape in the sky.",
-        "The report was forwarded to the Air Technical Intelligence Center at Wright-Patterson Air Force Base.",
-        "The report was considered a possible sighting but had insufficient data for analysis.",
-        "No further investigative action was contemplated unless specifically requested by the Air Technical Intelligence Center."
-    ],
-    "result": "unknown",
-    "sighted object": "a circular object in the sky",
-    "location": "Milford, Ohio",
-    "witnesses": "multiple callers to the Department of Defense and Clermont County Civilian Defense Office",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "A circular object was sighted in the sky over Milford, Ohio on 23 July 1954.",
+    "interesting points": "The sighting was reported around 1440 hours on the date in question., Many phone calls reported the strange circular object in the sky., The object was described as stationary and seen at a 45-degree elevation in the SSE direction., The report notes various conclusions including that the object could be a balloon or aircraft but was deemed probably astronomical., No further investigative action was anticipated unless requested by command.",
+    "sighted object": "a silver circular shape in the sky",
+    "location": "Milford, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Numerous telephone reports received from the public.",
+    "contains photographs": false
 }

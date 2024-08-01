@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a silver or gray colored object that made a slight and almost erratic movement in the sky over DeLand, Florida for 15-20 seconds.",
-    "interesting points": [
-        "The object was described as having a 'V' like a boomerang shape, being the size of a dime, and silver or gray in color.",
-        "The object was sighted out the window of an automobile, traveling straight and level from north to south before fading out of sight.",
-        "The sighting lasted for 15-30 seconds.",
-        "Several military bases were located in the general area, and it was concluded the object was likely a normal aerial vehicle.",
-        "The witness appeared sincere, but local authorities and nearby military/aviation sources did not have any record of unusual activity that night."
-    ],
-    "result": "Possible (AIRCH:?) (JAH)",
-    "sighted object": "A silver or gray colored object with a 'V' like boomerang shape",
-    "location": "DeLand, Florida",
-    "witnesses": "Civilian witness, likely a student at Stetson University",
-    "photographs": "None"
+    "main event": "A witness observed a silver or gray colored object in the sky for 15 to 30 seconds in DeLand, Florida.",
+    "interesting points": "The object was described as having 'V' like a boomerang shape., The observation was made from a car window., The object moved in a straight and level flight from North to South., The local police and military reported no unusual activities during the sighting., The event took place on a clear night with no obstructions to visibility.",
+    "sighted object": "one silver or gray object",
+    "location": "DeLand, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A young female student from Stetson University.",
+    "contains photographs": false
 }

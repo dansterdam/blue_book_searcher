@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "Several round or elliptical objects were observed moving at a very high speed over Los Alamos, New Mexico on July 22, 1952.",
-    "interesting points": [
-        "The objects were described as aluminum or bright metallic in color, varying in luminosity, and estimated to be quite large.",
-        "The objects were observed to change direction instantly, zig-zag, and reverse themselves, making them difficult to track with binoculars.",
-        "The objects were first seen hovering overhead, but the altitude was impossible to determine as they were very high up and only visible with binoculars.",
-        "The sighting lasted for approximately 25 minutes, although the observers could not maintain continuous observation.",
-        "Multiple reliable witnesses, including a cargo pilot and a fire department employee, observed the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "several round or elliptical metallic objects",
-    "location": "Los Alamos, New Mexico",
-    "witnesses": "a cargo pilot, a fire department employee, and others",
-    "photographs": "no photographs included in the report"
+    "main event": "On July 22, 1952, a flight of approximately eight unidentified aerial objects was observed over Los Alamos Air Force Base.",
+    "interesting points": "The objects were described as aluminum or bright metallic in color and estimated to be traveling at speeds exceeding 1,000 miles per hour., Observers noted that the objects could change direction instantly and zig-zagged in the sky., The objects were initially seen hovering and only visible through binoculars., The sighting lasted approximately 25 minutes but was not continuous due to other activities., All witnesses reported the objects appeared to be larger than conventional aircraft.",
+    "sighted object": "eight unidentified aerial objects",
+    "location": "Los Alamos, New Mexico, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Individuals including a supervisor and a cargo pilot observed the objects.",
+    "contains photographs": false
 }

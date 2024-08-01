@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness in Manchester, New Hampshire observed two reddish-orange flashing lights in the sky on February 26, 1966.",
-    "interesting points": [
-        "The lights were first seen in an easterly direction and rapidly climbed towards the witness, then climbed out of sight.",
-        "The lights flashed bright for 2-3 seconds when a spotlight was turned on, then went dark again.",
-        "There was TV interference reported in the area around the time of the sighting.",
-        "The witness reported that the objects were flat on the bottom, round on top, and about the size of a star or satellite.",
-        "The sighting lasted for about 15 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "two reddish-orange flashing lights",
-    "location": "Manchester, New Hampshire",
-    "witnesses": "civilian witness",
-    "photographs": "yes, photographs were taken but could not be clearly identified"
+    "main event": "Two observers reported seeing two flashing reddish-orange lights in the sky over Manchester, New Hampshire, on February 26, 1966.",
+    "interesting points": "The lights were first seen climbing rapidly toward the observers before disappearing,The duration of the observation was about 2-3 minutes,There were conflicting reports regarding the characteristics of the lights, as some witnesses described them differently,The analysis indicated that insufficient clarity prevented a positive identification of the objects,The sighting was documented under the U.S. Air Force's Project Blue Book.",
+    "sighted object": "two flashing reddish-orange lights",
+    "location": "Manchester, New Hampshire, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers reported the lights were flashing and about the same intensity as stars.",
+    "contains photographs": false
 }

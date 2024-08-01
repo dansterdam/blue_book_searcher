@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple unidentified objects were tracked on radar at Kirksville Air Force Station in Missouri on September 8, 1960.",
-    "interesting points": [
-        "The objects appeared as well-defined targets about twice the size of a normal aircraft on the radar.",
-        "The objects approached the station at a high rate of speed, closing from 20 miles to 3 miles in a matter of seconds.",
-        "The objects exhibited no normal aircraft maneuverability, such as turns, climbs, or dives.",
-        "The objects disappeared from the radar scope rapidly after passing the station, indicating a high rate of speed.",
-        "No visual sightings of the objects were reported."
-    ],
-    "result": "unexplained",
+    "main event": "Radar operators at Kirksville Air Force Station observed 6 to 12 unidentified objects on radar on September 17, 1960.",
+    "interesting points": "The objects were painted as normal aircraft returns,The radar showed a descending trajectory from 27,000 ft to 23,000 ft,There were possible unusual weather conditions noted during the observation,The radar targets exhibited rapid acceleration and high speed before disappearing,No visual sightings were reported due to the rapid nature of the objects.",
     "sighted object": "unidentified aerial objects",
-    "location": "Kirksville Air Force Station, Missouri",
-    "witnesses": "Radar Approach Control Officer and other personnel at Kirksville Air Force Station",
-    "photographs": "no"
+    "location": "Kirkville, Missouri, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "radar operators at Kirksville Air Force Station",
+    "contains photographs": false
 }

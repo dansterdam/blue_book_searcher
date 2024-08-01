@@ -1,15 +1,9 @@
 {
-    "main event": "Bright object, high, very high speed, possible satellite.",
-    "interesting points": [
-        "The sighting was reported by a military command.",
-        "The object was described as bright and moving at a very high speed.",
-        "The report considers the possibility that the object was a satellite.",
-        "The sighting lasted an unspecified amount of time.",
-        "The report includes photographs, but they are not provided in the given text."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright object",
-    "location": "unknown",
-    "witnesses": "military command",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A bright object was observed at very high speed, possibly a satellite, on 8 May 1961.",
+    "interesting points": "The observation was made visually from the air., The source of the report was a military command., There was a high level of certainty regarding the speed of the object., The report indicates it as a possible satellite., The observation duration was unspecified but noted.",
+    "sighted object": "bright object in the sky",
+    "location": "Not specified",
+    "number of confirmed witnesses": 0,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

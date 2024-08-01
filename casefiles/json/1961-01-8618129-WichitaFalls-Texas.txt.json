@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "A bright, unidentified object was spotted by a pilot and ground observers near Wichita Falls, Texas on January 15, 1961.",
-    "interesting points": [
-        "The object was as bright as a welder's torch and flew at a much higher speed than the pursuing aircraft.",
-        "The object climbed sharply away from the aircraft on a course of approximately 175 degrees.",
-        "The object was approximately the size of the aircraft's exhaust and had no visible smoke or trail.",
-        "The object appeared to be solid in structure and the glow seemed to be coming from within it.",
-        "A bright flash of light about a mile across was observed from a position slightly overhead, possibly coming from the ground."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, solid object that glowed from within",
-    "location": "near Wichita Falls, Texas",
-    "witnesses": "a pilot and ground observers",
-    "photographs": "no"
+    "main event": "A bright, white light was observed above the horizon to the east-northeast in Wichita Falls, Texas on January 10, 1961, lasting approximately 60 minutes.",
+    "interesting points": "The object appeared stationary and did not have any strobe or flashing lights., The weather was clear at the time of the observation., The sighting was consistent with a star or planet, but its exact nature could not be confirmed., The sighting lasted for about 60 minutes without any visible movement of the object., There was no sound associated with the object.",
+    "sighted object": "a bright, white light",
+    "location": "Wichita Falls, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a trained police officer who observed the object through binoculars.",
+    "contains photographs": false
 }

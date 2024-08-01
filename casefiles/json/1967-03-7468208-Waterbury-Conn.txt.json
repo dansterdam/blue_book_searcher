@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A 15-year-old student observed an unidentified object in the sky over Waterbury, Connecticut on March 29, 1967.",
-    "interesting points": [
-        "The object appeared as a bright light with a dome on the top and bottom, and was transparent with white and red lights inside.",
-        "The object blinked off and on approximately every 5 seconds during the entire sighting.",
-        "The object first traveled south over a forested area, then turned left and traveled east, and finally turned right and traveled directly south.",
-        "The object remained at the same level, approximately 30 degrees above the horizon, throughout the sighting.",
-        "The observer used binoculars to get a closer look at the object, which appeared white like a star with red domes."
-    ],
-    "result": "Possible (Hot Air) Balloon",
-    "sighted object": "a bright light with top and bottom domes, appearing transparent with white and red lights inside",
-    "location": "Waterbury, Connecticut",
-    "witnesses": "a 15-year-old student and Stanley Borowy",
-    "photographs": "no"
+    "main event": "A 15-year-old student observed a bright unidentified object with red domes in Waterbury, Connecticut on March 29, 1967.",
+    "interesting points": "The object had a dome at the bottom and top and appeared white with red lights,The object blinked off and on approximately every five seconds,The observation was made from a second-floor window while the weather was clear and mild,The object traveled south and occasionally paused or disappeared,The student was accompanied by another observer, Stanley Borowy.",
+    "sighted object": "a bright light with red domes",
+    "location": "Waterbury, Connecticut, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "students at the same address",
+    "contains photographs": false
 }

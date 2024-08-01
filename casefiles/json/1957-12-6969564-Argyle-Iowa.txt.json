@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting occurred on 6 December 1957 in Argyle, Iowa. The object circled, started as a dim light, grew extremely bright, and then faded from sight over a 15-minute observation period.",
-  "interesting points": [
-    "The UFO sighting was observed for a duration of 15 minutes through binoculars.",
-    "The object was described as circular and initially appeared as a dim light before becoming extremely bright.",
-    "No sound was reported during the sighting.",
-    "The report suggests that no photographs were taken as there is no mention of them in the document.",
-    "The conclusion of the report lists possible explanations such as balloon, aircraft, and astronomical phenomena, but ultimately categorizes the sighting as unknown."
-  ],
-  "result": "unknown",
-  "sighted object": "circular object that started as a dim light and grew extremely bright before fading from sight",
-  "location": "Argyle, Iowa",
-  "witnesses": "civilian radar observer in Iowa",
-  "photographs": "no"
+    "main event": "A UFO sighting was reported in Argyle, Iowa on 6 December 1957, where the object appeared as a dim light that grew extremely bright before fading from sight.",
+    "interesting points": "The object was observed for 15 minutes through binoculars,The sighting lasted for a total of 15 minutes,The object was described as circular and color white,Initial observations suggested the object started as a dim light,The report concluded it could possibly be a balloon, aircraft, or an astronomical phenomenon.",
+    "sighted object": "one circular white object",
+    "location": "Argyle, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "not enough information for evaluation",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Metal filings and strips were recovered on a farm after the observation of a bursting flash. The strips were found to be slightly radioactive.",
-    "interesting points": [
-        "The incident occurred 4 miles northeast of Shelby, Iowa in April 1958.",
-        "A bursting flash was observed before the metal strips were found on the farm.",
-        "The metal strips were tested and found to be slightly radioactive.",
-        "The incident was reported to the Filter Center of the Ground Observer Corps in Des Moines, Iowa.",
-        "The metal strips were eventually confirmed to be chaff used by the Strategic Air Command (SAC) in electronic countermeasure (ECM) training, and the bursting flash was likely a meteor."
-    ],
-    "result": "Explained - Chaff and Meteor",
-    "sighted object": "Metal filings and strips",
-    "location": "4 miles northeast of Shelby, Iowa",
-    "witnesses": "Farmer",
-    "photographs": "No"
+    "main event": "Metal filings and strips were recovered on a farm in Iowa after a bursting flash was observed, believed to be associated with a UFO incident.",
+    "interesting points": "The incident was reported about three weeks prior to the recovery of metal strips., The metal strips were tested and found to be slightly radioactive., The investigation concluded that the strips were chaff used by SAC in ECM training., A flash observed during the incident was likely a meteor., No photographs were present in the report.",
+    "sighted object": "UFOB and metal strips",
+    "location": "Shelby, Iowa, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian reports and military investigation",
+    "contains photographs": false
 }

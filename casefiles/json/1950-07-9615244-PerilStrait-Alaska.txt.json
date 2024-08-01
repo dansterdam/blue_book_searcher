@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "Two oval discs connected by a strut were observed by Coast Guardsmen in Peril Strait, Alaska on July 8, 1950.",
-    "interesting points": [
-        "The object was opaque white in color and estimated to be 100 feet by 60 feet in size.",
-        "The object was observed climbing and banking while maintaining a course of 290 degrees true at an altitude of 15,000 feet and a speed of 350 mph.",
-        "The object was observed for 2.5 minutes before disappearing beyond the 1500 foot level of False Cape Head.",
-        "The report includes sketches of the side view, end view, and bottom view of the object.",
-        "The object made no sound audible above the ship's noises."
-    ],
-    "result": "unexplained",
+    "main event": "Coast Guardsmen reported sighting two oval discs connected by a strut flying in Peril Strait, Alaska on 8 July 1950.",
+    "interesting points": "The objects were observed flying at an altitude of 15,000 feet,The discs appeared opaque white in color,The estimated speed of the objects was 350 kph, The sighting lasted for approximately 2.5 minutes, One photograph showing the side view of the ship is included in the report",
     "sighted object": "two oval discs connected by a strut",
-    "location": "Peril Strait, Alaska",
-    "witnesses": "Coast Guardsmen",
-    "photographs": "yes, the report includes sketches of the object"
+    "location": "Peril Strait, Alaska, US",
+    "number of confirmed witnesses": 3,
+    "witness description": "Members of the U.S. Coast Guard aboard CCG Hemlock (WAGL-217) in Ketchikan, Alaska",
+    "contains photographs": true
 }

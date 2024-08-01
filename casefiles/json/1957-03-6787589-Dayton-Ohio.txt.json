@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A weather balloon sighting reported in Dayton, Ohio on March 22, 1957.",
-    "interesting points": [
-        "The sighting lasted approximately 19 minutes from 1:00 PM to 1:19 PM.",
-        "The object was described as a single stationary object.",
-        "The conclusion was that the sighting was most likely a weather balloon.",
-        "Other similar sightings in the area were also likely weather balloons.",
-        "The report notes that the sighting coincided with the release of weather balloons from Sulphur Grove."
-    ],
-    "result": "Explanation - Likely a weather balloon",
-    "sighted object": "Single stationary object",
-    "location": "Dayton, Ohio",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "On 22 March 1957, an object was sighted in Dayton, Ohio, which was concluded to possibly be a weather balloon.",
+    "interesting points": "The object was reported as stationary during the observation., The sighting coincided with the release of weather balloons from Sulphur Grove., The report suggested various possibilities including balloon and astronomical causes., The text indicated that there was insufficient data for full evaluation., A letter from a newspaper editor in St. Marys was included, asking about the sighting.",
+    "sighted object": "One object, possibly a weather balloon",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian reports and media inquiries were the source of information.",
+    "contains photographs": false
 }

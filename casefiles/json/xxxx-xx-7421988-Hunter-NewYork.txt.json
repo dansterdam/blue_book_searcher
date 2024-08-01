@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-  "main event": "A civilian reported seeing a white flashing light traveling in a level course at an undetermined altitude for about 12 seconds.",
-  "interesting points": [
-    "The object was not considered to be a bona fide satellite by the observer.",
-    "There were numerous other satellites that it could have been, according to the report.",
-    "The sighting occurred in Hunter, New York on April 7, 1952.",
-    "The report was concluded as a satellite sighting.",
-    "The report states there was no physical evidence of the object."
-  ],
-  "result": "identified as satellite",
-  "sighted object": "a white flashing light",
-  "location": "Hunter, NY",
-  "witnesses": "one civilian observer",
-  "photographs": "no"
+    "main event": "An observer sighted a white flashing light in Hunter, New York on April 7, 1952 for 12 seconds.",
+    "interesting points": "The object was described as not being a bona fide satellite despite the flashing light., The flashing light had a period of approximately 2-3 seconds., The observer noted that the object was traveling in a level course at an undetermined altitude., The reported sighting occurred in an area with SAGE stations that also reported UFOs., The observer was advised to contact the Air Force for future sightings.",
+    "sighted object": "a white flashing light",
+    "location": "Hunter, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer provided a detailed description of the sighting.",
+    "contains photographs": false
 }

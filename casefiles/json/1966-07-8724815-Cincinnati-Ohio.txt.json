@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "About 20 white-yellow flickering lights were observed rotating in the sky over Cincinnati, Ohio on July 30, 1966.",
-    "interesting points": [
-        "The lights appeared to be rotating, but binoculars revealed they were actually an aircraft with extraneous lights.",
-        "The lights were blinking, but it could not be determined if the aircraft was stationary or moving.",
-        "The sighting lasted for about 25 minutes.",
-        "The observer compared the brightness of the lights to being brighter than a street light.",
-        "The object(s) were described as appearing solid, changing brightness, changing shape, flashing/flickering, and disappearing and reappearing."
-    ],
-    "result": "Probable aircraft with extraneous lights",
-    "sighted object": "About 20 white-yellow flickering lights rotating in the sky",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "About 20 white-yellow lights were observed in Cincinnati, Ohio for 25 minutes on July 29, 1966.",
+    "interesting points": "The lights appeared to be rotating but were determined to be an aircraft with extraneous lights., The lights flickered and blinked during the observation., The observer estimated the object to be moving at a speed of 35-60 MPH., The object was described as brighter than a street light and solid., The observer noted no sound and described the object's color as white-yellowish.",
+    "sighted object": "about 20 flickering white-yellow lights in the sky",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer who reported the sighting.",
+    "contains photographs": false
 }

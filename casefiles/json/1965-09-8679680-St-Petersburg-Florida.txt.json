@@ -1,15 +1,9 @@
 {
-    "main event": "A possible unidentified flying object (UFO) was sighted near St. Petersburg, Florida on September 20, 1963 around 2330 hours.",
-    "interesting points": [
-        "The object was described as slightly elongated, 30 to 50 times larger than a star, and having a definite configuration unlike a star.",
-        "The object maneuvered, traveling at speeds estimated between 300-800 mph, and made a left turn before fading out as it climbed at a 45 degree angle.",
-        "The observers included an ex-Navy navigator and navigation instructor, as well as an individual with experience in celestial navigation and private flying.",
-        "Weather conditions at the time were clear with high thin clouds and surface haze, with visibility between 2-10 miles.",
-        "A second sighting was reported by a university lecturer, who described the object as circular and white, traveling in a generally straight path that appeared to slow down and wobble."
-    ],
-    "result": "unknown",
-    "sighted object": "An elongated, star-like object and a circular, white object",
-    "location": "St. Petersburg, Florida",
-    "witnesses": "Civilian observers, including an ex-Navy navigator and a university lecturer",
-    "photographs": "No photographs available"
+    "main event": "A report concerning a UFO sighting over St Petersburg, Florida on 20 September 1963 was submitted, but the details are questionable and deemed not an actual observation.",
+    "interesting points": "The sighting was described as an object slightly elongated and 30 to 50 times larger than a star,The object was traveling at a speed estimated to be 2-3 times that of the Echo Satellite,It made a maneuver from an easterly heading to a reciprocal heading, where its speed increased to approximately 700-800 mph,The observation lasted 3 minutes but the descriptions were considered inconsistent and lacking detail, and the report includes the perspective of qualified observers from a nearby institution.",
+    "sighted object": "unidentified flying object",
+    "location": "St Petersburg, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "qualified observers from the University of Florida Institute of Technology with relevant experience",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A red flickering light the size of the North Star was observed near the star Altair in the Milky Way.",
-    "interesting points": [
-        "The light disappeared twice for about 2 seconds.",
-        "The object had no sound and no radar signature.",
-        "The object traveled from northwest to southeast and faded into the Milky Way.",
-        "The observer was on duty at a radar site located at DKGF5232.",
-        "The object was observed for 54 seconds."
-    ],
-    "result": "unknown",
+    "main event": "A red flickering light, resembling the size of the North Star, was observed disappearing and reappearing twice near the star Altair in the Milky Way.",
+    "interesting points": "The observation lasted for 51 seconds, The object was noted to have no sound or radar confirmation, The observer was on duty at a radar site, The object traveled from northwest to southeast and faded into the Milky Way, There was insufficient data to evaluate the nature of the object.",
     "sighted object": "red flickering light",
-    "location": "North Vancouver Island",
-    "witnesses": "radar site personnel",
-    "photographs": "no"
+    "location": "North Vancouver Island, British Columbia, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer on skywatch duty at a radar site",
+    "contains photographs": false
 }

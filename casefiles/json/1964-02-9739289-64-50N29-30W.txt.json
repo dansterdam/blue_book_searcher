@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A single white object resembling a star was observed in the sky for about 5 minutes.",
-    "interesting points": [
-        "The object was observed from the ground, moving on the horizon at an elevation of about 30 degrees.",
-        "The object's movement was described as straight.",
-        "The observation was made at night under clear conditions.",
-        "The observer had previously sighted three confirmed satellites.",
-        "The object was initially located at a position of 64-52N 29-30W, at an altitude of 9,500 feet, heading 021 degrees true at 215 knots."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single white object resembling a star",
+    "main event": "A military observer reported sighting a white object in the sky resembling a star on February 3, 1964.",
+    "interesting points": "The observation lasted for 5 minutes., The white object was seen on the horizon at 075 degrees true., The object was located about 030 degrees above the horizon., The sighting was during clear night skies., The observer had previously confirmed sightings of three satellites.",
+    "sighted object": "a white object resembling a star",
     "location": "50-30N 29-30W",
-    "witnesses": "military",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "a military observer with past experience in satellite observations",
+    "contains photographs": false
 }

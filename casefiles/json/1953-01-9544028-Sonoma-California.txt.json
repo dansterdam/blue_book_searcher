@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed over Sonoma, California on January 10, 1953.",
-    "interesting points": [
-        "The object was described as being round in shape, similar to a jet aircraft but smaller in size.",
-        "The object performed violent maneuvers, making sudden changes in direction first to the right, then to the left, and then dropping to the ground before disappearing.",
-        "The time factors and velocity estimates did not support the conclusion that the object was a balloon.",
-        "The report concluded that the object was 'unknown'.",
-        "The report was classified as 'UNCLASSIFIED' and was subject to downgrading at 12 year intervals."
-    ],
-    "result": "unknown",
-    "sighted object": "round, jet-like object",
-    "location": "Sonoma, California",
-    "witnesses": "two civilian sources",
-    "photographs": "no"
+    "main event": "On 15 January 1953, a visual observation of one unidentified flying object was reported over Sonoma, California.",
+    "interesting points": "The object made approximately 1,500 turns with intervals of 30° turns during observation., The estimated speed of the object was about four times that of normal aircraft., The object was observed to perform rapid maneuvers and change altitude, reaching an estimated height of 60,000 feet., No radar pickup was recorded for the object despite visual confirmation by multiple witnesses., The sighting was reported by a retired observer with significant air experience and time in military channels.",
+    "sighted object": "unknown flying object",
+    "location": "Sonoma, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observers in Sonoma",
+    "contains photographs": false
 }

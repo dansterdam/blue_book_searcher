@@ -1,15 +1,9 @@
 {
-    "main event": "A photograph of an unidentified flying object (UFO) was taken in San Bernardino, California on July 19, 1956.",
-    "interesting points": [
-        "The UFO appears as a slightly blurred disk-like shape with a darker bottom and a lighter top, resembling a typical 'flying saucer'.",
-        "The photograph has annotations with arrows pointing to specific features of the UFO, marked as 'Light?' and another unclear annotation.",
-        "The report states that there are 2 photographs included, though only the first page with one photograph is visible in the provided text.",
-        "The location of the sighting is specified as San Bernardino, California.",
-        "The date of the sighting is July 19, 1956."
-    ],
-    "result": "unexplained",
-    "sighted object": "disk-like UFO",
-    "location": "San Bernardino, California",
-    "witnesses": "unknown",
-    "photographs": "yes, 2 photographs were included in the report, though only 1 is visible"
+    "main event": "A report of an unidentified flying object in San Bernardino, California on July 19, 1956.",
+    "interesting points": "The UFO is described as a slightly blurred disk-like shape,The object has a darker bottom and a lighter top, resembling a typical 'flying saucer',The report includes annotations pointing to features of the UFO,There are two photographs included with the report, but they are not visible on the page.",
+    "sighted object": "unidentified flying object resembling a flying saucer",
+    "location": "San Bernardino, California, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": true
 }

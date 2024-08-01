@@ -1,15 +1,9 @@
 {
-    "main event": "A ground-visual observation of an unidentified elongated object with reddish lights emitting from the sides, estimated to be 150 feet in size, was reported in Boulder City, Nevada on April 12, 1954. The object exhibited a prominent buzzing murmur and disappeared after approximately one minute.",
-    "interesting points": [
-        "The object was estimated to be 150 feet in size and had reddish lights emitting from the sides with no discernible color due to darkness.",
-        "The observation lasted for about a minute, and the object disappeared after exhibiting a steady straight-line path.",
-        "The report mentions a bright light that was initially thought to be a star, with specific angles of elevation and azimuth at the time of sighting.",
-        "The observation occurred in clear weather conditions during a night with a full moon in the sky.",
-        "The observer was a reliable civilian with no further information presented."
-    ],
-    "result": "unexplained",
+    "main event": "Observation of an unidentified flying object documented on April 12, 1954, in Boulder City, Nevada.",
+    "interesting points": "The object was described as elongated and approximately 150 feet in size,The observer initially mistook the object for a bright star,The aircraft flying nearby confirmed its presence,The object emitted a reddish light from its sides,There was a prominent buzzing sound associated with the object rather than propeller or jet-like noise.",
     "sighted object": "unidentified elongated object with reddish lights",
-    "location": "Boulder City, Nevada",
-    "witnesses": "reliable observer",
-    "photographs": "no"
+    "location": "Boulder City, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Reliable observer from Nellis AFB",
+    "contains photographs": false
 }

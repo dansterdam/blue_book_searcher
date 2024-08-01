@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A flat, disc-shaped object with a round dome on top, described as a 'Mexican hat', was observed above a flat area.",
-    "interesting points": [
-        "The object exhibited a slight up and down motion and a slight expansion and contraction.",
-        "Exhaust or a trail appeared to come out of the sides of the object, rather than being propelled vertically.",
-        "The object was brilliantly lighted, compared to 'a piece of solid wood burning in the fireplace'.",
-        "The speed of the object was estimated to be between 1,500 and 8,700 mph, with the speed varying somewhat.",
-        "The object started moving downward and then turned to a horizontal attitude, with an increase in speed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a flat, disc-shaped object with a round dome on top",
-    "location": "Greater Miami area",
-    "witnesses": "two witnesses, a Mr. M and Mrs. M, both 23 years old",
-    "photographs": "no photographs included in the report"
+    "main event": "On August 15, 1963, a UFO sighting was reported involving a flat disk-like object with a round dome on top, observed for 52 seconds.",
+    "interesting points": "The object exhibited a slight up and down motion, The witnesses noted an expansion and contraction of the object, Exhaust appeared to come from the sides of the object instead of being propelled vertically, One witness described the light as resembling a piece of solid wood burning in a fireplace, The object's speed was estimated to range between 1500 and 8,700.",
+    "sighted object": "flat disk with a round dome",
+    "location": "Greater Miami, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "both witnesses were 23 years old and worked as an aircraft cleaner for Eastern Airlines",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified aerial object was observed over Albany, New York on 14 July 1951, descending and ascending, maneuvering for approximately five minutes, and appearing larger and brighter than an ordinary aircraft.",
-    "interesting points": [
-        "The object was observed to descend and ascend, exhibiting maneuvering capability not typical of conventional aircraft.",
-        "It appeared to be larger and much brighter than ordinary aircraft.",
-        "The observation lasted for approximately five minutes, allowing for a detailed study of the object's behavior.",
-        "The report indicates the existence of photographs of the aerial phenomenon.",
-        "The Office of Special Investigations did not contemplate any investigative action, suggesting that the object was not deemed to be a security threat at the time."
-    ],
-    "result": "Probably Balloon",
+    "main event": "An unidentified aerial object was observed by Mr. Paul J. Saunier, Jr. and his family over Albany, New York, on 14 July 1951.",
+    "interesting points": "The object maneuvered in the sky for approximately five minutes,It descended close to the ground and then ascended again,It appeared larger and brighter than an ordinary aircraft,The observation was made around 9:00 PM,Some conclusions suggested the object could be a balloon but insufficient data prevented a definitive evaluation.",
     "sighted object": "unidentified aerial object",
-    "location": "Albany, N.Y.",
-    "witnesses": "Mr. Paul J. Saunier, Jr., and members of his family",
-    "photographs": "yes the report includes photographs"
+    "location": "Albany, New York, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Mr. Paul J. Saunier, Jr. and his family",
+    "contains photographs": false
 }

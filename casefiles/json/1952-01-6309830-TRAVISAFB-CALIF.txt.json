@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright green, round object with a tail was observed traveling at a high speed on a downward course near Travis AFB, California on January 4, 1952.",
-    "interesting points": [
-        "The object was observed for 25-30 seconds at a low elevation.",
-        "Several military personnel at Travis AFB reported seeing a hovering circular object emitting a bright light on January 1, 1952. The object remained stationary for several minutes before accelerating at a high rate of speed and disappearing.",
-        "On January 6, 1952, a military personnel at Travis AFB observed an unidentified object hovering at around 10,000 feet, moving in a steady, uniform motion and slightly up and down vertically.",
-        "The unidentified object emitted a bright, brilliant light and gradually dimmed until it disappeared from sight.",
-        "A photograph or technical diagram of the sighting was mentioned but not included in the provided image."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright green, round object with a tail; circular object emitting bright light; unidentified object emitting bright, brilliant light",
-    "location": "Travis AFB, California",
-    "witnesses": "military personnel",
-    "photographs": "yes, a photograph or technical diagram was mentioned but not included"
+    "main event": "An unidentified, bright green, round object with a tail was observed traveling at high speed on a downward course near Travis AFB, California on January 4, 1952.",
+    "interesting points": "The object was seen at low elevation,The observation duration was 25-30 seconds,The description of the object resembled a large meteor,Several military personnel reported a hovering object emitting bright light at Travis AFB,The sighting was made by Lt. William J. Callan Jr., who noted the unusual behavior of the object.",
+    "sighted object": "bright green round object with a tail",
+    "location": "Travis AFB, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt. William J. Callan Jr., airman assigned to the organization",
+    "contains photographs": false
 }

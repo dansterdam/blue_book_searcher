@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian office employee in Bridgeboro, New Jersey observed an unidentified flying object for about 45 seconds on October 6, 1956.",
-    "interesting points": [
-        "The object was round in shape, about the size of a nickel held at arm's length, and black-grey in color.",
-        "The object appeared to move erratically, including sideways, up and down, and at 45-degree angles.",
-        "The object passed at a high speed initially, then moved right and left at 45-degree angles.",
-        "The object's disappearance was in an easterly direction, towards the horizon.",
-        "The observation was made from the front of the Delmar Tool Company, at an angle of about 22 degrees from a high tension pole in an easterly direction."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, black-grey object",
-    "location": "Bridgeboro, New Jersey",
-    "witnesses": "civilian office employee",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed for 45 seconds in Bridgeboro, New Jersey.",
+    "interesting points": "Object observed was round and compared in size to a nickel held at arm's length,The color of the object was described as black-grey and it scintillated with blurred edges,The observer noticed the object through an office window before going outside to continue observation,The object exhibited erratic movements including high speed and abrupt directional changes,The disappearance of the object was observed in the eastern direction towards the horizon.",
+    "sighted object": "one round object in the sky",
+    "location": "Bridgeboro, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "office employee",
+    "contains photographs": false
 }

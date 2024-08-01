@@ -1,17 +1,9 @@
 {
-    "main event": "A balloon-shaped object, silver or orange in color, was observed at Moody AFB, Alabama on February 6, 1954, by military and civilian personnel. The observation lasted for about one minute before the object disappeared due to darkness.",
-
-    "interesting points": [
-        "The sighting was reported by a reliable witness reported by the Navy.",
-        "The object was thought to be a balloon, possibly a Cosmic Research balloon from Tuscaloosa, Alabama.",
-        "The observation involved ground radar and air visual tracking.",
-        "The weather and wind conditions at the time of the sighting were described in detail, including cloud cover, visibility, and absence of thunderstorms.",
-        "The Navy aircraft investigating the object believed it to be a weather balloon."
-    ],
-
-    "result": "prosaic explanation",
-    "sighted object": "balloon-shaped object, silver or orange in color",
-    "location": "Moody AFB, Alabama",
-    "witnesses": "military and civilian personnel",
-    "photographs": "no"
+    "main event": "A reliable Navy witness reported sighting a balloon-shaped object at Moody AFB, Alabama, on February 6, 1954.",
+    "interesting points": "The object was described as silver or orange in color., The sighting lasted for approximately one minute., The object was moving in a military and civilian course direction., The case was investigated and thought to be a weather balloon., Weather conditions at the time included visibility of 10 miles with thin scattered clouds.",
+    "sighted object": "balloon-shaped object",
+    "location": "Moody AFB, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "reliable Navy witness",
+    "contains photographs": false
 }

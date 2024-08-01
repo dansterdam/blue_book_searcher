@@ -1,15 +1,9 @@
 {
-    "main event": "A round, red-colored object with flashing lights was observed over Washington, D.C. on August 22, 1967.",
-    "interesting points": [
-        "The object was reported to be about the size of a baseball or grapefruit.",
-        "The light on the object appeared to flash on and off, and it disappeared suddenly.",
-        "Numerous calls were received by the base operations duty officer, and some observers thought the object might be a balloon with lights.",
-        "A Washington, D.C. police officer reported seeing a yellowish object, about the size of a basketball, that moved away when he approached it.",
-        "The investigation concluded that the object was most likely a surface balloon with a light attached, and the sighting may have been a hoax."
-    ],
-    "result": "Balloon",
-    "sighted object": "A round, red-colored object with flashing lights",
+    "main event": "UFO sighting reported over Washington D.C. on 22 August 1967, concluded to be a balloon.",
+    "interesting points": "Object was round and red in color, with a flashing light that disappeared suddenly., Witnesses reported seeing the object overhead without optical aids., The sighting lasted between 10 to 20 minutes., Approximately 30 calls were received about the sighting, indicating public interest., A policeman in Georgetown claimed to have seen the object and thought it was similar to a flare.",
+    "sighted object": "round red object with flashing light",
     "location": "Washington, D.C.",
-    "witnesses": "Numerous witnesses, including a Washington, D.C. police officer",
-    "photographs": "None"
+    "number of confirmed witnesses": 1,
+    "witness description": "a policeman who observed the object while on duty in Georgetown",
+    "contains photographs": false
 }

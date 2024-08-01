@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed an unidentified aerial object over Sacramento, California on February 21, 1967.",
-    "interesting points": [
-        "The witness was a 38-year-old with a private aircraft pilot license.",
-        "The object was observed for 5 to 18 minutes.",
-        "The object had no discernible shape and was orange in color.",
-        "There were two objects observed, one after another, with no tail or trail.",
-        "The objects were observed moving from west to east and gradually faded."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "an unidentified aerial object",
-    "location": "Sacramento, California",
-    "witnesses": "a 38-year-old with a private aircraft pilot license",
-    "photographs": "no photographs included"
+    "main event": "A report concerning a UFO observation was filed on February 21, 1967, in Sacramento, California.",
+    "interesting points": "The report indicates that only one object was observed,There was insufficient data for a proper evaluation of the sighting,The observing individual was a 38-year-old with a private aircraft pilot license,Details mention no discernible shape or unusual features of the object seen,The sighting lasted between 5 to 18 minutes.",
+    "sighted object": "unidentified aerial phenomenon",
+    "location": "Sacramento, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "38-year-old male, private aircraft pilot license holder",
+    "contains photographs": false
 }

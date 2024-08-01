@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unidentified objects were seen flying near Lodi, Ohio on September 22-23, 1955.",
-    "interesting points": [
-        "One object was described as a round, blue-gray object about 25-30 feet in diameter that made a faint whirring sound and occasional firecracker-like explosions.",
-        "The objects were observed for around 30 minutes, traveling in a circular pattern at an altitude of about 150 feet.",
-        "One witness, a GOC post supervisor, described the object as having a bright edge and a dimmer center.",
-        "The objects disappeared suddenly in the southwest direction.",
-        "Investigators concluded the sightings were likely caused by searchlights and aircraft, not unidentified flying objects."
-    ],
-    "result": "probable explanation (searchlights and aircraft)",
-    "sighted object": "two unidentified flying objects",
-    "location": "Lodi, Ohio",
-    "witnesses": "several civilian witnesses, including a GOC post supervisor",
-    "photographs": "none"
+    "main event": "Multiple witnesses reported observing an unidentified flying object over Lodi, Ohio on September 22, 1955, which appeared to move slowly and emitted explosion-like sounds.",
+    "interesting points": "The object was described as round, with a blue-gray center and bright edges, resembling a grapefruit held at arm's length., Witnesses heard faint explosions sounding like firecrackers during the sighting., A searchlight beacon from the Akron Airport was also visible at the time of the sighting., The object was observed for approximately 30 minutes and appeared to orbit at about 100 feet in altitude., Investigators concluded that the sightings could be attributed to known objects such as searchlights or aircraft, although some details remained unexplained.",
+    "sighted object": "a round object with blue-gray color and bright edges",
+    "location": "Lodi, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians, including housewives and an Air Force Captain",
+    "contains photographs": false
 }

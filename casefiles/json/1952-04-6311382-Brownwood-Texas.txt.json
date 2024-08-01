@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, unknown object was sighted in the sky near Brownwood, Texas on April 2, 1952.",
-    "interesting points": [
-        "The object was described as a bright light that appeared and disappeared very rapidly, in about 2 seconds.",
-        "It moved much faster than any plane and did not have the characteristics of a plane.",
-        "There was no visible jet or exhaust coming from the object.",
-        "The object was estimated to be visible for only about 2 seconds.",
-        "Witnesses were unsure of what the object was, as it did not resemble a typical aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, unknown light",
-    "location": "near Brownwood, Texas",
-    "witnesses": "multiple witnesses, including civilian observers",
-    "photographs": "no photographs available"
+    "main event": "An unidentified flying object was sighted multiple times on 2 April 1952 near Brownwood, Texas, including reports from military personnel and civilians.",
+    "interesting points": "Witnesses reported a bright, circular object moving at high speeds, described as 30-40 feet in diameter, emitting a fiery tail,Some reports indicated the object broke into multiple parts and changed direction abruptly,Observations were conducted by various military and civilian entities, with reports detailing speeds ranging from 600 mph to 1500 mph,Common descriptions included a bright white light and a colorful explosion effect as the object traveled through the sky.",
+    "sighted object": "a bright circular object with a fiery tail",
+    "location": "Brownwood, Texas, USA",
+    "number of confirmed witnesses": 30,
+    "witness description": "military personnel and civilians in the area",
+    "contains photographs": false
 }

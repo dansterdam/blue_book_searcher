@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An orange light was observed moving straight up from Grand Valley, Colorado on March 18, 1968.",
-    "interesting points": [
-        "The light went out and then came back on a few seconds later, staying on for approximately 10 seconds.",
-        "The burning characteristics of the booster for an ATHENA missile launch from Green River, Utah on the same date were similar to the reported observation.",
-        "The object was likely the ATHENA missile launch and not an unidentified flying object.",
-        "In a separate incident on March 28, 1968, an ATHENA missile was launched from Green River, Utah, and the burning characteristics were similar to the reported observation.",
-        "The Aerial Phenomena Office requested the witness to complete an enclosed form and return it to investigate the March 29, 1968 sighting near Grand Valley, Colorado."
-    ],
-    "result": "Identified as a missile launch",
-    "sighted object": "An orange light moving straight up",
-    "location": "Grand Valley, Colorado",
-    "witnesses": "One witness",
-    "photographs": "None"
+    "main event": "A witness observed an orange light moving straight up from Grand Valley, Colorado for about 10-15 seconds on March 18, 1968.",
+    "interesting points": "The witness saw the light go out and then relight a few seconds later., The light was reported to have stayed on for approximately ten seconds., This sighting was attributed to the launch of an ATHENA missile from Green River, Utah., The characteristics of the missile's booster matched those described by the witness., There was only one confirmed witness to this observation.",
+    "sighted object": "an orange light in the sky",
+    "location": "Grand Valley, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer was facing southwest when the sighting occurred",
+    "contains photographs": false
 }

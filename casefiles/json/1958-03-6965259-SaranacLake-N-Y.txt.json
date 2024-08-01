@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A round, white object was observed hovering and then leaving rapidly in a westbound direction over Saranac Lake, NY on February 24, 1958.",
-    "interesting points": [
-        "The object was described as a round, white object with its lights out on a clear night.",
-        "The object hovered and then left very rapidly in a westbound direction.",
-        "There were conflicting details in the description of the object, making it difficult to evaluate.",
-        "In addition to the sighting, the state police reported that windows were rattled by an explosion in the general area between Saranac Lake and Malone, NY.",
-        "A rock as large as a man's head was reportedly recovered during the daytime at the site."
-    ],
-    "result": "unknown",
-    "sighted object": "round, white object",
-    "location": "Saranac Lake, NY",
-    "witnesses": "1 witness, a passenger in a car",
-    "photographs": "no"
+    "main event": "A round, white object was observed hovering and then leaving rapidly in a westbound direction on the night of February 5, 1958.",
+    "interesting points": "The sighting was reported under clear skies with good visibility., The object was noted to hover at a low altitude (estimated 1000-1500 ft)., There were conflicting descriptions regarding the shape and size of the object., The observer believed there was a smaller object trailing behind the main object., A witness reported seeing a 'sheet of fire' and a rock the size of a man's head was recovered at the site.",
+    "sighted object": "a round, white object",
+    "location": "Saranac Lake, N.Y.",
+    "number of confirmed witnesses": 2,
+    "witness description": "Sgt. Handy of the State Police and Mr. Brown of Keeseville, New York",
+    "contains photographs": false
 }

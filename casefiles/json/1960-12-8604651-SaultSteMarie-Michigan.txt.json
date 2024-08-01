@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Several white objects were observed moving across the sky in Sault Ste. Marie, Michigan around midnight on December 11, 1960.",
-    "interesting points": [
-        "The objects were flying at a high altitude and a slow rate of speed.",
-        "The objects were observed for about 5 minutes before disappearing from sight.",
-        "The witness stated the objects did not resemble any known type of conventional aircraft.",
-        "This was one of several similar sightings reported in the area in the past several months, with some coming from reliable observers.",
-        "The cause of the observations remained unexplained due to lack of detailed data for positive identification."
-    ],
-    "result": "unexplained",
-    "sighted object": "several white objects",
-    "location": "Sault Ste. Marie, Michigan",
-    "witnesses": "a businessman, Mr. X",
-    "photographs": "no"
+    "main event": "Several witnesses observed multiple unidentified flying objects in Sault Ste. Marie, Michigan over a series of dates in December 1960.",
+    "interesting points": "Witnesses reported seeing bright lights in the sky, including formations of lights followed by lower and faster objects., Captain Dewan and his co-pilot observed a bright white light while enroute to the airport and stated it was hovering., The local radar did not detect any military or civilian aircraft during the sightings., A businessman reported seeing several white objects moving slowly across the night sky., Multiple reports of similar sightings came from reliable observers over several months.",
+    "sighted object": "large bright lights and several white objects in the sky",
+    "location": "Sault Ste. Marie, Michigan, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a Captain and co-pilot, a businessman, and other local citizens",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright, fast-moving object was observed hovering and maneuvering over Naperville, Illinois on March 8, 1962.",
-    "interesting points": [
-        "The object was described as a round, metallic object approximately 40-50 feet in diameter that emitted a bright, yellowish-orange light.",
-        "The object hovered silently for about 5 minutes before disappearing abruptly.",
-        "Several witnesses, including a married couple and a police officer, reported the sighting.",
-        "No sound was heard associated with the object, and there were no known aircraft in the area at the time.",
-        "The witnesses were described as reliable and credible."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic, round object",
-    "location": "Naperville, Illinois",
-    "witnesses": "a married couple and a police officer",
-    "photographs": "none"
+    "main event": "On the evening of March 8, 1962, multiple witnesses in Naperville, Illinois reported seeing unidentified flying objects in the sky.",
+    "interesting points": "Two witnesses observed the object hover silently before accelerating and disappearing., Radar detected unidentified aircraft moving at high speeds without any visual confirmation., Some witnesses described the object as a bright circular light hovering for several minutes., A similar sighting was reported by another couple in Lisle, Illinois on the same night., The cases were classified as unidentified due to lack of definitive evidence or explanation.",
+    "sighted object": "Unidentified flying objects exhibiting bright, fast-moving lights.",
+    "location": "Naperville, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers reported bright, circular lights in the sky, with some estimating the size to be around 40-50 feet in diameter.",
+    "contains photographs": false
 }

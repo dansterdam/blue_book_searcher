@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Three photographs of an unidentified aerial object or phenomenon were taken in Plaquemine, Louisiana on September 3, 1967.",
-    "interesting points": [
-        "The first photograph appears to show a nighttime or low-light landscape with a dark silhouetted tree or vegetation in the foreground and a bright object or light source in the sky.",
-        "The second photograph shows a blurry, black and white image of an unidentified aerial object or phenomenon visible in the sky, with some treetops or foliage in the foreground.",
-        "The third photograph shows a black and white image of a night sky with some dark silhouettes, possibly of trees or mountains, in the foreground, but no distinct or identifiable object is visible.",
-        "The photographs are part of a document from the Foreign Technology Division of the AFSC (Air Force Systems Command) and are labeled as 'UNCLASSIFIED'.",
-        "No human faces or identifiable individuals are present in the photographs."
-    ],
-    "result": "unexplained",
+    "main event": "A report on unidentified aerial phenomena documented on September 3, 1967, in Plaquemine, Louisiana.",
+    "interesting points": "The report includes three images, although none capture distinct objects clearly., The first photo shows a nighttime landscape with a bright object in the sky., The second photo displays a blurry black and white image of an unidentified aerial object., The third photo features a night sky with dark silhouettes but lacks identifiable objects., The document originates from the Foreign Technology Division of the AFSC.",
     "sighted object": "unidentified aerial object or phenomenon",
-    "location": "Plaquemine, Louisiana",
-    "witnesses": "unknown",
-    "photographs": "yes, 3 photographs are present"
+    "location": "Plaquemine, Louisiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

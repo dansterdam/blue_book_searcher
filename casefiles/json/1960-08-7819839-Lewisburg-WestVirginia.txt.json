@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a rotating self-luminous object in the sky that seemed to change color from white to orange over Lewisburg, West Virginia on August 5, 1960.",
-    "interesting points": [
-        "The object was seen from 2100 to 2115 hours.",
-        "The object's azimuth and altitude were unknown.",
-        "The information provided in the report was rather limited due to the brevity of the caller's report.",
-        "The report was part of Project Blue Book, the U.S. Air Force's official program for investigating UFO sightings.",
-        "There were additional follow-up messages and investigation around this sighting, indicating it was considered a significant UFO report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a rotating self-luminous object that changed color from white to orange",
-    "location": "Lewisburg, West Virginia",
-    "witnesses": "a witness who called in the report",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "A caller observed a rotating self-luminous object in the sky changing colors from white to orange in Lewisburg, West Virginia.",
+    "interesting points": "The sighting occurred between 2100 and 2115 hours,The object was described as self-luminous and rotating,The color of the object changed during the observation,There was limited information provided due to the brevity of the caller's report,No other witnesses' reports were mentioned.",
+    "sighted object": "rotating self-luminous object",
+    "location": "Lewisburg, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "caller who reported the sighting",
+    "contains photographs": false
 }

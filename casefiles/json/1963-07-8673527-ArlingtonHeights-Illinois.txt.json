@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed to disappear at 30 degrees elevation in the south after 3-10 minutes of observation. The object appeared to wobble.",
-    "interesting points": [
-        "The object was evaluated as an ECHO observation.",
-        "The object was observed to have a slight oscillation.",
-        "The sighting occurred at 0250Z and 0330Z.",
-        "The object was reported to the Air Defense Command and Air Force Systems Command.",
-        "Weather conditions included a good temperature inversion in the area."
-    ],
-    "result": "evaluated as ECHO observation",
-    "sighted object": "one unidentified object",
-    "location": "Arlington Heights, Illinois",
-    "witnesses": "Lt. Colonel James Crites",
-    "photographs": "no"
+    "main event": "An unidentified object was observed wobbling and disappearing at a 30-degree elevation in the south after a 3-10 minute observation.",
+    "interesting points": "The object crossed azimuth 240 degrees from west to east at 2 SF flight,The object displayed wobble and slight oscillation,The observation lasted for 3 to 10 minutes,The witness was watching stars and reported the object was hovering,The report comes from a consulting engineer, LT Colonel James Crites.",
+    "sighted object": "one unidentified flying object",
+    "location": "Arlington Heights, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "LT Colonel James Crites, age 29, consulting engineer from Arlington Heights, Illinois",
+    "contains photographs": false
 }

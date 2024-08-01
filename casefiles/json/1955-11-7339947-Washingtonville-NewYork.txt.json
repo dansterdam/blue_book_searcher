@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A white, bluish-green colored object suddenly appeared at dusk and was observed for 6-10 seconds.",
-    "interesting points": [
-        "The object was round and about the size of an orange.",
-        "The object disappeared very quickly without any trail, sound, or jet engine noise.",
-        "The sighting occurred in Washingtonville, New York.",
-        "The report includes technical details such as elevation angle, wind speed, and temperature.",
-        "The report mentions three jet aircraft, but it's unclear if they are related to the sighting."
-    ],
-    "result": "astro (meteor)",
-    "sighted object": "a white, bluish-green colored object",
-    "location": "Washingtonville, New York",
-    "witnesses": "a person looking up",
-    "photographs": "no"
+    "main event": "A white colored bluish green object suddenly appeared at dusk in Washingtonville, New York.",
+    "interesting points": "The object was round and emitted a flash of light, about the size of an orange, The sighting lasted for 6-10 seconds, No sound or trail was associated with the object, The object was reported to have moved very fast, The conclusion of the sighting was believed to be an astrological meteor.",
+    "sighted object": "round bluish green object",
+    "location": "Washingtonville, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "individual observing the sky",
+    "contains photographs": false
 }

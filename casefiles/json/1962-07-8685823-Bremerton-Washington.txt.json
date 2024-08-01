@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were detected and tracked on ground radar near Bremerton, Washington in July 1962.",
-    "interesting points": [
-        "The objects were detected and tracked by a ground radar site, but no visual confirmation could be made due to overcast and rainy weather conditions.",
-        "The report does not provide details on the size, speed or altitude of the objects.",
-        "The Air Force considered the sighting to potentially be a shooting star or other astronomical phenomenon based on the limited information available.",
-        "In a follow-up letter, the Air Force stated that their records did not reveal any published stories or pictures in the Seattle Times about unidentified objects and Air Force jets in the area.",
-        "A high school student wrote a letter expressing interest in UFOs and requesting the Air Force's views on whether they could be interplanetary vehicles."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects detected on ground radar",
-    "location": "Bremerton, Washington",
-    "witnesses": "radar site personnel",
-    "photographs": "no"
+    "main event": "Two objects were detected and tracked by ground-radar in Bremerton, Washington in July 1962.",
+    "interesting points": "The weather was overcast and rainy, preventing visual confirmation of the objects., The report suggests that the objects might have been high-performance aircraft based on civilian observations., No information was available regarding the size, speed, or altitude of the objects., The sighting was reported to the 8th AIS Sq by radar site personnel., A shooting star or astronomical phenomenon was considered as a potential explanation for the radar detection.",
+    "sighted object": "two unidentified objects on ground-radar screen",
+    "location": "Bremerton, Washington, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Radar site personnel without visual confirmation due to weather conditions.",
+    "contains photographs": false
 }

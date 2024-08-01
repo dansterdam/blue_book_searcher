@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A bright white 'flying saucer' was sighted over Sierra Vista, Arizona on March 23, 1962.",
-    "interesting points": [
-        "The observer had previously seen a 'flying saucer' before.",
-        "The observer was requested to complete a Form 117 but had not done so as of September 24, 1968.",
-        "On July 7, 1968, a science teacher observed a metallic, reflecting object about the size of a small car moving at an estimated speed of 1000-3000 mph over Sierra Vista.",
-        "On August 4, 1960, a reliable and respectable person observed a dark grey, cigar-shaped object about 200 feet in diameter hovering about 75 feet off the ground near Sierra Vista before it took off at a very high rate of speed.",
-        "The reports indicate multiple sightings of unusual aerial phenomena in the Sierra Vista, Arizona area over the years."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright white 'flying saucer', metallic reflecting object, dark grey cigar-shaped object",
-    "location": "Sierra Vista, Arizona",
-    "witnesses": "civilian, science teacher, reliable and respectable person",
-    "photographs": "no"
+    "main event": "Observers reported multiple sightings of unidentified flying objects over Sierra Vista, Arizona, from various dates in the 1960s.",
+    "interesting points": "The first sighting involved a bright white 'flying saucer' reported by a civilian,The observer saw a 'flying saucer' once before,One description included an object moving at 1000-3000 mph,The sighting involved a reliable science teacher who noted the object's speed and maneuverability were unlike any conventional aircraft,Another report described a massive dark grey cigar-shaped object hovering at 75 feet off the ground for 3-4 minutes before taking off rapidly.",
+    "sighted object": "bright white flying saucer, metallic object, dark grey cigar-shaped object",
+    "location": "Sierra Vista, Arizona, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilian and a science teacher, all considered reliable sources",
+    "contains photographs": false
 }

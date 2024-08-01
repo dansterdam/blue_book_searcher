@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several bright red lights were observed moving in a southeasterly direction over Saratoga, New York on June 25, 1967.",
-    "interesting points": [
-        "The sighting lasted for 40 to 50 seconds.",
-        "Saratoga Springs radar station reported they had not tracked anything.",
-        "The original radar traces were never found or identified.",
-        "It was suggested the sighting could have been a satellite decay, aircraft, meteor, or uncontrolled debris.",
-        "Multiple witnesses reported the sighting, including two boys camping, two women, and a Vermont man."
-    ],
-    "result": "inconclusive",
-    "sighted object": "several bright red lights",
-    "location": "Saratoga, New York",
-    "witnesses": "civilian",
-    "photographs": "possible, but insufficient data for evaluation"
+    "main event": "Several witnesses reported seeing bright red lights moving in the sky over Saratoga Springs, New York on June 23, 1967.",
+    "interesting points": "Two boys camping spotted a huge glowing object streaking upward,Two Greenfield women reported seeing two large glowing objects moving in the sky, A Vermont man claimed his car engine died when he saw a battle-shaped object rising behind trees, The Saratoga Springs Radar station did not track any objects during the incident, Observers claimed the lights observed may have been reflections of bright lights.",
+    "sighted object": "bright red lights",
+    "location": "Saratoga Springs, New York, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "two boys, two women, and one man",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information found in the UFO report:
-
 {
-    "main event": "A round, oval white or luminous yellow object was sighted in the southwest sky over Oklahoma City, Oklahoma on September 28, 1956.",
-    "interesting points": [
-        "The object left a tail as it ascended to the west.",
-        "The reporting officer initially identified the object as a weather balloon, but the report states there is insufficient evidence to fully concur with that assessment.",
-        "The object was observed for over 50 minutes.",
-        "Two people, Mr. [redacted] and Mr. Crawford, were cited as saying the object was a weather balloon.",
-        "The weather conditions at the time included clear skies with 15+ knot winds."
-    ],
-    "result": "unknown",
-    "sighted object": "round, oval white or luminous yellow object",
-    "location": "Oklahoma City, Oklahoma",
-    "witnesses": "traffic clerk at Will Rogers Field",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted over Oklahoma City with a description of a round oval white or luminous yellow object.",
+    "interesting points": "The object left a tail to the southwest and was noted in an ascending course to the west., The reporting officer identified it as probably a weather balloon., The sighting lasted for over 50 minutes., The observation was made by a traffic clerk using binoculars., Clear weather conditions were present during the observation.",
+    "sighted object": "round oval white or luminous yellow object",
+    "location": "Oklahoma City, Oklahoma, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "traffic clerks",
+    "contains photographs": false
 }

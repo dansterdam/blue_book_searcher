@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of a bright white object or balloon in Victoria, Texas on 3 Feb 53, documented by the U.S. Air Force's Project Blue Book.",
-    "interesting points": [
-        "The sighting occurred in broad daylight and the object was described as slowly moving with no discernible features other than the sun reflecting off it.",
-        "The observer, a service station operator, stopped the observation after about 30 minutes when he got busy at his station.",
-        "The description of the course of the object indicated that it glided slowly across the sky and disappeared with an azimuth of about 320 degrees.",
-        "Weather conditions at the time of the sighting included clear ceiling, 15 miles visibility, and cirrus cloud cover from northeast and east, with no thunderstorms in the area.",
-        "The Wing Intelligence Officer suggested that the sighting may have possibly been a weather balloon released by a weather station in the vicinity."
-    ],
-    "result": "prosaic explanation (weather balloon)",
-    "sighted object": "bright white object or balloon",
-    "location": "Victoria, Texas",
-    "witnesses": "service station operator (civilian)",
-    "photographs": "yes"
+    "main event": "Sighting of a bright daylight object or balloon, color white, with no discernible features.",
+    "interesting points": "The object glided slowly across the sky,The observer was a service station operator,The seeing lasted for about 30 minutes,The angle of elevation was between 30 to 35 degrees when first observed and disappeared,The object sparkled in the sunlight.",
+    "sighted object": "bright daylight object or balloon",
+    "location": "Victoria, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, age 45, service station operator",
+    "contains photographs": false
 }

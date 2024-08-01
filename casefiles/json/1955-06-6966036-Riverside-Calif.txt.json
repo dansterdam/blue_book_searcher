@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian pilot observed a round, reddish-white object near Riverside, California on June 17, 1955.",
-    "interesting points": [
-        "The object was the size of a disc and was observed for 3 minutes.",
-        "The object appeared to go straight up and then disappeared over the horizon.",
-        "The characteristics of the object coincided with those of a balloon.",
-        "The observer stated the object appeared and disappeared at the same point.",
-        "No investigation was authorized by the headquarters."
-    ],
-    "result": "Possibly a Balloon",
-    "sighted object": "One round, reddish-white object",
-    "location": "Riverside, California",
-    "witnesses": "Civilian (Pilot)",
-    "photographs": "No"
+    "main event": "A civilian pilot observed a round, reddish-white object in Riverside, California on June 17, 1955.",
+    "interesting points": "The sighting lasted for 3 minutes., The object was described as round and the size of a disc., The object appeared to go straight up before disappearing over the horizon., There was insufficient data to definitively classify the object., The report noted a possibility of the object being a balloon.",
+    "sighted object": "one round, reddish-white object",
+    "location": "Riverside, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian pilot, age 15",
+    "contains photographs": false
 }

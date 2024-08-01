@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An unidentified object was spotted in the sky over Anchorage, Alaska on October 16, 1951.",
-    "interesting points": [
-        "The object appeared to be a small bright light that was capable of maneuvering, lighting up and diminishing in size.",
-        "The object was observed for approximately 3-4 minutes and then disappeared.",
-        "The object was described as bluish-white in color and did not leave any trail.",
-        "The initial report was that the object appeared to be an aircraft, but it flew faster than normal aircraft.",
-        "Lt. Col. Richardson, who was contacted about the incident, said he had not mentioned sighting the object to anyone."
-    ],
-    "result": "unknown",
-    "sighted object": "an unidentified object in the sky",
-    "location": "Anchorage, Alaska",
-    "witnesses": "Pfc Mason, Lt. Col. Richardson",
-    "photographs": "no"
+    "main event": "An unidentified object was reported in the sky over Anchorage, Alaska on 16 October 1951.",
+    "interesting points": "The object was observed for about 3-4 minutes and was thought to be an aircraft,It traveled at great speed and climbed straight up before disappearing,One witness described the object as a small bright light that appeared to be stationary for a period,The object's color was noted as bluish-white and it did not leave any trail,Initial speculation led to a conclusion that it was possibly an aircraft or balloon, but the lack of similar reports raised uncertainty about its nature.",
+    "sighted object": "unidentified flying object",
+    "location": "Anchorage, Alaska, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel, including Lt. Col. Richardson and Pfc Mason",
+    "contains photographs": false
 }

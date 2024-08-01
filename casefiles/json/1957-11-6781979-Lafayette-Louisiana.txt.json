@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object, 7 inches in diameter, appearance of a silver dollar, very bright, stationary and just seemed to fade away was observed over Lafayette, Louisiana on November 6, 1957.",
-    "interesting points": [
-        "The object was observed for about 3 minutes by a pilot from the Lafayette Airport.",
-        "The object appeared to be a reflection of a balloon launched from a nearby area and might have had rays.",
-        "Winds were from the northeast to southeast at the time of the sighting.",
-        "The observer was Clyde H. Haines, a senior controller with the New Orleans Civil Aeronautics Administration.",
-        "The object was reported to be staying stationary and then just fading away."
-    ],
-    "result": "Probably Balloon",
-    "sighted object": "round object, 7 inches in diameter, appearance of silver dollar, very bright",
-    "location": "Lafayette, Louisiana",
-    "witnesses": "Clyde H. Haines, senior controller with the New Orleans Civil Aeronautics Administration",
-    "photographs": "yes"
+    "main event": "A witness observed a round object approximately 7 inches in diameter, bright like a silver dollar, stationary in the sky over Lafayette, Louisiana on November 6, 1957.",
+    "interesting points": "The observation lasted for 3 minutes,The object was noted as stationary and then faded away,The witness believed it could be a balloon or aircraft,The sighting occurred at 8:15 AM,Multiple factors such as winds and location of balloon launches were considered in the report.",
+    "sighted object": "a round object about 7 inches in diameter",
+    "location": "Lafayette, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "pilot of Eastern Airlines",
+    "contains photographs": false
 }

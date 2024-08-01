@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the JSON summary:
-
 {
-    "main event": "A radar operator observed an unidentified target that changed colors and size on the radar scope in Indianapolis, Indiana on August 31, 1950.",
-    "interesting points": [
-        "The target appeared higher than the surrounding terrain on the radar.",
-        "The object changed colors, appearing vivid purple, red, amber, and white.",
-        "The size of the object on the radar screen would fluctuate, appearing smaller and larger at times.",
-        "There was no sound associated with the object.",
-        "The radar operator's conclusion was that the sighting was likely caused by a balloon."
-    ],
-    "result": "Identified as a Balloon",
-    "sighted object": "Unidentified radar target",
-    "location": "Indianapolis, Indiana",
-    "witnesses": "Radar operator",
-    "photographs": "no"
+    "main event": "A radar operator observed a stationary object on radar that changed colors and appeared visually at times.",
+    "interesting points": "The object was detected on radar appearing higher than the surrounding terrain,It exhibited vivid colors including purple, red, amber, and white,The length of observation was approximately 3-4 minutes,The object was silent during the sighting,It was concluded that the sighting was probably caused by a balloon.",
+    "sighted object": "a stationary object showing up on radar",
+    "location": "Indianapolis, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "radar operator",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground-radar contact with an unidentified object over Lebanon, Ohio on May 9, 1962.",
-    "interesting points": [
-        "The unidentified object was tracked on ground-radar for 20 minutes.",
-        "The case was evaluated as being unexplained.",
-        "There were additional reports of a bright light passing over the area around the same time period.",
-        "The Air Force concluded the object was likely a satellite, and provided information on Discoverer satellites to the witness.",
-        "Multiple government agencies and military personnel were involved in investigating and evaluating this UFO sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object tracked on ground-radar",
-    "location": "Lebanon, Ohio",
-    "witnesses": "ground-radar operators",
-    "photographs": "no"
+    "main event": "A UFO sighting incident reported in Lebanon, Ohio, on 9 May 1962 involving ground-radar contact with an unidentified object.",
+    "interesting points": "The observation was tracked over Lebanon, Ohio by Ground-Radar,The sighting was classified as unexplained by authorities,The duration of the observation was stated as 20 minutes, A report mentions bright lights observed by witnesses on the following days, The communications interruptions experienced by a witness were notable.",
+    "sighted object": "Unidentified object tracked by ground radar",
+    "location": "Lebanon, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnesses described seeing a bright light moving at a steady pace with no sound.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "On July 8th, 1958, in Beaver Falls, Pennsylvania, civilians reported a sighting of a small, yellowish-green object with slow southwest movement.",
-  "interesting points": [
-    "The object was described as round and small, with a yellowish-green color.",
-    "The observation took place at dusk with a ground visual using binoculars.",
-    "The duration of the observation was 50 seconds, with the object moving at a slow but fast southwest speed.",
-    "The report mentions insufficient data to properly evaluate the observation and indicates the possibility of it being an aircraft.",
-    "There were no actions taken as a result of this sighting."
-  ],
-  "result": "insufficient data for evaluation",
-  "sighted object": "a small, yellowish-green object with slow southwest movement",
-  "location": "Beaver Falls, Pennsylvania",
-  "witnesses": "civilians",
-  "photographs": "no"
+    "main event": "A civilian reported a sighting of a small yellowish-green object moving slowly in Beaver Falls, Pennsylvania on July 8, 1958.",
+    "interesting points": "The object was described as round and small,Observation lasted about 50 seconds,The speed of the object was reported as slow and southwestward,The sighting was made using binoculars during dusk,The report suggests the possibility of an unidentified aerial craft but lacks sufficient data for evaluation.",
+    "sighted object": "small yellowish-green object",
+    "location": "Beaver Falls, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

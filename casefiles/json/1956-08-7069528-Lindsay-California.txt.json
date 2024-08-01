@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Four bright objects were observed moving over the city of Lindsay, California, USA resulting in the formulation of a V-shaped pattern.",
-    "interesting points": [
-        "The unusual brightness of the objects caused speculative concerns, initially thought to be satellites but later questioned.",
-        "The observer had no binoculars and the senior director believed the sighting was probably caused by stars since there was no movement.",
-        "The report indicates the sighting was 13 minutes long.",
-        "The weather was clear at the time of the sighting.",
-        "The report notes that the sighting was observed by a civilian supervisor from the Ground Observer Corps (GOC)."
-    ],
-    "result": "unknown",
-    "sighted object": "four bright objects",
-    "location": "Lindsay, California",
-    "witnesses": "civilian supervisor from the Ground Observer Corps (GOC)",
-    "photographs": "no"
+    "main event": "Witness observed four bright objects moving over the city of Lindsay, California, resulting in the formulation of a V-shaped pattern.",
+    "interesting points": "Objects were unusually bright, leading to initial speculation that they were satellites., The sighting was later questioned, with comments suggesting it might be stars due to no movement., The objects were observed for a duration of 13 minutes., Various hypotheses about the objects included balloons and aircraft., The observer did not have binoculars for a clearer view.",
+    "sighted object": "four bright objects forming a V-shaped pattern",
+    "location": "Lindsay, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, supervisor, and good visibility conditions.",
+    "contains photographs": false
 }

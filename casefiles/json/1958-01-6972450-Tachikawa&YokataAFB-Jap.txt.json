@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were sighted over Tachikawa & Yokata AFB, Japan on January 1, 1958.",
-    "interesting points": [
-        "One object was a bright, flickering red object that moved up and down and was about 2-5 miles away.",
-        "The other object was a small, dim white object that moved at a fast, erratic speed and disappeared behind clouds about 1/2 mile away.",
-        "The objects were observed by air force personnel for around 3 minutes.",
-        "The report concludes the objects were probably meteors or balloons.",
-        "No photographs were included in the report."
-    ],
-    "result": "unknown",
-    "sighted object": "two unidentified objects",
+    "main event": "Two sightings of unidentified flying objects were reported on 1 Jan 1958 at Tachikawa and Yokata Air Force Bases in Japan.",
+    "interesting points": "One bright red object flickered and moved in slow motion, while a small dim white object exhibited erratic motion and disappeared behind clouds., The bright red object was observed to be about 2-5 miles away, and the small dim white object about 1/2 mile away., The sightings lasted for about 3 to 5 minutes., Witnesses included airmens observing it from approximately 7:30 to 7:45 PM., The objects were possibly mistaken for a meteor or balloon based on the initial assessments.",
+    "sighted object": "one bright red object and one small dim white object",
     "location": "Tachikawa & Yokata AFB, Japan",
-    "witnesses": "air force personnel",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "airmen from the bases",
+    "contains photographs": false
 }

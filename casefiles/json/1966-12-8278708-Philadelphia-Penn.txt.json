@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported in Philadelphia, PA on December 8, 1966.",
-    "interesting points": [
-        "The report was filed by a civilian witness.",
-        "Only one object was observed.",
-        "The observation was a ground visual sighting with no noted flight path.",
-        "Physical evidence and photographs were reported, but no further details are provided.",
-        "The conclusion states there was 'INSUFFICIENT DATA FOR EVALUATION'."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified object",
-    "location": "Philadelphia, PA",
-    "witnesses": "civilian",
-    "photographs": "yes, but no further details provided"
+    "main event": "A civilian reported sighting of one unidentified flying object in Philadelphia on December 8, 1966.",
+    "interesting points": "The report indicates that the observation was made from a location near Willow Grove NAS., There was a recommendation for further completion of the attached DD Form 1396 by the U.S. Air Force., The report states that there was physical evidence related to the incident., The conclusion of the report noted insufficient data for evaluation., The report was part of the Project Blue Book investigation into UFO sightings.",
+    "sighted object": "one unidentified flying object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

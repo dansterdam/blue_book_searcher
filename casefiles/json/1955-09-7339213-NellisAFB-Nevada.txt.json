@@ -1,15 +1,9 @@
 {
-    "main event": "A balloon was sighted over Nellis AFB, Nevada on 9 Sep 55.",
-    "interesting points": [
-        "The object appeared to be a balloon, possibly a 17 ft Meteorological Determination Indicator (MDI) balloon.",
-        "The object was seen stationary, but appeared to be moving slightly as it was obscured by clouds.",
-        "The sighting lasted for 7 minutes.",
-        "No other case files were found related to this sighting.",
-        "No photographs were taken of the object."
-    ],
-    "result": "Likely a balloon",
+    "main event": "An observation of a balloon at Nellis AFB, Nevada on 9 Sep 55.",
+    "interesting points": "The observation lasted for 7 minutes,The object was sighted as stationary but appeared to be moving slightly through clouds,Only one object was reported,The object was believed to be an MDI Balloon if it was 17 ft,There are no related cases in the files.",
     "sighted object": "a balloon",
-    "location": "Nellis AFB, Nevada",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Nellis AFB, Nevada, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses",
+    "contains photographs": false
 }

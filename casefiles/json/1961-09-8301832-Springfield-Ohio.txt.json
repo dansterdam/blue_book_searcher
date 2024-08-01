@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian observed a bright light in the sky that changed color, hovered, and moved up, down, and sideways in Springfield, Ohio on September 9, 1961.",
-    "interesting points": [
-        "The object was brighter than the usual evening star.",
-        "The object changed color from white to yellow, to bluish, and back to white.",
-        "The object changed to a glow and hovered, then moved up, down, and sideways.",
-        "The estimated angular diameter of the object was 0.2 degrees.",
-        "The sighting lasted for 3 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light in the sky that changed color and moved in various directions",
-    "location": "Springfield, Ohio",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a bright object in the sky near Cedarville, Ohio, which changed color and exhibited unusual movement.",
+    "interesting points": "The sighting lasted for 8 minutes at approximately 7:20 PM on September 8, 1961., The object changed colors from white to yellow to bluish and back to white., It moved in various directions, including hovering and sideways movements., The object was described as brighter than the brightest stars., There were comments suggesting the sighting might involve astronomical phenomena or a natural aircraft.",
+    "sighted object": "a bright object changing colors in the sky",
+    "location": "Springfield, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who observed the object outdoors",
+    "contains photographs": false
 }

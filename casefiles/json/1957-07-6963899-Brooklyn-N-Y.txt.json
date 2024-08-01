@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A string of tiny lights in the shape of a 'V' was observed, with no visible body, silver and bright, glowing white, and moving in the sky.",
-    "interesting points": [
-        "The object was reported to have had a wing and lights, as observed by one of the witnesses.",
-        "The object was observed both standing still and then moving northwest, then moving up and traveling north.",
-        "The object was observed visually from the ground using binoculars.",
-        "The sighting occurred at 35 05 12.",
-        "The report mentions that all three observations indicate the same object, and it was likely a helicopter that had departed Telluride Airport at 22 2230 EPT on the observed flight path."
-    ],
-    "result": "Unknown",
-    "sighted object": "A string of tiny lights in the shape of a 'V'",
-    "location": "Brooklyn, NY",
-    "witnesses": "Multiple observers",
-    "photographs": "No photograph present"
+    "main event": "A string of tiny lights in the form of a Vee was observed in Brooklyn, N.Y.",
+    "interesting points": "The object had no visible body and emitted a bright, shiny white glow., One observer reported seeing a wing and lights., The object was silent and left no tail or trail., The observation was made using binoculars., The probable object indicated was a helicopter.",
+    "sighted object": "a string of tiny lights",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Intelligence staff officer who reported the observation",
+    "contains photographs": false
 }

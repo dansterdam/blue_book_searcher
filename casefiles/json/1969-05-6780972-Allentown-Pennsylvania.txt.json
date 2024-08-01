@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing a single unidentified object in the sky over Allentown, Pennsylvania on May 6, 1969.",
-    "interesting points": [
-        "The witness initially reported seeing the object on May 4, 1969 at around 10:30 PM EDT, but later gave the date as May 6, 1969 at around 6:37 PM EDT.",
-        "The witness described the object as having a 'comet-like' appearance, being much brighter and larger than a star, with no wings or protrusions.",
-        "The object maintained a steady, luminous quality and position in the sky for about 1.5 hours.",
-        "The witness was interested in astronomy and UFOs, and reported that when they pointed the object out to their sister, the barking dogs in the yard suddenly stopped.",
-        "The witness drew a sketch of the object, which they described as a 'triangle-shaped' craft that moved at high speed and then accelerated away rapidly."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, comet-like object; a triangle-shaped craft",
-    "location": "Allentown, Pennsylvania",
-    "witnesses": "a civilian, their sister",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Witnesses in Allentown, Pennsylvania observed a strange light in the sky on May 4, 1969.",
+    "interesting points": "The sighting involved conflicting reports on the date and time, with one report stating May 4 at 10:30 PM and another suggesting May 6 at 6:37 PM., Witnesses described the object as appearing like revolving spheres and flat circular shapes in the air., The color of the object was noted as reddish amber, and it was compared to a falling star., The object reportedly moved fast, darting around and making noise., The sighting lasted approximately 3 seconds and involved at least one observer who was retired and alone.",
+    "sighted object": "a strange light resembling a comet or a falling star",
+    "location": "Allentown, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 14-year-old boy who was interested in astronomy.",
+    "contains photographs": false
 }

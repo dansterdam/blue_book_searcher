@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A small, moon-shaped object about 3 feet in diameter with a white glow appeared in the sky near Klamath Falls, Oregon.",
-    "interesting points": [
-        "The object first appeared as a single object, then split into two objects.",
-        "The object was observed moving in a zig-zag pattern, moving into the wind.",
-        "Control tower personnel at Kingsley Field were unable to visually spot the object.",
-        "The sighting lasted for about 10 minutes.",
-        "The object was reported to have appeared and then disappeared, reappearing 60 days later."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A small, moon-shaped object with a white glow",
-    "location": "Klamath Falls, Oregon",
-    "witnesses": "Mr. and Mrs. ------ from Klamath Falls, and personnel at the control tower at Kingsley Field",
-    "photographs": "No photographs were included in the report"
+    "main event": "Two small moon-shaped objects with a white glow were observed in Klamath Falls, Oregon on July 8, 1963.",
+    "interesting points": "The objects were reported to zig-zag in motion,Observation lasted for 10 seconds before the objects disappeared,Objects were first seen as one and then split into two,Control tower observers were unable to spot the objects,The report concluded that there was insufficient data for evaluation.",
+    "sighted object": "two small moon-shaped objects",
+    "location": "Klamath Falls, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. & Mrs. from Klamath Falls, Oregon",
+    "contains photographs": false
 }

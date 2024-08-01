@@ -1,15 +1,9 @@
 {
-    "main event": "A cylindrical object was observed hovering over Cerro Catalan, Uruguay on May 4, 1958.",
-    "interesting points": [
-        "The object remained stationary for 6 minutes, accompanied by a slow pulsing noise when it moved.",
-        "The object had a cylindrical shape, was white in color, and had no visible wings.",
-        "The object performed rapid vertical maneuvers relative to the horizon.",
-        "Other similar sightings were reported in Uruguay during the second quarter of 1956.",
-        "The case was compared to a 1948 incident where a large unidentified object was encountered by a DC-3 aircraft near Atlanta, Georgia."
-    ],
-    "result": "unknown",
-    "sighted object": "a white cylindrical object",
+    "main event": "On May 4, 1958, an unidentified cylindrical object was observed in Cerro Catalan, Uruguay, remaining stationary for 6 minutes and emitting a slow pulsing noise.",
+    "interesting points": "The object was described as cylindrical with no wings,The object emitted a low humming sound while moving,The sighting was compared to a historical event (Chiles Whitted case),Testimony from multiple witnesses indicated a similar description of the object,The object appeared very bright and was said to have a rapid vertical operation.",
+    "sighted object": "one cylindrical object",
     "location": "Cerro Catalan, Uruguay",
-    "witnesses": "multiple witnesses",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 3,
+    "witness description": "witnesses described the object as bright and cylindrical, with a humming sound",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report text provided:
-
 {
-    "main event": "Five military personnel observed an unidentified aerial object traveling at high speed and making sharp turns over Fort Eustis, Virginia on April 17, 1952.",
-    "interesting points": [
-        "The object was described as circular in shape, about 30 feet in diameter, and traveling at an estimated speed of 500-600 mph.",
-        "The object appeared to be under some intelligent control, making sharp turns and disappearing into clouds.",
-        "No sound or exhaust was observed from the object.",
-        "Two separate groups of witnesses, including an administrative NCO and two soldiers on guard duty, independently reported seeing the object.",
-        "Investigations could not identify the object as any known aircraft or test flight in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, metallic object",
-    "location": "Fort Eustis, Virginia",
-    "witnesses": "five military personnel",
-    "photographs": "no"
+    "main event": "Five Army officers observed an unidentified aerial phenomenon at Fort Eustis, Virginia, on April 17, 1952.",
+    "interesting points": "The object was described as elliptical or spherical with a white and green blue tail, The observation lasted approximately 2 to 2½ seconds, Several military personnel reported seeing the object moving from southeast to northwest, Witnesses claimed the object appeared to be under intelligent control, No sound or exhaust was noted during the observation.",
+    "sighted object": "unidentified aerial object with a tail",
+    "location": "Fort Eustis, Virginia, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Army officers including a retired Colonel and other military personnel",
+    "contains photographs": false
 }

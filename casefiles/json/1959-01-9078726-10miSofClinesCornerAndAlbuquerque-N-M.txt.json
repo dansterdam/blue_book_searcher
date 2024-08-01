@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, glowing object was sighted by multiple witnesses 10 miles south of Clines Corner and Albuquerque, New Mexico on January 6, 1959.",
-    "interesting points": [
-        "The object was described as an exceptionally brilliant object that changed color from green to blue and orange.",
-        "The object hovered in the air for 5-10 minutes before moving at a fast speed, halting, and then moving out again.",
-        "The object was about the size of a grapefruit and had lights flaring from the tail end.",
-        "The object's flight path was erratic, traveling slowly and at an altitude of approximately 75 miles above the area.",
-        "The object suddenly increased speed tremendously, passing directly overhead from west to east and then stopping and remaining motionless in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, glowing object that changed color",
-    "location": "10 miles south of Clines Corner and Albuquerque, New Mexico",
-    "witnesses": "multiple adults and children",
-    "photographs": "no"
+    "main event": "On January 6, 1959, an unidentified flying object was observed hovering in the air near Clines Corner and Albuquerque, New Mexico.",
+    "interesting points": "The object was described as exceptionally brilliant, changing colors from cold green to blue and orange., The observer noted it could have been aircraft dropping flares or balloons., The sighting lasted for approximately 10 minutes., The size of the object was compared to that of a grapefruit with lights flaring from its tail end., Five witnesses, including two children, observed the object during its flight.",
+    "sighted object": "one unidentified flying object",
+    "location": "Clines Corner, New Mexico, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "three adults and two children",
+    "contains photographs": false
 }

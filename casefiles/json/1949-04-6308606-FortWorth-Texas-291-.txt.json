@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object was seen over Fort Worth, Texas on 13 April 1949, traveling at a tremendous speed estimated to be over 1000 miles per hour before suddenly disappearing. The object was described as a bright silver round ball traveling horizontally in the direction of south-south-east, with an exhaust trail three times the size of the object.",
-  "interesting points": [
-    "The object was estimated to be traveling at a speed far in excess of any known aircraft or meteor, indicating an unusual and unexplained phenomenon.",
-    "The sighting lasted for approximately 8 seconds and the object was also observed by other eyewitnesses, adding credibility to the report.",
-    "The exhaust trail of the object appeared to originate from a perfect circle in the rear of the object, suggesting a distinct and structured design.",
-    "No sound was heard during the observation, and the weather conditions at the time were reported as clear with 8 miles visibility, ruling out atmospheric disturbances as a possible cause.",
-    "The observers were noted to be of above-average intelligence and sound character, providing credibility to the reported sighting."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright silver round ball with an exhaust trail",
-  "location": "Fort Worth, Texas",
-  "witnesses": "1st Lt. Robert A. Franco and other unidentified personnel",
-  "photographs": "no photographs available in the report"
+    "main event": "An unidentified flying object was sighted over Fort Worth, Texas, on 13 April 1949 by two officers from the Carswell Flight Service Center.",
+    "interesting points": "The object was described as a bright silver round ball traveling at an estimated speed of over 1000 mph,The object left a long exhaust trail approximately three times the size of itself,The sighting lasted about 8 seconds,The witnesses reported that the object did not appear to be a jet or meteor,The weather conditions at the time were clear with visibility of eight miles.",
+    "sighted object": "bright silver round ball",
+    "location": "Fort Worth, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "1st Lt Robert A. Franus and Captain Stanley Borowski from Carswell Flight Service Center",
+    "contains photographs": false
 }

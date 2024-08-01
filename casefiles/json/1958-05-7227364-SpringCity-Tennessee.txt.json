@@ -1,15 +1,9 @@
 {
-  "main event": "The report documents a UFO sighting on 7 May 1958, where the observer reported two hand-shaped objects that were red-yellow and giving off flashes, observed for 30 minutes in Spring City, Tennessee.",
-  "interesting points": [
-    "The UFOs were described as hand-shaped, the size of a penny, and emitting red-yellow flashes.",
-    "They were observed side by side and seen flashing intermittently for 30 minutes.",
-    "The manner of observation was ground visual with binoculars.",
-    "Weather and wind conditions at the time and place of the sighting were detailed in the report.",
-    "Despite analysis of the information and evidence, no conclusion could be reached to positively identify the objects."
-  ],
-  "result": "unexplained",
-  "sighted object": "Two hand-shaped objects emitting red-yellow flashes",
-  "location": "Spring City, Tennessee",
-  "witnesses": "Millhand/Field Supervisor",
-  "photographs": "No"
+    "main event": "An observer reported sighting two hand-shaped objects that were red-yellow and emitting flashes for a duration of 30 minutes.",
+    "interesting points": "The sighting lasted for 30 minutes intermittently.,The objects were described as being the size of a penny.,The observer noted the colors of the objects as red-yellow.,The objects gave off flashes during the observation.,The conclusion suggested it might have been a bright star seen through fast-moving clouds.",
+    "sighted object": "two hand-shaped objects giving off flashes",
+    "location": "Spring City, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Millhand/Field Supervisor from Spring City",
+    "contains photographs": false
 }

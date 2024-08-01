@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified aircraft were detected by radar and visually confirmed near Las Cruces Air Force Station, New Mexico on February 7, 1957.",
-    "interesting points": [
-        "The two objects exhibited erratic flight paths, sudden accelerations and decelerations, and performance characteristics beyond the capabilities of known aircraft.",
-        "The objects were detected by two separate and distinct radar systems at the Las Cruces Air Force Station.",
-        "The sighting was further confirmed by visual observation by the Air Defense Direction Officer and the crew of a T-33 interceptor aircraft.",
-        "Subsequent investigation revealed no evidence to indicate the sighting was a test or exercise involving known aircraft.",
-        "The objects maintained an indicated airspeed of approximately 1000 mph and maneuvered as a mated pair."
-    ],
-    "result": "unexplained",
+    "main event": "Two unidentified aircraft were intercepted by the 6585th Aircraft Control and Warning Squadron at Las Cruces Air Force Station, exhibiting erratic flight paths and speeds up to 1000 mph on 7 February 1957.",
+    "interesting points": "The two objects were confirmed by two distinct radar systems at the Las Cruces Air Force Station,Visual confirmation was made by an Air Defense Direction Officer and a T-33 interceptor crew.,The aircraft exhibited flight characteristics beyond known capabilities, including rapid accelerations and decelerations.,Investigation ruled out natural radar phenomena as the cause of the sighting, as visibility was good at the time.,The conclusion of the investigation was that the targets were real, indicating advanced technology not known in contemporary aircraft.",
     "sighted object": "two unidentified aircraft",
-    "location": "Las Cruces Air Force Station, New Mexico",
-    "witnesses": "radar operators, Air Defense Direction Officer, T-33 interceptor crew",
-    "photographs": "no"
+    "location": "Las Cruces, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Air Defense Direction Officer and T-33 interceptor crew",
+    "contains photographs": false
 }

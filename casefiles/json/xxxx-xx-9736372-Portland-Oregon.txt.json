@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A large unidentified flying object was observed near Portland, Oregon on March 4-5, 1967.",
-    "interesting points": [
-        "The object was approximately 135 feet long and 65 feet wide, with an unknown color due to the darkness.",
-        "The object seemed to reflect colored lights on its parallel sides, with green on the outside, red in a complete triangle, and blue on the inside.",
-        "The object hovered at around 300 feet altitude at a 45-degree angle, then rose vertically and continued over the ridge.",
-        "The witness was a high school student who was described as very reliable.",
-        "The area had been overflown by the district supervisor for the previous two weeks, and strange sounds in a foreign language had been picked up on a walkie-talkie."
-    ],
-    "result": "INSUFFICIENT DATA FOR EVALUATION",
-    "sighted object": "A large, triangle-shaped unidentified flying object",
-    "location": "Portland, Oregon",
-    "witnesses": "A high school student",
-    "photographs": "No photographs were included in the report"
+    "main event": "A UFO was reported in Portland, Oregon on March 6, 1967, but was concluded to have insufficient data for proper evaluation.",
+    "interesting points": "The object was described as approximately 135 feet long and 65 feet wide., The color of the object was unknown due to darkness, but it reflected colored lights with different hues., The object hovered at about 300 feet altitude for about 30 seconds., After hovering, the object ascended vertically and moved towards a ridge., The weather conditions were clear and there was a nearly full moon during the observation.",
+    "sighted object": "Unidentified flying object (UFO)",
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A high school student who was deemed reliable.",
+    "contains photographs": false
 }

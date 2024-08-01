@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A witness spotted an oval-shaped object that emitted a white light around its outline over Twinsburg, Ohio on February 17, 1969.",
-    "interesting points": [
-        "The object was visible for 5-10 minutes and moved from northeast to south.",
-        "The witness reported that the Twinsburg Police Department was notified of the sighting.",
-        "The witness described the object as a very round, silvery object that made no sound and disappeared after 15-20 seconds.",
-        "A second witness reported seeing a bright light in the sky that appeared to be moving erratically, accelerating and slowing down, on September 26, 1968.",
-        "The second witness said the object passed directly over his house at an estimated altitude of 300 feet and did not make any noise."
-    ],
-    "result": "unexplained",
-    "sighted object": "oval-shaped object with a white light outline",
-    "location": "Twinsburg, Ohio",
-    "witnesses": "multiple witnesses, including a resident and the Twinsburg Police Department",
-    "photographs": "none"
+    "main event": "On February 17, 1969, Richard C. Mader reported an oval-shaped object emitting a white light around its outline to the Twinsburg Police Department.",
+    "interesting points": "The object was reported to have red lights surrounding it., The observer noted that the object made no sound during the sighting., The object was visible for approximately 5-10 minutes before disappearing., The police were dispatched to investigate the report., Richard C. Mader expressed interest in organizations focused on investigating UFO sightings.",
+    "sighted object": "oval-shaped object with white light and red lights",
+    "location": "Twinsburg, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Richard C. Mader, age 44, foundry worker at General Electric Co.",
+    "contains photographs": false
 }

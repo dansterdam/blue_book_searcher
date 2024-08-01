@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "Three round white objects were observed in the sky near Stead AFB, Nevada for approximately two hours.",
-    "interesting points": [
-        "The objects were not in formation and did not exhibit any unusual features such as sound.",
-        "Two of the objects eventually departed in a southwest to northwest direction, while the third object remained in the area.",
-        "The civilian observer was located at 38 degrees 57 minutes N and 119 degrees 57 minutes W.",
-        "No other reports of the sighting were received through the sheriff's office or base facilities.",
-        "Radar contact and interceptors were active in the San Francisco area during the same time period, and the UFO was believed to be associated with those aircraft."
-    ],
-    "result": "Identified as military aircraft",
-    "sighted object": "Three round white objects",
-    "location": "Near Stead AFB, Nevada",
-    "witnesses": "Civilian observer",
-    "photographs": "None"
+    "main event": "A civilian observer reported three round white objects in the sky that remained visible for approximately two hours on July 7, 1961.",
+    "interesting points": "Objects were not in formation,Two of the three objects departed in a northwest direction while one remained, The sighting occurred at 38 degrees 57 minutes N, 119 degrees 57 minutes W, No sound or unusual features were associated with the objects, No other reports of the sighting were received through local sheriff's office or base facilities.",
+    "sighted object": "three round white objects",
+    "location": "Stead AFB, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer reported the sighting.",
+    "contains photographs": false
 }

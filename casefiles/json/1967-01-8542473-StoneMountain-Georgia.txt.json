@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a white light travel toward the western horizon in Stone Mountain, Georgia on January 25, 1967.",
-    "interesting points": [
-        "The light was brighter than the brightest star.",
-        "The object appeared to have a steady, slow flight.",
-        "The report includes a questionnaire with details about the sighting, such as weather conditions, direction of travel, and brightness compared to common objects.",
-        "The report mentions that the object went dark in a very short time as the witness was returning to a parking lot.",
-        "The Air Force requested the witness complete an additional form (PDD Form 164) to provide more information for evaluation."
-    ],
-    "result": "Inconclusive, possibly an aircraft observation.",
-    "sighted object": "A white light",
-    "location": "Stone Mountain, Georgia",
-    "witnesses": "Civilian",
-    "photographs": "None"
+    "main event": "Observers watched a white light travel toward the western horizon for about 15 minutes.",
+    "interesting points": "The white light was brighter than the brightest star observed in the sky., The observation type was classified as ground visual., The course of the object was westward., The object moved steadily and fairly slowly., The conclusion suggests it might have been an aircraft observation.",
+    "sighted object": "a white light in the sky",
+    "location": "Stone Mountain, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as a white light moving with steady flight.",
+    "contains photographs": false
 }

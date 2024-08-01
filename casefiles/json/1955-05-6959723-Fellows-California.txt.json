@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white, round object the size of a football was observed to oscillate in erratic motions, suddenly brighten, and then fade from view.",
-    "interesting points": [
-        "The object was observed for approximately 45 seconds.",
-        "The object was located in Fellows, California.",
-        "The sighting occurred on May 6, 1955.",
-        "Due to the lack of information and the improbability of further investigation resulting in more valuable data, the report was not deemed worthy of a followup investigation.",
-        "The report mentions that the case was not deemed worthy of further investigation, suggesting it was a relatively unremarkable or inconclusive sighting."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A white, round object the size of a football",
-    "location": "Fellows, California",
-    "witnesses": "Civilian",
-    "photographs": "No photographs present in the image"
+    "main event": "A white round object the size of a football was observed oscillating in erratic motions before suddenly brightening and fading from view.",
+    "interesting points": "The sighting lasted approximately 45 seconds.,The object was seen in the east direction.,The report classifies the observation type as ground-visual.,The case was deemed not worthy of follow-up investigation due to lack of information.,The document is part of Project Blue Book records.",
+    "sighted object": "one white round object",
+    "location": "Fellows, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

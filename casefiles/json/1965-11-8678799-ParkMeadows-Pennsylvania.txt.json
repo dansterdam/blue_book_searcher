@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A witness spotted an unidentified aerial object for approximately 2 hours and 15 minutes on March 6, 1965.",
-    "interesting points": [
-        "The object appeared to be the size of a flashlight and had a bright white and gray color.",
-        "The object did not make any sound and appeared to be solid.",
-        "The witness estimated the object was about the size of a matchstick head when held at arm's length.",
-        "The object appeared to stand still at times and did not disappear or break up.",
-        "The witness reported the object moved behind and in front of clouds during the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white and gray colored aerial object",
-    "location": "Redacted, USA",
-    "witnesses": "1",
-    "photographs": "none"
+    "main event": "A questionnaire from a Project Blue Book document related to a UFO sighting with instructions on estimating speed and distance of the observed object.",
+    "interesting points": "The estimated speed of the object was between 2,000 - 3,000 ft/hr., The object was reported to be about 1/4 mile away at the time of sighting., Witness was asked to describe the location of the sighting and if they were moving in a vehicle., The report included sketches for the witness to illustrate the height and path of the object., Another section sought previously experienced sightings to gather comparative data.",
+    "sighted object": "unidentified aerial phenomenon",
+    "location": "Berwin, Pennsylvania, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "male, age 13",
+    "contains photographs": false
 }

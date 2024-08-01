@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A staff sergeant at England Air Force Base in Alexandria, Louisiana spotted a bright white light object moving quickly to the southwest in 1960.",
-    "interesting points": [
-        "The object was brighter than any star in the sky and was observed for 2-3 seconds before disappearing.",
-        "There was no noise, trail, or any other indication that the object was an aircraft or man-made device.",
-        "The report was forwarded to the Air Technical Intelligence Center for evaluation.",
-        "Further analysis could not confirm or deny that the object was an authentic UFO, and it was possibly described as a meteor observation.",
-        "No photograph was present in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light object",
-    "location": "Alexandria, Louisiana",
-    "witnesses": "staff sergeant, USAF",
-    "photographs": "no, no photograph present"
+    "main event": "A UFO was reported in Alexandria, Louisiana on February 23, 1960, observed moving swiftly across the sky.",
+    "interesting points": "The object was described as a white light brighter than any star, observed for 2-3 seconds.,The object was reported to be flying high and fast in a southwest direction.,The observation was made by a Staff Sergeant from the USAF.,The object was silent with no trail or other indications of being man-made.,The report concluded that the object was likely a natural phenomenon.",
+    "sighted object": "white light object",
+    "location": "Alexandria, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Staff Sergeant from the USAF, credible and capable of making valid observations.",
+    "contains photographs": false
 }

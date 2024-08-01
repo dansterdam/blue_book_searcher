@@ -1,17 +1,9 @@
-Here is a summary of the UFO report in JSON format:
-
 {
-    "main event": "A civilian in Yonkers, New York reported seeing a star-like object in the sky that moved erratically, stopping, turning, and accelerating before disappearing behind some trees.",
-    "interesting points": [
-        "The object appeared much brighter than a normal star.",
-        "The object made controlled maneuvers, including stopping, turning, and retracing its steps.",
-        "The sighting lasted for about 1-2 minutes.",
-        "The witness later saw a newspaper report about a UFO sighting in Yonkers on the same evening, which matched the description of what they had observed.",
-        "The witness was concerned about the safety of the country and felt compelled to report the strange object they had seen."
-    ],
-    "result": "unexplained",
-    "sighted object": "a star-like object that moved erratically",
-    "location": "Yonkers, New York",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "main event": "An observer saw a star-like object in the sky that moved left and right, appearing much brighter than a normal star, and then disappeared behind some trees.",
+    "interesting points": "The object was observed for 4-5 minutes,The sighting coincided with a reported UFO incident in the area on October 8, 1966,The object was described as radiant and capable of controlled maneuvers,The observer detailed the object changing size and brightness,The report emphasized that essential data was lacking for a proper evaluation.",
+    "sighted object": "a star-like object",
+    "location": "Yonkers, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An individual who reported seeing the object while walking on the street.",
+    "contains photographs": false
 }

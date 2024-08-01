@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright object was observed in the sky south of Joliet, Illinois on June 3, 1960.",
-    "interesting points": [
-        "The object was observed by multiple witnesses in two locations about 32 miles apart.",
-        "The object was described as a brilliantly lighted object in the southeastern sky.",
-        "The investigation concluded the object was likely the planet Jupiter.",
-        "An Air Force jet interceptor was sent to investigate the sighting.",
-        "The sighting lasted for approximately 20 minutes."
-    ],
-    "result": "explained",
-    "sighted object": "a brilliantly lighted object",
-    "location": "south of Joliet, Illinois",
-    "witnesses": "multiple civilian observers",
-    "photographs": "no photographs available"
+    "main event": "On June 1, 1960, a civilian observer reported seeing a luminous object near Joliet, Illinois, which lasted about 20 minutes.",
+    "interesting points": "The object had a round shape with an irregular upper portion, emitted a brilliant white light similar to molten metal, and at times, a yellowish-white beam was visible., The object was visible to multiple witnesses, with reports confirming about 75 individuals observing it., The object appeared to have a swinging motion resembling a pendulum for short periods., The sight was categorized as a probable satellite or possibly a balloon based on official conclusions., Weather conditions during the sighting were clear with good visibility, contributing to the observation.",
+    "sighted object": "Luminous object with a round shape and an irregular upper portion, emitting white and yellowish-white light.",
+    "location": "Joliet, Illinois, USA",
+    "number of confirmed witnesses": 75,
+    "witness description": "Civilian observers including individuals such as an accountant and amateur astronomers, with good reliability in their accounts.",
+    "contains photographs": false
 }

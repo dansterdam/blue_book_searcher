@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object (UFO) was observed in Pueblo, Colorado on June 14, 1958 at 1016 MST. The object was described as solid, white or silvery white, with a rounded dome on the middle, and higher than cirrus clouds at 30,000 ft.",
-  "interesting points": [
-    "The object was seen visually and tracked with a theodolite by a civilian witness.",
-    "The object was estimated to be moving at a very high speed, around 2000 feet per second.",
-    "There were no visible means of propulsion, no sound, and no trail observed on the object.",
-    "The sighting was followed aurally with a theodolite and visually, and the observation lasted about 3 minutes.",
-    "The witness mentioned that upper winds were from the southwest, opposite to the movement of the object, and two pilots also observed the object making a very rapid maneuver."
-  ],
-  "result": "unexplained",
-  "sighted object": "an unidentified flying object described as solid, white or silvery white, with a rounded dome on the middle",
-  "location": "Pueblo, Colorado",
-  "witnesses": "the witness was a civilian",
-  "photographs": "no photographs were included in the report"
+    "main event": "An unidentified flying object was sighted on June 14, 1958, in Pueblo, Colorado, while a civilian was driving north.",
+    "interesting points": "The object was described as flat with a rounded dome and shining appearance,The object was white or silvery and higher than cirrus clouds at approximately 30,000 feet,It was observed using a theodolite and was measured visually and aurally,The speed was estimated at about 2000 feet per second over a distance of approximately 15 miles in 3 minutes,The object made no sound and had no visible means of propulsion or exhaust.",
+    "sighted object": "a flat, shining object with a rounded dome",
+    "location": "Pueblo, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian driving north.",
+    "contains photographs": false
 }

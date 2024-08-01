@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several unidentified flying objects were observed over Pittsfield and Detroit, Maine on multiple occasions in 1955.",
-    "interesting points": [
-        "The objects were described as bright, round lights that would hover, dart, and move rapidly across the sky.",
-        "The objects were estimated to be traveling at speeds up to 1,000 mph.",
-        "The objects would either suddenly disappear or fade out of view.",
-        "Multiple independent witnesses, described as reliable, reported seeing the objects on separate occasions.",
-        "Some of the sightings lasted for over an hour, with the objects exhibiting unusual flight characteristics."
-    ],
-    "result": "unknown",
-    "sighted object": "bright, round, unidentified flying objects",
-    "location": "Pittsfield and Detroit, Maine",
-    "witnesses": "multiple civilian and military observers",
-    "photographs": "no"
+    "main event": "Unidentified flying objects were observed over Pittsfield and Detroit, Maine on multiple dates in January 1955.",
+    "interesting points": "The objects appeared as bright white or orange lights in the sky observed by multiple separate witnesses,The objects exhibited unusual flight characteristics such as rapid movements and sudden stops,The sightings were reported to military authorities and involved independent reliable witnesses,Some reports indicated that the objects were seen traveling at high speeds and altitudes,Investigations concluded that some sightings could not be easily explained or attributed to known aircraft.",
+    "sighted object": "multiple unidentified flying objects, described as bright lights",
+    "location": "Pittsfield and Detroit, Maine, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "reliable and sober independent observers",
+    "contains photographs": false
 }

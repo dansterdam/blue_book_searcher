@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report text, here is the JSON summary:
-
 {
-    "main event": "A bright, white, hovering object was spotted near the horizon in Snohomish, Washington on September 1, 1962.",
-    "interesting points": [
-        "The object consisted of four bright, white lights that were very steady with no sound.",
-        "The sighting lasted for about 15 minutes.",
-        "Two snapshot size photographs of the UFO were found in Snohomish.",
-        "An artifact numbered 341-17-481 was located in the Snohomish Room.",
-        "The report includes technical illustrations or photographs of an object or structure with irregular, angular shapes."
-    ],
-    "result": "unexplained",
-    "sighted object": "four bright, white lights hovering near the horizon",
-    "location": "Snohomish, Washington",
-    "witnesses": "unknown",
-    "photographs": "yes, two snapshot size photographs were found"
+    "main event": "A sighting of four bright, white lights in Snohomish, Washington on September 1, 1962.",
+    "interesting points": "The lights were described as hovering near the horizon and were very steady without any sound., The sighting lasted for about 15 minutes., The object was documented in connection with Project Blue Book., An analysis report concluded the sample related to this sighting had a chemical composition consistent with bentonite clay., There were mentions of photographs possibly related to the UFO in Snohomish.",
+    "sighted object": "four bright, white lights",
+    "location": "Snohomish, Washington, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witness descriptions provided",
+    "contains photographs": false
 }

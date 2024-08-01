@@ -1,15 +1,9 @@
 {
-    "main event": "The observer sighted a red and a white light attached to one object, which were about the size of the stars and were visible for approximately 6 minutes.",
-    "interesting points": [
-        "No evidence was presented that the object was an aircraft.",
-        "The observer was asked to fill out a detailed questionnaire about the sighting, including questions about the time, location, weather conditions, and characteristics of the observed object.",
-        "The questionnaire includes instructions for the observer to draw sketches or diagrams to illustrate the object's motion, shape, and arrangement (if multiple objects were seen).",
-        "The observer was asked to provide information about whether anyone else witnessed the object and to describe their own background and experience.",
-        "The observer was asked to report when they first reported the sighting and to provide any additional relevant information not covered in the questionnaire."
-    ],
-    "result": "Probable Aircraft",
-    "sighted object": "a red and a white light attached to one object, about the size of the stars",
-    "location": "Gallipolis, Ohio",
-    "witnesses": "the observer",
-    "photographs": "no"
+    "main event": "An observer sighted a red and a white light attached to one object in Gallipolis, Ohio on May 22, 1960.",
+    "interesting points": "The observed lights were about the size of stars and visible for approximately 6 minutes.,The conclusion of the report suggested the lights were probably an aircraft.,There was no evidence presented that the object was indeed an aircraft.,Only one object was reported despite the two lights.,The report comes from the historical Project Blue Book archives, which investigated UFO sightings.",
+    "sighted object": "one object with red and white lights",
+    "location": "Gallipolis, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer who reported the sighting.",
+    "contains photographs": false
 }

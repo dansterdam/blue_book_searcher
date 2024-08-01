@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian in Cincinnati, Ohio sighted a flickering, star-like object moving across the sky on January 8, 1956 at 4:23 AM.",
-    "interesting points": [
-        "The object was in sight for 5 minutes and was concluded to be the satellite ECHO I.",
-        "The observer described the object as a round, metallic disc-shaped object that appeared to be motionless or nearly motionless, maintaining a constant altitude and not deviating from its course.",
-        "The observer noticed the object seemed to be oscillating from side to side and rising and descending at irregular intervals, which indicated to them that it was under intelligent control.",
-        "As the object approached the horizon, it appeared to gradually diminish in size, though the observer felt it was actually increasing in distance.",
-        "The object did not make any sound and did not appear to have any visible means of propulsion, but had a distinctive feature of a very bright, glowing appearance emitting light rays."
-    ],
-    "result": "Satellite (ECHO I)",
-    "sighted object": "a flickering, star-like object",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported seeing a flickering, star-like object moving across the sky in Cincinnati, Ohio on January 8, 1956, which was observed for 5 minutes.",
+    "interesting points": "The object was observed at 4:23 AM and was concluded to be the satellite ECHO I,The sighting lasted for 5 minutes,There was no photographic evidence of the object,The observer reported that the object appeared to oscillate and seemed to be under intelligent control,The observer had a military background and served in an Anti-Aircraft Unit during the Korean War.",
+    "sighted object": "flickering, star-like object",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian with military background in anti-aircraft operations",
+    "contains photographs": false
 }

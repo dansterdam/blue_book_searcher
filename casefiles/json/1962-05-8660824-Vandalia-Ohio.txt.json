@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a bright, shiny, elliptical object in the sky near Vandalia, Ohio on May 16, 1962 at around 2:50 AM.",
-    "interesting points": [
-        "The object appeared to be slowly revolving and was silent.",
-        "The witness observed the object for about 10-15 minutes, but it was obscured by clouds at times.",
-        "The witness was unable to determine the exact size or shape of the object, but it seemed larger than an average star.",
-        "The witness reported a possible second object at first but lost sight of it.",
-        "The witness estimated the speed of the object as faster than a jet aircraft."
-    ],
-    "result": "unknown",
-    "sighted object": "A bright, shiny, elliptical object",
-    "location": "Vandalia, Ohio",
-    "witnesses": "1 witness",
-    "photographs": "none"
+    "main event": "A witness observed an unidentified object in the sky over Vandalia, Ohio on May 3, 1962.",
+    "interesting points": "The object remained quite stationary and silent while observed,The witness was unable to determine its exact size or shape, but noted it seemed larger than an average star,There were periods during the sighting when the object was obscured by clouds,The witness reported that the object appeared to be bright silver and shiny,The witness estimated the speed of the object to be faster than a jet.",
+    "sighted object": "an unidentified bright silver shiny object",
+    "location": "Vandalia, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness had observed the object while looking at the sky.",
+    "contains photographs": false
 }

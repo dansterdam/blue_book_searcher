@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A sighting of two whitish lights or glowing objects that grew in size and hovered at Gander AB, Newfoundland on April 8, 1955.",
-    "interesting points": [
-        "The lights behaved erratically and appeared to be magnetically attracted to each other, but much larger in size.",
-        "The sighting lasted for 10-20 seconds.",
-        "There was insufficient data for evaluation of the incident.",
-        "The report mentions a possible second sighting of aircraft flashing landing lights on April 12, 1955 at the same location.",
-        "The report is part of the Project Blue Book records, which was a US Air Force program that investigated UFOs."
-    ],
-    "result": "unexplained",
-    "sighted object": "two whitish lights or glowing objects",
-    "location": "Gander AB, Newfoundland",
-    "witnesses": "Lt. from the RCAF",
-    "photographs": "No"
+    "main event": "On April 8, 1955, two whitish lights or glowing objects were observed in Gander, Newfoundland, hovering and growing in size.",
+    "interesting points": "The sighting lasted between 10 to 20 seconds,The observed lights appeared magnetic and erratic in movement,The source of the report was an RCAF military lieutenant,There was insufficient data for a definitive evaluation,The report concluded that the object was unidentified and could possibly be a balloon or aircraft.",
+    "sighted object": "two whitish lights in the sky",
+    "location": "Gander, Newfoundland, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "military Lieutenant from RCAF",
+    "contains photographs": false
 }

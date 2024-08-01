@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "Three silver, circular objects were observed moving at a high rate of speed in an easterly direction over Hyde Park, Massachusetts on March 22, 1962.",
-    "interesting points": [
-        "The objects were observed for 10-15 seconds before disappearing from view.",
-        "The objects were described as gliding with no associated sound.",
-        "The witness considered the appearance and manner of flight of the objects to be unusual and authentic.",
-        "A request was made to send a questionnaire to the witness since no photographs were provided.",
-        "The sighting was reported to the United States government as part of Project Blue Book, a program that investigated UFO reports."
-    ],
-    "result": "unexplained",
-    "sighted object": "three silver, circular objects",
-    "location": "Hyde Park, Massachusetts",
-    "witnesses": "a civilian witness",
-    "photographs": "no photographs were provided"
+    "main event": "Local civilians observed three objects in the sky making sharp right angle turns and climbing erratic flight patterns at approximately 1945.",
+    "interesting points": "The objects were initially thought to be jet aircraft but their speed and maneuvers were unusual., The sighting lasted for about 3 minutes., Another sighting occurred on March 22, 1962, where three circular silver objects were observed moving at a high rate of speed., The objects in the second sighting appeared to glide silently and disappeared after 10-15 seconds., The reports were documented in Project Blue Book and included observations from civilian witnesses.",
+    "sighted object": "three objects in the sky",
+    "location": "Hyde Park, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "local civilians and a civilian from Washington Street, Hyde Park",
+    "contains photographs": false
 }

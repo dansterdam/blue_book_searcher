@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A small oval white object was seen in the sky, disappearing in 1-3 seconds.",
-    "interesting points": [
-        "The object was observed at 40 degrees elevation.",
-        "The duration and speed of the object indicate it could have been an aircraft, but there was insufficient data for analysis.",
-        "The report mentions a jet circling in the area at the time of the sighting.",
-        "The sighting was reported through military channels from the 376th ACE SAON in Antigo, Wisconsin.",
-        "The report was sent to various military intelligence agencies including the Air Defense Command and the Director of Intelligence at USAF headquarters."
-    ],
-    "result": "unexplained",
-    "sighted object": "small oval white object",
-    "location": "Near Waupun, Wisconsin",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "A small oval white object was seen in the sky near Waupun, Wisconsin, disappearing in 1-3 seconds.",
+    "interesting points": "The object was observed at an elevation of 40 degrees., The observation lasted between 1 to 3 seconds., The flight path of the object was curved., Duration and speed suggested it could be an aircraft but data was insufficient for analysis., The report is a part of the US Air Force's Project Blue Book.",
+    "sighted object": "small oval white object in the sky",
+    "location": "Waupun, Wisconsin, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses mentioned",
+    "contains photographs": false
 }

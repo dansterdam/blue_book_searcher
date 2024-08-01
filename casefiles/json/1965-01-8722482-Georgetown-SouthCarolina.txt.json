@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A possible sighting of 2 or 3 unidentified objects in Georgetown, South Carolina on February 8, 1965.",
-    "interesting points": [
-        "The objects were reported by a witness, but there is no definite evidence that an actual flying object was observed.",
-        "The sighting was categorized as a possible case of mistaken identity or misperception.",
-        "The objects did not have a definite course or trajectory observed.",
-        "No photographs were taken of the objects.",
-        "The sighting lasted for an unspecified duration as reported by the primary witness."
-    ],
-    "result": "inconclusive",
+    "main event": "A report from Project Blue Book detailing a UFO sighting on February 8, 1965, in Georgetown, South Carolina.",
+    "interesting points": "The report states there were possibly 2 or 3 objects involved,The conclusion was that there was no evidence these were actual flying objects,It suggests possible mistaken identity or misperception,The observation was uninterrupted,There were no photographs or physical evidence included in the report.",
     "sighted object": "2 or 3 unidentified objects",
-    "location": "Georgetown, South Carolina",
-    "witnesses": "primary witness",
-    "photographs": "no"
+    "location": "Georgetown, South Carolina, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

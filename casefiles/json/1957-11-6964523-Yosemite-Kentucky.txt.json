@@ -1,15 +1,9 @@
 {
-	"main event": "On February 22, 1957, a witness observed a bright light object passing over Yosemite, Kentucky, which disappeared in about 15 seconds.",
-	"interesting points": [
-		"The observation lasted approximately 45 seconds.",
-		"Only one object was observed.",
-		"No photographs were taken during the sighting.",
-		"The report did not provide a conclusive explanation for the observed object.",
-		"The sighting occurred at 1830 EST."
-	],
-	"result": "Insufficient Data for Evaluation",
-	"sighted object": "bright light object",
-	"location": "Yosemite, Kentucky",
-	"witnesses": "unspecified witness",
-	"photographs": "no"
+    "main event": "A witness observed a bright light object passing over Yosemite, Kentucky on 22 Feb 1957.",
+    "interesting points": "The sighting lasted approximately 45 seconds., The object was seen at 1830 EST., The object disappeared in about 15 seconds., Only one object was reported., There are no conclusions in the report regarding the nature of the object.",
+    "sighted object": "a bright light object",
+    "location": "Yosemite, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a witness observing the object",
+    "contains photographs": false
 }

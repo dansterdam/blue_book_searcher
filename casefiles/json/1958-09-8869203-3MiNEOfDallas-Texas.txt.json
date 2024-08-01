@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four pulsating, blinking, tear-drop shaped objects were observed over Dallas, Texas in 1958.",
-    "interesting points": [
-        "The objects changed color between pink, red, and blue.",
-        "The objects moved in a straight line from northwest to southeast and then instantly disappeared to the southeast.",
-        "The observation lasted for about 10 minutes.",
-        "The observer was apparently skeptical of the genuineness of the observation and the desirability of formally investigating it.",
-        "The objects were seen by multiple witnesses, including children."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "four pulsating, blinking, tear-drop shaped objects",
-    "location": "NE of Dallas, Texas",
-    "witnesses": "multiple, including children",
-    "photographs": "yes, but not included in this report"
+    "main event": "A sighting of four pulsating, tear-drop shaped objects occurred near Dallas, Texas on 12 September 1958.",
+    "interesting points": "The objects changed colors between pink, red, and blue., The objects followed a straight path from NW to SE., The sighting lasted for approximately 10 minutes., The observer expressed skepticism about the genuineness of the observation., No definitive conclusion was reached regarding the nature of the objects.",
+    "sighted object": "four pulsating, tear-drop shaped objects",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "The primary observer was a housewife with an estimate of reliability being possibly true.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Three glowing, disc-shaped objects were observed by two pilots or military personnel over the coast of Greenland.",
-    "interesting points": [
-        "The objects were traveling at tremendous speed and altitude, moving from horizon to horizon.",
-        "The objects showed no aerodynamic features, trail, or contrail, and their speed varied from rapid acceleration to exceeding the speed of sound.",
-        "The objects performed erratic maneuvers and disappeared quickly due to their high speed and distance.",
-        "The sighting lasted between 5-10 minutes.",
-        "The report notes the possibility that the sighting could have been caused by a ground illusion related to a Canadian balloon chase observed on the same date."
-    ],
-    "result": "unknown",
+    "main event": "Two pilots observed three disc-shaped, white objects traveling at tremendous speed and altitude over the coast of Greenland.",
+    "interesting points": "The sighting lasted for approximately 5-10 minutes., The objects were described as either spherical or disc-shaped., The pilots were considered highly reliable witnesses with military backgrounds., The objects displayed rapid acceleration and erratic maneuvers., Possible explanations for the sighting included ground illusions and atmospheric anomalies.",
     "sighted object": "three disc-shaped, white objects",
-    "location": "Coast of Greenland, 77°N, 75°15'W",
-    "witnesses": "2 pilots or military personnel",
-    "photographs": "no"
+    "location": "Coast of Greenland, Greenland",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilots from the United States Atlantic Fleet",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A white, star-sized object was observed over Oakwood, Ohio on February 23, 1961.",
-  "interesting points": [
-    "The object was very bright and moved very fast, disappearing towards the horizon.",
-    "The object appeared to turn a little towards the observer.",
-    "The sighting lasted for 2 minutes.",
-    "The report includes photographs of the observed object.",
-    "The conclusion was that there was insufficient data to evaluate the sighting."
-  ],
-  "result": "unexplained",
-  "sighted object": "a white, star-sized object",
-  "location": "Oakwood, Ohio",
-  "witnesses": "4 white adults, 1 child",
-  "photographs": "yes"
+    "main event": "On 23 February 1961, witnesses observed a very bright white object in Oakwood, Ohio, which was described as being the size of a star and moving very fast before disappearing to the horizon.",
+    "interesting points": "A total of 5 witnesses, including 4 adults and 1 child, observed the sighting., The object was described as very bright and moved quickly., The sighting lasted for 2 minutes., The object appeared to turn slightly toward the horizon before it vanished., The investigation concluded that there was insufficient data for evaluation.",
+    "sighted object": "a very bright white object",
+    "location": "Oakwood, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "4 white adults, 1 child",
+    "contains photographs": false
 }

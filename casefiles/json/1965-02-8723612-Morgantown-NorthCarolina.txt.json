@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observed an unidentified object in Morgantown, North Carolina in 1965. The object exhibited unusual behavior, including changing colors and brightness.",
-    "interesting points": [
-        "The object was observed at different intervals over a 30-minute period.",
-        "The object exhibited a gold color during the observation.",
-        "The report states that the data presented does not appear to correspond with a satellite or meteorological explanation.",
-        "The observer's name was redacted, indicating the report was treated confidentially.",
-        "The Air Force's Project Blue Book investigated this sighting, but attributed recent UFO sightings in Virginia to a combination of conventional objects and natural phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified bright object that changed colors",
-    "location": "Morgantown, North Carolina",
-    "witnesses": "a civilian observer",
-    "photographs": "none"
+    "main event": "An object was observed in Morgantown, North Carolina on February 3, 1965, which did not correspond with any known satellite or meteorological explanation.",
+    "interesting points": "The object was observed multiple times over a 30-minute period.,The object had fading colors and one large bright object.,A gold color was noted in the object during the observation.,The letter responding to inquiries about UFOs indicates that explanations often involve conventional objects and natural phenomena.,The inquiry about the sighting was responded to with a request for detailed descriptions of the event.",
+    "sighted object": "a large bright object with fading colors",
+    "location": "Morgantown, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

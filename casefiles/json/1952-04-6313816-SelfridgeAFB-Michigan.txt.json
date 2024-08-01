@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright green ball of light was observed in the sky over Selfridge Air Force Base, Michigan on April 27, 1952.",
-    "interesting points": [
-        "The light was described as kelly green in color and persisted for 3-4 seconds.",
-        "The light moved horizontally and did not appear to be a falling star or beacon.",
-        "Four other similar sightings had been reported in the areas around Selfridge Air Force Base.",
-        "No sound was heard and the object's size, altitude, and speed could not be determined.",
-        "Two other officers in the area initially thought the light was from an overhead beacon."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright green ball of light in the sky",
-    "location": "Selfridge Air Force Base, Michigan",
-    "witnesses": "a Captain in the US Air Force",
-    "photographs": "no"
+    "main event": "On 27 April 1952, a large flash of green light was observed at Selfridge Air Force Base, Michigan.",
+    "interesting points": "The green light was reported to be ball-shaped and lasted for about 3-4 seconds., The light was bright enough to reflect in a pool of water., Two other officers also saw a light but thought it was from a beacon overhead., The sighting occurred under clear skies with stars visible., This incident was part of a series of reported sightings around Selfridge AFB.",
+    "sighted object": "a ball of green light",
+    "location": "Selfridge AFB, Michigan, US",
+    "number of confirmed witnesses": 3,
+    "witness description": "The witnesses included a Captain and two other officers at the Air Force Base.",
+    "contains photographs": false
 }

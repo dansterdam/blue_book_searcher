@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "Multiple U.S. Air Force officers observed four fast-moving, bright white circular objects over Maxwell Air Force Base on November 23, 1950.",
-    "interesting points": [
-        "The objects were described as about 3/4 inch in diameter, perfectly circular, and brilliantly white.",
-        "The objects were observed ascending to a very great height, descending while appearing to turn over and over, and then rapidly moving off to the northeast and disappearing.",
-        "One of the objects was reported to have what appeared to be an antenna.",
-        "The weather was clear with no clouds, and the objects were observed to be traveling cross-wind.",
-        "Two additional objects were later observed, one appearing to be suspended like a seagull with wings extended, and the other appearing as a white ball."
-    ],
-    "result": "unexplained",
-    "sighted object": "Four bright white circular objects, and later two additional objects",
-    "location": "Maxwell Air Force Base, Alabama",
-    "witnesses": "U.S. Air Force officers",
-    "photographs": "none"
+    "main event": "On Thanksgiving Day, 23 November 1950, a Major saw four bright white circular objects at Maxwell AFB, Alabama.",
+    "interesting points": "The objects were brilliantly white and about 3/4\" in diameter., The first object ascended to a great height while turning over and over., Another object passed over quickly in level flight and disappeared to the NE., One of the objects appeared to have an antenna., The weather at the time of observation was clear with no clouds.",
+    "sighted object": "four white circular objects in the sky",
+    "location": "Maxwell AFB, Alabama, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Major and Captain of the USAF",
+    "contains photographs": false
 }

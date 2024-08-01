@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple sightings of various unidentified flying objects in the Pittsburgh, Pennsylvania area during July and August 1965.",
-    "interesting points": [
-        "The objects were described as bright lights, glowing orbs, cigar-shaped objects, and silvered cone-shaped objects.",
-        "The objects were reported to be moving in various directions, stopping and accelerating quickly, and making whistling or humming sounds.",
-        "The sightings were reported by multiple witnesses, including civilians and staff from the Allegheny Observatory and Buhl Planetarium.",
-        "The inspecting officer concluded that the reports were of questionable nature, lacking physical evidence and positive factors, and the reliability of the sightings was diminished.",
-        "No tangible evidence was received to substantiate the sightings, and the names, addresses, and phone numbers of the observers were not available for follow-up."
-    ],
-    "result": "inconclusive",
-    "sighted object": "various unidentified flying objects, including bright lights, glowing orbs, cigar-shaped objects, and silvered cone-shaped objects",
-    "location": "Pittsburgh, Pennsylvania area",
-    "witnesses": "civilians, Allegheny Observatory staff, Buhl Planetarium staff",
-    "photographs": "no"
+    "main event": "On 18 July 1965, witnesses in the Pittsburgh area observed two bright lights moving in varied directions over a period of 10 minutes.",
+    "interesting points": "The lights were reported to be moving up and down and side to side., Witnesses described the objects as faster than shooting stars., A significant number of additional reports from residents were received during the week following the sighting., Various shapes including triangular, diamond, and cigar-shaped objects were described in the subsequent reports., Observations were considered astronomical in nature by the inspecting officer.",
+    "sighted object": "two bright lights in the sky",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Citizens in the area",
+    "contains photographs": false
 }

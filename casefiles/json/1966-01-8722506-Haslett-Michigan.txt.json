@@ -1,17 +1,9 @@
-Here is a JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A very bright ball of fire was observed descending near a house in Haslett, Michigan on January 15, 1966.",
-    "interesting points": [
-        "The object appeared to descend into a lake near the house.",
-        "The sighting lasted for about 15 seconds.",
-        "No physical evidence or photographs were mentioned in the report.",
-        "The observer did not report any sound coming from the object.",
-        "The object was described as being as bright as a traffic light and suddenly disappeared."
-    ],
-    "result": "unexplained",
+    "main event": "An observer sighted a very bright ball of fire that descended near a house in Haslett, Michigan on 15 January 1966.",
+    "interesting points": "The object was reported to be very bright and orange like a traffic light., The observer watched the object descend into a lake near the house., The sighting lasted approximately 15 seconds., There was absolutely no sound associated with the object., The object suddenly disappeared completely while being observed.",
     "sighted object": "a very bright ball of fire",
-    "location": "Haslett, Michigan",
-    "witnesses": "one civilian observer",
-    "photographs": "none"
+    "location": "Haslett, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

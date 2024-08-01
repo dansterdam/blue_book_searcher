@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian spotted one unidentified object in the sky over Peru, Indiana on July 8, 1965.",
-    "interesting points": [
-        "The object was observed for 25 minutes.",
-        "The object was initially seen to the north, then moved to the southeast, passed over the observer, and then turned east and accelerated away.",
-        "The object changed color from white to blue-green.",
-        "No photographs or physical evidence were obtained.",
-        "The report concluded the sighting was of an aircraft."
-    ],
-    "result": "aircraft",
-    "sighted object": "one unidentified object",
-    "location": "Peru, Indiana",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An observation of an unidentified flying object was reported on July 8, 1965, in Peru, Indiana.",
+    "interesting points": "The observation lasted for 25 minutes,The object was reported to have changed direction and accelerated,The source of the report was a civilian witness,The object was described as round, white transitioning to blue-green,One witness was a college student and another was a housewife,Reliability of witnesses was marked as unknown.",
+    "sighted object": "one round object changing colors",
+    "location": "Peru, Indiana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "One witness was a 19-year-old college student, another was a 40-year-old housewife, and the third was a 19-year-old student.",
+    "contains photographs": false
 }

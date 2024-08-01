@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was sighted by M.P. and Mrs. J.P. Chamberlain at East Cape Plantation in Milne Bay District, New Guinea on June 12, 1961.",
-    "interesting points": [
-        "The object was described as a bright, star-like object emitting a bluish-grey light, without any sound.",
-        "The object remained stationary for some time before moving off rapidly towards the northeast and disappearing.",
-        "When examined through binoculars, the object appeared to be an elongated, delta wing shape, approximately 30-40 feet in length.",
-        "No further details or noise were observed, other than the bright object itself.",
-        "The object moved to the northeast and disappeared from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "An elongated, delta wing-shaped object, approximately 30-40 feet in length, emitting a bluish-grey light.",
-    "location": "East Cape Plantation, Milne Bay District, New Guinea",
-    "witnesses": "M.P. and Mrs. J.P. Chamberlain",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted by M.P. and Mrs. J.P. Chamberlain on June 12, 1961.",
+    "interesting points": "The object was described as a bright, star-like object emitting a bluish-grey light and remained stationary for some time,It was observed through binoculars to have an elongated delta wing shape,Approximately 30-40 feet in length,The object moved off rapidly towards the North East before disappearing,There was no noise reported from the object.",
+    "sighted object": "bright, star-like object emitting bluish-grey light",
+    "location": "Milne Bay District, Papua New Guinea",
+    "number of confirmed witnesses": 2,
+    "witness description": "M.P. and Mrs. J.P. Chamberlain",
+    "contains photographs": false
 }

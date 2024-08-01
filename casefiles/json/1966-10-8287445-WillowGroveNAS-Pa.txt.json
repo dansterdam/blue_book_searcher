@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military observer watched a white colored object northwest that disappeared, then came back from the east and disappeared in the distance.",
-    "interesting points": [
-        "The object did not look like a normal aircraft to the observer.",
-        "The object appeared and disappeared, moving in an unusual manner.",
-        "The observer had never seen anything like this object before.",
-        "Other witnesses also observed the object.",
-        "The sighting lasted for about 3-5 minutes."
-    ],
-    "result": "aircraft (possible)",
-    "sighted object": "a white colored object",
-    "location": "Willow Grove NAS, PA",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "Observers spotted a white colored object at Willow Grove NAS that disappeared and then reappeared, lasting for 3 minutes.",
+    "interesting points": "The object was observed by military personnel,The object did not resemble any known aircraft the observers were familiar with,The observers were surprised as they had never seen anything like it before, The object was luminous and moved behind and in front of stars, The object reportedly emitted no sound.",
+    "sighted object": "a white colored luminous object",
+    "location": "Willow Grove, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel who had seen aircraft before",
+    "contains photographs": false
 }

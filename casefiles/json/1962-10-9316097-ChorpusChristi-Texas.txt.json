@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "A farmer reported an unusual piece of material, which was later analyzed and determined to be phosphorescent glass manufactured by the Illinois Glass Company.",
-    "interesting points": [
-        "The material was reported by a farmer and forwarded to the Air Force for analysis.",
-        "The analysis showed the material was phosphorescent glass, likely from a large carboy or wide-mouth jar.",
-        "The glass had a unique design and composition, not similar to commonly available glass.",
-        "The sample was tested for radioactivity, light transmission, and chemical composition, with details provided in the report.",
-        "The sample became brittle when exposed to ultraviolet radiation during testing."
-    ],
-    "result": "The material was determined to be a manufactured glass product, not of unknown origin.",
-    "sighted object": "A piece of unusual, phosphorescent glass material",
-    "location": "Corpus Christi, Texas",
-    "witnesses": "A farmer",
-    "photographs": "No photographs included in the report"
+    "main event": "A farmer reported unusual material that was analyzed and identified as phosphorescent glass, originating potentially from manufactured items.",
+    "interesting points": "The material was observed on October 25, 1962, in Corpus Christi, Texas., The course of the object was reported to be zig-zag., The analysis indicated the glass was produced by the Illinois Glass company., The sample exhibited unique characteristics not found in commonly available glass., Further tests showed no radioactivity in the sample.",
+    "sighted object": "a piece of unusual material (phosphorescent glass)",
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers included ground-visual and ground-radar personnel.",
+    "contains photographs": false
 }

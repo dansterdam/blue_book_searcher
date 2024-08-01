@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "A civilian witnessed a white-colored object with red lights traveling southward in the sky over Cleveland, Ohio.",
-    "interesting points": [
-        "The object was observed ascending and then descending a few minutes later.",
-        "Information from the witness indicated that the object could have been an aircraft.",
-        "The sighting lasted for approximately 4 minutes.",
-        "The witness was a middle-aged housewife who had never seen anything like this before.",
-        "The object was reported to be traveling at a very high rate of speed, much faster than any conventional aircraft."
-    ],
-    "result": "Aircraft (possible)",
-    "sighted object": "a white-colored object with red lights",
-    "location": "Cleveland, Ohio",
-    "witnesses": "civilian(s)",
-    "photographs": "no"
+    "main event": "A witness observed a white cigar-shaped object with red lights traveling from the north to the south horizon over Cleveland, Ohio.",
+    "interesting points": "The object was reported to ascend and then descend during the observation period., The object was believed to be traveling at a very high rate of speed, much faster than conventional aircraft., A middle-aged housewife was the main witness and had never seen anything like it., The object had no visible means of propulsion and made no sound., The sighting lasted for approximately 4 minutes.",
+    "sighted object": "white cigar-shaped object with red lights",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a middle-aged housewife",
+    "contains photographs": false
 }

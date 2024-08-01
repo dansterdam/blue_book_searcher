@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified object was observed in the sky near Klamath, California on November 20, 1962.",
-  "interesting points": [
-    "The object was described as a 'star' that was much brighter than the background stars, with a rotating beacon-like light on it.",
-    "The object was observed by 8 witnesses and was seen for about 55 seconds.",
-    "The flight path of the object was described as erratic, appearing to hover at times.",
-    "Ground radar tracked the object, which was estimated to be traveling at a high speed, possibly Mach 2.",
-    "The object was observed between 22:22 and 22:45 local time, with the sighting lasting approximately 25 minutes."
-  ],
-  "result": "Insufficient data for evaluation",
-  "sighted object": "A bright, white object with a rotating beacon-like light",
-  "location": "Klamath, California",
-  "witnesses": "8 civilian and military witnesses",
-  "photographs": "Yes, the report includes photographs"
+    "main event": "A bright, creamy white object was observed for 55 seconds by 8 witnesses in Klamath, California on 20 November 1962.",
+    "interesting points": "The object was compared to background stars and was much brighter than them., It had a rotating beacon-like light and moved in an erratic manner., Witnesses thought the object was a star until its movement was noticed., The sighting was characterized by conflicting witness statements and no physical trace evidence., The object was considered unidentified but was noted to possibly be a balloon or aircraft due to its flight characteristics.",
+    "sighted object": "creamy white object with a rotating light",
+    "location": "Klamath, California, USA",
+    "number of confirmed witnesses": 8,
+    "witness description": "civilian and military observers",
+    "contains photographs": false
 }

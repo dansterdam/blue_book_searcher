@@ -1,15 +1,9 @@
 {
-    "main event": "An object was observed over Savannah, Georgia in April 1954.",
-    "interesting points": [
-        "The object was observed for a few minutes.",
-        "The object had a halo effect.",
-        "The observation was ground-visual.",
-        "The course of the object was unknown.",
-        "Two photographs were taken, but it's unclear if they are included in the report."
-    ],
-    "result": "possibly a balloon",
-    "sighted object": "possibly astronomical object",
-    "location": "Savannah, Georgia",
-    "witnesses": "ground-based observer",
-    "photographs": "yes, 2 photographs were taken but their inclusion is unclear"
+    "main event": "An object was observed in Savannah, Georgia on April 19, 1954.",
+    "interesting points": "The object was observed for a few minutes,The object did not make any sound,The object had a halo effect around it,It was classified as possibly a balloon,The sighting raised questions about its nature and origin.",
+    "sighted object": "an unidentified object with a halo effect",
+    "location": "Savannah, Georgia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses mentioned.",
+    "contains photographs": true
 }

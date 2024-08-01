@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white round light was observed hovering in the sky over Grosse Pointe, Michigan around 2200 hours on January 26, 1961.",
-    "interesting points": [
-        "The object appeared to be hovering in the clear sky with no clouds present.",
-        "The object suddenly faded out of sight and left no physical evidence.",
-        "The witness, a 19-year-old student, was considered reliable by the reporting officer.",
-        "The radar object tracked in the previous report was considered exceptionally strong for a weather balloon and did not behave like a typical balloon target.",
-        "The radar object disappeared suddenly after being tracked for 15 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "white round light",
-    "location": "Grosse Pointe, Michigan", 
-    "witnesses": "19-year-old student",
-    "photographs": "no"
+    "main event": "An unidentified object was tracked on ground-radar in Grosse Pointe, Michigan, for 15 minutes before it suddenly disappeared.",
+    "interesting points": "The object was tracked for 15 minutes on ground-radar,The radar return was exceptionally strong for a typical weather balloon,The object disappeared suddenly without any physical evidence,No photos were taken of the object,Another sighting described a similar white round light that hovered in the sky.",
+    "sighted object": "an unidentified object tracked on radar",
+    "location": "Grosse Pointe, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "19-year-old student, considered reliable",
+    "contains photographs": false
 }

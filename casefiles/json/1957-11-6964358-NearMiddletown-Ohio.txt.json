@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A man named Shumar observed a metallic, circular object with a pulsating light around the perimeter in the vicinity of Middletown, Ohio on or around December 6, 1957.",
-    "interesting points": [
-        "The object was approximately 30 to 40 feet in diameter and was hovering about 25 to 30 feet off the ground.",
-        "The object emitted a low, humming sound.",
-        "After being observed for approximately 2 or 3 minutes, the object took off at a very high rate of speed and disappeared from sight.",
-        "Shumar stated that he was quite sure the object was not an aircraft, satellite, or any other known object.",
-        "The only other witness was Shumar's wife, who corroborated his story."
-    ],
-    "result": "unexplained",
-    "sighted object": "a metallic, circular object with a pulsating light around the perimeter",
-    "location": "Vicinity of Middletown, Ohio",
-    "witnesses": "Shumar and his wife",
-    "photographs": "none"
+    "main event": "An unidentified observer reported seeing a round, gray object with a glow moving slowly at a low altitude near Middletown, Ohio.",
+    "interesting points": "The object was described as neither a star, meteor, nor aircraft.,The sighting occurred on November 6, 1957, at 8:00 PM.,The observer's identity remains unknown.,The object was observed to be glowing in the middle.,The sighting has multiple conclusions suggesting it might be a balloon or aircraft, but insufficient data to determine the exact nature.",
+    "sighted object": "a round, gray object with a glow",
+    "location": "Middletown, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. Shumar and his wife observed the object.",
+    "contains photographs": false
 }

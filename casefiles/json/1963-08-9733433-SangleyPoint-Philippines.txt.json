@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Unidentified flying objects were observed over radar scope for a period of one hour at Sangley Point, Philippines on August 23, 1963.",
-    "interesting points": [
-        "Ten to 15 objects were detected, moving at speeds of 200 to 400 knots.",
-        "The objects disappeared and reappeared during the observation period.",
-        "The objects were detected at altitudes ranging from 35,000 feet to 50,000 feet.",
-        "Attempts were made to photograph the objects, but the results were unknown.",
-        "A pilot from Patrol Squadron 40 sighted the same objects and flew through the area near Rosario, describing them as round, silver-colored with an indistinct outline, hovering at approximately 4,000 feet."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Ten to 15 unidentified flying objects",
+    "main event": "Unidentified flying objects were observed via radar and visually by military personnel over Sangley Point, Philippines on August 23, 1963.",
+    "interesting points": "Radar detected 10 to 15 objects moving at speeds of 200 to 400 knots at altitudes between 35,000 ft and 50,000 ft,The objects disappeared and reappeared during the observation period,The visually reported speed of some objects exceeded 2,000 mph,Photos of the incidents were attempted, but the results were unknown,The objects were described as round and silver with an indistinct outline at approximately 4,000 feet.",
+    "sighted object": "Unidentified flying objects, possibly disc-like or round in shape",
     "location": "Sangley Point, Philippines",
-    "witnesses": "Radar personnel, Patrol Squadron 40 pilot",
-    "photographs": "Yes, but results unknown"
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel and a pilot from Patrol Squadron Forty",
+    "contains photographs": false
 }

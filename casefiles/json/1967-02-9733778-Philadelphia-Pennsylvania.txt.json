@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers watched a blue-white colored object with a rotating red light in the southern sky that followed a zig-zag course and then hovered before disappearing.",
-    "interesting points": [
-        "The initial report indicates the object was two white lights which fused into one larger ball of light.",
-        "The witness was not certain of the original position that the object was first seen.",
-        "The object moved towards the NE according to one part of the report, but towards the SE according to another part.",
-        "The object moved in an erratic course with sudden changes in direction and velocity.",
-        "The illumination appeared as a steady glow, not like flashing lights of aircraft."
-    ],
-    "result": "Other (Conflicting data)",
-    "sighted object": "blue-white colored object with a rotating red light",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "multiple observers",
-    "photographs": "no"
+    "main event": "Observers watched a blue-white colored object with a rotating red light in the southern sky on 27th February 1967.",
+    "interesting points": "The object followed a zig-zag course before hovering and disappearing., Different accounts from the witnesses noted conflicting directions of movement (NE and SE)., The object initially appeared as two white lights that fused into one larger light., The object was described as round, slightly glowing, and silent during observation., The report mentions a questionnaire to be filled out by the witness for further investigation.",
+    "sighted object": "a blue-white colored object with a rotating red light",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported that the object did not resemble a conventional aircraft and exhibited unusual motion.",
+    "contains photographs": false
 }

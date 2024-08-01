@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright yellow, round, and huge ball-shaped object was observed in the night sky, appearing to have an explosion and emit burning pieces.",
-    "interesting points": [
-        "The object was estimated to be at an altitude of 15,000 to 15,900 feet.",
-        "The object did not appear to be moving in any direction.",
-        "The observer was in a moving vehicle with the heater going.",
-        "The observation lasted for an unspecified duration.",
-        "The intelligence officer's evaluation was inconclusive, and attempts were made to contact the observer to obtain physical evidence."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright yellow, round, and huge ball-shaped object",
-    "location": "Mile 394 on Glenn Highway, Alaska",
-    "witnesses": "a single observer",
-    "photographs": "no photographs available"
+    "main event": "A bright yellow round object was observed in the sky, resembling a huge explosion with burning pieces falling from it.",
+    "interesting points": "The object was described as a huge round bright yellow ball against a dark skyline., The sighting occurred at mile 394 on Glenn Highway in Gakona, Alaska., The observer viewed the object while in a moving vehicle., No sound was heard during the observation., There were no military or civilian aircraft known to be operating in the area at the time.",
+    "sighted object": "huge round bright yellow ball",
+    "location": "Gakona, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was in a moving vehicle and was identified as a contractor.",
+    "contains photographs": false
 }

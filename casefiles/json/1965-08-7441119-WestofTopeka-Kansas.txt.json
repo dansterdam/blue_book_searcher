@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Radar and visual sightings of unidentified objects by the crew of a commercial aircraft flying from Kansas City to the west coast.",
-    "interesting points": [
-        "The pilot, co-pilot, and engineer all witnessed the objects on their radar scope, which were flying at high speed and in formation towards their aircraft.",
-        "The objects were observed west of Topeka and east of Garden City, Kansas.",
-        "The crew changed to a closer radar scope to get a better look at the approaching objects.",
-        "The crew passed the objects at a reasonable nearness but could not observe them visually.",
-        "The crew of the aircraft were described as very reputable, and the captain may be contacted for more information."
-    ],
-    "result": "unexplained",
-    "sighted object": "Multiple unidentified objects detected on radar, approaching the aircraft in formation",
-    "location": "West of Topeka and east of Garden City, Kansas",
-    "witnesses": "Pilot, co-pilot, and engineer of a commercial aircraft",
-    "photographs": "No, the report does not mention any photographs"
+    "main event": "A U.S. Air Force aircraft crew observed multiple unidentified objects approaching in formation while in flight over Topeka, Kansas on August 1, 1965.",
+    "interesting points": "The crew, including the pilot, co-pilot, and engineer, witnessed the objects on radar and visually confirmed their presence., The objects were observed at an altitude of 12,500 feet., The objects were described as flying at high speeds and in formation., The sighting involved credible witnesses who requested anonymity and no publicity., Further investigation suggested that the observed targets may have been ground targets due to radar anomalies.",
+    "sighted object": "multiple unidentified flying objects",
+    "location": "Topeka, Kansas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "The crew of the aircraft, which included a pilot, co-pilot, and engineer, all reputable individuals.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot in a T-33 aircraft observed a white light that changed to red, descending to the ground at a 60-degree angle near Bryan, Texas.",
-    "interesting points": [
-        "The object descended from an altitude of 20,000 feet to the ground.",
-        "The object's smoke disappeared at 1741Z in the vicinity of Camp Gary, Texas, near San Marcos.",
-        "The pilot suspected the object to be a missile firing, as it was an unusual incident.",
-        "No action was being taken by the San Antonio Air Materiel Area (SAAMA).",
-        "The report was processed by the Air Force, and the incident was reported to various command centers."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A white light that changed to red, descending to the ground",
-    "location": "Bryan, Texas",
-    "witnesses": "A pilot in a T-33 aircraft",
-    "photographs": "No photographs present in the provided image"
+    "main event": "A pilot observed a white light changing to red while flying over Bryan, Texas, suspecting it to be a missile firing.",
+    "interesting points": "The sighting occurred on two different days, 16 May 63 and 16 Nov 61., The pilot was flying a T-33 at an altitude of 20,000 feet during the observation., The object was initially at a height of 3,200 feet before descending., There is a mention of potential missile activity associated with the sighting., The report includes military references and mentions Project Blue Book.",
+    "sighted object": "unidentified flying object (possible missile)",
+    "location": "Bryan, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a military pilot flying a T-33",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO report from Project Blue Book documented a ground-visual observation of a round, brilliant light in Macnilto, Okinawa on 25 September 1954.",
-  "interesting points": [
-    "The observation involved a single object that drifted slowly with no sound.",
-    "Although initially labeled as a balloon, the officer noted that a weather balloon had been launched in the same area as the sighting.",
-    "The report includes photographs of the observed object.",
-    "The conclusion was inconclusive, with the possibility of it being a balloon.",
-    "This event took place in Okinawa during 1954, adding to the history of UFO sightings in the area."
-  ],
-  "result": "inconclusive",
-  "sighted object": "a round, brilliant light",
-  "location": "Macnilto, Okinawa",
-  "witnesses": "not mentioned",
-  "photographs": "yes"
+    "main event": "A round, brilliant light was observed drifting slowly in Macnilto, Okinawa on September 25, 1954.",
+    "interesting points": "The object was described as a round, brilliant light with no sound., The observation was made during local time., The object drifted slowly across the sky., The report concluded that it was likely a balloon after a weather balloon had been launched in the area., This sighting was recorded as part of Project Blue Book's investigations.",
+    "sighted object": "a round, brilliant light",
+    "location": "Macnilto, Okinawa, Japan",
+    "number of confirmed witnesses": 1,
+    "witness description": "noting officer states that the observation was made during ground-visual",
+    "contains photographs": false
 }

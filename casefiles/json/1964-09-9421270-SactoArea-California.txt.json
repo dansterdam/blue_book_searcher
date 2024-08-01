@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-  "main event": "A UFO sighting occurred in the Sacto (Sacramento) Area, California on September 4, 1964.",
-  "interesting points": [
-    "The sighting involved an encounter with a 'beam-like' object, which was attributed to psychological factors.",
-    "A tape recording and a physical specimen were collected as part of the investigation.",
-    "The report mentions attempts by the 'intruders' and/or someone climbing a ridge during the sighting.",
-    "Withdrawal from the immediate area was noted during the sighting encounters.",
-    "An interview was conducted with a personal family acquaintance of the investigating officials."
-  ],
-  "result": "unexplained (PSYCHOLOGICAL)",
-  "sighted object": "beam-like object",
-  "location": "Sacto (Sacramento) Area, California",
-  "witnesses": "not specified",
-  "photographs": "no"
+    "main event": "An encounter with a 'beam-like' object was reported in the Sacto Area, California on September 4, 1964, with conclusions attributing it to psychological factors.",
+    "interesting points": "The incident involved a situation where witnesses reported strange phenomena without concrete physical evidence,The case was documented in Project Blue Book, indicating it was taken seriously by the military,The report referenced tape recordings and physical specimens associated with the sighting,Several interviews took place, including discussions with family acquaintances of the witnesses,The conclusion of the investigation suggested psychological explanations rather than a physical encounter.",
+    "sighted object": "beam-like object",
+    "location": "Sacto Area, California",
+    "number of confirmed witnesses": 1,
+    "witness description": "Victor W. Killick, associated with an observatory and familiar with celestial objects",
+    "contains photographs": false
 }

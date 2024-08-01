@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO observation was reported in Memphis, Tennessee on March 17, 1968.",
-    "interesting points": [
-        "The observer called the duty officer, but sufficient information was not received to complete the investigation.",
-        "The report states that the observation was made by a military source, but no further details about the witness(es) are provided.",
-        "The duration of the observation and the course of the object are not reported.",
-        "No photographs or physical evidence were obtained.",
-        "The conclusion of the report is that there was "INSUFFICIENT DATA FOR EVALUATION"."
-    ],
-    "result": "unexplained",
-    "sighted object": "No details provided about the sighted object",
-    "location": "Memphis, Tennessee",
-    "witnesses": "1 witness (military source)",
-    "photographs": "None"
+    "main event": "An unidentified flying object was reported in Memphis, Tennessee on March 17, 1968.",
+    "interesting points": "The sighting was reported by a single military witness,The document indicates that there was insufficient data for a scientific investigation,The observer contacted the duty officer but failed to provide sufficient information,No physical evidence or photographs were attached to the report,There was no follow-up report submitted by the witness to enhance the investigation.",
+    "sighted object": "unknown flying object",
+    "location": "Memphis, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military personnel",
+    "contains photographs": false
 }

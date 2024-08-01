@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed in London, England on 16 Aug 1952. The sighting involved a watermelon-shaped object of white light moving slowly at an estimated height of 1,000 feet, exhibiting some up and down movements before disappearing behind buildings. The object was visible for 5 minutes.",
-    "interesting points": [
-        "The object was described as watermelon-shaped and moved in a very maneuverable manner, flashing bright lights over a house at an estimated height of 2223 feet.",
-        "The observers noted that there was no air traffic at the time of the sighting, and the sky was clear and starry with no wind.",
-        "The report was classified as 'Unclassified' and was declassified after 12 years.",
-        "A hand-drawn diagram of the sighting location and the position of the observer was included in the report, indicating the path of the observed object.",
-        "The object was sighted again at 0920 hours, observed for approximately four to five seconds before disappearing by passing out of a building while being watched by the observers."
-    ],
-    "result": "unexplained",
+    "main event": "An object was observed in London, described as a watermelon-shaped white light, estimated to be 1,000 feet high, moving slowly and maneuvering up and down.",
+    "interesting points": "The object was observed for approximately 5 minutes,The sighting occurred on 16 Aug 52 at 11:12 PM,There was no air traffic at the time of the sighting,The object emitted bright lights as it approached the observer's location,No reliable information about the observers' credibility was available.",
     "sighted object": "watermelon-shaped object of white light",
     "location": "London, England",
-    "witnesses": "Unknown",
-    "photographs": "no photographs included"
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer noted a slow-moving object with very characteristic guided movements.",
+    "contains photographs": false
 }

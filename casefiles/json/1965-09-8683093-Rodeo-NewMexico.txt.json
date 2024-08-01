@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Two white, round objects were observed at high altitudes, moving in a straight line and appearing to be gliding.",
-    "interesting points": [
-        "The objects were about 25 feet in diameter and were observed for approximately 1 minute.",
-        "The objects were reported to the local Air Force office, but no physical evidence was available.",
-        "The objects appeared to be of an unidentified nature based on the physical description given.",
-        "A possible explanation of two helicopters was considered, but there was no sound heard and no other aircraft were identified in the area.",
-        "The motion and maneuvers of the objects were not characteristic of conventional aircraft, so the case remains unidentified."
-    ],
-    "result": "unidentified",
-    "sighted object": "two white, round objects",
-    "location": "Rodeo, New Mexico",
-    "witnesses": "villager",
-    "photographs": "no"
+    "main event": "Two white objects were observed moving at high altitudes near Rodeo, New Mexico on September 5, 1965.",
+    "interesting points": "The objects appeared to be about 25 feet in diameter and round in shape., The objects were observed for approximately 1 minute while they glided in a straight line., A local villager reported the sighting to the Air Force, indicating the objects were of an unidentified nature., Witnesses described seeing the objects change colors from white to light blue., The sighting occurred under clear sky conditions with no noise observed from the objects.",
+    "sighted object": "two white objects",
+    "location": "Rodeo, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A local villager",
+    "contains photographs": false
 }

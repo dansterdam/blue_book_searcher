@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO case file:
-
 {
-    "main event": "A lighted, fast-moving object was observed crossing the sky near Bellingham, Washington on July 30, 1965.",
-    "interesting points": [
-        "The object was described as a plate-like form, extremely high in the sky.",
-        "The object moved southerly at a very fast speed.",
-        "The witness observed the object for 4-5 minutes before it faded from view.",
-        "Other similar sightings of lighted, fast-moving objects were reported in the area.",
-        "The Air Force concluded the sighting was likely a satellite, such as Echo II, but could not provide a definitive identification."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a lighted, fast-moving object with a plate-like form",
-    "location": "near Bellingham, Washington",
-    "witnesses": "a civilian witness driving home",
-    "photographs": "no"
+    "main event": "A round white-bluish object was observed hovering over Bellingham, Washington, for about 4 minutes before fading away in the northeastern direction.",
+    "interesting points": "The sighting occurred on July 5, 1965, and lasted for 4 minutes,The object was reported to have a round shape and bluish-white color,The conclusion drawn was that the object was likely a satellite, either Echo II or another bright satellite,The observation was made visually from the ground without any physical evidence left behind,There were no photographs taken during the sighting.",
+    "sighted object": "round white-bluish object",
+    "location": "Bellingham, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, a construction worker",
+    "contains photographs": false
 }

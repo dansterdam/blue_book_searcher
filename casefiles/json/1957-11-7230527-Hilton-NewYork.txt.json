@@ -1,15 +1,9 @@
 {
-    "main event": "On May 22, 1957, in New York, NY, a bright flashing white light was observed moving east and then straight upwards for three minutes.",
-    "interesting points": [
-        "The observation was categorized as a ground-radar and air view sighting.",
-        "The duration of the sighting was 5-10 minutes, allowing for an extended period of observation.",
-        "The report concluded that the sighting was likely caused by an aircraft based on the duration and flight path.",
-        "No sound was reported despite the bright flashing white light.",
-        "The object was observed due north of a post about 5 to 6 miles away, heading east of the post."
-    ],
-    "result": "prosaic explanation",
+    "main event": "A white light was observed moving east and straight upwards near New York City on May 22, 1957.",
+    "interesting points": "The sighting lasted between 5 to 10 minutes,The object was observed for three minutes during its movement,It was described as a bright flashing white light,The object was located approximately 5 to 6 miles due north of a post,The conclusion speculated that the sighting might have been caused by an aircraft.",
     "sighted object": "bright flashing white light",
-    "location": "New York, NY",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "New York, NY, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "unknown",
+    "contains photographs": false
 }

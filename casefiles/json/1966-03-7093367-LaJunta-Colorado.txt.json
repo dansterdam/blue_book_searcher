@@ -1,15 +1,9 @@
 {
-    "main event": "Two objects were sighted in the sky over La Junta, Colorado on March 31, 1966.",
-    "interesting points": [
-        "The objects were sighted traveling in opposite directions, two minutes apart.",
-        "One object was traveling south to north and weaving side to side, while the other was traveling northwest to southeast and weaving side to side.",
-        "Military and civilian air traffic was in the area during the sighting, and an ECHO satellite was also southeast bound at the time.",
-        "The objects were identified as a satellite (EGLO II) and an aircraft.",
-        "The sighting lasted for approximately one minute."
-    ],
-    "result": "Identified as a satellite and an aircraft",
-    "sighted objects": "Two unidentified objects",
-    "location": "La Junta, Colorado",
-    "witnesses": "A student, identity unknown",
-    "photographs": "No photographs were included"
+    "main event": "Two objects were sighted traveling east to west in La Junta, Colorado on 31 March 1966.",
+    "interesting points": "The objects were identified as Satellite (EGLO II)., The sighting lasted for 1 minute., The objects disappeared into the clouds., Military and civilian air traffic was present in the area during the sighting., One object was reported to be moving south to north and weaving side to side.",
+    "sighted object": "two objects in the sky",
+    "location": "La Junta, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Student, unknown",
+    "contains photographs": false
 }

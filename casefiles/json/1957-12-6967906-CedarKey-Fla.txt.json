@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A white, round sphere object was observed drifting very slowly northeast over Cedar Key, Florida on December 5, 1957.",
-    "interesting points": [
-        "The object was observed for about 1 minute.",
-        "The object was described as white in color and round in shape.",
-        "The object was observed traveling east-northeast at a slow drifting speed.",
-        "The object was observed by the naked eye and binoculars.",
-        "The characteristics of the object were described as similar to a weather balloon."
-    ],
-    "result": "weather balloon",
-    "sighted object": "white, round sphere",
-    "location": "Cedar Key, Florida",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A round, white object was observed drifting slowly in Cedar Key, Florida on December 5, 1957.",
+    "interesting points": "The object was described as having characteristics of a weather balloon., The observation lasted for about 1 minute., The object was observed using binoculars., It was reported that the object was hovering at an altitude of 1500-2000 feet for around 30 seconds before accelerating., The report was part of Project Blue Book archive.",
+    "sighted object": "one round white object",
+    "location": "Cedar Key, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

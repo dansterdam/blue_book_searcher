@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be a collection of black and white photographs or images, but does not describe any specific UFO sighting or event.",
-    "interesting points": [
-        "The images show various landscapes, terrain, and patterns, but do not contain any identifiable objects or human features.",
-        "The images are labeled as being from the Foreign Technology Division of the Air Force Systems Command and are marked as 'UNCLASSIFIED'.",
-        "The report includes 8 pages with multiple images, but there is no text describing a UFO sighting or event.",
-        "The report mentions 8 photographs, but the provided text does not include any actual photographs, only descriptions of the images.",
-        "The location of the report is stated as Mt. Airy, North Carolina, but there are no details about a specific UFO incident or sighting in that area."
-    ],
-    "result": "inconclusive",
-    "sighted object": "none",
-    "location": "Mt. Airy, North Carolina",
-    "witnesses": "none",
-    "photographs": "present, but not included in the report text"
+    "main event": "A UFO report from August 19, 1965, from Mt. Airy, North Carolina, detailing various photographs of the landscape.",
+    "interesting points": "The report contains multiple pages detailing images of landscapes with no identifiable objects,The images include a black and white field view and aerial photographs,The terrain appears textured, possibly indicating mountainous or forested areas,There are no human faces or features present in the images,The report is classified as 'UNCLASSIFIED' by the FOREIGN TECHNOLOGY DIVISION, AFSC.",
+    "sighted object": "landscape and terrain photographs",
+    "location": "Mt. Airy, North Carolina, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No human witnesses detailed in the report.",
+    "contains photographs": false
 }

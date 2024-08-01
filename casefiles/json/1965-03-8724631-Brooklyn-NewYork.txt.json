@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-  "main event": "A civilian in the Flatbush section of Brooklyn, New York reported seeing a light that appeared to be a drifting star on March 25, 1965 between 9:35 PM and 11:00 PM.",
-  "interesting points": [
-    "The witness called their spouse to verify the sighting, and they both observed the light moving slowly in one direction.",
-    "The witness tried to observe the object more closely with a telescope but could only see it for a few seconds, describing it as a 'flat-side object' like a 'half-moon or a letter 'C'.",
-    "The witness reported seeing a second similar object on the following night around 5:49 AM, with the object stopping for a couple seconds before continuing to move away.",
-    "The witness expressed interest in any government position related to the investigation of such phenomena and requested an explanation for what they observed.",
-    "The report mentions that the witness read an article in the Long Island Press on March 17, 1965 about similar sightings, which may have piqued their interest."
-  ],
-  "result": "unexplained",
-  "sighted object": "a light that appeared to be a drifting star",
-  "location": "Flatbush, Brooklyn, New York",
-  "witnesses": "civilian", 
-  "photographs": "no"
+    "main event": "A witness reported seeing a round light in the sky over Brooklyn, New York on March 8, 1965.",
+    "interesting points": "The light was described as looking like a star drifting in the sky., The observation was reported as a ground-visual type., No additional details on the object's movement were provided by the witness., The report concluded there was insufficient information to identify the object., There were no photographs or physical evidence accompanying the report.",
+    "sighted object": "one round light",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness observed the light from the ground",
+    "contains photographs": false
 }

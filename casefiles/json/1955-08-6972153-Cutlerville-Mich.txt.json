@@ -1,15 +1,9 @@
 {
-    "main event": "A possible UFO sighting was reported on August 22, 1955 in Cutlerville, Michigan.",
-    "interesting points": [
-        "The object was described as 10 jet-shaped objects that were green, white, and climbed from an estimated 3,000 feet to 20,000 feet.",
-        "Three F-86D aircraft were scrambled to intercept the object, but no airborne sighting was made.",
-        "The object was initially evaluated as a 'very bright star' by the Operations Officer.",
-        "Two photographs were reportedly taken of the object, but they were not included in the report.",
-        "The report describes the object as having a 'greenish, red, and white' color, and a 'light with no definite outline' shape."
-    ],
-    "result": "inconclusive",
-    "sighted object": "10 jet-shaped objects, greenish-red-white color, light with no definite outline",
-    "location": "Cutlerville, Michigan",
-    "witnesses": "R.M. Caughlin, Air Force personnel",
-    "photographs": "yes, but not included"
+    "main event": "R. M. Caughlin observed 10 jet-shaped objects with green and white colors climbing from approximately 3000 ft to 20,000 ft on August 22, 1955.",
+    "interesting points": "Initial evaluation indicated the objects were 'very bright stars', Three RAF jets were scrambled for interception but found no airborne sighting, Observation continued for an extended period, The reported colors included green and white, Object's altitude change was well documented.",
+    "sighted object": "10 jet-shaped objects",
+    "location": "Cutlerville, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "R. M. Caughlin, a truck driver for the City of Grand Rapids",
+    "contains photographs": false
 }

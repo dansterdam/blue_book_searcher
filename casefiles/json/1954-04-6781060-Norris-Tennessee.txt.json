@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single unidentified flying object was spotted by two students over Norris, Tennessee on April 4, 1954.",
-    "interesting points": [
-        "The object was observed for approximately 4-5 seconds, traveling in a straight, level path at an extremely high speed compared to a normal jet aircraft.",
-        "The object faded into the distance after changing direction to the southwest.",
-        "The witnesses, who were interrogated separately, appeared to be very intelligent and sober at the time of the observation.",
-        "The report states there is no reason to doubt the account, except that the sighting may have been caused by meteorological disturbances.",
-        "The report was first made by the ROTC commander at the University of Tennessee, and the actual observers were later contacted on April 7-8 to provide the details."
-    ],
-    "result": "unknown",
-    "sighted object": "single unidentified flying object",
-    "location": "Norris, Tennessee",
-    "witnesses": "two university students",
-    "photographs": "no photographs present"
+    "main event": "A university student reported sighting an unidentified flying object (UFO) in Norris, Tennessee on April 4, 1954.",
+    "interesting points": "The UFO was observed for approximately 5 minutes,The object was moving southwest at a consistent speed without any change in altitude,Two students from different universities corroborated each other's sightings,The weather conditions were partly cloudy with a high ceiling and unlimited visibility,There is no photographic evidence of the sighting.",
+    "sighted object": "unidentified flying object",
+    "location": "Norris, Tennessee, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "university students from University of Tennessee and Sewanee",
+    "contains photographs": false
 }

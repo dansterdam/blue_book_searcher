@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A woman spotted an object in her yard after a rainstorm in 1963.",
-    "interesting points": [
-        "The object was found by the woman's son and was handed over to the Air Force for analysis.",
-        "The Air Force determined the object to be a crystalline compound made of magnesium and aluminum.",
-        "Other neighbors also reported similar sightings in the area around the same time.",
-        "The report mentions that the object left an impression in the ground where it was found.",
-        "The report indicates that the object was labeled as 'Artifact #341-21-485' and was stored in an 'Outfit Room'."
-    ],
-    "result": "explained",
-    "sighted object": "a crystalline compound object",
-    "location": "Cleveland, Ohio",
-    "witnesses": "a woman and her son",
-    "photographs": "no photographs included in the report"
+    "main event": "A woman observed her son playing with a mysterious rock after a rain shower, which was later determined to be an anti-crystal.",
+    "interesting points": "The sighting lasted for about 5 minutes, The object was observed by the woman's son, The rock was identified through analysis, with sodium chloride and a composition of magnesium and aluminum, The sighting occurred during a heavy rain shower on August 12, 1963, The incident attracted interest from the American UFO Committee and other researchers.",
+    "sighted object": "a round rock object",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a woman and her son",
+    "contains photographs": false
 }

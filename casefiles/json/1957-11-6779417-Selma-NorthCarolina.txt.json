@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright light was seen traveling slowly, moving up and down erratically, without sound, for about 5 minutes before disappearing over Selma, North Carolina.",
-    "interesting points": [
-        "The object was described as brilliant with no visible wings.",
-        "The object hovered with no visible propulsion and then shot away quickly.",
-        "The object was reported by a witness who was 33 years old and living in Selma, North Carolina.",
-        "The sighting occurred on November 6, 1957 with excellent visibility conditions.",
-        "The report indicates the object was classified as 'unknown' by the investigators."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright light",
-    "location": "Selma, North Carolina",
-    "witnesses": "a 33-year-old resident of Selma, North Carolina",
-    "photographs": "no"
+    "main event": "A bright light was observed traveling slowly and moving erratically for about 5 minutes before disappearing.",
+    "interesting points": "The object was brilliant with no visible wings., It hovered without visible propulsion., The light emitted no sound during the observation., The observation was conducted under excellent visibility conditions., The object shot away quickly after hovering.",
+    "sighted object": "a bright light in the sky",
+    "location": "Selma, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "33 years old, excellent visibility conditions",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting occurred in Smyrna, Tennessee on 7th March 1948. The observed object was concluded to be the planet Venus, matching its position, color, speed, and setting time.",
-  "interesting points": [
-    "The object was described as yellow-orange in color, with an oval shape, moving very slowly and at a low altitude of approximately 2055 feet.",
-    "The duration of the observation was 45 minutes, and the object was seen heading 5 degrees above the horizon, eventually moving groundward.",
-    "The report mentions an official project responsible for collecting and investigating data related to UFO sightings, as well as an evaluation of various incidents for their probability of being balloons or having other explanations.",
-    "The document also includes a form used to interrogate witnesses to sightings and requests correspondence to be forwarded to the Commanding General at the Air Material Command.",
-    "Different categories of incidents are listed, including those with high, fair, or low probability of being astronomical or non-astronomical, as well as incidents with no evident explanation."
-  ],
-  "result": "The observed object was conclusively identified as the planet Venus, leading to the explanation of the sighting.",
-  "sighted object": "The sighting reported a yellow-orange oval-shaped object moving very slowly at a low altitude.",
-  "location": "Smyrna, Tenn.",
-  "witnesses": "The witnesses included military personnel such as Major Frank L. Penn and Col. Richard O. Fristigill, along with radio and tower operators at Smyrna AF Base.",
-  "photographs": "No photographs available"
+    "main event": "On March 7, 1948, a yellow-orange oval object was observed in Smyrna, Tennessee, appearing to move very slowly and fading away over 45 minutes.",
+    "interesting points": "The object was assessed to likely be the planet Venus based on its description and observed position., The sighting included a detailed checklist of characteristics such as color, shape, and distance from observers., There were four confirmed witnesses to the sighting, including military personnel., The weather conditions were clear, enhancing visibility at the time of the sighting., No photographs were captured during this incident, despite the use of a checklist for details.",
+    "sighted object": "a yellow-orange oval object",
+    "location": "Smyrna, Tennessee, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Military personnel including a Major and several radio and tower operators",
+    "contains photographs": false
 }

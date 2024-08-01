@@ -1,15 +1,9 @@
 {
-  "main event": "A reported UFO sighting was observed and tracked both visually and on radar in Annapolis, Maryland and Washington D.C. on 27 June 1953. The object was identified as a balloon reflecting celestial lights and was observed for 20 seconds, moving towards the east at a speed of 300-600 mph.",
-  "interesting points": [
-    "The sighting was observed by both military and civilian sources in Annapolis, Maryland and Washington D.C.",
-    "The object was observed for 20 seconds and was tracked on radar, moving towards the east at high speeds.",
-    "The conclusion of the investigation identified the object as a balloon reflecting celestial lights and moving at a speed consistent with typical balloon behavior.",
-    "There were no photographs or physical evidence of the reported UFO sighting.",
-    "The witness statements described the object as a bright light, initially appearing to be a plane before displaying unusual behavior such as swinging back and forth before disappearing from sight."
-  ],
-  "result": "prozaic explanation",
-  "sighted object": "one bright light moving rapidly towards the east",
-  "location": "Annapolis, Maryland; Washington D.C.",
-  "witnesses": "military & civilian sources",
-  "photographs": "no"
+    "main event": "A bright light was observed in the sky over Annapolis and Washington D.C. on June 27, 1953.",
+    "interesting points": "The observation lasted for 20 seconds and was visual,The object was tracked on radar,The object moved towards the east at a speed of 300-600 mph,Witnesses described the light swinging back and forth like a pendulum,There was no physical evidence found to suggest it was anything other than a balloon reflecting celestial lights.",
+    "sighted object": "a bright light in the sky",
+    "location": "Annapolis, Maryland, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Hotel management and staff in Annapolis, MD",
+    "contains photographs": false
 }

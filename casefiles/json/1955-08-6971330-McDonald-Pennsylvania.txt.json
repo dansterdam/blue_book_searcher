@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A saucer-shaped object, red, orange, and yellow, was moving north on a 5-10 degree declining course over McDonald, Pennsylvania on August 1, 1955.",
-    "interesting points": [
-        "The object was moving against the wind.",
-        "The object appeared to be moving slowly on a 45-degree incline.",
-        "The object was described as 'faded' in appearance.",
-        "The sighting lasted for 4 minutes.",
-        "The report included photographs of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a saucer-shaped object, red, orange, and yellow",
-    "location": "McDonald, Pennsylvania",
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "A sighting of a saucer-shaped object with red, orange, and yellow colors moving north at a declining angle in McDonald, Pennsylvania.",
+    "interesting points": "The object was observed for four minutes,The object was moving against the wind,There was little deviation in the traffic, which could support the aircraft theory,The object was described as 'faded',It was reported that the object could be a possible aircraft.",
+    "sighted object": "one saucer-shaped object",
+    "location": "McDonald, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer",
+    "contains photographs": false
 }

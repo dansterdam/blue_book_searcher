@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A round, silvery object the size of a dime at arm's length was observed stationary for a few seconds and then moved south and slowly disappeared after being observed through binoculars for 15 minutes.",
-    "interesting points": [
-        "The object was observed at tree-top level and made no sound.",
-        "The object's movement was not with the prevailing winds, which were moving eastward.",
-        "The observer could not rule out that the object might have been a reflection of sunlight off a metal object on the ground, such as an automobile.",
-        "The sound of the object may have been associated with thunderstorms in the area.",
-        "The report indicates insufficient data for a full evaluation of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, silvery object",
-    "location": "Tehachapi, California",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A rough silvery object the size of a dime was observed stationary for a few seconds before moving south and slowly disappearing after being observed through binoculars for 15 minutes.",
+    "interesting points": "The object was observed for 15 minutes, The movement was southward, not aligning with prevailing winds, The sighting was made using binoculars, The object emitted no sound, The report suggests insufficient data for evaluation.",
+    "sighted object": "one rough silvery object",
+    "location": "Tehachapi, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

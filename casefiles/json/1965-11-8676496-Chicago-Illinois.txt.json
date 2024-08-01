@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A civilian observed a round, spinning object with green and yellow coloring in the sky over Chicago, Illinois.",
-    "interesting points": [
-        "The object was observed for 15 minutes, moving at a very fast speed.",
-        "The object had a yellow flame coming out from all around it.",
-        "The object was stationary in the sky at an elevation of 45 degrees in the east.",
-        "No sound was reported from the object.",
-        "The object eventually faded away and disappeared from view."
-    ],
-    "result": "Probably CAPELLA (an astronomical object), though some characteristics did not entirely fit.",
-    "sighted object": "A round, spinning object with green and yellow coloring",
-    "location": "Chicago, Illinois",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "An airline pilot observed an oval-shaped object in the sky above Chicago, Illinois for 30 minutes on June 23, 1966.",
+    "interesting points": "The object was white and appeared similar to a star,The object was observed 25 degrees above the horizon,The sighting was conducted using binoculars,The observer reported no sound emitted by the object,The object disappeared after drifting for half an hour.",
+    "sighted object": "oval-shaped white object resembling a star",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ernest M. Heglar, an airline pilot",
+    "contains photographs": false
 }

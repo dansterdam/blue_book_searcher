@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Multiple unidentified objects were sighted by both civilian and military witnesses in Nebraska and South Dakota on October 19, 1962.",
-    "interesting points": [
-        "The objects were described as moving straight and steady, about the size of an apple held at arm's length.",
-        "Some witnesses believed the objects could be some kind of vehicle.",
-        "The objects were observed for 5-10 minutes before disappearing from sight.",
-        "Witnesses reported an object exploding at an altitude of around 32,000 feet and crashing into Parkston Peak in South Dakota.",
-        "Authorities reported that pieces broke off the object and crashed in Kilgore, Nebraska, causing a fire."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified objects, some described as motor-like with a trailing cone, and a bright white flare-like object",
-    "location": "Nebraska and South Dakota",
-    "witnesses": "civilian and military observers",
-    "photographs": "no"
+    "main event": "Multiple observers spotted an unidentified object believed to be moving steadily about 100 yards away, estimated to be the size of an apple at arm's length, which was seen for about 5-10 minutes before disappearing.",
+    "interesting points": "The object was reported to possibly ascend before it disappeared,Over 12 persons were contacted near the sighting location,The witnesses were noted to be reliable and credible,No physical evidence or photographs were found,An explosion involving a UFO was reported at around 32,000 feet near Parkston, South Dakota.",
+    "sighted object": "Unidentified object believed to be vehicle-like",
+    "location": "Nebraska & South Dakota",
+    "number of confirmed witnesses": 12,
+    "witness description": "Reliable and credible",
+    "contains photographs": false
 }

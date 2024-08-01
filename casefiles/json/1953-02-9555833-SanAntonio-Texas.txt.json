@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "Several unidentified objects were observed in the sky around San Antonio, Texas on February 26-27, 1953.",
-  "interesting points": [
-    "The objects were described as bright, steady lights that moved at extremely high speeds, sometimes stopping and then accelerating rapidly.",
-    "One observer said the object appeared to be spinning as it moved across the sky.",
-    "The sightings lasted for up to 30 minutes, with the objects disappearing from view at times.",
-    "No sound was reported coming from the objects.",
-    "The objects were observed by multiple witnesses, including military personnel from nearby air force bases."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright, steady lights moving at high speeds",
-  "location": "San Antonio, Texas",
-  "witnesses": "military personnel, civilians",
-  "photographs": "no"
+    "main event": "Multiple witnesses observed unidentified flying objects in the sky over San Antonio, Texas, on February 26 and 27, 1953.",
+    "interesting points": "Witnesses described bright lights moving rapidly with no sound,The objects appeared to be circular and brighter than the stars,Observations were made by military personnel at Brooks Air Force Base,Some witnesses reported the objects making oscillating movements and dives,No physical evidence was found to support the sightings.",
+    "sighted object": "unidentified bright light",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 24,
+    "witness description": "Military personnel and other individuals working in the area.",
+    "contains photographs": false
 }

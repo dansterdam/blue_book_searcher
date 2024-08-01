@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One illuminated star-like object observed while taking radar recordings. Object sighted through B/X and constant velocity observed as it moved at a constant speed and disappeared to the E/SE.",
-    "interesting points": [
-        "The object was observed through ground-radar and air-visual means.",
-        "Azimuth and distance information was noted for the object.",
-        "The object's movement and pattern of observation was characteristic of a satellite.",
-        "The object was described as a small, white-yellow, circular, blob-like, luminous object.",
-        "The object moved from east to west and faded out after about 0.75 minutes of observation."
-    ],
-    "result": "The sighting was concluded to be characteristic of a satellite.",
-    "sighted object": "one illuminated star-like object",
-    "location": "32-17.22N, 117-22W",
-    "witnesses": "Military personnel including LT PARKS USN, LT JG HOWSE USN, and LT AKERS USN",
-    "photographs": "no"
+    "main event": "An illuminated star-like object was observed through binoculars while taking radar recordings on March 8, 1963.",
+    "interesting points": "The object moved at a constant speed and disappeared to the E/SE., The observation lasted approximately 5 minutes., The sighting was conducted under normal dusk light conditions., The object was evaluated as a probable satellite by the evaluating officer., No physical evidence was obtained from the sighting.",
+    "sighted object": "illuminated star-like object",
+    "location": "39-17.22W",
+    "number of confirmed witnesses": 3,
+    "witness description": "LT Parks USN, LTJG Howse USN, LT Akers USN, all reliable and attached to USS Sculpin.",
+    "contains photographs": false
 }

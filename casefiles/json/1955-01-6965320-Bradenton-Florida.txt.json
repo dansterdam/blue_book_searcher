@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two civilian observers in Bradenton, Florida saw a bright white, round or disc-shaped object moving at a rapid speed and altitude of around 2,000 feet.",
-    "interesting points": [
-        "The object was approximately 6-8 feet in diameter and appeared to be lit from within.",
-        "The object moved silently and did not have any visible exhaust or contrail.",
-        "The sighting lasted for approximately one minute before the object went out of view.",
-        "The report was investigated by the Air Force as part of Project Blue Book.",
-        "The report concluded the object was possibly a meteor."
-    ],
-    "result": "possibly a meteor",
-    "sighted object": "bright white, round or disc-shaped object",
-    "location": "Bradenton, Florida",
-    "witnesses": "a housewife and a retiree",
-    "photographs": "no photographs present"
+    "main event": "A visual observation of a bright white object moving at high speed in Bradenton, Florida, on January 6, 1955.",
+    "interesting points": "The object was described as being approximately 6 to 8 feet in diameter and disc-shaped., The witnesses observed the object for about one minute before it disappeared from view., The object appeared to be illuminated from within, with no exhaust or contrail visible., Two civilian witnesses included a housewife and a retiree., Initial observations noted intense flashes of light emitted from the object.",
+    "sighted object": "bright white disc-shaped object",
+    "location": "Bradenton, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "housewife and a retiree",
+    "contains photographs": false
 }

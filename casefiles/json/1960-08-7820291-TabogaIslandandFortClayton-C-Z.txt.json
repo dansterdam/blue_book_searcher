@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A star-shaped object the size of a nickel, changing completely from red to white to green, appeared to be rotating in a northwesterly direction over Taboga Island and Fort Clayton, C.Z.",
-    "interesting points": [
-        "The object appeared to be changing colors from red to white to green.",
-        "The object was reported to be rotating or oscillating.",
-        "The sighting was observed from both Taboga Island and Fort Clayton.",
-        "Radar was used to track the object, but it was believed to be beyond the range of the radar.",
-        "The report includes detailed information about the object's altitude, speed, and trajectory."
-    ],
-    "result": "unexplained",
-    "sighted object": "a star-shaped object changing colors",
-    "location": "Taboga Island and Fort Clayton, C.Z.",
-    "witnesses": "personnel on Taboga Island and at Fort Clayton",
-    "photographs": "no photographs present"
+    "main event": "A multiple sighting of a star-shaped object changing colors over Taboga Island and Fort Clayton on August 14, 1960.",
+    "interesting points": "The object was the size of a nickel and changed colors from red to white to green., The object appeared to be rotating or oscillating in a northwesterly direction., There was no reported beginning or end to the sighting to determine speed, course, or altitude., Ground visual search was conducted with negative radar results., The sighting was reported by very reliable personnel, with notable details about the object's altitude and movements.",
+    "sighted object": "star-shaped object changing colors",
+    "location": "Taboga Island & Fort Clayton, Canal Zone",
+    "number of confirmed witnesses": 0,
+    "witness description": "very reliable personnel",
+    "contains photographs": false
 }

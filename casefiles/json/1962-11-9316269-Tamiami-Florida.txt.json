@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A flashing orange and white beacon was sighted by a civilian near the Tamiami Trail in Florida.",
-    "interesting points": [
-        "The object was sighted by the crew of Eastern Air Lines Flight 822, located 23 miles southwest of Tamiami, Florida.",
-        "The object's flash was not standard for an aircraft beacon.",
-        "The approximate position of the object was in the vicinity of Marco, Florida, at an altitude of 9,332 feet.",
-        "The direction and speed of the object were unknown.",
-        "Other Eastern Air Lines flights, including Flights 321 and 647, were in the area and reported seeing the object as well."
-    ],
-    "result": "unknown",
-    "sighted object": "a flashing orange and white beacon",
-    "location": "Tamiami, Florida",
-    "witnesses": "civilian, Eastern Air Lines Flight 822 crew",
-    "photographs": "none"
+    "main event": "A flashing orange and white beacon was sighted by a civilian at Tamiami Trail near U.S. 41.",
+    "interesting points": "The sighting was reported on 18 November 1962,The object was observed for an unspecified duration,The direction and speed of the object were unknown,It was described as similar to an aircraft beacon but not standard in its flashing pattern,The object was later concluded to probably be an aircraft.",
+    "sighted object": "one flashing orange and white beacon",
+    "location": "Tamiami, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian at Tamiami Trail",
+    "contains photographs": false
 }

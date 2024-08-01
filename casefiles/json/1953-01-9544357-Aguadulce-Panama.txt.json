@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A newspaper reporter observed an object traveling at a high rate of speed, having intense brilliance, without appearance of any known aircraft near Aguadulce, Panama on January 10, 1953.",
-    "interesting points": [
-        "The object had flashing lights and made movements that were considered strange by the witnesses.",
-        "The sighting was reported in a Spanish language newspaper called 'LA HORA'.",
-        "The report was considered important enough to warrant further investigation by the Air Force's Project Blue Book.",
-        "The object could not be identified as a conventional aircraft.",
-        "The observer was considered reliable and responsible, and not subject to hallucinations or sensationalism."
-    ],
-    "result": "unidentified",
-    "sighted object": "a fast-moving, brightly lit object",
+    "main event": "A newspaper reporter observed an object traveling at a high rate of speed, having intense brilliance, without appearance of any known aircraft in Aguadulce, Panama.",
+    "interesting points": "The sighting was reported on 10 January 1953 but documented later in January,The object was seen as not being a conventional aircraft, with no physical evidence found,The report was made by a reliable observer who is not considered subject to hallucinations,The incident was deemed important enough to warrant further investigation,Two newspaper clippings were included in the original report.",
+    "sighted object": "a flying disk",
     "location": "Aguadulce, Panama",
-    "witnesses": "a newspaper reporter",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "newspaper reporter",
+    "contains photographs": false
 }

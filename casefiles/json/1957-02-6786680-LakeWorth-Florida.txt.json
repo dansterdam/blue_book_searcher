@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A fluorescent box kite was observed in the sky over Lake Worth, Florida on February 9, 1957.",
-    "interesting points": [
-        "The object was observed visually through binoculars for 22 minutes.",
-        "The object was initially thought to be a UFO, but it was later concluded that it was a child's fluorescent box kite.",
-        "The object was seen moving up and down in the sky.",
-        "The observer kept the object in sight until they went off duty.",
-        "The report includes a conclusion that the sighting was caused by a child's fluorescent box kite."
-    ],
-    "result": "Identified as a box kite",
-    "sighted object": "One fluorescent box kite",
-    "location": "Lake Worth, Florida",
-    "witnesses": "Civilian (GOC) observer",
-    "photographs": "No photographs included"
+    "main event": "A UFO sighting was reported on February 9, 1957, in Lake Worth, Florida, involving one object observed for 22 minutes.",
+    "interesting points": "The sighting lasted for 22 minutes,The object was observed visually through binoculars,The observer concluded the sighting was a child's fluorescent box kite,The report came from Project 10073 of the USAF,The sighting was categorized as an aerial-visual observation.",
+    "sighted object": "one object, described as a box kite",
+    "location": "Lake Worth, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer using binoculars",
+    "contains photographs": false
 }

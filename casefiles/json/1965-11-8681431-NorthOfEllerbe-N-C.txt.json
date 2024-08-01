@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Multiple witnesses observed bright, white objects with small tails of red-orange sparks streaking across the sky over a period of 2 hours.",
-    "interesting points": [
-        "The objects appeared as pinpoints of light and varied in duration from 0.5 to 4 seconds.",
-        "Over 25 objects were sighted, but they did not appear in any formation or sequence.",
-        "One of the initial objects appeared to slow down and change course slightly before disappearing.",
-        "The witnesses included a salesman and a law enforcement officer, both of whom were described as reliable observers.",
-        "The sightings occurred during the peak of the meteorite season, and the Air Force investigator believed the objects were likely meteors, despite the witnesses stating they had not seen meteors as bright as these."
-    ],
-    "result": "inconclusive",
-    "sighted object": "bright, white objects with small tails of red-orange sparks",
-    "location": "near Ellerbe, North Carolina",
-    "witnesses": "a salesman and a law enforcement officer",
-    "photographs": "no"
+    "main event": "Multiple observers reported seeing numerous unidentified objects streaking across the sky in Ellerbe, North Carolina, on November 17, 1965.",
+    "interesting points": "The objects appeared as pinpoint lights with small tails of sparks,The observers estimated the size of the objects to be similar to a pinhead at arm's length,The color observed was a white burning light with occasional red-orange sparks,Over a two-hour period, up to twenty-five such objects were sighted by the observers,Observations were hindered by the lack of discernible features due to the objects' appearance only as light.",
+    "sighted object": "pinpoint lights with tails of sparks",
+    "location": "Ellerbe, North Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One observer is a reliable salesman, while the other is a law enforcement officer for the city of Ellerbe.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed descending in a gliding fashion, reflecting light, and eventually disappearing from view after a 40-minute sighting.",
-    "interesting points": [
-        "The UFO was observed for 40 minutes, descending at varying rates and reflecting light.",
-        "The report indicates that there were photographs taken of the UFO.",
-        "The sighting occurred at 0915-1024 local time.",
-        "The observer noticed a very bright light above and the object descends in a gliding path as if to land.",
-        "The reporting officer's opinion suggests the observer might have noticed a natural phenomenon or a light civilian aircraft in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "reflective object descending in a gliding fashion",
-    "location": "35SG, 3-4 miles south of Roseville, GA",
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "An object was observed gliding in the sky over Roseville, GA for about 40 minutes, reflecting light before disappearing from view.",
+    "interesting points": "The sighting started at 0915 and continued until 1024,The object descended at varying rates,It appeared to reflect light,There is no photograph associated with the report,The reporting officer suggested the observer might have mistaken the object for a natural phenomenon.",
+    "sighted object": "a gliding object reflecting light",
+    "location": "Roseville, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

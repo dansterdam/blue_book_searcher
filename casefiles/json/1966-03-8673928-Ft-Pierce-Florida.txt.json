@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Two young observers saw a bright object that seemed to hover and then explode on the ground near them.",
-    "interesting points": [
-        "The observers initially thought the object was a rocket or a balloon painted with fluorescent paint, but then realized it did not behave like either.",
-        "The object became so bright that the observers could not look at it directly.",
-        "When the observers approached the object on the ground, it suddenly exploded.",
-        "The observers called local airports to see if they had launched any balloons, but were told they had not.",
-        "The observers are seeking information from the authorities about what the object could have been."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, hovering object that exploded on the ground",
-    "location": "Ft Pierce, Florida",
-    "witnesses": "two young observers",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Two young observers saw a bright object in the woods near Ft. Pierce, Florida, on March 23, 1966, initially thinking it was a rocket but later believing it to be a balloon that blew up when they approached it.",
+    "interesting points": "The observers thought the object was a rocket at first,The object became so bright that the witnesses couldn't look at it,They believed it was hovering before they found it on the ground, The object burst when they got close, The witnesses called the Palm Beach airport to inquire about balloon launches but were told none had occurred in the past two weeks.",
+    "sighted object": "a bright object thought to be a balloon",
+    "location": "Ft Pierce, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two young observers who were on their way to Scouts",
+    "contains photographs": false
 }

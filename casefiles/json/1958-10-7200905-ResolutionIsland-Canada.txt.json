@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-  "main event": "A yellow-orange, half moon shaped object the size of a basketball was observed falling from the sky over Resolution Island, Canada.",
-  "interesting points": [
-    "The object seemed to be falling and disappearing below the horizon.",
-    "The witness reported evidence of phases, indicating it was likely the planet Saturn.",
-    "The object was observed for about 2 minutes from the ground.",
-    "Two observers, J.P. Messick and R.R. Kane, reported seeing the object from different locations.",
-    "The weather conditions were clear with calm winds at the time of the sighting."
-  ],
-  "result": "Identified as the planet Saturn",
-  "sighted object": "yellow-orange, half moon shaped object the size of a basketball",
-  "location": "Resolution Island, Canada",
-  "witnesses": "J.P. Messick and R.R. Kane",
-  "photographs": "Yes - 2656"
+    "main event": "A yellow-orange, half moon-shaped object, the size of a basketball, was observed falling over Resolution Island, Canada.",
+    "interesting points": "The object was visible for 2 minutes during the observation., The object appeared to be falling at the time of the sighting., The conclusion drawn by observers indicated that the object was likely the planet Saturn., Witnesses described the object as bright and yellow-orange during nighttime., The weather conditions during the sighting were reported as clear and calm.",
+    "sighted object": "half moon-shaped yellow-orange object",
+    "location": "Resolution Island, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "average observers from the 290th Aircraft Control and Warning Squadron, USAF",
+    "contains photographs": false
 }

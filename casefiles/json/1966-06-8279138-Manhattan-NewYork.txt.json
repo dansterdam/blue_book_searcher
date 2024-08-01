@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Manhattan, New York reported seeing a star-like object moving from west to east at an elevation of 70-75 degrees on June 16, 1966.",
-    "interesting points": [
-        "The object was visible for about 5 minutes before disappearing.",
-        "The object was described as circular, pinhead-sized, and white with occasional reddish and bluish hues.",
-        "The wind conditions at various altitudes were noted in the report.",
-        "The observer was a 39-year-old TV producer, who was likely considered a reliable witness.",
-        "The conclusion was that the sighting was likely a satellite, as there was no information indicating it was not a satellite."
-    ],
-    "result": "Satellite",
-    "sighted object": "a star-like object",
-    "location": "Manhattan, New York",
-    "witnesses": "a civilian",
-    "photographs": "Yes"
+    "main event": "A civilian observed a star-like object moving from west to east for about 5 minutes in Manhattan on 15 June 1966.",
+    "interesting points": "The object was observed at an elevation of 70-75 degrees., The observer was a 39-year-old TV producer, who is described as probably reliable., The sighting took place at night and lasted for about 5 minutes., The object moved in a straight path from west to east before sinking below the skyline., The official conclusion of the report labeled the sighting as a satellite.",
+    "sighted object": "star-like object",
+    "location": "Manhattan, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "39-year-old TV producer",
+    "contains photographs": true
 }

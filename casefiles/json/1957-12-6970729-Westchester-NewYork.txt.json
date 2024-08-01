@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single unidentified flying object was observed in Westchester, New York on December 12, 1957.",
-    "interesting points": [
-        "The object was the size of a large balloon, with a bowl-shaped top and bottom.",
-        "The object was traveling straight and flew out of sight.",
-        "No elevation, azimuth, or wind information was provided, making the report difficult to evaluate.",
-        "The observation lasted for 1.5 minutes.",
-        "The report concludes that the object was a balloon, but lacks sufficient data to make a definitive determination."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a single unidentified flying object",
-    "location": "Westchester, New York",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A civilian observed a UFO resembling a balloon on 12 December 1957 in Westchester, New York.",
+    "interesting points": "The object was described as being the size of a good-sized balloon,The shape of the object was noted as bowl-shaped on top and bottom,The sighting lasted for approximately 1.5 minutes,The object was observed traveling straight before flying out of sight,Conclusions of the investigation suggested the object was a balloon.",
+    "sighted object": "one bowl-shaped object",
+    "location": "Westchester, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed a bright, white, incandescent object that changed to a pale red color, which was likely the planet Venus.",
-    "interesting points": [
-        "The object was described as being similar to a bright star, but ten times as bright.",
-        "The object changed color from white incandescent to pale red, and eventually faded to white.",
-        "The size of the object was described as being the size of a grapefruit.",
-        "The reporting officer concluded that the sighting was undoubtedly caused by the planet Venus.",
-        "The duration of the sighting was between 5-10 minutes."
-    ],
-    "result": "likely Venus",
-    "sighted object": "a bright, white, incandescent object that changed to a pale red color",
-    "location": "Fairhaven, Massachusetts",
-    "witnesses": "one witness",
-    "photographs": "no photographs included"
+    "main event": "A witness observed a brilliant white incandescent object in the sky that changed to pale red on 7 March 1956.",
+    "interesting points": "The object was described as being ten times brighter than a typical star., The object was visible for about 5-10 minutes., The witness called attention to the object, indicating it was exceptionally bright., The reporting officer speculated that the sighting was likely caused by the planet Venus., There was no radar contact reported during the sighting.",
+    "sighted object": "a brilliant white incandescent object changing to pale red",
+    "location": "Fairhaven, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "One witness who observed the object changing colors.",
+    "contains photographs": false
 }

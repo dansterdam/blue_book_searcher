@@ -1,15 +1,9 @@
 {
-  "main event": "A big explosion followed by smaller ones was observed in Norton, Kansas on 17 Feb 1949.",
-  "interesting points": [
-    "The event occurred on 17 Feb 1949 in Norton, Kansas at approximately 1800 CST.",
-    "The observation was reported by a civilian source.",
-    "The report suggests that the event was identified as a Fireball, indicating a natural explanation.",
-    "The document is part of a larger set, as indicated by the illegible page number.",
-    "There are no clear photographs visible within the image provided."
-  ],
-  "result": "prosaic explanation - identified as a fireball",
-  "sighted object": "a big explosion followed by smaller ones",
-  "location": "Norton, Kansas",
-  "witnesses": "civilian",
-  "photographs": "no clear photographs available"
+    "main event": "A large explosion followed by smaller explosions was reported near Norton, Kansas on February 17, 1949.",
+    "interesting points": "The event was characterized as a big explosion followed by smaller explosions,The observation was made when the time was around 1800 CST,The event was identified as a fireball,Details of the means of observation were not provided,The report included multiple areas of illegibility which obscured details.",
+    "sighted object": "fireball",
+    "location": "Norton, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

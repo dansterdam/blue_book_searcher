@@ -1,15 +1,9 @@
 {
-    "main event": "A military vessel spotted a high-speed, yellow-orange flaming object traveling in a southerly direction, which seemed to be breaking up.",
-    "interesting points": [
-        "The object was sighted by three crew members of the ship.",
-        "The object was traveling at a high speed in a southerly direction.",
-        "The object appeared to be breaking up as it was observed.",
-        "The sighting occurred at the coordinates 24-14N, 83-32W in the Atlantic Ocean.",
-        "The object was definitely identified as satellite debris from the Cosmos 213 launch."
-    ],
-    "result": "satellite debris",
-    "sighted object": "a yellow-orange flaming object",
-    "location": "Atlantic Ocean, 24-14N, 83-32W",
-    "witnesses": "three crew members of the ship",
-    "photographs": "no"
+    "main event": "A military report observed a yellow-orange flaming object traveling at high speed in a southerly direction, which seemed to be breaking up.",
+    "interesting points": "The object was visually observed by ship personnel., It was identified as satellite debris from the Cosmos 213 launch., The observation lasted for 355 seconds., The object was tracked moving south over the Atlantic Ocean., The sighting occurred on April 19, 1965.",
+    "sighted object": "one yellow-orange flaming object",
+    "location": "Atlantic, NA",
+    "number of confirmed witnesses": 3,
+    "witness description": "ship personnel",
+    "contains photographs": false
 }

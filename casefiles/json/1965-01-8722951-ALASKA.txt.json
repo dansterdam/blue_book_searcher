@@ -1,17 +1,9 @@
-Here is the summary in JSON format based on the information provided in the UFO report:
-
 {
-    "main event": "Reports of strange objects flying around the Anchorage, Alaska area, including bright lights, round silver objects, and unexplained aerial phenomena.",
-    "interesting points": [
-        "Dozens of residents, including housewives, police, and university students, reported seeing the objects over Anchorage.",
-        "The objects were brighter than the planet Venus and much larger, remaining stationary and changing colors from white to orange-red.",
-        "Telephone operators in Anchorage reported receiving a flood of calls about the objects, which were described as shining into living rooms with blinding intensity.",
-        "The Air Force claimed they had no flights in the area at the time of the sightings.",
-        "One object was tracked on radar and correlated with a visual sighting, but could not be identified as a known weather balloon or satellite."
-    ],
-    "result": "unexplained",
-    "sighted object": "Bright lights, round silver objects, unexplained aerial phenomena",
-    "location": "Anchorage, Alaska",
-    "witnesses": "Dozens of residents, including housewives, police, and university students",
-    "photographs": "no photographs available"
+    "main event": "Multiple unidentified bright objects were reported in Alaska from January 25 to January 29, 1965, appearing as star-like bodies.",
+    "interesting points": "Reports included bright lights observed over various locations, witnesses believed these objects to be very close, some described them as resembling searchlights, the sightings caused considerable public interest and reaction, and a mix of civilian and military personnel were involved in the observations.",
+    "sighted object": "bright star-like bodies",
+    "location": "Anchorage, Alaska, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilian residents, housewives, policemen, and chemistry students",
+    "contains photographs": false
 }

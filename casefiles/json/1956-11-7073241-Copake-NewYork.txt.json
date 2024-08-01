@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "One red and yellow egg-shaped object with a tail was observed visually for 15 minutes in Copake, New York on November 6, 1956.",
-    "interesting points": [
-        "The object flew out of sight after being observed for 15 minutes.",
-        "The report indicates the cause was possibly an aircraft.",
-        "The object was described as an egg-shaped object with a tail.",
-        "The object was red and yellow in color.",
-        "The sighting was made by a civilian witness."
-    ],
-    "result": "possibly aircraft",
-    "sighted object": "one red and yellow egg-shaped object with a tail",
-    "location": "Copake, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "One red and yellow egg-shaped object with a tail was observed flying out of sight after 15 minutes.",
+    "interesting points": "The object was seen for a duration of 15 minutes., The observation was made from the ground., The object was described as red and yellow with an egg shape., The source of the sighting was a civilian., There is a possibility that the object was an aircraft.",
+    "sighted object": "one red and yellow egg-shaped object",
+    "location": "Copake, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian in Waynesville, Ohio reported seeing a bright, intelligently maneuvering light object in the sky in 1965.",
-    "interesting points": [
-        "The object appeared to be a single point of light or a blue light, sometimes surrounded by a blue halo or glow.",
-        "The object would accelerate rapidly, then stop and hover, with the light brightening during acceleration and dimming during hovering.",
-        "The witness and a neighbor both observed the object for some time on a clear night.",
-        "The witness had seen similar unidentified lights in the sky before, but this object seemed different and intelligently guided.",
-        "The witness was initially skeptical about UFOs but felt this sighting was worth reporting to the Air Force's Project Blue Book."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A bright, intelligently maneuvering light object",
-    "location": "Waynesville, Ohio",
-    "witnesses": "A civilian and a neighbor",
-    "photographs": "No photographs included in the report"
+    "main event": "A civilian reported seeing a bright light in the sky that appeared to maneuver intelligently in Waynesville, Ohio, in August 1965.",
+    "interesting points": "The witness described the object as emitting light rays and being stationary at times before suddenly accelerating,The sighting involved a neighbor who also observed the object,The witness expressed skepticism but felt the sighting was significant enough to report,The report includes a reference to earlier experiences with unidentified flying objects,The object was not identifiable as any known aircraft.",
+    "sighted object": "a bright light in the sky",
+    "location": "Waynesville, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A civilian observer and a neighbor",
+    "contains photographs": false
 }

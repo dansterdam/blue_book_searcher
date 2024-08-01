@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A single bright circular object was observed in the sky near Chicago, Illinois.",
-    "interesting points": [
-        "The object was described as having a bright circular shape, with a whitish or metallic surface that tapered towards one end.",
-        "The object's light went out and then came back on during the sighting.",
-        "The object was observed at a 20-degree angle and 270-degree azimuth, and disappeared at a 30-degree angle and 270-degree azimuth.",
-        "The object was visible for 5-10 seconds before being obstructed by a building.",
-        "The civilian observer found the sighting to be honest and genuine, with no evidence of a hoax."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single bright circular object",
-    "location": "Intersection of Harlem Ave and Ridgeland Ave, Chicago, IL",
-    "witnesses": "a civilian, age 28",
-    "photographs": "none"
+    "main event": "A circular, bright object was observed by a civilian for about 5-10 seconds over Chicago, Illinois on March 7, 1965.",
+    "interesting points": "The object was described as having a whitish or metallic surface and tapering towards the opposite end., The object emitted no sound and had no visible tail or exhaust., The light of the object went out briefly before coming back on., The object was first observed from a building obstructed view., The sighting was made under clear weather conditions.",
+    "sighted object": "one circular bright object",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was a 28-year-old civilian, details of which are redacted.",
+    "contains photographs": false
 }

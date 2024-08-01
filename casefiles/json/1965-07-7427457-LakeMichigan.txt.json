@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A saucer-shaped object was observed hovering about 200 ft above Lake Michigan, emitting a bright, blinding light.",
-  "interesting points": [
-    "The object was seen maneuvering in an erratic and fast manner, suddenly changing direction and hovering before darting off in another direction.",
-    "The speed and maneuverability of the object was described as absolutely incredible.",
-    "The object appeared to be about 50 feet in size.",
-    "The witness had reported seeing similar objects before, and no one would believe them.",
-    "The Air Force requested a complete report on the sighting and a copy of the current briefing church."
-  ],
-  "result": "unexplained",
-  "sighted object": "saucer-shaped object",
-  "location": "Lake Michigan",
-  "witnesses": "civilian, including a witness from Ohio",
-  "photographs": "no"
+    "main event": "A saucer-shaped object was observed hovering about 200 ft above Lake Michigan, emitting a bright blinding light on July 5, 1965.",
+    "interesting points": "The object was reported to be hovering and produced a bright light., The report concluded with 'INSUFFICIENT DATA FOR EVALUATION' due to lack of further evidence., A witness mentioned the object maneuvered in an erratic manner., The observer was fishing on the shore of Lake Michigan when they noticed the strange light., No photographs or physical evidence were provided in the documentation.",
+    "sighted object": "saucer-shaped object emitting a bright light",
+    "location": "Lake Michigan, Ohio, United States",
+    "number of confirmed witnesses": 2,
+    "witness description": "fishermen observing the light for 15-20 minutes",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple witnesses reported a sighting of a circular, white object flying from North to Southwest over Tampa, Florida in 1949.",
-    "interesting points": [
-        "The sighting was reported by several people in the Tampa area, adding credibility to the observation.",
-        "The object was described as having a high altitude, low speed, and a short duration of 3-5 seconds.",
-        "The report suggests the possibility that the object could have been a conventional aircraft, indicating an attempt to find a prosaic explanation.",
-        "No photographs were included in the report, which is an interesting point considering the number of witnesses and the visual nature of the sighting.",
-        "The circular, white object's behavior and characteristics do not match typical aircraft flight patterns or appearances."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, white object",
-    "location": "Tampa, FL",
-    "witnesses": "multiple witnesses",
-	"photographs": "no"
+    "main event": "Several witnesses observed a circular white object moving at low speed in the sky over Tampa, Florida.",
+    "interesting points": "The sighting was reported by several people in the Tampa area., The object was seen flying from the north to the southwest., The observation lasted for approximately 3-5 seconds., The altitude of the object was described as high., There is uncertainty about whether the object was a possible aircraft.",
+    "sighted object": "circular white object",
+    "location": "Tampa, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "several people in the Tampa area",
+    "contains photographs": false
 }

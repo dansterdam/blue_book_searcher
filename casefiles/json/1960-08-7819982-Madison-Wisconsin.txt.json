@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two sightings of unidentified objects occurred in Madison, Wisconsin on August 11, 1950.",
-    "interesting points": [
-        "The first object was observed circling slowly and then rising vertically before disappearing.",
-        "The second object was observed hovering, then accelerating vertically and disappearing.",
-        "The report comments that the case file is not currently available to compare details, but further investigation is justified.",
-        "The sighting was rated as a 'probable aircraft' by Project Blue Book.",
-        "Another sighting was reported on August 7, 1960 in Madison, Wisconsin of a circular glowing light that changed course and speed while under observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "Two unidentified objects, one circling and rising vertically, the other hovering and accelerating vertically",
-    "location": "Madison, Wisconsin",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs available"
+    "main event": "Two sightings were reported in Madison, Wisconsin, in August 1950, featuring one elliptical object observed circling and rising vertically and then disappearing, followed by a second object hovering and accelerating vertically before it also disappeared.",
+    "interesting points": "The first object was observed circling slowly before it ascended vertically., The second object was seen hovering for a period before making a rapid ascent., The sightings occurred within a timeline of 1-2 minutes., The initial sighting had 9 witnesses., It was classified as a probable aircraft in ratings.",
+    "sighted object": "one elliptical object",
+    "location": "Madison, Wisconsin, USA",
+    "number of confirmed witnesses": 9,
+    "witness description": "multiple observers reported the sightings",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Radar tracked an unidentified object flying southeast to northwest in a U-curve over Farmington, New Mexico in 1960.",
-    "interesting points": [
-        "The object was tracked on radar for 5-10 minutes, displaying high speed and the ability to change course abruptly.",
-        "A ground observer also visually sighted the object, describing it as a round ball of green fire.",
-        "The object was estimated to be approximately 2,000 yards in size.",
-        "No sound was reported associated with the object.",
-        "A separate report described three luminous, hovering objects observed in the area on a different date, also traveling at high speed."
-    ],
-    "result": "unexplained",
-    "sighted object": "round ball of green fire, unidentified object tracked on radar",
-    "location": "Southeast of Farmington, New Mexico",
-    "witnesses": "radar operators, ground observer",
-    "photographs": "none"
+    "main event": "A radar observation detected a round green object southeast of Farmington, New Mexico on September 25, 1960.",
+    "interesting points": "The object was tracked on radar before being visually sighted,The object was described as a round ball of fire with a size of approximately 2,000 yards,The object changed course nearly instantly to the northwest after being sighted,The observation lasted approximately 5-10 minutes, No photographs were included with the report.",
+    "sighted object": "round green object",
+    "location": "Farmington, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Radar operator who tracked and sighted the object.",
+    "contains photographs": false
 }

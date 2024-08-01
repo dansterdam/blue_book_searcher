@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A fast-moving, bright, white, circular object was observed in the sky over Mount Vernon, New York on June 29, 1963.",
-    "interesting points": [
-        "The object was observed in front of the moon and was estimated to be moving at around 1500 mph at a very high altitude.",
-        "The sighting lasted for around 4 minutes.",
-        "The object moved straight and level across the sky.",
-        "The sighting was made by a civilian witness during a clear night.",
-        "The Air Force determined that the object observed was not an aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, bright, white, circular object",
-    "location": "Mount Vernon, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A sighting of an unidentified aerial phenomenon occurred over Mount Vernon, New York on June 25, 1963.",
+    "interesting points": "The object was observed for about 5 minutes,They believed the object could have been a balloon, satellite, or aircraft overshoot,The object moved too rapidly for any conventional spacecraft,The object was described as 'white, circular' and positioned in front of the moon during a later sighting,The sighting report acknowledges it was not an aircraft.",
+    "sighted object": "an unidentified aerial phenomenon",
+    "location": "Mount Vernon, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who reported seeing a rapidly moving star-like object.",
+    "contains photographs": false
 }

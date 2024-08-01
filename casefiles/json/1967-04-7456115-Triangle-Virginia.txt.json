@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "Multiple observers reported seeing two unidentified objects in the sky over Fairfax, Virginia on April 25, 1967.",
-    "interesting points": [
-        "The first object was described as being far brighter than any star, gray on the inside and red on the outside, and appearing to change shape.",
-        "The observer stated the object disappeared and reappeared again, and it is possible it was a satellite or aircraft obscured by clouds.",
-        "The second object was described as being triangular in shape and at times appearing suspended in the air, and at other times moving rapidly and then slowing down.",
-        "The observers were unable to identify the objects as any conventional aircraft.",
-        "One of the objects was observed to go through a landing pattern, but the observers did not see any associated aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects, one described as a bright, shape-changing object and the other as a triangular craft",
-    "location": "Fairfax, Virginia",
-    "witnesses": "multiple observers including civilians and military personnel",
-    "photographs": "no photographs were included in the report"
+    "main event": "An unidentified object was observed in Fairfax, Virginia, described as far brighter than any star, with changes in shape and color.",
+    "interesting points": "The object was gray on the inside and red on the outside,The observer noted the object appeared to change shape and sometimes disappeared and reappeared, It was suggested that the object could potentially be a satellite or an aircraft obscured by clouds, No sound was heard from the object, The observer experienced the object moving in front of and being obscured by tree branches.",
+    "sighted object": "triangular object that appeared bright and changed shape",
+    "location": "Fairfax, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 15-year-old male observer",
+    "contains photographs": false
 }

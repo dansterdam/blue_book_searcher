@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar operator spotted an unidentified flying object over Long Island, NY in 1958.",
-    "interesting points": [
-        "The object was described as round in shape and as large as a star, emitting different colored lights that flashed from bright to dim.",
-        "The object was stationary or slowly hovering in a southeast to south direction.",
-        "The object was located approximately 12 degrees from Albertson, Long Island and 120 degrees from Mitchell AFB at an angle of 45 degrees above the horizon.",
-        "One observer reported the object moving slowly past the stars before fading out of view.",
-        "The sighting lasted for approximately 13 minutes, but radar was unable to detect the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, glowing object emitting flashing colored lights",
-    "location": "Long Island, NY",
-    "witnesses": "radar operator, ground observers",
-    "photographs": "none"
+    "main event": "Witness reported observing a large, disk-shaped object emitting a bright yellowish-white glow hovering over his backyard for about 5 minutes.",
+    "interesting points": "The object was described as being 30-40 feet in diameter and hovering 100 feet above the ground., The object accelerated rapidly and disappeared from view., The witness, Alberto, reported feeling shaken by the experience., The sighting occurred on 3 November 1958 at about 8:30 PM., Further investigation is recommended due to the lack of explanation for what was seen.",
+    "sighted object": "large, disk-shaped craft emitting a bright yellowish-white glow",
+    "location": "Long Island, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Alberto, who seemed shaken and unsure about what he witnessed",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object the size of a pinhead was observed in the sky over San Bernardino, California.",
-    "interesting points": [
-        "The object remained in essentially the same position with only small movements.",
-        "The object was observed for approximately 20 minutes.",
-        "The observation was made while watching a commercial Boeing 727 aircraft.",
-        "The object was at a 60-degree angle above the northern horizon.",
-        "The object was white in color."
-    ],
-    "result": "Possibly a common weather balloon, as concluded by the observers and investigating officer.",
-    "sighted object": "a round object the size of a pinhead",
-    "location": "San Bernardino, California",
-    "witnesses": "civilian observers",
-    "photographs": "no"
+    "main event": "A round object the size of a pinhead was observed in the clear sky above San Bernardino for about 20 minutes.",
+    "interesting points": "The object moved with small magnitude and remained in essentially one position., The sighting was initially believed to possibly be a balloon due to weather conditions., The object was noted while watching a commercial 727 Boeing aircraft., The observation took place at a 60-degree angle above the northern horizon., It was documented as part of Project Blue Book, a U.S. Air Force program investigating UFO reports.",
+    "sighted object": "round object size of a pinhead",
+    "location": "San Bernardino, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, observed while watching a commercial aircraft",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "Ground-radar observation of a blue-white object resembling a meteor with a bright flash of light in Rialto, California on October 22, 1955.",
-  "interesting points": [
-    "The observation lasted only 3 seconds, indicating a brief and sudden appearance of the object.",
-    "The report mentions the possibility of the object being a physical object such as a balloon, aircraft, or astronomical phenomena.",
-    "No sound was reported despite the visual sighting, raising questions about the nature of the object.",
-    "The document was exchanged among various Air Force commands, indicating the official interest in the UFO report.",
-    "There is no photographic evidence accompanying the report, leaving the visual observation as the primary source of information."
-  ],
-  "result": "unexplained",
-  "sighted object": "blue-white object resembling a meteor with a bright flash of light",
-  "location": "Rialto, California",
-  "witnesses": "Unknown",
-  "photographs": "no"
+    "main event": "A blue white object resembling a meteor was observed in Rialto, California on October 22, 1955.",
+    "interesting points": "The observation lasted for only 3 seconds,The object produced a bright flash of light during the sighting,The sighting was classified as a possible balloon, aircraft, or astronomical object,The sighting was conducted using ground radar,No photographs were included in the report.",
+    "sighted object": "a blue white object that looked like a meteor",
+    "location": "Rialto, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "not specified",
+    "contains photographs": false
 }

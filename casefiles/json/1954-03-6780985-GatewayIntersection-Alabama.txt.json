@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO report from 27th March 1954 in Intersection, Alabama described a round-white object of indefinite shape and size, with a witness observing the object at a speed of 1500 mph. However, the report notes insufficient data and no evaluation, leading to inconclusive evidence.",
-  "interesting points": [
-    "The report describes a round-white object with indefinite shape and size, indicating the elusive nature of the sighting.",
-    "The object was observed to be 80 feet in diameter and traveling at an incredible speed of 1500 mph.",
-    "Despite the observation, the report mentions insufficient data and no evaluation, leaving the incident unexplained.",
-    "The witnesses to the event were not fully identified, with only one witness noted in the report.",
-    "The location of the sighting was in Intersection, Alabama, adding a specific location to the UFO sighting."
-  ],
-  "result": "unexplained",
-  "sighted object": "round-white object of indefinite shape and size",
-  "location": "Intersection, Alabama",
-  "witnesses": "1 witness",
-  "photographs": "no"
+    "main event": "A round-white object, estimated to be 80 feet in diameter, was spotted traveling at 1500 mph over Gateway Intersection, Alabama on March 27, 1954.",
+    "interesting points": "The object was observed by a single civilian witness., The report from Project Blue Book indicates a high speed for the unidentified object., Essential information was missing in the report, resulting in an insufficient data classification., The encounter occurred at an altitude of 21,222 feet., No photograph was included with the report.",
+    "sighted object": "one round-white object",
+    "location": "Gateway Intersection, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

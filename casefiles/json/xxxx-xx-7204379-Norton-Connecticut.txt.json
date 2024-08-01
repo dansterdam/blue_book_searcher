@@ -1,17 +1,9 @@
-Here is a JSON summary of the key information from the UFO report:
-
 {
-  "main event": "A physicist observed a faintly luminous, crescent-shaped object rapidly move across the sky while looking through binoculars in 1955.",
-  "interesting points": [
-    "The object was about 1 degree across and moved at a uniform speed, covering about 10 degrees in 4 seconds.",
-    "The object's intensity was uniform and well above the background of the Milky Way, but not very bright.",
-    "The witness was able to see several celestial objects clearly that night, indicating good observing conditions.",
-    "The witness had never seen a meteor through binoculars before.",
-    "There were no search lights or other obvious explanations for the object in the area."
-  ],
-  "result": "unknown",
-  "sighted object": "A faintly luminous, crescent-shaped object",
-  "location": "Norton, Connecticut",
-  "witnesses": "a physicist employed at the Biographical Memorial Planetarium in Stanford, Connecticut",
-  "photographs": "no"
+    "main event": "A witness reported seeing a very bright, solid, light gray object shaped like a boomerang in Norton, Connecticut on January 6, 1955.",
+    "interesting points": "The object was approximately 100 feet across and 25 feet thick., The witness estimated the object's speed at around 10,000 miles per hour., The sighting lasted 0 seconds as the object was seen briefly., The witness was a physicist with advanced training in physical chemistry., The preliminary analysis suggested it could have been a meteor of unusual size and brightness.",
+    "sighted object": "a bright light gray boomerang-shaped object",
+    "location": "Norton, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a physicist employed at a planetarium.",
+    "contains photographs": false
 }

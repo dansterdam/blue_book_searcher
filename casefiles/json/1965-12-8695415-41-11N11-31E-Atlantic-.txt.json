@@ -1,15 +1,9 @@
 {
-    "main event": "Observers sighted two bright white objects, one moving rapidly across the sky, the other hovering.",
-    "interesting points": [
-        "The moving object was observed and then disappeared, while the hovering object remained stationary until it was obscured by clouds, then was re-observed.",
-        "The objects were considered to be satellites by the observer.",
-        "The report mentions that the information is in reply to a request and that it is regarding Project Blue Book, the Air Force UFO project.",
-        "The report contains pages with handwritten text and sketches, but no photographs.",
-        "The report includes details about various UFO sightings in different locations, including Argentina, England, and the Atlantic Ocean."
-    ],
-    "result": "unexplained",
+    "main event": "Observers sighted two bright white objects in the Atlantic Ocean on September 29, 1965.",
+    "interesting points": "One object was moving rapidly while the other was hovering,The moving object disappeared from sight,The hovering object was obscured by clouds but later reappeared,The observers initially believed the objects were satellites,The observation lasted between 5 to 10 minutes.",
     "sighted object": "two bright white objects",
-    "location": "Atlantic Ocean, 41.1311 31.31E",
-    "witnesses": "military observers",
-    "photographs": "no"
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military observers",
+    "contains photographs": false
 }

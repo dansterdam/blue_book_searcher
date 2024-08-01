@@ -1,15 +1,9 @@
 {
-  "main event": "A ground visual observation of an oblong object the size of an automobile, changing from green to yellow to red, was reported in Lithonia, Georgia on 9 November 1957. The light from the object went out as if turned off after a duration of one hour and forty minutes.",
-  "interesting points": [
-    "The object was observed to change colors from green to yellow to red, which is not characteristic of any known aircraft at the time.",
-    "The duration of the observation was one hour and forty minutes, indicating a prolonged and detailed sighting.",
-    "Despite the bright Venus being visible to the SSW at the time, the official conclusions did not attribute the sighting to a known astronomical object.",
-    "The visual sighting was made by a service station operator, adding a level of credibility to the witness.",
-    "The report mentions efforts to identify the object, but the conclusions ultimately list it as unknown, suggesting a lack of definitive explanation."
-  ],
-  "result": "Unknown",
-  "sighted object": "Oblong object changing colors from green to yellow to red",
-  "location": "Lithonia, Georgia",
-  "witnesses": "Service station operator",
-  "photographs": "No"
+    "main event": "A service station operator reported sighting an oblong object in the sky on 9 November 1957.",
+    "interesting points": "The object was the size of an automobile.,The object changed colors from green to yellow to red.,The light of the object went out suddenly as if turned off.,The observation lasted for 1 hour and 40 minutes.,The sighting was documented as likely being an aircraft.",
+    "sighted object": "oblong object changing colors",
+    "location": "Lithonia, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "service station operator",
+    "contains photographs": false
 }

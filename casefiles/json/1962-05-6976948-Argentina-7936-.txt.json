@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "A dark, elliptical object was photographed hovering in the sky in Argentina in May 1962.",
-    "interesting points": [
-        "The report includes 7 photographs of the unidentified object.",
-        "The object appears to be dark and elliptical in shape.",
-        "The object was photographed during daylight hours.",
-        "The case is listed as Project Blue Book Case No. 6976948.",
-        "The sighting occurred in Argentina in May 1962."
-    ],
-    "result": "unexplained",
-    "sighted object": "dark, elliptical object",
+    "main event": "A black and white photograph captures a dark, elliptical object hovering in the sky in Argentina during May 1962.",
+    "interesting points": "The case is documented under Project Blue Book,The report contains a total of 7 photos,The object is described as dark and elliptical,The sighting occurred during daylight,The precise details of the witnesses are not provided.",
+    "sighted object": "a dark, elliptical object",
     "location": "Argentina",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 7 photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "no witness details available",
+    "contains photographs": true
 }

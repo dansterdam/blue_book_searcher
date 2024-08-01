@@ -1,15 +1,9 @@
 {
-	"main event": "A UFO sighting was reported near Montrilie, Ohio on 6 November 1957, involving a round object that turned from red to white, with an altitude of 1,000 feet or less, and was observed for about 2 minutes.",
-	"interesting points": [
-		"The sighting involved a round object the size of a basketball that changed color from red to white.",
-		"The altitude of the object was reported to be 4,000 feet or below, with an estimated speed of 400 knots.",
-		"The sighting was a ground-radar and air-visual observation, lasting for 2 minutes.",
-		"The conclusion on the record card indicated that the sighting was likely an aircraft.",
-		"The report includes the names of the witnesses, S/SGT Hansford F. Ayes and 1st Lt. William H. Schreffler."
-	],
-	"result": "prosaic explanation",
-	"sighted object": "round object changing from red to white",
-	"location": "Montrilie, Ohio",
-	"witnesses": "S/SGT Hansford F. Ayes, 1st Lt. William H. Schreffler",
-	"photographs": "no"
+    "main event": "A round object was observed near Montrilie, Ohio, that changed color from red to white and was seen for about 2 minutes.",
+    "interesting points": "The sighting occurred on November 6, 1957, at 11:02 PM,The object was reported to be the size of a basketball,The altitude of the object was estimated to be 1,000 feet or less,The sighting lasted approximately 2 minutes and was observed going west at an estimated speed of 400 knots,The conclusion of the sighting suggests it was likely an aircraft.",
+    "sighted object": "a round object changing color from red to white",
+    "location": "Montrilie, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "S/SGT Hansford F. Ayes, Det-G, 4671 GCS Squadron",
+    "contains photographs": false
 }

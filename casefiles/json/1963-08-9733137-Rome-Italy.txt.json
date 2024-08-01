@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a bluish, halo-like object in front of their car in a straight line in Rome, Italy on July 21, 1963.",
-    "interesting points": [
-        "The object was about the size of the witness's car and did not pass in front of or behind anything.",
-        "The object just appeared as a bright light and then disappeared from observation.",
-        "The sighting lasted for about 30 seconds.",
-        "The Air Force sent the report to their civilian consultant, Dr. J. Allen Hynek, to investigate the possible astronomical or atmospheric phenomena that may have been responsible.",
-        "The Air Force was unable to conclusively solve the sighting based on the information provided."
-    ],
-    "result": "unexplained",
-    "sighted object": "a halo-like, bluish object",
+    "main event": "A witness observed a bluish halo-shaped object, similar in size to a car, while driving in Rome, Italy on July 21, 1963.",
+    "interesting points": "The sighting lasted for about 30 seconds,The object did not pass behind or in front of any other objects,It emitted a bright light and then disappeared from sight,The investigation involved multiple military personnel and correspondence,The object was observed to hover before changing positions quickly.",
+    "sighted object": "a bluish halo-shaped object",
     "location": "Rome, Italy",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as having bright light with no detailed features.",
+    "contains photographs": false
 }

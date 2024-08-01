@@ -1,15 +1,9 @@
 {
-    "main event": "Three irregularly shaped objects were observed moving slowly and changing direction over Grand Cayman Island, West Indies from October 22-25, 1961.",
-    "interesting points": [
-        "The objects were described as irregularly shaped, moving slowly, and changing direction.",
-        "Some observers thought the objects were aircraft, but others disagreed.",
-        "The case was listed as having insufficient data to fully evaluate the sighting.",
-        "The observers likely lacked sufficient knowledge of higher atmospheric phenomena to properly assess the sighting.",
-        "The Air Force requested additional information about the sighting, including the comparative size of the objects, their elevation and azimuth when first and last observed, how long the witnesses observed them, and complete weather data."
-    ],
-    "result": "insufficient data",
+    "main event": "Three irregularly shaped objects were observed over Grand Cayman Island from October 22 to 25, 1961.",
+    "interesting points": "The objects were reported as moving slowly and changing direction., Some observers thought the objects could be aircraft while others disagreed., The weather at the time was described as normal., Observers likely did not have enough knowledge to fully evaluate the sighting., The case was ultimately listed as insufficient data.",
     "sighted object": "three irregularly shaped objects",
     "location": "Grand Cayman Island, West Indies",
-    "witnesses": "multiple observers",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "observers likely lacked sufficient knowledge of higher atmospheric phenomena",
+    "contains photographs": false
 }

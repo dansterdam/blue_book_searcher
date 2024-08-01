@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright meteoric object was sighted near Columbus, Westerville, Ohio on May 29, 1966.",
-    "interesting points": [
-        "The object was observed for 2-3 minutes by 5 civilian witnesses.",
-        "The object was described as appearing solid and metallic or silvery in color.",
-        "The object moved straight towards the northeast direction.",
-        "The object disappeared beyond the trees, but there were no indications it broke up or exploded.",
-        "The sighting coincided with the time and location of a known bright meteor event in the area."
-    ],
-    "result": "Identified as a meteor",
-    "sighted object": "a bright meteoric object",
+    "main event": "A UFO sighting was reported in Westerville, Ohio on 29 May 1966, which was later concluded to be a meteor.",
+    "interesting points": "The sighting lasted for 2-3 minutes,The object was observed moving in a straight path towards the northeast,The observer reported the object having a metallic or silvery color,The report was noted by a civilian source with 5 confirmed witnesses,The study concluded the object was an astronomical event (meteor) rather than a traditional UFO.",
+    "sighted object": "one bright meteoric object",
     "location": "Columbus, Westerville, Ohio",
-    "witnesses": "5 civilian witnesses",
-    "photographs": "none"
+    "number of confirmed witnesses": 5,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

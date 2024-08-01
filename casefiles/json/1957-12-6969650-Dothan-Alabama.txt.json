@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One object the shape and size of a light on an aircraft or radio tower, with a color that changed from red to pink to white and back to red, was observed over Dothan, Alabama.",
-    "interesting points": [
-        "The object moved up and down 50 to 100 feet approximately once per minute.",
-        "The object faded away rapidly to the right at 330 degrees.",
-        "The sighting lasted for approximately 7 minutes.",
-        "A helicopter was also in flight in the area at the time.",
-        "The preparing officer concluded the object was likely the light or exhaust of an aircraft."
-    ],
-    "result": "was aircraft",
-    "sighted object": "light the size and shape of an aircraft light, changing color from red to pink to white and back to red",
-    "location": "Dothan, Alabama",
-    "witnesses": "Major Norman W. Goodwin and Captain George E. Thayer, US Army",
-    "photographs": "no"
+    "main event": "One object was observed in Dothan, Alabama on December 9, 1957, described as a light with various colors.",
+    "interesting points": "The object was a bright red light that faded to pink and white; It was seen from an aircraft flying at 8,000 feet; The sighting lasted approximately 7 minutes; The object was determined to probably be an aircraft light; A helicopter was reported to be in the vicinity at the time of the sighting.",
+    "sighted object": "a bright red light",
+    "location": "Dothan, Alabama, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Major Norman W. Goodwin, Captain George E. Thayer, both from the United States Army Aviation School",
+    "contains photographs": false
 }

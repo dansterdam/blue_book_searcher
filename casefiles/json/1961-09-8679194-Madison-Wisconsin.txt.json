@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two unidentified objects were observed on radar and visually in Madison, Wisconsin on September 21, 1951.",
-    "interesting points": [
-        "The objects appeared to be on a collision course but then veered off.",
-        "The objects were tracked on radar and also observed visually.",
-        "There were no known aircraft in the area at the time.",
-        "The movements of the objects indicated they were under intelligent control.",
-        "The report concludes that the objects were possibly a balloon, aircraft, astronomical object, or there was insufficient information to determine the nature of the objects."
-    ],
-    "result": "Insufficient information",
-    "sighted object": "Two unidentified objects",
-    "location": "Madison, Wisconsin",
-    "witnesses": "Ground-based radar operators and visual observers",
-    "photographs": "No photographs included in the report"
+    "main event": "An unidentified flying object was tracked on radar and visually observed in Madison, Wisconsin on 21 SEP 51.",
+    "interesting points": "The object was observed on ground radar as well as visually from the ground,Objects appeared to be on a collision course before veering off,The movements of the objects indicated they were under intelligent control,No known aircraft were reported in the area at the time of the sighting,The sighting lasted for about 5 minutes.",
+    "sighted object": "one unidentified flying object",
+    "location": "Madison, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "student, aged 26",
+    "contains photographs": false
 }

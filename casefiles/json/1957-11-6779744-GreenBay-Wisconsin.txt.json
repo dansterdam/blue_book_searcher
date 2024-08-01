@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed hovering in Green Bay, Wisconsin on 5-22-52 for 5-10 minutes.",
-    "interesting points": [
-        "The sighting was classified as 'Unknown' due to the object being too difficult to identify.",
-        "The observation was categorized as a visual-ground type.",
-        "No photographs were taken during the 5-10 minute observation period.",
-        "The report is from Project Blue Book, a U.S. Air Force program that investigated UFOs in the 1950s.",
-        "The document includes coded text and abbreviations related to the characteristics and behavior of the observed object."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying object (UFO)",
-    "location": "Green Bay, Wisconsin",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A visual ground observation of an unidentified flying object was reported.",
+    "interesting points": "The sighting occurred on May 22, 1952 at 2052Z., The object was observed for 5 to 10 minutes., Only one object was reported., The object appeared to be hovering., The report does not provide specific details about the object's characteristics.",
+    "sighted object": "unidentified flying object",
+    "location": "Green Bay, Wisconsin, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

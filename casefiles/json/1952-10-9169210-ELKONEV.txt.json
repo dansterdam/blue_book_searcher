@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A yellowish-white disc the size of three Venus planets was sighted by a USAF pilot and 4 civilian observers in Elko, Nevada.",
-    "interesting points": [
-        "The object was blinking and moved rapidly with a bouncing motion.",
-        "The observers did not remain in the area long enough to determine how the object disappeared.",
-        "The object was observed for 5 minutes.",
-        "The object was described as a yellowish-white disc three times the size of the planet Venus.",
-        "Ground-radar and air-visual observations were made of the object."
-    ],
-    "result": "Inconclusive, the report lists several possible explanations including balloon, aircraft, or astronomical object, but states there was insufficient data for evaluation.",
+    "main event": "An unidentified flying object was sighted on 17 October 1952, described as a yellowish-white disc, larger than Venus, observed for about 5 minutes by a USAF pilot and 4 civilians in Elko, Nevada.",
+    "interesting points": "The object was described as blinking and moving rapidly with a bouncing motion., The duration of the observation was approximately 5 minutes., Reports suggested it could be a balloon, aircraft, or astronomical object., The sighting involved credible witnesses, including a USAF pilot and civilians., The observers could not determine the object's manner of disappearance.",
     "sighted object": "a yellowish-white disc",
-    "location": "Elko, Nevada",
-    "witnesses": "USAF pilot and 4 civilian observers",
-    "photographs": "no"
+    "location": "Elko, Nevada, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "USAF pilot and 4 civilians",
+    "contains photographs": false
 }

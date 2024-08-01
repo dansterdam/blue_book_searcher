@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Several Air Force personnel observed a bright orange, dome-shaped object near Wall, South Dakota in 1966.",
-    "interesting points": [
-        "The object was seen to hover just above the ground before disappearing at a very high rate of speed.",
-        "The object was described as being about the size of a baseball held at arm's length.",
-        "Multiple witnesses, including Air Force personnel, observed the object.",
-        "No sound was reported coming from the object.",
-        "The object was visible for approximately 45 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright orange, dome-shaped object",
-    "location": "Near Wall, South Dakota",
-    "witnesses": "Air Force personnel",
-    "photographs": "no"
+    "main event": "Multiple witnesses reported seeing a bright orange, saucer-shaped object hovering before it disappeared at a high rate of speed.",
+    "interesting points": "The object was first noticed coming down from about 80-100 feet off the ground., Witnesses described the object as being the size of a baseball held at arm's length., It emitted a whistling sound but did not produce much noise., The object disappeared over the horizon, heading east., The conditions were partly cloudy and visibility was 15 statute miles.",
+    "sighted object": "saucer-shaped object",
+    "location": "Wall, South Dakota, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "military personnel from Ellsworth AFB",
+    "contains photographs": false
 }

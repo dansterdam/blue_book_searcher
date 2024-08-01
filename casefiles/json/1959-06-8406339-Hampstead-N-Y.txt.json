@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be a blank form titled 'PROJECT 10073 RECORD CARD' used for recording details of a sighting or observation, but it does not contain any information about a specific sighting.",
-    "interesting points": [
-        "The form contains various fields such as 'DATE', 'DATE-TIME GROUP', 'TYPE OF OBSERVATION', 'NUMBER OF OBJECTS', 'COURSE', and 'COMMENTS' where information about a sighting would be recorded.",
-        "The image does not contain any photographs or details about a specific sighting.",
-        "The only text visible in the image is some handwritten notations on the margins of the first page and a single black horizontal line on the second page.",
-        "The form appears to be used for classifying and investigating unidentified flying objects, with options for 'Unidentified', 'Probably Aircraft', 'Insufficient Data', 'Possibly Satellite', 'Possibly Balloon', 'Probably Aircraft', and 'Under Investigation'.",
-        "The report does not provide any information about a specific sighting or observation of a UFO."
-    ],
-    "result": "insufficient data",
-    "sighted object": "None",
-    "location": "None",
-    "witnesses": "None",
-    "photographs": "None"
+    "main event": "The document titled 'PROJECT 10073 RECORD CARD' is a form used for recording details of UFO sightings.",
+    "interesting points": "The form contains various fields for recording relevant sighting details., It includes categories for type of observation like visual and radar., There are options for conclusions about the sighting such as unidentified and possibly satellite., The page includes handwritten notations and is not completely blank., The form does not contain any photographs.",
+    "sighted object": "not specified",
+    "location": "Hampstead, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not applicable",
+    "contains photographs": false
 }

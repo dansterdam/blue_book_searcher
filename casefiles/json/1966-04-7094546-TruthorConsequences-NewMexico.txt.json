@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a large, oval-shaped object hovering and then rapidly ascending and disappearing in Truth or Consequences, New Mexico in 1966.",
-    "interesting points": [
-        "The object was described as being approximately 30 feet long and 10 feet high, and metallic/bright in appearance.",
-        "The object hovered, then began to rise and move at a high rate of speed before going out of sight.",
-        "There was no sound associated with the object.",
-        "The witness had previously filed a more detailed 15-page report on the sighting.",
-        "The Air Force requested additional information from the witness to further evaluate the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, oval-shaped metallic/bright object",
-    "location": "Truth or Consequences, New Mexico",
-    "witnesses": "civilian witness",
-    "photographs": "no"
+    "main event": "A civilian observed one then two unidentified objects in Truth or Consequences, New Mexico on April 16, 1966.",
+    "interesting points": "The primary object was described as being 30 feet long and 10 feet high, The object hovered before rising and moving toward the southeast, The sighting lasted for 15 minutes, The object made no sound during the observation, The observer reported the object to the Air Force, and additional information was provided in a questionnaire.",
+    "sighted object": "one then two oval-shaped unidentified objects",
+    "location": "Truth or Consequences, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, provided detailed account of the sighting.",
+    "contains photographs": false
 }

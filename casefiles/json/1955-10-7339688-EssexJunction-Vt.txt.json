@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO object was observed in the sky over Essex Junction, Vermont on October 19, 1955.",
-    "interesting points": [
-        "The object was initially shaped like a half moon and then changed to a disk shape.",
-        "The object's size was about the size of a pea held at arm's length.",
-        "The object's color changed from a dull orange to blue-white as it diminished in size and disappeared.",
-        "The sighting was witnessed by a member of the 4602nd Air Intelligence Service Squadron.",
-        "The investigator concluded the object was likely a jet aircraft with an afterburner, flying away from the observer."
-    ],
-    "result": "Possibly a jet aircraft",
-    "sighted object": "an unidentified flying object",
-    "location": "Essex Junction, Vermont",
-    "witnesses": "a civilian and a military member",
-    "photographs": "no"
+    "main event": "An object was observed in Essex Junction, VT, on 19 Oct 55, changing shape from a half-moon to a disk.",
+    "interesting points": "The object was first dull orange and then changed to blue-white,The observation lasted 3½ minutes,The shape changed continuously while dimming in size,The object was noted while driving towards home,It attracted attention due to its lack of discernible motion.",
+    "sighted object": "one object shaped like a half moon",
+    "location": "Essex Junction, Vermont, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "male, age 30, electronics technician, National Guard, with prior military service in the Navy",
+    "contains photographs": false
 }

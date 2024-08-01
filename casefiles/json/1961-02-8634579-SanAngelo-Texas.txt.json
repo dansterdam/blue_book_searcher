@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observer reported seeing a bright, stationary object in the sky that suddenly accelerated and disappeared from view near San Angelo, Texas on February 7, 1961.",
-    "interesting points": [
-        "The object appeared to be circular in shape and was emitting a steady, bright light.",
-        "The object remained stationary for several minutes before suddenly accelerating and disappearing.",
-        "The behavior of the object is consistent with reports of unidentified aerial phenomena.",
-        "No other individuals who sighted the object have been discovered so far.",
-        "The report suggests the phenomenon may be attributed to a possible unannounced small satellite similar to Echo 1."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, circular object in the sky",
-    "location": "San Angelo, Texas",
-    "witnesses": "a civilian observer",
-    "photographs": "no"
+    "main event": "On 16 February 1961, a civilian observed a reflective light in the sky over San Angelo, Texas.",
+    "interesting points": "The observation lasted for 15 minutes.,The object was reported to be moving from south to north at about 20-25 feet above the horizon.,The observer noted that the object displayed reflections and was possibly a satellite.,There were no discernible maneuvers performed by the object.,The observer, a petroleum geologist, was deemed reliable and provided accurate information about the phenomenon.",
+    "sighted object": "reflective light in the sky",
+    "location": "San Angelo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, petroleum geologist, age 35",
+    "contains photographs": false
 }

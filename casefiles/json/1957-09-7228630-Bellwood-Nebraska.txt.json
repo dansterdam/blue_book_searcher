@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported in Bellwood, Nebraska on 12 October 1957, with the observation lasting 3-5 minutes. The object was described as being the size of a BB, initially orange-yellow, and then fading to no sound.",
-  "interesting points": [
-    "The sighting involved a ground-radar and air-visual observation, adding credibility to the report.",
-    "The unidentified object was initially perceived as orange-yellow and then faded to no sound, indicating a change in its characteristics.",
-    "The report includes specific details such as the duration of the observation, making it more comprehensive.",
-    "The conclusion stated that the object could possibly be a balloon, aircraft, or astronomical, emphasizing the uncertainty surrounding the sighting.",
-    "The document also mentions the absence of photographs and highlights the insufficient data for proper evaluation."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified object of BB size, initially orange-yellow",
-  "location": "Bellwood, Nebraska",
-  "witnesses": "ground-radar and air-visual observers",
-  "photographs": "no"
+    "main event": "A UFO sighting was reported on 12 October 1957 in Bellwood, Nebraska, involving a single object that gradually faded in color and emitted no sound.",
+    "interesting points": "The sighting lasted for 3-5 minutes,The observed object was described as the size of a BB and had an orangish-yellow color,The report suggests the sighting could be classified as a balloon, aircraft, or astronomical object,There was insufficient information to make a proper evaluation,The location of the sighting was in Bellwood, Nebraska.",
+    "sighted object": "one unidentified flying object",
+    "location": "Bellwood, Nebraska, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "n/a",
+    "contains photographs": false
 }

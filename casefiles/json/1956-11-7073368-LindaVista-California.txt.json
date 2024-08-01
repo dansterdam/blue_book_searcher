@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Two objects, shaped like stars or a dime in size, were observed changing colors between red, green, and white in Linda Vista, California.",
-    "interesting points": [
-        "The objects were observed for 3 to 5 minutes from a person's front yard.",
-        "The objects were observed rising from the person's home.",
-        "The weather conditions were clear and the visibility was unrestricted.",
-        "No further details about the objects' movement or behavior were provided.",
-        "The report indicates that the sighting was still ongoing when the report was filed."
-    ],
-    "result": "unexplained",
-    "sighted object": "two star-like or dime-sized objects changing colors",
-    "location": "Linda Vista, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Two objects resembling stars, observed changing colors over Linda Vista, California on 9 November 1956.",
+    "interesting points": "The objects were the size of a dime and exhibited colors that changed between red, green, and white., The observation was classified as AERO-visual., The length of time the objects were in sight is noted as still being in sight., The report originates from Project Blue Book, an official U.S. Air Force investigation into UFOs., There was insufficient data about the course of the objects.",
+    "sighted object": "two objects resembling stars",
+    "location": "Linda Vista, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian, specific details about witnesses are not provided",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, star-shaped object was observed moving across the sky much faster than Sputnik in Ann Arbor, Michigan on November 20, 1957.",
-    "interesting points": [
-        "The object was the size of the sun and white in color.",
-        "The object faded out like a meteor, but was moving much faster than Sputnik.",
-        "The sighting lasted for 4-5 seconds.",
-        "The University of Michigan observatory director reported a similar sighting on the same night while looking for Sputnik II.",
-        "The observer initially thought the object could not be Sputnik due to its speed and trajectory."
-    ],
-    "result": "Probable meteor",
-    "sighted object": "a bright, star-shaped object",
-    "location": "Ann Arbor, Michigan",
-    "witnesses": "civilian observer, University of Michigan observatory director",
-    "photographs": "no"
+    "main event": "A star-shaped object, the size of the sun, was observed in Ann Arbor, Michigan moving much faster than Sputnik before fading out like a meteor.",
+    "interesting points": "The sighting lasted for 4-5 seconds., The object was determined to be an astronomical meteor by observers., The object was white in color., Witnesses included a director at the University of Michigan Observatory., The sighting occurred on a night with hazy visibility, allowing for moon and stars to be seen.",
+    "sighted object": "one star-shaped object",
+    "location": "Ann Arbor, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Director at University of Michigan Observatory",
+    "contains photographs": false
 }

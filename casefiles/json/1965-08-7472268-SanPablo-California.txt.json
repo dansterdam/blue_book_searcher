@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "A civilian ground observer in San Pablo, California saw a formation of 3 aircraft traveling southeast towards Oakland, moving faster than prop-driven aircraft.",
-    "interesting points": [
-        "The objects moved from San Pablo to the Oakland area within 10 minutes.",
-        "An 8mm movie film of the incident was submitted to the Air Force for analysis.",
-        "The film analysis indicated the image could be classified as a UFO, although a double exposure could not be ruled out.",
-        "The lack of clarity in the film was likely due to movement of the camera and/or the object during exposure.",
-        "The report concludes that although the analysis indicates the image could be a UFO, the conclusion is not definitive due to the lack of clarity in the film."
-    ],
-    "result": "inconclusive",
-    "sighted object": "three aircraft moving faster than prop-driven planes",
-    "location": "San Pablo, California",
-    "witnesses": "civilian ground observer",
-    "photographs": "Yes, 8mm movie film submitted but analysis was inconclusive"
+    "main event": "A civilian observed a formation of three aircraft traveling southeast from San Pablo to Oakland, California, moving faster than prop-driven aircraft.",
+    "interesting points": "The observed objects moved from San Pablo to Oakland in 10 minutes., The sighting involved one confirmed object during the observation., The report indicates there was no photographic evidence present., Physical evidence was acknowledged in the report., The Air Force concluded there was inconclusive data for further evaluation.",
+    "sighted object": "a formation of three aircraft",
+    "location": "San Pablo, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

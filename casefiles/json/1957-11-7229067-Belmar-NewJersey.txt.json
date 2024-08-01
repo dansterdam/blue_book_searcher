@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian in Belmar, New Jersey reported a sighting of an oval object traveling from North to South on November 3, 1957.",
-  "interesting points": [
-    "The report claims that there were photographs present, but the OCR text mentions insufficient information for evaluation.",
-    "The weather details provided indicate the surprise that a Meteorological expert couldn't give an account of the weather during the sighting.",
-    "There are inconsistencies in the observer's report, as he saw the object twice but couldn't provide detailed information.",
-    "The conclusion suggests that the sighting was possibly a balloon, but the insufficient information disclaimer is repeated several times throughout the report.",
-    "The document contains observations from a Meteorological expert and a description of the course of the object from North to South."
-  ],
-  "result": "Possibly Balloon",
-  "sighted object": "Oval object",
-  "location": "Belmar, New Jersey",
-  "witnesses": "Civilian, Mr. [Redacted], GS 9 Meteorological Testing Branch",
-  "photographs": "The report claims 'Yes', but there is inconsistency and insufficient information provided"
+    "main event": "A meteorological expert observed an oval object traveling from North to South on 3 November 1957.",
+    "interesting points": "The observation lasted between 2000Z to 2030Z local time., The object was identified as one, but was classified as insufficient information for evaluation., There were no specific details about the object's size, color, or elevation provided., The expert noted he saw the object twice but could not provide additional information., The report concluded the object might be a balloon or aircraft, but this remains uncertain.",
+    "sighted object": "oval object",
+    "location": "Belmar, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. [Redacted], a meteorological testing branch expert",
+    "contains photographs": false
 }

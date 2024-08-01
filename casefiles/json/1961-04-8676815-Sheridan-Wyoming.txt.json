@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A military personnel and an enlisted man observed a round, silver object near Sheridan, Wyoming that appeared to be rotating, vibrating, and flying at high speed.",
-    "interesting points": [
-        "The object was estimated to be 80-100 feet in diameter and flying at an altitude of 4,000 to 5,000 feet.",
-        "The object appeared to be following or pursuing the car the observers were in, and executed a sweeping arc before returning to the original observation point.",
-        "The object was observed on two separate occasions, suggesting it may have been conducting some form of extended surveillance or monitoring.",
-        "The object accelerated rapidly and disappeared from sight to the west.",
-        "The observers stated the object was unlike any aircraft they had ever seen before."
-    ],
-    "result": "unexplained",
+    "main event": "Two military personnel spotted a round, silver object while driving near Sheridan, Wyoming on April 4, 1961.",
+    "interesting points": "The object was estimated to be about 80-100 feet in diameter and flying at an altitude of 4,000 to 5,000 feet., It was observed to fly at an estimated speed of 500-700 mph., The object executed a sweeping arc and appeared to follow the car of the witnesses., The weather was clear with unlimited visibility during the sighting., The object was described as rotating clockwise and oscillating at times.",
     "sighted object": "a round, silver object",
-    "location": "Near Sheridan, Wyoming",
-    "witnesses": "two military personnel, one officer and one enlisted man",
-    "photographs": "no, the report does not include any photographs"
+    "location": "Sheridan, Wyoming, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two military personnel, one officer and one enlisted man",
+    "contains photographs": false
 }

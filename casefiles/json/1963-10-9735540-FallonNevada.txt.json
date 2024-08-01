@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A round, brilliant silver object was observed at dusk passing in a northwest direction at a very fast speed in Fallon, Nevada.",
-    "interesting points": [
-        "The object appeared to be rising above the horizon and was believed to be Jupiter or possibly a satellite or asteroid.",
-        "A family observed a tail on the object, possibly with two lights at the end of the tail, and described it as three floating balloon-like objects hovering over the location.",
-        "The object was observed for 15 minutes with slow movement to the south, and another light reappeared in the same general location, which was probably a ground visual and seen as a star.",
-        "Binoculars assisted in seeing the tails of the object.",
-        "The object was reported to the control tower at Fallon Naval Air Station, with the object disappearing in two stages - first instantly, and then gradually."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, brilliant silver object",
-    "location": "Fallon, Nevada",
-    "witnesses": "control tower operator, family",
-    "photographs": "no"
+    "main event": "A round brilliant silver object was observed at dusk in Fallon, Nevada, believed to be Jupiter or possibly a satellite or asteroid.",
+    "interesting points": "The sighting lasted for 30 minutes., The object was moving very fast and appeared thin., It was initially believed to be Jupiter., There was a mention of other possible identifications such as an asteroid or satellite., Several reports referred to the object as a bright silver light and it was observed from a control tower.",
+    "sighted object": "round brilliant silver object",
+    "location": "Fallon, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Control tower operator at Fallon NAS",
+    "contains photographs": false
 }

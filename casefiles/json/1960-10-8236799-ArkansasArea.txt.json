@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A balloon rising to 37,000 feet was reported by pilots of a United States Air Force flight.",
-    "interesting points": [
-        "The balloon was illuminated by the rising sun, with its color changing from white to pink and then to orange.",
-        "The balloon was moving at 50-100 knots and then disappeared from view.",
-        "The sighting was also reported by another flight for the same balloon.",
-        "The balloon was reported for the same time period.",
-        "The sighting was considered possibly a balloon, possibly an aircraft, or possibly an astronomical phenomenon."
-    ],
-    "result": "Possibly Balloon, Possibly Aircraft, Possibly Astronomical",
-    "sighted object": "a balloon",
-    "location": "Arkansas Area",
-    "witnesses": "pilots of a United States Air Force flight",
-    "photographs": "no"
+    "main event": "An unidentified aerial object was sighted over Miles City, Arkansas, with reports from several witnesses describing it as oval-shaped and silvery, moving rapidly across the sky.",
+    "interesting points": "The object was reported as being about the size of a car., The witnesses included Mr. and Mrs. Homan and a police officer who briefly observed the object., The object glided silently and had no visible means of propulsion., The object was observed for about two minutes before disappearing from view., Multiple residents reported sightings of strange objects across the city during the same time frame.",
+    "sighted object": "oval-shaped silver object",
+    "location": "Miles City, Arkansas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mr. and Mrs. Homan, local residents, and Patrolman Dave Kiley.",
+    "contains photographs": false
 }

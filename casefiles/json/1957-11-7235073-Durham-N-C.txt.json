@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A circular, silvery object was sighted about 600 feet above the ground in Durham, North Carolina on November 6, 1957.",
-    "interesting points": [
-        "The object appeared to be the size of a basketball at arm's length and was very bright.",
-        "The object hovered and then moved off toward the northeast at a high rate of speed, disappearing from view in about 2 minutes.",
-        "The object made a 90-degree turn, changing course from slightly south of west to north.",
-        "The object was reported to be larger than a conventional aircraft.",
-        "The sighting lasted for approximately 2 minutes."
-    ],
-    "result": "Unidentified",
-    "sighted object": "Circular, silvery object",
-    "location": "Durham, N.C.",
-    "witnesses": "Civilian",
-    "photographs": "No photographs available"
+    "main event": "On November 6, 1957, an oblong object was sighted hovering and rotating at an altitude of approximately 1,000 feet in Durham, N.C.",
+    "interesting points": "The object was the size of a baseball and had a bright light on the front., The sighting lasted for 3 minutes., An additional circular silvery object was reported about 600 feet above the ground, seen moving toward the northeast., The second object appeared to hover before quickly disappearing., Both sightings concluded with possible explanations including a balloon or aircraft.",
+    "sighted object": "oblong object with a bright light and a circular silvery object",
+    "location": "Durham, N. C., USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the sighting involved visual observations only",
+    "contains photographs": false
 }

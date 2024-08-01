@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An oblong object with a tail, also described as a ball bat, yellow or orange in color, was observed. The object seemed to separate at times and appeared to hit the ground in the northwest direction.",
-    "interesting points": [
-        "The object was observed by a witness who was driving west on Page Blvd in the 1800 block of St. Louis, Missouri.",
-        "The witness reported that the object appeared to hit the ground in the northwest direction and that there were sparks before it blacked out behind a building.",
-        "The sighting lasted for 6 to 3 seconds.",
-        "A check was made, and it was found that a meteor had fallen west-northwest of St. Louis, Missouri.",
-        "The report includes details about the witness, such as their occupation as a druggist and their phone number."
-    ],
-    "result": "Probably Balloon",
-    "sighted object": "oblong object with a tail, also described as a ball bat, yellow or orange in color",
-    "location": "1800 block of Page Blvd, St. Louis, Missouri",
-    "witnesses": "1 witness, a druggist",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "An oblong object with a tail, resembling a baseball bat, was observed in the sky and appeared to hit the ground in a northwest direction.",
+    "interesting points": "The object was yellow or orange in color.,The observer's wife noticed the object first and called for them to look.,The object seemed to separate at times during observation.,The sighting lasted between 6 to 3 seconds.,A check revealed that a meteor had fallen west-northwest of St. Louis, Missouri.",
+    "sighted object": "oblong object with a tail",
+    "location": "St. Louis, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was driving west on Page Boulevard when they observed the object.",
+    "contains photographs": true
 }

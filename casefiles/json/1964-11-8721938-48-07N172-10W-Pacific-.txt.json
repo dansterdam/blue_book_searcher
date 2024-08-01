@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A possible satellite (Echo II) was observed in the Pacific at 48.07N 172.10W.",
-    "interesting points": [
-        "The object appeared as bright as a 1st magnitude star and was initially observed at 10 degrees elevation, descending to the horizon.",
-        "The object faded at an azimuth of 110 degrees.",
-        "The report mentions that a satellite (Echo I) was observed in the area at the time, heading southeast in a straight and steady course.",
-        "The report concludes that the observed object was likely the Echo II satellite.",
-        "The observation lasted for 10 minutes."
-    ],
-    "result": "Satellite (Echo II)",
-    "sighted object": "A bright object in the sky",
-    "location": "Pacific, 48.07N 172.10W",
-    "witnesses": "Military",
-    "photographs": "None"
+    "main event": "A military report noted the observation of one unidentified flying object, potentially a satellite, on 18 November 1964.",
+    "interesting points": "The object was bright, comparable to a first magnitude star., Initial observation at an elevation of 10 degrees, which descended to the horizon., The observation lasted for about 10 minutes., The object was believed to be reflecting off the Echo II satellite., At 110 degrees azimuth, the object faded from view.",
+    "sighted object": "one unidentified flying object, possibly a satellite",
+    "location": "48.07N 172.10W, Pacific",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military source; no specific witnesses mentioned",
+    "contains photographs": false
 }

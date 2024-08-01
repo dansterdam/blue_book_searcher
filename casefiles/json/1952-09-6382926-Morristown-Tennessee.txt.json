@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A farmer in Morristown, Tennessee spotted several unidentified objects in the sky in 1952.",
-    "interesting points": [
-        "The objects alternated between slow and rapid speeds.",
-        "The objects were sighted by 10 or more people over several minutes.",
-        "The objects were estimated to be traveling at 500-1000 mph or higher.",
-        "The objects made no sound and had very erratic, impossible-to-describe flight paths.",
-        "The observer felt the objects were completely unfamiliar and different from any conventional aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified objects in the sky",
-    "location": "Morristown, Tennessee",
-    "witnesses": "over 10 local residents",
-    "photographs": "no photographs included in the report"
+    "main event": "Witnesses observed a blue to red light moving slowly back and forth in the sky in Greenville, Tennessee.",
+    "interesting points": "The sighting lasted for approximately 1 hour., The observation was recorded at night around 7:30 P.M., Witnesses described the light as alternating between blue and red colors., There is no photographic evidence of the sighting as per the report., The sighting was part of a Project Blue Book investigation which aimed to document and analyze UFO sightings.",
+    "sighted object": "A blue to red light in the sky",
+    "location": "Greenville, Tennessee, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witness details provided.",
+    "contains photographs": false
 }

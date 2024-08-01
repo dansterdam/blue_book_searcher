@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A pilot and security guard at Johnson Air Base in Japan observed an unidentified object in the sky at dawn on November 14, 1957.",
-    "interesting points": [
-        "The object was shaped like a fountain pen, with cylindrical ends tapering to a dull point.",
-        "The object emitted a pale yellow or white light similar to moonlight during the day.",
-        "The object hovered for about 2 minutes before rapidly climbing and disappearing from sight in 10-13 seconds.",
-        "The object left a long, thin trail in the sky as it climbed away.",
-        "The sighting was reported to base officials and investigated, but the object was ultimately determined to likely be a weather balloon or cloud formation."
-    ],
-    "result": "probably balloon or cloud formation",
-    "sighted object": "cylindrical, fountain pen-shaped object with pale yellow/white glow",
+    "main event": "At approximately 0615 on November 14, 1957, observers at Johnson Air Base in Japan reported seeing an object shaped like a fountain pen with a long thin tail, hovering in the sky before climbing out of sight.",
+    "interesting points": "The object was compared in size to a 9 inch pencil,Observers had an initial impression that it might be a cloud due to light reflection,, Estimates suggest it was at a pitch angle of 60 degrees during its ascent,The weather was clear with scattered clouds at the time of observation,Observers reported that the object left a visible trail which quickly dissipated.",
+    "sighted object": "an object shaped like a fountain pen",
     "location": "Johnson Air Base, Japan",
-    "witnesses": "pilot and security guard",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "Air Police officers, one was a desk sergeant and the other was an airman.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, silver-colored object was seen passing over the horizon in the western sky near Farmington, Wisconsin.",
-    "interesting points": [
-        "The object was described as traveling at a high rate of speed.",
-        "Military personnel on the scene reported watching the object until it disappeared.",
-        "Observers at a nearby Air Force station also noticed an object in the general direction of the initial sighting, describing it as appearing bigger than a star and silver in color.",
-        "The object was observed for about 20 minutes before it disappeared.",
-        "No unusual sightings were observed on the station's search, height finder, and gap filler radars."
-    ],
-    "result": "probable (negative)",
-    "sighted object": "round, silver-colored object",
-    "location": "Farmington, Wisconsin",
-    "witnesses": "civilian observers, military personnel",
-    "photographs": "none"
+    "main event": "Various observers watched a round shaped silver-colored object pass over the horizon in the western sky.",
+    "interesting points": "The object appeared to be traveling at a high rate of speed., Military personnel on the scene reported watching the object until it disappeared., It was described as being 20 yards in diameter., Observers noted inside lights observed on the object., The sighting lasted for about 20 minutes before the object disappeared.",
+    "sighted object": "round silver-colored object",
+    "location": "Farmington, Wisconsin, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilian, 36 years old, carpenter; military personnel; husband-wife, farmer.",
+    "contains photographs": false
 }

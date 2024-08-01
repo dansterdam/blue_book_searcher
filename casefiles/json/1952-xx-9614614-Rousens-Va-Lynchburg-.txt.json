@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified silver, round object with no exhaust was sighted over Lynchburg, Virginia, traveling at a very high altitude and speed towards Madison Heights.",
-    "interesting points": [
-        "The object was observed visually from the ground at an angle at 1444Z on June 19, 1952.",
-        "The weather at the time was clear with 30 miles visibility and some cirro-cumulus clouds, but there were no meteorological conditions that could have accounted for the sighting.",
-        "Mr. Reeves, who was at the Virginia Episcopal School when the object was sighted, had ordnance and anti-aircraft experience from WWII.",
-        "Piedmont Airlines flight 30 was over Lynchburg at the time but did not report the sighting.",
-        "Langley AFB sent a fighter-type aircraft to the vicinity to investigate, but the pilot could not find anything."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, silver object with no exhaust",
-    "location": "Lynchburg, Virginia",
-    "witnesses": "multiple witnesses, including Mr. Reeves from the Virginia Episcopal School",
-    "photographs": "no photographs present in the document"
+    "main event": "An unidentified round silver object was sighted over Lynchburg, Virginia on June 19, 1952.",
+    "interesting points": "The object was reported to have no exhaust trail and was moving at a very high altitude and speed towards Madison Heights,The sighting occurred at 1444Z, coinciding with a balloon release earlier that day,Multiple reports were made by witnesses including someone with WWII anti-aircraft experience, Piedmont Airline Flight 30 was in the vicinity but did not report seeing the object, Langley AFB sent a fighter aircraft for reconnaissance after receiving the sighting report.",
+    "sighted object": "unidentified round silver object",
+    "location": "Lynchburg, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. [REDACTED], who was at the Virginia Episcopal School and had anti-aircraft experience in WWII.",
+    "contains photographs": false
 }

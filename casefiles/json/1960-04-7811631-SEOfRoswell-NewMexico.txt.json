@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground-visual sighting of an unidentified object near Roswell, New Mexico in 1950.",
-    "interesting points": [
-        "The object was described as 3 times bigger than Venus with a tall silhouette shape, moving silently across the horizon in 3 seconds.",
-        "The object had a 'craft-type appearance' and 'appeared to be ascending at a fast rate'.",
-        "There was reported radio interference and approximately 6 white-orange lights of thirty degrees elevation.",
-        "The investigating officer concluded the object was a genuine unidentified flying object (UFO) exhibiting characteristics not attributable to any known aircraft or meteorological phenomena.",
-        "The report mentions a 'joint messageform' and communications between Air Force facilities regarding the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "An elongated, metallic appearing object about 40 feet long, giving off a bright glow",
-    "location": "Near Roswell, New Mexico",
-    "witnesses": "LEONARD W. ELLIOTT, a civilian observer",
-    "photographs": "no, the report does not mention any photographs"
+    "main event": "A UFO was observed on April 7, 1950, moving silently across the horizon in a tall silhouette shape.",
+    "interesting points": "The object was reported to be three times bigger than Venus,The sighting lasted only 3 seconds,It was described as having a craft-type appearance,Radio interference was noted during the observation,The conclusion of the sighting was that it was likely a balloon.",
+    "sighted object": "an object with a tall silhouette shape",
+    "location": "Unknown City, Unknown Region, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

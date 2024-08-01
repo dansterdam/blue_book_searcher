@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was observed over Finland for 10 minutes on February 12, 1961.",
-    "interesting points": [
-        "The object was described as having a size or shape of a round plate with edges that were not sharply defined.",
-        "The object exhibited some fluctuation of light and disappeared from sight in the middle of its path of travel.",
-        "The report includes observations from four Finnish planes in various parts of Finland, all of which were flying above cloud formations.",
-        "The object appeared suddenly and could not have gone into the vision field behind the clouds, indicating it was not a natural phenomenon.",
-        "The object moved towards the north at an altitude of 20-30 degrees above the horizon, and was observed by multiple pilots in different directions, suggesting it was not a stable object or movement."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round plate-shaped object with fluctuating light",
+    "main event": "An unidentified object resembling a round plate was observed over Finland on 12 February 1961.",
+    "interesting points": "The object exhibited some fluctuation of light during the observation.,It was described as having edges that were not sharply defined.,The sighting lasted for a total of 10 minutes.,The object disappeared from sight while in the middle of its path of travel.,Conclusions suggest the object may have been an astronomical phenomenon but could not be definitively evaluated.",
+    "sighted object": "round plate-shaped object",
     "location": "Finland",
-    "witnesses": "pilots of four Finnish planes",
-    "photographs": "no photographs included"
+    "number of confirmed witnesses": 4,
+    "witness description": "Pilots from four Finnish planes flying above cloud formation.",
+    "contains photographs": false
 }

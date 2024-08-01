@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of an unidentified, possibly missile-like object traveling at high speed from Pepperell AFB to Thule, Greenland, observed for 7-8 minutes in September 1953.",
-    "interesting points": [
-        "The object was observed visually for a significant duration of 7-8 minutes, indicating a sustained sighting.",
-        "The conclusion of the report suggests that the object was possibly a missile, but it remains classified as unidentified.",
-        "The sighting was reported by Lt. Daily from Pepperell AFB, Newfoundland.",
-        "No photographs or physical evidence were obtained during the observation.",
-        "The intelligence officers advised that the sighting was probably not caused by weather or astronomical phenomena."
-    ],
-    "result": "unidentified",
-    "sighted object": "unidentified, possibly missile-like object",
-    "location": "Pepperell AFB, Newfoundland, to Thule, Greenland",
-    "witnesses": "Lt. Daily",
-    "photographs": "no"
+    "main event": "An unidentified object, possibly a missile, was observed traveling from Pepperell AFB towards Thule, Greenland on 9 September 1953.",
+    "interesting points": "The object was visually observed for 7-8 minutes,The object traveled at a high rate of speed,The sighting occurred at night time at 2100 hours,The course of the object was west,There were no photographs or physical evidence found.",
+    "sighted object": "a long missile-like object",
+    "location": "Thule, Greenland",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt. Daily",
+    "contains photographs": false
 }

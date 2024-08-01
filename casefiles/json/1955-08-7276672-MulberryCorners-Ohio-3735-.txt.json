@@ -1,15 +1,9 @@
 {
-    "main event": "The report consists of multiple pages from Project Blue Book, including photographs and accompanying text from locations in Ohio, Connecticut, and 'The Donohue Sighting'.",
-    "interesting points": [
-        "The report includes diagrams and labeled photographs of landscapes from the locations in Ohio and Connecticut.",
-        "The mention of 'THE DONOHUE SIGHTING' creates intrigue and suggests a separate significant event or sighting.",
-        "The documents are dated, providing specific dates for the sightings and investigations.",
-        "The presence of 2 photos at each location indicates visual evidence was captured.",
-        "The use of text and diagrams alongside photographs shows thorough documentation and analysis."
-    ],
-    "result": "unexplained",
+    "main event": "UFO sightings reported in Mulberry Corners, Ohio and Old Greenwich, Connecticut in 1955.",
+    "interesting points": "The report is part of Project Blue Book, a U.S. Air Force program investigating UFOs., There are two distinct files documented for separate sightings on different dates. The first report is from August 29, 1955, and includes photographs and diagrams., The text includes references to 'GROUND SPEED' and 'HIGH GROUND', suggesting detailed observational notes., The sighting from Old Greenwich also reports two photographs but lacks detailed descriptions., The document includes a section referred to as 'THE DONOHUE SIGHTING', indicating specific witnesses or accounts.",
     "sighted object": "unidentified flying objects",
-    "location": "Mulberry Corners, Ohio and Old Greenwich, Connecticut",
-    "witnesses": "unspecified",
-    "photographs": "yes"
+    "location": "Mulberry Corners, Ohio, USA; Old Greenwich, Connecticut, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not provided",
+    "contains photographs": false
 }

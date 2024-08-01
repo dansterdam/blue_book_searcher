@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A civilian witness spotted a bright, circular light in the sky traveling in a southeasterly direction near Leadville, Colorado on June 4, 1960.",
-    "interesting points": [
-        "The object was observed for approximately 5 seconds.",
-        "The report includes a black-and-white photograph depicting a landscape with a streak of light or cloud-like formation in the sky.",
-        "The document states that there is 1 photo associated with this case, though the provided image does not contain any photographs.",
-        "The sighting occurred approximately 5 miles southeast of Leadville, Colorado on US Highway 24.",
-        "The report was filed on the same day as the sighting, June 6, 1960."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian witness reported seeing a bright, circular light in the sky in Leadville, Colorado on June 4, 1960.",
+    "interesting points": "The object was traveling in a southeasterly direction and disappeared behind a mountain ridge.,The sighting lasted for approximately 5 seconds.,The report includes one associated photograph depicting a landscape with a streak of light in the sky.,The sighting was reported on the same day as the event occurred.,The document is part of Project Blue Book.",
     "sighted object": "a bright, circular light in the sky",
-    "location": "Leadville, Colorado",
-    "witnesses": "civilian witness",
-    "photographs": "yes, the report includes 1 photograph, though it is not provided in the given text"
+    "location": "Leadville, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian witness",
+    "contains photographs": true
 }

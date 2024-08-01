@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported in Manston, England on July 6, 1954, by a reliable source with considerable flying experience.",
-  "interesting points": [
-    "The sighting lasted 6-8 seconds and involved one white object seen through the window of an aircraft.",
-    "The object ascended almost vertically until it disappeared at an extremely high speed, making it too fast to follow.",
-    "The observer is considered a reliable source with a considerable flying experience.",
-    "The local meteorological station reported neither the presence of unusual weather phenomena nor the release of weather balloons that could have been mistaken for a flying object.",
-    "The report concludes that there is insufficient information to offer an explanation that would preclude considerable doubt."
-  ],
-  "result": "unexplained",
-  "sighted object": "one white object",
-  "location": "Manston, England",
-  "witnesses": "reliable source with considerable flying experience",
-  "photographs": "no"
+    "main event": "A visual observation of a white blob object occurred on July 6, 1954, in Manston, England.",
+    "interesting points": "The sighting lasted for 6-8 seconds., The object appeared to be moving upwards at a very high speed., The observer was considered a reliable source with considerable flying experience., The local meteorological station found no unusual weather phenomena at the time., The report concluded there was insufficient data for analysis.",
+    "sighted object": "white blob object",
+    "location": "Manston, England",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer is a navigator with considerable flying experience.",
+    "contains photographs": false
 }

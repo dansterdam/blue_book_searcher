@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian observer spotted a flat, round, pale blue object the size of a grapefruit at Brookley AFB, Alabama in November 1953.",
-    "interesting points": [
-        "The object flew straight and level, with no maneuvers or rapid movements.",
-        "The object was first sighted at an elevation of around 75 degrees and an azimuth of 95 degrees, then disappeared at an elevation of around 45 degrees and an azimuth of 275 degrees.",
-        "The sighting lasted for approximately 20 minutes.",
-        "The weather conditions were recorded, including wind direction, velocity, and temperature at various altitudes.",
-        "The observer stated the object appeared to be the planet Jupiter, but no other information was available."
-    ],
-    "result": "astronomical",
-    "sighted object": "a flat, round, pale blue object",
-    "location": "Brookley AFB, Alabama",
-    "witnesses": "civilian observers",
-    "photographs": "no"
+    "main event": "A civilian observer reported sighting a flat, round object resembling the planet Jupiter at Brookley AFB, Alabama.",
+    "interesting points": "The object was observed for approximately 20 minutes,The sighting occurred at dawn with a clear sky,The object showed no rapid movement or maneuvers,The observer believed it to be a star,The observation angle was approximately 70 to 75 degrees elevation.",
+    "sighted object": "one flat, round object",
+    "location": "Brookley AFB, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer at Brookley AFB",
+    "contains photographs": false
 }

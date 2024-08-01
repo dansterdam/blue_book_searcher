@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observer reported seeing an unidentified flying object over Greenville, Maine on August 10, 1962.",
-    "interesting points": [
-        "The object was not distinguishable in shape from the surrounding stars and appeared as a yellowish-white, unsblinking reflective light, slightly less intense than the brightest stars.",
-        "The object was observed to move at very high speeds, stopping or slowing down at times, and following a course of 360 degrees true without deviation.",
-        "The observer was hesitant to estimate the size of the object, but said it approximated a baseball at arm's length.",
-        "No tail, trail, or exhaust was observed.",
-        "The object was visible for about 30 seconds, moving from the southern sky to directly overhead, before the observer ran indoors and lost sight of it."
-    ],
-    "result": "Likely a routine exercise of low-altitude interception by Air Force interceptors or a refueling operation, based on the investigation and interviews conducted.",
-    "sighted object": "unidentified flying object",
-    "location": "Greenville, Maine",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian observer in Greenville, Maine reported seeing an unidentified flying object in the sky on August 10, 1962.",
+    "interesting points": "The object was described as having a yellowish-white light and moving at very high speeds., The object appeared to be smaller than a baseball at arm's length., The observer noted that the object stopped or slowed down, but he did not witness its disappearance., The observation lasted for about 30 seconds, during which it moved from the southern sky to directly overhead., Subsequent investigations suggested it was likely related to military exercises in the area during that time.",
+    "sighted object": "unidentified flying object with yellowish-white light",
+    "location": "Greenville, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer with past experience as a civilian pilot",
+    "contains photographs": false
 }

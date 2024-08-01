@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Several residents in Baltimore, Maryland observed a metallic, circular, spinning, green-white lighted humming craft on the night of November 10, 1961.",
-    "interesting points": [
-        "The object was observed approaching and passing overhead at high speed, followed by a sudden stop and then very rapid forward movement before disappearing from sight.",
-        "The object was moving in an erratic manner.",
-        "A photograph was taken of a saucer-shaped object in the sky in Lihue, Hawaii on November 21, 1961.",
-        "The report states the photograph shows two images taken almost instantaneously.",
-        "An unidentified flying object with a 'cigar' shape was seen near Chadron, Nebraska on November 15, 1961, which released a fine, cobweb-like substance as it passed overhead."
-    ],
-    "result": "unexplained",
-    "sighted object": "metallic, circular, spinning, green-white lighted humming craft; saucer-shaped object; cigar-shaped object",
-    "location": "Baltimore, Maryland; Lihue, Hawaii; Chadron, Nebraska",
-    "witnesses": "several residents; Mrs. Arla; unspecified witnesses",
-    "photographs": "yes, one photograph from Lihue, Hawaii"
+    "main event": "Two objects appeared out of haze descending into the horizon, while a third object remained stationary.",
+    "interesting points": "The observation lasted for about 10 minutes,The sighting included three objects in total,The report states limited information with insufficient data for evaluation,The observation was documented by military personnel,The objects were observed in the Pacific region.",
+    "sighted object": "two descending objects and one stationary object",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 3,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

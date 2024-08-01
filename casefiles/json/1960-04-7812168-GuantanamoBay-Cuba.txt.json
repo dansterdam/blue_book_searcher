@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO documents:
-
 {
-    "main event": "A possible reflection of a light on a window was captured in a photograph taken from a plane window over Guantanamo Bay, Cuba in 1960.",
-    "interesting points": [
-        "The photograph was taken by a U.S. soldier using a Zeiss Ikoflex 35mm camera at a speed of 1/500th of a second between 1000 and 1200 hours.",
-        "The soldier who took the photo did not notice the disc-shaped object which appears in the upper left of the picture.",
-        "Analysis of the photograph indicated that the object was likely a reflection on the window from a light hanging from the ceiling inside the plane.",
-        "The photograph was forwarded to the Air Force for further evaluation and analysis.",
-        "The case file also includes a 35mm color slide and movie film, but the analysis found nothing unusual about them."
-    ],
-    "result": "explainable",
-    "sighted object": "a reflection on a window",
+    "main event": "A U.S. soldier observed a disc-shaped object while photographing in Guantanamo Bay, Cuba on April 21, 1960.",
+    "interesting points": "The observation involved air-radar detection of a single object., The photograph was initially believed to show a UFO but was later determined to be a reflection from a light inside the building., Analysis indicated that the object was likely a reflection on the window rather than an actual unidentified flying object., The photograph was taken with a Zeiss Ikoflex camera at a speed of 1/500th of a second., No recognized human faces were present in the photographs or documents related to the incident.",
+    "sighted object": "disc-shaped object",
     "location": "Guantanamo Bay, Cuba",
-    "witnesses": "a U.S. soldier",
-    "photographs": "yes, the report includes photographs and a color slide"
+    "number of confirmed witnesses": 1,
+    "witness description": "U.S. soldier who took the photograph",
+    "contains photographs": false
 }

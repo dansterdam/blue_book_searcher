@@ -1,15 +1,9 @@
 {
-    "main event": "On September 3, 1953, in Modesto, California, a newspaper photographer and a news reporter observed a yellowish-white light in the sky around 7:45 p.m. The light seemed stationary and disappeared after about four hours.",
-    "interesting points": [
-        "The light appeared to be about one degree above the horizon in the direction of the Modesto Airport, and the witnesses initially believed it to be an aircraft with landing lights on.",
-        "The news photographer set up his camera on the newspaper building's roof but noticed the elliptical light in the photograph, which was unexplained, and contacted Castle Air Force Base for further inquiry.",
-        "The exposure settings used for the photograph were specified as f22 with unattended exposure for opening and closing the shutter, and it was developed on the same day.",
-        "A different report indicated an investigation of an unidentified elliptical shape sighted over Modesto, and there was a description of a light with a distinct reddish-orange color that appeared brighter than a star and had a pulsing effect.",
-        "Another observation by civil defense ground observers suggested the presence of a small aircraft with landing light on, flying the traffic pattern at Modesto Airport, based on their statements and the location of the runway relative to the observers."
-    ],
-    "result": "unexplained",
-    "sighted object": "yellowish-white light in the sky",
-    "location": "Modesto, California",
-    "witnesses": "newspaper photographer, news reporter, police officers",
-    "photographs": "yes, the report includes photographs"
+    "main event": "On September 3, 1953, a newspaper photographer and a news reporter observed a yellowish-white light in the sky in Modesto, California.",
+    "interesting points": "The light appeared to be about one degree above the horizon in the direction of Modesto Airport., The light remained stationary as the observers drove a distance away., The photographer used a Speed Graphic camera with a long exposure to capture the light., Local radar operators did not detect any unidentified targets during the observation., It was the opinion of the investigating officer that the light was likely the flash of a landing light from an aircraft.",
+    "sighted object": "yellowish-white light",
+    "location": "Modesto, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "newspaper photographer and news reporter",
+    "contains photographs": false
 }

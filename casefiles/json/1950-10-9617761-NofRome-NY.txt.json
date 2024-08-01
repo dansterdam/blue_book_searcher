@@ -1,15 +1,9 @@
 {
-    "main event": "A luminous flash was observed by flying officers over Rome, New York on May 23, 1950.",
-    "interesting points": [
-        "The flash was observed to travel at an extremely fast speed, estimated to be 3-5 miles in altitude, and last for 2-3 seconds.",
-        "The flash was observed to travel in a straight path from west to east with no change in motion.",
-        "The sighting was reported to higher authorities and investigated as part of Project Blue Book, the U.S. Air Force's study of unidentified aerial phenomena.",
-        "The sighting was later confirmed to be a meteor by several sources.",
-        "The report mentions other similar sightings in the northeastern United States and Canada on November 2, 1950, which were also investigated as part of Project Blue Book."
-    ],
-    "result": "confirmed as a meteor",
+    "main event": "On 23 May 1950, Flying Officers observed a luminous flash over Rome, N.Y.",
+    "interesting points": "The object was noted for its extremely fast speed,The flash lasted for approximately 2-3 seconds,The direction of the flash was from West to East,The altitude of the observed object was between 3 to 5 miles,There was no change in motion as the flash followed a straight path.",
     "sighted object": "luminous flash",
-    "location": "Rome, NY",
-    "witnesses": "flying officers",
-    "photographs": "no"
+    "location": "Rome, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Flying Officers",
+    "contains photographs": false
 }

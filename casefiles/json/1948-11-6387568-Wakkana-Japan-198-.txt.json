@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified aircraft was detected at Wakkanai, Japan on November 6th, 1948. It circled continuously for one hour and five minutes above a radar site, and it was evaluated as a Soviet aircraft conducting an electronic reconnaissance mission.",
-  "interesting points": [
-    "The target aircraft appeared in the ground clutter area during the entire period of observation and was not observed visually at any time.",
-    "At times, the target appeared as two aircraft and at other times as a single aircraft, giving the impression of two fighter craft dog-fighting.",
-    "The unidentified aircraft circled continuously for one hour and five minutes, indicating a clandestine mission or intentional reconnaissance activity.",
-    "The weather conditions precluded visual observation, and no authorized aircraft was in the vicinity during the sighting.",
-    "The speed of the target was computed to be 240 MPH, and the size of the blip on the radar scope was normal for an aircraft, leading to the evaluation as a Soviet aircraft."
-  ],
-  "result": "Probable Soviet aircraft conducting reconnaissance",
-  "sighted object": "Unidentified aircraft",
-  "location": "Wakkanai, Japan",
-  "witnesses": "Radar Operator",
-  "photographs": "No photographs available"
+    "main event": "A radar operator at Wakkanai, Japan detected an unidentified aircraft on 6 November 1948, estimated to have circled the radar site for one hour and five minutes.",
+    "interesting points": "The radar blip occasionally appeared as two aircraft dogfighting,The object was evaluated as a Soviet aircraft conducting electronic reconnaissance,No visual observations were made due to poor weather conditions,The aircraft was detected moving at speeds varying from 160 to 240 miles per hour,The incident lasted for 65 minutes while the radar operator monitored the target.",
+    "sighted object": "unidentified aircraft on radar",
+    "location": "Wakkanai, Hokkaido, Japan",
+    "number of confirmed witnesses": 1,
+    "witness description": "radar operator",
+    "contains photographs": false
 }

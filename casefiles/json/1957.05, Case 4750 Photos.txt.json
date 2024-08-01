@@ -1,15 +1,9 @@
 {
-    "main event": "A bright object was observed moving across the sky in Danville, Ohio on May 30, 1957.",
-    "interesting points": [
-        "The object was described as a bright, oval-shaped object with flashing lights.",
-        "The object moved slowly across the sky from west to east.",
-        "The sighting lasted for about 10 minutes.",
-        "The witnesses were a young husband and wife.",
-        "No further investigation was warranted, and the case was classified as 'UNIDENTIFIED'."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, oval-shaped object with flashing lights",
-    "location": "Danville, Ohio",
-    "witnesses": "a young husband and wife",
-    "photographs": "none"
+    "main event": "Five observers reported seeing a bright cylindrical object in the sky on May 7, 1957, tracked by radar in Cleveland, Ohio.",
+    "interesting points": "The object was tracked on radar at an estimated speed exceeding 1,000 mph., The object executed abrupt turns and maneuvers, disappearing and reappearing during observation., The object was metallic and cylindrical in appearance., Radar operators were unable to obtain a lock on the object but tracked its general path., No definitive conclusions were drawn, and the case was classified as 'UNKNOWN.'",
+    "sighted object": "bright cylindrical object",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "observers who tracked the object using radar",
+    "contains photographs": false
 }

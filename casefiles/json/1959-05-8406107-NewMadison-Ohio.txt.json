@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A radar operator at New Madison, Ohio detected an unidentified target on the radar scope on May 30, 1952.",
-    "interesting points": [
-        "The unidentified target was first detected 15 miles away and proceeded to close in on the station at a steady rate of speed.",
-        "When the target reached a distance of 5 miles, the radar operator alerted the duty officer, who watched the target on the scope for several minutes.",
-        "The target then suddenly accelerated and disappeared off the scope.",
-        "No known aircraft were in the area at the time.",
-        "The Air Force continued its investigation of the incident, but no explanation was found for the unidentified target."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified target on radar",
-    "location": "New Madison, Ohio",
-    "witnesses": "radar operator, duty officer",
-    "photographs": "none"
+    "main event": "A radar operator in New Madison, Ohio, detected an unidentified target that accelerated and disappeared off the radar on May 30, 1952.",
+    "interesting points": "The target was first picked up at a distance of 15 miles and approached the station steadily before disappearing., The radar operator and duty officer are considered reliable observers., No known aircraft were reported in the area at the time., An additional letter from a witness reported seeing a strange glowing object in the sky on May 19, 1959., The letter described the object as appearing like a moon behind a cloud with a strange glow.",
+    "sighted object": "unidentified target on radar and a glowing object in the sky",
+    "location": "New Madison, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "radar operator and duty officer, and a citizen who reported a sighting",
+    "contains photographs": false
 }

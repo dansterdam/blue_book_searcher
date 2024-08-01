@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report text:
-
 {
-    "main event": "An unidentified white, round object with the brightness of a second magnitude star was observed in the sky over the Pacific Ocean.",
-    "interesting points": [
-        "The object was spotted at an altitude of 40 degrees, traveling from north to south.",
-        "The object faded from view as it reached an altitude of 32 degrees.",
-        "The observation lasted approximately 4 minutes, from 07:23Z to 07:27Z.",
-        "The object was observed by 4 people.",
-        "The observation was made at the coordinates 49-58N 171-02W."
-    ],
-    "result": "unknown",
-    "sighted object": "a possible satellite, white in color, round in shape, with the brightness of a second magnitude star",
-    "location": "Pacific Ocean, 49-58N 171-02W",
-    "witnesses": "4 people",
-    "photographs": "none"
+    "main event": "An unidentified object was observed by military sources over the Pacific Ocean on 4 November 1964.",
+    "interesting points": "The object was identified as ECHO II traveling SE at 70 deg North, 166 deg East at the time of observation,The observation lasted for 4 minutes,The object was characterized as white with brightness similar to a second magnitude star,Four witnesses confirmed the sighting,No physical evidence was found.",
+    "sighted object": "a possible satellite",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 4,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian in Muehlheim, Germany observed a stationary, orange-colored light in the Great Bear constellation on November 21, 1956.",
-    "interesting points": [
-        "The light remained visible for 10 seconds, then blinked a few times before disappearing.",
-        "The observer did not believe the light was from an aircraft.",
-        "The light was described as similar in color and size to the planet Mars.",
-        "The report was collected by the Bad Soden Team of the 7050th Air Intelligence Group (USAFE).",
-        "The report concludes that there was 'insufficient data' to evaluate the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "stationary, orange-colored light",
+    "main event": "An unidentified object sighting was reported in Muehlheim, Germany on November 21, 1956.",
+    "interesting points": "The observer described the object as a stationary orange colored light in the Great Bear constellation., The light resembled the planet Mars in both color and size., The observation lasted for approximately 10 seconds., The observer concluded it was not an aircraft., The evaluation of the sighting noted insufficient data for a conclusive analysis.",
+    "sighted object": "an orange colored light in the Great Bear constellation",
     "location": "Muehlheim, Germany",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

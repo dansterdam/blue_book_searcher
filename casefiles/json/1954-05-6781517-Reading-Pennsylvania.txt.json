@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A man in Reading, Pennsylvania reported seeing a bright, moving light in the sky on May 10, 1954 around 11:25 PM.",
-    "interesting points": [
-        "The object was moving rapidly in a circular orbit, speeding up and slowing down, as well as going up and down in elevation.",
-        "After 5-10 minutes of these maneuvers, the object suddenly took off at a very high speed toward the northeast and disappeared.",
-        "The witness stated there was no roaring noise and that the object's appearance and motion were unlike anything he had seen before.",
-        "Other people on the same street also witnessed the brilliantly glowing object moving rapidly through the sky.",
-        "The letter writer expresses certainty that the object was not an airplane, helicopter, or any other known object."
-    ],
-    "result": "Unidentified",
-    "sighted object": "A bright, rapidly moving light in the sky",
-    "location": "Reading, Pennsylvania",
-    "witnesses": "The letter writer and other people on the street",
-    "photographs": "No photographs were included in the report"
+    "main event": "A witness in Reading, Pennsylvania reported seeing a brilliantly glowing object moving rapidly across the sky on the evening of May 10, 1954.",
+    "interesting points": "The object appeared to be moving in a circular orbit and changed speed and elevation,The witness observed the object for about 5 to 10 minutes before it took off at high speed toward the northeast,There were other witnesses present in the area at the time of the sighting,The witness stated that the object's motion was unlike any known aircraft,The conclusion of the report suggested it might possibly be an aircraft.",
+    "sighted object": "a brilliantly glowing object in the sky",
+    "location": "Reading, Pennsylvania, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "saw a rapidly moving light that appeared like a star or planet, with unusual motion",
+    "contains photographs": false
 }

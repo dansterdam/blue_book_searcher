@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report:
-
 {
-    "main event": "A bright, rapidly moving object described as a fireball was sighted over the Ohio-Kentucky-West Virginia area on August 5, 1969.",
-    "interesting points": [
-        "The fireball was reported to be extremely bright, lighting up the sky for several seconds.",
-        "Observers reported hearing a sonic boom 3-4 seconds after the initial sighting.",
-        "The fireball was described as changing colors, going from reddish-yellow to blue-green.",
-        "The fireball appeared to leave a smoke trail and break up into smaller fragments as it moved.",
-        "Numerous witnesses across the region reported seeing the fireball, including police officers, state park rangers, and members of the public."
-    ],
-    "result": "unexplained",
+    "main event": "Numerous witnesses reported seeing a bright fireball in the sky on August 5, 1969, across the Ohio, Kentucky, and West Virginia area.",
+    "interesting points": "The fireball was described as extremely bright and caused significant public interest, leading to numerous calls to authorities., Witnesses included police officers and civilians from various locations in the region., Detailed reports indicated that the fireball produced a sonic boom several seconds after it was observed., The phenomenon was concluded to be a meteor by the Air Force., Several reports noted the fireball's colors changing throughout its observation.",
     "sighted object": "bright fireball",
-    "location": "Ohio-Kentucky-West Virginia area",
-    "witnesses": "multiple, including law enforcement and the public",
-    "photographs": "no photographs available"
+    "location": "Ohio-Kentucky-West Virginia Area",
+    "number of confirmed witnesses": 10,
+    "witness description": "Various witnesses, including civilians and members of law enforcement.",
+    "contains photographs": false
 }

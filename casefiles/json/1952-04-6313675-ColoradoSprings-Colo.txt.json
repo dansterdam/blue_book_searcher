@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A dark, luminous object resembling a 'flying wing' aircraft was observed over Colorado Springs, Colorado in 1952.",
-    "interesting points": [
-        "The object was 10 times larger than a jet aircraft, with a swept wing and no fuselage.",
-        "The object moved at a speed of around 250 mph and disappeared behind trees without making any sound.",
-        "The witness, a civilian, was considered a reliable observer with no technical background in UFO sightings.",
-        "The sighting lasted for 5-10 seconds, and the object's behavior was described as erratic before it suddenly vanished.",
-        "The weather conditions at the time were clear, with an overcast sky and calm winds."
-    ],
-    "result": "unknown",
-    "sighted object": "a large, dark and luminous object resembling a 'flying wing' aircraft",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "a civilian witness",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed in Colorado Springs, Colorado, on April 24, 1952.",
+    "interesting points": "The object was described as dark with a luminous glow and had swept wings without a fuselage,It was reported to be 10 times larger than a jet aircraft,The object disappeared behind tree branches without making any sound during its flight,Weather conditions were clear at the time of the sighting,The object was in the backyard of a residential area, approximately 2,000 feet away.",
+    "sighted object": "unidentified flying object resembling a flying wing",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a reliable individual with no technical experience in UFO observation",
+    "contains photographs": false
 }

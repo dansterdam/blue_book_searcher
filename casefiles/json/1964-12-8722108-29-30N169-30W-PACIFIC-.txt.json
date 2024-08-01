@@ -1,15 +1,9 @@
 {
-    "main event": "A possible satellite was observed passing through a 70 degree arc in 14 minutes in the southern hemisphere.",
-    "interesting points": [
-        "The object was observed at 29/1600 169-30W at an altitude of 49 degrees above the horizon, heading southeast.",
-        "The object was classified as 'POSS SATELLITE' (possibly a satellite).",
-        "The observation was made on 030542Z (3rd of the month, 05:42Z).",
-        "The report was part of Project Blue Book, a US government program that investigated UFO sightings.",
-        "The report includes detailed technical information such as coordinates, azimuth, and other data points."
-    ],
-    "result": "possibly a satellite",
-    "sighted object": "a possible satellite",
-    "location": "Southern Hemisphere, 29/1600 169-30W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "Possible satellite observed crossing the track of ECHO I in December 1964.",
+    "interesting points": "ECHO I was not visible in the southern hemisphere., ECHO II was reported crossing the track of ECHO I., The satellite passed through a 70-degree arc heading southeast in 14 minutes., The observer was located at coordinates 29/1600 169-30W., The object was observed at an elevation of 49 degrees above the horizon.",
+    "sighted object": "possible satellite",
+    "location": "unknown",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer at the specified coordinates",
+    "contains photographs": false
 }

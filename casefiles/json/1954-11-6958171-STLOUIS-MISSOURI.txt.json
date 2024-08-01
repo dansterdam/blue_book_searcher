@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed in St. Louis, Missouri on September 3, 1954, by a civilian for a duration of 12 seconds. The object flew from east to west, appeared to roll to the north, and then vanished. The report concluded that there was insufficient data for evaluation, suggesting the possibility of something dropped from an aircraft.",
-    "interesting points": [
-        "The UFO was described as round and flat, saucer-shaped, nickel-sized, and made of unpolished aluminum.",
-        "The observer initially noticed the UFO due to a reflection from the sun caused by a passing aircraft.",
-        "The UFO was observed during a flight of F-47s over the city of St. Louis.",
-        "The UFO sighting lasted only 12 seconds and the object appeared to roll to the north before vanishing.",
-        "The report concluded that there was insufficient data for evaluation, leaving the possibility open for an object dropped from an aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "round and flat, saucer-shaped, nickel-sized, unpolished aluminum UFO",
-    "location": "St. Louis, Missouri",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian observed a saucer-shaped unidentified flying object in St. Louis, Missouri.",
+    "interesting points": "The sighting lasted for 12 seconds.,The object was reported to be round and flat, resembling a nickel.,It was described as unpolished aluminum.,The observer saw a reflection from an aircraft that drew attention to the object.,The object appeared to roll to the north before vanishing.",
+    "sighted object": "saucer-shaped object",
+    "location": "St Louis, Missouri, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

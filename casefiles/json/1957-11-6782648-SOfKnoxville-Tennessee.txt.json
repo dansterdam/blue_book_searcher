@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer saw a cigar-like light, the size of a basketball, that was yellowish-white in color and motionless for 20-25 seconds before suddenly disappearing.",
-    "interesting points": [
-        "The object was similar in appearance to an electric light bulb.",
-        "The object moved up and down, taking 20-25 seconds to go from one point to another.",
-        "The object suddenly disappeared while moving upward.",
-        "A check with a nearby balloon school showed a balloon was launched just prior to the sighting.",
-        "The observer was a person living next door, and the sighting was made through the center window of their house."
-    ],
-    "result": "Possibly a balloon, possibly an aircraft, or possibly an astronomical object.",
-    "sighted object": "A cigar-like light, the size of a basketball, that was yellowish-white in color.",
-    "location": "S.W. Knoxville, Tennessee",
-    "witnesses": "A civilian observer",
-    "photographs": "No, the report does not include any photographs."
+    "main event": "A civilian observed a cigar-like object that was motionless and yellowish-white for about 20-25 seconds before it suddenly disappeared.",
+    "interesting points": "The sighting occurred on November 11, 1957 in S.W. Knoxville, Tennessee., The object was described as being similar to a basketball in size and shape., The observer reported that the object moved from one point to another before vanishing., A balloon was launched just prior to the sighting, which could explain the observation., The weather conditions were calm and the sky was clear at the time of the sighting.",
+    "sighted object": "cigar-like object, yellowish-white",
+    "location": "Knoxville, Tennessee, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, housewife living next door",
+    "contains photographs": false
 }

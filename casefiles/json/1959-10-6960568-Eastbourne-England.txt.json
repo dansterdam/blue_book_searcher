@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains a collection of UFO reports, including sightings, photo requests, and letters from military personnel expressing interest in unidentified flying objects.",
-  "interesting points": [
-    "The object seen in San Diego, California, was described as moving at great speeds, exceeding any jet plane, and emitted no sound, causing the plane's engine to cut out, which frightened the passengers.",
-    "The pilots were unable to keep up with the UFO and stated that they had a picture of the object, but it was apparently taken from another plane as they had no camera on board.",
-    "One report describes an object of 'Another world type' with 'metallic yellowish color' and 'semi-circular' shape, remaining visible for about 15-20 minutes, moving slowly with no sound.",
-    "A letter from Major General Harold W. Grant of the United States Air Force thanks the recipient for sharing information and photographs regarding unidentified flying objects, stating that the information will be carefully analyzed and compared with other reports.",
-    "A request for photoanalysis of alleged UFO photographs dated 10 September 1960, and another request dated 27 September 1960, demonstrates the military's active interest in analyzing and evaluating UFO sightings."
-  ],
-  "result": "unexplained",
-  "sighted object": "Various unidentified flying objects reported in different locations",
-  "location": "San Diego, California; Eastbourne, England",
-  "witnesses": "Military personnel, civilian air defense observer",
-  "photographs": "Yes, some reports indicate the presence of photographs for analysis"
+    "main event": "A report was filed on a UFO sighting over Eastbourne, England on November 1, 1959, where an object was first seen, changed size, and then disappeared into the sunset.",
+    "interesting points": "The UFO was observed via ground radar, The object changed size during the observation, The sighting lasted approximately 1 minute, There was a 15-minute delay in reporting the sighting, which affected the validity of the conclusion about the UFO's nature.",
+    "sighted object": "unidentified flying object",
+    "location": "Eastbourne, England, UK",
+    "number of confirmed witnesses": 0,
+    "witness description": "information on witnesses is not available",
+    "contains photographs": false
 }

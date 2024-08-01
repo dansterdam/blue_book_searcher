@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Two metallic disc-like objects were observed flying over Russellville, Alabama in 1958.",
-    "interesting points": [
-        "The objects appeared to be metallic and very brilliant in color.",
-        "They made no sound and were observed for 2-3 minutes.",
-        "The objects appeared to be flying at a high rate of speed and at a high altitude.",
-        "They were observed to be changing directions at high speed and at times they appeared to stop momentarily.",
-        "A separate sighting of a white, brilliantly lighted object hovering over a highway near Russellville, Alabama was also reported in 1958."
-    ],
-    "result": "unexplained",
-    "sighted object": "two metallic disc-like objects, one white brilliantly lighted object",
-    "location": "Russellville, Alabama",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs"
+    "main event": "Two metallic disc-like objects were observed flying over Russellville, Alabama, on August 24, 1958.",
+    "interesting points": "The objects were described as metallic and very brilliant in color., They made no sound during the observation., The objects changed directions at high speed and appeared to stop momentarily., The sighting duration was between 2 to 3 minutes., This report was submitted to the WPFS Air Force Base and forwarded for investigation.",
+    "sighted object": "two metallic disc-like objects",
+    "location": "Russellville, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. R. D. Johnson, an employee of the Alabama Power Company",
+    "contains photographs": false
 }

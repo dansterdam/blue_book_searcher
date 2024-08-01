@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A fireball-like object was observed entering the atmosphere near Roswell, New Mexico on October 5, 1961.",
-    "interesting points": [
-        "The object was described as a fireball, the size of a golf ball, with blue/white, red, green, and possible purple colors, similar to a burning metal such as magnesium.",
-        "The object was observed for approximately 15 seconds, following an arc-like trajectory similar to the curvature of the Earth.",
-        "The observer, a Captain and Maintenance Officer, had previously seen meteorite activity and stated this observation did not fit the characteristics of a natural astronomical body.",
-        "Local radio broadcasts on October 4, 1961 had speculated about the possibility of a new Soviet satellite attempt to put a man in orbit for the October Revolution Day.",
-        "The report was submitted due to the observer's expertise and the local speculation about a possible Soviet satellite, despite the preparing officer's assessment that the object was likely a meteor."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fireball-like object in the sky",
-    "location": "Roswell, New Mexico",
-    "witnesses": "a Captain and Maintenance Officer",
-    "photographs": "no photographs available"
+    "main event": "An observation of a UFO was documented in Roswell, New Mexico on 6 Oct 61.",
+    "interesting points": "The object was described as a line well-executed sighting highly similar to earth survey picture., The observation lasted for 10 seconds., The weather was clear with excellent visibility at the time of observation., The observer had previous experience with meteorite activity and believed this did not fall within the natural astronomical bodies category., Local news had speculated about a new Russian satellite attempt around the time of the sighting.",
+    "sighted object": "an unidentified flying object resembling a line",
+    "location": "Roswell, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a Captain, command pilot, maintenance officer, reliability is excellent",
+    "contains photographs": false
 }

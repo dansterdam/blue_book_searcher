@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A woman in Claremont, New Hampshire reported seeing an oblong to round, reddish to orange object in the sky on June 27, 1960 around 10:30 PM.",
-    "interesting points": [
-        "The object was first seen in the ESE and last seen in the NNE, indicating an easterly to westerly apparent motion.",
-        "The object's speed was estimated to be around 200 mph, which is about the same as a plane.",
-        "The report notes that it was an incomplete report, and there may have been more information from the witness that was not included.",
-        "The Air Force considered the report to be insufficient data and forwarded it to the Air Technical Intelligence Center for further investigation.",
-        "The report evaluates the object as possibly being a satellite, balloon, or a UFO, but notes it was not checked further."
-    ],
-    "result": "insufficient data",
-    "sighted object": "an oblong to round, reddish to orange object",
-    "location": "Claremont, New Hampshire",
-    "witnesses": "one woman",
-    "photographs": "no"
+    "main event": "A witness reported seeing an oblong to round reddish to orange object in the sky over Claremont, New Hampshire on June 27, 1960.",
+    "interesting points": "The sighting lasted for about 2-3 minutes,The object was first seen in the ESE and last seen in the NNE,It was observed moving easterly to westerly at a speed of about 200 mph,The report was received several weeks after the sighting occurred,The evaluation notes that the report is considered to have insufficient data.",
+    "sighted object": "one oblong to round reddish to orange object",
+    "location": "Claremont, New Hampshire, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted]",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on 1st October 1956 in Brooklyn, New York, observed by a civilian for around three to five minutes. The object was seen moving from the southwest to northwest before disappearing over the northwest horizon. The report suggests that the sighting was probably caused by an aircraft.",
-    "interesting points": [
-        "The observation was recorded as ground-radar but no photographs were taken.",
-        "The conclusion indicated that the sighting was likely caused by an aircraft, possibly a balloon.",
-        "The unidentified object was described as round, white, and without a tail or wings.",
-        "The sighting was collaborated by sightings from the 74th St area in Brooklyn by a group of six people.",
-        "Weather and wind conditions at the time of the sighting were reported as clear with various wind speeds at different altitudes."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "round, white object without a tail or wings",
-    "location": "Brooklyn, NY",
-    "witnesses": "civilian and a group of six people",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Brooklyn, New York on 1 October 1956, observed using ground radar.",
+    "interesting points": "The sighting lasted between three to five minutes., Only one object was observed., The object was reported to have come from the southwest and disappeared over the northwest horizon., Observers noted the object had no tail or wings., Conclusions suggested the sighting was probably due to a balloon.",
+    "sighted object": "one unidentified object",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Observers included one identifiable person and five others whose occupations are unknown.",
+    "contains photographs": false
 }

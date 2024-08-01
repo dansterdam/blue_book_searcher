@@ -1,15 +1,9 @@
 {
-    "main event": "Three UFO sightings were reported over the North Atlantic on December 2, 1957.",
-    "interesting points": [
-        "The sightings were reported by three individuals at different times (03/0050, 0005, 0107Z).",
-        "The objects were described as a light blue light.",
-        "The objects were observed at 10-20 feet above the terrain, traveling at a high rate of speed.",
-        "The sightings were considered to have insufficient data for any evaluation.",
-        "No further details or descriptions of the objects were provided."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "light blue light",
+    "main event": "Multiple UFO sightings were reported on 2 December 1957 in the North Atlantic region.",
+    "interesting points": "Three separate sightings were documented,Each sighting reported a light blue light,The observations lasted briefly with limited detail,Each object was noted to be 10-20 feet above the terrain traveling at a high rate of speed,The report was classified as insufficient data for evaluation.",
+    "sighted object": "light blue lights",
     "location": "North Atlantic",
-    "witnesses": "three individuals",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses documented",
+    "contains photographs": false
 }

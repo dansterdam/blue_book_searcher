@@ -1,15 +1,9 @@
 {
-    "main event": "Two blurry, black-and-white photographs of an unidentified flying object were taken in June 1947 in Phoenix, Arizona.",
-    "interesting points": [
-        "The object in the photographs has an elliptical or disc-like shape with a darker section or shadow on its underside.",
-        "There is a notable variation in brightness across the surface of the object, suggesting some sort of shading or texture.",
-        "The images lack detail, making it difficult to definitively identify the object in the photographs.",
-        "The presence of a brighter spot or reflection near the center of the object is notable.",
-        "The background of the images is uniformly white, with no identifiable features or points of reference."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying object (UFO)",
-    "location": "Phoenix, Arizona",
-    "witnesses": "not specified",
-    "photographs": "yes, two blurry, black-and-white photographs"
+    "main event": "A blurry black-and-white photograph of an unidentified flying object (UFO) was captured in June 1947.",
+    "interesting points": "The UFO appears to have an elliptical or disc-like shape., The object has a defined edge with notable variations in brightness suggesting shading or texture., There is a brighter spot or reflection near the center of the object., The background of the image is uniformly white without identifiable features., The photograph is somewhat blurry and lacks detail, making it hard to identify the object.",
+    "sighted object": "unidentified flying object (UFO) with elliptical shape",
+    "location": "Phoenix, Arizona, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified in the document",
+    "contains photographs": true
 }

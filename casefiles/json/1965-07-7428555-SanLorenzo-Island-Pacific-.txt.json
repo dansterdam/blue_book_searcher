@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two cylindrical, metallic-colored objects approximately 150 feet long were sighted by the crew of the MERINT F/V SWIFT ship near San Lorenzo Island in the Pacific.",
-    "interesting points": [
-        "The objects were flying low on the horizon in a nose-up attitude, moving at a high rate of speed horizontally before turning west and disappearing straight up in a large puff of smoke.",
-        "The objects left a red and black trail against the sky.",
-        "The first object was sighted at 0905152Z and the second at 0907Z.",
-        "The weather conditions were sea state 2 with southwest swells and unlimited visibility.",
-        "No photographs were taken, but the sighting was reported to various military and government agencies."
-    ],
-    "result": "unexplained",
-    "sighted object": "two cylindrical, metallic-colored objects approximately 150 feet long",
-    "location": "San Lorenzo Island, Pacific",
-    "witnesses": "crew of the MERINT F/V SWIFT ship",
-    "photographs": "none"
+    "main event": "Two unidentified flying objects were sighted over San Lorenzo Island on 8 July 1965.",
+    "interesting points": "The first object was sighted at 0905152 and the second at 0907Z., The objects were described as approximately 130 to 150 feet long, cylindrical in shape, and dull metallic in color., They emitted a blowtorch-looking exhaust and a dense black smoke trail., The sighting was made from a military vessel, indicating a military source for the report., The objects flew southeast at a high rate of speed before turning west and disappearing in a puff of smoke.",
+    "sighted object": "two cylindrical unidentified flying objects",
+    "location": "San Lorenzo, Pacific, (Islands)",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military personnel on a vessel in the area",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A fast-moving, pulsating, elliptical object with flashing red and green lights was observed by Air Force radar in the North Pacific on August 23, 1958.",
-    "interesting points": [
-        "The object was described as changing shape due to wind velocity distortions, with varying white-yellow color.",
-        "The object hovered horizontally for 10 minutes before rapidly ascending vertically and disappearing to the east.",
-        "The object did not leave a trail and made no sound.",
-        "The report concluded the sighting was a possible bolide (a type of meteorite) observation.",
-        "A separate document describes a similar object observed on October 2, 1958, which was estimated to be 10-12 feet in diameter, moving at 700-800 knots with abrupt turns and rapid altitude changes."
-    ],
-    "result": "unexplained",
-    "sighted object": "fast-moving, pulsating, elliptical object with flashing red and green lights",
+    "main event": "An unidentified object was observed in the North Pacific on August 23, 1958, exhibiting changing shapes and colors before rapidly ascending to the east.",
+    "interesting points": "The object was perceived as changing shape due to wind velocity and distortion., It had varying colors of white and yellow., There was no sound heard during the observation., The object hovered for approximately 10 minutes before rising rapidly., The sighting is classified as a possible bolide observation.",
+    "sighted object": "an unidentified aerial phenomenon described as an elliptical object",
     "location": "North Pacific",
-    "witnesses": "Air Force radar",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "observed via Air Force radar",
+    "contains photographs": false
 }

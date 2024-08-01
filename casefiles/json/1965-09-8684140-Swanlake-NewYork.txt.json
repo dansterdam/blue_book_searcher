@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a bright light, possibly a disk-shaped object, over Swanlake, New York in 1965.",
-    "interesting points": [
-        "The object appeared as a bright light, the size of a pinhead to the eye.",
-        "The object performed a shallow dive followed by a climbing turn before quickly moving to the southwest.",
-        "The witness was uncertain about the exact azimuth or direction of the object.",
-        "The sighting lasted for about one minute.",
-        "The report includes photographs, but a detailed analysis could not be completed without the original negatives and more information about the camera used."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, possibly a disk-shaped object",
-    "location": "Swanlake, New York",
-    "witnesses": "one civilian witness",
-    "photographs": "yes, but no further analysis possible without original negatives"
+    "main event": "A civilian reported sighting one unidentified object in Swanlake, New York, on September 27, 1967.",
+    "interesting points": "The object was possibly identified as a balloon,The observation lasted for approximately 30 minutes,The sky was bright and clear during the observation,The observer reported being uncertain about the object's disappearance,The report was part of the Project Blue Book investigation.",
+    "sighted object": "one unidentified object",
+    "location": "Swanlake, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. [Redacted], age 20, student at Brooklyn College.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of an unidentified object was reported in Denver, Colorado on September 3, 1956.",
-    "interesting points": [
-        "The object's shape changed from elliptical to round.",
-        "The object had a very bright light.",
-        "The object was viewed visually and through binoculars for 1 hour and 10 minutes.",
-        "The sighting was observed by a civilian.",
-        "The sighting lasted for 30 seconds."
-    ],
-    "result": "Was a Meteor",
-    "sighted object": "An unidentified object with a changing shape and a very bright light",
-    "location": "Denver, Colorado",
-    "witnesses": "A civilian",
-    "photographs": "No"
+    "main event": "A reported UFO sighting in Denver, Colorado on 7 September 1956, where the object changed shape and had a very bright light.",
+    "interesting points": "The object's shape changed from elliptical to round.,The object was observed both visually and through binoculars for 1 hour and 10 minutes.,The sighting lasted for 6 to 7 hours.,The object was concluded to probably be a balloon or possibly astronomical.,There were no photographs included with the report.",
+    "sighted object": "one object changing shape with a very bright light",
+    "location": "Denver, Colorado, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified, but identified as civilian source",
+    "contains photographs": false
 }

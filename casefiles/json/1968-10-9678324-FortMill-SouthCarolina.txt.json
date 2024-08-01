@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two sixteen-year-old high school boys spotted an unidentified oval-shaped object in the sky over Fort Mill, South Carolina in 1968.",
-    "interesting points": [
-        "The object was about 3 times larger and brighter than Venus, and changed color from fire white to red when it moved.",
-        "The object was estimated to be a few hundred feet high at a distance of about one mile, and moved quickly but not too fast.",
-        "The observers lost sight of the object as it appeared to be descending behind some trees.",
-        "The object seemed to hover and then rapidly accelerate and disappear.",
-        "The size of the object was about two-thirds that of a typical house."
-    ],
-    "result": "insufficient data",
-    "sighted object": "an unidentified oval-shaped object",
-    "location": "Fort Mill, South Carolina",
-    "witnesses": "two sixteen-year-old high school boys",
-    "photographs": "no"
+    "main event": "Two sixteen-year-old high school boys observed an unidentified flying object in Fort Mill, South Carolina on 19 October 1968.",
+    "interesting points": "The object was described as oval shaped and larger than normal, About 3 times larger and brighter than Venus, The color changed from fire white to red when it moved, The sighting lasted about fifteen minutes, The object moved quickly but was not too fast and hovered before rapidly accelerating and disappearing.",
+    "sighted object": "an oval-shaped object that was bright and changed colors",
+    "location": "Fort Mill, South Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two sixteen-year-old high school boys",
+    "contains photographs": false
 }

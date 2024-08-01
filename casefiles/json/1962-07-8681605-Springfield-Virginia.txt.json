@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A silver, disc-shaped object approximately 25-30 feet in diameter was sighted traveling at a high rate of speed through the sky on July 13, 1962 in Springfield, Virginia.",
-  "interesting points": [
-    "The object made three complete stop and go maneuvers, stopping momentarily and then accelerating to a very high speed before stopping again.",
-    "The object was observed to change direction and altitude abruptly during the course of the sighting.",
-    "The weather was clear at the time of the sighting.",
-    "The observer reported seeing the object for approximately 1.5 minutes.",
-    "The observer described the object as a 'strange object passing overhead, moving at an extremely rapid rate, turning sharply at one point, changing color from white to red, then out of sight.'"
-  ],
-  "result": "unexplained",
-  "sighted object": "silver, disc-shaped object",
-  "location": "Springfield, Virginia",
-  "witnesses": "single observer",
-  "photographs": "yes, the report includes photographs"
+    "main event": "On 13 July 1962, an observer in Springfield, Virginia, sighted a silvery disc-shaped object approximately 25-30 feet in diameter traveling at a high rate of speed.",
+    "interesting points": "The object performed three complete stop and go maneuvers, stopping momentarily before accelerating to a high speed,The object changed direction and altitude abruptly during the sighting,The sighting lasted for about 1.5 minutes,The weather was clear during the observation,The object was estimated to be 12 miles away during the sighting.",
+    "sighted object": "a silvery disc-shaped object",
+    "location": "Springfield, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 45-year-old male observer with extensive science background and interest in astronomy.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A college student in Easthampton, New York saw a white, blinking object in the sky that appeared to be larger than a pea and was going straight up.",
-    "interesting points": [
-        "The object was exceedingly round and larger than a pinhead.",
-        "The object was blinking on and off.",
-        "The observer thought the object passed across the nose section of an airline-type aircraft and at one point thought the UFO and the aircraft were going to collide.",
-        "Two F-101 aircraft were airborne at the time of the sighting, and it appears the observer mistook one of those aircraft for the UFO.",
-        "The sighting lasted for 5-7 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, blinking object in the sky",
-    "location": "Easthampton, New York",
-    "witnesses": "a college student",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A college student observed an unidentified flying object in Easthampton, New York on June 22, 1966.",
+    "interesting points": "The observation lasted for about 5-7 seconds., The object was described as exceedingly round and larger than a pinhead., It appeared to be white and was blinking on and off., The sighting occurred on a clear night, about 15 feet away from the observer's residence., The student reported that the UFO passed close to what he thought was an airline aircraft, leading him to believe a collision was imminent.",
+    "sighted object": "one blinking unidentified flying object",
+    "location": "Easthampton, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "19 year old college student, serious and well spoken",
+    "contains photographs": false
 }

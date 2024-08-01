@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Multiple unidentified objects were observed near Misawa Air Base, Japan on April 10 and 11, 1965.",
-    "interesting points": [
-        "The objects were observed on both S-band and C-band radars, indicating they were real targets rather than weather or clutter.",
-        "The objects were able to remain stationary for up to 30 minutes before accelerating to speeds over 1,000 knots and making abrupt maneuvers.",
-        "Eyewitnesses described the objects as irregular in shape, resembling saucers, and varying in size from 30 to 50 feet in diameter.",
-        "The high speeds, abrupt maneuverability, and disappearance at high altitudes were considered unusual and not typical of known aircraft.",
-        "The radar observations and visual sightings were considered to potentially indicate the presence of some unusual aerial phenomenon in the Misawa AB area."
-    ],
-    "result": "unknown",
-    "sighted object": "multiple unidentified objects, described as irregular in shape and resembling saucers",
-    "location": "Misawa Air Base, Japan",
-    "witnesses": "radar operators, tower personnel, and an unidentified observer",
-    "photographs": "no"
+    "main event": "Observer reported seeing 3 unidentified objects in the sky which moved rapidly and changed direction for about 20 minutes.",
+    "interesting points": "The objects were observed for 20 minutes with no further details or conclusions provided., Misawa RAPCON officers discerned no special pattern in the unidentified targets., The targets were seen on radar but did not converge in any identifiable manner., Radar observations later indicated that the objects were likely electronic phenomena and not weather-related., No photographs or physical evidence were documented for the sighting.",
+    "sighted object": "three unidentified objects in the sky",
+    "location": "Misawa AB, Japan",
+    "number of confirmed witnesses": 4,
+    "witness description": "TSgt Sawitz, A/3C Jackson, A/2C Woody, A1C Rupert (Radar Maint)",
+    "contains photographs": false
 }

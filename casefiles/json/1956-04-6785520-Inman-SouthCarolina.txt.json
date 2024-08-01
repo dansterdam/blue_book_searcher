@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object, fifty times bigger and brighter than a star, light blue in color, was observed moving very fast in the southwest sky over Inman, South Carolina.",
-    "interesting points": [
-        "The object was observed through an automobile windshield, leading the investigators to believe it may have been the planet Jupiter or the star Sirius.",
-        "The object was also seen by an observation post in Spartanburg, South Carolina.",
-        "The report mentions that the sky was clear, with unlimited visibility at the time of the sighting.",
-        "The sighting lasted for approximately one minute.",
-        "The report includes a photograph, though it is not present in the provided image."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a round, light blue object that was much larger and brighter than a star",
-    "location": "Inman, South Carolina",
-    "witnesses": "civilian (GCC) and an observation post in Spartanburg, South Carolina",
-    "photographs": "yes, the report includes photographs, though they are not present in the provided image"
+    "main event": "A witness observed one round object in the sky on April 6, 1956, which appeared to be fifty times bigger and brighter than a star.",
+    "interesting points": "The object was light blue and traveled very fast., It was visible for one minute., The object was also observed by GOC in Spartanburg, S.C., The sighting occurred under clear skies with unlimited visibility., There is a possibility that the observed object was actually the planet Jupiter or the star Sirius.",
+    "sighted object": "one round light blue object in the sky",
+    "location": "Inman, South Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a civilian observer who viewed the object through an automobile windshield.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A flashing light alternating between red, white, and green was observed by police officers for over 2 hours on October 21, 1966 in Patchogue, Long Island, New York.",
-    "interesting points": [
-        "The object was described as being the size of a baseball and was stationary for most of the observation.",
-        "The object appeared to make a slow, vertical ascent before disappearing.",
-        "A newspaper reported having photographs of the light, but arrangements were being made to obtain them.",
-        "The Air Force checked radar at nearby air bases but found no corroborating evidence.",
-        "The object was initially thought to be Sirius, the bright star, but the witness later confirmed it was not Sirius."
-    ],
-    "result": "unexplained",
-    "sighted object": "a flashing light alternating between red, white, and green",
+    "main event": "A civilian observed a flashing light in the southeastern sky that remained stationary for over two hours before ascending vertically.",
+    "interesting points": "The object emitted flashing lights alternating in red, white, and green,The observation lasted for approximately 2 hours,The object was noted to have very slow movement and appeared stationary for most of the time,Witnesses included police officers who confirmed the sighting and reported it to the Air Force,The object was later concluded to resemble the star Sirius, which led to some debate about what was seen.",
+    "sighted object": "a flashing light in the sky",
     "location": "Patchogue, Long Island, New York",
-    "witnesses": "police officers",
-    "photographs": "yes, a newspaper reported having photographs"
+    "number of confirmed witnesses": 5,
+    "witness description": "police officers who reported the sighting and other local residents",
+    "contains photographs": false
 }

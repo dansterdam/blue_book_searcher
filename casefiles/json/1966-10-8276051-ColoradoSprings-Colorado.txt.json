@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Colorado Springs reported seeing a white-very bright, round object that appeared to have things shooting from it for nearly one hour.",
-    "interesting points": [
-        "The object was visible from the witness's house and back to bed.",
-        "Investigating officers noted there was a full moon visible at the time of the sighting.",
-        "The witness used binoculars to observe the object, which would move slowly at times and then rapidly between Cheyenne Mountain and Pikes Peak.",
-        "The object was described as glowing a brilliant white light.",
-        "The Colorado Springs Police Department also reported observing a bright light east of Weber Street."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a white-very bright, round object",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A civilian observer reported a sighting of a bright round object in Colorado Springs, Colorado on 2 October 1966.",
+    "interesting points": "The object was described as white and very bright,The observer noted that it appeared to have things shooting from it,The sighting lasted for nearly one hour,The observation was made from the observer's house,There was a full moon visible during the time of the sighting.",
+    "sighted object": "one bright round object emitting light",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

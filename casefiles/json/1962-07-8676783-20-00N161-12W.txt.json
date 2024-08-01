@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A white light object was observed in the sky, blinking and hovering. The object was tracked by ground radar for 24 minutes.",
-    "interesting points": [
-        "The object was tracked by ground radar but could not be tracked by air intercept radar.",
-        "The object departed the area rapidly, indicating a possible missile-type vehicle.",
-        "No check was made to verify if the object was airborne or on the ground.",
-        "The report indicates the object was a probable unidentified object.",
-        "The report also mentions a sighting by a Pan American flight at a different location and time."
-    ],
-    "result": "unexplained",
-    "sighted object": "white light object",
-    "location": "unknown",
-    "witnesses": "ground radar",
-    "photographs": "no"
+    "main event": "A white light object was observed in the sky, blinking and hovering, tracked by ground radar on July 1, 1962.",
+    "interesting points": "The object was tracked by ground radar for 24 minutes., Air intercept radar was unable to track the object., The object rapidly departed the area, suggesting it could be a missile-type vehicle., The sighting was reported at 2330Z., There was no verification to determine if the object was airborne or on the ground.",
+    "sighted object": "white light object in the sky",
+    "location": "Unknown, Unknown, Unknown",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses described in the report",
+    "contains photographs": false
 }

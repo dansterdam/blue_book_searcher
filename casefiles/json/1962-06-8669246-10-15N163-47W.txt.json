@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright flash was seen reaching across the horizon, followed by the sighting of a surface vessel and possibly a submerged second surface vessel.",
-    "interesting points": [
-        "The sighting occurred at 13:07Z and 13:19Z.",
-        "The location of the sighting was 15-15N 163-47W.",
-        "The report indicates a negative evaluation by the Air Force headquarters.",
-        "The report appears to be a message related to the UFO sighting and the related surface vessel observation.",
-        "The report does not contain any photographs or additional details about the sighted objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright flash and surface vessels",
+    "main event": "A UFO sighting was reported involving a bright flash seen across the horizon, followed by the sighting of a possible submerged surface vessel.",
+    "interesting points": "The sighting involved a bright flash that was visible over a large distance,The report mentions a possible connection to a surface vessel,The sighting was documented in a historical US Air Force program (Project Blue Book),The report indicates a negative evaluation by the Air Force headquarters,The document includes detailed communication to various military facilities.",
+    "sighted object": "a bright flash and possibly a submerged surface vessel",
     "location": "15-15N 163-47W",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witnesses": "not specified in the document",
+    "photographs": false
 }

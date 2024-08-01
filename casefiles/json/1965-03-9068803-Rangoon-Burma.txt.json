@@ -1,15 +1,9 @@
 {
-    "main event": "A bright flash of light was observed in the sky over Rangoon, Burma on March 5, 1965.",
-    "interesting points": [
-        "The flash of light was described as 'brilliant' and light blue in color.",
-        "The flash of light lasted for 5-10 seconds and lit up the area around the witnesses.",
-        "After the flash, a bright white streak was observed in the sky for 5-10 seconds.",
-        "The witnesses thought the incident might have been an exploding comet.",
-        "The sighting was reported by a civilian and a Japanese diplomat."
-    ],
-    "result": "Astronomical (Venus)",
-    "sighted object": "A bright flash of light",
+    "main event": "A bright flash was observed in the sky in Rangoon, Burma on March 5, 1965.",
+    "interesting points": "The flash was described as brilliant and light blue in color,It lasted for less than 5-10 seconds,The flash was first noticed by a group of people sitting outside,Multiple witnesses reported seeing two or three bright flashes,The incident might have been mistaken for an exploding comet.",
+    "sighted object": "a bright flash of light",
     "location": "Rangoon, Burma",
-    "witnesses": "Civilian and Japanese diplomat",
-    "photographs": "No"
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian witnesses present outside",
+    "contains photographs": false
 }

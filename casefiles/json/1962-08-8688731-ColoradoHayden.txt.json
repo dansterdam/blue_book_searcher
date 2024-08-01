@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Something huge passed through the sky, making a swooshing sound, and descended to the horizon in Colorado.",
-    "interesting points": [
-        "The object was described as a ball of fire that passed quickly through the sky.",
-        "The object descended to the horizon, estimated to be around 200-300 miles away.",
-        "The witness reported a swooshing sound as the object descended.",
-        "There were similar sightings reported in the area around the same time.",
-        "One smaller light also appeared and disappeared quickly."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, bright light that moved swiftly through the sky",
-    "location": "Colorado",
-    "witnesses": "a single witness who was on a regular check",
-    "photographs": "no photographs present"
+    "main event": "A sighting of a huge object passing through the sky, accompanied by a swooshing sound, was reported in Colorado on August 3, 1952.",
+    "interesting points": "The object was large and made a sound like a ball of fire., It descended towards the horizon and was estimated to have landed 200-300 miles away., The observation lasted between 5 to 10 minutes., Additional reports of similar sightings in the area may exist., The sighting occurred at midnight.",
+    "sighted object": "a huge unidentified aerial object",
+    "location": "Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported being around 60 years old and observed the object during a regular check.",
+    "contains photographs": false
 }

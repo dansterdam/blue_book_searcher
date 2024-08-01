@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright, pale greenish object was observed in the sky over Youngville, New York on November 22, 1966 around 2:30 AM.",
-    "interesting points": [
-        "The object was larger than a star and its color alternated between green, blue, and pale green.",
-        "The object was stationary at first, then started moving towards the east near the horizon.",
-        "The sighting lasted for over an hour and was observed by the witness and her husband and neighbors.",
-        "The object faded out and disappeared towards the east horizon.",
-        "No sound was heard from the object, and no physical evidence or photographs were obtained."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright, pale greenish object in the sky",
-    "location": "Youngville, New York",
-    "witnesses": "civilian witness, her husband, and neighbors",
-    "photographs": "no photographs were included in the report"
+    "main event": "A civilian observer reported seeing a bright, pale green object in the sky on November 6, 1966.",
+    "interesting points": "The object had no verifiable shape and appeared larger than a star., Its color alternated between green and blue., The object was visible for over an hour and showed a steady flight path from northwest to southeast with no erratic movement., The observer used binoculars and noted the weather was clear., There were no reports of sound associated with the object.",
+    "sighted object": "A brightly brilliant, pale green object",
+    "location": "Youngville, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a civilian, age 41+, who is a spokesperson for a group that includes her husband and neighbors who also witnessed the sightings.",
+    "contains photographs": false
 }

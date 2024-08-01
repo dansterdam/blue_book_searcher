@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observed three unidentified flying objects over North Brunswick, New Jersey in July 1962 during dusk.",
-    "interesting points": [
-        "The objects were observed for approximately 1 minute.",
-        "The objects were described as moving from south-southeast to northwest.",
-        "No photographs were taken of the objects.",
-        "No physical evidence was reported.",
-        "The Air Force concluded the sighting was likely an astronomical event, such as a star or planet."
-    ],
-    "result": "astronomical (star/planet)",
+    "main event": "Three unidentified objects were observed in the sky above North Brunswick, New Jersey during dusk in July 1962.",
+    "interesting points": "The sighting lasted for approximately 1 minute.,The objects were reported to have moved from southeast to northwest.,No photographs or physical evidence were found.,The conclusion of the report categorized the sighting as astronomical, possibly a star or planet.,The report was part of the Project Blue Book investigation into UFO sightings.",
     "sighted object": "three unidentified flying objects",
-    "location": "North Brunswick, New Jersey",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "location": "North Brunswick, New Jersey, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no additional witnesses confirmed",
+    "contains photographs": false
 }

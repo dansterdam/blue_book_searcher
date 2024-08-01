@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A civilian observed a UFO in West Hyattsville, Maryland on October 31, 1966.",
-    "interesting points": [
-        "The object was described as a bright, circular object about 50 yards away.",
-        "The object did not appear to be associated with any known aircraft or atmospheric phenomenon.",
-        "The photography of the object was deemed to be of poor quality, but the witness indicated it was a genuine photograph.",
-        "The witness could not provide any further details about the object or the sighting.",
-        "The Air Force was unable to identify the object based on the information and photograph provided."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, circular unidentified object",
-    "location": "West Hyattsville, Maryland",
-    "witnesses": "a civilian",
-    "photographs": "yes, but of poor quality"
+    "main event": "A UFO sighting occurred on 31 October 1966 in West Hyattsville, Maryland, where a witness described the object as being like a grayish donut.",
+    "interesting points": "The sighting lasted for 5-10 seconds,The observer reported seeing the object only on June 11, 1967, despite the event occurring in 1966,No physical evidence was found,The report concluded there was insufficient data for evaluation, and the photo associated with the case had insufficient clarity.",
+    "sighted object": "a grayish donut-shaped object",
+    "location": "West Hyattsville, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a male aged 19 who reported the sighting.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "An unidentified aerial object was observed by a witness near Canton, Ohio on May 8, 1961.",
-  "interesting points": [
-    "The object was described as a discoid shape, approximately 100 feet in diameter, emitting a bright blue-white light that illuminated the surrounding area.",
-    "The object hovered about 75 feet above the ground and had rotating lights of red, blue, and amber color on the underside.",
-    "The object remained relatively stationary for 12-15 minutes before accelerating rapidly in a northeasterly direction and disappearing from view in approximately 10 seconds.",
-    "The witnesses reported no sound associated with the object and no visible evidence of a propulsion system.",
-    "The sighting is considered unidentified, as no conventional aircraft or other known object can reasonably explain it."
-  ],
-  "result": "unexplained",
-  "sighted object": "a discoid-shaped object with rotating colored lights",
-  "location": "Vicinity of Canton, Ohio",
-  "witnesses": "Mrs. John Doe and her husband",
-  "photographs": "no"
+    "main event": "On 8 April 1961, a UFO was observed in the vicinity of Canton, Ohio, showing rapid movements and hovering characteristics, with radar tracking confirming the sighting.",
+    "interesting points": "The object displayed rapid up and down movements and erratic maneuvers while hovering., The object would fade away and reappear at different locations., It emitted no sound or exhaust trail., A pilot confirmed observing the object during the incident., The sighting lasted for approximately 30 minutes.",
+    "sighted object": "a yellow-orange, hovering object",
+    "location": "Canton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a 20-year-old student at Purdue University, majoring in Electrical Engineering, with prior training in electronics while serving in the U.S. Navy.",
+    "contains photographs": false
 }

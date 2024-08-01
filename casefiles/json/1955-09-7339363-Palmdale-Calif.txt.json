@@ -1,15 +1,9 @@
 {
     "main event": "An unidentified aerial object was observed near Palmdale, California on September 13, 1955.",
-    "interesting points": [
-        "The object had a flat top and bottom with rounded ends, and was observed to have an exhaust or blast coming from the rear that was equal in width to the object.",
-        "The object made a constant sound described as a combination of a diesel roar and an afterburner roar, and moved very slowly.",
-        "The object was observed both visually from the ground and on radar, and its flight path was reported as west-southeast-south.",
-        "The duration of the observation was 10-15 minutes.",
-        "The report concludes that the object was possibly a test vehicle, but was ultimately listed as 'unknown'."
-    ],
-    "result": "unknown",
-    "sighted object": "a flat, rounded object with an exhaust or blast coming from the rear",
-    "location": "Palmdale, California",
-    "witnesses": "ground-visual and radar observations",
-    "photographs": "none"
+    "interesting points": "The object had a flat top and bottom with rounded ends, exhaust was seen from the rear of the object, emitting a sound similar to a diesel roar with overtones of a loud afterburner, the observation lasted for 10 to 15 minutes, the conclusion suggested it could be a balloon or aircraft.",
+    "sighted object": "unidentified aerial object with flat top and bottom",
+    "location": "Palmdale, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife, age 45",
+    "contains photographs": false
 }

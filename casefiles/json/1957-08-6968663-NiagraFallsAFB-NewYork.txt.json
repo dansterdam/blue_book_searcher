@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were reported over Niagara Falls AFD, New York on August 21, 1957.",
-    "interesting points": [
-        "One object was twice as large as a star, and the other was three times as large as a star.",
-        "The objects were bright white, changing momentarily to orange.",
-        "The objects moved very fast, changing direction irregularly, and some disappeared over the horizon.",
-        "Theodolite measurements indicated the objects were likely the planets Venus and Jupiter.",
-        "Interceptor pilots reported the objects appeared to be stars due to their stationary position after 232 miles of pursuit and 38,000 feet of altitude change."
-    ],
-    "result": "identified as planets Venus and Jupiter",
-    "sighted object": "two bright white objects, changing to orange, of varying sizes larger than stars",
-    "location": "Niagara Falls AFD, New York",
-    "witnesses": "tower operators, pilots, and ground crew",
-    "photographs": "no photographs included in the report"
+    "main event": "Two bright objects were observed over Niagara Falls AFB in New York changing from white to orange, moving rapidly and irregularly before disappearing over the horizon.",
+    "interesting points": "One object was reported to be twice the size of a star and the other three times the size of a star., The sighting lasted between 15 to 30 minutes., The objects were seen under unusually clear atmospheric conditions., The report later identified the objects as Venus and Jupiter., The sighting was corroborated by other GCI sites that reported similar visual observations.",
+    "sighted object": "two bright objects in the sky",
+    "location": "Niagara Falls, New York, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Military personnel on duty at the air force base",
+    "contains photographs": false
 }

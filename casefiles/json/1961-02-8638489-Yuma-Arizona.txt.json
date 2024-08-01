@@ -1,15 +1,9 @@
 {
-    "main event": "A slow-moving object was tracked on radar at Yuma, Arizona on February 27, 1961.",
-    "interesting points": [
-        "The object's presentation on radar was similar to that of a single aircraft, but it began to break up and become diffused at around 42,223 feet.",
-        "Despite moving at only 29 knots, the object left a trail of diffuse echoes extending behind it, similar to a stream of chaff.",
-        "The rate of descent of the object was approximately 323 feet per minute until contact was lost.",
-        "The officer who prepared the report had not encountered a similar radar presentation, except for chaff dropped from balloons in Alaska.",
-        "The report concludes that the data is inadequate for evaluation, and the object remains unidentified."
-    ],
-    "result": "unidentified",
-    "sighted object": "A slow-moving, diffuse radar target",
-    "location": "Yuma, Arizona",
-    "witnesses": "Radar operators at the 664th ACWRON USMC ALS Station",
-    "photographs": "none"
+    "main event": "An unidentified object was tracked on radar near Yuma, Arizona, for 2 hours and 48 minutes on February 27, 1961.",
+    "interesting points": "The object gradually lost altitude at a rate of approximately 300 feet per minute., The object became diffused and lost contact while descending., Observers considered the object could have been a ballistic missile, satellite, or aircraft., The weather conditions were reported as good visibility and clear skies., Two witnesses, Paul E. Reuter and Morris Royster, were identified as very reliable.",
+    "sighted object": "unidentified object tracked on radar",
+    "location": "Yuma, Arizona, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Paul E. Reuter, A2C, and Morris Royster, Capt., both from the 664th ACWG and deemed very reliable",
+    "contains photographs": false
 }

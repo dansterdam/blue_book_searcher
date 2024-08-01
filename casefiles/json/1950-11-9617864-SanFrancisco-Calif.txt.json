@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was observed directly overhead in San Francisco, California on November 3, 1950, at approximately 0930 hours and then again at 2320 hours by multiple witnesses.",
-    "interesting points": [
-        "The object was described as a bright, silver dollar-colored, and larger than an ordinary star, with no sound or dynamic features observed.",
-        "It appeared to be suspended in the sky with no evidence of any drive mechanism and estimated to be at approximately 20,000 feet in altitude.",
-        "This report was part of Project Blue Book, a United States Air Force program to investigate unidentified flying objects (UFOs).",
-        "The document contained a graph or chart related to meteorological or atmospheric data, possibly used in conjunction with the UFO report.",
-        "The report was transmitted to the Commanding General of the Air Material Command at Wright-Patterson Air Force Base in Ohio for further review and action."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, silver dollar-colored object, larger than an ordinary star",
-    "location": "San Francisco, California",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no photographs included in the report"
+    "main event": "An unidentified object was observed directly overhead in San Francisco, California at approximately 0930 hours on 3 November 1950.",
+    "interesting points": "The object was bright and larger than an ordinary star., Mr. _____ interviewed stated that he and eight or ten others saw the object disappearing towards the west., The object appeared to be suspended in the sky with no drive mechanism., It was observed for about 20 to 30 seconds at an estimated altitude of approximately 20,000 feet., The object was silver dollar in color, white, and smaller than a medium type jet aircraft.",
+    "sighted object": "unidentified flying object",
+    "location": "San Francisco, California, USA",
+    "number of confirmed witnesses": 9,
+    "witness description": "Mr. _____ was interviewed along with eight or ten other people.",
+    "contains photographs": false
 }

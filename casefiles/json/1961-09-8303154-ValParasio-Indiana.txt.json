@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a stationary, blinking, luminous white-yellow object in the sky near Valparaiso, Indiana on September 19, 1961.",
-    "interesting points": [
-        "The object came across the sky, stopped just above the horizon for several seconds, then shot straight up and disappeared within a split second.",
-        "The object was about 30-40 feet in diameter and up to 150 feet long.",
-        "The witness contacted the nearest Air Force base, which said they had picked up the object on radar and sent an officer to interview the witness.",
-        "The Air Force officer stated that there was no logical explanation for what the witness saw, and that it matched the radar track they had.",
-        "The witness had written to the Public Information Division of the Office of Information previously about UFOs but had not received a reply."
-    ],
-    "result": "unexplained",
-    "sighted object": "a stationary, blinking, luminous white-yellow object",
-    "location": "Valparaiso, Indiana",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs"
+    "main event": "A sighting of an oval-shaped silver-gray object following an erratic course, reported near Valparaiso, Indiana.",
+    "interesting points": "The object hovered, then moved rapidly and disappeared without making any sound., Witnesses reported hearing a sound like an airplane but different., The object was stationary and blinking, estimated to be 30-40 feet in diameter and up to 150 feet long., The nearest air force base confirmed radar tracking of the object., The investigating officer found no logical explanation for the sightings.",
+    "sighted object": "oval-shaped silver-gray object",
+    "location": "Valparaiso, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two individuals observing from a yard",
+    "contains photographs": false
 }

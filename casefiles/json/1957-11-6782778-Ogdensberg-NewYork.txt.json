@@ -1,15 +1,9 @@
 {
-  "main event": "A small round object was observed in Ogdensberg, New York, on 12 November 1957, changing colors and brightness over a 25-minute period.",
-  "interesting points": [
-    "The object was observed to change colors from bright green and blue to white and orange.",
-    "It was practically stationary for the duration of the 25-minute observation.",
-    "Astro charts indicated that the object was in almost the exact location of Venus.",
-    "The report concluded that it was likely an astronomical observation of Venus rather than an unidentified flying object.",
-    "No photographs were taken of the object during the observation."
-  ],
-  "result": "Astronomical (Venus)",
-  "sighted object": "Small round object changing colors and brightness",
-  "location": "Ogdensberg, New York",
-  "witnesses": "Civilian",
-  "photographs": "No"
+    "main event": "A small round object was observed changing colors in the sky on November 12, 1957.",
+    "interesting points": "The object changed colors from bright green and blue to white and orange., The brightness of the object increased and decreased during the observation., The object was practically stationary during the sighting., The observation lasted for 10 to 25 minutes., Astro charts indicated the object was in almost the exact location of Venus.",
+    "sighted object": "small round object changing colors",
+    "location": "Ogdensberg, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A military officer spotted a white, blinking object while watching a weather balloon ascent.",
-    "interesting points": [
-        "The object was the size of a pinhead and was blinking at the rate of an aircraft warning beacon, but the blinking stopped at some point.",
-        "The object was observed for approximately 3 minutes, moving from bearing 205 to 010 on the horizon.",
-        "The object was observed through binoculars by the military officer, who was a highly reliable watchstander.",
-        "The weather conditions at the time were clear, with unlimited visibility up to 10 miles.",
-        "There were no known aircraft in the area at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, blinking object of pinhead size",
-    "location": "40-12.5N, 173-45W",
-    "witnesses": "military officer (highly reliable watchstander)",
-    "photographs": "no"
+    "main event": "A white object was observed trailing at great speed without any sound on 17 Nov 1961.",
+    "interesting points": "The object was elongated and cylindrical in shape.,It was very bright and maneuverable.,The sighting lasted for 3 minutes.,No corresponding air traffic was detected in the area at the time.,This sighting is considered a bona fide UFO sighting.",
+    "sighted object": "one white elongated cylindrical object",
+    "location": "40 12.5N, 173 45W",
+    "number of confirmed witnesses": 1,
+    "witness description": "BM3, USN, watchstander, highly reliable",
+    "contains photographs": false
 }

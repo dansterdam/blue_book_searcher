@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A metallic, small, white to red object was sighted in the sky near Portland, Oregon.",
-    "interesting points": [
-        "The object was described as slightly smaller than a dime.",
-        "The object changed color from white to red.",
-        "The object was observed for about 5 minutes as it moved across the horizon and went out of sight.",
-        "The sighting occurred at night.",
-        "Several witnesses reported the sighting, including a housewife, a student, a biologist, and a housewife from a different location."
-    ],
-    "result": "unexplained",
-    "sighted object": "a metallic, small, white to red object",
-    "location": "Portland, Oregon",
-    "witnesses": "a housewife, a student, a biologist, and a housewife from a different location",
-    "photographs": "no"
+    "main event": "A single metallic object was observed in Portland, Oregon, on August 31.",
+    "interesting points": "The object was small and changed colors from white to red., The observation lasted for approximately 5 minutes., There is a suggestion that it could be a satellite, but further evaluation deemed the data insufficient., Multiple witnesses included a student and a housewife, with varying reliability., The object eventually disappeared over the horizon moving easterly.",
+    "sighted object": "a small metallic object changing color from white to red",
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a 17-year-old student and a 33-year-old housewife",
+    "contains photographs": false
 }

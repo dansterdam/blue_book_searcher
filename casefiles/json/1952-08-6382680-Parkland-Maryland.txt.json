@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A metallic, round, unidentified object was observed flying over Parkland, Maryland on August 25, 1952.",
-    "interesting points": [
-        "The object appeared to be half the size of a fighter aircraft and had no aerodynamic features or trail/exhaust.",
-        "The object flew in a straight line parallel to the earth, revolved slightly, and glowed from the reflection of the sun.",
-        "The object did not appear to produce its own light or power, but seemed to drift slowly at an altitude of approximately 5,000 feet.",
-        "The object was observed by a member of the Metropolitan Police Department of Washington, D.C. and three other members of his immediate family.",
-        "The object disappeared by moving slowly to the north and out of sight at 5:15 pm on August 28, 1952."
-    ],
-    "result": "unknown",
-    "sighted object": "a metallic, round, unidentified object",
-    "location": "Parkland, Maryland",
-    "witnesses": "a member of the Metropolitan Police Department of Washington, D.C. and three other family members",
-    "photographs": "no"
+    "main event": "A round unidentified object was observed in Parkland, Maryland on 20 Aug 1952.",
+    "interesting points": "The object was observed for a duration of 30 minutes.,It appeared to be of metallic construction and was half the size of a fighter aircraft.,The object moved slowly in a straight line and revolved slightly.,The sighting was evaluated as probably a balloon release.,Witness observation included three members of the same family.",
+    "sighted object": "a round unidentified object",
+    "location": "Parkland, Maryland, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Mr. J and three members of his immediate family.",
+    "contains photographs": false
 }

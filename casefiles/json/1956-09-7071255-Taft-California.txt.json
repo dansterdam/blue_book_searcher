@@ -1,15 +1,9 @@
 {
-    "main event": "A fast-moving object, the size of a basketball at arm's length, was observed visually for two minutes.",
-    "interesting points": [
-        "The object was observed moving in a westerly direction out of the range of the naked eye.",
-        "The sighting was reported by a civilian, likely a housewife.",
-        "The weather conditions were clear with a broken cloud cover of 7 miles visibility and calm winds.",
-        "The report was sent to various military commands, including the Commander of the 75th Action Squadron, the Commander of the Air Defense Command, and the Director of Intelligence of the USAF.",
-        "The report was filed under Project 602 Baker Field."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fast-moving object, the size of a basketball at arm's length",
-    "location": "Taft, CA",
-    "witnesses": "a civilian, likely a housewife",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A sighting of a basketball-sized object moving westerly over Taft, California on 21 September 1956.",
+    "interesting points": "The object was observed for two minutes,The sighting was made by a civilian housewife,The object moved out of range of the naked eye after the initial observation,The report was part of Project Blue Book,The weather was clear with broken clouds at 7 miles visibility.",
+    "sighted object": "basketball-sized object",
+    "location": "Taft, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian housewife",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified flying objects were observed near the USSR/Turkey border on September 16, 1958.",
-    "interesting points": [
-        "The objects were observed from the deck of a US ship while searchlights were being used in the area.",
-        "The objects were estimated to be at an elevation of around 300 feet and were visible for approximately 4 seconds.",
-        "The objects were observed in multiple groups, with some appearing to be stationary for over 4 minutes and others separating into a cluster of 3-5 visible objects.",
-        "No sounds accompanied the sighting, but 'unearthly hissing sounds' were heard during both sightings.",
-        "This was the seventh report of this type submitted since July 5, 1958."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying objects",
-    "location": "Near Hopa, Turkey",
-    "witnesses": "USAF officer",
-    "photographs": "no"
+    "main event": "On 11 September 1958, bright red lights were observed in the sky near Hopa, Turkey, which broke into clusters and then reappeared as a single object.",
+    "interesting points": "The sighting lasted for 5 minutes and involved multiple series of objects observed at 30-second intervals,The objects hovered only 50-100 feet above the water,The possible explanations for the sighting included balloons, aircraft, or astronomical phenomena,There were reports of unearthly sounds during the sightings,This incident was part of a larger investigation by Project Blue Book.",
+    "sighted object": "6-9 bright red lights in the sky",
+    "location": "Hopa, Turkey",
+    "number of confirmed witnesses": 1,
+    "witness description": "A USAF officer observing from a surface vessel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers at Selfridge AFB, Michigan have observed many objects in the sky that appeared like stars flashing red, green and white in color on several occasions.",
-    "interesting points": [
-        "The objects are described as being bright green in color and flashing on and off.",
-        "The observers tried to shoot at the objects but could not see them anymore when they flashed red, green, and white.",
-        "The objects were observed for about 3.5 minutes and were seen coming out from behind the horizon.",
-        "The observers called an inspector about the incident but it's not clear what the outcome was.",
-        "The report mentions that the observers had previously seen similar objects in the area on other occasions."
-    ],
-    "result": "Possible astronomical observation (ASTRO (S/P))",
-    "sighted object": "Bright flashing objects described as star-like",
-    "location": "Selfridge AFB, Michigan",
-    "witnesses": "Multiple observers",
-    "photographs": "No"
+    "main event": "Observers at Selfridge AFB reported seeing multiple objects in the sky resembling stars, which flashed red, green, and white.",
+    "interesting points": "The objects appeared in large numbers and were noticed on several occasions,The observers described the objects as very bright and capable of changing colors,The objects exhibited varied courses in the sky,Some observers expressed frustration in not being able to count the objects accurately,The report mentions a communication with a high-ranking military officer regarding the reliability of the initial witness.",
+    "sighted object": "objects resembling stars that flashed red, green, and white",
+    "location": "Selfridge AFB, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness was a civilian, middle-aged, and claimed to have seen the objects multiple times.",
+    "contains photographs": false
 }

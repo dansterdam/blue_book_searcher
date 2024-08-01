@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two white, circular objects with bright lights were observed for approximately 2 minutes near Kalispell AFS, Montana on July 15, 1966.",
-    "interesting points": [
-        "The objects exhibited a criss-crossing flight path, disappearing into the clouds on an easterly heading.",
-        "The objects appeared to be roughly the size of a dime held at arm's length, and did not have any visible tail, trail, or exhaust.",
-        "No sound was reported from the objects.",
-        "The sighting was reported by both a civilian witness and a military radar operator, who both described the objects as reliable witnesses.",
-        "The weather conditions at the time included low pressure, cloud cover, and thunderstorm activity in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "two white, circular objects with bright lights",
-    "location": "Kalispell AFS, Montana",
-    "witnesses": "civilian and military",
-    "photographs": "no"
+    "main event": "On July 15, 1966, two distinct white objects with circular bright lights were observed at Kalispell AFS, Montana.",
+    "interesting points": "The objects were visible for approximately 2 minutes before they disappeared behind clouds., The objects exhibited varied courses and crossed paths multiple times., Witnesses noted that the objects appeared as bright circular lights without any visible tail or exhaust., One object faded away in a descending spiral of smoke., The sighting involved both military and civilian witnesses, suggesting credible observation.",
+    "sighted object": "Two circular bright lights",
+    "location": "Kalispell, Montana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One witness was a 22-year-old male radar operator in the military, and the other was a 24-year-old civilian housewife.",
+    "contains photographs": false
 }

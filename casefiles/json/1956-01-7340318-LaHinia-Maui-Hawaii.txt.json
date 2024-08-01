@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided document:
-
 {
-    "main event": "A civilian witness reported seeing a single orange-colored object the size of a quarter, with a muffled roar, moving fast and then hovering before fading out in the distance.",
-    "interesting points": [
-        "The witness reported seeing 4 UFOs in 1952 and 6 between January 6-21, 1956, indicating a history of UFO sightings.",
-        "The witness was described as mature, sincere, intelligent and respectable, suggesting reliability of the report.",
-        "The report notes that the witness' estimate of the object's size was likely inaccurate, as a dime held at arm's length would cover the moon, discounting her estimate.",
-        "The report suggests the sighting was likely an aircraft, with the object's appearance and behavior attributed to diffusion and refraction of aircraft lights through the dense atmosphere.",
-        "No air traffic records could be found to confirm the sighting, making it difficult to identify the specific aircraft."
-    ],
-    "result": "Possibly Astronomical",
-    "sighted object": "one orange-colored object the size of a quarter",
+    "main event": "A civilian reported observing a quarter-sized orange flame object with a muffled roar that hovered and then faded out over Lahinia, Maui, Hawaii on January 20, 1956.",
+    "interesting points": "The observation lasted for 25 minutes, The object was reported to be one in number, Furthermore, the observer had previously reported several UFO sightings in 1952 and early January 1956, The object was observed at a 20-degree angle of elevation and moved quickly before hovering, The investigation speculated that the object might have been an aircraft.",
+    "sighted object": "orange flame object",
     "location": "LaHinia, Maui, Hawaii",
-    "witnesses": "civilian, 56-year-old retired woman",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, aged 56, retired, observed through a screened window with house lights out.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A spherical silver-gray object approximately 3/250 mile in size was observed over the ocean near Santa Monica, California.",
-    "interesting points": [
-        "The object disappeared with a bizarre, undistorted motion.",
-        "The observer suggested the sighting was likely a reflection off a metal object.",
-        "The sighting lasted for approximately 3 minutes.",
-        "The object was observed at an elevation of 65 degrees and an azimuth of 320 degrees, then at 82 degrees elevation and 310 degrees azimuth.",
-        "The object was described as moving at a severe rate up and back towards the ocean."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a spherical silver-gray object",
-    "location": "5 miles east of Ocean in Santa Monica, California",
-    "witnesses": "unknown",
-    "photographs": "no photographs present"
+    "main event": "A sighting of a spherical silver gray object approximately 3/250 mile in size off the coast of Santa Monica, California.",
+    "interesting points": "The sighting lasted for 3 minutes and occurred at 1:00 PM on November 6, 1957,The object exhibited a bizarre disappearance,It is suggested that the sighting was possibly a reflection from an aircraft,The report includes multiple commentaries about the nature of the observation,Despite the peculiar description, the report concluded it was likely a natural occurrence.",
+    "sighted object": "spherical silver gray object",
+    "location": "Ocean, Santa Monica, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witness details provided.",
+    "contains photographs": false
 }

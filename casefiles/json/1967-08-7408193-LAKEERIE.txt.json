@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Several green lights were observed over Lake Erie on August 29, 1967.",
-    "interesting points": [
-        "The lights were round, star-sized, and constantly changing in brightness.",
-        "The lights were observed for 3 hours, with the observers watching the lights dart around the horizon.",
-        "Local radar, air traffic control, and the Coast Guard had no information about unusual activity in the area at the time.",
-        "The Coast Guard was conducting a search in the area for parachutists who had landed in the lake, but the lights did not appear to be associated with that search.",
-        "There were many private boats in the area at the time, but the lights could not be definitively identified as coming from those boats."
-    ],
-    "result": "unexplained",
+    "main event": "Several observers reported seeing multiple green lights over Lake Erie on 29 August 1967.",
+    "interesting points": "The lights were described as round and star-sized, emitting a green light, and constantly changing in appearance., The observation lasted for about three hours and fifteen minutes., Inquiry with the Cleveland Coast Guard confirmed no official boats were present in the area at that time., There were smaller private boats in the vicinity of the sighting., The conclusion suggested the lights might have been searchlights engaged in a search for a distressed vessel.",
     "sighted object": "several green lights in the sky",
-    "location": "Lake Erie",
-    "witnesses": "two civilian observers",
-    "photographs": "no"
+    "location": "Felze Point, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "observers casually watching the sky",
+    "contains photographs": false
 }

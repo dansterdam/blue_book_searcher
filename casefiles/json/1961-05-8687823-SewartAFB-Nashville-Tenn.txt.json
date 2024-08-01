@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A triangular-shaped UFO was observed over Sewart Air Force Base near Nashville, Tennessee on May 7, 1961.",
-    "interesting points": [
-        "The object was described as being about one mile in diameter, with lights around the outside edge, and hovering at an altitude of around 47,000 feet.",
-        "The object made no sound and disappeared from view.",
-        "Pilots and control tower officials observed the object, but there was no record of anything like it being over the base at that time.",
-        "A military officer stated they did not know what the object was, and it did not appear to belong to the U.S.",
-        "The object was also reportedly seen over Memphis, Tennessee earlier that day."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large triangular-shaped object",
-    "location": "Sewart Air Force Base, Nashville, Tennessee",
-    "witnesses": "pilots and control tower officials",
-    "photographs": "no photographs included in the report"
+    "main event": "Several sightings of unidentified objects, primarily identified as weather balloons, were reported over Nashville and Memphis, Tennessee between May and June 1961.",
+    "interesting points": "The object was first reported as a dot increasing in size, suggesting it approached the observer., The Nashville Civil Defense called the sighting a 'routine weather balloon.', Local TV station employees confirmed the object as a weather balloon., Pilots from Navy jets reported observing a triangular-shaped object at 20,000 feet., The object had lights on the edge and made no sound, leading to speculation about its nature.",
+    "sighted object": "triangular-shaped UFO and weather balloons",
+    "location": "Nashville, Tennessee, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "Local TV station employees, air traffic controllers, and Navy pilots.",
+    "contains photographs": false
 }

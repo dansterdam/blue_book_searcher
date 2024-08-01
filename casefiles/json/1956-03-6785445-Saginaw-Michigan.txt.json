@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian sighted a large, spherical object with a gray band at the top and bottom in Saginaw, Michigan on March 27, 1956.",
-    "interesting points": [
-        "The object appeared to be drifting from the bottom up.",
-        "The object was described as being the size of a basketball.",
-        "The object was a burnt orange color.",
-        "The observer reported the object moving at an angle of 122 degrees and disappearing at an angle of 222 degrees.",
-        "The sighting lasted for approximately 12 minutes."
-    ],
-    "result": "Possibly Balloon, Possibly Aircraft, Possibly Astronomical",
-    "sighted object": "large, spherical object with a gray band at the top and bottom",
-    "location": "Saginaw, Michigan",
-    "witnesses": "1 civilian observer, a housewife",
-    "photographs": "no photographs included in the report"
+    "main event": "A sighting of a very large spherical object with distinct grey bands was reported in Saginaw, Michigan on March 27, 1956.",
+    "interesting points": "The sighting lasted for 1 minute and 15 seconds., The object was described as having a burnt orange color and being the size of a basketball., There were reports of the object drifting from the bottom up., The possible identities of the object include a balloon, aircraft, or astronomical phenomenon., The sighting took place at dawn with clear weather conditions.",
+    "sighted object": "very large spherical object with grey bands",
+    "location": "Saginaw, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian housewife from Saginaw, Michigan",
+    "contains photographs": false
 }

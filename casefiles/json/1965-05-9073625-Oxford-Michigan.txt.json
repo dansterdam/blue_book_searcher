@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright shiny object, described as larger than a star, was observed in the sky over Oxford, Michigan on May 7, 1965.",
-    "interesting points": [
-        "The object was observed for approximately 15 minutes before suddenly disappearing.",
-        "Shortly after the original object disappeared, it gave off three smaller shiny objects, and a fourth shiny object was observed further away.",
-        "The three smaller objects struck out and gradually faded, while the original red-lighted object appeared to be standing still.",
-        "The observer thought the objects might be multiple-spring released satellites from a rocket, but this was not substantiated.",
-        "The description of the objects did not fit any known aircraft or satellite, and the case was classified as unidentified by the Air Force."
-    ],
-    "result": "unidentified",
-    "sighted object": "A bright shiny object, larger than a star, and three smaller shiny objects that separated from it",
-    "location": "Oxford, Michigan",
-    "witnesses": "A father, his 13-year-old son, and 7-year-old daughter",
-    "photographs": "no"
+    "main event": "On May 7, 1965, a family in Oxford, Michigan observed a shiny, oval object in the sky.",
+    "interesting points": "The object was initially spotted by a 12-year-old boy while birdwatching with his father and sister., The father used 6x30 binoculars and described the object as stationary with a bright area that reflected sunlight., While observing, the father reported seeing what appeared to be a copper-colored object separating from the bright object., The entire sighting lasted approximately 1 minute 5 seconds before the object faded behind cloud cover., The observers concluded that the object did not resemble any known aircraft or satellite.",
+    "sighted object": "a shiny, oval object in the sky",
+    "location": "Oxford, Michigan, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "A father, his 12-year-old son, and his 7-year-old daughter.",
+    "contains photographs": false
 }

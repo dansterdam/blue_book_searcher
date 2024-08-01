@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An official moonwatch team in Terre Haute, Indiana reported observing a satellite-like object on January 28, 1961.",
-    "interesting points": [
-        "The object was observed for 1-2 minutes.",
-        "The team was setting up for a search when they picked up the object.",
-        "The object did not fit any known object based on the team's observations.",
-        "The report notes that all known data was not available.",
-        "The conclusions listed include that the object was not a balloon, was probably a satellite, possibly an aircraft, and was not astronomical, but was ultimately unknown."
-    ],
-    "result": "unknown",
-    "sighted object": "a satellite-like object",
-    "location": "Terre Haute, Indiana",
-    "witnesses": "an official moonwatch team",
-    "photographs": "no"
+    "main event": "An official moonwatch report recorded a sighting of a satellite appearing object in Terre Haute, Indiana on January 28, 1961.",
+    "interesting points": "The sighting occurred on January 28, 1961, at 10:20 AM.,The observation lasted for 1-2 minutes.,The object was suspected to be a satellite, possibly an aircraft, but not a balloon or astronomical object.,The report noted that all known data was not available.,The registered team leader for the observation was from Terre Haute, Indiana.",
+    "sighted object": "object suspected to be a satellite",
+    "location": "Terre Haute, Indiana, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "moonwatch team from Terre Haute, Indiana",
+    "contains photographs": false
 }

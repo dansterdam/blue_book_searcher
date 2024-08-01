@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A circular-shaped, light-colored, and reflective object was spotted in the sky over Kettering, Ohio on May 1, 1964.",
-    "interesting points": [
-        "The object appeared to be brighter than the brightest stars.",
-        "The object had a slightly blurred irregular outline.",
-        "The object moved northerly and then made a slight turn to the northeast before fading into the distance.",
-        "The sighting lasted for 2-3 minutes.",
-        "The witness had seen a similar object about 1/2 hour earlier on May 4, 1963 in Kettering, Ohio."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Circular-shaped, light-colored, reflective object",
-    "location": "Kettering, Ohio",
-    "witnesses": "1 civilian witness",
-    "photographs": "No"
+    "main event": "A sighting of a circular shaped light colored object occurred in Kettering, Ohio on May 1, 1964.",
+    "interesting points": "The object was described as a circular shape, reflective and brighter than stars., The sighting lasted between 2 to 3 minutes., It was observed moving northerly under clouds, possibly from a distance of 8 to 10 miles., The witness reported no sound coming from the object., The conclusion reached was that it was likely a balloon.",
+    "sighted object": "circular shaped light colored object",
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "18 years old male, located in Kettering, Ohio",
+    "contains photographs": false
 }

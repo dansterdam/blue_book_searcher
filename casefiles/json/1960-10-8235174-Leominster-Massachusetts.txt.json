@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A circular-shaped object with a fiery glow was spotted by a military aircraft near Gardner-Athol, Massachusetts.",
-    "interesting points": [
-        "The object was seen at 1541 hours on October 21, 1980 and disappeared 3 minutes later.",
-        "The object was traveling northwest and burst into flame near the vicinity of Gardner-Athol, Massachusetts.",
-        "The object could not be identified as any known aircraft.",
-        "A second report mentions an unidentified aerial object observed on the ground near Gardner and Leominster, Massachusetts around 05-15 hours.",
-        "The witness(es) of the ground object are blacked out in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular-shaped object with a fiery glow",
-    "location": "Gardner-Athol and Leominster, Massachusetts",
-    "witnesses": "military aircraft, unknown ground witnesses",
-    "photographs": "no photographs included in the report"
+    "main event": "A civilian reported observing an unidentified aerial object in Leominster, Massachusetts on October 21, 1960.",
+    "interesting points": "The object was observed for 3 minutes and followed a straight course., The object's characteristics resembled those typically described as a UFO., The report indicated a red color associated with the object, which was difficult to explain., A military aircraft reportedly sighted a similar unidentified object that burst into flames., This event is related to Project Blue Book and was communicated to various military channels.",
+    "sighted object": "one unidentified aerial object",
+    "location": "Leominster, Massachusetts, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Witness's identity is blacked out in the record.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "The report appears to be about a satellite observation, not a UFO sighting.",
-    "interesting points": [
-        "The report includes details about the position, altitude, and flight direction of a satellite designated as 1960 IOTA 1.",
-        "The observation was made between June 22, 1963 and July 25, 1963, with multiple data points recorded over this time period.",
-        "The report indicates the satellite was crossing the equator heading northeast at 100 degrees East longitude on June 24, 1963 at 2100 hours.",
-        "The report confirms the identity of the observed object as the 16263 satellite, ECHO I.",
-        "There are no photographs included in the report, only numerical data in a tabulated format."
-    ],
-    "result": "identified as satellite (ECHO I)",
-    "sighted object": "1960 IOTA 1 satellite",
-    "location": "Unspecified",
-    "witnesses": "Unspecified",
-    "photographs": "none"
+    "main event": "On June 24, 1963 at 2100 hours, ECHO crossed the equator heading NE and was confirmed to be the 16263 satellite ECHO I.",
+    "interesting points": "The observation lasted for 7 minutes., The satellite was identified to be at about 17 degrees S latitude, 1400 miles south of the reported time., The document is a page from a Project Blue Book UFO report., The event involved confirmation of a satellite's position and trajectory., There are no photographs included in the report.",
+    "sighted object": "satellite ECHO I",
+    "location": "Unknown Location, Unknown Region, Unknown Country",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

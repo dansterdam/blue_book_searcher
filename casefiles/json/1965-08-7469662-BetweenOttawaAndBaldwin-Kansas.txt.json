@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observation of an object-shaped object with a green tail that seemed to flash out over Interstate 35 between Ottawa and Baldwin, Kansas.",
-    "interesting points": [
-        "The object was shaped like a diamond or basketball and was bright green in color.",
-        "The object was observed for about 15 seconds, traveling from south to north.",
-        "The object seemed to 'flameout' or fade out as it traveled to the north.",
-        "The witness was a salesman who was driving on the highway and was the only one who observed the object.",
-        "The weather conditions were clear with some high clouds, and the visibility was over 12 miles."
-    ],
-    "result": "unexplained",
-    "sighted object": "object-shaped object with a green tail",
-    "location": "Between Ottawa and Baldwin, Kansas",
-    "witnesses": "salesman",
-    "photographs": "none"
+    "main event": "Observation of meteor-like object with a green tail flying from south to north for 15 seconds.",
+    "interesting points": "The object was described as having a flash and seemed to flame out during its flight., The sighting occurred on I-35 highway between Ottawa and Baldwin, Kansas., The observer was a reliable salesman traveling at the time., The observation was made during clear night conditions with some high clouds., There was no photographic evidence provided in the report.",
+    "sighted object": "meteor-like object with green tail",
+    "location": "Ottawa, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "salesman, appeared reliable",
+    "contains photographs": false
 }

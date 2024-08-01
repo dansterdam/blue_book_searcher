@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large, abnormally large blip was detected on radar, with an estimated speed of about 1200 mph. The radar track elevated from 270 to 0 degrees and then disappeared.",
-    "interesting points": [
-        "The radar track was described as an 'abnormally large blip' compared to regular night reflections.",
-        "The speed of the object was estimated to be around 1200 mph.",
-        "The elevation angle of the radar track slowly elevated from 270 to 0 degrees before disappearing.",
-        "No visual sighting was made, only the radar track was observed.",
-        "The report was evaluated as 'INSUFFICIENT DATA' for proper evaluation."
-    ],
-    "result": "insufficient data",
-    "sighted object": "Radar track of an abnormally large blip",
-    "location": "Atlantic Ocean (35°35'N, 57°45'W)",
-    "witnesses": "Crew of an aircraft (Capt. Henry R. Bilz, Sgt. Robert J. Simko, A1C John C. Basarab, A2C Robert E. Franke)",
-    "photographs": "no"
+    "main event": "A radar track recorded an unusually large blip interpreted as a UFO on 16 Feb 1961.",
+    "interesting points": "The radar blip was noted as abnormally large compared to regular night reflections., Estimated speed of the object was 1200 mph., The elevation angle changed from 270 to 0 degrees before it disappeared., The report classifies the data as insufficient for clear evaluation., Multiple personnel evaluated the report but found it lacking pertinent information.",
+    "sighted object": "Unusual radar track blip",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "No visual sighting made, based solely on radar data.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report:
-
 {
-    "main event": "A civilian observer reported seeing a bright light in the sky that was moving rapidly in a northerly direction.",
-    "interesting points": [
-        "The object was seen on multiple occasions at around 9:15 PM by several observers in the town.",
-        "The object emitted a sharp whistling sound as it was observed.",
-        "The object was described as a bright light, not having any flashing lights, and appeared to be very high in the sky.",
-        "The object was seen in the same general direction on multiple occasions.",
-        "The government's response indicates the object was likely a satellite, providing details on satellite orbits and visibility."
-    ],
-    "result": "Probable satellite",
-    "sighted object": "A bright light in the sky",
-    "location": "Brockway, PA",
-    "witnesses": "Civilian observer(s)",
-    "photographs": "No photographs included"
+    "main event": "Observers reported seeing a bright light in the sky, which they believed to be a satellite, moving rapidly in a northerly direction.",
+    "interesting points": "The observation lasted for 1 hour and 10 minutes., The object was described as being like a bright star., There were multiple reports of sightings around the same time in the past., The observers were confused about the repeated appearances of the object at the same time of night., The report concluded that further investigation was not warranted due to lack of evidence.",
+    "sighted object": "bright light in the sky",
+    "location": "Brockway, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer noted hearing a sharp whistling sound and described the light as very bright and moving quickly, without any flashing lights.",
+    "contains photographs": false
 }

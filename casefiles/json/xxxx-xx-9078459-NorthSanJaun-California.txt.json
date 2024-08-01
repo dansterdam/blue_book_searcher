@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-  "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-  "interesting points": [
-    "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-    "The farmer saw glowing eyes in the woods.",
-    "The orbs emitted a low humming sound.",
-    "Other farmers reported similar sightings in the area.",
-    "The sighting lasted for about 10 minutes."
-  ],
-  "result": "unexplained",
-  "sighted object": "three glowing orbs in the sky",
-  "location": "Rural Area, ST",
-  "witnesses": "farmer",
-  "photographs": "yes, the report includes photographs"
+    "main event": "On March 15, 1952, several observers reported seeing a stationary, odd-shaped unidentified flying object emitting light in California.",
+    "interesting points": "The object remained in the sky for approximately 30 minutes without moving,The observers reported that the object would turn dark and then light up again,The object was described as being about the size of a medium-sized transport plane,During the observation, several 'little people' were seen watching the object from the ground,The object ultimately took off at a high rate of speed and disappeared from sight.",
+    "sighted object": "an odd-shaped object emitting light",
+    "location": "California, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "observers who saw the object from around 100 feet away and did not approach due to fear",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple witnesses observed a large, metallic triangular or V-shaped object moving smoothly in the sky near San Luis Obispo, California in April 1968.",
-    "interesting points": [
-        "The object appeared metallic and was estimated to be 50-100 feet in diameter.",
-        "The object would occasionally stop and hover, then continue moving smoothly.",
-        "The object made no sound and had a silver/metallic hue.",
-        "One witness had seen a similar UFO before that circled slowly, hovered, and moved rapidly.",
-        "The sighting lasted for over 20 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, triangular or V-shaped metallic object",
-    "location": "San Luis Obispo, California",
-    "witnesses": "multiple witnesses, including one 40-year-old observer",
-    "photographs": "no"
+    "main event": "Observers reported seeing 5 unidentified objects with a pattern of yellow lights in San Luis Obispo, California on 2/23/52.",
+    "interesting points": "The objects were visible for 5 minutes and did not make any noise due to a nearby jet,The lights were similar to those of an airplane but did not blink off and on,Multiple observers had vantage points from both land and sea,There was speculation that the sighting could have been due to one of the numerous aircraft operating in the area,The findings were documented as part of Project Blue Book under possible aircraft.",
+    "sighted object": "five unidentified objects with yellow lights",
+    "location": "San Luis Obispo, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "The description includes observations made from a moving vehicle and another person's experience with a similar sighting.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the summary in JSON format, based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing an unidentified object near a hole in the ice of Pike Lake in Duluth, Minnesota on November 23, 1966.",
-    "interesting points": [
-        "The observer heard his dogs barking before spotting the object.",
-        "The object was described as nondescript, the size of a silver dollar at arm's length, and blue-white in color.",
-        "The object was stationary and then disappeared after the observer went inside and returned.",
-        "The sighting lasted less than a minute.",
-        "The observer claimed to be a private pilot and former OSI agent."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "nondescript, blue-white object",
-    "location": "Duluth, Minnesota",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "An unidentified flying object was reported in Duluth, Minnesota on November 29, 1966.",
+    "interesting points": "The object was described as nondescript but blue-white and green in color., The observer heard dogs barking before the sighting., The object was stationary and disappeared within less than a minute., The sighting occurred near a hole in the ice of Pike Lake., A civilian observer claimed to be a private pilot and former OSI agent.",
+    "sighted object": "unidentified flying object",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, age thirty-five, associated with Chippewa Outfitters, a sporting goods store",
+    "contains photographs": false
 }

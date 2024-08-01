@@ -1,15 +1,9 @@
 {
-    "main event": "A ball of fire was sighted in Karachi, Pakistan on October 23, 1954.",
-    "interesting points": [
-        "The sighting was reported in a Karachi newspaper.",
-        "The object was described as a ball of fire, indicating a probable meteor sighting.",
-        "The observation was made by a civilian source.",
-        "The length of the observation was not reported.",
-        "The document also mentions an unidentified aircraft sighted on October 25, 1954 near Karachi."
-    ],
-    "result": "The sighting was concluded to be a meteor.",
-    "sighted object": "A ball of fire",
+    "main event": "An observation of a meteoric object was reported in Karachi, Pakistan on 23 December 1954.",
+    "interesting points": "The object was identified as a meteor based on the conclusion from the ONI report., The sighting was recorded as a ball of fire., The report referenced an article that appeared in a Karachi newspaper., The exact length of time for the observation was not reported., Details about an aircraft sighting were noted from 25 October 1954, but the location and heading were unknown.",
+    "sighted object": "ball of fire",
     "location": "Karachi, Pakistan",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Miamisburg, Ohio reported seeing a white, cigar-shaped object traveling very fast and turning up like a meteor on August 23, 1960.",
-    "interesting points": [
-        "The object was dull in color, probably the same as the stars, and was sighted momentarily for 1/3 to 1 second.",
-        "The witness reported seeing the object at 9:55 AM and stated it was 'probably a balloon, blimp, asteroid, meteorite or aeroplane/helicopter/balloon'.",
-        "The witness described the object as being about the size of a regular cigar and traveling in a straight line.",
-        "The witness reported that the object illuminated the whole yard around the house for about 5-10 minutes before fading out.",
-        "There were two objects traveling together, both orange in color with a trail or vapor trail."
-    ],
-    "result": "Unidentified, Insufficient Data for Evaluation",
-    "sighted object": "white, cigar-shaped object",
-    "location": "Miamisburg, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A witness observed a white, cigar-shaped object moving very fast in a straight line over Miamisburg, Ohio, on August 23, 1960.",
+    "interesting points": "The object appeared to be the size of a regular cigar and turned upwards like a meteor., The object was dull in color and blended with the night sky, making it hard to spot., It was observed for 1/3 to 1 second and moved very quickly., Another witness experienced a bright light illuminating the yard around their house for about 5-10 minutes but could not locate the source., A sketch drawn by the witness depicted an oval shape with a vapor trail.",
+    "sighted object": "a white, cigar-shaped object",
+    "location": "Miamisburg, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "one civilian witness and another named Mrs. Margaret Duo",
+    "contains photographs": false
 }

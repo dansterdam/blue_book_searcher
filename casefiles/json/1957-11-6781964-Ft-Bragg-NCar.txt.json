@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Multiple unidentified flying objects were observed near Fort Bragg, North Carolina on several occasions in 1957.",
-    "interesting points": [
-        "The objects were observed by military personnel, including a tank team member who had received training in observing and reporting such objects.",
-        "The objects were described as being white, round, and the size of a basketball, with one object estimated to be at an altitude of 10,000 feet and 2 miles away from the observer.",
-        "The objects were observed moving at high speeds, up to 600 knots, and performing maneuvers such as rotating and changing bearing.",
-        "On one occasion, the Fort Bragg tower reported that two aircraft had landed at the base around the same time as the sighting.",
-        "The Air Intelligence Officer investigating the reports was unable to determine the cause of the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "White, round objects the size of a basketball",
-    "location": "Fort Bragg, North Carolina",
-    "witnesses": "Military personnel, including a tank team member",
-    "photographs": "No photographs available"
+    "main event": "An unidentified flying object was observed near Ft. Bragg, North Carolina on November 9, 1957.",
+    "interesting points": "The sighting lasted for 3 minutes and involved 8 to 10 objects,The witnesses reported seeing a white object the size of a basketball,The object moved from the South to the Northeast,The weather conditions were clear with good visibility during the observation,Military personnel were the witnesses and conducted the observation.",
+    "sighted object": "white object the size of a basketball",
+    "location": "Ft. Bragg, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a member of the 14th Troop Carrier Wing",
+    "contains photographs": false
 }

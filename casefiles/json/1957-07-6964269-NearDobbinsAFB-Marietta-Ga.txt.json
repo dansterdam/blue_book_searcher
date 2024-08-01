@@ -1,15 +1,9 @@
 {
-  "main event": "On July 6, 1957, near Dobbins AFB in Marietta, Georgia, Major Baker and 3 other officers observed a bluish white oval-shaped aerial object with an erratic flight path, estimating its speed at approximately 750 mph. The object disappeared after 15 minutes, and it was suggested to be a balloon or possibly a satellite.",
-  "interesting points": [
-    "The sighting was considered valid and confirmed by S/Sgt Hughes and Airman Sparks, with no radar contacts in the area.",
-    "The report suggests a preliminary analysis that the sighting was caused by a meteorological disturbance.",
-    "Another report mentions an orange ball with a long trail transitioning to a dull gray.",
-    "The elevation and azimuth of the observed object, estimated at 5,232 to 5,322 ft., are documented.",
-    "S/Sgt Hughes, a reliable witness, reported seeing the sky clear with stars in sight and no clouds during the observation."
-  ],
-  "result": "prosaic explanation e.g. 'balloon' or 'possibly a satellite'",
-  "sighted object": "bluish white oval-shaped aerial object with erratic flight path",
-  "location": "Dobbins AFB, Marietta, Georgia",
-  "witnesses": "Major Baker and 3 other officers, S/Sgt Hughes, and Airman Sparks",
-  "photographs": "no"
+    "main event": "On July 6, 1957, Major Baker and three other officers observed a peculiar aerial object near Dobbins AFB.",
+    "interesting points": "The object was estimated to be traveling at approximately 750 mph,The object was described as bluish white and oval-shaped,The object exhibited an erratic flight path and disappeared after about 15 minutes,The sighting was confirmed by S/SGT Hughes and Airman Sparks at Dobbins AFB,Upon preliminary analysis, the sighting was suggested to be caused by a meteorological disturbance.",
+    "sighted object": "one bluish white oval-shaped object",
+    "location": "Marietta, Georgia, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Major Baker and three other officers",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A large, round, white object was observed for 3 seconds at Fairchild AFB, Washington on December 3, 1957.",
-    "interesting points": [
-        "The object disappeared in a flash.",
-        "The sighting occurred during a meteoritic shower called the Geminids.",
-        "The object was initially thought to be a balloon, astronomical object, or aircraft, but there was insufficient data for a definitive evaluation.",
-        "The object was observed by ground-visual means and was described as making a starboard turn in an aircraft.",
-        "The pilot of a B-52 aircraft at 43,020 feet altitude also reported observing the object."
-    ],
-    "result": "unexplained",
+    "main event": "A large, round, white object was observed at Fairchild AFB, Washington on 3 December 1957 and disappeared in a flash after 3 seconds.",
+    "interesting points": "The sighting occurred during the Geminids meteoritic shower., The object was concluded to possibly be a balloon, astronomical object, or aircraft., The observation was visually confirmed and lasted only 3 seconds., The report contains classifications indicating insufficient data for evaluation., The sighting involved a single object.",
     "sighted object": "large, round, white object",
-    "location": "Fairchild AFB, Washington",
-    "witnesses": "ground-visual observation, B-52 pilot",
-    "photographs": "none"
+    "location": "Fairchild AFB, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Pilot from Fairchild AFB",
+    "contains photographs": false
 }

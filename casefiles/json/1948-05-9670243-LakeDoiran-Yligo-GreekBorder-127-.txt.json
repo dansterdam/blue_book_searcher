@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting incident occurred near the Yugoslav-Greek border on 7th May 1948, with limited information suggesting the observed object may have been a meteor.",
-  "interesting points": [
-    "The document contains evaluations by Dr. Hynek extracted from Project Grudge Report, categorizing incidents into astronomical and non-astronomical classifications with probability rankings.",
-    "Numerous sightings were categorized as non-astronomical but suggestive of other explanations, including balloons, ordinary aircraft, rockets, flares, and falling bodies.",
-    "Some incidents lacked evidence to provide a conclusive explanation, precluding detailed analysis.",
-    "The report indicates a lack of available photographs of the UFO incidents, highlighting the challenge of substantiating visual evidence.",
-    "The document was communicated to the Greek Liaison Representatives, indicating official channels of information dissemination regarding UFO sightings."
-  ],
-  "result": "prosaic explanation e.g. 'possibly the object observed was a meteor'",
-  "sighted object": "Unidentified Flying Object (UFO)",
-  "location": "Yugoslav-Greek border",
-  "witnesses": "Not specified in the provided text",
-  "photographs": "No, the report indicates a lack of available photographs"
+    "main event": "An unidentified flying object was reported on 7 May 1948 at the Yugoslav-Greek border, possibly a meteor.",
+    "interesting points": "The report indicates limited information available for conclusions about the sighting., The date of the incident is noted as 7 May 1948., The location of the sighting is the Lake Doiran area on the Yligo-Greek border., It is mentioned that there are no photographs associated with the incident., The official evaluation classifies the sighting under astronomical phenomena.",
+    "sighted object": "unknown flying object possibly identified as a meteor",
+    "location": "Lake Doiran, Yligo-Greek Border, Greece",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witness descriptions available due to minimal information in the report.",
+    "contains photographs": false
 }

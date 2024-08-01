@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two round red objects were seen moving back and forth at Roslyn AFS, New York on November 5, 1957.",
-    "interesting points": [
-        "The objects were observed for 5-10 minutes.",
-        "The duration of the sighting was 5 minutes.",
-        "The report concluded that the objects were not weather balloons and there was insufficient data to evaluate the sighting, leaving it as 'Unknown'.",
-        "The sighting was classified as a ground-visual type.",
-        "The source of the sighting was also ground-visual."
-    ],
-    "result": "unknown",
+    "main event": "Two round red objects were observed moving back and forth.",
+    "interesting points": "The sighting occurred early in the morning,The objects were seen for a duration of 5-10 minutes,The report specifies that the observation was visual and from the ground,There was a clear conclusion of 'No Weather Balloons',Insufficient data was available for further evaluation.",
     "sighted object": "two round red objects",
-    "location": "Roslyn AFS, N.Y.",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Roslyn AFS, N.Y., USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses mentioned",
+    "contains photographs": false
 }

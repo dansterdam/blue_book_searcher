@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported sighting a shaft of light in the sky at regular intervals during a one-hour period at night in Augusta, Kentucky on July 26, 1949.",
-    "interesting points": [
-        "The observer noted a similarity between the reported phenomenon and the appearance of a searchlight beam often used at carnivals, fairs, and public gatherings.",
-        "The communication to the Headquarters expressed a wish for the observed 'lightning in the sky' to be natural lights, indicating a genuine curiosity about the phenomenon.",
-        "The handwritten page mentions the possibility of the observed lights being similar to the 'bomb Wright field,' suggesting a reference to experimental aircraft or military activity.",
-        "The location of the sighting was 45 miles up the Ohio river from Cincinnati, adding geographical context to the report.",
-        "The reported sighting took place during the post-World War II period, a time of significant technological advancements and military activities, potentially influencing perceptions of unidentified aerial phenomena."
-    ],
-    "result": "prosaic explanation",
+    "main event": "An observer in Augusta, Kentucky sighted a shaft of light in the sky at regular intervals during a one hour period at night.",
+    "interesting points": "The event took place on July 26, 1949, The observer noted the light appeared at regular intervals, The military communicated with the observer, suggesting it could resemble a searchlight beam, No detailed identification of the light could be made, The observer mentioned geographic location as being 45 miles up the Ohio river from Cincinnati.",
     "sighted object": "shaft of light in the sky",
-    "location": "Augusta, Kentucky",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Augusta, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer described intermittent light in the sky",
+    "contains photographs": false
 }

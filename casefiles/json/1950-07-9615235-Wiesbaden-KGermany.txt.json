@@ -1,15 +1,9 @@
 {
-    "main event": "Radar observation of unidentified objects near Wiesbaden, Germany on July 7, 1950",
-    "interesting points": [
-        "The GCA radar detected the objects at an altitude of approximately 11,000 feet and they were observed for around 15-20 minutes.",
-        "The objects appeared to separate into 4 or 5 blurred individual targets, spaced 900 to 1000 yards apart, and were moving at an extremely high speed of approximately 2,000 to 3,000 miles per hour.",
-        "The high speed of the objects suggested the possibility of them being jet aircraft, but the Wiesbaden control tower operator stated that no jet aircraft were known to be flying in the area at that time.",
-        "An airman of the 1947th AACS Squadron reported hearing sounds similar to those made by low-flying jet aircraft at about 2300Z on the same day, without advance knowledge of the radar observation.",
-        "The report states that the targets were then lost from sight, approximately 21:07 as the operation's concentration shift."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified objects detected on radar",
+    "main event": "USAF radar operators observed 2 or 3 unidentified targets near Wiesbaden, Germany on July 7, 1950.",
+    "interesting points": "The radar detected the objects at an altitude of approximately 11,000 feet.,The unidentified objects moved at extremely high speeds of approximately 2,000 to 3,000 miles per hour.,The targets appeared to separate into 4 or 5 blurred individual targets.,The Wiesbaden control tower operator confirmed no jet aircraft were known to be in the area at that time.,An airman reported hearing sounds similar to low-flying jet aircraft around the same time as the radar observation.",
+    "sighted object": "unidentified targets on radar",
     "location": "Wiesbaden, Germany",
-    "witnesses": "USAF personnel, including a GCA crew and a security officer",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "USAF airman associated with the 1947th AACS Squadron",
+    "contains photographs": false
 }

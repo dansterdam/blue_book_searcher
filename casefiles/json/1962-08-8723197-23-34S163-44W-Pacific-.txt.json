@@ -1,15 +1,9 @@
 {
-    "main event": "A crew member on a destroyer ship spotted a bright, unidentified object of similar size to Venus in the sky over the Pacific Ocean.",
-    "interesting points": [
-        "The object was observed to suddenly disappear behind the horizon.",
-        "The object's movement and maneuverability were described as irregular and atypical of a known aircraft.",
-        "The report mentions that the speed and maneuverability of the object were such that it should have gone out of sight, but it did not.",
-        "The report concludes that the sighting was inconclusive, with no confirming information and no evidence of an attempt to properly evaluate the object.",
-        "The sighting occurred on August 30, 1962 at 0330Z in the Pacific Ocean at coordinates 23°34.9'S, 163°0.1'W."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright, unidentified object similar in size to Venus",
-    "location": "Pacific Ocean, 23°34.9'S, 163°0.1'W",
-    "witnesses": "crew member on a destroyer ship",
-    "photographs": "no"
+    "main event": "A sighting of an unidentified object, potentially a craft, was reported in the Pacific Ocean on 29 August 1962.",
+    "interesting points": "The object was observed for 4 minutes,The object's brightness and size were compared to Venus,The object's speed seemed irregular and maneuverability was limited,The object moved southwest and disappeared behind the horizon,No trails were observed from the object.",
+    "sighted object": "unidentified object in the sky",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "Luis Simpson, OCS Dane, SN, Lookout, Excellent",
+    "contains photographs": false
 }

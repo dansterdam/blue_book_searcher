@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "Radar operators at Edwards AFB detected and tracked two unidentified bright objects at a range between 20 and 45 miles, traveling at 500-600 knots. The objects were observed visually through binoculars and appeared to be flat, circular, and silver in color.",
-    "interesting points": [
-        "The objects had varying and erratic flight paths, including sharp banking turns.",
-        "Attempts were made to scramble intercept aircraft to the area, but they were unable to make visual contact with the objects.",
-        "A bright light was also reported descending near Leuhman Ridge, slowly moving and fading out.",
-        "Photos were obtained of the incident, but the conclusion was that there was insufficient data to fully evaluate it.",
-        "The incident was classified as an unidentified flying object."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified bright objects detected on radar, and a bright light descending near Leuhman Ridge",
-    "location": "Edwards AFB, California",
-    "witnesses": "radar operators, visual observers",
-    "photographs": "yes, photos were obtained but inconclusive"
+    "main event": "Several unidentified flying objects were observed at Edwards Air Force Base, California, on multiple occasions in October 1965.",
+    "interesting points": "Objects were tracked on radar at speeds between 500-600 knots., The objects exhibited erratic flight patterns, including sharp banking turns., Multiple military personnel reported sightings of bright lights in the sky., At least one object was described as disc-shaped with a metallic appearance., Despite efforts to intercept visually, no aircraft were able to make contact with the objects.",
+    "sighted object": "Unidentified flying objects emitting bright lights",
+    "location": "Edwards AFB, California, USA",
+    "number of confirmed witnesses": 9,
+    "witness description": "Military personnel including airmen and tower operators",
+    "contains photographs": false
 }

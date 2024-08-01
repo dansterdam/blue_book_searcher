@@ -1,13 +1,9 @@
-
-
 {
-    "main event": "Unfortunately, the provided text does not contain any details about a UFO sighting or event. The text appears to be a description of a set of photographs related to Project Blue Book, a U.S. government program that investigated unidentified flying objects (UFOs). However, the text does not mention any specific UFO sighting or event. Therefore, I cannot provide a summary in the requested JSON format, as there are no details about a UFO case to summarize.",
-    "interesting points": [
-        "Unfortunately, the provided text does not contain any details about a UFO sighting or event. The text appears to be a description of a set of photographs related to Project Blue Book, a U.S. government program that investigated unidentified flying objects (UFOs). However, the text does not mention any specific UFO sighting or event. Therefore, I cannot provide a summary in the requested JSON format, as there are no details about a UFO case to summarize."
-    ],
-    "result": "",
-    "sighted object": "",
-    "location": "Swan Lake, New York",
-    "witnesses": "unknown",
-    "photographs": "0"
+    "main event": "A UFO report related to Project Blue Book dated September 27, 1965, from Swanlake, New York.",
+    "interesting points": "The report includes two black and white photographs showing landscapes with trees and foliage., The photographs depict similar content with trees in the foreground against a cloudy sky., There are no identifiable human figures in the photographs., The images appear to be from an older document or report., The report is classified as UNCLASSIFIED under the Foreign Technology Division.",
+    "sighted object": "landscape with trees and cloudy sky",
+    "location": "Swanlake, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses described in the report",
+    "contains photographs": false
 }

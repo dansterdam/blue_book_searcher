@@ -1,15 +1,9 @@
 {
-    "main event": "On August 19, 1956, a strange light phenomena was sighted in the skies over Kuopio, Finland, visible for over 2 hours before disappearing.",
-    "interesting points": [
-        "The sighting lasted for over 2 hours, indicating a prolonged and significant event.",
-        "The report suggests that the phenomenon looked exactly like a previous sighting in Kuopio during mid-summer, indicating a recurring occurrence.",
-        "The conclusions listed possibilities including balloon, aircraft, and astronomical phenomena, but the comments noted it as unknown, leaving the event unexplained.",
-        "The report mentions the presence of photographs, indicating visual evidence of the sighting.",
-        "This event took place in Kuopio, Finland, adding to the global nature of UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "strange light phenomena",
+    "main event": "A strange light phenomenon was sighted in the skies over Kuopio on August 19, 1956.",
+    "interesting points": "The light was visible for more than 2 hours., The phenomenon was approached after it disappeared., The phenomenon resembled something seen in Kuopio during mid-summer., Multiple conclusions were drawn including possibilities of a balloon, aircraft, or astronomical phenomena., No photographs were actually present despite being mentioned.",
+    "sighted object": "strange light phenomenon",
     "location": "Kuopio, Finland",
-    "witnesses": "unknown",
-    "photographs": "yes the report includes photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A bright white light was observed on the horizon to the southwest, described as being about as bright as the full moon.",
-    "interesting points": [
-        "The object was observed for approximately 5 minutes.",
-        "The observer stated that the object's brightness was comparable to the full moon.",
-        "The object was observed setting on the horizon at an azimuth of 255 degrees and an altitude of 10 degrees.",
-        "The report concludes that the observed object was likely the planet Mars setting.",
-        "The report includes a detailed questionnaire with questions about the observer's location, viewing conditions, and characteristics of the observed object."
-    ],
-    "result": "Probable identification as the planet Mars",
-    "sighted object": "A bright white light",
-    "location": "Shenandoah, IA (radar camera station)",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "An observer sighted a bright white light on the horizon to the southwest that was about as bright as the full moon.",
+    "interesting points": "The object was observed for approximately 5 minutes., The observation type was ground-visual., The object was seen in a clear sky during the night., The observer noted that the object appeared to be solid., MARS was setting in the sky at the time of the sighting.",
+    "sighted object": "bright white light",
+    "location": "Shenandoah, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "one observer with a clear view of the object",
+    "contains photographs": false
 }

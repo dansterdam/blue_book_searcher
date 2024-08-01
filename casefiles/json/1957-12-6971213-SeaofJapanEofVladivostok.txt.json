@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A projectile was sighted by the S/C Commander which passed over the tail of the aircraft at a low altitude, disappearing from sight. The object appeared to be a bright lighted body, making a bombing-type dive and was traveling in a level course.",
-    "interesting points": [
-        "The object was observed by ground radar for approximately 30 minutes.",
-        "The object was described as a 'bright lighted body' that made a 'bombing-type dive' and traveled in a level course.",
-        "There was insufficient data from the radar return for a full evaluation of the sighting.",
-        "The report mentions a number of 'unusual electronic signals' and 'definite evidence of jamming activity' in the Far East region recently.",
-        "The incident occurred in Japan on December 23, 1957."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright lighted projectile/body",
+    "main event": "A projectile was sighted by the S/C Commander, passing over the tail of the aircraft at a low altitude before disappearing from sight.",
+    "interesting points": "The sighting lasted for approximately 30 minutes,The object appeared as a bright lighted body making a bombing-type dive,The radar data was insufficient for evaluation,There was a notable absence of visual or radar evidence to support the sighting,The report highlights unusual electronic signals and jamming activities in the Far East recently.",
+    "sighted object": "a bright lighted body",
     "location": "Japan",
-    "witnesses": "S/C Commander, ground radar",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "S/C Commander",
+    "contains photographs": false
 }

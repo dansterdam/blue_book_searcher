@@ -1,15 +1,9 @@
 {
-"main event": "On 6 February 1956 in San Fernando, California, an observer reported a single, circular object, yellowish-white in color, the size of a pinhead at arm's length, moving at 500 knots from southwest to northeast.",
-"interesting points": [
-	"The object was described as moving at a very high speed of 500 knots.",
-	"The observer compared the size of the object to that of a pinhead at arm's length.",
-	"The Air Force concluded this was likely an aircraft sighting.",
-	"The record card contained details such as the date, time, location, and length of observation.",
-	"The report was classified as unclassified."
-],
-"result": "probable aircraft sighting",
-"sighted object": "single, circular object moving at 500 knots",
-"location": "San Fernando, California",
-"witnesses": "one observer, 22 years old, spot welder",
-"photographs": "yes, the report includes photographs"
+    "main event": "A sighting of a single circular object occurred on 6 February 1956 in San Fernando, California.",
+    "interesting points": "The object was described as the size of a pinhead at arm's length., The color of the object was yellowish-white like a light bulb., The object was moving at an estimated speed of 500 knots., The sighting lasted for about 10 seconds., The Air Force concluded it was likely an aircraft sighting.",
+    "sighted object": "a circular yellowish-white object",
+    "location": "San Fernando, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 22-year-old spot welder",
+    "contains photographs": false
 }

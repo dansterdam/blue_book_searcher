@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "A bright, disc-shaped object was observed by ground and airborne witnesses near Okinawa, Japan on May 5, 1961.",
-    "interesting points": [
-        "The object was the size and shape of a double-winged aircraft, with trailing or dancing red lights. There was no blinking of the lights.",
-        "The object moved continuously up and down rapidly between 30 and 50 feet, with no sound heard.",
-        "The object's motion suggested it was a very high-speed meteor or missile.",
-        "The object crossed the path of an aircraft about 500 feet above it, and then suddenly disappeared after reaching its apogee.",
-        "All observers, including a captain, crew, and security personnel, were considered reliable witnesses."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, disc-shaped object with trailing red lights",
-    "location": "Okinawa & Vicinity",
-    "witnesses": "ground observers at Naha Air Base, Okinawa and crew of a B-52 aircraft",
-    "photographs": "no photographs available"
+    "main event": "On 9 May 1961, a sighting was reported of an unidentified object over Okinawa, observed using ground radar.",
+    "interesting points": "The object was reported to be the size and shape of a double-winged aircraft with trailing red lights., It exhibited no sound and moved rapidly in a vertical oscillating motion., There were multiple observers including airborne personnel., The weather conditions during the observation were clear., The object vanished suddenly after reaching its apex and beginning descent.",
+    "sighted object": "an unidentified object with red lights",
+    "location": "Okinawa, Okinawa, Japan",
+    "number of confirmed witnesses": 5,
+    "witness description": "Ground and airborne observers, including military personnel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The observer sighted a light that looked like a large star in Dayton, Ohio on 1/2/69 at around 7pm.",
-    "interesting points": [
-        "The report includes a sketch diagram showing the angle of elevation of the unidentified phenomenon above the horizon.",
-        "The report contains a questionnaire with various questions about the sighting, including the time, location, direction, and movement of the phenomenon.",
-        "The questionnaire asks the observer to indicate on a compass rose diagram the direction the phenomenon was first and last seen.",
-        "The report mentions that there was no physical evidence or photographs taken of the phenomenon.",
-        "The conclusion of the report states the object was likely the planet Venus."
-    ],
-    "result": "about (Venus)",
-    "sighted object": "a light that looked like a large star",
-    "location": "Dayton, Ohio",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "An observer sighted a light that looked like a large star in Dayton, Ohio on January 2, 1969.",
+    "interesting points": "The observation was made at 7:00 PM,The phenomenon was described as a light appearing similar to a large star,No physical evidence or photographs were collected, The sighting occurred in clear conditions, The phenomenon's elevation angle was documented in a sketch.",
+    "sighted object": "a light resembling a large star",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer provided sketch diagrams and notes about the sighting.",
+    "contains photographs": false
 }

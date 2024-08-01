@@ -1,13 +1,9 @@
 {
-    "main event": "Reported sighting of a blank, possibly redacted or damaged, photograph in a UFO document.",
-    "interesting points": [
-        "The document appears to be a record of a single photo, but the image is not present and only a blank black square is visible.",
-        "The document is from the Foreign Technology Division of the AFSC and is marked as 'UNCLASSIFIED'.",
-        "No further details about the sighted object or the event are provided in the available text."
-    ],
-    "result": "unexplained",
-    "sighted object": "No object described, only a missing/redacted photograph.",
-    "location": "Redwood City, California",
-    "witnesses": "Unknown",
-    "photographs": "Yes, but the photograph is not present in the document."
+    "main event": "A UFO report was submitted containing a reference to an image, which turned out to be a blank page.",
+    "interesting points": "The report was classified under FOREIGN TECHNOLOGY DIVISION. AFSC., The date of the report is November 2, 1964., The location of the sighting is Redwood City, California., There is mention of one photo, but it is not present., The document indicates it might have been damaged or redacted.",
+    "sighted object": "no visible object; image was blank",
+    "location": "Redwood City, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses described",
+    "contains photographs": false
 }

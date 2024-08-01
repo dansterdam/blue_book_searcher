@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report document, here is the JSON summary:
-
 {
-    "main event": "A UFO sighting was reported in Springfield, Maryland on August 29, 1965.",
-    "interesting points": [
-        "The object was observed for 2 minutes and 45 seconds.",
-        "The witness could not provide an accurate estimate of the object's speed.",
-        "The witness could not estimate the distance to the object.",
-        "The object was observed continuously, but details on its appearance, movement, and disappearance were not provided.",
-        "No photographs were taken of the object."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "one unidentified aerial object",
-    "location": "Springfield, Maryland",
-    "witnesses": "one civilian witness",
-    "photographs": "no"
+    "main event": "A UFO report from a civilian witness in Springfield, Maryland on August 29, 1965.",
+    "interesting points": "The sighting lasted for approximately 2 minutes and 45 seconds., The witness observed the object continuously during the sighting., The condition of the sky is not specified, but it was noted to be during the daytime., There is no physical evidence reported related to the sighting., The report concludes with insufficient data for evaluation.",
+    "sighted object": "unidentified aerial object",
+    "location": "Springfield, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

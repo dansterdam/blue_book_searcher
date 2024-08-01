@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple sightings of unusual lights at Keflavik Airport on 3/19/53 with no physical evidence or photographs. The lights were described as bright, round, and stationary.",
-    "interesting points": [
-        "The radar plots observed on February 3, 1953, showed unidentified high-speed targets at altitudes of 25,000 to 30,000 feet, moving at speeds of 700 to 800 knots.",
-        "No identified aircraft from known sources could explain the radar plots, and the apparent lack of motion during two full minutes in one instance remained unexplained.",
-        "The report mentions large flocks of geese in the vicinity, indicating the consideration of natural explanations alongside the unidentified radar plots.",
-        "The document includes a handwritten note with the text 'UNCLE, 1952+ 17:45, ADUTANOUS OVER', providing potential additional context or codes related to the sightings.",
-        "The report was investigated by the Intelligence Officer of the USAF and was concluded as 'UNIDENTIFIED', indicating a lack of explanation for the observed phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "unusual lights at Keflavik Airport",
-    "location": "Keflavik Airport, Iceland",
-    "witnesses": "ACIC (Air Force Command Intelligence Center)",
-    "photographs": "no"
+    "main event": "Multiple sightings of unusual bright lights observed at Keflavik Airport on 3/19/53.",
+    "interesting points": "The lights were described as bright, round, and stationary., The sightings were visual observations only with no physical evidence., There were radar plots observed on 3 February 1953 that indicated unidentified objects in the area., The radar plots included high-speed targets moving at an altitude of around 25,000 feet., Local aircraft from the Icelandic Air Force were not in the air at the time of the sightings.",
+    "sighted object": "unidentified bright lights",
+    "location": "Keflavik, Iceland",
+    "number of confirmed witnesses": 0,
+    "witnesses": "no confirmed witnesses",
+    "photographs": false
 }

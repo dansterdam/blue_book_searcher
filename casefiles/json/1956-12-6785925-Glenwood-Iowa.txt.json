@@ -1,15 +1,9 @@
 {
-  "main event": "On December 8, 1956, an observer reported seeing one brown-white object floating slowly to the earth, turning green before hitting the ground, with the observation lasting for 10 seconds.",
-  "interesting points": [
-    "The observation was categorized as a visual type with a length of 10 seconds.",
-    "The report states that the sighting was probably caused by a flare.",
-    "The conclusions on the report varied from 'Probably Balloon' to 'Unknown, Other'.",
-    "The document appears to be part of the Project Blue Book UFO report.",
-    "The witness location was reported to be in a post office in Glenwood, Iowa."
-  ],
-  "result": "prozaic explanation - sighting probably caused by a flare",
-  "sighted object": "one brown-white object floating to the earth and turning green before hitting the ground",
-  "location": "Glenwood, Iowa",
-  "witnesses": "N/A",
-  "photographs": "yes, the report includes photographs"
+    "main event": "One brown-white object observed floating slowly to the earth, turning green before hitting the ground.",
+    "interesting points": "The sighting lasted for 10 seconds., The object changed color from brown-white to green., The observation noted that the sighting likely resembled a flare., Various probable causes for the sighting included balloon and aircraft., The object was reported to have disappeared at ground level.",
+    "sighted object": "one brown-white object",
+    "location": "Glenwood, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer was working at a GOC post.",
+    "contains photographs": false
 }

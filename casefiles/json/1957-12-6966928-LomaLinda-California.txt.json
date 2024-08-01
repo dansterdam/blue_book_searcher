@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were observed on the ground near Loma Linda, California on December 8, 1957.",
-    "interesting points": [
-        "The objects were described as being the size of a basketball, white in color, with small white dots appearing at the end of the object.",
-        "The objects were observed for 2-3 minutes before disappearing.",
-        "The report suggested the objects could have been a weather balloon or aircraft.",
-        "Ground radar was used to detect the objects.",
-        "The weather conditions were clear with good visibility at the time of the sighting."
-    ],
-    "result": "inconclusive",
+    "main event": "Two objects were observed on the ground near Loma Linda, California, on December 8, 1957.",
+    "interesting points": "The objects were reported to be the size of a basketball and white in color with small white dots at the ends., The observation lasted for about 2-3 minutes., The sighting was categorized as a possible aircraft sighting., The objects reportedly moved very slowly toward Norton Air Force Base., The official signed comment suggested it could be a weather balloon.",
     "sighted object": "two white objects on the ground",
-    "location": "Loma Linda, California",
-    "witnesses": "civilian observers",
-    "photographs": "no photographs were included in the report"
+    "location": "Loma Linda, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

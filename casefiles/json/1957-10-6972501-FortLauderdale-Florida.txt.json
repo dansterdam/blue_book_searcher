@@ -1,15 +1,9 @@
 {
-    "main event": "A single object was observed traveling in a straight path from north to south over Fort Lauderdale, Florida on October 6, 1957.",
-    "interesting points": [
-        "The object was described as a bright, single object, likely a meteor.",
-        "The observation lasted for 15-20 seconds.",
-        "The object was tracked by ground radar.",
-        "No other witnesses were identified in the report.",
-        "No physical evidence was found."
-    ],
-    "result": "probable meteor",
-    "sighted object": "a single bright object",
-    "location": "Fort Lauderdale, Florida",
-    "witnesses": "ground radar",
-    "photographs": "no"
+    "main event": "A woman reported seeing an unidentified flying object over Fort Lauderdale, Florida, on 16 October 1957.",
+    "interesting points": "The object was described as silvery or white in color,The size of the object was comparable to a golf ball,The object was moving at a high rate of speed,It was visible for approximately 3-4 seconds,No other witnesses were identified and no physical evidence was found.",
+    "sighted object": "a silvery or white object about the size of a golf ball",
+    "location": "Fort Lauderdale, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a woman who reported the sighting",
+    "contains photographs": false
 }

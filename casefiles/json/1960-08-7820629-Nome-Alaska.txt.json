@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A glowing, oval-shaped, white object was observed in the sky over Nome, Alaska for about 1 minute.",
-    "interesting points": [
-        "The object appeared to be brilliant and bright, moving at a constant velocity and altitude before suddenly disappearing.",
-        "The object made no sound and did not leave any trail, flame, or exhaust.",
-        "Additional reports from the same area indicate the presence of objects in orbit.",
-        "Another witness in Collata, Alaska reported a similar object about 2 hours after the initial sighting.",
-        "The witness claimed to have taken a photograph of the object, but it was lost or destroyed due to a camera malfunction."
-    ],
-    "result": "unexplained",
-    "sighted object": "a glowing, oval-shaped, white object",
-    "location": "Nome, Alaska",
-    "witnesses": "civilian",
-    "photographs": "yes, but lost or destroyed"
+    "main event": "A witness in Nome, Alaska reported seeing a blurred, brilliant white oval object that disappeared by diminishing after one minute of observation.",
+    "interesting points": "The sighting lasted for about one minute., The object was described as oval, white, and brilliant., It disappeared by dimming after being observed., There were additional reports from the area indicating the presence of objects in orbit., The witness had not been reported by the Ground Observer Corps.",
+    "sighted object": "one blurred oval, white object",
+    "location": "Nome, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was described as reliable and had not been in trouble of this nature before.",
+    "contains photographs": false
 }

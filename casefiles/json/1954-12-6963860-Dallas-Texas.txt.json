@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported in Dallas, Texas on 19 September 1954, involving objects shaped like stars with a blue-green color and no sound. The objects were observed moving horizontally from north to south before suddenly disappearing.",
-  "interesting points": [
-    "The objects were described as shaped like stars and emitted a blue-green color, unlike any known aircraft at the time.",
-    "Radar contact was made with the object as it suddenly disappeared, but local authorities reported no contact with the moving object.",
-    "The UFO was observed moving fast without sound and appearing and disappearing. It was said to travel from horizon to horizon in about 1 second before disappearing without a trace.",
-    "A thorough investigation had not been conducted to determine other possible causes for the sighting, and no further action was considered necessary at the time.",
-    "The sighting was deemed unexplained, as no reason could be offered to explain what was observed, and it was something that could not be explained with the present knowledge."
-  ],
-  "result": "unexplained",
-  "sighted object": "objects shaped like stars with a blue-green color and no sound",
-  "location": "Dallas, Texas",
-  "witnesses": "unspecified",
-  "photographs": "no"
+    "main event": "Objects shaped like stars, blue-green color, no sound were observed in Dallas, Texas on September 19, 1954.",
+    "interesting points": "The objects were described as blue-green and star-shaped., No sound was reported from the objects., The sighting is believed to possibly involve natural phenomena., There was radar contact with the object before it disappeared., A thorough investigation was not conducted to determine other possible explanations.",
+    "sighted object": "star-shaped objects",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witness descriptions provided.",
+    "contains photographs": false
 }

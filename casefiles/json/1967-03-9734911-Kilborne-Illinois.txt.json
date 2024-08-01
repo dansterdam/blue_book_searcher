@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, unidentified object was sighted in the sky near the witness's farm on March 9, 1967.",
-    "interesting points": [
-        "The object initially appeared to change color, then stood still.",
-        "The light of the object went out, and the outline of the bottom of the object could be seen, but the light came back on.",
-        "There was a reddish glow around the edge of the object before the light went out completely and it seemed to disappear.",
-        "The object landed behind some trees, and could no longer be seen.",
-        "The sighting lasted for around 30 minutes and was observed by the witness, their husband, and two neighbors."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, unidentified object in the sky",
-    "location": "Rural area, near Kilbourne, Illinois",
-    "witnesses": "the witness, their husband, and two neighbors",
-    "photographs": "no"
+    "main event": "Witnesses observed a bright, circular object in the sky at low altitude over Kilborne, Illinois on March 9, 1967.",
+    "interesting points": "The object was described as round or disc-shaped, approximately 50 feet in diameter, and made no sound., The sightings typically occurred on clear, moonlit nights between 10 PM and 2 AM., The craft hovered silently for 5-10 minutes before accelerating rapidly and disappearing., A neighbor also reported seeing a strange object at the same time, describing it as disc-shaped and bright red-orange., There were multiple witnesses, and the event was observed for about 30 minutes.",
+    "sighted object": "bright circular object",
+    "location": "Kilborne, Illinois, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Two neighbors and a husband saw the object along with the main witness.",
+    "contains photographs": false
 }

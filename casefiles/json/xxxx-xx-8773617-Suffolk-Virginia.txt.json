@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple witnesses in Suffolk, Virginia reported seeing a zig-zag formation of glowing, orange-colored objects in the sky on March 20, 1959.",
-    "interesting points": [
-        "The objects were described as having a round shape and no visible trail or exhaust.",
-        "The objects were observed moving at a very high speed and making a 'screaming noise'.",
-        "The objects did not appear to have any visible propulsion system or aerodynamic features.",
-        "The objects were sighted over Suffolk, Virginia at coordinates 36 degrees 45 minutes North and 76 degrees 35 minutes West.",
-        "The objects were reported by Mr. RK, a phone witness, and a Dr. from Suffolk, Virginia, though their level of experience is unknown."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple glowing, orange-colored objects in a zig-zag formation",
-    "location": "Suffolk, Virginia",
-    "witnesses": "Mr. RK and a Dr. from Suffolk, Virginia",
-    "photographs": "no photographs included in the report"
+    "main event": "Two witnesses observed a UFO in a zig-zag formation over Suffolk, Virginia on 20 Mar 59.",
+    "interesting points": "The UFO was reported to have a round shape and orange color., It moved very high and fast with no visible propulsion system., The object made a screaming noise during the sighting., The witnesses experienced visibility issues with the ceiling unknown., The report indicates there was no physical evidence or meteorological activity at the time.",
+    "sighted object": "UFO in zig-zag formation",
+    "location": "Suffolk, Virginia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. RK and Dr. CMA from Suffolk, Virginia",
+    "contains photographs": false
 }

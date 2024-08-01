@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "A fallen object, an aluminum alloy sheet measuring 34 inches by 13 feet, was found in Grand Rapids, Michigan.",
-    "interesting points": [
-        "The object was reported to the authorities as a 'fallen object' at 8:50 PM on March 1, 1961.",
-        "The object was evaluated as being an 'aluminum sheet' of unknown source.",
-        "No other information was provided in the report, and it was deemed an 'unidentified' case.",
-        "The local Office of Special Investigations (OSI) was dispatched to the scene to investigate further.",
-        "The report was part of the Project Blue Book UFO investigation program."
-    ],
-    "result": "unidentified",
+    "main event": "An unidentified aluminum sheet was found on the ground in Grand Rapids, Michigan on March 1, 1961.",
+    "interesting points": "The sighting was evaluated and concluded to be possibly a balloon or aircraft,No additional reports were received by the country regarding this sighting,The object was described as an aluminum alloy sheet measuring 34 inches by 13 feet,Local OSI dispatched an agent to the scene for investigation,The time of the incident was reported as 8:50 PM.",
     "sighted object": "aluminum alloy sheet",
-    "location": "Grand Rapids, Michigan",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Grand Rapids, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses described",
+    "contains photographs": false
 }

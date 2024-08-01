@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Kansas City, Missouri spotted a bright light that faded away and formed a circle and then a half-circle in the sky.",
-    "interesting points": [
-        "The object was about the size of the head of a dime and disappeared out of sight.",
-        "The object got brighter and then faded away.",
-        "The sighting lasted 3-4 minutes.",
-        "The witness was looking at the moon when the object was spotted.",
-        "The Air Force investigated the sighting and concluded it was a normal phenomenon observed under unusual conditions."
-    ],
-    "result": "explained",
-    "sighted object": "a bright light that formed a circle and then a half-circle",
-    "location": "Kansas City, Missouri",
-    "witnesses": "civilian, age 38",
-    "photographs": "none"
+    "main event": "A civilian reported seeing a bright object in the night sky from Kansas City, Missouri in February 1967.",
+    "interesting points": "The observation lasted 3-4 minutes,The object was described as brighter than usual before fading away,The witness thought the object resembled the size of the head of a dime,The object was seen at a 45-degree angle and appeared stationary before disappearing,The report suggests that this may have been mistaken for a normal phenomenon under unusual conditions.",
+    "sighted object": "a bright object in the sky",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "38-year-old civilian",
+    "contains photographs": false
 }

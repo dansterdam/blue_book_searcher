@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed on ground radar traveling at a very high speed of approximately 4-5 thousand miles per hour.",
-    "interesting points": [
-        "The radar trace presented an unusual appearance, not typical of an aircraft.",
-        "The object was observed for approximately 10 minutes before it disappeared.",
-        "A subsequent naval message reported an unidentified bright object over the Pacific, which was consistent with a satellite reconnaissance.",
-        "The object traveled in a linear motion, maintaining its speed and heading.",
-        "The report concludes that the object was not a threat."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object on radar",
-    "location": "Pacific Area (20°20'N 177°20'W)",
-    "witnesses": "radar operators",
-    "photographs": "none"
+    "main event": "An unidentified object was observed on a ground-radar scope over the Pacific area on July 3, 1961.",
+    "interesting points": "The object was moving at an extremely high speed of approximately 4-5 thousand miles per hour., The radar operator indicated that the radar trace did not appear to be consistent with standard aircraft., The observation lasted for about 10 minutes before the object disappeared., The object's trajectory was recorded at a course of 335 degrees., Various conclusions regarding the nature of the object, including possibilities such as aircraft, satellite, balloon, or astronomical phenomenon, were drawn.",
+    "sighted object": "one unidentified object",
+    "location": "Pacific Ocean, Pacific Area",
+    "number of confirmed witnesses": 1,
+    "witness description": "the radar operator who monitored the object",
+    "contains photographs": false
 }

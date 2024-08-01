@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "Multiple witnesses, including a civilian air traffic controller and a military officer, observed 6-7 round, silver-colored objects in the sky over Denver, Colorado on July 8, 1954.",
-    "interesting points": [
-        "The objects appeared to be in formation and were estimated to be at an altitude of 35,000 to 50,000 feet, traveling at a high rate of speed with no sound.",
-        "The objects made a slight descent at an estimated speed of 1,200 mph before disappearing into high scattered clouds.",
-        "The sighting lasted for 18-20 minutes and was observed by reliable ground-based witnesses without optical aids.",
-        "The weather conditions were clear with high cirrus clouds at 30,000 feet and visibility of 40 miles.",
-        "No photographs or physical evidence were obtained, and no interceptions were made."
-    ],
-    "result": "unexplained",
-    "sighted object": "6-7 round, silver objects in the sky",
-    "location": "Denver, Colorado",
-    "witnesses": "Civilian air traffic controllers and military personnel",
-    "photographs": "none"
+    "main event": "On 8 July 1954, several observers reported sighting 6-7 unidentified flying objects over Denver, Colorado.",
+    "interesting points": "The objects were round and silver colored, appearing to be at an altitude of 35,000 to 50,000 feet., The sighting lasted approximately 18-20 minutes with a slight descent at high speed., The objects were described not to be conventional aircraft or balloons and were classified as astronomical., The objects disappeared behind scattered clouds after being visible for over 11 seconds., There was no sound from the objects during the sighting.",
+    "sighted object": "6-7 round, silver unidentified flying objects",
+    "location": "Denver, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian air traffic controllers and a military officer at Lowry AFB",
+    "contains photographs": false
 }

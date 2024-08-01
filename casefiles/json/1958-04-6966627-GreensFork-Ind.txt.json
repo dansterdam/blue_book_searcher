@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "The report examines a specimen believed to be from a meteor that fell in Indiana in 1958.",
-    "interesting points": [
-        "The specimen was a stony conglomerate containing pockets of flint that showed signs of heat and blast.",
-        "There were signs that Indians had used some of the material in the past.",
-        "The Air Force was not interested in the material, stating it was of earthly and not extraterrestrial origin.",
-        "The specimen was analyzed and determined to be a normal basalt, a type of igneous rock, rather than a meteorite.",
-        "The sighting was believed to be of terrestrial origin and not an extraterrestrial vehicle."
-    ],
-    "result": "explained",
-    "sighted object": "a stony conglomerate specimen believed to be from a meteor",
-    "location": "Indiana",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A sighting report from Project Blue Book dated April 6, 1958, contains a summary indicating that the object observed was believed to be a part of a meteor, specifically articles of basaltic material.",
+    "interesting points": "The report documents the submission of rock specimens thought to be meteorites., The specimen was confirmed to be typical basalt material by analysis., There is a handwritten correspondence regarding a supposed 'pot of gold' related to meteor finds., Oldtimers in the area claim there is gold in the hills based on anecdotal stories., The absence of any photographs in the report suggests it relies solely on documentation.",
+    "sighted object": " basaltic material believed to be part of a meteor",
+    "location": "Greens Fork, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The correspondence and report mention the perspectives of individuals who submitted specimens for examination.",
+    "contains photographs": false
 }

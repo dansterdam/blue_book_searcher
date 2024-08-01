@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Witnesses watched a clear-like object larger than perform erratic movements in the eastern part of the sky.",
-    "interesting points": [
-        "The object's sides were shimmering and it appeared to be a solid object.",
-        "The entire sighting lasted about five to 10 seconds.",
-        "The object could have been a satellite, but did not appear to be a satellite.",
-        "The description is consistent with an astronomical object, likely the star Sirius, which would have been fairly low on the horizon and the brightest object in the sky.",
-        "The Air Force received several similar reports during November and early December, which were likely due to the scintillation or twinkling effect of stars near the horizon."
-    ],
-    "result": "explained",
-    "sighted object": "a clear-like object larger than a star",
-    "location": "Denver, Colorado",
-    "witnesses": "three civilian witnesses",
-    "photographs": "no"
+    "main event": "Three witnesses observed a bright object performing erratic movements in the eastern part of the sky on December 7, 1966.",
+    "interesting points": "The sighting lasted about five to ten seconds., The object was described as larger than a star and seemed to shimmer., The object could have been misidentified as the bright star Sirius, which was visible low on the horizon., Multiple reports of similar sightings were received by the Air Force during November and December 1966., The atmosphere's distortion, called scintillation, was mentioned as a possible explanation for the observations.",
+    "sighted object": "a bright object in the sky",
+    "location": "Denver, Colorado, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three civilian witnesses",
+    "contains photographs": false
 }

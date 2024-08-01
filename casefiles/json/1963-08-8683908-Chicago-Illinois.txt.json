@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian observed an unusual object resembling a chain of electric light bulbs flying northward in Chicago, Illinois on August 7, 1963.",
-    "interesting points": [
-        "The object changed shape three times during the 3-minute observation.",
-        "The object was described as red and fuzzy, with two shapes - one resembling an aircraft and the other being more fuzzy.",
-        "Investigation revealed the object was likely an aircraft towing an advertising light.",
-        "On August 6, 1963, a separate sighting of a stationary, colored light with 7-8 points was reported in Chicago, but deemed insufficient to determine the nature of the object.",
-        "On August 6, 1963, a sighting of flashing colored lights, red on top and green on bottom, was reported in Chicago and investigated, but deemed inconclusive."
-    ],
-    "result": "Possible aircraft with advertising lights",
-    "sighted object": "An object resembling a chain of electric light bulbs",
-    "location": "Chicago, Illinois",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A series of UFO sightings were reported in Chicago, Illinois in August 1963, with key observations made by various witnesses including an aviation employee and members of the public.",
+    "interesting points": "Multiple sightings included descriptions of bright lights, some perceived as aircraft landing lights; Witnesses reported objects changing shape and color; A significant sighting involved a possible UFO moving at high speed, estimated at 1700 mph; One sighting noted an object that appeared metallic and under intelligent control; Observations spanned several nights with detailed accounts from different individuals including a flight crew and an employee of the Northbrook Aviation Company.",
+    "sighted object": "Various unidentified flying objects exhibiting strange light patterns",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilians, including aviation industry employees and a flight crew",
+    "contains photographs": false
 }

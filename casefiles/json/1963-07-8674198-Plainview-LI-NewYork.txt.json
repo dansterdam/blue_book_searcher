@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A photograph was taken during a solar eclipse, but the resulting image showed a peculiar distortion that was likely caused by lens reflections and other marks on the negative.",
-    "interesting points": [
-        "The photograph was analyzed by the Air Force's Foreign Technology Division, who concluded that the unusual object in the image was likely the result of lens reflections and not an actual unidentified flying object.",
-        "Several 8x10 inch photographs, a 7x10 inch photograph, and 5x4 inch negatives were included in the case file, but no clear images of a UFO were found.",
-        "The case file included correspondence between the witness and the Air Force regarding the photographs, with the Air Force providing an explanation for the unusual markings in the images.",
-        "The case was ultimately concluded to be a misidentification, with the Air Force determining that the photographs did not show any evidence of a genuine UFO sighting.",
-        "The report does not mention any other eyewitness accounts or additional evidence to support the presence of a UFO, beyond the questionable photographic evidence."
-    ],
-    "result": "explained",
-    "sighted object": "possible lens reflections or camera artifacts",
-    "location": "Plainview, Long Island, New York",
-    "witnesses": "single photographer",
-    "photographs": "yes, the report includes several photographs and negatives"
+    "main event": "A UFO sighting was reported in Plainview, New York, with an analysis of photographs taken earlier showing peculiar distortions and reflections.",
+    "interesting points": "The sighting occurred on July 25, 1963., Analysis indicated the object was likely caused by inter-reflections and marks on the negative., Conclusions suggested possibilities of a balloon, aircraft, or astronomical object., No clear photograph was present in the accompanying documents., The case involved communication with the USAF regarding the photographs taken.",
+    "sighted object": "potential UFO possibly caused by lens reflections",
+    "location": "Plainview, L.I., New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. ******** B.***** from Plainview, N.Y.",
+    "contains photographs": false
 }

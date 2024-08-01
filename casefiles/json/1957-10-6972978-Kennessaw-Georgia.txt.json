@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A faint, hazy light about half the size of the moon was observed moving quite rapidly, causing a reflection from clouds and the light to flicker.",
-    "interesting points": [
-        "The object was observed at a distance.",
-        "The sighting was recorded on radar, including both ground-based and air-intercept radar.",
-        "The object was described as a bronze-colored, elliptical light traveling from northeast to southwest at a steady speed approximately 3-4 times faster than a conventional jet aircraft.",
-        "The object suddenly and rapidly disappeared from sight, likely behind scattered clouds.",
-        "The witness was extremely excited at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a faint, hazy light about half the size of the moon",
-    "location": "Kennesaw, Georgia",
-    "witnesses": "radar operators",
-    "photographs": "yes, the report indicates there were photographs taken"
+    "main event": "A faint, hazy light, about half the size of the moon, was observed moving rapidly, reflecting off clouds and flickering.",
+    "interesting points": "The sighting occurred on 6 September 1957 at 1937 hrs,The object was observed using ground-radar and air-intercept radar,The length of observation was approximately 2 minutes,The faint light appeared distant and caused flickering effects,The report does not contain any photographs despite mentioning them.",
+    "sighted object": "a faint, hazy light in the sky",
+    "location": "Kennesaw, Georgia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witness details provided",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An elliptical, saucer-shaped object was sighted over Robinson Springs, Alabama on March 16, 1967.",
-    "interesting points": [
-        "The object was 338 feet in length and had dots around the side similar to portholes.",
-        "The object changed colors from bright red to bright white, cycling through the colors repeatedly.",
-        "The object hovered about 2 miles from the observer and its dimensions contracted until it disappeared.",
-        "The sighting lasted 5-6 minutes and was witnessed by a retired USAF Major who was a former pilot.",
-        "The weather officer suggested the sighting may have been of a lighted balloon released by NASA's meteorological office in Huntsville, Alabama."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "An elliptical, saucer-shaped object",
-    "location": "Robinson Springs, Alabama",
-    "witnesses": "A retired USAF Major who was a former pilot",
-    "photographs": "None available"
+    "main event": "An unidentified flying object was observed in Robinson Springs, Alabama on 16 Mar 67 for a duration of 5-6 minutes.",
+    "interesting points": "The object was described as elliptical like a saucer,The object changed colors from red to white, then black, and back to white again,There were dots around the object resembling portholes,The object hovered approximately two miles from the observers,The sighting was reported by a former Air Force pilot.",
+    "sighted object": "one elliptical object with changing colors",
+    "location": "Robinson Springs, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major - USAF (RET.), former Air Force pilot",
+    "contains photographs": false
 }

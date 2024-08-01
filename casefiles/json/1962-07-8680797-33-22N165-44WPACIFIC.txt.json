@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A round, white, second magnitude star-like object was sighted by the OOD (Officer of the Deck) and lookouts on a naval ship in the Pacific Ocean.",
-    "interesting points": [
-        "The object was detected on radar for about 1 minute, appearing on a bearing of 7 degrees east.",
-        "The speed and course of the object could not be accurately determined.",
-        "The object was later considered to be possibly a satellite.",
-        "Several sightings of a similar white, round object were reported in the area, with the object disappearing behind low clouds.",
-        "The weather conditions were described as having 2-foot seas and two-tenths cloud coverage."
-    ],
-    "result": "Probably Astronomical, Insufficient Data for Evaluation",
-    "sighted object": "round, white, second magnitude star-like object",
+    "main event": "A light target appeared on the radar scope in the Pacific Ocean on July 12, 1952.",
+    "interesting points": "The observation was made through ground radar,The light target was visible for about one minute,The course of the object was determined to be 7 degrees east,Its speed and course could not be accurately determined,The report concluded that the sighting was probably astronomical with insufficient data for evaluation.",
+    "sighted object": "light target",
     "location": "Pacific Ocean",
-    "witnesses": "OOD and lookouts on a naval ship",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified in the report",
+    "contains photographs": false
 }

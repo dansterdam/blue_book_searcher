@@ -1,17 +1,9 @@
-Based on the documents provided, here is the summary in the requested JSON format:
-
 {
-    "main event": "An object resembling a missile nose cone was reported by a civilian in Tulsa, Oklahoma in 1958.",
-    "interesting points": [
-        "The object was analyzed and found to be a piece of metal or other solid material, not resembling any known aircraft or other conventional flying object.",
-        "The object was approximately 6 inches in length and 2 inches in width, with an irregular, rough surface.",
-        "No definite conclusions could be drawn as to the nature or origin of the object, as it did not appear to be manufactured or engineered in any recognizable way.",
-        "Further analysis and evaluation was ongoing on this case, but no additional information was available at the time.",
-        "The investigation revealed that the object was most likely a meteorite or some other natural phenomenon rather than a man-made object."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified object resembling a missile nose cone",
-    "location": "Tulsa, Oklahoma",
-    "witnesses": "civilian(s)",
-    "photographs": "yes, the report includes photographs of the object"
+    "main event": "An object resembling a missile nose cone was tracked on radar and observed visually in Tulsa, Oklahoma on 17-18 January 1958.",
+    "interesting points": "The object was tracked on radar as a missile nose cone when it was forwarded for analysis., Physical analysis confirmed that the object was actually a pipe or plumbing conduit., A handwritten letter reported the object was believed to be the size of a 'Jupiter C' missile and hovered silently., The investigation revealed that the object was most likely a natural phenomenon rather than man-made., There were no visible markings on the object that would identify it as a manufactured item.",
+    "sighted object": "an object resembling a missile nose cone",
+    "location": "Tulsa, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Teeple, who observed an object he described as a rock approximately 6 inches in diameter.",
+    "contains photographs": false
 }

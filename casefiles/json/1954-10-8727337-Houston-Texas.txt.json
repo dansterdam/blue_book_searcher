@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer spotted a round, pulsating object in the sky over Houston, Texas on October 5, 1954.",
-    "interesting points": [
-        "The object changed color from bright blue to red in a pulsating pattern.",
-        "The object moved from an elevation of 30 degrees to 60 degrees in the southern sky.",
-        "The object did not disappear and was still visible when the observer stopped looking.",
-        "The sighting was evaluated as possibly an astronomical object like a star or planet.",
-        "There were no photographs taken of the object."
-    ],
-    "result": "possibly astronomical",
-    "sighted object": "a round, pulsating object",
-    "location": "Houston, Texas",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "Observers reported seeing a bright, round object in the sky over Houston, Texas, with varying colors and characteristics, observed multiple times between October 5 and October 14, 1954.",
+    "interesting points": "Multiple sightings occurred over a span of 10 days,One observer described the object as having a white, reddish-orange glow and being stationary,Two different observers reported a similar bright blue and red pulsating light,Air Force pilots and a civilian observer noted the object's movement and its comparison to meteors,Radar observations indicated unidentified returns with some uncertainty regarding reflections from the ground or clouds.",
+    "sighted object": "round, bright object with changing colors",
+    "location": "Houston, Texas, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Observers included civilians and military personnel, with varying reliability, ages, and job descriptions.",
+    "contains photographs": false
 }

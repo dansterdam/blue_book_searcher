@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Two circular metallic objects were observed hovering and moving in the sky over New York, N.Y. on November 26, 1955.",
-    "interesting points": [
-        "The objects were observed by several people at around 8:30 pm.",
-        "The objects were described as having a metallic or aluminum appearance.",
-        "The objects were observed hovering and moving at an altitude of 3,000 feet.",
-        "The objects were observed for approximately 1.5 minutes.",
-        "The report notes that the objects were likely balloons, possibly producing an optical phenomenon."
-    ],
-    "result": "possibly explained (balloons/optical phenomenon)",
-    "sighted object": "two circular metallic objects",
-    "location": "New York, N.Y.",
-    "witnesses": "several people",
-    "photographs": "no photographs included in the report"
+    "main event": "A civilian photographer observed two white spots over New York, N.Y. on 15 February 1955.",
+    "interesting points": "The sighting lasted for 1.5 minutes,The objects appeared to be rotating or gyrating during the film development process,There was no previous sighting reported for these objects,The conclusions suggest they could be balloons or astronomical phenomena,The report indicates that multiple conclusions were drawn regarding the nature of the objects.",
+    "sighted object": "two white spots with darker bands",
+    "location": "New York, N.Y., USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian photographer",
+    "contains photographs": false
 }

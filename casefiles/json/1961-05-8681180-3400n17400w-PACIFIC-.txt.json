@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single bright light was sighted in the sky, which was observed for 15 seconds before disappearing below the horizon.",
-    "interesting points": [
-        "The object was sighted at 0800Z bearing 060° true.",
-        "Space Track was queried to determine if the object was a satellite, but they reported it as unidentified.",
-        "The object was sighted at a position of 32 North, 174 West.",
-        "The object was sighted 45 degrees above the horizon, bearing 129 degrees true, and disappeared below the horizon at 2239Z, bearing 229 degrees true.",
-        "The object's speed was estimated at 5 degrees per minute."
-    ],
-    "result": "unexplained",
-    "sighted object": "single bright light",
-    "location": "32 North, 174 West",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "A single bright light was sighted in the sky, which vanished below the horizon.",
+    "interesting points": "The sighting lasted for 15 seconds,The object was reported moving at a speed of five degrees per minute,The object's course was northeast,It was sighted at 45 degrees above the horizon,Space Track was queried and reported the object as unidentified.",
+    "sighted object": "single bright light in the sky",
+    "location": "unknown location, unknown region, unknown country",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses confirmed",
+    "contains photographs": false
 }

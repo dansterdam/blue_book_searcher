@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, round or oval-shaped object was observed in the sky over San Francisco, California.",
-    "interesting points": [
-        "The object was extremely bright, brighter than Venus, and emitted light.",
-        "The object started out 10 degrees above the horizon and traveled to 60 degrees above the horizon over the course of 20-30 seconds.",
-        "The object changed in appearance from a point source to a larger, irregular-shaped light before disappearing below the horizon.",
-        "The witness, an electrical engineer, was uncertain if the object was a meteor, as it seemed to move too slowly for a typical meteorite.",
-        "The object appeared to break up into smaller, satellite-like round objects at the end of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, round or oval-shaped object",
-    "location": "San Francisco, California",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A bright round or oval-shaped object was sighted in San Francisco between March 24 and April 5, 1966.",
+    "interesting points": "The object was described as extremely bright, initially appearing like a great star and later resembling a full moon., The sighting lasted approximately 20 to 30 seconds., The object changed appearance from a point source to a larger irregular-shaped light., No physical evidence or photographs were recorded., Witnesses reported it moving slowly at first before disappearing below the horizon.",
+    "sighted object": "extremely bright round or oval-shaped object",
+    "location": "San Francisco, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an electrical engineer at the U.S. Naval Ordnance Test Station",
+    "contains photographs": false
 }

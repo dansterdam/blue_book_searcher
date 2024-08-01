@@ -1,15 +1,9 @@
 {
-    "main event": "A white, oblong, rigid object was observed moving in an erratic course over Washington D.C. on March 22, 1958 at 9:15 p.m.",
-    "interesting points": [
-        "The object was described as characteristic of a UFO sighting.",
-        "The object was observed for 3 minutes.",
-        "The object's angular size and speed were recorded at various points during the sighting.",
-        "The sighting was reported to the 25th CADO COG D-27 FB and forwarded to the USAF.",
-        "The report mentions a possible mirage sighting by a Senior Controller, Capt. Hitz."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, oblong, rigid object",
+    "main event": "A sighting of a white, oblong, rigid object was reported in Washington, D.C. on March 22, 1958.",
+    "interesting points": "The object exhibited an erratic flight path during the observation., The sighting lasted for 3 minutes., The observation was made at 9:15 p.m., The type of observation was ground-visual., The object's description is characterized as typical for UFO sightings.",
+    "sighted object": "one oblong rigid object",
     "location": "Washington, D.C.",
-    "witnesses": "civilian flight",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

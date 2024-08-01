@@ -1,15 +1,9 @@
 {
-	"main event": "The provided document contains multiple UFO sighting and investigation reports. One report describes a flaming object that struck the side of a house in Lawrence, Massachusetts on August 11, 1955.",
-	"interesting points": [
-		"A flaming object, several feet in diameter, struck the side of a house occupied by Mrs. Riza Descoteaux, leaving a hole and evidence of burning or scorching.",
-		"Sergeant Philip Desautels at police headquarters was notified of the occurrence, and witnesses reported a loud noise and smoke after the object struck the house.",
-		"Witnesses described the object as a 'fiery ball' and estimated it to be three to four feet in diameter, with a tail of flame.",
-		"The report also mentions another UFO sighting in Chalmette, Louisiana, where a woman observed a low-hovering object about the size of a plane, which appeared to be solid and glowing white.",
-		"Another interesting point is the description of a bright light of unusual brightness seen over Melbourne, Florida on November 10, 1955, by Miss Mary Holt and her mother, Mrs. M. Holt."
-	],
-	"result": "unexplained",
-	"sighted object": "flaming object, low-hovering solid white object, bright light of unusual brightness",
-	"location": "Lawrence, Massachusetts; Chalmette, Louisiana; Melbourne, Florida",
-	"witnesses": "Mrs. Riza Descoteaux, Sergeant Philip Desautels, Edmund Rickard, Mrs. Mary Holt, Mrs. M. Holt",
-	"photographs": "no, the report does not include any photographs"
+    "main event": "A flaming object struck the side of a house in Lawrence, Massachusetts on August 11, 1955, creating a hole and scorching the area upon impact.",
+    "interesting points": "The object was described as reddish and several feet in diameter., The impact shattered a window and left evidence of burning on the clapboards., A witness, Mrs. Rickard, identified the object as a fiery ball with a tail of flame., The incident occurred shortly after 10 p.m., and the noise woke several nearby residents., The event is linked to other unexplained sightings in the area at the same time.",
+    "sighted object": "a reddish flaming object",
+    "location": "Lawrence, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. Riza Descoteaux and Mrs. Rickard, a neighbor.",
+    "contains photographs": false
 }

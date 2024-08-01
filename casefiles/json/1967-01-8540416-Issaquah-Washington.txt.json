@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a bright, flickering object moving across the sky for approximately 45 minutes.",
-    "interesting points": [
-        "The object appeared to be luminous, not just blinking lights.",
-        "It moved in a smooth, curved path across the sky.",
-        "The object disappeared over the horizon.",
-        "The witness could not determine the exact speed or distance of the object.",
-        "There were no other witnesses reported."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, flickering object in the sky",
-    "location": "Issaquah, Washington",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A civilian observer sighted a long cigar-shaped object in Issaquah, Washington on January 19, 1967.",
+    "interesting points": "The object was described as white-blue with portholes and a large green light in the middle., The observer reported a high pitch engine sound associated with the object., The sighting lasted for about 5 minutes and the object was moving in a northeast direction., The observer estimated the object's speed to be around 220 mph., The object measured approximately 7 feet away from the observer.",
+    "sighted object": "a long cigar-shaped object",
+    "location": "Issaquah, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

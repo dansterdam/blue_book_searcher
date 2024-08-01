@@ -1,15 +1,9 @@
 {
-  "main event": "A female civilian reported an intense yellow, round object, retreating and nearly stationary in Springfield, Ohio on 23 July 1948, which was later determined to be the planet Venus.",
-  "interesting points": [
-    "The object was described as intense yellow in color and round in shape, with a length of observation estimated at 5 minutes.",
-    "The investigator concluded that the observed object was most likely the planet Venus, based on its characteristics and the timing of the sighting.",
-    "There are references to Project 'SIGN', which was responsible for investigating and interpreting data related to sightings of unidentified flying objects, showing the military's serious interest in UFO sightings.",
-    "The report mentions the collection of incident summaries from the files of Project SIGN, demonstrating the systematic approach taken to document and analyze UFO sightings.",
-    "Dr. J. Allen Hynek's evaluations from the Project GRUDGE report are included, categorizing incidents based on their astronomical or non-astronomical nature and the probability of alternative explanations."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "intense yellow, round object",
-  "location": "Springfield, Ohio",
-  "witnesses": "Female civilian",
-  "photographs": "no"
+    "main event": "A female civilian reported observing a round, intense yellow object in Springfield, Ohio on July 23, 1948.",
+    "interesting points": "The object was estimated to have been observed for about 5 minutes,The object was described as round and intense yellow,It was noted that the object seemed to be hovering in the sky before the sighting,The incident was marked as significant enough to be included in Project 'SIGN' for investigation,The report contains two photographs, one showing the object and the other indicating its motion.",
+    "sighted object": "round, intense yellow object",
+    "location": "Springfield, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "female civilian",
+    "contains photographs": true
 }

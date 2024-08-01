@@ -1,17 +1,9 @@
-Here is the summary in the requested JSON format:
-
 {
-    "main event": "A witness in Hamtramck, Michigan reported seeing a bright, white object that moved quickly and disappeared in March 1967.",
-    "interesting points": [
-        "The object was described as being 'white, about like a star' and gave off a bright light.",
-        "The object moved at a 'terrific speed' and disappeared immediately.",
-        "The witness watched the object for less than a minute before it silently moved off to the east.",
-        "The witness initially thought the object might be a helicopter, but it was too big and moved too slowly.",
-        "The witness provided a sketch showing the object's movement across the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, white object",
-    "location": "Hamtramck, Michigan",
-    "witnesses": "2 witnesses",
-    "photographs": "no"
+    "main event": "A UFO was sighted over Hamtramck, Michigan, on March 20, 1967, by two witnesses who observed a brightly lighted object hovering above the trees.",
+    "interesting points": "The object appeared to be perfectly round and emitted a bright light., The witnesses believed it was too large to be a helicopter and moved at a controlled speed., The sighting lasted approximately 40 seconds., The object disappeared silently without any noise., The investigation concluded it was likely an astronomical object (meteor).",
+    "sighted object": "brightly lighted object",
+    "location": "Hamtramck, Michigan, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A couple watching TV who rushed to the window to observe the object.",
+    "contains photographs": false
 }

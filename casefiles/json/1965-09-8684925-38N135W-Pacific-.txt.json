@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single unidentified flying object was sighted over the Pacific ocean on 27/1/52.",
-    "interesting points": [
-        "The object was observed for 120 seconds.",
-        "The object's course was unknown.",
-        "No photographs were taken of the object.",
-        "There was no physical evidence of the object.",
-        "The report concluded that there was insufficient data to evaluate the sighting."
-    ],
-    "result": "unexplained",
+    "main event": "An unidentified flying object was sighted at 3:54 PM on January 27, 1952.",
+    "interesting points": "The sighting lasted approximately 120 seconds,The object was observed visually and course was unknown,There were no photographs or physical evidence of the sighting,It was reported in a Project Blue Book document,The message was classified as unclassified by the Department of the Air Force.",
     "sighted object": "unidentified flying object",
-    "location": "Pacific Ocean, 38-35N, 135-30W",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "location": "38-35N, 135-30W (Pacific)",
+    "number of confirmed witnesses": 0,
+    "witness description": "not provided",
+    "contains photographs": false
 }

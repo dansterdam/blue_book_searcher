@@ -1,15 +1,9 @@
 {
-    "main event": "A possible satellite or unidentified object was observed in the sky at coordinates 35-40N 175-15W on 2 Aug 64 at 1422Z.",
-    "interesting points": [
-        "The object was described as bright, similar to a first magnitude star.",
-        "The object was observed moving in an eastward direction.",
-        "The duration and type of the observation is unknown.",
-        "No evaluation or conclusion about the identity of the object was provided.",
-        "The report was part of the U.S. Air Force's Project Blue Book, which investigated UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "possible satellite or unidentified object",
-    "location": "35-40N 175-15W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A page from an old UFO report document related to Project Blue Book was reviewed.",
+    "interesting points": "The document was unclassified and related to UFO sightings investigation., The report included various codes and identifiers typical for military communication., The date mentioned in the report is from August 1964., The document suggests a potential sighting of an object at coordinates 35-40N 175-15W., No photographs were included in the report.",
+    "sighted object": "unknown object or satellite",
+    "location": "UNK, UNK, UNK",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

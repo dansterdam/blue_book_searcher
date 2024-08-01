@@ -1,15 +1,9 @@
 {
-    "main event": "The report contains details of a UFO sighting reported to the U.S. Air Force's Project Blue Book program.",
-    "interesting points": [
-        "The object was described as silver, orange, green, and white in color, with a thin dome on top and a light on the bottom.",
-        "The object moved quite rapidly and silently, and was observed for about 30 minutes.",
-        "The observer was unsure if the sighting was of a satellite during the last few minutes.",
-        "The report includes a handwritten note comparing the brightness of the object to a common object.",
-        "The report contains a sketch or diagram depicting the shape and motion of the object."
-    ],
-    "result": "CONFLICTING DATA",
-    "sighted object": "A silver, shiny, and bright object with a thin dome and a light on the bottom",
-    "location": "Anaheim, California",
-    "witnesses": "Civilian observers",
-    "photographs": "No photographs, only a sketch or diagram"
+    "main event": "A sighting of an unidentified object over Anaheim, California in March 1966.",
+    "interesting points": "The object was described as silver, orange, green, and white in color., The observation lasted for 30 minutes., The observer mentioned the object appeared to be a satellite during the last few minutes of the sighting., The observer noted both night and daylight conditions during the sighting., A buzzing sound was reported associated with the object.",
+    "sighted object": "unidentified flying object",
+    "location": "Anaheim, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported seeing a flying saucer-like object.",
+    "contains photographs": false
 }

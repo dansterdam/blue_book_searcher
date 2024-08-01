@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "Unidentified aerial objects observed near Adams Field in Little Rock, Arkansas on March 12, 1950.",
-    "interesting points": [
-        "6 to 18 unidentified objects were observed, described as black or dark in color and round or octagonal in shape.",
-        "The objects were silhouetted against the setting sun and observed at an altitude of approximately 30 degrees above the horizon.",
-        "The objects made a sudden 90-degree turn from southeast to southwest direction before disappearing from view.",
-        "The observer was an experienced 50-year-old pilot with 20,000 flight hours who was considered a reliable and credible witness.",
-        "No sounds, trails, or other unusual characteristics were reported about the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "6 to 18 unidentified black or dark colored objects, round or octagonal in shape",
-    "location": "Adams Field, Little Rock, Arkansas",
-    "witnesses": "experienced pilot",
-    "photographs": "none"
+    "main event": "Mr. observed unidentified aerial objects near Adams Field in Little Rock, Arkansas on March 12, 1950.",
+    "interesting points": "The observer was in a plane at 500 feet when they saw the objects., The objects were initially perceived as large planes and were dark against the setting sun., The sighting lasted approximately 2 minutes., The objects executed a sudden 90° turn during flight., The observer is described as honest, reliable, and has extensive flying experience.",
+    "sighted object": "6 to 18 dark round or octagonal objects in the sky",
+    "location": "Little Rock, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Observer from Flight Operations, experienced pilot with approximately 20 years of flying.",
+    "contains photographs": false
 }

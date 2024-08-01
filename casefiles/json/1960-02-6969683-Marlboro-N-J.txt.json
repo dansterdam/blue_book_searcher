@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round white object with a red tail, about the size of a big street light, was observed moving slowly in New Jersey on February 6, 1960.",
-    "interesting points": [
-        "The object was observed for 15 minutes.",
-        "The object moved in a straight course.",
-        "On December 22, 1960, triangular-shaped objects were observed in Marlboro, New Jersey, maneuvering with rapid acceleration and without apparent effort.",
-        "The triangular objects were estimated to be 8-10 feet in size and dark in color, with no sound detected.",
-        "The report notes that the characteristics of the observed objects do not match any known aircraft or natural phenomena, and further investigation may be warranted."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round white object with a red tail, and triangular-shaped objects",
-    "location": "Marlboro, New Jersey",
-    "witnesses": "multiple witnesses",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A round white object with a red tail was observed moving slowly in Marlboro, N.J. on February 6, 1960.",
+    "interesting points": "The observation lasted for about 15 minutes,The object was described as being about the size of a big street light,The object moved in a straight course before disappearing, The report indicated insufficient information for further evaluation, The observation was part of the U.S. Air Force's Project Blue Book.",
+    "sighted object": "round white object with a red tail",
+    "location": "Marlboro, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Insufficient information provided regarding the witness.",
+    "contains photographs": false
 }

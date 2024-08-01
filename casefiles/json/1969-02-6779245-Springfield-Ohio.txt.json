@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a disc-shaped object with a glow on top and an antenna near Springfield, Ohio on February 28, 1969.",
-    "interesting points": [
-        "The object was estimated to have traveled between 300 to 600 MPH and was about 30 feet away from the observer.",
-        "The observer felt a vibration and a hum coming from the object.",
-        "The object was observed for an unspecified duration.",
-        "No photographs were taken of the object.",
-        "No physical evidence was found at the site."
-    ],
-    "result": "unexplained",
-    "sighted object": "a disc-shaped object with a glow on top and an antenna",
-    "location": "Springfield, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian sighted a disc-shaped object with a glow on top and an antenna near Springfield, Ohio on February 28, 1969.",
+    "interesting points": "The object was observed to glow brightly on top while an antenna was visible., The observer estimated the object was about 30 feet away and traveled at speeds between 300 to 600 MPH., The observer felt a vibration accompanied by a humming noise during the sighting., The sighting duration was not explicitly provided but involved an unexpected disappearance., There were additional reports of similar sightings in the vicinity shortly after this observation.",
+    "sighted object": "disc-shaped object with a glow and an antenna",
+    "location": "Springfield, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a civilian, a business assistant, with no prior experience of observing similar phenomena.",
+    "contains photographs": false
 }

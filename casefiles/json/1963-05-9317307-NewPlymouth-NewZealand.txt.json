@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was observed in the sky over New Plymouth, New Zealand on May 18, 1963.",
-    "interesting points": [
-        "The object was observed to be stationary, but also capable of sudden high speeds and flashing, changing brightness.",
-        "The object was described as white and blue in color, extremely bright, and somewhat blurred or fuzzy in appearance.",
-        "The object was observed between the observer's location and the moon, and disappeared towards the south.",
-        "The observation lasted for approximately 4 minutes.",
-        "The object was reported to have caused slight bursts of radio/electrical interference."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified flying object",
-    "location": "New Plymouth, New Zealand",
-    "witnesses": "civilian observer",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "An unidentified object was observed in New Plymouth, New Zealand on 18 May 1963 at 10:30 PM.",
+    "interesting points": "The observation lasted for 4 minutes,The object was stationary and displayed sudden speeds,It had flashing and changing brightness,The object changed colors between white and blue,The object was extremely bright, fuzzy, and blurred, and was observed moving from west to south.",
+    "sighted object": "one unidentified object",
+    "location": "New Plymouth, Taranaki, New Zealand",
+    "number of confirmed witnesses": 1,
+    "witness description": "No specific information on the witness was provided, but the source is civilian.",
+    "contains photographs": false
 }

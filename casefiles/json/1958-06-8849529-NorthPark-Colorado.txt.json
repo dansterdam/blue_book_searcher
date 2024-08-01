@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An elongated, dime-sized, orange or yellowish object was observed in the sky over North Park, Colorado for about 25 minutes.",
-    "interesting points": [
-        "The object was observed to wave and bob in the sky.",
-        "The object's light waxed and waned during the sighting.",
-        "The object followed an unusual, weaving and bobbing course in the sky.",
-        "The sighting occurred at night under clear skies with a few scattered clouds.",
-        "The report concludes that the sighting was of such a nature that it could not be easily explained."
-    ],
-    "result": "unexplained",
-    "sighted object": "elongated, dime-sized, orange or yellowish object",
-    "location": "North Park, Colorado",
-    "witnesses": "Bob Wade Ranch",
-    "photographs": "none"
+    "main event": "An elongated orange or yellowish object was observed waving and bobbing in the sky for about 25 minutes.",
+    "interesting points": "The object was described as elongated and resembling the size of a dime., The sighting occurred at night in clear weather with few clouds., The witness reported the object weaving and bobbing during its flight., The report indicates that the information was limited and insufficient for a thorough analysis., No photographs were present with the report.",
+    "sighted object": "elongated orange or yellowish object",
+    "location": "North Park, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Oalvin",
+    "contains photographs": false
 }

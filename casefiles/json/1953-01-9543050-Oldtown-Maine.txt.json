@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object was sighted in Oldtown, Maine by an aircraft at 0943 A.M. The object was round and small, whirling at the top, and changing colors from blue and white. It moved slowly and maneuvered at times.",
-  "interesting points": [
-    "The object was observed changing colors from blue to white and maneuvering at a slow speed.",
-    "The report mentions that the object could possibly be a balloon due to its characteristics.",
-    "The witness reported the object was over 1 mile in the sky and there was no sound or trail.",
-    "This sighting lacked background data, making it difficult to evaluate the nature of the object.",
-    "The report concludes that there was insufficient data to evaluate the incident."
-  ],
-  "result": "unexplained",
-  "sighted object": "round, small, whirling at the top, changing colors from blue and white",
-  "location": "Oldtown, Maine",
-  "witnesses": "aircraft",
-  "photographs": "no"
+    "main event": "An object was sighted in Oldtown, Maine on January 22, 1953.",
+    "interesting points": "The object was described as card-shaped and white,The sighting lasted for 15-20 seconds,The object appeared to be over 1 mile in the sky and moved from East to West,There was no sound or trail observed from the object,The conclusion of the report was that there was insufficient data for evaluation.",
+    "sighted object": "card-shaped white object",
+    "location": "Oldtown, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt ----- from the Air Force",
+    "contains photographs": false
 }

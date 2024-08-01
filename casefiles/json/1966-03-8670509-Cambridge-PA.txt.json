@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "Two peculiar lights came out of the east traveling west and disappeared in the southwest. The lights were bright red in color at first, then looked like three sets - one red, one white, and one green.",
-    "interesting points": [
-        "The lights were described as changing form and position within a matter of seconds, not just slowly changing lights.",
-        "The witness could hear a steady humming sound that did not seem to increase or decrease as the lights changed direction or position.",
-        "The witness had a camera loaded with color film that they wanted to try out on any objects that did not fit the patterns of known aircraft or balloons.",
-        "Other Dickinson College students also reported seeing similar flights on the same date, but their reports were inconsistent with the witness's own report.",
-        "The witness hoped to be able to contact any of the other people who had made reports, to help with the investigation."
-    ],
-    "result": "AIRCRAFT",
-    "sighted object": "Two peculiar lights that changed in color and appearance",
-    "location": "Cambridge, Mass. PA",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "Two peculiar lights traveled from the east to the southwest and disappeared.",
+    "interesting points": "The lights were bright red in color at first,The object appeared to change colors to red, white, and green,The sighting lasted approximately 2 minutes,There were inconsistencies in reports from college students on the same date,No photographs or physical evidence were recorded.",
+    "sighted object": "two lights changing colors in the sky",
+    "location": "Cambridge, Massachusetts, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilian individuals including a father and his two daughters.",
+    "contains photographs": false
 }

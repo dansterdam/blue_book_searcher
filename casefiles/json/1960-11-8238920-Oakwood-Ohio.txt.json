@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A rectangular, faint object was sighted in the sky over Oakwood, Ohio on November 18, 1959.",
-    "interesting points": [
-        "The object initially appeared as a point of light and gradually increased in size as it approached.",
-        "As the object receded, it became dimmer and was eventually lost from view.",
-        "The object was described as a probable trace, meaning it may have been a radar anomaly or distortion.",
-        "A second witness reported seeing a triangular, glowing object that was about 18 inches to 2 feet in diameter.",
-        "The triangular object had a bluish-white glow that would gradually brighten and dim, but it did not twinkle like a star."
-    ],
-    "result": "unknown",
-    "sighted object": "rectangular, faint object; triangular, glowing object",
-    "location": "Oakwood, Ohio",
-    "witnesses": "electrical foreman, unidentified witness",
-    "photographs": "no"
+    "main event": "A witness reported sighting a very faint rectangular object that appeared as a point of light, increased in size, and then dimmed before disappearing.",
+    "interesting points": "The sighting lasted approximately 10 minutes., The object was initially observed at 1825 hours., The witness first thought the object was a shooting star before realizing it was stationary., There was no sound associated with the sighting., A second witness described the object as triangular with a bluish-white glow.",
+    "sighted object": "faint rectangular object and triangular object with bluish-white glow",
+    "location": "Oakwood, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One witness was an electrical foreman who described lights and objects flying rapidly.",
+    "contains photographs": false
 }

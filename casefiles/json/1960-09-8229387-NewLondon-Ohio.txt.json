@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a white light moving rapidly back and forth, and disappearing or going out, while being observed for about 2 minutes.",
-    "interesting points": [
-        "The object was not very large.",
-        "The witness did not hear any associated sound.",
-        "The witness was asked to draw sketches showing the object's position and elevation in the sky.",
-        "The witness was asked various detailed questions about the sighting, including weather conditions, other witnesses, and their opinions on what the object might have been.",
-        "The report mentions that the witness's information would be considered in relation to the ongoing study of unidentified aerial phenomena by the U.S. Air Force."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white light",
-    "location": "[Redacted], Ohio",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "A UFO sighting occurred on 9/22/60 involving a rapidly moving white light that disappeared while being observed.",
+    "interesting points": "The sighting lasted for 2 minutes,The object moved rapidly back and forth,The object emitted no sound,It was not very large,The witness was asked about weather conditions and other details in a questionnaire.",
+    "sighted object": "a white light moving rapidly",
+    "location": "New London, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Name and address are redacted; witness filled out a questionnaire regarding the sighting.",
+    "contains photographs": false
 }

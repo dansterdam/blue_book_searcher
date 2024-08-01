@@ -1,17 +1,9 @@
-```json
 {
-    "main event": "A cylindrical object was sighted hovering about 200 feet above the ground in Fork Union, Virginia in September 1962.",
-    "interesting points": [
-        "The object remained stationary for about 45 seconds, then began to rise slowly and tilt as it went.",
-        "The object then made a 90 degree turn and shot off at a high rate of speed, disappearing in a few seconds.",
-        "The report was called in to the nearest Air Force Base, and they verified the report and said they had no aircraft operating in the area at that time.",
-        "The report was referenced in a letter from the Foreign Technology Division of the Air Force Systems Command at Wright-Patterson Air Force Base.",
-        "The initial sighting was reported by a Cadet (Major Hart) at the US Air Force Academy on December 23, 1961."
-    ],
-    "result": "unexplained",
-    "sighted object": "a long cylindrical object",
-    "location": "Fork Union, Virginia",
-    "witnesses": "civilian, Air Force personnel",
-    "photographs": "no"
+    "main event": "A civilian reported a sighting of a long cylindrical object with red lights on September 3, 1962.",
+    "interesting points": "The object hovered 200 feet above ground for 45 seconds before rising and making a 90-degree turn., It was reported to the nearest Air Force Base, which verified the sighting., The base confirmed no aircraft were operating in the area at the time of the sighting., The observer noted the object moved at high speed and was out of sight within a few seconds., The report was made by a witness who was seeking further information on the sighting.",
+    "sighted object": "long cylindrical object with red lights",
+    "location": "Fork Union, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }
-```

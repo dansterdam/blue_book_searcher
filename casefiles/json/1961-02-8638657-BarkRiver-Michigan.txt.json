@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A fiery red object was sighted on ground radar and air-intercept radar near Bark River, Michigan on February 27, 1961.",
-    "interesting points": [
-        "The object was described as being fiery red in color.",
-        "The duration of the sighting was approximately 30 minutes, much too long for a conventional aircraft.",
-        "No air intercept attempt was made as further identification was not possible.",
-        "The object appeared to dip out of sight behind some trees.",
-        "Local fighter squadrons and the Boeing ZZ-2 squadron were checked, and no aircraft were reported in the same area at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fiery red object",
-    "location": "Bark River, Michigan",
-    "witnesses": "Ground-Radar and Air-Intercept Radar",
-    "photographs": "no"
+    "main event": "A fiery red object was sighted in Bark River, Michigan, on 27 February 1961, observed via ground and air intercept radar.",
+    "interesting points": "The sighting lasted approximately 30 minutes., The object was described as being fiery red and similar to flames., No air intercept attempt was made as further identification was deemed impossible., The object was seen to dip behind some trees after being observed moving slowly northward., Witnesses included a housewife and her daughter, who confirmed the sighting together.",
+    "sighted object": "fiery red object in the sky",
+    "location": "Bark River, Michigan, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A housewife and her 16-year-old daughter",
+    "contains photographs": false
 }

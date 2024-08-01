@@ -1,15 +1,9 @@
 {
-    "main event": "The report contains multiple UFO sightings, including one instance of a pilot chasing a red ball of light, and radar tracking of objects at Goose Air Force Base in Labrador.",
-    "interesting points": [
-        "The sighting at Goose AFB involved 25 unidentified objects tracked on radar for 2 minutes and 15 seconds.",
-        "A fighter pilot on combat air patrol observed an object that appeared to put on speed and climb through overcast clouds, preventing the pilot from following due to low fuel.",
-        "Multiple reports of unidentified flying objects (UFOs) across different dates and times, including observations by radar operators and experienced pilots.",
-        "An experienced pilot observed a round luminous object about 1/4 the size of the full moon, moving at a high rate of speed and changing color from bright white to reddish-orange.",
-        "The report includes a joint message form detailing a sighting of red lights and requesting completion of an Air Force form for further information on the UFO sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified flying objects, including round luminous objects and red lights",
-    "location": "Goose AFB, Labrador",
-    "witnesses": "multiple military personnel, fighter pilots, and radar operators",
-    "photographs": "no photographs provided"
+    "main event": "A military radar observation tracked 25 unidentified flying objects over Goose AFB in Labrador on June 13, 1955.",
+    "interesting points": "The sighting was established by multiple radar operators,The objects were tracked for approximately 2 minutes and 15 seconds,No photos or physical evidence were reported,The radar contact indicated a significant number of objects within a short observation period,This incident adds to the historical data collected by Project Blue Book.",
+    "sighted object": "25 unidentified flying objects",
+    "location": "Goose AFB, Labrador, CA",
+    "number of confirmed witnesses": 5,
+    "witness description": "military radar operators",
+    "contains photographs": false
 }

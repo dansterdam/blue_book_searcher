@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A radar target was observed moving slowly and irregularly at low altitude over Moorcroft, Wyoming on April 9, 1963. A visual observation was also made of a sphere of light resembling a balloon that appeared to be descending slowly and gradually fading from view.",
-    "interesting points": [
-        "The radar target was observed on the scope for about 10 minutes, moving in a generally easterly direction.",
-        "The sighting was classified as 'Probably Balloon' with 'Insufficient Data to Evaluate'.",
-        "The report mentions other sightings in the area, including 'White Sands sightings' and photos of 'seagulls' and 'two F-94 aircraft' that were evaluated.",
-        "The sighting of 'Miss ___' was evaluated as the Echo satellite passing over Wyoming at 7:38 PM on April 13, 1963.",
-        "Mrs. ___'s sighting on May 15 was still under study at the time of the report."
-    ],
-    "result": "Probably Balloon, Insufficient Data to Evaluate",
-    "sighted object": "Sphere of light resembling a balloon",
-    "location": "Moorcroft, Wyoming",
-    "witnesses": "Radar detection and visual observation",
-    "photographs": "No photographs present in the case file"
+    "main event": "A radar target was observed moving slowly and irregularly at low altitude, identified visually as a sphere of light resembling a balloon.",
+    "interesting points": "The sighting lasted about 10 minutes,The radar target was moving generally in an easterly direction,The object was first sighted at 1930,It faded from view during the observation period,The conclusion was insufficient data to evaluate the nature of the object.",
+    "sighted object": "a sphere of light resembling a balloon",
+    "location": "Moorcroft, Wyoming, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observation",
+    "contains photographs": false
 }

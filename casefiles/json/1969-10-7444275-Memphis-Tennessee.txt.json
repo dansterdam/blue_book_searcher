@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported seeing one unidentified object over Memphis, Tennessee on October 12, 1969.",
-    "interesting points": [
-        "The sighting was reported to the Air Force and an official investigation was requested.",
-        "The witness was asked to complete an AF Form 117 to provide more details about the sighting.",
-        "The report indicates there was insufficient data to draw a conclusion about the identity of the object.",
-        "The witness was asked to provide a sketch or diagram to help illustrate the sighting.",
-        "The report contains instructions for the witness on how to indicate the direction, movement, and location of the object using a compass rose diagram."
-    ],
-    "result": "unexplained (insufficient data)",
-    "sighted object": "one unidentified object",
-    "location": "Memphis, Tennessee",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported an unidentified flying object sighting in Memphis, Tennessee on October 12, 1969.",
+    "interesting points": "The report was part of Project Blue Book, which investigated UFO sightings., The sighting occurred at 2015Z (GMT) and had one unidentified object., The conclusion of the investigation noted insufficient data to take further action., The witness indicated that they had not seen a similar phenomenon before, but another person was with them during the sighting., The report lacks any photographs or physical evidence and remains officially closed.",
+    "sighted object": "one unidentified flying object",
+    "location": "Memphis, Tennessee, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a male civilian and another individual who did not see the object",
+    "contains photographs": false
 }

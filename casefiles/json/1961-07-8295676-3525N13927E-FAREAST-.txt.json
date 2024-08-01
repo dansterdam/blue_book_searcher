@@ -1,15 +1,9 @@
 {
-    "main event": "A bright white object, approximately 1 degree in diameter, was observed on a straight flight path at a very high speed, leaving a faint trail as it moved from horizon to horizon in approximately 3 minutes.",
-    "interesting points": [
-        "The object appeared bright white, approximately 1 degree in diameter, and moved on a straight flight path at a very high speed.",
-        "The object left a faint trail as it moved from horizon to horizon in approximately 3 minutes.",
-        "The report concluded that the object was likely a satellite.",
-        "The object was first observed directly overhead at an extremely high altitude and then disappeared on the horizon.",
-        "The report mentions that the track and regularity of altitude indicate a non-meteorological origin and suggest a satellite-type object in orbit."
-    ],
-    "result": "Likely a satellite",
-    "sighted object": "Bright white object, approximately 1 degree in diameter",
-    "location": "East of Misawa AFB, Japan",
-    "witnesses": "Navigator on an aircraft",
-    "photographs": "No photographs available"
+    "main event": "A bright white object was observed moving at high speed east of Misawa AFB on July 23, 1951.",
+    "interesting points": "The observation lasted for approximately 3 minutes., The object appeared to be about 1 degree in diameter., It left a faint trail as it traveled from horizon to horizon., The object was concluded to likely be a satellite due to its speed and trajectory., The sighting was conducted at dusk, which may have contributed to the visibility of the bright object.",
+    "sighted object": "a bright white object",
+    "location": "East of Misawa AFB, Aomori, Japan",
+    "number of confirmed witnesses": 1,
+    "witness description": "navigator aboard an aircraft",
+    "contains photographs": false
 }

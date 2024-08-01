@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright, shiny, disc-shaped object was observed by various witnesses at Tinker AFB, Oklahoma on July 1, 1953.",
-    "interesting points": [
-        "The object appeared metallic and reflected sunlight sharply.",
-        "The object was observed hovering, changing direction, and accelerating at high speeds.",
-        "No sound was heard from the object.",
-        "The object was estimated to be at an altitude between 3,000 and 5,000 feet.",
-        "No tangible evidence or identification of the object was obtained after investigation."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, shiny, disc-shaped object",
-    "location": "Tinker AFB, Oklahoma",
-    "witnesses": "various witnesses at Tinker AFB",
-    "photographs": "no, the report states no photos were obtained"
+    "main event": "Multiple witnesses reported observing a bright luminous disc-shaped object over Tinker Air Force Base in Oklahoma, with durations of observation ranging from 5 to 30 minutes.",
+    "interesting points": "The object was described as metallic and reflective, observed at altitudes between 1,000 to 50,000 feet,The object made no sound during the observation period,Several witnesses reported that the object hovered, changed direction, and accelerated at high speeds,No physical evidence or identification of the object was obtained,The sightings coincided with clear weather conditions and multiple reports from different individuals.",
+    "sighted object": "bright luminous disc-shaped object",
+    "location": "Tinker AFB, Oklahoma, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Civilian guards and control tower operators at Tinker AFB",
+    "contains photographs": false
 }

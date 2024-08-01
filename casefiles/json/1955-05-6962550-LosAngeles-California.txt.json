@@ -1,15 +1,9 @@
 {
-    "main event": "A round, red object was observed at 30 degrees elevation in the northwest sky over Los Angeles, California on May 18, 1955.",
-    "interesting points": [
-        "The object was stationary and emitted a bright glow.",
-        "The sighting lasted for 4 or 5 minutes.",
-        "The weather conditions were dry, warm, and with no moon.",
-        "Wind speeds were measured at various altitudes.",
-        "The Senior Director, 2nd Lt. Haney, had no comment on the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "a round, red object",
-    "location": "Los Angeles, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A round red object was observed in the northwest sky giving off a bright glow for 4 to 5 minutes.",
+    "interesting points": "The observation was made at 30 degrees elevation,The object was stationary during the sighting,There were no photographs associated with the report,The sighting was classified as ground-visual,It is noted that there is insufficient data to draw any conclusions.",
+    "sighted object": "a round red object",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

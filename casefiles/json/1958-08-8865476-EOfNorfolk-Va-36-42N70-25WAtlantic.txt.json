@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, burning object was observed falling from east to northeast, white in color, by an Air Force source.",
-    "interesting points": [
-        "The object was described as bright and burning, white in color.",
-        "The object was observed falling from east to northeast.",
-        "The observation lasted for 30-39 seconds.",
-        "The report concluded there was insufficient data to evaluate the object.",
-        "The report mentions the possibility of the object being a balloon or aircraft, but was unable to definitively identify it."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, burning white object falling from east to northeast",
-    "location": "Norfolk, VA",
-    "witnesses": "Air Force source",
-    "photographs": "no"
+    "main event": "A bright, burning object was observed falling from East to Northeast in Norfolk, Virginia on 2-3 August 1958.",
+    "interesting points": "The object was white in color., The observation lasted for 30-39 seconds., There were insufficient data for evaluation of the object's nature., The source of the sighting was recorded as civilian., The report referenced a potential for the object being a balloon, aircraft, or astronomical, but concluded with insufficient data.",
+    "sighted object": "one bright, burning object",
+    "location": "Norfolk, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Master of the Ship Urania, a Liberian tanker",
+    "contains photographs": false
 }

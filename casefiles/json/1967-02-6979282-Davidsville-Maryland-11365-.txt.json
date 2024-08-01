@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A woman in Davidsville, Maryland reported seeing a bright, glowing, circular object in the sky that moved erratically and then disappeared from view.",
-    "interesting points": [
-        "The object was described as round, luminous, and approximately 30 feet in diameter.",
-        "The object accelerated at a high rate of speed and disappeared within a few seconds.",
-        "The witness, Mrs. Jeanette Matthews, stated the object made no sound.",
-        "Two photographs were taken but did not turn out clear due to poor lighting conditions.",
-        "The sighting lasted for approximately 2-3 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, glowing, circular object",
-    "location": "Davidsville, Maryland",
-    "witnesses": "Mrs. Jeanette Matthews",
-    "photographs": "yes, but they were of poor quality"
+    "main event": "Mrs. Jeanette Matthews observed a luminous object in the sky at approximately 7:30 p.m. on February 6, 1967.",
+    "interesting points": "The object was moving from south to north at an altitude of about 1000 feet., The object was described as round, approximately 30 feet in diameter, and luminous., It accelerated quickly and disappeared from sight., The weather conditions were clear, and there were no sounds emitted by the object., Two photographs were taken of the object, but their quality was poor due to the lighting conditions.",
+    "sighted object": "a luminous round object in the sky",
+    "location": "Davidsville, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. Jeanette Matthews and Joe Smith, a farmer",
+    "contains photographs": true
 }

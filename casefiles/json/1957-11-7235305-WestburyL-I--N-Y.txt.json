@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO report from 6 November 1957 in Westbury L.I., N.Y. involved the ground-radar observation of 2 unidentified objects for 10 minutes.",
-  "interesting points": [
-    "The observation was conducted using ground-radar.",
-    "The duration of the observation was 10 minutes, allowing for a detailed assessment.",
-    "The report concluded that further investigation was necessary and listed possible explanations as aircraft, balloon, or satellite.",
-    "The document states the need for further investigation to determine the identity and explanation of the sighting.",
-    "The report emphasizes that the time of day and location of the sighting were unknown."
-  ],
-  "result": "unexplained",
-  "sighted object": "two unidentified objects",
-  "location": "Westbury L.I., N.Y.",
-  "witnesses": "ground-radar observation",
-  "photographs": "no"
+    "main event": "Two unidentified objects were observed on radar for 10 minutes in Westbury, N.Y.",
+    "interesting points": "The sighting was recorded on radar,The objects moved in a straight course,The duration of the observation was 10 minutes,Further investigation is necessary to conclude the identity of the objects,Possible explanations include aircraft, balloon, or satellite.",
+    "sighted object": "two unidentified objects on radar",
+    "location": "Westbury, L.I., N.Y.",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses specified",
+    "contains photographs": false
 }

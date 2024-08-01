@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Six round, red or maroon objects, size of a pea, were observed in a 'V' formation that then split up into a straight line and faded slowly to the south.",
-    "interesting points": [
-        "The objects were described as being the size of a pea.",
-        "The objects were initially in a 'V' formation, then split up into a straight line.",
-        "The objects faded slowly to the south.",
-        "The sighting lasted for 30 seconds.",
-        "The witness's reliability was considered insufficient."
-    ],
-    "result": "Insufficient Data",
-    "sighted object": "six round, red or maroon objects",
-    "location": "Aurora, Colorado",
-    "witnesses": "one witness, a hair stylist whose reliability was doubtful",
-    "photographs": "none"
+    "main event": "A witness observed six round, red or maroon objects in a 'V' formation which then split into a straight line and faded slowly to the south.",
+    "interesting points": "The objects were the size of peas., The sighting lasted about 30 seconds., The witness is considered to have insufficient reliability., The objects moved quickly across the sky., This case was categorized as Insufficient Data.",
+    "sighted object": "six round red or maroon objects",
+    "location": "Aurora, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "hair stylist, reliability doubtful",
+    "contains photographs": false
 }

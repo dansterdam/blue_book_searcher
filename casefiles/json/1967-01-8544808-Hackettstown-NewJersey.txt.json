@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, pulsing light was observed in the sky, hovering and then disappearing over Hackettstown, New Jersey on January 8, 1967.",
-    "interesting points": [
-        "The object was described as about 60 feet in diameter, silver in color with a bluish halo.",
-        "The object made no noise as it passed overhead at a very high speed, much faster than any known aircraft.",
-        "The object appeared to be circular in shape with no projections or wings, and seemed to glow with a bluish light.",
-        "The sighting lasted for approximately 30 seconds as the object disappeared into the distance at a tremendous speed.",
-        "The witnesses had never seen anything like this object before and were quite perplexed by what they had observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, pulsing light in the sky",
-    "location": "Hackettstown, New Jersey",
-    "witnesses": "multiple witnesses",
-    "photographs": "no"
+    "main event": "A reddish-bright colored object, about 60 feet in diameter, was reported flying over Hackettstown, New Jersey.",
+    "interesting points": "The object was described as having the size of a basketball and emitted a sound similar to a small plane., The object was observed hovering initially before moving in an erratic manner., Witnesses stated that the object made no noise as it passed overhead., Descriptions indicated that the object had a bluish halo around it., The Air Force was unable to positively identify the object despite the investigation.",
+    "sighted object": "a reddish-bright object approximately 60 feet in diameter",
+    "location": "Hackettstown, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness observed the object from outside, describing it as glowing and moving at very high speeds.",
+    "contains photographs": false
 }

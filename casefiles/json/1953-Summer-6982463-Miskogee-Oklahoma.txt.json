@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A photograph of an unidentified flying object (UFO) over trees in Muskogee, Oklahoma in the summer of 1953.",
-    "interesting points": [
-        "The photograph shows a disc-shaped object in the sky above the silhouette of trees.",
-        "The photograph appears to be dated, suggesting it is from around the mid-20th century.",
-        "No other text or details are provided in the report.",
-        "The report does not contain any witness statements or additional information about the sighting.",
-        "The report only consists of the photograph and a brief header indicating the location, date, and that it contains 1 photo."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped unidentified flying object",
-    "location": "Muskogee, Oklahoma",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 1 photograph"
+    "main event": "A photograph was captured showing a disc-like unidentified flying object in the sky above trees during the summer of 1953.",
+    "interesting points": "The photograph appears to be from the mid-20th century,The object in the photo has a distinct disc-like shape,The photograph is in black and white,The location of the sighting is noted as Muskogee, Oklahoma,The document references one photograph associated with the report.",
+    "sighted object": "disc-like unidentified flying object",
+    "location": "Muskogee, Oklahoma, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses mentioned",
+    "contains photographs": true
 }

@@ -1,17 +1,9 @@
-Based on the information provided in the report text, here is the JSON summary:
-
 {
-    "main event": "A patrol car observed an unidentified object near Damon, Texas in 1964.",
-    "interesting points": [
-        "The report includes 12 photographs, but the images provided do not contain any photographs of the unidentified object.",
-        "The photographs show a damaged car, a patrol car, law enforcement officers, and landscape views in the area.",
-        "The report mentions that the unidentified object was seen from the patrol car, but does not provide any details about the object's appearance or behavior.",
-        "The report mentions the date as September 3, 1964, and the location as Damon, Texas.",
-        "The report references an observation made on June 19, 1960, but does not provide any details about this observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object",
-    "location": "Damon, Texas",
-    "witnesses": "law enforcement officers",
-    "photographs": "no, the report includes photographs but they do not show the unidentified object"
+    "main event": "A UFO sighting was reported in Damon, Texas on September 3, 1964, observed from a patrol car.",
+    "interesting points": "The report includes a damaged car with the names Miley, Leach, and Goode mentioned., Law enforcement officers were present during the sighting., Multiple photographs were taken, showing the area and perspectives from the patrol car., There are views of both South and North along Highway 36 documented in the report., The report references the observation of an object looking towards a pasture where it was seen.",
+    "sighted object": "unidentified flying object",
+    "location": "Damon, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "law enforcement officers",
+    "contains photographs": true
 }

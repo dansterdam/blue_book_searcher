@@ -1,17 +1,9 @@
-Here is the summary in JSON format based on the UFO report:
-
 {
-    "main event": "Two civilian witnesses observed a bright object in the sky over Columbus, Ohio on June 18, 1966 around 0330Z.",
-    "interesting points": [
-        "The object was bright and appeared to be a satellite.",
-        "There were multiple military and civilian aircraft in the vicinity at the time of the sighting.",
-        "The description of the object indicated it was unusual in character.",
-        "The sighting lasted for an unspecified duration.",
-        "Two witnesses reported the sighting."
-    ],
-    "result": "Satellite",
-    "sighted object": "A bright object in the sky",
-    "location": "Columbus, Ohio",
-    "witnesses": "Two civilian witnesses",
-    "photographs": "No"
+    "main event": "On multiple occasions in June 1966, witnesses reported sightings of unidentified aerial phenomena over Columbus, Ohio, describing them as bright, colored lights moving in the night sky.",
+    "interesting points": "Witnesses noted a high-pitched humming sound associated with the sightings,The objects appeared to change colors, including orange and red, during their movements,Multiple witnesses reported observing the same object, contributing to the credibility of the sightings,One observation lasted approximately 20 minutes before the object moved out of sight, The Air Force concluded that some of the sightings could potentially be explained as military or civil aircraft.",
+    "sighted object": "bright, silvery-colored object and moving lights",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians who observed the objects during the night.",
+    "contains photographs": false
 }

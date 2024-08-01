@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light, possibly a UFO, was observed in the sky over Barbourville, Kentucky on March 23, 1964.",
-    "interesting points": [
-        "The object was seen at an altitude of 200-300 miles, moving at a speed of 25,000-30,000 mph.",
-        "The object was self-luminous and visible through a telescope.",
-        "The object was located in the northwest sky at an elevation of 25 degrees.",
-        "The motion of the object could be tracked with the telescope, indicating it was not moving at an extreme speed.",
-        "The report suggests the observed object may have been the planet Venus, as many similar observations are known to be of Venus."
-    ],
-    "result": "inconclusive",
-    "sighted object": "bright light, possibly a UFO",
-    "location": "Barbourville, Kentucky",
-    "witnesses": "civilian driver",
-    "photographs": "no photographs included"
+    "main event": "A witness observed a bright light in the sky while driving along a highway in Barbourville, Kentucky on March 23, 1964.",
+    "interesting points": "The object was observed at an altitude of 200-300 miles and was moving at speeds of 25,000-30,000 mph., The object was described as self-luminous and located in the northwest at a 25 degree elevation., The motion of the object was not extreme, suggesting it could be followed by the observer's equipment., There is speculation that the object observed could have been Venus due to its distance and appearance., The sighting was documented in a Project Blue Book record card.",
+    "sighted object": "a bright light in the sky",
+    "location": "Barbourville, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian driving along a highway",
+    "contains photographs": false
 }

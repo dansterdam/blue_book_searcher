@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-  "main event": "Several unidentified lights were sighted by the crew of a VC-130B aircraft flying over the Philippines on August 1, 1966.",
-  "interesting points": [
-    "The lights appeared to be in a formation, with three lights in a stack and an additional light joining them.",
-    "The lights were observed to move at a high rate of speed, changing direction and altitude rapidly.",
-    "A single bright light was also seen crossing in front of the aircraft at a very fast speed.",
-    "The crew attempted to maneuver the aircraft to get a better look but were unable to relocate the lights.",
-    "The crew could not determine the exact nature or origin of the lights, stating they did not appear to be any known aircraft or celestial bodies."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified lights/objects in the sky",
-  "location": "near the Philippine coast, east of Manila",
-  "witnesses": "crew of a VC-130B aircraft",
-  "photographs": "no, the report indicates the crew was unable to obtain any photographs"
+    "main event": "On 1 August 1966, a flight crew observed several unidentified lights in the sky while en route to a storm reconnaissance area over the Philippines.",
+    "interesting points": "The lights appeared in various formations, including three in a cluster and a separate bright light moving independently., Witnesses observed the lights rapidly change altitude and direction., The phenomenon was described as the first of its kind witnessed by some crew members in their aviation careers., A total of 5 confirmed witnesses reported detailed observations of the lights., The military investigation into the sightings remained inconclusive due to insufficient data.",
+    "sighted object": "several bright lights in the sky",
+    "location": "Manila, Republic Philippines",
+    "number of confirmed witnesses": 5,
+    "witness description": "Flight crew members including pilots, navigators, and weather observers.",
+    "contains photographs": false
 }

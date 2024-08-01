@@ -1,15 +1,9 @@
 {
-    "main event": "A witness in Berlin, Germany reported seeing a bright, round object with a red flaring tail moving quickly across the sky on December 21, 1957.",
-    "interesting points": [
-        "The object was described as being about 8-10 meters in diameter, with a brilliant white body and a red flaring tail.",
-        "The object was observed for only about 2 seconds as it moved from west to east.",
-        "The witness reported the object was reflecting light from the ground below and did not make any noise.",
-        "The witness reported the sighting to local authorities in Berlin.",
-        "The Air Technical Intelligence Center of the U.S. Air Force investigated the sighting and concluded the object was likely a meteor."
-    ],
-    "result": "identified as a meteor",
-    "sighted object": "a bright, round object with a red flaring tail",
+    "main event": "A witness reported a sighting of a celestial body in Berlin, Germany, on 21 December 1957.",
+    "interesting points": "The object was described as roundish and about 8-10 meters in diameter with a flaring red tail., The observation lasted only 2 seconds and was made from approximately 1 mile away., The object emitted a brilliant white light and made no noise during the sighting., The witness filed a report with local authorities after the sighting., The initial military analysis suggested it was probably a meteor.",
+    "sighted object": "a celestial body with a bright white light and a red tail",
     "location": "Berlin, Germany",
-    "witnesses": "one civilian witness",
-    "photographs": "no, the report does not include any photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "a psychotherapist who reported the sighting to local authorities",
+    "contains photographs": false
 }

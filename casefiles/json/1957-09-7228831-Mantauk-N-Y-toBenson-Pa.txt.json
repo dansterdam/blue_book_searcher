@@ -1,15 +1,9 @@
 {
-    "main event": "Radar stations at Montauk, New York and Benson, Pennsylvania detected high-speed unidentified objects on September 20, 1957.",
-    "interesting points": [
-        "The initial object was tracked by the radar at Montauk, reaching speeds up to 5,400 knots (over 6,200 mph).",
-        "The Benton radar station also detected two high-speed tracks, with one reaching speeds around 1,500 knots (over 1,700 mph).",
-        "The radar returns showed unusual characteristics, such as a 1.0 blip-scan ratio and rapid changes in size and intensity that are not typical of normal aircraft.",
-        "Weather conditions and equipment malfunctions were investigated as possible causes, but could not fully explain the radar observations.",
-        "While the report concludes the tracks were likely due to equipment issues, it states it is difficult to draw definitive conclusions about the nature of the objects."
-    ],
-    "result": "inconclusive",
-    "sighted object": "high-speed unidentified radar tracks",
-    "location": "Montauk, New York to Benson, Pennsylvania",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "main event": "A radar incident involving unidentified high-speed tracks observed from Montauk, New York to Benson, Pennsylvania on September 20, 1957.",
+    "interesting points": "Two radar units were tracking high-speed objects; however, nothing unusual could be observed visually., The initial track on radar was established at a surprising speed of 3600 knots., The Montauk AFS and Benton AFS had simultaneous radar activity correlating to these tracks., Investigations suggested possible radar equipment malfunction and split radar beams causing confusion in tracking., There was no visual confirmation of unidentified objects despite radar alerts and F-102 aircraft being scrambled.",
+    "sighted object": "unidentified high-speed objects",
+    "location": "Montauk, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no visual witnesses as the sighting was primarily based on radar tracking",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A bright, white light the size of a pin, changing from bluish to green, was observed for 0-50 minutes at Moody Air Force Base in Georgia.",
-    "interesting points": [
-        "The object was described as round, with a static elliptic to circular shape.",
-        "The light at the bottom of the object changed from blue to orange.",
-        "The object exhibited a normal, slow crawling movement with an elevation of 15 degrees.",
-        "The weather conditions at the time of the sighting were calm, with low cloud cover and good visibility.",
-        "Qualified pilots believed the sighting was genuine and reported it to the authorities."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A bright, white light the size of a pin, changing from bluish to green",
-    "location": "Moody Air Force Base, Georgia",
-    "witnesses": "Military personnel",
-    "photographs": "No photographs included"
+    "main event": "A sighting of a round object emitting a bluish to green light was reported at Moody APB in Georgia.",
+    "interesting points": "The object was described as the size of a pin,The object showed a light at the bottom that changed from blue to orange,The flight was described as normal slow crawling,The observation lasted between 0 to 50 minutes,The conclusion suggested it could be a balloon or a bright star like Saturn.",
+    "sighted object": "one round object emitting bluish to green light",
+    "location": "Moody APB, Georgia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

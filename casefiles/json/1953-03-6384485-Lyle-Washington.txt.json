@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright colored object was sighted moving southward from the vicinity of Lyle, Washington to Rowena, Washington on March 23, 1953.",
-    "interesting points": [
-        "The object was observed for about 15 minutes.",
-        "The object exhibited a sudden change in altitude when first observed.",
-        "The object rose from north to south at an estimated elevation of 15 degrees.",
-        "The object passed from north to south at an estimated angular velocity of approximately 15 degrees.",
-        "No photographs or fragments of the object were available."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright colored circular object of unknown size and shape",
-    "location": "Lyle, Washington to Rowena, Washington",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian reported sighting a bright colored unidentified object in the sky over Bellingham on March 29, 1953.",
+    "interesting points": "The sighting lasted for 15 minutes,The object was visually observed moving from northeast to southwest,The precise shape and color of the object were unknown,No photographs or physical evidence were obtained,The report is part of a larger investigation conducted by Project Blue Book.",
+    "sighted object": "unknown bright colored object",
+    "location": "Bellingham, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

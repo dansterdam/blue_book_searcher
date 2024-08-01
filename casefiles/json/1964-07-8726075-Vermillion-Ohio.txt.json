@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The report describes a sighting of a bright white or silver object that moved slowly and then disappeared suddenly.",
-    "interesting points": [
-        "The object made no sound.",
-        "The object moved behind something and then moved in front of something, possibly clouds.",
-        "The object was estimated to be traveling at around 1,500 mph.",
-        "The object was estimated to be about 1,000 yards away from the observer.",
-        "The observer compared the size of the object to about 1/3 the length of a pencil held at arm's length."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white or silver object",
-    "location": "Vermillion, OH",
-    "witnesses": "1 individual",
-    "photographs": "no"
+    "main event": "A UFO report from Project Blue Book concerning an unidentified object sighting in Vermillion, Ohio on July 12, 1964.",
+    "interesting points": "The object was observed moving slowly and then disappearing without a trail., The witness described the object as bright white or silver and about 1/3 the length of a pencil at arm's length., The estimated speed of the object was reported to be around 1500 mph., The sighting occurred at nighttime and under clear sky conditions., The report was part of a structured questionnaire intended to gather detailed observational data on UFO sightings.",
+    "sighted object": "unidentified object in the sky",
+    "location": "Vermillion, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 22-year-old male residing in Claveland, Ohio.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A diamond-shaped object with four lights was spotted over the Atlantic Ocean on July 21, 1961.",
-    "interesting points": [
-        "The object had an unusual illumination and appeared to be moving very rapidly.",
-        "The object was spotted at coordinates 30-30N 76-25W, over the Atlantic Ocean.",
-        "The sighting lasted for around 2 minutes.",
-        "The object had two red and two white lights at each point of the diamond shape.",
-        "The report was part of Project Blue Book, a U.S. Air Force program that investigated UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "diamond-shaped object with four lights",
-    "location": "Atlantic Ocean, 30-30N 76-25W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A single visual observation of an unusual illuminated object moving rapidly.",
+    "interesting points": "The event occurred on July 21, 1961,The observation lasted for 2 minutes,The object was described as diamond-shaped with lights at each point,The lights included two red and two white lights,The report is part of Project Blue Book documentation.",
+    "sighted object": "one diamond-shaped object with lights",
+    "location": "Atlantic, Alabama, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses listed",
+    "contains photographs": false
 }

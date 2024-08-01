@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a bright, round object with a pulsating white light flying at low altitude over White Plains, New York on December 6, 1963.",
-    "interesting points": [
-        "The object appeared to be much brighter than any star or planet the witness had seen before.",
-        "The object moved slowly from north to south before suddenly disappearing from view without fading away or moving out of sight.",
-        "The witness, a meteorologist, could not offer any explanation for what he observed.",
-        "The witness immediately reported the sighting to the local police and was later interviewed by two Air Force officers.",
-        "The witness described the object as being disc-shaped, approximately 50-75 feet in diameter, and flying at an altitude of around 500 feet."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round, disc-shaped object with a pulsating white light",
-    "location": "White Plains, New York",
-    "witnesses": "a meteorologist",
-    "photographs": "no"
+    "main event": "A meteorologist observed a bright circular object in the sky over White Plains, New York on December 6, 1963, which disappeared after a few minutes.",
+    "interesting points": "The object was first seen as a dull yellow light at low altitude before it quickly headed west and vanished,The witness, S. Davis Childs, described the object as brighter than any star or planet,The sighting lasted approximately 3 to 5 minutes,The object exhibited unusual behavior, not resembling any conventional aircraft,The report was documented under Project Blue Book and involved additional inquiries from military personnel.",
+    "sighted object": "bright circular light",
+    "location": "White Plains, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "S. Davis Childs, a meteorologist",
+    "contains photographs": false
 }

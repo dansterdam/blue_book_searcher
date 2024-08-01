@@ -1,15 +1,9 @@
 {
-    "main event": "A single unidentified flying object was observed in the sky over Las Vegas, Nevada on July 21, 1963.",
-    "interesting points": [
-        "The observation lasted for approximately 7 minutes.",
-        "The object was described as having an erratic flight path, varying in speed, and appearing to oscillate and go out of sight.",
-        "The object was observed visually and through binoculars.",
-        "The report was filed by an employee at the Dunes Hotel in Las Vegas, who was described as reliable and cooperative.",
-        "The report was forwarded to the Scientific and Technical Division of the Air Force for evaluation."
-    ],
-    "result": "unidentified",
-    "sighted object": "a single unidentified flying object",
-    "location": "Las Vegas, Nevada",
-    "witnesses": "an employee at the Dunes Hotel",
-    "photographs": "no photographs present"
+    "main event": "A UFO sighting was reported in Las Vegas, Nevada on July 22, 1968.",
+    "interesting points": "The sighting involved 1 object observed visually for a brief duration,The course of the object was noted as 330.0 degrees,The report was part of Project Blue Book by the U.S. Air Force,There was no photographic evidence or physical evidence associated with the report,The observation was considered insufficient for identification according to the Air Force.",
+    "sighted object": "one unidentified flying object",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "observations from the general public and evaluated by the Air Force",
+    "contains photographs": false
 }

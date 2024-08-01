@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian witness observed a fast-moving, red and white object that slowed down as it approached the moon, then sped up and disappeared.",
-    "interesting points": [
-        "The object changed speed, going fast then slowing down as it approached the moon.",
-        "The object had a white trail.",
-        "The witness estimated the distance to the object as 10 miles.",
-        "There were 3 witnesses to the sighting.",
-        "The sighting lasted for about 2 minutes."
-    ],
-    "result": "possible aircraft",
-    "sighted object": "a red and white, round object with a white trail",
-    "location": "Kettering, Ohio",
-    "witnesses": "3 civilian witnesses",
-    "photographs": "no"
+    "main event": "On June 19, 1966, observers in Kettering, Ohio reported seeing a bright object in the sky that resembled Venus, lasting for about 10 minutes.",
+    "interesting points": "The object was observed to be brighter than an evening star and changed colors between white and pink,The sighting involved an Air Force plane simultaneously flying nearby,The conclusion reached by investigators was that the sighting was likely a satellite,The object's size was estimated to be similar to that of Venus,There were no photographs or physical evidence from the sighting.",
+    "sighted object": "a bright object in the sky",
+    "location": "Kettering, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observers in the area",
+    "contains photographs": false
 }

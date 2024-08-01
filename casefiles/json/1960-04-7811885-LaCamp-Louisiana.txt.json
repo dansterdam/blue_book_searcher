@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "A bright light, about the size of a football, was observed hovering 500 feet above the ground near La Camp, Louisiana.",
-    "interesting points": [
-        "The light was seen by Mr. and Mrs. A.J. Williams while driving on Highway 90 near New Orleans.",
-        "The light hovered for about 30 seconds before accelerating rapidly and disappearing from sight.",
-        "The witnesses reported the incident to the authorities.",
-        "The report was part of a field investigation conducted on April 7, 1960.",
-        "The report includes two low-quality photographs showing a landscape, possibly the area where the sighting occurred."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, about the size of a football",
-    "location": "La Camp, Louisiana",
-    "witnesses": "Mr. and Mrs. A.J. Williams",
-    "photographs": "yes, the report includes two low-quality photographs"
+    "main event": "On April 4, 1960, several lights were observed briefly in La Camp, Louisiana, leaving no physical traces, and the case was classified as unidentified.",
+    "interesting points": "The sighting lasted approximately 2-3 seconds., The lights appeared and disappeared without leaving any traces., Paint samples from impact positions were collected but proved negative for any known materials., The investigation noted that apparent rockets were involved, but no physical evidence was found., Witnesses reported unusual characteristics of the observed lights, causing a great deal of interest among local residents.",
+    "sighted object": "several lights in the sky",
+    "location": "La Camp, Louisiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Residents of New Orleans, Louisiana.",
+    "contains photographs": false
 }

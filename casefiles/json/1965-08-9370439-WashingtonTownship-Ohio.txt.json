@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing a cigar-shaped, silver-gray object hovering for 2-3 minutes before departing at a high rate of speed over Washington Township, Ohio on August 9, 1965.",
-    "interesting points": [
-        "The object was described as cigar-shaped and silver-gray in color.",
-        "The object hovered in the air for 2-3 minutes before departing at a high rate of speed with no discernible exhaust.",
-        "The sighting occurred at 12:30 AM on August 9, 1965 in Washington Township, Ohio.",
-        "The report states that the witness could not provide any other helpful information in evaluating the sighting.",
-        "The Air Force concluded the sighting was likely of a satellite, possibly ECHO II, but acknowledged the reported direction of flight may have been inaccurate."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a cigar-shaped, silver-gray object",
-    "location": "Washington Township, Ohio",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a small whitish object resembling a star in flight for 1 minute and 20 seconds on 25 August 1965 in Washington Township, Ohio.",
+    "interesting points": "The object was reported to have visual characteristics of a satellite observation., The object appeared to fade away at the end of the observation., The object was described as looking like a bright star but slightly brighter., The observer checked the ECHO and PEGASUS satellite schedules, which came back negative., The sighting was categorized and concluded as a satellite.",
+    "sighted object": "small whitish object in flight",
+    "location": "Washington Township, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

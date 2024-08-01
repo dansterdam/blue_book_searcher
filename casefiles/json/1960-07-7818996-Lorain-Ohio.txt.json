@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A round object was observed by a witness in Lorain, Ohio on July 25, 1946.",
-  "interesting points": [
-    "The object was observed for 11 minutes and was described as maneuvering.",
-    "The object was approximately half a mile away and made no sound.",
-    "The witness completed the report questionnaire on May 19, 1969, over 20 years after the sighting.",
-    "The witness provided sketches showing the object and its motion, but no photographs were included.",
-    "The weather conditions at the time of the sighting were described as clear sky with dry conditions."
-  ],
-  "result": "unexplained",
-  "sighted object": "one round object",
-  "location": "Lorain, Ohio",
-  "witnesses": "one witness",
-  "photographs": "no"
+    "main event": "A round object was observed in the sky maneuvering silently for 11 minutes in Lorain, Ohio on July 25, 1946.",
+    "interesting points": "The object was about 1/2 mile away., It made no sound during the observation., The duration of the sighting was 11 minutes., The object's course was not noted., No photographs were included with the report.",
+    "sighted object": "one round object",
+    "location": "Lorain, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Information about witnesses is not provided.",
+    "contains photographs": false
 }

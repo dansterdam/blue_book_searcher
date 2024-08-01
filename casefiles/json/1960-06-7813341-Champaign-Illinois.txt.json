@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report provided:
-
 {
-    "main event": "A film strip showing a UFO was submitted to the U.S. Air Force from an observer in Champaign, Illinois on June 7, 1960.",
-    "interesting points": [
-        "The object on the film was determined to be a genuine photographic image.",
-        "The object had a luminous appearance and considerable intensity, being entirely visible within eight degrees of the sun.",
-        "The object's high angular velocity precluded any analysis of its configuration, but its high speed and brightness indicated it was likely a meteor or 'fireball' class object.",
-        "The Air Force requested to retain the film strip for the official case file.",
-        "No further publicity or information about the sighting was provided."
-    ],
-    "result": "Unidentified, but likely a meteor",
-    "sighted object": "A luminous, high-speed object captured on film",
-    "location": "Champaign, Illinois",
-    "witnesses": "Unspecified photographer",
-    "photographs": "Yes, a film strip was provided"
+    "main event": "On June 7, 1960, several witnesses reported observing unidentified flying objects in Champaign, Illinois.",
+    "interesting points": "The objects were described as having a round shape and emitted a brilliant white light., The objects were observed to maneuver in unusual patterns and moved at extreme speeds., One observer, a retired military pilot, noted that the objects were larger than stars but smaller than small planes., The sightings lasted anywhere from 1 to 30 minutes, with no sound associated., Analyzed film suggested the object was likely a meteor due to its high velocity and brightness.",
+    "sighted object": "unidentified flying objects emitting light",
+    "location": "Champaign, Illinois, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "various observers including military personnel and civilians",
+    "contains photographs": false
 }

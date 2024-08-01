@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white object with a red ring on the edge was spotted in the sky over North Hollywood, California on February 2, 1956.",
-    "interesting points": [
-        "The object was the size of a pea and was stationary at an altitude of about 5,000 feet.",
-        "The report notes that the object was believed to be an airways beacon light.",
-        "The sighting lasted an unknown duration.",
-        "No other visual or radar observations were reported.",
-        "The report was made by a civilian witness."
-    ],
-    "result": "Possibly Astronomical",
-    "sighted object": "a round, white object with a red ring on the edge",
-    "location": "North Hollywood, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A sighting of a round object resembling a pea, white with a red ring on the edge, reported on February 2, 1956.",
+    "interesting points": "The object was stationary during the observation,The object was described as the size of a pea,The source of the observation was civilian,The report suggests the object might be an airways beacon light,The observation occurred at 2205 PST under clear skies.",
+    "sighted object": "round object size of a pea, white with a red ring on edge",
+    "location": "North Hollywood, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright, large, and brilliantly lit object was observed traveling over Chicago, Illinois on either June 16 or June 17, 1967.",
-    "interesting points": [
-        "The object traveled in a back-and-forth motion, reversing direction without any visible means of propulsion.",
-        "The object did not make any sound and appeared to be illuminated from within, with no visible projection of light or shadow.",
-        "The witness could not identify the object, which had a saucer-like appearance and a red glow underneath.",
-        "The object was observed by another witness who worked at the Pal-Waukee Airport and could see it from their location, estimating it to be at an altitude of 3,000 to 5,000 feet over the Chicago Loop.",
-        "The Pal-Waukee Airport confirmed that their Nite Lite Sign mounted on a Cessna 172 was not in operation during the June 1967 timeframe, ruling out a potential aircraft with advertising lights."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, brilliantly lit, saucer-shaped object",
-    "location": "Chicago, Illinois",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "none"
+    "main event": "A civilian witnessed a bright light or object moving rapidly in the southwest sky over Chicago on June 16 or 17, 1967.",
+    "interesting points": "The object displayed no sound or visible form while traveling,The witness described the object as a very large, brilliantly lighted source of light,The object reversed direction multiple times without any obvious means of navigation,Another witness reported seeing a similar object approximately a month later from a different location,The observation took place at around 10:45 PM, suggesting it was at night.",
+    "sighted object": "a bright light or object in the sky",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian walking a dog",
+    "contains photographs": false
 }

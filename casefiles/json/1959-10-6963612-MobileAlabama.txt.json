@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A glowing white circular object with a trailing tail was reported over Mobile, Alabama on October 26, 1959.",
-    "interesting points": [
-        "The object was about the size of a half dollar and had a silver color with a whitish glow.",
-        "The object had a trailing tail about 12 times the length of the object.",
-        "The object fell in an arc, with the glowing tail giving the impression of an arc while falling.",
-        "The object was spotted over some trees near the intersection of Government Street and Washington Avenue in Mobile, Alabama.",
-        "The sighting lasted for about 3 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "glowing white circular object with a trailing tail",
-    "location": "Mobile, Alabama",
-    "witnesses": "one witness, a mortician from Mobile",
-    "photographs": "no photographs present in the document"
+    "main event": "On October 26, 1959, a mortician in Mobile, Alabama observed a large round unidentified flying object with a tail resembling a comet.",
+    "interesting points": "The sighting lasted approximately 3 seconds., The object was described as silver with a whitish glow., The object was observed at a 60-degree elevation and appeared to fly in a sharp arc., The observer estimated the object was about 3 miles away and flying at an altitude of 3 to 4 miles., The report indicates that the object's speed and description are typical of a meteor.",
+    "sighted object": "large round glowing object with a trailing tail",
+    "location": "Mobile, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A mortician in Mobile, Alabama",
+    "contains photographs": false
 }

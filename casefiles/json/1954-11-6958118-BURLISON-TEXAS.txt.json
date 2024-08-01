@@ -1,15 +1,9 @@
 {
-    "main event": "A single unidentified aerial object was sighted in the Burlison, Texas area on November 6, 1954.",
-    "interesting points": [
-        "The sighting was reported to the 4th Aircraft Control and Warning Squadron, which forwarded the report to the nearest Air Defense Command Air Division Control Center for evaluation and appropriate action.",
-        "The sighting was reported via telephone message on November 6, 1954.",
-        "The report acknowledges receipt of the telephone message and expresses appreciation for the witness's cooperation in reporting the sighting.",
-        "The report does not provide any details about the characteristics or behavior of the unidentified aerial object.",
-        "There is no mention of any photographs or physical evidence related to the sighting."
-    ],
-    "result": "unresolved",
+    "main event": "An unidentified aerial object was reported sighted in Burlison, Texas on November 6, 1954.",
+    "interesting points": "The observation lasted for two to three minutes., The object was visually observed from the ground., The report was acknowledged by a Captain in the Air Force., The conclusion suggested it might be an aircraft., The report was forwarded to an Air Defense Command for evaluation.",
     "sighted object": "one unidentified aerial object",
-    "location": "Burlison, Texas",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Burlison, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

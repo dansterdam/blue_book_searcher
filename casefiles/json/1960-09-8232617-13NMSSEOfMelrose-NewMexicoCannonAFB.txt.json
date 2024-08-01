@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, luminous object was observed descending from the sky, about the size of the rising sun, illuminating as it descended and then disappearing below the horizon.",
-    "interesting points": [
-        "The object had a highly reflective surface.",
-        "The object's appearance was approximately the same size as the observer's observation, suggesting it may have been a balloon or device used by some organization or base in the area.",
-        "There were no sightings of other lights, ruling out a slow rate of descent and supporting the contention that the object was a balloon or device.",
-        "The sighting lasted for 2 hours and 52 minutes.",
-        "The observer used a theodolite, approximately 20 power, to observe the object."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Round, luminous object",
-    "location": "Clovis / Cannon AFB, USA",
-    "witnesses": "Military personnel",
-    "photographs": "Yes"
+    "main event": "Multiple sightings of round, luminous objects reported in Clovis, New Mexico, between September 30, 1960, and October 31, 1960.",
+    "interesting points": "The object was described as round and luminous, descending slowly and illuminating as it went down,The sightings occurred over a clear day, which aided visibility,No specific direction of descent was reported, leaving conclusions about the object's nature uncertain,The object was compared in size to a rising sun, suggesting considerable size,At least twelve military observers were noted at Cannon AFB during the sightings.",
+    "sighted object": "round, luminous object",
+    "location": "Clovis, New Mexico, USA",
+    "number of confirmed witnesses": 12,
+    "witness description": "military personnel on duty at Cannon AFB",
+    "contains photographs": false
 }

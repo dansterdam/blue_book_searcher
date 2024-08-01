@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A ground-radar observation of a large, bright, erratic, and unidentified object over Burlington, Massachusetts on May 5, 1962.",
-    "interesting points": [
-        "The object appeared to be a fairly large airborne object with a bright light, very rapid and erratic flight path, and it appeared to reverse direction at times.",
-        "The radar return was unusually large and more solid than returns normally received from aircraft.",
-        "The object was observed for 240 seconds (4 minutes).",
-        "The case was considered unresolved pending further analysis.",
-        "There were no photographs or images included with this report."
-    ],
-    "result": "unidentified",
-    "sighted object": "A large, bright, erratic, unidentified object detected on radar",
-    "location": "Burlington, Massachusetts",
-    "witnesses": "Ground radar operators",
-    "photographs": "None"
+    "main event": "On May 8, 1962, several witnesses reported seeing a bright, unidentified flying object in Burlington, Massachusetts.",
+    "interesting points": "The object was observed hovering and then rapidly accelerating, it was described as circular and approximately 30-60 feet in diameter, Multiple witnesses estimated it was at an altitude of around 3,000 feet, the sighting lasted for approximately 10 to 15 minutes, No sound was associated with the object during its appearance.",
+    "sighted object": "unidentified circular object",
+    "location": "Burlington, Massachusetts, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "witnesses included a sales manager and a private pilot, among others.",
+    "contains photographs": false
 }

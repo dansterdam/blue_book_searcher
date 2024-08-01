@@ -1,17 +1,9 @@
-Here is a JSON summary of the key information found in the provided UFO report:
-
 {
-    "main event": "A civilian spotted an orange ball-shaped object that separated into two pieces over Mount Prospect, Illinois on March 7, 1967.",
-    "interesting points": [
-        "The object was larger than visible stars.",
-        "The object moved straight from east to west before going over the horizon.",
-        "The sighting lasted for about 1 minute.",
-        "The Air Force requested the witness to complete an FTD Form 164 to provide more details.",
-        "The report states there was insufficient data to determine the nature of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "an orange ball-shaped object that separated into two pieces",
-    "location": "Mount Prospect, Illinois",
-    "witnesses": "a civilian",
-    "photographs": "no photographs present in the report"
+    "main event": "A civilian reported an unidentified aerial object in Mount Prospect, Illinois on March 5, 1967.",
+    "interesting points": "The object was described as orange and larger than visible stars., The sighting involved two pieces that were separated at different time intervals., The observer's reliability is unknown., The object's course was noted to move straight from east to west at 20 degrees elevation., The weather conditions during the sighting were clear with no obstructions reported.",
+    "sighted object": "an orange ball larger than visible stars",
+    "location": "Mt. Prospect, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, name not disclosed",
+    "contains photographs": false
 }

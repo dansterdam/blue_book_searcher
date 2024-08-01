@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar and visual observation of a cigar-shaped, slightly luminous object over Tampa, Florida on March 15, 1958.",
-    "interesting points": [
-        "The object appeared to be several smaller objects at times instead of one large object.",
-        "The object made no noise and was the size of a pair of binoculars.",
-        "The object was observed for 30 minutes.",
-        "Other civilians and military personnel reported seeing the object.",
-        "The sighting was typical of unidentified aircraft displays that had been previously reported."
-    ],
-    "result": "unexplained",
-    "sighted object": "cigar-shaped, slightly luminous object",
-    "location": "Tampa, Florida",
-    "witnesses": "Military and civilian",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported on March 15, 1958, involving a white, cigar-shaped object that appeared slightly luminous and emitted no sound.",
+    "interesting points": "The object sometimes appeared as several smaller objects instead of one large one., The sighting lasted 30 minutes., The description of the object is typical of unidentified aircraft displays that have been previously reported., Witnesses across Tampa called about the sighting., It could potentially be a weather balloon.",
+    "sighted object": "a white, cigar-shaped object",
+    "location": "Tampa, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Reported by P.O. Russell, a very reliable source associated with Randall AFB.",
+    "contains photographs": false
 }

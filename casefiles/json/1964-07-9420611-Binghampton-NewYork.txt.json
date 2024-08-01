@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, metallic, disc-shaped object was sighted over Binghamton, New York on several occasions in July and August 1964.",
-    "interesting points": [
-        "Multiple witnesses, including farmers, children, and amateur sky watchers, reported seeing the unidentified object.",
-        "The object was described as being round, metallic, and making rapid, abrupt maneuvers in the sky.",
-        "Newspaper clippings and other documentation related to the sightings were included in the report.",
-        "Investigators were unable to determine the nature or origin of the object, but felt that some of the reports were unreliable or due to misidentification of conventional objects.",
-        "The Air Force considered the reported sightings to not constitute evidence of unconventional aerial vehicles."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic, disc-shaped unidentified flying object",
-    "location": "Binghamton, New York",
-    "witnesses": "farmers, children, amateur sky watchers, and other citizens",
-    "photographs": "none"
+    "main event": "Multiple sightings of unidentified flying objects (UFOs) reported in Binghamton, New York, during July 1964.",
+    "interesting points": "The sightings included descriptions of various shapes, sizes, and colors of objects,Some witnesses reported seeing bright, pulsating lights in the sky,One object was reported to be larger than 25 feet and emitted a luminous ring,Observers were able to track some objects for several minutes before they disappeared,The investigation by Air Force officers found no satisfactory explanation for these sightings.",
+    "sighted object": "Round and oval unidentified flying objects emitting lights",
+    "location": "Binghamton, New York, USA",
+    "number of confirmed witnesses": 12,
+    "witness description": "Residents including students, firemen, and other citizens",
+    "contains photographs": false
 }

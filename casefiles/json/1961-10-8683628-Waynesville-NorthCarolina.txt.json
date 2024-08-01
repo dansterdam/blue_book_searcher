@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A silver object was observed for less than 1 minute over Waynesville, North Carolina on October 7, 1961.",
-    "interesting points": [
-        "The object was less than the size of a small star and was moving very fast.",
-        "The witness watched the object through elevation, suggesting he did not know its altitude.",
-        "The object appeared to be spinning and had three lights like neon.",
-        "The object's course was unknown, but it disappeared to the north.",
-        "Asheville radio reported a SAC KC-97 tanker in the area at 10,000 to 15,000 feet around the same time."
-    ],
-    "result": "unknown",
-    "sighted object": "a silver object",
-    "location": "Waynesville, North Carolina",
-    "witnesses": "one witness",
-    "photographs": "no photographs"
+    "main event": "An observer spotted a silver object moving rapidly in Waynesville, North Carolina on 7 Oct 61.",
+    "interesting points": "The sighting lasted for less than one minute,The object appeared to be the size of a small star,The object disappeared to the north after the sighting,The observer used an elevation viewpoint, and there was insufficient data to definitively classify the object.",
+    "sighted object": "a silver object in the sky",
+    "location": "Waynesville, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an individual observing the object with an elevation viewpoint",
+    "contains photographs": false
 }

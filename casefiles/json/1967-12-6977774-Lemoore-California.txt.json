@@ -1,15 +1,9 @@
 {
-    "main event": "A bright white light was observed traveling from southwest to northeast over Lemoore, California in December 1967.",
-    "interesting points": [
-        "The object was described as looking like a star, about the size of a pea, and emitting a bright white light.",
-        "The object was observed for approximately 5-15 minutes, deviating from its initial course and appearing to start and stop.",
-        "The observers reported no sound associated with the object.",
-        "Weather conditions were clear with scattered clouds, and no unusual meteorological or astronomical conditions were reported.",
-        "The sighting was initially reported as an unidentified flying object, but was later determined to be a probable satellite (ECHO I)."
-    ],
-    "result": "probable satellite",
+    "main event": "Two witnesses observed a bright white light in the sky near Lemoore, California, which was initially perceived as a stationary object and then appeared to move intermittently over a duration of 5 to 15 minutes.",
+    "interesting points": "The object was described as looking like a star and was about the size of a pea,The observers noted a bright white light that traveled from the southwest to the northeast,The object was observed at an elevation between approximately 40 and 55 degrees,The conclusion of the report suggested it was likely a satellite (ECHO I),The weather conditions were clear with no unusual activity reported.",
     "sighted object": "a bright white light",
-    "location": "Lemoore, California",
-    "witnesses": "2 civilian observers",
-    "photographs": "no"
+    "location": "Lemoore, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian workers in the area",
+    "contains photographs": false
 }

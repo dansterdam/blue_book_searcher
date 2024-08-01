@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An oblong-shaped white object, approximately 15 to 20 feet in size, was observed hovering at an estimated 500 to 1000 feet above the ground before suddenly accelerating in a westerly direction at an extremely rapid rate of speed.",
-    "interesting points": [
-        "The object remained stationary for several minutes before rapidly accelerating and disappearing from view.",
-        "The sighting was witnessed by at least three people, including two military officers and a civilian employee, who all corroborated the basic details of the observation.",
-        "The witnesses were determined to be reliable and credible observers.",
-        "No further information or physical evidence is available.",
-        "The report was submitted to the appropriate authorities for information and any action deemed appropriate."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oblong-shaped white object, approximately 15 to 20 feet in size",
-    "location": "Gainesville, FL",
-    "witnesses": "3 witnesses, including 2 military officers and 1 civilian",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in Gainesville, Florida on April 2, 1966, by three witnesses.",
+    "interesting points": "The object appeared to travel at a fast rate of speed and emitted red and white lights., It changed course at a right angle and then descended vertically before disappearing., There was insufficient data for complete evaluation of the sighting., The witnesses included military and civilian individuals who were deemed reliable and credible., The report was followed up with requests for more information from the Air Force.",
+    "sighted object": "unidentified flying object",
+    "location": "Gainesville, Florida, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "military and civilian individuals",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A silver sphere, approximately 10-15 feet in diameter, was observed moving at high speed, stopping suddenly, and diving into the water at a 45-degree angle, creating a white spray.",
-    "interesting points": [
-        "The object was traveling at an estimated speed of at least 1,000 mph and was only visible for about 15 seconds.",
-        "The sighting was verified by the crew of a United Airlines flight.",
-        "The object's movements included high-speed flight, sudden stops, and sharp turns.",
-        "Similar sightings were reported by other observers in the area.",
-        "The sighting occurred over the Pacific Ocean."
-    ],
-    "result": "unexplained",
-    "sighted object": "a silver sphere",
-    "location": "Pacific Ocean",
-    "witnesses": "United Airlines flight crew",
-    "photographs": "no"
+    "main event": "A silver sphere approximately 10 to 15 feet in diameter was observed diving into the water at a 45-degree angle, creating a white spray, and was reported by the crew of a United Airlines flight.",
+    "interesting points": "The observation lasted for only 15 seconds and included a silver sphere moving at a high speed, possibly 1000 mph., The United Airlines crew verified the sighting., The object stopped suddenly before diving into the water., The sighting was confirmed by multiple crew members, indicating a reliable observation., The description was made as part of a Project Blue Book record card.",
+    "sighted object": "silver sphere",
+    "location": "3945N 12733W, Pacific",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew of United Airlines flight",
+    "contains photographs": false
 }

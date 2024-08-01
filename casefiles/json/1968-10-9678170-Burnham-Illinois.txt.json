@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed two unidentified objects in the sky over Burnham, Illinois for 3-5 minutes on October 1-20, 1968.",
-    "interesting points": [
-        "The objects were described as a white light surrounded by a bluish halo, about the size of a dinner plate.",
-        "The objects moved from the horizon to directly overhead and then back to the horizon.",
-        "The observer reported that the objects did not make any sound.",
-        "The observer was driving a car when he first saw the objects.",
-        "The sighting lasted for 3-5 minutes, but the objects' final disappearance is unknown as the observer left the area."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "two unidentified lights in the sky",
-    "location": "Burnham, Illinois",
-    "witnesses": "civilian driver",
-    "photographs": "none"
+    "main event": "A visual observation of a UFO by a civilian in Burnham, Illinois, where two objects were reportedly seen.",
+    "interesting points": "The sighting lasted approximately 3-5 minutes,The UFOs appeared to move from the horizon to directly overhead and back,The phenomenon gave off a steady white light surrounded by a bluish halo,The observer described the size of the UFOs as being about the size of a dinner plate,No photographs or physical evidence were collected.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Burnham, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer with no known occupation",
+    "contains photographs": false
 }

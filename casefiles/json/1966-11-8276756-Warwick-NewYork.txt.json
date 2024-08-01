@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two pulsating lights were observed in the sky over Warwick, New York on June 22, 1952.",
-    "interesting points": [
-        "The two objects moved in close relationship with each other, generally synchronized in maneuver.",
-        "The objects were described as brilliant green, yellow, and red in color on the perimeter.",
-        "The objects were about the size of a star and did not have any discernible features or details.",
-        "The objects were visible for about 6 hours, moving steadily with no rapid movements.",
-        "The objects appeared to speed up and disappear in the northeast quadrant of the sky."
-    ],
-    "result": "unexplained",
+    "main event": "Two odd pulsating lights were observed in the sky over Warwick, New York on November 21, 1966.",
+    "interesting points": "The objects displayed brilliant colors on their perimeters, The observer noted that the two objects moved in close relationship with each other, Observation lasted for about six hours, The sighting was made under clear conditions with a full moon, The observer used binoculars for a better view.",
     "sighted object": "two pulsating lights in the sky",
-    "location": "Warwick, New York",
-    "witnesses": "civilian, 30-year-old attorney with 3 other witnesses",
-    "photographs": "no"
+    "location": "Warwick, New York, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "civilian, attorney, age 30",
+    "contains photographs": false
 }

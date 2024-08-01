@@ -1,15 +1,9 @@
 {
-    "main event": "A photograph of a cloudy sky with a bright area and a silhouette of a building was found in a government UFO document from August 1958 in Phoenix, Arizona.",
-    "interesting points": [
-        "The photograph appears to show an anomaly or break in the clouds where the sky is brighter.",
-        "The image has low resolution and does not contain distinct features or objects.",
-        "The document is marked as 'UNCLASSIFIED' by the Foreign Technology Division of the AFSC.",
-        "No further details or information about the sighting are provided in the document.",
-        "There are no photographs present in this particular file."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright area in the cloudy sky",
-    "location": "Phoenix, Arizona",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 1 photograph"
+    "main event": "A report of a potential UFO sighting captured in a low resolution photograph taken in August 1958.",
+    "interesting points": "The photograph shows a dark sky with clouds and a bright area that may indicate an anomaly,There is a silhouette of a structure, possibly a building in the image,The resolution is too low to clearly identify distinct features or objects,The report is unclassified and originates from the Foreign Technology Division,AFSC,1 photo was captured in the sighting.",
+    "sighted object": "anomaly in the sky",
+    "location": "Phoenix, Arizona, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified.",
+    "contains photographs": true
 }

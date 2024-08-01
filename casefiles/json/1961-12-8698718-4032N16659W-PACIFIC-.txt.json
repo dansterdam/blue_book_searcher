@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A round object, the size of a planet, was sighted in the Pacific Ocean.",
-    "interesting points": [
-        "The object was observed for 5 minutes, disappearing suddenly.",
-        "The object was sighted 20-25 degrees above the horizon at an azimuth of 210 degrees, and then disappeared at an azimuth of 195 degrees.",
-        "The observers initially believed the object to be a satellite.",
-        "The report notes that there was no satellite information available at the time, and the object was assumed to be 'Echo 1'.",
-        "The report concluded that there was insufficient data to evaluate the object, and it was classified as 'Unknown'."
-    ],
-    "result": "unknown",
-    "sighted object": "round object, size of a planet",
-    "location": "14032N 16659W (Pacific Ocean)",
-    "witnesses": "military",
-    "photographs": "no"
+    "main event": "A round object the size of a planet was sighted in the Pacific Ocean on December 4, 1962, disappearing after five minutes.",
+    "interesting points": "The object was sighted at 20-25 degrees, 210 azimuth by military observers., Observers believed the object to be a satellite, but no verification could confirm this., The object disappeared suddenly at a 195-degree azimuth., The sighting lasted approximately five minutes., There was a naval message that corroborated the sighting with similar details.",
+    "sighted object": "round object the size of a planet",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 5,
+    "witness description": "military personnel including officers and others who confirmed the sighting",
+    "contains photographs": false
 }

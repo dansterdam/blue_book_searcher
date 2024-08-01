@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "An object with a bright light, oval-shaped, moving erratically with a pulsating light was observed near the North Concord Air Force Station in Vermont on August 7, 1960.",
-    "interesting points": [
-        "The object had a bright, pulsating light and was oval-shaped.",
-        "The object moved erratically before disappearing behind a tree.",
-        "The sighting lasted for 2-3 minutes.",
-        "The weather conditions were clear at the time of the sighting.",
-        "The observer was an Air Police officer at the North Concord Air Force Station, considered a reliable witness."
-    ],
-    "result": "unexplained",
+    "main event": "An unidentified object was observed in North Concord, Vermont on August 7, 1960, exhibiting a bright light and an oval shape, moving erratically with a pulsating light before disappearing behind a tree.",
+    "interesting points": "The observation lasted for 2-3 minutes., The object was described as having a bright light and moving erratically., Observers noted that the object might be a meteor, aircraft, or astronomical object., The sky was clear with dark conditions during the sighting., There were no confirmed other witnesses or photographs taken.",
     "sighted object": "an oval-shaped object with a bright, pulsating light",
-    "location": "North Concord Air Force Station, Vermont",
-    "witnesses": "Air Police officer",
-    "photographs": "no"
+    "location": "North Concord, Vermont, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Unspecified observer from North Concord AFB",
+    "contains photographs": false
 }

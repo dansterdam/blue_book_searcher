@@ -1,15 +1,9 @@
 {
-    "main event": "A very bright object was observed traveling West at 13.00N 162.00W in the Pacific on November 28, 1964.",
-    "interesting points": [
-        "The object was reported by military personnel.",
-        "The object was observed at 1412Z (local time).",
-        "The object's type was listed as unknown.",
-        "The object's course was reported as traveling West.",
-        "The report concludes that the object was a possible rocket re-entry."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "very bright object",
-    "location": "13.00N 162.00W (Pacific)",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A very bright light was observed traveling west on November 29, 1964.",
+    "interesting points": "The observation was reported by military personnel.,The object was observed at coordinates 13-00N 162-00W in the Pacific.,There was no reported length of observation for the event.,The conclusion of the report was insufficient data for evaluation., The object was suggested to be a possible satellite or rocket re-entry.",
+    "sighted object": "a very bright light",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

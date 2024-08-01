@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A UFO was observed near Milan, Italy on April 27, 1962",
-    "interesting points": [
-        "The object was seen approximately 400 meters above the ground, flying at tremendous speed.",
-        "It emitted multicolored lights of red, green, blue, and white.",
-        "The object was flying erratically, making sudden stops and rapid directional changes.",
-        "The sighting was witnessed by at least four people and lasted for a full minute.",
-        "The object vanished suddenly around 4 AM."
-    ],
-    "result": "unexplained",
-    "sighted object": "a multicolored, high-speed object",
-    "location": "Near Milan, Italy",
-    "witnesses": "at least four people",
-    "photographs": "no"
+    "main event": "On April 29, 1962, an object was observed moving eastward over the Pacific Ocean for 10 minutes.",
+    "interesting points": "The sighting lasted for 10 minutes,The object was reported to be moving steadily east,There is no indication that the object was not a satellite,The investigation concluded that it posed no threat,It was observed by military sources.",
+    "sighted object": "one unidentified object",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "reported by military sources",
+    "contains photographs": false
 }

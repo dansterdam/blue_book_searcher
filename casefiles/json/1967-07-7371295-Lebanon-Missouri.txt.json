@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A civilian observer sighted a bluish-green disc-shaped craft near Lebanon, Missouri in 1967.",
-    "interesting points": [
-        "The craft approached the observer to a distance of 30-50 feet, then hovered.",
-        "The sighting was not reported until February 1968, several months after the incident occurred.",
-        "The report mentions that little additional information could be obtained at the late date of the report.",
-        "The report indicates the observer's name, but does not provide any other details about the witness.",
-        "There are no photographs or physical evidence mentioned in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bluish-green disc-shaped craft",
-    "location": "Lebanon, Missouri",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "Observer sighted a blueish-green disc shaped craft hovering near Lebanon, Missouri on July 10, 1967.",
+    "interesting points": "The craft approached the observer to about 30 to 50 feet before hovering., The report was submitted several months later in February 1968., The sighting was part of an investigation by Project Blue Book., The observer was a civilian., No photographs or physical evidence were collected.",
+    "sighted object": "blueish-green disc shaped craft",
+    "location": "Lebanon, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

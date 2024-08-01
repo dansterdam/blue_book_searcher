@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing a large, round, slightly elongated object with a fire-like color over Tucson, Arizona in 1967.",
-    "interesting points": [
-        "The object was approximately 20 degrees in diameter and had a faint, continuous sound.",
-        "The object moved from the northwest to the southeast, appeared to stop, and then proceeded in a southerly direction before fading over the horizon.",
-        "The sighting lasted for about 7 minutes.",
-        "There was a reddish light over the horizon during the sighting.",
-        "The observer was a 19-year-old civilian student, and no estimate of reliability was provided."
-    ],
-    "result": "Other (Cloud) Probable",
-    "sighted object": "A large, round, slightly elongated object with a fire-like color",
-    "location": "Tucson, Arizona",
-    "witnesses": "1 civilian observer",
-    "photographs": "Yes"
+    "main event": "A civilian observer reported seeing a large light moving from north to south, then turning east and disappearing.",
+    "interesting points": "The observer was able to differentiate this light from numerous aircraft that were airborne at the time., The sighting lasted about 7 minutes., The object was described as round and slightly elongated approximately 20 degrees in diameter and colored like fire., The observer noted a faint sound and a reddish light over the horizon., The observer's details indicate they were a housewife with a stable personality.",
+    "sighted object": "a large light with a ring around it",
+    "location": "Tucson, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian female housewife, stable personality",
+    "contains photographs": false
 }

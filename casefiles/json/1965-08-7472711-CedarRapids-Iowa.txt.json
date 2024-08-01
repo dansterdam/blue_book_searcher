@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian observer spotted a UFO in the sky near Cedar Rapids, Iowa on August 19, 1965.",
-    "interesting points": [
-        "The object was slightly larger than a kitchen match head when held at arm's length, and had an incandescent white color.",
-        "The object moved in a straight flight path from the northeast to the southwest at an angle of 30 degrees, fading slowly as it disappeared.",
-        "The object was visible for 8 to 6 seconds and made no sound.",
-        "The observer was a 25-year-old science teacher, but their reliability was unknown.",
-        "Weather conditions at the time included 5% cirrus cloud cover, clear visibility, and a variety of wind speeds and temperatures at different altitudes."
-    ],
-    "result": "The sighting was identified as a meteor.",
-    "sighted object": "A slightly larger than a kitchen match head, incandescent white object",
-    "location": "Cedar Rapids, Iowa",
-    "witnesses": "A civilian observer, a 25-year-old science teacher",
-    "photographs": "No photographs were provided"
+    "main event": "A sighting report of a transient light described as a meteor observed over Cedar Rapids, Iowa on August 9, 1965.",
+    "interesting points": "The object was slightly larger than a kitchen match head and had an incandescent white color,The sighting lasted for approximately 4 to 6 seconds,The object moved in a straight flight from NE to SW without any sound or discernable features,The observer was a 25-year-old science teacher,The weather conditions were clear with 5 percent cirrus cloud cover during the sighting.",
+    "sighted object": "transient light with incandescent white color",
+    "location": "Cedar Rapids, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "25 year old science teacher",
+    "contains photographs": false
 }

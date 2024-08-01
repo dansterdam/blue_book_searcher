@@ -1,17 +1,9 @@
-Here is a JSON summary of the key information contained in the provided UFO report:
-
 {
-    "main event": "Two unidentified flying objects were observed in the sky over Big Spring, Texas on June 16, 1963.",
-    "interesting points": [
-        "The objects were described as a 'gray or steady burning object, generally round, giving to white flash or explosions 3 sec. to tail or trail'.",
-        "The objects were observed by both civilian and military witnesses, including a control tower operator and military personnel.",
-        "An apparent explosion or low rumble was heard during one of the sightings.",
-        "The objects were estimated to be flying at an altitude of 4,500 to 5,500 feet, moving from southwest to northeast.",
-        "The sightings lasted from 30 seconds to 1 minute, and were later attributed to the decay of the Vostok 3 rocket."
-    ],
-    "result": "Explained as the decay of the Vostok 3 rocket.",
-    "sighted object": "Two unidentified flying objects, described as gray or steady burning, generally round objects.",
-    "location": "Big Spring, Texas",
-    "witnesses": "Civilian and military personnel, including a control tower operator.",
-    "photographs": "No photographs are mentioned in the report."
+    "main event": "Two objects were observed in the sky above Big Spring, Texas, on June 15, 1963, characterized as gray or steady burning, giving white flashes with explosions observed intermittently.",
+    "interesting points": "The sighting lasted between 30 seconds to 1 minute and involved both ground and aerial observers., An explosion sound was reported during the sighting., The objects were estimated to be 8 feet in diameter and 8-10 feet long., A search was conducted for about 1 hour without results., The objects were concluded to be a balloon after investigation.",
+    "sighted object": "two gray or steady burning objects",
+    "location": "Big Spring, Texas, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "civilian and military observers including Capt Jack G. Sullivan and other military personnel.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported 40 miles north of Springfield, Massachusetts on 1-3-57. The object was described as red and white, flashing like a taillight, and made erratic movements before disappearing behind overcast. The observation lasted for approximately 1 minute.",
-  "interesting points": [
-    "The object disappeared behind overcast, making it difficult to observe from the vantage point.",
-    "The report concluded that there was insufficient data for evaluation, and the case was not conclusively categorized.",
-    "The sighting was noted as an interesting phenomenon that warranted investigation.",
-    "The altitude of the object was initially reported as 15,200 ft. and then at 15,320 ft.",
-    "The object's course changed from heading 268 degrees to 155 degrees and then to 93 degrees before disappearing when the observer turned into it."
-  ],
-  "result": "insufficient data for evaluation",
-  "sighted object": "one unidentified flying object",
-  "location": "40 miles north of Springfield, Massachusetts",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "On January 3, 1957, a single unidentified object was observed for one minute, displaying red and white flashing lights and erratic movements before disappearing behind overcast conditions.",
+    "interesting points": "The object was described as resembling a taillight,The sighting was made from 40 miles north of Springfield, Massachusetts,The object changed course multiple times but could not be overtaken for closer observation,The case was determined to have insufficient data for a definitive conclusion,The object was ultimately classified as possibly being a balloon.",
+    "sighted object": "one red and white flashing object",
+    "location": "Springfield, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer who reported the sighting",
+    "contains photographs": false
 }

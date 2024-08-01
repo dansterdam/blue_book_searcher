@@ -1,15 +1,9 @@
 {
-  "main event": "On April 18, 1956, a UFO sighting was reported in the SE corner of Minnesota. The observation was made using ground radar for a duration of forty minutes. An object smaller than the planets, appearing to change colors, moved erratically before fading out of sight. It was not picked up on radar.",
-  "interesting points": [
-    "The UFO moved erratically from side to side, suggesting unconventional flight patterns.",
-    "The sighting lasted for forty minutes, providing a relatively long observation period.",
-    "The object appeared smaller than the planets and changed colors, indicating a dynamic appearance.",
-    "No radar contact was made with the object, raising questions about its physical presence.",
-    "The conclusion pointed towards natural causes, such as movements of heavenly bodies or possibly a balloon or asteroid."
-  ],
-  "result": "Possibly Balloon",
-  "sighted object": "Unidentified object resembling a point of light that changed colors",
-  "location": "SE corner of Minnesota",
-  "witnesses": "Observation made by Airman Robert F. Hansen, commanding officer of the 44th Fighter Bomber Wing",
-  "photographs": "No photographs included in the report"
+    "main event": "A point of light smaller than a pinhead was observed in the sky, moving erratically for forty minutes before fading from sight.",
+    "interesting points": "The observer reported the object changing colors and moving side to side,The object was not detected on radar,The sighting lasted for a duration of forty minutes,The observer was Major Robert F. Hansen from the 44th Fighter Bomber Wing,The conditions included haze up to 25,000 feet with thin stratus at 35,000 feet.",
+    "sighted object": "point of light in the sky",
+    "location": "Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major Robert F. Hansen; Airman and Commanding Officer of the 44th Fighter Bomber Wing.",
+    "contains photographs": false
 }

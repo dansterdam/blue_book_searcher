@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported near Neustadt, Germany on June 29, 1954. The object was described as oblong, very high altitude, very fast, whitish-gray in color, and oval to disc-like in shape.",
-  "interesting points": [
-    "Multiple German persons observed the UFO for a short period of time.",
-    "The sighting report includes witness observations and details.",
-    "No photograph is included in the report.",
-    "The object was observed at a very high altitude and was moving very fast.",
-    "The color of the object was described as whitish-gray, and its shape was described as oval to disc-like."
-  ],
-  "result": "unexplained",
-  "sighted object": "oblong, whitish-gray UFO",
-  "location": "Neustadt, Germany",
-  "witnesses": "multiple German persons",
-  "photographs": "no"
+    "main event": "An oblong object flying at very high altitude and speed was observed near Neustadt, Germany on 29 June 1954.",
+    "interesting points": "The object was described as whitish-gray and shaped like an oval or disc., The sighting lasted for a short period of time., Several German witnesses reported the sighting., The observation was documented in a Project Blue Book record., This sighting appears to be part of routine investigations by the U.S. Air Force.",
+    "sighted object": "an oblong object",
+    "location": "Neustadt, Germany",
+    "number of confirmed witnesses": 0,
+    "witness description": "German persons",
+    "contains photographs": false
 }

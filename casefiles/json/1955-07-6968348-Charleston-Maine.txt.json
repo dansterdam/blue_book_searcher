@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple unidentified flying objects were observed over Charleston, Maine on July 6, 1937.",
-    "interesting points": [
-        "The objects were silver in color and appeared to be hovering or floating in the sky.",
-        "The objects were circular in shape and approximately 30-40 feet in diameter.",
-        "The objects were observed for approximately 20 minutes before disappearing from view.",
-        "Multiple witnesses in the area reported seeing the objects.",
-        "On July 5, 1955, a single round, orange object was observed going back and forth and ascending 'some' while moving in a straight line for 7 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "silver, circular objects and a single round, orange object",
-    "location": "Charleston, Maine",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs included"
+    "main event": "Several unidentified flying objects were observed over Charleston, Maine on 6 July 1937, and one round orange object was observed on 5 July 1955.",
+    "interesting points": "The round orange object was observed for seven minutes and appeared to move back and forth while ascending., The objects from the 1937 sighting were silver in color, circular in shape, and approximately 30-40 feet in diameter., The 1955 sighting was assessed to possibly be a WW2 weather balloon., Multiple witnesses observed the silver objects hovering in the sky for about 20 minutes before they disappeared., Insufficient data was noted for evaluation of the objects from both sightings.",
+    "sighted object": "one round orange object; several silver unidentified flying objects",
+    "location": "Charleston, Maine, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Multiple witnesses in the area for the 1937 sighting; no specific witnesses mentioned for the 1955 sighting.",
+    "contains photographs": false
 }

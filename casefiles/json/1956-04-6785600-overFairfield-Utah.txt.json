@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot spotted an unidentified flying object while on a night flight over Fairfield, Utah on April 16, 1956.",
-    "interesting points": [
-        "The object was a bright silver color, appeared to be larger than a car, and was moving at a very high rate of speed, estimated around 1,000 ft/sec.",
-        "The object changed in size and color as it approached the pilot's aircraft, becoming a bright silver ball that then diminished in size and turned a dull grayish color as it disappeared from view.",
-        "The object appeared to be on a collision course with the pilot's aircraft, causing the pilot to go on instruments, but it then disappeared from sight.",
-        "The sighting lasted for approximately 25 minutes, and the pilot was unable to determine the object's definite shape or outline.",
-        "The weather conditions were clear, with excellent visibility, making it easier for the pilot to observe the object."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright silver, illuminated object that changed in size and color",
-    "location": "over Fairfield, Utah",
-    "witnesses": "pilot Thomas P. Petits",
-    "photographs": "none"
+    "main event": "An unidentified flying object was sighted over Fairfield, Utah on April 16, 1956, by Captain Thomas P. Petit during an IFR mission.",
+    "interesting points": "The object appeared to be a bright silver ball or globe, larger than a car, and plummeting at a high rate of speed., The sighting lasted approximately 25 minutes, with the object displaying erratic movements and blinking blue to white light., The object increased in size and changed color as it approached, from bright silver to dull gray., Captain Petit maintained visual contact for most of the sighting until it disappeared into an overcast., The object was initially thought to be a normal aircraft but exhibited rapid acceleration and an unusual flight pattern.",
+    "sighted object": "a bright silver ball or globe",
+    "location": "Fairfield, Utah, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain Thomas P. Petit, USAF",
+    "contains photographs": false
 }

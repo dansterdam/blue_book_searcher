@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report:
-
 {
-    "main event": "A witness in Hazleton, Pennsylvania observed an unidentified flying object on September 15, 1967.",
-    "interesting points": [
-        "The object appeared solid, transparent, and as a light, and was brighter than the brightest stars.",
-        "The object exhibited a variety of behaviors, including standing still, suddenly speeding up, changing color, flashing, and disappearing and reappearing.",
-        "The object moved behind and in front of clouds during the sighting.",
-        "The object made a faint movement sound and appeared red and silver in color at times.",
-        "Multiple witnesses observed the object, which was estimated to be about 1 mile away."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular, bright light that appeared to be hovering or stationary",
-    "location": "Hazleton, Pennsylvania",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no photographs were taken"
+    "main event": "A UFO was observed by a civilian in Hazleton, Pennsylvania on September 15, 1967, over a duration of 15 minutes.",
+    "interesting points": "The object was reported to move from west to east near an airfield,The witness described the object as circular, bright, and having flashing lights,Several witnesses were present and shared similar impressions of the sighting,The object seemed to accelerate suddenly and disappear from view,No physical evidence or photographs were captured during the sighting.",
+    "sighted object": "a circular, bright light with flashing patterns",
+    "location": "Hazleton, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

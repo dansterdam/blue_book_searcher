@@ -1,15 +1,9 @@
 {
-  "main event": "A roundish object, initially red then turning white, was observed at Los Angeles International Airport on July 18, 1956. The object seemed to blink and disappear, and was seen through binoculars before becoming invisible. The report concluded that there was insufficient data for evaluation.",
-  "interesting points": [
-    "The UFO changed color from red to white before disappearing.",
-    "It was observed through binoculars before becoming invisible.",
-    "The report concluded that there was insufficient data for evaluation, suggesting a lack of concrete evidence.",
-    "The incident occurred at Los Angeles International Airport, a major transportation hub, increasing the credibility of the witnesses.",
-    "The sighting lasted only a brief period, raising questions about the nature of the object and its purpose."
-  ],
-  "result": "insufficient data for evaluation",
-  "sighted object": "one roundish object",
-  "location": "Los Angeles International Airport, California",
-  "witnesses": "credible witnesses",
-  "photographs": "yes, the report includes photographs"
+    "main event": "A witness reported seeing one roundish object at Los Angeles International Airport on July 18, 1956.",
+    "interesting points": "The object was red at first before changing to white,The object seemed to blink and disappear,The sighting was observed through binoculars,The specific course of the object was unknown,The report concluded that there was insufficient data for evaluation.",
+    "sighted object": "one roundish object",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "witness observed the object through binoculars",
+    "contains photographs": false
 }

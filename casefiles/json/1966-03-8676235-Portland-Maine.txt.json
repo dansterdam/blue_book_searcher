@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian in Portland, Maine spotted a fast-moving light like a star in the sky.",
-    "interesting points": [
-        "The object moved very fast across the sky at a high altitude.",
-        "The object traveled a straight path and faded away in 3-5 minutes.",
-        "There was no trail or sound associated with the object.",
-        "The light was the size of a star and appeared white in color.",
-        "The observation occurred at dusk, with a clear sky and unlimited visibility."
-    ],
-    "result": "SATELLITE",
-    "sighted object": "a fast-moving light",
-    "location": "Portland, Maine",
-    "witnesses": "civilian, age 15",
-    "photographs": "no"
+    "main event": "A civilian observer sighted a light resembling a star moving rapidly across the sky at high altitude.",
+    "interesting points": "The sighting lasted between 3 to 5 minutes., The object traveled a straight path and slowly faded away., It was observed from a private residence in Portland, Maine., The weather conditions were described as clear with no cloud cover., The observer was a 15-year-old student with excellent reliability.",
+    "sighted object": "a light like a star",
+    "location": "Portland, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "15-year-old civilian student",
+    "contains photographs": false
 }

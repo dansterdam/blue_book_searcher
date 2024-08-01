@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A bright silver object was seen moving rapidly in the sky over Dayton, Ohio on December 22, 1957.",
-    "interesting points": [
-        "The object was described as very high, bright silver, and sharply outlined, moving from north to south-southwest.",
-        "Two aircraft were reported to be in the same general area at the time of the sighting.",
-        "Another sighting on December 14, 1957 described an unusual flashing star-like object in the sky to the southeast.",
-        "A sighting on December 21, 1957 described a very bright white object that looked like an explosion and just disappeared from sight.",
-        "Witnesses reported the object appeared to change directions, split into smaller objects, and exhibit erratic, zigzagging movements at times."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright silver, sharply outlined object",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian observers",
-    "photographs": "no"
+    "main event": "Multiple UFO sightings reported over Dayton, Ohio between December 4 and December 22, 1957.",
+    "interesting points": "One sighting involved a high, bright silver object moving from North to SSW,Operations confirmed two aircraft in the vicinity during one sighting, A citizen reported seeing an unusual flashing star, which was identified as Venus, A witness described a bright light that appeared to split into smaller objects, Witnesses reported that a very bright object looked like an explosion and seemed to be falling, Several sightings noted an erratic, zigzagging motion of the objects.",
+    "sighted object": "unidentified flying objects",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Various civilian witnesses, including a man and his wife looking out their window and others reporting from different locations.",
+    "contains photographs": false
 }

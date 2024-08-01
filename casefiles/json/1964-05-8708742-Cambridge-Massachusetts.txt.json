@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A police officer observed an unidentified flying object over Cambridge, Massachusetts on May 26, 1964.",
-    "interesting points": [
-        "The object was observed for 3-4 seconds and moved about 40-50 degrees in the sky.",
-        "The object was described as a very thin, flat ellipsoid with a major to minor diameter ratio of approximately 3.5 to 1.",
-        "The object was the same color as nearby cumulus clouds and estimated to be 15-20 feet in diameter.",
-        "The observer was an experienced satellite tracker who had worked at a satellite tracking range for 3.5 years in Iran.",
-        "The object moved in a straight line at an estimated speed of 1000 to 3000 seconds of arc per second, which the observer later admitted was a gross miscalculation."
-    ],
-    "result": "unidentified",
-    "sighted object": "a very thin, flat ellipsoid object",
-    "location": "Cambridge, Massachusetts",
-    "witnesses": "a police officer",
-    "photographs": "no"
+    "main event": "A civilian reported observing an unidentified flying object over Cambridge, Massachusetts on May 26, 1964, lasting for about 3-4 seconds.",
+    "interesting points": "The observer described the object as a very thin ellipsoid with a major to minor diameter ratio of approximately 3:1,The object was white and moved smoothly, without making noise or leaving a contrail,The observation took place in clear visibility conditions with cumulus clouds present,The witness was a trained satellite observer, adding credibility to the sighting,No photographs or physical evidence were reported.",
+    "sighted object": "one unidentified flying object",
+    "location": "Cambridge, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer with experience in satellite tracking",
+    "contains photographs": false
 }

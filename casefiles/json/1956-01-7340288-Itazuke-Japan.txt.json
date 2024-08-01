@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified aerial objects were observed in the vicinity of Itazuke AFB, Japan on January 7, 1956 and January 18, 1956.",
-    "interesting points": [
-        "The objects were observed by the CAA controller and personnel from the control tower at Itazuke AFB.",
-        "The objects were described as moving at high speeds, estimated to be over 600 knots, and disappearing suddenly from view.",
-        "The objects were reported to be elliptical in shape and emitting bright lights.",
-        "The weather conditions were clear with unlimited visibility and a full moon at the time of the sightings.",
-        "One of the sightings on January 18, 1956 was described as an object appearing to have the shape of a project balloon at 40,000 feet, moving fast with no contrail."
-    ],
-    "result": "unexplained",
-    "sighted object": "elliptical-shaped objects emitting bright lights",
+    "main event": "A sighting of an unidentified aerial object was reported over Itazuke, Japan on January 18, 1956, described as resembling a project balloon.",
+    "interesting points": "The object was observed at an altitude of 40,000 feet and had no contrail., The object was classified as moving fast., A total of 19 objects were reported during the sighting., It was mentioned that the object was possibly a balloon., The observation lasted 45 seconds with a brief summary indicating the object's shape.",
+    "sighted object": "an unidentified object resembling a project balloon",
     "location": "Itazuke, Japan",
-    "witnesses": "CAA controller, control tower personnel",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "Military personnel observed the event.",
+    "contains photographs": false
 }

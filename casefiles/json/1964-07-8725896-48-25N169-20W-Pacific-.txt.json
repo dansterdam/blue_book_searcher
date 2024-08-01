@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An unidentified object was observed in the Pacific Ocean at 48-33N 169-20W.",
-    "interesting points": [
-        "The object was observed for 10 seconds.",
-        "The object was described as similar to a '2nd MAD STAR'.",
-        "The object was traveling northerly at a high speed.",
-        "No photographs were taken of the object.",
-        "The object's brightness was compared to a first magnitude star."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified object",
-    "location": "Pacific Ocean, 48-33N 169-20W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "An unidentified object was visually observed in the Pacific region for a duration of 10 seconds.",
+    "interesting points": "The object was observed to be moving in a northerly course., The observation duration was relatively short at only 10 seconds., The report from Project Blue Book indicates it was an unknown object with similarities to a 2nd MAD star., There were related reports of unknown subjects in the area on the same day., No photographs or physical evidence were associated with this observation.",
+    "sighted object": "unknown object similar to 2nd MAD star",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "Intelligence source",
+    "contains photographs": false
 }

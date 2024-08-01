@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A strange object, described as shaped like an ice cream cone, was observed over Tacoma, Washington on August 1, 1958.",
-    "interesting points": [
-        "The object was reported to be wobbling or possibly rotating.",
-        "The object had an irregular shape and was white in color.",
-        "The object was observed for about 45 minutes.",
-        "Radar tracking was attempted but no conclusive results were reported.",
-        "Multiple civilian and military witnesses reported the sighting, including a U.S. Coast Guard boatswain."
-    ],
-    "result": "unexplained",
-    "sighted object": "an ice cream cone-shaped object",
-    "location": "Tacoma, Washington",
-    "witnesses": "civilian and military",
-    "photographs": "no"
+    "main event": "On 1 August 1958, a sighting of a UFO shaped like an ice cream cone was reported in Tacoma, Washington.",
+    "interesting points": "The sighting lasted for 45 minutes and involved one object,The object was described as wobbling and possibly rotating,The characteristics of the object indicated it could be a balloon,But due to insufficient data, the conclusion could not be definitively made,Call reports from multiple parties were made regarding the UFO's movement.",
+    "sighted object": "one object shaped like an ice cream cone",
+    "location": "Tacoma, Washington, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians and military personnel, including a Boatswain from the U.S. Coast Guard",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The document appears to contain a series of black and white photographs depicting various outdoor scenes, including a ship or vessel on the water, an unidentified object in the sky, and other indistinct shapes or structures in the distance.",
-    "interesting points": [
-        "The photographs are described as being 'grainy' and 'not very clear', making it difficult to make definitive identifications of the objects or structures shown.",
-        "The document refers to the photographs as being 'unidentified', suggesting they depict unidentified objects or phenomena.",
-        "The document is marked as being from the 'FOREIGN TECHNOLOGY DIVISION,AFSC' and is labeled as 'UNCLASSIFIED'.",
-        "No specific details about the locations, dates, or witnesses of the sightings are provided in the text.",
-        "The document does not contain any information about the specific nature or characteristics of the objects or structures depicted in the photographs."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unidentified objects or structures in various outdoor scenes",
-    "location": "not specified",
-    "witnesses": "not specified",
-    "photographs": "yes, the document contains 7 black and white photographs"
+    "main event": "A report from January 13, 1967, contains multiple black and white photographs depicting unidentified objects or structures over water and various landscapes.",
+    "interesting points": "The report includes 7 photographs, all described as grainy and unclear., Several photographs show unidentified objects in the sky or over water., One photograph depicts a snowy landscape with a body of water and a distant object., No humans or identifiable individuals are present in any of the images., The document is labeled as unclassified by the Foreign Technology Division, AFSC.",
+    "sighted object": "unidentified objects or structures in black and white photographs",
+    "location": "Westover AFB, Massachusetts, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no humans visible in the photographs",
+    "contains photographs": true
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A circular and bright object was observed orbiting in Baltimore, Maryland on 11 May 1957 for two minutes.",
-    "interesting points": [
-        "The object was observed for two minutes before disappearing, with no reported sound.",
-        "It was noted that the cloud cover was 3/10 during the observation.",
-        "The object was observed northbound and westbound on Red 17 and Blue 23.",
-        "Despite the peculiar flight path, there was insufficient data for evaluation due to the inability to contact the source.",
-        "The report includes photographs of the observed object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular and bright object",
-    "location": "Baltimore, Maryland",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An object was observed in Baltimore, Maryland on 11 May 1957.",
+    "interesting points": "The object was circular and bright in color., It was observed for a duration of two minutes., The object had a peculiar flight path, making it difficult to evaluate., There was 3/10 cloud cover at the time of observation., No sound was reported during the sighting.",
+    "sighted object": "a circular and bright object in the sky",
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness observed the object after being called to attention by someone.",
+    "contains photographs": false
 }

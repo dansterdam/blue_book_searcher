@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A glittering light was observed in the sky over Pleasant Hill, Missouri, that changed colors from red to green to white.",
-    "interesting points": [
-        "The object was the size of a star but exhibited changing colors.",
-        "There may have been two objects close together.",
-        "The object was too far away to identify clearly.",
-        "The object remained stationary at first, then was observed drifting to the southwest before eventually disappearing to the west.",
-        "The sighting lasted for approximately 25 minutes."
-    ],
-    "result": "unknown",
-    "sighted object": "one or possibly two glittering lights in the sky",
-    "location": "Pleasant Hill, Missouri",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian reported seeing one or possibly two unidentified objects in the sky over Pleasant Hill, Missouri on August 12, 1965.",
+    "interesting points": "The objects were observed for 25 minutes and exhibited changing colors of red, green, and white, The objects appeared stationary before later drifting southwest and then disappearing to the west, The report mentions that the object size was similar to that of a star, There was a possible second object observed close to the first, The visibility conditions were clear with a distant altitude estimated between 4,000 to 5,000 feet.",
+    "sighted object": "one or possibly two unidentified flying objects",
+    "location": "Pleasant Hill, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer in Pleasant Hill, Missouri",
+    "contains photographs": false
 }

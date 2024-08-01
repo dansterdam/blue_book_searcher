@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided text:
-
 {
-    "main event": "The Air Force has investigated over 9,000 reports of unidentified flying objects (UFOs) since 1948, with 663 remaining unexplained.",
-    "interesting points": [
-        "The Air Force has found no evidence that any of the UFO reports reflect a threat to national security.",
-        "Many of the unexplained reports have come from intelligent and technically qualified individuals whose integrity cannot be doubted.",
-        "The Air Force has been requested to organize a working scientific panel to review Project Blue Book, its resources, methods, and findings, and advise on improvements.",
-        "There is a scientific panel that has been reviewing the Air Force's UFO investigation program, Project Blue Book.",
-        "The Air Force has continued to devote resources to investigating and analyzing UFO reports that do not present a threat to national security."
-    ],
-    "result": "unexplained",
+    "main event": "A collection of documents related to Project Blue Book discusses various UFO sightings and the findings of the USAF Scientific Advisory Board in March 1966.",
+    "interesting points": "Doctor J. Allen Hynek, the scientific consultant to Project Blue Book, was involved alongside other significant scientists such as Dr. Carl Sagan., The agenda for the Ad Hoc Committee on UFOs included discussions of the Air Force problem and case histories., The Air Force reported that over 10,000 sightings have been investigated since 1947 with only 646 remaining unidentified., NICAP, the National Investigations Committee on Aerial Phenomena, urged an investigation into the public's reports and criticized the Air Force for its treatment of witnesses., The documents highlighted varying accounts of UFO sightings across multiple states, including reports from credible witnesses like sheriff deputies and engineers.",
     "sighted object": "unidentified flying objects",
-    "location": "United States",
-    "witnesses": "intelligent and technically qualified individuals",
-    "photographs": "none mentioned"
+    "location": "Dexter, Michigan, USA",
+    "number of confirmed witnesses": 40,
+    "witness description": "individuals including a deputy sheriff and various engineers",
+    "contains photographs": false
 }

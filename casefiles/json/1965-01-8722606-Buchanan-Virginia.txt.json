@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A UFO sighting was reported in the Buchanan, Virginia area on January 18, 1965.",
-    "interesting points": [
-        "The object was described as round, with three rings or 'donuts' stacked one on top of the other.",
-        "The object had a circle of red lights between the first and second rings, a circle of green lights between the second and third rings, and a white light on the top ring.",
-        "The object appeared to be traveling at a high speed and high altitude in an easterly direction.",
-        "The sighting was observed by multiple witnesses, including some children, but no photographs were taken.",
-        "Weather balloons were released in the area around the time of the sighting, but the report indicates the object did not appear to be a weather balloon."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, multi-ringed UFO with colored lights",
-    "location": "Buchanan, Virginia",
-    "witnesses": "multiple witnesses, including children",
-    "photographs": "none"
+    "main event": "A UFO sighting occurred in Buchanan, Virginia, on January 18, 1965, reported by multiple witnesses.",
+    "interesting points": "The object was described as round with three stacked rings resembling donuts., The UFO was traveling in an easterly direction at high speed and altitude., Witnesses reported a bright white light on top and colored lights between the rings., The sighting lasted approximately 2 to 5 minutes., None of the witnesses appeared to attempt to exaggerate their observations.",
+    "sighted object": "a round object with three stacked rings and colored lights",
+    "location": "Buchanan, Virginia, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "Children and students from Buchanan, Virginia",
+    "contains photographs": false
 }

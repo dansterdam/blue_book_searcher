@@ -1,15 +1,9 @@
 {
-    "main event": "A series of UFO sightings reported in the Project Blue Book documents from various locations like Maine, Ohio, and Massachusetts between 1952 and 1953. The sightings involved observations of bright circular objects capable of high-speed, erratic maneuvers, hovering, abrupt course changes, and disappearing from view.",
-    "interesting points": [
-        "Multiple credible witnesses observed the unidentified objects, including Air Force personnel, a farmer, and citizens.",
-        "The objects were described as bright, circular, and capable of maintaining a constant speed, altitude, and direction. Some witnesses saw cigar-shaped or football-shaped objects.",
-        "The objects were observed making irregular erratic maneuvers, hovering, and suddenly disappearing, exhibiting speeds exceeding the capabilities of known aircraft.",
-        "Weather conditions were reportedly clear with good visibility during the sightings, and no sound or exhaust trails were noticed from the objects.",
-        "Radar tracking and visual observations from aircraft were employed to track the objects, with unsuccessful attempts to overtake the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright circular objects capable of high-speed, erratic maneuvers",
-    "location": "Maine, Ohio, Massachusetts",
-    "witnesses": "multiple credible witnesses including Air Force personnel, a farmer, and citizens",
-    "photographs": "no photographs available in the report"
+    "main event": "Several Air Force personnel observed a group of unidentified objects maneuvering in the sky over Presque Isle Air Force Base, Maine on July 25, 1952.",
+    "interesting points": "The objects were described as bright, circular, and capable of high-speed, erratic maneuvers.,The sighting lasted approximately 40 minutes.,The objects were tracked on radar by the tower controller and the GCI radar station.,The tower controller reported that the objects moved at speeds in excess of 500 knots.,There were no aircraft from Presque Isle Air Force Base or any other known source in the area at the time of the sighting.",
+    "sighted object": "unidentified flying objects",
+    "location": "Presque Isle, Maine, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Air Force personnel including 1/Lt Arthur J. Stahl and Airman 1/c John E. Dzierzanowski",
+    "contains photographs": false
 }

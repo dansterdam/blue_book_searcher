@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was sighted in the vicinity of Tampa, Florida at approximately 2345 on 8 February 1950.",
-    "interesting points": [
-        "The object was reported by the pilot of Eastern Airlines Flight 909, Eastern Airlines Flight 255, and a B-29 crew member (AF-17753), all of whom described the object proceeding on a straight, westerly course.",
-        "Major Holly W. Anderson, who was piloting a B-29 at the time, estimated the speed of the object to be in excess of 2,000 mph.",
-        "The object had a rocket-like shape and a visible exhaust trail that was approximately 300 feet long and 50 feet wide.",
-        "The object was sighted against a clear sky, with haze in the lower levels.",
-        "No sound was reported in association with the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "rocket-shaped object",
-    "location": "vicinity of Tampa, Florida",
-    "witnesses": "Eastern Airlines pilots, B-29 crew",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted in Tampa, Florida by a B-29 crew and Eastern Airlines pilots on 8 February 1950.",
+    "interesting points": "The object was reported to be rocket-shaped and moving at an estimated speed of over 2000 mph.,The object maintained a high altitude and a straight course while being observed.,Multiple witnesses, including two Eastern Airlines pilots and a Major from the USAF, reported the sighting with consistent descriptions.,The sighting was made in clear weather conditions with visibility reaching 15 miles.,No photographs or sketches of the object were taken during the sighting.",
+    "sighted object": "one unidentified flying object",
+    "location": "Tampa, Florida, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Eastern Airlines pilots and a Major from the USAF",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Radar blips observed over Columbus, Ohio on October 6, 1955, with no visual aircraft sighted.",
-    "interesting points": [
-        "The radar blips appeared to move in a zigzag pattern.",
-        "The report states that there were 'two large radar blips' but no aircraft were visually observed.",
-        "The sighting lasted approximately 40 minutes.",
-        "The report was filed by S/Sgt. James Whitehead, who worked at the local police department.",
-        "The report was forwarded to various military commands, including the Air Defense Command and the Air Technical Intelligence Center."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Radar blips",
-    "location": "Columbus, Ohio",
-    "witnesses": "Ground radar operators",
-    "photographs": "Yes, 9 photographs were taken, but not included in this report"
+    "main event": "On October 6, 1955, two large radar blips were observed in Columbus, Ohio, but no aircraft could be visually identified.",
+    "interesting points": "The radar blips moved in a zigzag path,The observation was made over a 30-minute period,The sighting had ground-radar type observation,There was a suggestion that the blips could possibly be aircraft, but data was insufficient for definitive conclusions.",
+    "sighted object": "two large radar blips",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "S/SGT James Whitehead, finance at LCK PD",
+    "contains photographs": false
 }

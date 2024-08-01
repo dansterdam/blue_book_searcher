@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A glowing white circular object was observed on radar and visually by civilian and military witnesses in North Dakota.",
-    "interesting points": [
-        "The object appeared on the horizon in the northeast and disappeared towards the northwest.",
-        "The object was observed for 15-20 minutes.",
-        "The report suggests the object was likely the planet Venus, but no definitive conclusion is made.",
-        "The same object was reported the previous day on March 1, 1961.",
-        "Photographs of the object were said to be forwarded, but are not included in the document provided."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a glowing white circular object",
+    "main event": "A glowing white circular object, possibly Venus, was observed on the horizon in North Dakota.",
+    "interesting points": "The object was reported to be visible for 15-20 minutes., The sighting occurred in the direction of the northeast and disappeared to the northwest., The observation was documented in a Project Blue Book record card., It was mentioned that the sighting was possibly from both civilian and military perspectives., The sighting was also reported by the Chief of Police in Tioga, North Dakota.",
+    "sighted object": "glowing white circular object",
     "location": "Spring Brook and Tioga, North Dakota",
-    "witnesses": "civilian and military",
-    "photographs": "yes, according to the report, but not included"
+    "number of confirmed witnesses": 2,
+    "witness description": "a farmer and the Chief of Police, Tioga, North Dakota",
+    "contains photographs": false
 }

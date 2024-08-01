@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A round, brilliant object with yellow-orange lights was sighted in the sky over San Juan, Puerto Rico on February 26, 1960.",
-    "interesting points": [
-        "The object was the size of a large pea and left a contrail that persisted for at least 10 minutes.",
-        "Four additional reports of similar activity were made by friends and others in the general area.",
-        "The object was not observed by ground observers at the neighboring air force base, possibly because it was obscured by clouds.",
-        "The object disappeared with amazing speed, and no further sightings or possible subsequent identification were made.",
-        "Preliminary analysis indicated the object may have been a reentry of some variety of ballistic missile or earth satellite vehicle."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, brilliant object with yellow-orange lights",
+    "main event": "A round object, described as the size of a large pea, was observed in San Juan, Puerto Rico on February 26, 1960, emitting brilliant yellow-orange lights and leaving a contrail.",
+    "interesting points": "The sighting lasted less than one minute., The object left a contrail that persisted for at least 10 minutes., Four additional reports were made by friends and others in the general area., Ground observers from a nearby air force base did not see the object, possibly due to cloud cover., Initial analysis suggested it might have been a reentry of a ballistic missile or satellite.",
+    "sighted object": "a round object with brilliant yellow-the-orange lights",
     "location": "San Juan, Puerto Rico",
-    "witnesses": "multiple, including a geologist",
-    "photographs": "none"
+    "number of confirmed witnesses": 5,
+    "witness description": "the observer was Reginald P Briggs, age 44, a geologist working for the U.S. Department of Interior in Puerto Rico",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The witness claims to have taken photographs of a UFO over Wreck Pond in Spring Lake, New Jersey on February 20, 1965.",
-    "interesting points": [
-        "The witness states that the object was also visible to the naked eye.",
-        "The witness passed the photographs to Air Force Intelligence for analysis.",
-        "Air Force Intelligence was unable to process or submit the negatives for further investigation.",
-        "The photographs were returned to the witness.",
-        "The report concludes that there was 'INSUFFICIENT DATA FOR EVALUATION' due to the lack of photographs or negatives."
-    ],
-    "result": "inconclusive",
+    "main event": "A teacher reported a UFO sighting with related photographs taken while parked at Wreck Pond in Spring Lake, New Jersey on February 20, 1965.",
+    "interesting points": "The investigation is part of Project Blue Book, an Air Force program to investigate UFOs., The reports indicate that numerous photographs were taken of the unidentified object., The UFO was visible to the naked eye., The correspondent expressed hope that the investigations would focus on the sightings themselves rather than just the photographs., Air Force Intelligence stated that they could not analyze the submitted photographs due to a lack of negatives.",
     "sighted object": "unidentified flying object",
-    "location": "Spring Lake, New Jersey",
-    "witnesses": "single civilian witness",
-    "photographs": "yes, but not available for analysis"
+    "location": "Spring Lake, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a teacher who took photographs from their automobile",
+    "contains photographs": false
 }

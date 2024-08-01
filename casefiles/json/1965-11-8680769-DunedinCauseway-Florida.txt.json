@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A strange object was spotted near Eglin Air Force Base in Florida on November 15, 1965.",
-    "interesting points": [
-        "The object was described as long and flat or circular, similar in size to a neon light bulb, and blue-white or fluorescent in color.",
-        "The object was observed for around 15 minutes, moving slowly to the north at an estimated altitude of 5,300 feet.",
-        "Two additional witnesses, described as reliable, provided a similar description of the object being very massive and moving very slowly.",
-        "No definitive explanation could be provided, as the object's movement did not match that of a weather balloon released in the area.",
-        "The report includes sketches depicting the changing shape or movement of the unidentified object over time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a long, flat or circular object with a blue-white or fluorescent color",
-    "location": "near Eglin Air Force Base, Florida",
-    "witnesses": "Mr. William R. Monckel, two additional unnamed witnesses",
-    "photographs": "no, the report does not include any photographs, only sketches"
+    "main event": "A UFO was sighted on November 15, 1965, near Eglin Air Force Base, Florida, evaluated as chemical trails from rocket firings.",
+    "interesting points": "The object was described as possibly 13'3\" x 3\", long and flat or circular in shape., The sighting lasted for about 15 minutes around dusk., The observer had previous Air Force service and an avid interest in civil aviation., Other witnesses in Palm Harbor, Florida, supported the sighting, describing a massive object moving slowly., The document discussed the visibility of chemical trails across multiple states due to rocket activities.",
+    "sighted object": "long and flat or circular object with blue-white or fluorescent color, resembling a neon light bulb",
+    "location": "Dunedin, Florida, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mr. William R. Monckel, with prior Air Force service and two housewives from Palm Harbor",
+    "contains photographs": false
 }

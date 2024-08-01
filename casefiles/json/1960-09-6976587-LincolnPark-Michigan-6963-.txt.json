@@ -1,12 +1,9 @@
 {
-    "main event": "No main event described in the document.",
-    "interesting points": [
-        "The document contains only film negatives, with no photographs present.",
-        "The document does not contain any transcribed text or description of a UFO sighting."
-    ],
-    "result": "No result provided.",
-    "sighted object": "No sighted object described.",
-    "location": "Lincoln Park, Michigan",
-    "witnesses": "None specified.",
-    "photographs": "No photographs present."
+    "main event": "A UFO report detailing a set of negative film frames with the Kodak logo.",
+    "interesting points": "The report was dated September 10, 1960., The location of the event is Lincoln Park, Michigan., The document consists of two pages., Page 1 details the lack of photographs and describes negative film frames., Page 2 is blank with no additional information.",
+    "sighted object": "negative film frames with Kodak logo",
+    "location": "Lincoln Park, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none provided",
+    "contains photographs": false
 }

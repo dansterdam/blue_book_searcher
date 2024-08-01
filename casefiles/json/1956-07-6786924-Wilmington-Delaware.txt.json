@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A circular, fluorescent object the size of a baseball was observed hovering and moving from south to north over Wilmington, Delaware.",
-    "interesting points": [
-        "The object appeared to be tracked on ground radar.",
-        "The sighting lasted for approximately 5 minutes.",
-        "The object displayed characteristics of an aircraft, such as level flight and steady movement.",
-        "The object was observed visually from the ground.",
-        "Weather and wind conditions at the time of the sighting were recorded."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, fluorescent object",
-    "location": "Wilmington, Delaware",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A circular fluorescent object the size of a baseball was observed hovering from south to north and was tracked on ground radar.",
+    "interesting points": "The sighting lasted for about 5 minutes., The object appeared to be fluorescent pink., It was reported by a civilian source., The observation was made visually and it was brief., The radar tracking suggests it could have been an aircraft.",
+    "sighted object": "circular fluorescent object",
+    "location": "Wilmington, Delaware, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer in Wilmington, Delaware",
+    "contains photographs": false
 }

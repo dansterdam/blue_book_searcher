@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Civilian witnesses observed lights in the sky near Pikesville, Kentucky.",
-    "interesting points": [
-        "The lights were observed for an unspecified duration.",
-        "The lights were observed in the southeast direction, approximately 8 miles away.",
-        "The report mentions a possible photo explanation, but the size and probable reflection is still being investigated.",
-        "The report does not contain any photographs.",
-        "The report was likely part of the U.S. Air Force's Project Blue Book investigation of UFOs."
-    ],
-    "result": "inconclusive",
-    "sighted object": "lights",
-    "location": "Near Pikesville, Kentucky",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Unidentified lights were observed near Pikesville, Kentucky.",
+    "interesting points": "The observation was made by a civilian., The lights were reported to be traveling approximately 8 miles to the southeast., The type of observation was ground-visual., The report mentions a possible photo explanation that is still being investigated., The conclusion suggests that the size and probable reflection of the lights would not be compatible with daylight observation.",
+    "sighted object": "lights in the sky",
+    "location": "Pikesville, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

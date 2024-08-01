@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two bright objects were observed darting and maneuvering in the sky over Lyons, Colorado on June 8, 1959.",
-    "interesting points": [
-        "The objects came together and then separated, showing no trail.",
-        "The objects did not conform to any known aircraft.",
-        "The observer estimated the objects were traveling at around 800 mph.",
-        "The observer estimated the objects were about 5 miles away.",
-        "The observer believed the objects may have been carefully crafted radar reflectors rather than actual vehicles."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright, well-defined objects",
-    "location": "Lyons, Colorado",
-    "witnesses": "single observer",
-    "photographs": "yes, report indicates photographs were taken"
+    "main event": "On June 8, 1959, two bright objects were observed darting and maneuvering in the sky near Lyons, Colorado.",
+    "interesting points": "The objects showed erratic flight patterns, came together and then separated, They did not conform to any known aircraft, Witness estimated the objects' speed to be about 800 mph, The objects appeared to be made of dark metallic material, One witness described the objects as having a dull, non-luminous appearance.",
+    "sighted object": "two bright objects in the sky",
+    "location": "Lyons, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported an unusual sighting with a peculiar feeling to look up at the sky.",
+    "contains photographs": false
 }

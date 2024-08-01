@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, elongated, all-white object was observed traveling fast to the east and changing to a pale blue-green appearance.",
-    "interesting points": [
-        "The object was as bright as the star Vega and appeared to be about 38-40 miles in the air.",
-        "The object was observed at about 11 degrees above the horizon, passing beneath the star Vega.",
-        "The observation lasted for about 5 minutes.",
-        "The object was reported to military sources, including the Commander in Chief, Atlantic Fleet and the 28th NORAD Region.",
-        "The object was initially concluded to be a satellite (SKIP II)."
-    ],
-    "result": "Satellite (SKIP II)",
-    "sighted object": "Bright, elongated, all-white object that changed to a pale blue-green appearance",
-    "location": "Atlantic Ocean (6426'N 2913'W)",
-    "witnesses": "Military personnel",
-    "photographs": "No"
+    "main event": "A bright elongated object was observed in the Atlantic traveling fast to the east, appearing to change color from white to pale blue-green.",
+    "interesting points": "The sighting lasted for 5 minutes.,The object was visual and observed with binoculars.,It was reported by a military source.,The object was as bright as Venus and observed about 13 degrees above the horizon.,The conclusion drawn was that it was a satellite.",
+    "sighted object": "one elongated light object",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

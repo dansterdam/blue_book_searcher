@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright, silvery, fast-moving object was observed falling to the ground near Aztec, New Mexico.",
-    "interesting points": [
-        "The object was observed falling at a rapid rate, appearing to hit the ground near Cedar Hill, New Mexico.",
-        "The sighting was reported by a rancher in Aztec, New Mexico.",
-        "The object was observed for a very short time before it fell to the ground.",
-        "The preliminary analysis by the Air Force suggested the object was likely a bright meteor.",
-        "The report indicates the witness's telephone reliability was considered good."
-    ],
-    "result": "probable meteor",
-    "sighted object": "bright, silvery, fast-moving object",
-    "location": "Near Aztec and Cedar Hill, New Mexico",
-    "witnesses": "rancher",
-    "photographs": "no"
+    "main event": "A bright silver fast-moving object was reported near Aztec, New Mexico on 25 June 1966.",
+    "interesting points": "The sighting was reported by one civilian witness., The observation lasted for a very short time., The object was described as silvery and moving rapidly., The object was believed to have fallen on or near Mt. Lebo, near Cedar Hill, New Mexico., A preliminary analysis suggested that the object was likely a bright meteor.",
+    "sighted object": "a bright silver fast-moving object",
+    "location": "Aztec, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

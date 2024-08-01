@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple observations of a bright, exploding ball of fire were reported by civilians and military personnel near Duluth, Minnesota and surrounding areas on September 5, 1965.",
-    "interesting points": [
-        "The object was described as a ball of fire with a reddish color and a vapor trail.",
-        "The object exploded without providing details on the explosion.",
-        "The sighting lasted approximately 4-5 seconds.",
-        "The sky lit up orange as if the object crashed or exploded.",
-        "No sound was heard while the object was passing, but a boom sound was heard later."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright ball of fire with a reddish color and vapor trail",
-    "location": "Duluth, Minnesota - Minneapolis, Minnesota, Northern Michigan, Eveleth, Ontario, Canada, Barrie, Michigan",
-    "witnesses": "civilians and military personnel",
-    "photographs": "no"
+    "main event": "Multiple observations of a bright fireball were reported in Duluth, Minnesota on September 5 and 8, 1965.",
+    "interesting points": "Reports included sightings of a fireball moving erratically across the sky,The object was described as bright with a vapor trail,There was no sound during its flight, but a loud boom was heard after it disappeared,Some witnesses observed the fireball from their vehicles while driving,The event occurred during clear weather conditions.",
+    "sighted object": "a bright fireball",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers included both civilians and military personnel.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object resembling a star with a circle around it was observed for 1.5 hours in the sky over Baltimore, Maryland on May 1, 1956.",
-    "interesting points": [
-        "The object was the size of a grapefruit and descended below the horizon.",
-        "Winds were measured up to 65 knots from 270-290 degrees.",
-        "The object was initially observed at 65 degrees elevation in the ENE direction.",
-        "The object was observed through a small telescope, with its altitude changing but its azimuth remaining constant.",
-        "The report includes a description of the object's motion as 'jerky'."
-    ],
-    "result": "unexplained",
-    "sighted object": "An unidentified object resembling a star with a circle around it",
-    "location": "Baltimore, Maryland",
-    "witnesses": "1 witness, Capt. John J. Miller, Operations Officer",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A witness observed a satellite-like object in the sky for 1 hour and 30 minutes on May 1, 1956.",
+    "interesting points": "The object appeared like a star with a circle around it,The size of the object was approximately that of a grapefruit,The observation was conducted using a small telescope,The object moved in a jerky motion and descended below the horizon,The sighting occurred in Baltimore, Maryland during a period of 20+ winds up to 65 knots.",
+    "sighted object": "one satellite-like object",
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observation was made from a backyard using a small telescope.",
+    "contains photographs": false
 }

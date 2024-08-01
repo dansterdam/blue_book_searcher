@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A police officer from Gaylesville, Alabama spotted four unidentified flying objects in the sky for 12-15 minutes on August 7, 1966.",
-    "interesting points": [
-        "The objects were first observed hovering at 3,000-5,000 feet, then descended to 500-600 feet, drifting and oscillating.",
-        "The objects had an elliptical shape with a silvery metallic surface and no visible propulsion system or sound.",
-        "The objects departed in level flight at 600-800 mph.",
-        "The witness was a police officer who provided a detailed description of the sighting.",
-        "The sighting occurred at 10:55 PM on August 7, 1966 in Gaylesville, Alabama."
-    ],
-    "result": "unidentified",
-    "sighted object": "four unidentified flying objects",
-    "location": "Gaylesville, Alabama",
-    "witnesses": "police officer",
-    "photographs": "none"
+    "main event": "On August 26, 1966, a police officer and his family observed four unidentified objects in the sky over Gaylesville, Alabama for approximately 10 minutes.",
+    "interesting points": "The objects were described as having a silvery metallic surface and an elliptical shape,They hovered and made rapid movements including ascending and descending,There was no detectable sound produced during the sighting,The officer's wife noticed that the objects seemed to maneuver relative to nearby stars,The sighting was reported in connection with a broader investigation by the USAF's Project Blue Book.",
+    "sighted object": "Four unidentified flying objects",
+    "location": "Gaylesville, Alabama, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Police officer and his family members",
+    "contains photographs": false
 }

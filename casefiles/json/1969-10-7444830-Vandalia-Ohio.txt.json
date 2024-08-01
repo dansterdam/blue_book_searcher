@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A 12-year-old observer in Vandalia, Ohio reported seeing a balloon-like object with a flashing light on October 23, 1960.",
-    "interesting points": [
-        "The observer initially thought the object was a plane until it revealed an odd flight path and hovered with no sound.",
-        "The object is described as similar to a weather balloon or hot air balloon.",
-        "There are numerous aircraft in the area, which may have contributed to the sighting.",
-        "The observer is only 12 years old, which could affect the reliability of the report.",
-        "The report includes additional radar sightings of unidentified objects in the Oklahoma and Texas areas around the same time period."
-    ],
-    "result": "Probable Balloon",
-    "sighted object": "Balloon-like object with a flashing light",
-    "location": "Vandalia, Ohio",
-    "witnesses": "1 civilian observer, a 12-year-old",
-    "photographs": "No"
+    "main event": "A 12-year-old observer reported seeing a balloon with a flashing light in Vandalia, Ohio on 23 Oct 60.",
+    "interesting points": "The observer initially thought the balloon was a plane due to its odd flight path., The balloon hovered silently at one point., The observation was made late at night at 11:55 PM EDT., The conclusion drawn from the sighting was that it was a probable balloon., There were numerous aircraft in the area at the time of the sighting.",
+    "sighted object": "a balloon with a flashing light",
+    "location": "Vandalia, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 12-year-old child",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple unidentified objects were observed in the sky over Greece, exhibiting flashing lights and strange maneuvers.",
-    "interesting points": [
-        "The objects were observed for 2-3 minutes, changing direction rapidly.",
-        "The sighting was reported from multiple locations in Greece.",
-        "The objects could not be identified as any known aircraft.",
-        "The sighting was reported by a captain in the 6th Air Force.",
-        "The Air Force considered this a genuine sighting of unidentified objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified objects in the sky",
+    "main event": "Multiple objects observed in the sky displaying erratic maneuvers and flashing lights over Greece on July 25, 1958.",
+    "interesting points": "Observation lasted for 2-3 minutes, approximately 6-10 objects were seen, the course of the objects was erratic, the sighting could not be identified as known aircraft, reported by multiple locations in Greece.",
+    "sighted object": "multiple unidentified flying objects with flashing lights",
     "location": "Greece, 24-10N 58-28E",
-    "witnesses": "military personnel",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 5,
+    "witness description": "including a senior construction engineer and his family, and others present on the beach",
+    "contains photographs": false
 }

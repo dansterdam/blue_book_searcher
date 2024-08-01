@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A witness reported seeing a saucer-shaped object made of polished chrome or aluminum, hovering and then rapidly taking off in a westerly direction.",
-  "interesting points": [
-    "The object was about 50 yards from the witness and appeared to be about 30 feet in diameter.",
-    "The object made a slight hissing sound before rapidly taking off and disappearing from sight.",
-    "When the object took off, the entire area was lit up as bright as day.",
-    "The witness was so amazed that they almost forgot to breathe.",
-    "The witness hurried to the nearby club to report what they had witnessed."
-  ],
-  "result": "unexplained",
-  "sighted object": "a saucer-shaped metallic object",
-  "location": "Cowlesville, New York",
-  "witnesses": "a civilian witness",
-  "photographs": "yes, the report includes photographs"
+    "main event": "A witness reported seeing a saucer-shaped object that emitted a brilliant light and hovered for a few minutes before taking off rapidly in Cowlesville, New York on September 1st, 1967.",
+    "interesting points": "The object appeared to be made of polished chrome or aluminum,The witness described the light as being so bright that it almost blinded them,The object was about 30 feet in diameter,The sighting occurred at 9:50 PM at a distance of about 50 yards,The area was lit up as bright as day when the object took off.",
+    "sighted object": "saucer-shaped craft emitting brilliant light",
+    "location": "Cowlesville, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an employee at the Baia Grande Field Club",
+    "contains photographs": true
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The observer sighted a bright blue light that was seen for 60 seconds and was about as bright as a fourth magnitude star.",
-    "interesting points": [
-        "The observer stated that he sighted the light when it was directly overhead, but in his letter said the light disappeared in the North and that the first time he saw it was in August.",
-        "The observer also saw a UFO, but the details are not provided.",
-        "The report notes conflicting data in the observer's account.",
-        "The Department of the Air Force requested the observer to complete an attached form to provide additional information for further investigation.",
-        "The report form includes sections for the observer to provide details about the sighting, such as the date, time, location, direction, elevation, size, motion, and any other notable observations."
-    ],
-    "result": "conflicting data",
+    "main event": "An observer sighted a bright blue light in the sky for about one minute on August 25, 1968.",
+    "interesting points": "The blue light was as bright as a fourth magnitude star.,The light appeared to be directly overhead before disappearing in the northern sky.,The observer provided conflicting statements about the timing of the sighting.,There were no photographs or physical evidence associated with the sighting.,The sighting was documented in a Project Blue Book report.",
     "sighted object": "a bright blue light",
-    "location": "Atlanta, Louisiana",
-    "witnesses": "1 civilian observer",
-    "photographs": "no"
+    "location": "Atlanta, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

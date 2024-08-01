@@ -1,15 +1,9 @@
 {
-  "main event": "On September 3, 1956, a civilian in Bert, Michigan, reported a ground-visual observation of one oblong bright red object drifting north at 12,000 feet, which faded from sight after being observed for six minutes.",
-  "interesting points": [
-    "The object was described as oblong and bright red, with no visible arms or other features.",
-    "It was observed drifting north at 12,000 feet and then faded from sight after a six-minute observation period.",
-    "The report suggests that the shape, color, and manner of disappearance indicate that the sighting was likely caused by an aircraft.",
-    "The weather was clear at the time of the sighting, and there were winds aloft at 12,009 feet.",
-    "There was no unusual activity reported, and no interception or action was taken."
-  ],
-  "result": "X-Probably Aircraft",
-  "sighted object": "one oblong bright red object",
-  "location": "Bert, Michigan",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "One oblong bright red object was observed drifting north at 12,000 feet in Bert, Michigan on 3 September 1956.",
+    "interesting points": "The object was initially sighted at a 90-degree azimuth.,It was visible for six minutes before fading out of sight.,The object's color was described as bright red.,The sighting is suspected to be caused by an aircraft based on its characteristics.,The observation was made by a civilian.",
+    "sighted object": "one oblong bright red object",
+    "location": "Bert, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

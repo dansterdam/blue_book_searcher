@@ -1,15 +1,9 @@
 {
     "main event": "An unidentified flying object was sighted over Oakridge, Tennessee on July 26, 1947.",
-    "interesting points": [
-        "The object was described as a bright, metallic, disc-shaped object that was hovering in the sky.",
-        "The object was observed for about 10-15 minutes before it rapidly accelerated and disappeared from view.",
-        "Several employees of the Oakridge facility reported the incident to local authorities.",
-        "An investigation was conducted by the United States Air Force as part of Project Blue Book.",
-        "Photographs of the object were obtained, but the quality was poor and did not provide definitive evidence of the object's nature or origin."
-    ],
-    "result": "The case remains classified as 'unidentified' in the Project Blue Book files due to the lack of conclusive information about the observed phenomenon.",
+    "interesting points": "The object was described as a bright, metallic, disc-shaped object hovering in the sky,The sighting lasted for about 10-15 minutes before the object rapidly accelerated and disappeared,Several employees of the Oakridge facility reported the incident,The investigation was part of Project Blue Book conducted by the United States Air Force,Photographs obtained during the incident were of poor quality and did not provide definitive evidence.",
     "sighted object": "a bright, metallic, disc-shaped object",
-    "location": "Oakridge, Tennessee",
-    "witnesses": "several employees of the Oakridge facility",
-    "photographs": "yes, but the quality was poor and did not provide definitive evidence"
+    "location": "Oakridge, Tennessee, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "employees of the Oakridge facility",
+    "contains photographs": false
 }

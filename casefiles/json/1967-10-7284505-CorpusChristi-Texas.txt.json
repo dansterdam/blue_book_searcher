@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observer sighted two shiny disc-shaped objects near Corpus Christi, Texas on October 18, 1967.",
-    "interesting points": [
-        "The objects were described as ruby red in color, approximately 6 feet in diameter, and hovering about 50 feet off the ground around 1/4 mile away.",
-        "The objects shot straight up and disappeared from sight within 2 seconds, which the observer said happened so fast they could barely keep them in sight.",
-        "The area was checked with a Geiger counter and no increase in radiation was detected. All vegetation in the area appeared normal.",
-        "A Form 117 was sent to the observer but it was not returned.",
-        "The report mentions minor inversions at 1,000 feet in the weather conditions."
-    ],
-    "result": "insufficient data",
+    "main event": "On 18 October 1967, two shiny discs were observed hovering approximately 50 feet off the ground in Corpus Christi, Texas.",
+    "interesting points": "The observer sighted a ruby red object approximately 6 feet in diameter., The objects were observed hovering about 1/4 mile away., After about 5 minutes, the objects shot straight up and were lost to sight within 2 seconds., No physical evidence was reported and a Geiger counter showed no increase in radiation., A Form 117 was sent to the observer but it was not returned.",
     "sighted object": "two shiny discs",
-    "location": "Corpus Christi, Texas",
-    "witnesses": "1 observer",
-    "photographs": "none"
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer described the objects as shiny and ruby red.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Several Air Force personnel observed two or three smaller green balls with red and yellow tails performing irregular maneuvers in the sky over Temple, Texas on April 2, 1952.",
-    "interesting points": [
-        "The objects dropped or released two or three smaller balls that turned out.",
-        "The sighting was also observed from Evant, Stephenville, and Temple-Heiging from the air.",
-        "A large fireball was seen in the area during the sighting.",
-        "The objects moved in a straight and level manner.",
-        "The sighting lasted for 10-15 seconds."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "two or three smaller green balls with red and yellow tails",
-    "location": "Temple, Texas",
-    "witnesses": "15 Air Force personnel",
-    "photographs": "no"
+    "main event": "On April 2, 1952, 15 AF personnel observed 2 or 3 smaller balls associated with a large fireball in Temple, Texas.",
+    "interesting points": "The observation was made at 2015 CST,The larger fireball had a green body with a red and yellow tail,The smaller balls were seen to drop from the larger fireball,The sighting lasted for 10-15 seconds,Similar sightings were reported from nearby locations including Evant and Stephenville.",
+    "sighted object": "2 or 3 smaller balls and a large fireball",
+    "location": "Temple, Texas, USA",
+    "number of confirmed witnesses": 15,
+    "witness description": "15 AF personnel",
+    "contains photographs": false
 }

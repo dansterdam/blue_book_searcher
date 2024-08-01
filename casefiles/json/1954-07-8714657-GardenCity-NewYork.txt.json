@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three unidentified flying objects were sighted in the sky over Garden City, New York on July 10, 1954.",
-    "interesting points": [
-        "The objects were described as regular aircraft-like in appearance, about 40 feet long and made of aluminum, but were silent and exhibited erratic, climbing and descending flight patterns.",
-        "The objects were observed for about 20 seconds, but the witness stated they were likely visible for over a minute.",
-        "The objects were faster than jet aircraft and their altitude and course changed erratically.",
-        "The witness was certain the objects were not conventional aircraft and could only be described as 'flying saucer type objects'.",
-        "The objects emitted a bright white light and had a 'flat or disc-like shaped' appearance, estimated to be about 50 feet in diameter."
-    ],
-    "result": "unexplained",
+    "main event": "Three unidentified flying objects were observed in Garden City, New York on July 10, 1954, exhibiting irregular and erratic flight patterns.",
+    "interesting points": "The sighting lasted for about 20 seconds, with the objects climbing and descending at steep angles., The objects were described as regular aircraft, about 40 feet long, and aluminum in color., They exhibited faster speeds than jets and erratic flight movement., The observer noted the objects emitted no sound during the sighting., The report included comments that the objects did not resemble any conventional aircraft.",
     "sighted object": "three unidentified flying objects",
-    "location": "Garden City, New York",
-    "witnesses": "civilian witness",
-    "photographs": "no"
+    "location": "Garden City, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported seeing the objects alone in the vicinity while commuting to work.",
+    "contains photographs": false
 }

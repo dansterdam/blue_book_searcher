@@ -1,15 +1,9 @@
 {
-    "main event": "The observer saw a bright light that resembled a star. The object then turned red and then turned white. No sound was heard.",
-    "interesting points": [
-        "The observer was driving a car when they saw the object.",
-        "The object was observed for about 2.5 hours.",
-        "The object appeared to be brighter than a plane.",
-        "The object turned red, then turned white.",
-        "The observer could not estimate the speed or distance of the object."
-    ],
-    "result": "possible (astronomy)",
+    "main event": "An observer driving a car in Milwaukee, Wisconsin, witnessed a bright light resembling a star that changed colors from red to white and was silent.",
+    "interesting points": "The sighting occurred at night under clear conditions., The observer estimated the object's speed to be around 15-20,000 miles per hour., The object appeared to be about 1/2 mile to 1 mile away., The observer described the object as having a star-like appearance and compared its brightness to that of a plane., The observer did not have any other witnesses with them at the time of the sighting.",
     "sighted object": "a bright light that resembled a star",
-    "location": "Milwaukee, Wisconsin",
-    "witnesses": "1 observer",
-    "photographs": "no photographs included"
+    "location": "Milwaukee, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 14-year-old male observer",
+    "contains photographs": false
 }

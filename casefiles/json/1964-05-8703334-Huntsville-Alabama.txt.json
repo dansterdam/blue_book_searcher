@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground radar tracked three unidentified objects over Huntsville, Alabama for 8-10 minutes on May 9, 1964.",
-    "interesting points": [
-        "The objects were initially thought to be landing lights, but the data presented conflicted with the stated lighting conditions.",
-        "The objects were tracked moving north at an estimated speed of around 35 mph.",
-        "The objects were estimated to be around a little over half a mile away from the observer.",
-        "The witness reported the brightness of the objects was unusually intensified and projected an intense white light.",
-        "The objects appeared to disappear behind a cloud at one point during the sighting."
-    ],
-    "result": "unexplained",
+    "main event": "Three unidentified objects were observed in Huntsville, Alabama, on May 9, 1964, for a duration of 8-10 minutes.",
+    "interesting points": "The objects were tracked using ground radar, measurements estimated their speed to be about 35 mph, the objects were thought to be landing lights but appeared to be in conflict with the stated condition of lighting, the objects were moving north during the observation, further analysis was requested by the Air Force regarding changes in the objects' light.",
     "sighted object": "three unidentified objects",
-    "location": "Huntsville, Alabama",
-    "witnesses": "ground radar operators",
-    "photographs": "no"
+    "location": "Huntsville, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a 14-year-old male who reported the sighting.",
+    "contains photographs": false
 }

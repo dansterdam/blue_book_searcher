@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "A bright, metallic, circular object approximately 25-30 feet in diameter with a red light in the center was observed by a Lt Col pilot near Blytheville Air Force Base in Arkansas on January 7, 1964.",
-    "interesting points": [
-        "The object was observed for approximately 4-5 minutes at an estimated altitude of 3,000-4,000 feet.",
-        "The object moved in a jerky, irregular manner and at one point appeared to hover momentarily.",
-        "The object accelerated to a very high rate of speed, covering approximately 8 miles in 4-5 seconds.",
-        "The object was clearly visible to the pilot, who was a experienced aviator, and was also observed on the Blytheville AFB control tower radar scope.",
-        "The observer is considered to be a reliable and credible individual with an extensive background in aviation."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, metallic, circular object with a red light in the center",
-    "location": "Near Blytheville Air Force Base, Arkansas",
-    "witnesses": "Lt Col pilot",
-    "photographs": "none"
+    "main event": "A sighting of bright objects believed to be ECHO satellites over the Pacific Ocean on January 29, 1964.",
+    "interesting points": "The objects were observed for a duration of 9 minutes,They appeared very bright with high fading glows,The objects were seen moving at a speed of two per minute,The objects were thought to be ECHO satellites although later evaluated as an unknown flight,The sighting took place at a specific coordinate in the Pacific Ocean.",
+    "sighted object": "bright objects in the sky",
+    "location": "Pacific, Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "observed by a trained observer",
+    "contains photographs": false
 }

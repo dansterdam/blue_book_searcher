@@ -1,15 +1,9 @@
 {
-    "main event": "A bright object was observed for 1 second at high altitude with tremendous speed, believed to be a meteor.",
-    "interesting points": [
-        "The object was very bright and had tremendous speed at a very high altitude.",
-        "The sighting lasted for 1 second.",
-        "The object was believed to be a meteorite.",
-        "The sighting was reported through the Electrical Report from the Centennial Ranger Station in the Medicine Bow area.",
-        "The report was addressed to the Directorate of Intelligence: U.F.O.B."
-    ],
-    "result": "Likely a meteor",
-    "sighted object": "A bright, fast-moving object at high altitude",
-    "location": "Centennial Ranger Station, Medicine Bow area",
-    "witnesses": "District 22/283207 DEC RJUPGU",
-    "photographs": "No photographs present"
+    "main event": "An object believed to be a meteor was sighted at Centennial Ranger Station on December 8, 1957.",
+    "interesting points": "The sighting lasted for only 1 second., The object was very bright and at a very high altitude., The object had tremendous speed., The report includes comments suggesting it could have been a balloon or aircraft., The conclusion is that it was probably an astronomical meteor.",
+    "sighted object": "very bright object moving at high speed",
+    "location": "Centennial, Medicine Bow, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "sighting made by a district official",
+    "contains photographs": false
 }

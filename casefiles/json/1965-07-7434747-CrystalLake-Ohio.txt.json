@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A metallic disk-shaped object was sighted hovering and then accelerating out of sight over Crystal Lake, Ohio on July 16, 1965.",
-    "interesting points": [
-        "The object had a bright luminous edge.",
-        "The object hovered momentarily before accelerating out of sight.",
-        "The sighting lasted for approximately 30 seconds.",
-        "The witness was able to determine the time and location of the sighting.",
-        "The witness was unable to estimate the speed or distance of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "metallic disk-shaped object",
-    "location": "Crystal Lake, Ohio",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A sighting of a metallic disk-shaped object with a bright luminous edge hovering in Crystal Lake, Ohio.",
+    "interesting points": "The observation lasted approximately 30 seconds,The object hovered momentarily before it accelerated out of sight,No physical evidence was collected,The conclusion of the report suggests it was under control,The report does not contain any photographs.",
+    "sighted object": "a metallic disk-shaped object",
+    "location": "Crystal Lake, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

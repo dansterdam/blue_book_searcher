@@ -1,15 +1,9 @@
 {
-  "main event": "The documents contain multiple UFO sightings reported in various locations between 1947 and 1950, with some sightings being explained as publicity stunts or movie props.",
-  "interesting points": [
-    "One sighting in Montana in 1950 was identified as a publicity stunt for the movie 'The Flying Saucer.'",
-    "Several sightings were attributed to natural phenomena such as meteors or fireballs.",
-    "There were instances where sightings were found to be hoaxes or unreliable reports.",
-    "An aluminum disc with purple plastic was found in a cornfield in Michigan, and it was identified as a radio transcription disc from a local radio station.",
-    "Some sightings were labeled as aircraft, balloons, or birds, suggesting a range of prosaic explanations for the reported UFOs."
-  ],
-  "result": "The majority of the sightings were identified as natural or man-made objects, hoaxes, or unreliable reports.",
-  "sighted object": "Various unidentified flying objects (UFOs) reported between 1947 and 1950",
-  "location": "Multiple locations including Michigan, Alaska, New York, Virginia, Florida, California, Arizona, and more",
-  "witnesses": "Public observers, soldiers, newspaper reporters, and military personnel",
-  "photographs": "No, the reports do not mention the presence of photographs of the observed objects"
+    "main event": "On 31 May 1949, two objects resembling radio transcription discs were found in a cornfield in Parma, Michigan.",
+    "interesting points": "The objects were discovered sticking three inches into the ground,One object had a piece of purple colored plastic attached to it,The investigation concluded that the objects were likely radio transcription discs used by a local radio station,There was no photographic evidence provided in the report,The sighting was reported by a civilian source and involved local news.",
+    "sighted object": "two aluminum discs",
+    "location": "Parma, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who found the objects while farming.",
+    "contains photographs": false
 }

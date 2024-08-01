@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A man in Little Rock, Arkansas observed a bright, round, luminous object hovering in the sky for approximately 10 minutes on September 6, 1952.",
-    "interesting points": [
-        "The object was about the size of a dime held at arm's length and was a brilliant white in color.",
-        "The object appeared to be hovering at an estimated altitude of 10,000 to 15,000 feet.",
-        "No sound was heard and no trail or exhaust was visible, and the object did not appear to be an aircraft, balloon, or any known type of aerial vehicle.",
-        "The observer's testimony is considered reliable and the report is deemed credible.",
-        "The object observed is classified as an UNIDENTIFIED FLYING OBJECT."
-    ],
-    "result": "unexplained",
+    "main event": "Robert G. Waldron, Jr. observed a bright, round, luminous object hovering in the sky near Little Rock, Arkansas on September 6, 1952.",
+    "interesting points": "The object was observed through the window of an automobile while driving,The object was described as round and silvery-grey, larger than an ordinary airplane,It appeared to be stationary and was visible for about 10 minutes,The observer reported the sighting to Air Force Intelligence,No sound was heard from the object and it did not resemble any known aerial vehicle.",
     "sighted object": "a bright, round, luminous object",
-    "location": "Little Rock, Arkansas",
-    "witnesses": "Robert G. Waldron, Jr.",
-    "photographs": "yes, the report includes 2 photographs"
+    "location": "Little Rock, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Robert G. Waldron, Jr., observed the object while driving.",
+    "contains photographs": true
 }

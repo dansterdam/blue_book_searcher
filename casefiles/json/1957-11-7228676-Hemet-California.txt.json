@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian in Hemet, California spotted an object with a flame colored tail traveling slowly from east to west in November 1957.",
-    "interesting points": [
-        "The object looked to be around 4 feet long and 1.5 feet wide, slightly tapered in the front.",
-        "There was a distinct line between the light part and the flame colored tail of the object.",
-        "The object was traveling at a moderate speed and was not high up, around 1/3 of the way from the skyline.",
-        "The witness was driving home around 5:30 PM and had a clear view of the object.",
-        "The report states the data is inconclusive and the object was possibly just an aircraft."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "one object with a flame colored tail",
-    "location": "Hemet, California",
-    "witnesses": "civilian witness",
-    "photographs": "no photographs present"
+    "main event": "An unidentified flying object with a flame-colored tail was observed traveling slowly over Hemet, California on 2 November 1957.",
+    "interesting points": "The object measured approximately 4 feet long and 1 ½ feet wide,The tail had a distinct flame color visible,The object's flight path was westward,Observation was made by a civilian,Insufficient data led to inconclusive evaluation about the object's nature.",
+    "sighted object": "one object with a flame-colored tail",
+    "location": "Hemet, California, U.S.",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer near the area",
+    "contains photographs": false
 }

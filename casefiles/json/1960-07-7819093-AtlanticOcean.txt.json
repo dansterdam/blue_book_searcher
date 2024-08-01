@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-  "main event": "An object was observed moving in a straight line across the sky over the Atlantic Ocean.",
-  "interesting points": [
-    "The object appeared to be rotating.",
-    "The object was visible for about 15-20 seconds.",
-    "The report mentions discrepancies in the crew and passenger's accounts.",
-    "The report provides a limited estimate of the object's approach.",
-    "The incident is only briefly mentioned in the contents of the general report."
-  ],
-  "result": "unexplained",
-  "sighted object": "one rotating object",
-  "location": "Atlantic Ocean",
-  "witnesses": "air crew and passengers",
-  "photographs": "none"
+    "main event": "An unidentified object was observed moving in a straight line across the sky in the Atlantic Ocean.",
+    "interesting points": "The observation lasted for about 15-20 seconds,The object appeared to be rotating during the observation,The sighting was recorded at 1735Z on July 6, 1956,The weather conditions allowed for average visibility during the observation,Only one object was confirmed during the sighting.",
+    "sighted object": "an unidentified flying object",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "ground visual observation",
+    "contains photographs": false
 }

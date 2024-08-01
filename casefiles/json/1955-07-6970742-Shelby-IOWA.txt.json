@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A group of observers reported seeing a flashing, multicolored object that appeared to remain stationary in the sky over Shelby, Iowa on July 30, 1955.",
-    "interesting points": [
-        "The object appeared to be the size of a quarter penny at arm's length.",
-        "The object was seen by several witnesses, including a cashier from the Farmer's Savings Bank and an accountant from the City Seal Co. in Omaha, Nebraska.",
-        "A pilot flying in the area reported that he could not see the object.",
-        "When the film taken of the object was developed, nothing showed up.",
-        "The report suggests the sighting may have been caused by a balloon, possibly a rawindsonde released by an Air Force weather station."
-    ],
-    "result": "unexplained, possibly a balloon",
-    "sighted object": "a flashing, multicolored object",
-    "location": "Shelby, Iowa",
-    "witnesses": "a group of observers, including a cashier and an accountant",
-    "photographs": "yes, but the film did not show anything when developed"
+    "main event": "On July 30, 1955, an unidentified object was sighted in Shelby, Iowa, appearing as a red, white, and green flashing light.",
+    "interesting points": "The object was observed to be the size of a quarter penny at arm's length,The object remained stationary during the sighting which lasted approximately 2-3 minutes,A pilot flying over the area reported seeing nothing unusual,An investigation was authorized despite the lack of photographs taken,Experts considered multiple explanations including a balloon, aircraft, or astronomical phenomenon as potential causes.",
+    "sighted object": "flashing light in the sky",
+    "location": "Shelby, Iowa, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "A group of observers including local residents and a Navy veteran.",
+    "contains photographs": false
 }

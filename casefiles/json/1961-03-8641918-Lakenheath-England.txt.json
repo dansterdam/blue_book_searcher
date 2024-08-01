@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was observed falling towards the earth, burning bright blue and white and giving off red sparks, near Lakenheath, England.",
-    "interesting points": [
-        "The object was observed by an AWS (Air Weather Service) observer.",
-        "The object was falling from west to east, approximately 23-25 miles away.",
-        "The object was burning bright blue and white, and giving off red sparks.",
-        "The observation lasted for approximately 60 seconds.",
-        "The report concludes that the object could have been a meteor, an aircraft, or an astronomical phenomenon, but the cause is unknown."
-    ],
-    "result": "unknown",
-    "sighted object": "a falling object burning bright blue and white and giving off red sparks",
+    "main event": "An observation of a falling object towards the earth burning bright blue and making a hissing sound on 14 Mar 61.",
+    "interesting points": "The object was observed for 60 seconds as it fell towards earth., The object was described as bright blue and giving off sparks., Witnesses made no specific mention of the object's trajectory or altitude., The report speculates that it may have been a meteor, aircraft, or astronomical object., Detailed coordinates suggest the object was approximately 23-25 miles away from the observer.",
+    "sighted object": "one falling object burning bright blue",
     "location": "Lakenheath, England",
-    "witnesses": "an AWS observer",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "AWS observer",
+    "contains photographs": false
 }

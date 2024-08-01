@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted on September 3, 1952 in Tucson, Arizona.",
-    "interesting points": [
-        "The object was described as elliptical in shape and emitting a bright, pulsating glow.",
-        "The object was visible for approximately 3 to 5 minutes and was reported to be very high in the sky and moving very rapidly.",
-        "The object was approximately one-half the size of the moon and was located north of the center of Tucson at an elevation of around 45 degrees.",
-        "Aircraft in the area were checked, but none could be identified as matching the description of the sighted object.",
-        "The sighting was investigated, and it was determined that the object could not be identified."
-    ],
-    "result": "unknown",
-    "sighted object": "an unidentified elliptical object with a bright, pulsating glow",
-    "location": "Tucson, Arizona",
-    "witnesses": "George Fawcett and his daughter",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted on September 3, 1952, in Tucson, Arizona, described as elliptical with a bright glow.",
+    "interesting points": "The object was reported to be approximately one-half the size of the moon., It was visible for about 3 to 5 minutes., The sighting was made by three persons, including George Fawcett and his daughter., Aircraft in the area were checked and none matched the object's description., The object exhibited tremendous speed during the observation.",
+    "sighted object": "an elliptical object emitting a bright, pulsating glow",
+    "location": "Tucson, Arizona, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "George Fawcett and his daughter",
+    "contains photographs": false
 }

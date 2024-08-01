@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian reported an unidentified object 30 miles west of Lovelock, Nevada on 3rd December 1947.",
-  "interesting points": [
-    "The object was observed at 1225 PST and was at an altitude of 1200' to 13000'.",
-    "The sighting lasted for 10-15 seconds and was reported during an automobile observation.",
-    "No sound or maneuvers were reported for the unidentified object.",
-    "No photographs or sketches were included in the report.",
-    "The ATIC Form 329 indicates that the incident was unclassified."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified object",
-  "location": "Lovelock, NV",
-  "witnesses": "Civilian",
-  "photographs": "no"
+    "main event": "A UFO was observed 30 miles west of Lovelock, Nevada for 10-15 seconds on December 3, 1947.",
+    "interesting points": "The sighting occurred at 12:25 PST., The altitude of the object was between 1200 and 13000 feet., The report originated from a civilian source., No maneuvers were noted during the observation., The report does not contain any photographs or sketches.",
+    "sighted object": "unknown flying object",
+    "location": "Lovelock, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "On March 24th, 1957, a report documented round objects of bluish-green color climbing and disappearing gradually over a 6-minute observation period, with a possible weather balloon explanation.",
-  "interesting points": [
-    "The observation lasted for 6 minutes, allowing for a detailed study of the behavior of the objects.",
-    "The objects were described as round and of bluish-green color, which is unusual for typical aircraft or astronomical objects.",
-    "The possible weather balloon explanation indicates the attempt to find a prosaic explanation for the sighting.",
-    "The report mentions the use of binoculars for ground visual observation, indicating a serious attempt at data collection.",
-    "Despite the detailed observation, there was deemed to be insufficient data for evaluation, highlighting the mysterious nature of the event."
-  ],
-  "result": "Possibly Balloon",
-  "sighted object": "Round objects of bluish-green color",
-  "location": "Unknown",
-  "witnesses": "Tower Operator and Air Force personnel",
-  "photographs": "No"
+    "main event": "Round objects of bluish-green color observed climbing for 6 minutes on March 24, 1957.",
+    "interesting points": "The objects were observed by multiple reliable military personnel including tower operators and airmen., The sighting involved a ground-radar source., The conclusion suggested they could be a weather balloon due to appearance, course, and speed., The observation lasted for a total of 6 minutes., The specific colors and descriptions of the objects were noted in the report.",
+    "sighted object": "round bluish-green objects",
+    "location": "Bartlesville, Oklahoma, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "tower operators and airmen from the 796 ACMW SQ, considered very reliable",
+    "contains photographs": false
 }

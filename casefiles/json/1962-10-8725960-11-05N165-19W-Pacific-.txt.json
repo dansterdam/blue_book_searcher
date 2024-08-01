@@ -1,15 +1,9 @@
 {
-    "main event": "A naval vessel detected an object with starlike characteristics but moving at great speed overhead.",
-    "interesting points": [
-        "The object was detected at a high altitude and was moving very rapidly.",
-        "The object passed rapidly overhead at a great height, with an initial bearing of 205-215 degrees (true) and a distance of 30-40 miles.",
-        "The visibility was clear, with 5 point seas and 5/10 cloud coverage.",
-        "The report was classified as MERIT-UFO, suggesting it was considered a potentially unidentified flying object.",
-        "The report was sent to various naval and military organizations, including the Defense Intelligence Agency (DIA)."
-    ],
-    "result": "unexplained",
-    "sighted object": "an object with starlike characteristics but moving at great speed",
-    "location": "at sea, 11-55N 165-19W (Pacific)",
-    "witnesses": "crew of the USS Lansing (DER 388)",
-    "photographs": "no"
+    "main event": "An object with starlike characteristics was detected moving rapidly overhead on 5 October 1962.",
+    "interesting points": "The object appeared on radar indicating it was high in the atmosphere., The sighting was reported by the USS Lansing (DER 388)., The initial bearing of the object was between 205-215 degrees., The distance from the observer was estimated to be 30-40 miles., Various conclusions were drawn suggesting it could have been a balloon, aircraft, or satellite based on insufficient data.",
+    "sighted object": "object having starlike characteristics",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "USS Lansing crew",
+    "contains photographs": false
 }

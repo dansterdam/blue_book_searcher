@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person in Elyria, Ohio reported seeing a large, bright object with colored lights revolving around the center in the sky on March 20, 1966.",
-    "interesting points": [
-        "The object appeared to be several lights (red, green, and white) revolving around the center.",
-        "The object hovered briefly and then left at a high speed.",
-        "The witness called the Air Force to report the sighting, but they said there was nothing on the radar.",
-        "The witness also called a local radio station, and they provided some details about the sighting.",
-        "The witness said they had never seen anything like it before."
-    ],
-    "result": "insufficient data",
-    "sighted object": "a large, bright object with colored lights revolving around the center",
-    "location": "Elyria, Ohio",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in Elyria, Ohio, on March 20, 1966.",
+    "interesting points": "The object was described as very large with bright lights,It appeared to hover in place before leaving very quickly,The observer used binoculars to get a clearer view of the object,The object displayed several lights that were red, green, and white,The report was deemed insufficient for evaluation by the U.S. Air Force.",
+    "sighted object": "an unidentified flying object with bright lights",
+    "location": "Elyria, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who observed the object from their home.",
+    "contains photographs": false
 }

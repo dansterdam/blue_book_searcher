@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "Two illuminated objects were observed on radar, followed by two more objects of the same speed and altitude. The objects then exploded 10 miles later.",
-    "interesting points": [
-        "The objects were observed by ground radar and were visible at the same time.",
-        "A sound of a jet was heard during the sighting.",
-        "The report includes a handwritten diagram showing the path of a moving light object.",
-        "The report mentions the object having a 'bright star' appearance.",
-        "The report describes the object making an 'extremely sharp change in direction'."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "Two illuminated objects, followed by two more of the same speed and altitude",
-    "location": "Estacada, Oregon",
-    "witnesses": "Ground radar",
-    "photographs": "No"
+    "main event": "Two illuminated objects were observed on ground radar, which exploded after traveling 10 miles.",
+    "interesting points": "The observation lasted 10 minutes, The objects were followed by two additional objects at the same speed and altitude, The weather was clear during the observation, A sound of jets was heard during the sighting, The final conclusion categorized the objects as possibly being aircraft, balloons, or other unidentified phenomena.",
+    "sighted object": "two illuminated objects",
+    "location": "Estacada, Oregon, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Observed by ground radar with additional handwritten reports and documentation.",
+    "contains photographs": false
 }

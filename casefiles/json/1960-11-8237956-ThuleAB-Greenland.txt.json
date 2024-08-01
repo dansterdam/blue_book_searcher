@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light object, 20-30 feet in diameter, was observed moving at high speed over Thule Air Base in Greenland on November 15, 1969.",
-    "interesting points": [
-        "The object traveled in a straight line but occasionally stopped and hovered briefly.",
-        "The object was observed through binoculars and with the naked eye.",
-        "The object moved out of sight, with visibility reported up to 10 miles.",
-        "No sound was heard from the object.",
-        "The witness estimated the object's distance to be 5-10 miles away."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light object, 20-30 feet in diameter",
+    "main event": "A brilliant white light, 20-30 ft. in diameter, was observed moving at fairly high speed and occasionally hovering at Thule Air Base on 15 November 1969.",
+    "interesting points": "The object was observed for 3-5 minutes,The object was described as having no sound,The sighting involved both binoculars and naked eye observation,The witness estimated the object's distance at 5-10 miles,The object's movements included traveling in a straight line and moments of hovering.",
+    "sighted object": "a brilliant white light",
     "location": "Thule Air Base, Greenland",
-    "witnesses": "multiple military personnel",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness observed the light from a distance of 5-10 miles without sound.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report:
-
 {
-    "main event": "Witnesses in Las Vegas, Nevada reported seeing objects that appeared to be similar to a star, moving, stopping, and moving again in 1967.",
-    "interesting points": [
-        "The objects could not have been an aircraft according to the report.",
-        "The witness indicated the objects appeared to be moving, stopped, and then moved again, which led him to report the sighting.",
-        "The sighting lasted for 15-20 minutes.",
-        "The weather conditions at the time were clear and bright.",
-        "No photographs of the objects were taken."
-    ],
-    "result": "Possible (Astronomical)",
-    "sighted object": "objects similar to a star",
-    "location": "Las Vegas, Nevada",
-    "witnesses": "witness(es)",
-    "photographs": "no"
+    "main event": "A witness observed objects in the sky resembling stars that appeared to move, stop, and then move again over Las Vegas.",
+    "interesting points": "The objects were not identified as aircraft,The sighting lasted between 15 to 20 minutes,The weather conditions at the time were clear and bright,There was no physical evidence or photographs taken,The conclusion reached was that the objects might be astronomical.",
+    "sighted object": "unidentified objects resembling stars",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a reliable individual who reported seeing the objects moving and stopping",
+    "contains photographs": false
 }

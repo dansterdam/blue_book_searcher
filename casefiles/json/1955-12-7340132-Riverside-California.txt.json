@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A round, self-illuminated object was observed near Riverside, California, on December 24, 1955.",
-    "interesting points": [
-        "The object was initially stationary, then suddenly sped off at around 300 mph.",
-        "The object was estimated to be at an altitude of 9,000 feet.",
-        "The observation lasted for about 15 minutes before the object went towards the horizon.",
-        "Winds aloft at the time were 242 degrees at 45 miles per hour.",
-        "The sighting could not be correlated with any known air traffic."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, self-illuminated object",
-    "location": "Riverside, California",
-    "witnesses": "an assembly man for a food packing chemical company",
-    "photographs": "none"
+    "main event": "A UFO was observed in Riverside, California on December 24, 1955, initially appearing stationary before accelerating to approximately 300 mph.",
+    "interesting points": "The sighting lasted for fifteen minutes and began around 8:40 PM., The object was estimated to be at an altitude of 9,000 feet., The UFO was approximately 300 feet in size and self-illuminated., The report states that there was no correlation with known air traffic., Observations were described as ground-visual.",
+    "sighted object": "self-illuminated object",
+    "location": "Riverside, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Insufficient data for evaluation",
+    "contains photographs": false
 }

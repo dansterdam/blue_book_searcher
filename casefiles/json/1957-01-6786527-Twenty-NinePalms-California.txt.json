@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified yellow rod-shaped object was observed on radar, proceeding from east to west at a high speed and an altitude of 45 degrees off the horizon.",
-    "interesting points": [
-        "The object was tracked by ground radar for approximately 2 minutes.",
-        "The flight pattern of the object is characteristic of unidentified aerial objects under intelligent control, as well as military aircraft.",
-        "The image contains a hand-drawn sketch of several oval-shaped objects in the sky, along with some handwritten notes mentioning "Possibly GIC" and providing additional descriptions.",
-        "No photographs were present in the image.",
-        "The report appears to be a Project 10073 record card from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs) in the 1950s."
-    ],
-    "result": "unexplained",
+    "main event": "A yellow rod-shaped object was observed moving from east to west at high speed for 2 minutes in January 1957.",
+    "interesting points": "The object was tracked by ground radar.,The sighting occurred at an altitude of 45 degrees off the horizon.,The flight pattern is characteristic of unidentified aerial objects., There are comments suggesting the object was under intelligent control., There is a hand-drawn sketch of oval-shaped objects in the report.",
     "sighted object": "a yellow rod-shaped object",
-    "location": "Twenty-Nine Palms, California",
-    "witnesses": "ground radar",
-    "photographs": "no"
+    "location": "Twenty-Nine Palms, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "There is no identification of individuals, only a witness noted.",
+    "contains photographs": false
 }

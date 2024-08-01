@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers noted three objects that were traveling fast toward the horizon. The objects appeared to abruptly change direction and speed as they moved across the sky.",
-    "interesting points": [
-        "The objects were described as metallic and green, and did not seem to be aircraft.",
-        "The witnesses estimated the objects were approximately 1500 to 2000 yards away.",
-        "The witnesses did not wish to sketch the objects they saw.",
-        "The sighting was reported to the Chief Investigator at the District Control Center in June 1966.",
-        "The witness had previously contacted Lt. Col. Tacker about a promised photograph that had not been received."
-    ],
-    "result": "Aircraft",
-    "sighted object": "three metallic, green objects",
-    "location": "Cheltenham, Pennsylvania",
-    "witnesses": "multiple friends",
-    "photographs": "no"
+    "main event": "Observers noted three objects traveling fast and abruptly changing direction and speed as they moved across the sky.",
+    "interesting points": "The event occurred on 30 July 1966, at 0130Z,The location of the sighting was Cheltenham, Pennsylvania,There were three objects observed during the sighting,The conclusion by the Air Force was that the objects were aircraft,The objects did not match conventional aircraft characteristics.",
+    "sighted object": "three unidentified flying objects",
+    "location": "Cheltenham, Pennsylvania, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "The witness was 22 or 24 years old and reported seeing the objects with friends.",
+    "contains photographs": false
 }

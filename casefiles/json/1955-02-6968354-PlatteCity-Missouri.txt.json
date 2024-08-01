@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A group of 6-11 unidentified flying objects were sighted over Platte City, Missouri on February 9, 1955.",
-    "interesting points": [
-        "The objects were described as being white in color, with a yellowish tinge, and changing in number from 6 to 11 during the sighting.",
-        "The objects were observed to be changing directions, speeds, and traveling in a zig-zag manner.",
-        "The objects made sounds that were compared to the sound of refrigerating apparatus from a distance.",
-        "A telephone check with Grandview AFB confirmed that no aircraft formations were operating in the area at the time of the sighting.",
-        "The objects were observed for approximately 5 minutes before fading from view."
-    ],
-    "result": "Unknown",
-    "sighted object": "6-11 unidentified flying objects",
-    "location": "Platte City, Missouri",
-    "witnesses": "Civilians",
-    "photographs": "No"
+    "main event": "A sighting of multiple unidentified aerial objects in Platte City, Missouri on February 7, 1955.",
+    "interesting points": "The sighting involved 5 to 6 objects that changed positions several times and formed a 'Y' formation., The objects were visually compared to the size of large jet aircraft and were yellowish-white in color., They emitted a sound that was more reciprocating than a jet., The objects appeared low on the horizon and faded from sight as they climbed., A telephone check with Grandview AFB confirmed no aircraft formations at the time of the sighting.",
+    "sighted object": "5 to 6 unidentified objects changing directions",
+    "location": "Platte City, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians first noticed the objects while in a car.",
+    "contains photographs": false
 }

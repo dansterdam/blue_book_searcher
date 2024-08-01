@@ -1,15 +1,9 @@
 {
-    "main event": "A single object was sighted over Okinawa on September 28 and 29, 1960, which appeared to be the size and color of a star.",
-    "interesting points": [
-        "The object was first seen at an elevation of 15-30 degrees above the horizon, moving eastbound at 15-30 degrees per second.",
-        "The object disappeared behind a cloud bank on both occasions.",
-        "The sighting lasted for 45 seconds on September 28 and 2-3 minutes on September 29.",
-        "The report indicates the objects were likely meteors, based on the description and straight path.",
-        "The report was submitted through various military channels, including ATIC (Air Technical Intelligence Center) and PACAF (Pacific Air Forces)."
-    ],
-    "result": "probable meteors",
-    "sighted object": "a single star-like object",
-    "location": "Okinawa",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "Multiple sightings of an object resembling a star observed over two days in Okinawa.",
+    "interesting points": "The object was described as the same size and color as a star,The observation occurred at dusk on both dates,The object moved eastbound at a speed of 15-30 degrees per second,The sightings lasted for approximately 2-3 minutes,The project concluded that the objects were probably meteors based on their description.",
+    "sighted object": "one star-like object",
+    "location": "Okinawa, Japan",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witness description provided",
+    "contains photographs": false
 }

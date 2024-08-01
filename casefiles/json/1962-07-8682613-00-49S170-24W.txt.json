@@ -1,15 +1,9 @@
 {
-    "main event": "A single unidentified flying object showing a steady, white light was observed in the sky at coordinates 00-49S 170-24W.",
-    "interesting points": [
-        "The object appeared at bearing 335 degrees at an altitude of 20 degrees, traveling rapidly from north-north-east to south-south-east.",
-        "The object disappeared at bearing 120 degrees at an altitude of 15 degrees.",
-        "The sighting lasted approximately 2 minutes.",
-        "The object's movement and trajectory was consistent with a satellite, but satellite track data was not available.",
-        "The report concludes the object was of 'unknown' origin."
-    ],
-    "result": "unknown",
-    "sighted object": "a single unidentified flying object showing a steady, white light",
+    "main event": "A bright, steady white light was observed moving rapidly from east to west over a duration of 2 minutes.",
+    "interesting points": "The observation lasted only 2 minutes,The object was reported as moving very rapidly out of sight,There was no additional detail observable about the object, The sighting location was noted in coordinates, No photographs were included in the report.",
+    "sighted object": "a bright, steady white light",
     "location": "00-49S 170-24W",
-    "witnesses": "not specified",
-    "photographs": "no, the report does not include any photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses formally documented in the report",
+    "contains photographs": false
 }

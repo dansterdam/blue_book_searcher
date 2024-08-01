@@ -1,15 +1,9 @@
 {
-    "main event": "A possible satellite was observed in the Pacific Ocean on May 5, 1964 at coordinates 43.10 N 174 W.",
-    "interesting points": [
-        "The object was observed by air and reported as an air-visual sighting.",
-        "The object was traveling on a course of 060 degrees and had an intensity of a first magnitude star.",
-        "The report indicates the object may have been a satellite, but satellite schedules were not available to confirm this.",
-        "The sighting was reported through a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The sighting was evaluated as unknown, and the report was retransmitted to the CIA, DIA, and other agencies."
-    ],
-    "result": "unknown",
-    "sighted object": "one possible satellite",
-    "location": "Pacific Ocean, 43.10 N 174 W",
-    "witnesses": "military",
-    "photographs": "no"
+    "main event": "An unidentified object was observed on May 5, 1964, in the Pacific Ocean, potentially identified as a satellite in flight.",
+    "interesting points": "The observation was made using air-visual techniques,The object was observed on a course of 060 degrees,The observation was consistent with satellite activity,Satellite schedules were not available to verify the sighting,The intensity of the object was noted as comparable to a 1st magnitude star.",
+    "sighted object": "one unidentified object",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "military source",
+    "contains photographs": false
 }

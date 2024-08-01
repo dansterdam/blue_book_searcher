@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright whitish light was observed in the sky over Westfield, Massachusetts on May 8, 1962.",
-    "interesting points": [
-        "The object appeared as a bright light, brighter than the brightest stars.",
-        "The object was observed by multiple witnesses, including four young people driving in a car.",
-        "The object was described as circular in shape and sharply outlined.",
-        "There were multiple objects observed, estimated to be around 3 in number.",
-        "The objects were seen to be traveling horizontally across the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright whitish light, circular in shape",
-    "location": "Westfield, Massachusetts",
-    "witnesses": "four young people in a car",
-    "photographs": "no photographs included in the report"
+    "main event": "On March 6, 1962, witnesses observed a green light in the sky for approximately 3 to 4 minutes. The light appeared stationary at first, then moved rapidly northwest before disappearing.",
+    "interesting points": "The observation took place at approximately 7:30 p.m.,The observation was made by three witnesses, all of whom were students and aged around 15,The light was described as having no sound and being stationary before it moved,The sighting occurred in Westfield, Massachusetts,The object was reported to be very bright and visible for several minutes.",
+    "sighted object": "a green light in the sky",
+    "location": "Westfield, Massachusetts, US",
+    "number of confirmed witnesses": 3,
+    "witness description": "three students, all aged around 15",
+    "contains photographs": false
 }

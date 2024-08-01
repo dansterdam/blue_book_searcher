@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright, oval-shaped unidentified object was observed by pilots and radar operators at Ladd Air Force Base in Alaska on December 6, 1952.",
-    "interesting points": [
-        "The object traveled at extremely high speeds, up to around 600 mph, and exhibited erratic, maneuverable flight characteristics.",
-        "The object's color changed from white to red as it gained altitude, likely due to atmospheric effects.",
-        "No sound or visible means of propulsion were detected from the object.",
-        "The object was tracked by radar and visually observed for over 30 minutes before apparently descending towards the earth.",
-        "The object's behavior and performance characteristics were beyond the capabilities of any known aircraft at the time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, oval-shaped unidentified object",
-    "location": "Ladd Air Force Base, Alaska",
-    "witnesses": "pilots and radar operators",
-    "photographs": "no"
+    "main event": "An unidentified flying object was visually observed over Ladd AFB, Alaska on December 6, 1952. The object was described as a white oval shaped light that changed color and traveled at high speeds.",
+    "interesting points": "The object was reportedly moving at speeds between 3 to 600 miles per hour., The light changed color from white to red and back repeatedly., The sighting lasted approximately 30 minutes., No conventional aircraft were reported in the area at the time of the sighting., The weather conditions were night and clear, with visibility unaffected by wind.",
+    "sighted object": "a white oval shaped light that changed to red",
+    "location": "Ladd AFB, Alaska, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "The witnesses included pilot and radar observer from the F-94A aircraft, both of whom were trained military personnel.",
+    "contains photographs": false
 }

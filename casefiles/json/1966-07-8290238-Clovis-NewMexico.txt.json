@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A military observer watched a cigar-shaped object with a red-white flame color flying at an altitude of around 30,000 feet in Clovis, New Mexico on July 8, 1966.",
-    "interesting points": [
-        "The object was described as being the size of a straight pin's length and thickness.",
-        "The object was flying with its long axis parallel to the ground, moving from southwest to northeast.",
-        "The observer watched the object for about 1 minute before it disappeared in the distance to the northeast.",
-        "There were thunderstorms in the distance but the immediate area had a clear, star-filled sky.",
-        "The wind was blowing from the south and southwest at various altitudes."
-    ],
-    "result": "aircraft (possible)",
-    "sighted object": "cigar-shaped object with red-white flame color",
-    "location": "Clovis, New Mexico",
-    "witnesses": "military observer (A2C Douglas F. Hillard)",
-    "photographs": "no"
+    "main event": "An observer in Clovis, New Mexico, reported seeing a cigar-shaped object with the color of red-white flames flying through the sky on July 8, 1966.",
+    "interesting points": "The object was observed for one minute and was flying with its long axis parallel to the ground., The altitude of the object was reported to be about 30,000 feet., The observer described the object following a course from SE to NW., There was inconsistency in the exhaust, which was about five times the length of the object., The sighting occurred during a clear star-filled night with thunderstorms in the distance.",
+    "sighted object": "cigar-shaped object with red-white flames",
+    "location": "Clovis, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Douglas F. Hillard, A2C, 27th FMS, Aircraft Mechanic, reliable observer.",
+    "contains photographs": false
 }

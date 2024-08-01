@@ -1,15 +1,9 @@
 {
-    "main event": "Various documents and reports from Project Blue Book in October 1951 describe sightings and reports of unusual flying objects in different locations.",
-    "interesting points": [
-        "One report describes a bluish-white flash that illuminated 3/4 of the horizon in the North Atlantic Ocean, with no visible object or sound, leading to speculation about its nature.",
-        "A handwritten document reported a high-speed metallic craft with no visible propulsion or wing formation, describing a strange occurrence.",
-        "A status report mentions a 'strange object' observed in Lenoir City, Tennessee with no further investigation.",
-        "Another report details a bright yellowish flash on the horizon without conclusive findings or explanations.",
-        "A 'Disposition Form' from the United States Air Force records the forwarding of a letter concerning an unusual flying object for information and retention."
-    ],
-    "result": "unexplained",
-    "sighted object": "Various unusual flying objects including bluish-white flash, metallic craft, and bright yellowish flash.",
-    "location": "North Atlantic Ocean, Lenoir City, TN, Cash 15'N",
-    "witnesses": "Various witnesses including scientists, civilians, and members of the Air Force",
-    "photographs": "no"
+    "main event": "On 7 Oct 1951, a bright bluish-white flash was observed in the North Atlantic Ocean at approximately 25,000 feet.",
+    "interesting points": "The flash illuminated about 3/4 of the horizon for 1-2 seconds,No object was visually seen, and no sound was heard during the event,Speculation arose about the flash possibly being an unusual aircraft, but no definitive conclusions were reached,The phenomenon may have been associated with unusual atmospheric conditions,The sighting was part of a larger investigation by Project Blue Book.",
+    "sighted object": "an unusual flash of light",
+    "location": "Lenoir City, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Holland described a strange flying saucer in his letter.",
+    "contains photographs": false
 }

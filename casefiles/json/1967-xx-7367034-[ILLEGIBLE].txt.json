@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Witnessed an unidentified flying object in Columbus, Ohio on September 6, 1967.",
+    "interesting points": "The object was observed for approximately 20 minutes by multiple witnesses., The object was seen through binoculars and appeared similar to the bottom of a spaceship with cracks in its surface., Witnesses reported the object's pulsating light reminiscent of a lightning bug., Observers included a man walking his dog and a father and son with telescopes., The Air Force followed up with Mr. [REDACTED] to complete further observation forms.",
+    "sighted object": "an unidentified flying object described as having a pulsating light",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Various local residents including Mr. [REDACTED] and his neighbors",
+    "contains photographs": false
 }

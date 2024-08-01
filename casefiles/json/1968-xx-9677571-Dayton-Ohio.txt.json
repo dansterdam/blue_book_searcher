@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A sighting of unidentified phenomena that occurred on February 13, 1968 at around 6:45 AM.",
-    "interesting points": [
-        "The sighting lasted for approximately 3 hours and 30 minutes.",
-        "The observer was on a location that was not specified, but they provided a sketch and trigonometric information related to the sighting.",
-        "There were multiple phenomena observed, but the exact number was not provided.",
-        "The observer stated that the phenomena moved in a straight line, changed brightness, and changed shape.",
-        "The observer was asked to provide additional details about how the phenomena finally disappeared and if it moved behind or in front of anything during the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified aerial phenomena",
-    "location": "unknown",
-    "witnesses": "single observer",
-    "photographs": "none"
+    "main event": "A report documenting a sighting of unidentified flying objects on 19 October 1959.",
+    "interesting points": "The report is a scanned page from the Project Blue Book, a U.S. Air Force program for investigating UFOs., The document requests additional information from the witness to support a scientific investigation., There are multiple sections in the report asking for specific details about the observation., The report mentions satisfaction with the response to the unidentified flying objects sighted., The report implies that further investigation is required due to insufficient information provided.",
+    "sighted object": "unidentified flying objects",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified, witness details are likely needed from the form.",
+    "contains photographs": false
 }

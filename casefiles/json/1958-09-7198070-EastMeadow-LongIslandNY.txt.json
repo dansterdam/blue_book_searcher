@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A white, round object was observed moving erratically in the sky over East Meadow, Long Island, New York on September 16, 1958.",
-    "interesting points": [
-        "The object was described as 15 inches long, very high and very bright.",
-        "The object moved with rapid and erratic movements, appearing and disappearing six times.",
-        "The object was surrounded by a white vapor or 'steam-like' appearance.",
-        "The observer was at home when the object was sighted, and the weather conditions were described as cloudy with no stars.",
-        "The report includes several meteorological details such as wind speed and cloud cover at various altitudes."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "One round, white object",
-    "location": "East Meadow, Long Island, New York",
-    "witnesses": "One observer",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "One round, white object, 15 inches long, very high and bright, was observed moving rapidly and erratically before disappearing.",
+    "interesting points": "The observation lasted for about 5 minutes., The object disappeared and reappeared six times., The object's course was westward., The object was surrounded by white vapor resembling steam., Possible explanations for the sighting include balloon, satellite, aircraft, astronomical phenomena, or ground light reflection from haze layer.",
+    "sighted object": "one round white object",
+    "location": "East Meadow, Long Island, N.Y.",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer at home when the object was sighted",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, comet-like object was sighted at Thule Air Base in Greenland on September 3, 1953.",
-    "interesting points": [
-        "The object was estimated to have an elevation of less than 10 degrees.",
-        "The object appeared from the east-southeast and disappeared to the west.",
-        "The sighting lasted for approximately 35 seconds.",
-        "The report indicates that the object was a 'bright comet-like object' that was presumably a 'Moondust' sighting.",
-        "The report was received at 2411Z on September 24, 1953."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, comet-like object",
-    "location": "Thule Air Base, Greenland",
-    "witnesses": "military personnel at Thule Air Base",
-    "photographs": "no"
+    "main event": "Sighting of a vertical solid black object observed at Thule AB, Greenland on 5 Sep 1960.",
+    "interesting points": "The object was observed at an estimated elevation of 10-15 degrees and was less than 100 ft away,No sound was reported during the observation, The sighting lasted approximately 4 minutes, Investigation into the sighting was deemed inconclusive, This event was documented under the USAF's Project Blue Book.",
+    "sighted object": "vertical solid black object",
+    "location": "Thule AB, Greenland",
+    "number of confirmed witnesses": 0,
+    "witness description": "locals",
+    "contains photographs": false
 }

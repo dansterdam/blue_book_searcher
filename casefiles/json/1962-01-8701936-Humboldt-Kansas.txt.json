@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed an unidentified object in the sky near Humboldt, Kansas on January 6, 1961.",
-    "interesting points": [
-        "The object appeared circular in shape and emitted a pinkish orange glow, about the size of a large automobile.",
-        "The object remained stationary and silent for about 1 hour and 45 minutes.",
-        "When the object began to move, it accelerated rapidly and disappeared from sight within 10-12 seconds.",
-        "The USAF investigated the case and concluded it was a weather inversion, but the witness remained unconvinced.",
-        "A separate document describes an observation of what was thought to be a satellite decay, which was concluded to be a meteor."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular, glowing object",
-    "location": "Humboldt, Kansas", 
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "On January 6, 1961, an observer witnessed a circular object emitting a pinkish orange glow northwest of Humboldt, Kansas.",
+    "interesting points": "The object hovered above a pasture for about one hour and 45 minutes,The object appeared to be the size of a large automobile,The observer saw the object accelerate rapidly and disappear in 10 to 12 seconds,The USAF investigated the sighting and attributed it to weather inversion,The witness remains unconvinced by the official explanation.",
+    "sighted object": "a circular object emitting a pinkish orange glow",
+    "location": "Humboldt, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as hover and emitting a pinkish orange glow, and as large as a car.",
+    "contains photographs": false
 }

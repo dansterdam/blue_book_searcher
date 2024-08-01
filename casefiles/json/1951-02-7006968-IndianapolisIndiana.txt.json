@@ -1,15 +1,9 @@
 {
-    "main event": "A disc-shaped object clipped from a magazine was reported as a UFO sighting in Indianapolis, Indiana on February 7, 1951.",
-    "interesting points": [
-        "The sighting was reported to Project Blue Book, the official U.S. Air Force program that investigated UFO sightings.",
-        "The report card indicates that a photograph was taken, but it is not included in the image provided.",
-        "The report card lists various other UFO sightings and observations from March through July 1951 across different locations in the United States.",
-        "Some of the sightings were evaluated as being caused by natural phenomena like meteors or flares, while others were listed as 'unidentified'.",
-        "The document suggests that the U.S. Air Force was actively investigating and documenting UFO sightings during this time period."
-    ],
-    "result": "Unidentified",
-    "sighted object": "Disc-shaped object clipped from a magazine",
-    "location": "Indianapolis, Indiana",
-    "witnesses": "Civilian",
-    "photographs": "Yes, but not included in the image"
+    "main event": "A UFO sighting report was filed on 02/07/51 in Indianapolis, Indiana.",
+    "interesting points": "The sighting involves 1 unidentified flying object reported by a civilian,The document is part of the historical Project Blue Book program, which investigated UFOs,The report references a disc of aircraft clipped from a magazine,Photos were taken but are not present in the document,The observation length and course of the object were not detailed.",
+    "sighted object": "1 unidentified flying object",
+    "location": "Indianapolis, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

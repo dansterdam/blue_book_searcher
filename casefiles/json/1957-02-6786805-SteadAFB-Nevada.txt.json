@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two UFOs were observed on radar and visually at Stead AFB, Nevada on February 14, 1957.",
-    "interesting points": [
-        "One UFO had a flat, oval shape the size of a dime at arm's length, with a blue center, green ring, and red flashing light.",
-        "The UFO appeared to be two saucer shapes placed face-to-face and was stationary for about 5 minutes before shooting off towards the horizon extremely fast.",
-        "Binoculars were used to observe the UFO, which made a bright star (Arcturus) appear out of focus, giving the impression of flashing and odd colors.",
-        "Radar contact was also made with the UFO by the Mater radar and another unidentified radar site.",
-        "The UFO sighting lasted for a total of 2 hours."
-    ],
-    "result": "unexplained",
-    "sighted object": "two flat, oval-shaped UFOs",
-    "location": "Stead AFB, Nevada",
-    "witnesses": "control tower personnel",
-    "photographs": "no photographs included in the report"
+    "main event": "A sighting of a flat, oval-shaped UFO with red flashing lights occurred at Stead AFB, Nevada on 14 February 1957.",
+    "interesting points": "The object was described as flat and oval, resembling the size of a dime at arm's length., It had a blue center and a green ring with a red flashing light that flashed at intervals of 2 to 3 seconds., The object appeared to be two saucers placed face to face., After being stationary for about 5 minutes, the object shot off towards the horizon at an extremely fast speed., The sighting lasted for approximately two hours and involved ground-radar and air-visual observations.",
+    "sighted object": "flat oval-shaped UFO with a red flashing light",
+    "location": "Stead AFB, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Control Tower Operator",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a round, white object in the sky over Ontario, Oregon on May 23, 1957.",
-    "interesting points": [
-        "The object was about the size of a large star or small planet.",
-        "The object was visible for approximately 16 minutes as it moved northeast.",
-        "The witness was located 50 feet from Highway 18 near the Snake River in Payette, Idaho.",
-        "The U.S. Weather Bureau reported clear visibility and calm winds in the area at the time.",
-        "There were no known aircraft or balloon releases reported in the area."
-    ],
-    "result": "possible satellite",
-    "sighted object": "a round, white object",
-    "location": "Ontario, Oregon",
-    "witnesses": "1 witness",
-    "photographs": "none stated"
+    "main event": "A round white object, resembling a large star or small planet, was observed in Ontario, Oregon.",
+    "interesting points": "The sighting lasted for 11 minutes., The object was visualized clearly with no sound associated., There was no known air traffic or balloon releases in the area at the time., The observation was noted as a possible satellite., The report was forwarded after a significant time lapse since the sighting.",
+    "sighted object": "a round white ball",
+    "location": "Ontario, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a resident near the Snake River",
+    "contains photographs": false
 }

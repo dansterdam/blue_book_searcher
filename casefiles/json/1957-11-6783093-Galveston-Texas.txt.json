@@ -1,15 +1,9 @@
 {
-    "main event": "A large, silvery, disc-shaped object was sighted over Galveston, Texas on September 2, 1957.",
-    "interesting points": [
-        "The object was estimated to be about 40-50 feet in diameter.",
-        "The object was observed moving rapidly, hovering, and making sudden changes in direction.",
-        "The object was observed for about 3-4 minutes before it disappeared.",
-        "The investigation revealed no physical evidence such as radar detection, independent witnesses, or unusual meteorological conditions.",
-        "The conclusion of the investigation was that the object remained unidentified."
-    ],
-    "result": "unidentified",
-    "sighted object": "large, silvery, disc-shaped object",
-    "location": "Galveston, Texas",
-    "witnesses": "Major Ralph J. Mayfield, USAFR",
-    "photographs": "no"
+    "main event": "Major Ralph J. Mayfield reported sighting a large, silvery, disc-shaped object over Galveston, Texas, on September 2, 1957.",
+    "interesting points": "The object was estimated to be about 40-50 feet in diameter,The object moved rapidly and made sudden changes in direction,He observed the object for about 3-4 minutes before it disappeared,No physical evidence such as radar detection or independent witnesses was found,The investigation concluded the sighting as unidentified.",
+    "sighted object": "large silver disc-shaped object",
+    "location": "Galveston, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major Ralph J. Mayfield, USAFR",
+    "contains photographs": false
 }

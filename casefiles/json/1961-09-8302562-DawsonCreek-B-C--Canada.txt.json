@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright saucer/dish shaped object, 4 times as bright as Jupiter, was observed traveling in an arc from south to north for 3-4 seconds.",
-    "interesting points": [
-        "The object looked like a photographic star.",
-        "The time and direction of movement would be wrong for any known aircraft or balloon in the area.",
-        "The object burst into white light at the end of the sighting.",
-        "The sighting occurred at night around 12:06 AM on September 12, 1961 near Dawson Creek.",
-        "The observer, Mr. R.S. Avence, was 38 years old and considered reliable."
-    ],
-    "result": "Unidentified",
-    "sighted object": "Bright saucer/dish shaped object",
-    "location": "Dawson Creek, Canada",
-    "witnesses": "Mr. R.S. Avence",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in San Diego, CA on September 11, 1961, appearing as a bright saucer-shaped object.",
+    "interesting points": "The object was described as four times as bright as Jupiter, The sighting lasted for only 3-4 seconds, The object traveled in an arc from south to north, It was considered a possible balloon, aircraft, or meteor but remained unidentified, Mr. R.S. Avence, a reliable observer aged 38, reported the sighting.",
+    "sighted object": "bright saucer/dish shaped object",
+    "location": "San Diego, CA, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. R.S. Avence, age 38, reliability good",
+    "contains photographs": false
 }

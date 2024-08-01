@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright hemispherical shaped light was observed during a night exercise near Fort Bragg, South Carolina.",
-    "interesting points": [
-        "The light initially appeared extremely 3 times the size of the object.",
-        "The object appeared to accelerate and the light became pointed with an elongated tail.",
-        "The light was observed to make a parabolic descent in a straight line.",
-        "The light stopped moving, as if the object had burned up.",
-        "The sighting was made by 5 other military personnel accompanying General Darby."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright hemispherical shaped light",
-    "location": "Fort Bragg, South Carolina",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A bright spherical light was observed for 3 minutes during a night exercise near Fort Bragg.",
+    "interesting points": "The light was observed descending in a parabolic trajectory,The object appeared larger than a star and emitted a bright white light,The observation was confirmed by 5 military personnel accompanying General Darby,The sighting was classified as a ground-visual observation,Initial perception suggested the object was extremely large but appeared to accelerate and elongate into a tail before stopping.",
+    "sighted object": "bright spherical light",
+    "location": "Ft. Bragg, South Carolina, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "5 other military personnel accompanying Gen. Darby",
+    "contains photographs": false
 }

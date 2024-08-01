@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A brilliant white object, smaller than the sun but larger than a star, was observed traveling in various directions over Panama City, Florida on December 14, 1953.",
-    "interesting points": [
-        "The object was observed by civilians and military personnel.",
-        "The object traveled at a ground speed of 20-30 degrees and disappeared over the horizon.",
-        "Weather forecasters who observed the object stated that it traveled in different directions due to varying winds.",
-        "The object was initially reported as an unidentified flying object, but was later concluded to be a weather balloon.",
-        "The sighting was reported and investigated as part of the U.S. Air Force's Project Blue Book, which was a program to investigate UFO sightings."
-    ],
-    "result": "weather balloon",
-    "sighted object": "a brilliant white object, smaller than the sun but larger than a star",
-    "location": "Panama City, Florida",
-    "witnesses": "civilians and military personnel",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A brilliant object, identified as a weather balloon, was observed traveling over Panama City, Florida on December 14, 1953.",
+    "interesting points": "The object was described as larger than a star and traveled too fast to be one., It appeared to change direction due to varying winds., The sighting lasted approximately 20 seconds., Weather forecasters corroborated the balloon's path over Panama City., The observation was reported by military personnel during a classified investigation.",
+    "sighted object": "large weather balloon",
+    "location": "Panama City, Florida, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "military dependents and weather forecasters",
+    "contains photographs": false
 }

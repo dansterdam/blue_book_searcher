@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A series of 5 unidentified objects were tracked by radar and observed visually over Nashua, Montana on September 13, 1960.",
-    "interesting points": [
-        "The objects were observed to 'tag along' the radar, flying an irregular and zig-zag course.",
-        "All five objects were visible both visually and on the radar scope.",
-        "The objects were described as appearing metallic and circular in shape, with a glow around the outer edge.",
-        "No sound was reported from the objects.",
-        "The objects were highly maneuverable, causing considerable disturbance and curiosity among the witnesses."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Five unidentified metallic, circular objects",
-    "location": "Southwest of Nashua, Montana",
-    "witnesses": "Thomas Smith, Director of Security, Telephone Company; Jonathan Wood, Captain 14th FIS, Pilot; Lorna Witt-Cameron, Assistant Intelligence Officer",
-    "photographs": "No photographs present in the report"
+    "main event": "A highly maneuverable metallic object was observed over Nashua, Montana on September 13, 1960.",
+    "interesting points": "The object was tracked by ground radar and visually observed for approximately 15 minutes., It was described as circular with a glow around the outer edge., The sighting took place under clear weather conditions with calm winds., Witness Thomas Smith was the Director of Security for a telephone company., Multiple military personnel corroborated the sighting with steady observations.",
+    "sighted object": "one highly maneuverable metallic circular object",
+    "location": "Nashua, Montana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Thomas Smith, Director of Security, telephone company",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A series of UFO sightings were reported over Louisiana, Arkansas, and Texas on March 6, 1963, including ground radar detections and visual observations by airline pilots.",
-    "interesting points": [
-        "The sightings were detected by ground radar and visually observed by multiple witnesses, including airline pilots.",
-        "The objects were described as bright flashes and metallic in appearance, with one report of an object being tracked on radar.",
-        "The sightings occurred in the afternoon and early evening hours, between approximately 4:30 pm and 7:23 pm local time.",
-        "The report mentions a 'NICFASUR' penetrating a 'VAKSARUK' tense at 6:38 pm UTC, indicating possible military involvement or interest in the sightings.",
-        "The report suggests that the sightings may have been related to the re-entry of a U.S. space object, but no positive correlation was found."
-    ],
-    "result": "unexplained",
-    "sighted object": "Bright flashes, metallic objects, and radar detections",
+    "main event": "A UFO sighting was reported involving multiple military pilots observing a bright flash in the sky over Louisiana, Arkansas, and Texas on March 6, 1963.",
+    "interesting points": "The event was captured through ground-radar and visual observations., The sighting included two airline pilots observing the flight validity of the area., The reported visual phenomena lasted approximately 1 minute., The sighting generated an inquiry due to its interaction with military operations., There were no confirmed correlations to space debris according to analysis.",
+    "sighted object": "bright flash or metallic object",
     "location": "Louisiana, Arkansas, Texas",
-    "witnesses": "Airline pilots, ground radar operators",
-    "photographs": "Yes, the report includes photographs"
+    "number of confirmed witnesses": 2,
+    "witness description": "airline pilots and military personnel",
+    "contains photographs": false
 }

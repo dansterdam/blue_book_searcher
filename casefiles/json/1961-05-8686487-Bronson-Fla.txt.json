@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "A small, indefinite size and shape reflection was tracked on the radar scope for 1 minute. The object appeared solid and displayed erratic motion.",
-    "interesting points": [
-        "The object was tracked on radar at the Cross City Air Force Station in Florida.",
-        "The radar operators reported that when the antenna was locked onto the target, it would start 'hunting violently' and there would be 'all kinds of interference on the scope'.",
-        "The object varied in altitude from about 5,000 feet to 16,000 feet while being tracked.",
-        "An attempt was made to photograph the object using a box camera with 620 color film, but the photos were still being processed at the time of the report.",
-        "The report requests clarification on the use of the terms 'target was locked on' and 'the antenna would start hunting violently', as well as why the object was not picked up on the search radar."
-    ],
-    "result": "unexplained",
-    "sighted object": "small, indefinite size and shape reflection on radar",
-    "location": "Bronson, Florida",
-    "witnesses": "radar operators at Cross City Air Force Station",
-    "photographs": "yes, attempt made but not yet available"
+    "main event": "An unidentified flying object was tracked on radar for 1 minute, displaying erratic motion and appearing solid.",
+    "interesting points": "The object was detected on ground radar but lost on a separate radar scope., The duration of observation was only 1 minute., Observers described the object having an indefinite size and shape., Conclusions included radar lock-on and possible satellite identification., The object varied in altitude from about 5000 feet to 16000 feet during tracking.",
+    "sighted object": "undefined radar reflection",
+    "location": "Bronson, Florida, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Observers included both military personnel and civilians, with reliability deemed above suspicion.",
+    "contains photographs": false
 }

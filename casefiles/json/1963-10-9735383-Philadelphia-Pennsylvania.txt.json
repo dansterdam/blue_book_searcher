@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four bright, flashing white objects were observed maneuvering quickly over Philadelphia, Pennsylvania in October 1963.",
-    "interesting points": [
-        "The objects were described as flashing on and off and moving at high speeds.",
-        "The objects made an 'instantaneous stop' at one point during the sighting, according to the radar report.",
-        "The estimated speed of the objects was between 45-60 mph based on various observed factors.",
-        "The witness was unable to take any photographs of the objects.",
-        "The Air Force requested additional details from the witness to further evaluate the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "four bright, flashing white objects",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs were taken"
+    "main event": "On October 6, 1963, there was a UFO sighting in Philadelphia, Pennsylvania, where 4 bright white objects flashed on and off and moved quickly to the north.",
+    "interesting points": "The sighting lasted only 20 seconds., The objects were described as bright and capable of instantaneous stops., No photographs were taken during the sighting., The objects were observed to flash on and off., The speed of the objects was determined to be fast, estimated around 60-45 mph.",
+    "sighted object": "four bright white objects",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses were detailed in the report.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-  "main event": "A young witness spotted a white, round object hovering and moving in the sky near Jackson, Minnesota on September 23, 1962.",
-  "interesting points": [
-    "The object was sighted at an altitude of about 50,000 feet, and it hovered for a period of time before descending to around 10,000 feet.",
-    "The object remained at the lower altitude for several minutes before ascending back to 50,000 feet.",
-    "The object repeated this pattern of descending and ascending multiple times during the sighting, which lasted a total of around 30 minutes.",
-    "The object moved in a straight line and made no sound.",
-    "The sighting was reported to the Civil Aeronautics Administration (CAA) Air Route Traffic Control Center."
-  ],
-  "result": "unexplained",
-  "sighted object": "a white, round object",
-  "location": "Jackson, Minnesota",
-  "witnesses": "a young witness",
-  "photographs": "no"
+    "main event": "A UFO hovering at 50,000 feet was observed in Jackson, Minnesota on August 13, 1962.",
+    "interesting points": "The object was described to hover for 3 minutes and 23 seconds before disappearing at high speed., The object moved in a straight line before it made two additional objects., The sighting lasted for a total of 30 minutes., A witness reported seeing a little white light that seemed round., The incident was reported to the CAA Air Route Traffic Control Center.",
+    "sighted object": "a UFO described as a little white light",
+    "location": "Jackson, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An 11-year-old child",
+    "contains photographs": false
 }

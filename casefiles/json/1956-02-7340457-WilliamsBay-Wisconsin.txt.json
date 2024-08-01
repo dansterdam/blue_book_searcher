@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian in Williams Bay, Wisconsin reported a 15-minute observation of a round object the size of a half dollar, with colors of red, white, yellow, and blue. The report lacked sufficient data for evaluation.",
-  "interesting points": [
-    "The object was categorized as 'Civilian' with no conclusive evaluation due to insufficient data.",
-    "No photographs were included in the report.",
-    "The observation lasted for 15 minutes, indicating a prolonged sighting.",
-    "The object was described as having multiple colors, making it a distinct visual sighting.",
-    "The document was part of Project Blue Book, which was a US Air Force program for the investigation of UFO reports."
-  ],
-  "result": "unexplained",
-  "sighted object": "round object, size of half dollar, with red, white, yellow, and blue colors",
-  "location": "Williams Bay, Wisconsin",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "An observation of a round object, size of a half dollar, in various colors, reported in Williams Bay, Wisconsin.",
+    "interesting points": "The sighting occurred at night with insufficient data for evaluation,The object was classified as civilian,The observation was of a single object,The object's colors were reported as red, white, yellow, and blue,The observation lasted for 15 minutes.",
+    "sighted object": "one round object, size of half dollar, red, white, yellow, blue",
+    "location": "Williams Bay, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife",
+    "contains photographs": false
 }

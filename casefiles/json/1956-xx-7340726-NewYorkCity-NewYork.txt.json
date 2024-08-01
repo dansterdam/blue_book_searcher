@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A witness in New York City observed a dark-shaped object moving at high speed towards a building, with a soft glow and what appeared to be fins.",
-    "interesting points": [
-        "The object moved with a deliberate speed, about 1/4 the distance of a city block, and did not make any sound.",
-        "The object had a soft grey color, with a brilliant steady light at the tip that gradually died out and shone again without flickering.",
-        "When the object disappeared, a bright light shot out and then disappeared.",
-        "The incident lasted only a few seconds.",
-        "The witness was afraid of such phenomena and did not discuss it much with others until two years later when sending the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "dark-shaped object with a soft glow and what appeared to be fins",
-    "location": "New York City, New York",
-    "witnesses": "a citizen of New York City",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A dark shaped object was observed traveling at great speed towards a building in New York City in February 1956.",
+    "interesting points": "The object had what appeared to be fins and emitted a soft glow without reflecting on nearby buildings., The witness described the object as moving deliberately with no sound., The sighting occurred at night with dim street lights obscuring visibility., The object disappeared suddenly after emitting a bright light., The witness took two years to report the sighting out of fear and uncertainty.",
+    "sighted object": "a dark shaped object with fins and a soft glow",
+    "location": "New York City, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A citizen of New York City returning home from St. Vincent's Hospital.",
+    "contains photographs": false
 }

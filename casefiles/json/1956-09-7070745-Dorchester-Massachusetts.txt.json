@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on 4 September 1953 in Dorchester, Massachusetts. The object was observed for 1-2 minutes, rapidly descending, hovering, traveling southeast, dropping and flowing below the clouds, then disappearing to the southwest.",
-    "interesting points": [
-        "The UFO was described as round, white, and light blue in color.",
-        "It did not conform to the criteria for an international airport in Boston, Massachusetts, departing aircraft.",
-        "The sighting lasted for a short duration, indicating a brief but significant event.",
-        "The UFO's movement pattern included descending, hovering, and traveling before disappearing, suggesting advanced capabilities.",
-        "There were no photographs of the reported UFO."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, white, and light blue UFO",
-    "location": "Dorchester, Massachusetts",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "A witness observed a round white and light blue object that rapidly descended and hovered before traveling southeast, eventually disappearing southwest.",
+    "interesting points": "The object hovered for a brief moment before moving; it dropped and flowed below the clouds; it was observed for 1-2 minutes; the sighting does not conform to criteria for departing aircraft from Boston; insufficient data is available to support its identification.",
+    "sighted object": "one round white and light blue object",
+    "location": "Dorchester, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "one witness",
+    "contains photographs": false
 }

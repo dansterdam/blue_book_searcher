@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported in Colfax, Iowa on October 13, 1956 at 23:15.",
-    "interesting points": [
-        "The observation was made using radar, indicating a technological aspect to the sighting.",
-        "The object was described as having round shape and white, flashing red, green, and white lights.",
-        "The object was observed moving slowly with white light.",
-        "The report suggests a possible prosaic explanation, with the comment 'Probably is Balloon.'",
-        "No photograph or image was included in the report."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "a round UFO with flashing red, green, and white lights",
-    "location": "Colfax, Iowa",
-    "witnesses": "ground observer",
-    "photographs": "no"
+    "main event": "A radar observation of a round-shaped object with flashing lights was reported on 13 October 1956.",
+    "interesting points": "The object emitted red, green, and white flashing lights,The sighting lasted between 0 to 1 minute,The object was seen moving slowly,The observer suspected the object might be a balloon,There were no photographs included in the report.",
+    "sighted object": "one round-shaped object with flashing lights",
+    "location": "Colfax, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer with binoculars",
+    "contains photographs": false
 }

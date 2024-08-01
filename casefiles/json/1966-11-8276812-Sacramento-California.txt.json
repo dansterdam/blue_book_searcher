@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An elderly couple observed a bright, maneuvering object in the sky near Sacramento, California in 1966.",
-    "interesting points": [
-        "The object initially appeared round, then changed to a heart-shaped appearance.",
-        "The object's brightness fluctuated, becoming bright, then weak, and then bright again.",
-        "The object was observed for 15-20 minutes, but no sound or exhaust was reported.",
-        "The Air Weather Station reported no logical weather phenomenon in the area that could explain the sighting.",
-        "The control tower and local law enforcement agencies did not corroborate the couple's sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, maneuvering object that changed shape",
-    "location": "Sacramento, California",
-    "witnesses": "an elderly couple (Mr. and Mrs. C.)",
-    "photographs": "none"
+    "main event": "Mr. and Mrs. C., aged 81 and 80 respectively, observed a bright object changing shape from round to heart-shaped in Sacramento, California on November 22, 1966.",
+    "interesting points": "The object was initially described as round then changed to heart-shaped,The object was approximately 15 feet in diameter and bright red,The witnesses observed the object for about 15 to 20 minutes as it moved slowly westward,The object displayed a bright then weak appearance but did not disappear,No other corroborating witnesses or reports were found from local law enforcement.",
+    "sighted object": "a bright red object that changed shape",
+    "location": "Sacramento, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. & Mrs. C., 81 years of age and 80 years of age",
+    "contains photographs": false
 }

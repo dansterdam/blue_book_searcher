@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a dark gray, saucer-like object with flashing yellow and green lights in the sky over Calumet City, Illinois on August 15, 1965.",
-    "interesting points": [
-        "The object moved in zig-zags at a high speed, too fast for an aircraft but too slow for a missile or rocket.",
-        "The object was much brighter than any star in the sky.",
-        "The object passed overhead from the rear right and disappeared to the left at a very low altitude.",
-        "The sighting lasted for about 5 minutes.",
-        "No sound was reported from the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a dark gray, saucer-like object with flashing yellow and green lights",
-    "location": "Calumet City, Illinois",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "main event": "A civilian reported a sighting of a dark gray saucer-like object with flashing lights in Calumet City, Illinois, observed for 5 minutes on August 15, 1965.",
+    "interesting points": "The object was observed moving in zig-zags at high speed, too fast for aircraft,The object was much brighter than stars in the sky, yet too slow to be a missile or rocket,The object disappeared beyond trees after the observation,The witness described the lights on the object as one yellow and one green,The observer noted clear weather conditions during the sighting.",
+    "sighted object": "dark gray saucer-like object with flashing lights",
+    "location": "Calumet City, Illinois, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "51-year-old unemployed civilian",
+    "contains photographs": false
 }

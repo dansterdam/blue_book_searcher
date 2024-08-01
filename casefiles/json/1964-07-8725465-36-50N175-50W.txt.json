@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report text, here is the summary in JSON format:
-
 {
-    "main event": "A small white light was observed moving at a very high speed from west to east for a period of two minutes.",
-    "interesting points": [
-        "The object was observed at coordinates 173-32W; 35-50N.",
-        "The sighting occurred at 22/1455Z.",
-        "The object was described as a 'small white light'.",
-        "The object was observed to be moving at a very high speed.",
-        "The report was retransmitted to the CIA per an AT HQ Form 1392 #50."
-    ],
-    "result": "unexplained",
-    "sighted object": "small white light",
-    "location": "173-32W; 35-50N",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A report regarding a UFO sighting involving a small white light observed by a witness in July 1964.",
+    "interesting points": "The object emitted a very bright light and was observed moving from west to east at a very high speed., The sighting lasted for a period of two minutes., The report was part of the Project Blue Book investigations by the U.S. Air Force., The object was sighted from coordinates 36-59N 175-30W., No photographs or physical evidence were recorded in the reports.",
+    "sighted object": "a small white light",
+    "location": "Kunia, Hawaii, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an observer from the reported coordinates",
+    "contains photographs": false
 }

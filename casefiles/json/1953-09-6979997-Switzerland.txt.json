@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A luminous rectangular object with dark windows was observed in the sky over Switzerland for 5-10 minutes in September 1953.",
-    "interesting points": [
-        "The object was four times as long as the wing of a passenger plane.",
-        "The object was half 'aluminum bronze' and half dark in color.",
-        "The object traveled at an estimated speed of 1,500 m/sec, or about 3,300 mph.",
-        "The object made a 45-degree turn in just 4 seconds.",
-        "The observer estimated the object's altitude to be 1,500 m based on the stars."
-    ],
-    "result": "No further investigation, case closed",
-    "sighted object": "Rectangular luminous object with dark windows",
-    "location": "Switzerland",
-    "witnesses": "Civilian observer E. Jacquenod",
-    "photographs": "Yes, 2 photographs included"
+    "main event": "A luminous rectangular object was observed in the sky over Switzerland on September 13, 1953.",
+    "interesting points": "The object was observed for approximately 5 to 10 minutes.,The object was said to be four times as long as the wing of a passenger plane.,It had a combination of aluminum bronze and dark colors, with no visible engines.,The observer noted the object traveled silently at a speed of about 1,500 m/sec.,The object disappeared completely in about a seventh of a second.",
+    "sighted object": "luminous rectangular object",
+    "location": "Aarau, Switzerland",
+    "number of confirmed witnesses": 1,
+    "witness description": "E. Jacquenod, Aarau, Switzerland",
+    "contains photographs": true
 }

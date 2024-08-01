@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An oblong object, colored red, orange and white, was observed for 30 minutes over Lead, South Dakota on June 24, 1960.",
-    "interesting points": [
-        "The object was observed to be about 1/2 times as long as it was wide.",
-        "The object flashed with brilliance during the sighting.",
-        "The motion of the object was very slow, taking 30 minutes to disappear over the horizon.",
-        "No photographs were taken of the object.",
-        "The report noted that due to the lack of details on the position and movement of the object, no identification could be made."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oblong object",
-    "location": "15 miles southwest of Lead, South Dakota",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "An oblong object colored red, orange, and white was observed for 30 minutes before disappearing overhead.",
+    "interesting points": "The object was observed at a high altitude (12.15) and took 30 minutes to disappear., It flashed with brilliance during the observation period., The observation was categorized as a local ground-visual sighting., The object's motion was noted to be very slow., The report indicates insufficient data for identification of the object.",
+    "sighted object": "one oblong object",
+    "location": "15 mi SW Lead, South Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military personnel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bulky, round-cylindrical object was observed east of Farmington, New Mexico on November 23, 1957.",
-    "interesting points": [
-        "The object was the size of a bulky, round-cylindrical thing and was positioned or hovering near a drilling rig.",
-        "The object moved about and disappeared after 1.5 minutes of observation.",
-        "The object was observed at a distance of 22.10 miles until it faded out.",
-        "The report indicates the sighting was likely an aircraft with contrails.",
-        "The sighting was reported to various military commands, including the Air Defense Command and the Air Force Director of Intelligence."
-    ],
-    "result": "probably an aircraft with contrails",
-    "sighted object": "a bulky, round-cylindrical object",
-    "location": "East of Farmington, New Mexico",
-    "witnesses": "unknown",
-    "photographs": "no, the report does not contain any photographs"
+    "main event": "One object with a bulky round-cylindrical shape was observed near Farmington, New Mexico on 23 November 1957.",
+    "interesting points": "The observation lasted for approximately 1.5 minutes., The object was described as bulky and round-cylindrical., The object was positioned near a drilling rig and was seen moving about., The sighting resulted in the object disappearing from view., The report suggests that the sighting was likely an aircraft with contrails.",
+    "sighted object": "one bulky round-cylindrical object",
+    "location": "Farmington, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

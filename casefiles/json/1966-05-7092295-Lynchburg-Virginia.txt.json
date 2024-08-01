@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An observer reported seeing a gray object heading southwest at an altitude of approximately 20,000 feet near Lynchburg, Virginia on May 12, 1966.",
+    "interesting points": "The object was reported to be silent, with no visible contrail,Conflicting data exists regarding the object's speed and shape, which were not consistent throughout the report,The observer initially described it as an aircraft approaching Lynchburg airport,The sighting lasted a significant amount of time without the observer being able to confirm the object's true nature,The object was estimated to have a speed between 120-300 mph.",
+    "sighted object": "a gray object",
+    "location": "Lynchburg, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A male observer, age 23.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text:
-
 {
-    "main event": "A bright orange unidentified flying object was observed hovering over a wooded area in Westford, Massachusetts for about 15 minutes on October 8, 1960.",
-    "interesting points": [
-        "The object was described as being 40 to 50 feet in diameter and having a bright orange color.",
-        "The object accelerated rapidly and disappeared from sight after hovering for 15 minutes.",
-        "Two other witnesses in separate locations also reported observing the same object at the same time.",
-        "An object was seen traveling at about 3000 feet high and passing over at about 3500 feet. It was very bright and white in color, changing from round to elongated in shape, and was visible for about 15 seconds.",
-        "There were multiple reported sightings of UFOs over the Westford, Massachusetts area in April 1960, including a large dark object that hovered over a home and a glowing object that emitted a bluish-white pulsating light."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright orange unidentified flying object, bright white elongated object",
-    "location": "Westford, Massachusetts",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no"
+    "main event": "Witnesses reported an unidentified flying object observed over Westford, Massachusetts on 8 October 1960.",
+    "interesting points": "The object was described as being 40 to 50 feet in diameter with a bright orange color., It hovered for approximately 15 minutes before accelerating rapidly and disappearing., Two other separate witnesses reported sighting the same object at the same time., One witness described the object as emitting a bright white light and being circular in shape., The sightings were documented as part of Project Blue Book but were marked as unreliable.",
+    "sighted object": "unidentified flying object",
+    "location": "Westford, Massachusetts, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilian witnesses including a mother and her son, and another unidentified professional witness",
+    "contains photographs": false
 }

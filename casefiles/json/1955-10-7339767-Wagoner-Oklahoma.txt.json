@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A military pilot reported seeing a blue, comet-like object in the sky over Wagoner, Oklahoma on October 28, 1955.",
-    "interesting points": [
-        "The object had a blue cast and was described as 'somewhat of a comet in appearance'.",
-        "The sighting was reported to the Air Force's Project Blue Book, which investigated UFO incidents.",
-        "The report includes details about the location, time, and source of the sighting (military).",
-        "The duration and exact course of the object are unknown.",
-        "The Air Force concluded that the sighting was likely a meteor observation."
-    ],
-    "result": "Probably Meteor",
-    "sighted object": "a blue, comet-like object",
-    "location": "Wagoner, Oklahoma",
-    "witnesses": "military pilot",
-    "photographs": "none"
+    "main event": "A visual observation of an object described as somewhat comet-like with a blue cast occurred in Wagoner, Oklahoma on 28 Oct 55.",
+    "interesting points": "The observation was classified under the military source., The object was reported as having a blue cast., The sighting is likely classified as a meteor observation., The document originates from Project Blue Book, which investigated UFO sightings in the 1950s., The exact duration and length of the observation were not recorded.",
+    "sighted object": "an object resembling a comet",
+    "location": "Wagoner, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military source",
+    "contains photographs": false
 }

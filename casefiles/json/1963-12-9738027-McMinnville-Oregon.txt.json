@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A farmer in McMinnville, Oregon reported seeing two disc-shaped, metallic objects in the sky on December 11, 1963.",
-    "interesting points": [
-        "The objects were wobbling slightly as they moved and appeared to be about 40-50 feet in diameter.",
-        "The objects moved slowly in a northerly direction and then gradually disappeared from view.",
-        "The witness heard a loud roar like a jet but did not see any plane.",
-        "The sighting lasted for 30-40 seconds.",
-        "The witness could not spot the objects again even with the aid of binoculars."
-    ],
-    "result": "unexplained",
-    "sighted object": "two disc-shaped, metallic objects",
-    "location": "McMinnville, Oregon",
-    "witnesses": "Mr. and Mrs. Paul W. Trent",
-    "photographs": "no, the report does not mention any photographs"
+    "main event": "Several observers reported seeing a large, silent, hovering object emitting a brilliant light over McMinnville, Oregon, on December 11, 1963.",
+    "interesting points": "The sighting lasted approximately 20-30 minutes and was reported shortly after dark., The object was described as a large, metallic, disc-like shape that hovered silently and moved with astonishing speed., Witnesses noted that the object was not an ordinary aircraft and its movements could not be attributed to familiar aviation patterns., Mr. and Mrs. Paul W. Trent observed two disc-like objects drifting slowly in the sky and reported hearing a loud roar as they disappeared., The case remains unsolved with no logical explanation provided by the Air Force.",
+    "sighted object": "large, silent hovering object emitting brilliant light",
+    "location": "McMinnville, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. Paul W. Trent, local farmers",
+    "contains photographs": false
 }

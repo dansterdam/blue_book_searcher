@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "A bright, shining object was seen moving slowly across the sky from south to north, leaving a white trail of about 2 miles in length.",
-    "interesting points": [
-        "The object was described as bright and shining.",
-        "The trail left behind the object was estimated to be about 2 miles long.",
-        "The witness, a retired farmer, had previously reported seeing a meteor or comet streak across the sky, but no one else in the community had reported the sightings.",
-        "The newspaper editor who wrote the report was unsure if the sightings were related to the 'flying saucer business'.",
-        "The report was forwarded to the Federal Bureau of Investigation and the Air Force."
-    ],
-    "result": "Evaluated as aircraft contrails",
-    "sighted object": "A bright, shining object leaving a white trail",
-    "location": "Gerald, MO",
-    "witnesses": "A retired farmer",
-    "photographs": "No"
+    "main event": "An elderly retired farmer observed a bright, shining object moving slowly across the sky, leaving a white trail.",
+    "interesting points": "The sighting occurred between 8:30 and 9 a.m. on April 23, 1951., The reported trail was estimated to be about two miles in length., The object was described as bright and shining., The object was moving from south to north., The local newspaper confirmed the farmer's credibility, stating he is not a publicity seeker.",
+    "sighted object": "a bright shining object with a white trail",
+    "location": "Gerald, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an elderly retired farmer",
+    "contains photographs": false
 }

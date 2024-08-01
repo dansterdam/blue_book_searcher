@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian observed a single unidentified object that hovered, made random movements, and changed in appearance from a light to white to bright before fading and disappearing.",
-    "interesting points": [
-        "The object hovered and made random movements, standing still for 15-20 seconds at a time.",
-        "The object changed in appearance, going from a light to white to bright before fading and disappearing.",
-        "The sighting occurred in Dayton, Ohio on September 8, 1961 around 9:15-9:30 PM.",
-        "The witness was outdoors and observed the object for 15-20 seconds.",
-        "The sky conditions were partly cloudy with fewer stars visible than normal."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A single light-colored object that changed in appearance",
-    "location": "Dayton, Ohio",
-    "witnesses": "1 civilian",
-    "photographs": "no"
+    "main event": "A witness reported observing a single unidentified object in Dayton, Ohio on September 8, 1961, which appeared to hover and changed colors.",
+    "interesting points": "The object hovered for approximately 15-20 seconds and exhibited random movements,The witness described the object changing colors from red to blue to green,The sighting was part of a questionnaire filled out as part of Project Blue Book,The conclusions drawn from the observation suggested that it was likely a balloon or some atmospheric phenomenon,The report emphasized the need for further investigation due to insufficient data.",
+    "sighted object": "a glowing, color-changing light",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who saw the object from their location.",
+    "contains photographs": false
 }

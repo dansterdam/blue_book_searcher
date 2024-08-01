@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright flash was observed near the horizon, but the observers were unsure what it was.",
-    "interesting points": [
-        "The observers considered the possibility that the sighting was a balloon, satellite, missile, or astronomical matter, but concluded there was insufficient data to properly evaluate it.",
-        "The observers reported that the sighting was 20 times brighter than a meteorite and may have been a re-entry of an ESV (Experimental Satellite Vehicle).",
-        "The sighting was observed by a crew of three Air Force personnel, who were considered reliable with no ulterior motives.",
-        "The weather conditions at the time of the sighting were clear with bright moonlight.",
-        "There was no other reported activity in the area during the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright flash near the horizon",
-    "location": "150 miles WNW of Ukiah, California",
-    "witnesses": "a crew of 3 Air Force personnel",
-    "photographs": "none"
+    "main event": "A ground visual observation of 4 unidentified objects near Ukiah, California, on 25 September 1962.",
+    "interesting points": "The observation lasted for 5 minutes, The observer reported a bright flash near the horizon, The objects were noted to have a straight course, Possible explanations included balloon, satellite, missile, and astronomical matter, The sighting was reported by a reliable eyewitness.",
+    "sighted object": "four unidentified objects",
+    "location": "Ukiah, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A reliable military observer from the 563 AEW&C SQ.",
+    "contains photographs": false
 }

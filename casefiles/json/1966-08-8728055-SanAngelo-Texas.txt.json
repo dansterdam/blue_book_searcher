@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian observer spotted a glowing, white, round object that appeared to be the size of a softball in the sky near Goodfellow Air Force Base in Texas.",
-    "interesting points": [
-        "The object was glowing and appeared to be 'wallowing' or shifting from side to side as it moved.",
-        "The object first appeared traveling southwest to northeast, then turned north.",
-        "The object was high enough to reflect the sun.",
-        "The sighting lasted for 10-15 minutes.",
-        "Weather conditions included partly cloudy skies, moderate winds, and good visibility, but no thunderstorms."
-    ],
-    "result": "insufficient evidence to positively identify the object",
-    "sighted object": "a glowing, white, round object",
-    "location": "San Angelo, Texas",
-    "witnesses": "one civilian observer",
-    "photographs": "none"
+    "main event": "A civilian observed a bright round object in the sky for 10-15 minutes on 12 August 1966.",
+    "interesting points": "The object was approximately the size of a softball and glowed brightly,The object moved in an erratic pattern and appeared to sway,The observer noted the object was visible in broad daylight,The sighting was made by a sober and reliable civilian worker,No photographs were taken or found in the report.",
+    "sighted object": "one bright round object",
+    "location": "San Angelo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 39-year-old iron worker with 20/20 vision",
+    "contains photographs": false
 }

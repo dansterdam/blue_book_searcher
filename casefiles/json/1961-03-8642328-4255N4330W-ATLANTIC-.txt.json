@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified orbiting object was sighted over the Atlantic Ocean on March 5, 1961.",
-    "interesting points": [
-        "The object was described as being the size of a first magnitude star.",
-        "The object was observed at coordinates 42°25'N 43°30'W at 2019 GMT.",
-        "The object faded out under the star Procyon and its speed was unknown.",
-        "The observation was made from the ship MSTS American Angler.",
-        "The object could not be definitively identified, with the report noting it may have been a satellite, but the direction was inconsistent with known satellite orbits."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified orbiting object",
-    "location": "Atlantic Ocean, 42°25'N 43°30'W",
-    "witnesses": "crew of the ship MSTS American Angler",
-    "photographs": "no"
+    "main event": "An unidentified orbiting object was sighted under 10 degrees elevation on March 4, 1961.",
+    "interesting points": "The observation was made via ground-radar.,The object was described as not being definitively identified.,There is a possibility that the object was a satellite, but its direction was not consistent with known satellite orbits.,The observational data were considered too general to draw a valid conclusion.,The sighting was recorded by military sources.",
+    "sighted object": "unidentified orbiting object",
+    "location": "Atlantic, NA, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military sources provided the observation.",
+    "contains photographs": false
 }

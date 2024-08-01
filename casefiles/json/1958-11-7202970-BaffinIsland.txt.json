@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A circular, bright metallic object was observed oscillating and moving rapidly over Baffin Island in 1958.",
-    "interesting points": [
-        "The object exhibited no visible means of propulsion and disappeared suddenly from view.",
-        "The pilot stated the object was traveling at an extremely high rate of speed.",
-        "Other similar unidentified flying objects had been reported in the area before.",
-        "Insufficient information was available to make a positive determination about the nature of the sighting.",
-        "Further investigation may have been warranted."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, bright metallic object",
-    "location": "Baffin Island, Canada",
-    "witnesses": "Air Force pilot",
-    "photographs": "no"
+    "main event": "On September 3, 1958, an unidentified flying object was detected by ground radar over Baffin Island.",
+    "interesting points": "The object was detected at an altitude of 6500 to 7000 feet,The speed of the object was recorded at 300 knots,The duration of the observation was 39 seconds,The object was described as circular or arrow-shaped,The object disappeared quickly to the north after the observation.",
+    "sighted object": "circular or arrow shaped object",
+    "location": "Baffin Island, Nunavut, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground radar observation",
+    "contains photographs": false
 }

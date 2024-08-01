@@ -1,15 +1,9 @@
 {
-	"main event": "Multiple reports of a UFO sighting in Germantown, Ohio on July 2, 1958, described as a bright white light with no distinct shape, which appeared to be stationary and eventually disappeared from sight.",
-	"interesting points": [
-		"The object exhibited erratic movement and hovered for several minutes before disappearing at a rapid pace.",
-		"The sighting lasted for over an hour, and the object's bright, steady light led to speculation about its astronomical nature.",
-		"The object was described as round, silvery in color, approximately 30 to 40 feet in diameter, and appeared to give off a glow.",
-		"The observer recalled a reddish-colored light initially, which then transformed into a bright, steady light, possibly resembling a low-flying aircraft.",
-		"Despite the lack of clear evidence, the observer's description led to a questionnaire and further investigation by the U.S. Air Force under Project Blue Book."
-	],
-	"result": "unexplained",
-	"sighted object": "bright white light with no distinct shape",
-	"location": "Germantown, Ohio",
-	"witnesses": "Civilian and railroad worker",
-	"photographs": "no, the report does not include photographs"
+    "main event": "An observer reported a sighting of a bright, reddish light that moved briskly, eventually appearing as a stationary large object before disappearing.",
+    "interesting points": "The observation lasted for over an hour, with the object being stationary at times., The object was described as round and approximately 30 to 40 feet in diameter., The light was unusually bright with no blinking, making it distinct from conventional aircraft., Multiple witnesses were present during the sighting., The weather conditions included clear skies with calm winds.",
+    "sighted object": "a bright, round object emitting white light",
+    "location": "Germantown, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a railroad worker and a companion",
+    "contains photographs": false
 }

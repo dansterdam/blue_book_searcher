@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A star-shaped object, the size of a pin-head, was observed in the sky over Thermopolis, Wyoming on September 5, 1958.",
-    "interesting points": [
-        "The object was red and green in color, moving in a steady, level course.",
-        "The object was first noticed by a 16-year-old student named Dick Boots, who saw it moving northwest over the horizon.",
-        "The object was observed with the naked eye from the ground, with no optical aids.",
-        "A military aircraft was scrambled to search the area for about 40 minutes, but made no visual or radar contact with the reported object.",
-        "The report suggests the object may have been a star or other astronomical feature."
-    ],
-    "result": "Possibly a star or other astronomical feature",
-    "sighted object": "a star-shaped object, size of a pin-head, red and green in color",
-    "location": "Thermopolis, Wyoming",
-    "witnesses": "a 16-year-old student, a housewife",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A star-shaped object, appearing the size of a pin-head and colored red and green, was observed moving in a steady course in Thermopolis, Wyoming on September 5, 1958.",
+    "interesting points": "The object was first noticed by a 16-year-old student named Dick Boots., The sighting lasted for 4-5 minutes and was without optical aids., The object was reported to be moving north and later northwesterly., The initial observation was made around 5:48 AM at night under clear conditions., Negative reports indicated the object may have been a star or planet, possibly Venus.",
+    "sighted object": "star-shaped object approximately the size of a pin-head",
+    "location": "Thermopolis, Wyoming, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One was a 16-year-old male student, and the other was a 34-year-old housewife.",
+    "contains photographs": false
 }

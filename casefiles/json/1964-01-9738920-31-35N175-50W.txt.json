@@ -1,15 +1,9 @@
 {
-    "main event": "A light purple object larger than a meteorite was observed breaking into three pieces and falling with a southerly heading at an elevation of 15,000-20,000 feet.",
-    "interesting points": [
-        "The object was observed for approximately 1 minute.",
-        "The object entered the atmosphere at a 45-degree angle and the light went out as it broke into two pieces at an altitude of 12,022 feet.",
-        "The sighting was reported through a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The report indicates that the sighting could not be evaluated as a known type of meteorite.",
-        "Copies of the report were sent to various military and intelligence agencies, including the CIA."
-    ],
-    "result": "unexplained",
+    "main event": "A light purple object larger than a meteorite was observed breaking into 3 pieces while on a southerly heading at an elevation of 15,000-20,000 feet.",
+    "interesting points": "The object was reported to be moving on a southerly course and broke into three pieces during the observation., The sighting lasted for 1 minute., The object's characteristics did not align with known meteorite decay., The decay was not as rapid as typical meteor reports., The sighting occurred shortly after a reported USA decay incident.",
     "sighted object": "light purple object larger than a meteorite",
-    "location": "31-33N 175-50W",
-    "witnesses": "unknown",
-    "photographs": "yes, according to the report"
+    "location": "31-33N, 175-50W",
+    "number of confirmed witnesses": 1,
+    "witness description": "local reporting group",
+    "contains photographs": false
 }

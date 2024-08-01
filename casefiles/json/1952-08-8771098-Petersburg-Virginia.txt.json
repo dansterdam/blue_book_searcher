@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object was observed in Petersburg, Virginia on August 25, 1952, for approximately 6 seconds. The object was reported to be very fast and changed direction.",
-  "interesting points": [
-    "The sighting took place in Petersburg, Virginia, with the object remaining in sight for a short duration of 6 seconds.",
-    "The observation was categorized as a Ground-Visual type with no photographs available for documentation.",
-    "The conclusion drawn from the evaluation was that it was likely a balloon, although no further details were provided for the sighting.",
-    "The witness, Mr. Garrell Clerk, was a member of the Ground Observer Corps under the Richmond, Virginia Filter Center.",
-    "The report indicates that the sighting was submitted late due to the unavailability of information."
-  ],
-  "result": "prozaic explanation",
-  "sighted object": "Unidentified flying object",
-  "location": "Petersburg, Virginia",
-  "witnesses": "Reliability and experience unknown except for Mr. Garrell Clerk, a member of the Ground Observer Corps under the Richmond, Virginia Filter Center",
-  "photographs": "No"
+    "main event": "A sighting of a fast-moving object in Petersburg, Virginia, on 25 August 1952, lasting for 6 seconds.",
+    "interesting points": "The object changed direction rapidly., The sighting occurred at 0103 hours., The observer was a member of the Ground Observer Corps., The sighting was concluded to be a balloon., There were no photographs taken during the observation.",
+    "sighted object": "unidentified flying object (UFO)",
+    "location": "Petersburg, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Clerk, member of the Ground Observer Corps",
+    "contains photographs": false
 }

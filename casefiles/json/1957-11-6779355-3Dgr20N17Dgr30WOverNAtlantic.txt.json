@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two aircraft observed a brilliant flash of blue-white light with a purple rain cloud surrounding it over the northwest Atlantic.",
-    "interesting points": [
-        "The light was brighter than a landing light and was traveling on a course of 270 degrees.",
-        "The two aircraft were at altitudes of 18,200 feet and 19,800 feet, both heading approximately 235 degrees.",
-        "The event was observed by both aircraft at 2315Z, with excellent visibility and winds from the SSW at 15 knots at 28,000 feet.",
-        "The pilots were LCDR Clayton (USN, VR-5) and Major Kelly (USAF, Texas).",
-        "The report does not include any photographs."
-    ],
-    "result": "unexplained",
-    "sighted object": "brilliant flash of blue-white light with a purple rain cloud",
-    "location": "Over NW Atlantic",
-    "witnesses": "two aircraft pilots",
-    "photographs": "no"
+    "main event": "White lights were observed moving erratically over the NW Atlantic on 6 November 1957.",
+    "interesting points": "Two aircraft witnessed the lights in close proximity., The lights were described as a brilliant flash of blue-white and were brighter than landing lights., The aircraft were at altitudes of 18,200 ft and 19,800 ft., Both aircraft were heading approximately 235 degrees at the time of observation., The event occurred at 2315Z under excellent visibility conditions.",
+    "sighted object": "white lights",
+    "location": "NW Atlantic, Atlantic Ocean, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "LCDR Clayton from the US Navy and Major Kelly from the US Air Force.",
+    "contains photographs": false
 }

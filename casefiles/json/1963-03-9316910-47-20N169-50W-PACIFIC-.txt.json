@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A military aircraft reported observing an unidentified object with the shape and brightness of a shining star over the Pacific Ocean.",
-    "interesting points": [
-        "The object was reported to have performed an apparent high-speed to extremely high-altitude maneuver.",
-        "The object was tracked by radar and the sighting characteristics could not be fully explained.",
-        "The report states that the sighting must be placed in the 'unidentified' category due to the lack of other observation data.",
-        "Several similar 'V-70' type sightings had been reported during this period, though they could not be positively identified as satellites.",
-        "The report indicates that the Air Force was concerned about the frequency of these unidentified cases that SPAMATS (the Project Blue Book committee) could not make positive identifications for."
-    ],
-    "result": "unidentified",
-    "sighted object": "one unidentified object with the shape and brightness of a shining star",
-    "location": "47.20N 169.50W (Pacific Ocean)",
-    "witnesses": "military aircraft",
-    "photographs": "none"
+    "main event": "A military aircraft reported observing an unidentified flying object on March 18, 1963.",
+    "interesting points": "The object was described as having the shape and brightness of a shining star,It was observed traveling at an extremely high speed and high altitude,The sighting lasted for an undetermined length,Specific bearing and direction of travel was noted as SE from the reported coordinates,No photos were included in the documentation.",
+    "sighted object": "one unidentified flying object",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military aircraft personnel",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported seeing a single unidentified object over Philadelphia, Pennsylvania in the winter of 2002.",
-    "interesting points": [
-        "The report states the sighting could be attributed to an aircraft, but there is insufficient data for a final analysis.",
-        "The report form indicates the sighting was a ground-visual type of observation.",
-        "The duration of the observation is listed as 'Not Reported' or unknown.",
-        "There is no information provided about the course or movement of the object.",
-        "The report concludes that the data does not warrant a firm conclusion about the nature of the sighted object."
-    ],
-    "result": "unexplained",
-    "sighted object": "single unidentified object",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "civilian",
-    "photographs": "no photographs included"
+    "main event": "A civilian reported observing one unidentified object in Philadelphia, Pennsylvania, during Winter 2002.",
+    "interesting points": "The sighting was classified as ground-visual observation., The number of objects observed was reported as one., The length of observation was not reported., The source of the report was a civilian., The conclusion from the investigation was that there was insufficient data for evaluation.",
+    "sighted object": "one unidentified object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

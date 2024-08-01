@@ -1,15 +1,9 @@
 {
-    "main event": "Satellite-like object observed in 1 to 3 orbits from an airliner flight",
-    "interesting points": [
-        "The object was observed at an unknown speed and altitude.",
-        "The object moved in a north to south orbit.",
-        "The incident resulted in limited data, and the case was evaluated as such.",
-        "The report was filed on April 26, 1963, with the observation occurring on April 27, 1963.",
-        "The location of the observation was 27°N 150°W in the Pacific Ocean."
-    ],
-    "result": "limited data",
-    "sighted object": "Satellite-like object",
-    "location": "27°N 150°W (Pacific Ocean)",
-    "witnesses": "Civilian (from an airliner flight)",
-    "photographs": "No photographs included"
+    "main event": "A satellite-like object was observed in orbit from an airliner on April 26, 1963.",
+    "interesting points": "The object was seen in 1 to 3 orbits., The speed of the object was unknown., The altitude of the object was also unknown., The observation took place during a civilian flight., The incident resulted in limited data and was evaluated as such.",
+    "sighted object": "satellite-like object",
+    "location": "Pacific, NA, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "observed from an airliner",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object was observed hovering and pulsating in the sky over Ludlow, Massachusetts on January 17, 1963.",
-    "interesting points": [
-        "The object was estimated to be 40 feet in diameter and 12 feet thick.",
-        "The object was observed at an elevation of 30 degrees and an azimuth of 135 degrees.",
-        "The object was observed for a total duration of 12 minutes.",
-        "Wind information was provided in the report.",
-        "The report states that the sighting was most likely an aircraft about the cloud deck, with a visual misinterpretation of the rotating beam as twinkling or varying intensity."
-    ],
-    "result": "Probable Aircraft",
-    "sighted object": "One unidentified object",
-    "location": "Ludlow, Massachusetts",
-    "witnesses": "Civilian",
-    "photographs": "None included in the report"
+    "main event": "A UFO was observed hovering and pulsating in the sky for 12 minutes in Ludlow, Massachusetts on January 17, 1963.",
+    "interesting points": "The UFO was estimated to be 40 ft in diameter and 12 ft in thickness., The object was reported at an elevation of 30 degrees and azimuth of 135 degrees., Witnesses reported the object flying north., Wind information was included in the report., The sighting lasted for 12 minutes and was classified as a ground-visual observation.",
+    "sighted object": "one pulsating UFO",
+    "location": "Ludlow, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Miss Ludlow and Mrs. Lucy Ludlow",
+    "contains photographs": false
 }

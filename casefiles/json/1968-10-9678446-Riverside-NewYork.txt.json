@@ -1,15 +1,9 @@
 {
-    "main event": "A witness spotted unidentified objects in the sky over Riverside, New York on October 24, 1968.",
-    "interesting points": [
-        "The observer was requested to fill out an AF Form 117 but did not do so as of May 21, 1969.",
-        "No clear image of a UFO could be found on the polaroid prints submitted by the observer.",
-        "The case is listed as having insufficient data for a conclusion.",
-        "The report mentions 5 photos and 2 negatives, but these do not appear to be included in the document provided.",
-        "The Air Force requested the observer to provide more information by completing the AF Form 117."
-    ],
-    "result": "insufficient data",
-    "sighted object": "unidentified objects",
-    "location": "Riverside, New York",
-    "witnesses": "observer",
-    "photographs": "yes, but no clear UFO images found"
+    "main event": "A UFO observation reported in Riverside, New York on October 24, 1968, but no identifiable image could be found on the submitted polaroid prints.",
+    "interesting points": "The investigation concluded that there was insufficient data to support a UFO sighting., The observer was asked to complete an AF Form 117, but has not done so as of May 21, 1969., The report included grainy, low-quality images that did not depict any clear objects., A letter from the Air Force expressed gratitude for the sighting report and mentioned further investigation., The witness described seeing two saucer-shaped objects that were maneuverable and disappeared quickly.",
+    "sighted object": "unspecified unidentified flying objects",
+    "location": "Riverside, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The report contains details from an unnamed witness.",
+    "contains photographs": false
 }

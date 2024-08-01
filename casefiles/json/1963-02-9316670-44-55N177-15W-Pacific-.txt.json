@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military jet observed a visual object that appeared to be a meteorite-like object for 15 seconds.",
-    "interesting points": [
-        "The object was about the size of a pin and left a trail like a meteor.",
-        "The object was observed at a position 48 degrees above the horizon, moving very fast at a very high altitude.",
-        "The sighting occurred while the reporting aircraft was at FL 130 (approximately 13,000 feet) on top of the clouds in clear skies.",
-        "The report was sent from the 326th Air Division Kunia Facility in Hawaii.",
-        "The report was distributed to various military commands in the Pacific region."
-    ],
-    "result": "unexplained",
-    "sighted object": "meteorite-like object",
-    "location": "Pacific Ocean, 44.55N 177.15W",
-    "witnesses": "military jet crew",
-    "photographs": "none"
+    "main event": "A military jet observed a visual object moving rapidly like a meteorite in February 1963.",
+    "interesting points": "The sighting lasted for 15 seconds with the object observed at a very high altitude above the cloud layer., The object was described as being 15-16 feet in length., The position of the sighting was recorded at 44.55N 177.15W in the Pacific., The object left a trail similar to a meteor., Multiple Air Force commands were notified about the sighting.",
+    "sighted object": "object like a meteor",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military jet crew",
+    "contains photographs": false
 }

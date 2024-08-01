@@ -1,15 +1,9 @@
 {
-    "main event": "A beekeeper reported seeing a bee on their windshield.",
-    "interesting points": [
-        "The sighting occurred in Richland, Kansas.",
-        "The report was filed by civilian witnesses.",
-        "The observation was classified as a 'slow' type of observation.",
-        "The observation was described as occurring on the ground.",
-        "The official explanation provided was that the sighting was of a bee on the windshield."
-    ],
-    "result": "Explained (bee on windshield)",
-    "sighted object": "bee on windshield",
-    "location": "Richland, Kansas",
-    "witnesses": "civilians",
-    "photographs": "no"
+    "main event": "Civilians reported an observation of a slow-moving object in Richland, Kansas.",
+    "interesting points": "The observation occurred at 0745 hours,The report describes the observation as a 'bee on windshield',The place is noted as Richland but referred to as Topeka,The report is unclassified and dates back to July 12, 1950,The source of the report is listed as civilians.",
+    "sighted object": "slow-moving object",
+    "location": "Richland, Kansas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilians",
+    "contains photographs": false
 }

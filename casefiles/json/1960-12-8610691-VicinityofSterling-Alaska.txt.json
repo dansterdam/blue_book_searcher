@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "An observer in the vicinity of Sterling, Alaska reported seeing a pulsating, rounded object that appeared to be 25-30 feet in diameter, descending through the clouds and then traveling rapidly eastward before disappearing.",
-    "interesting points": [
-        "The object appeared to pulsate with red, green, and white colors.",
-        "The object was observed through field glasses for about 45 seconds as it descended, hovered briefly, then rapidly traveled away.",
-        "The weather was cloudy at the time of the sighting.",
-        "The report suggests the object could have been a weather balloon released from Anchorage International, but this is inconclusive.",
-        "The report notes that there was no known air traffic in the area at the time of the sighting."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a pulsating, rounded object approximately 25-30 feet in diameter",
-    "location": "vicinity of Sterling, Alaska",
-    "witnesses": "one observer",
-    "photographs": "none"
+    "main event": "An observer in Sterling, Alaska reported a sighting of a pulsating object that appeared rounded in shape, visible for 45 seconds.",
+    "interesting points": "The object was described as pulsating red, green, and white in color., The estimated diameter of the object was 25 to 30 feet., The sighting occurred on December 18, 1960, at 2115 hours., The object was observed for a total of 45 minutes, although it was mostly stationary., The conclusion mentioned in the report suggested it could be a meteor or meteorite.",
+    "sighted object": "one pulsating rounded object",
+    "location": "Sterling, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. ______, 53, a resident of Sterling, Alaska.",
+    "contains photographs": false
 }

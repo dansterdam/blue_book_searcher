@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A radar operator observed pulsating lights on the radar screen that moved erratically, darting back and forth, stopping and hovering, and then moving on again in a manner unlike any known aircraft.",
-    "interesting points": [
-        "The object appeared as blips on the radar scope, with each blip lasting 2-6 seconds before disappearing.",
-        "The radar operator stated the movements of the object were not like any known aircraft in the air force at the time.",
-        "The object was observed for approximately 1.5 minutes.",
-        "The radar operator concluded there was insufficient data to determine if the object could have been an aircraft.",
-        "The observer was located in Dayton, Ohio and the object was observed heading to the east."
-    ],
-    "result": "insufficient data to determine if it was an aircraft",
-    "sighted object": "pulsating lights on the radar screen",
-    "location": "Dayton, Ohio",
-    "witnesses": "radar operator",
-    "photographs": "no"
+    "main event": "A UFO observation was reported on June 8, 1964, in Dayton, Ohio, involving a pulsating light detected by ground radar.",
+    "interesting points": "The observation lasted for 1.5 minutes and the object exhibited erratic darting movements,The object appeared as blips on the radar scope, resembling a beacon type display,Each blip lasted from two to six seconds before disappearing,The report included various speculation about the nature of the object, including it potentially being a balloon, satellite, or aircraft,The witness indicated that the object did not behave like any known aircraft in the air force at the time.",
+    "sighted object": "a pulsating light",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not directly provided; questionnaire indicates a witness with an experience to report.",
+    "contains photographs": false
 }

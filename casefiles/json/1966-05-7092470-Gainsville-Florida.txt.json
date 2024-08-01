@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness observed a bright light with red lights in a circular pattern and a white light in the center, flying northeast.",
-    "interesting points": [
-        "The object appeared brighter than the brightest stars.",
-        "The object had about 10 red lights in a circular pattern with one white light in the middle.",
-        "The object was flying in a northeast direction.",
-        "The witness observed the object for about 5 minutes.",
-        "The witness estimated the speed of the object to be between 100-120 mph and the distance to be around 1000 ft."
-    ],
-    "result": "Aircraft (possible)",
-    "sighted object": "A bright light with a circular pattern of red lights and a white light in the center",
-    "location": "Addicks Canal Bridge, Houston, TX",
-    "witnesses": "1 civilian witness",
-    "photographs": "No"
+    "main event": "On May 23, 1955, a civilian observer reported seeing a bright light in the sky, which was noted to have ten red lights in a circular formation and one white light in the center.",
+    "interesting points": "The object was described as brighter than the brightest stars.,The observation lasted for five minutes.,The object was flying in a northeast direction.,The report indicates that it was possible to be an aircraft.,There are various fields included in the questionnaire related to conditions during the sighting.",
+    "sighted object": "A light with ten red lights in a circular pattern and one white light in the center",
+    "location": "Addicks Canal Bridge, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer",
+    "contains photographs": false
 }

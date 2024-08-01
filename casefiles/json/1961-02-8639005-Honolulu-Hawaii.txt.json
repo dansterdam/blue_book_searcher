@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "An elongated yellow UFO with a dark red edge and a brilliant red halo was observed moving slowly and silently below the trees near a house in Lakeville, Massachusetts on February 29, 1961.",
-  "interesting points": [
-    "The UFO was observed for about 3 minutes before disappearing behind the trees.",
-    "On the second pass, an odor like 'fat burning' was detected in the air above the house.",
-    "The incident was investigated by the Boston-NICAP Subcommittee, who confirmed the account given by the witnesses.",
-    "The Subcommittee concluded that this case falls into the UFO category.",
-    "Other members of the Subcommittee corroborated the witness testimony."
-  ],
-  "result": "unexplained",
-  "sighted object": "an elongated yellow UFO with a dark red edge and a brilliant red halo",
-  "location": "Lakeville, Massachusetts",
-  "witnesses": "Mr. XX and his wife",
-  "photographs": "no"
+    "main event": "A series of sightings and reports related to unidentified flying objects (UFOs) documented in Project 10073 and Project Blue Book during February 1961.",
+    "interesting points": "Possible meteor sighting indicated in the Project 10073 record, Multiple sightings of astrological phenomena misidentified as UFOs reported across various locations such as Tioga and St. Louis, A military report noted fine targets moving at high speeds around Washington, D.C., Observers reported a multi-colored UFO with family witnessed sighting in Lakeport, California, A case from Lakeville, Massachusetts described a yellow elongated UFO with a burning odor.",
+    "sighted object": "Various unidentified flying objects including a possible meteor and a multi-colored UFO",
+    "location": "Various locations including Lakeport, California and Lakeville, Massachusetts, USA",
+    "number of confirmed witnesses": 20,
+    "witness description": "Witnesses include military personnel, civilians, and family members",
+    "contains photographs": false
 }

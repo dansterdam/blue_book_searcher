@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A civilian observed a disk-shaped, greenish-blue object with central point sparks and a tail of sparks over Newburgh, New York on April 22, 1966.",
-    "interesting points": [
-        "The object was estimated to be at an elevation of about 500 feet and was observed for about 7 seconds.",
-        "The object moved in a northward direction and seemed to go behind something high, causing the observer to lose sight of it.",
-        "No sound was reported from the object.",
-        "The weather conditions at the time of the sighting were not detailed in the report.",
-        "No photographs of the object were included in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a disk-shaped, greenish-blue object with central point sparks and a tail of sparks",
-    "location": "Newburgh, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An unidentified flying object was reported in Newburgh, New York on April 16, 1966.",
+    "interesting points": "The object was described as having red, yellow, and green lights at about 20-30 degrees elevation., The object moved slowly and resembled a weather balloon., It was observed for a duration of about 5 minutes., The observer could not identify the object as any aircraft in the area., No physical evidence was documented.",
+    "sighted object": "an unidentified flying object with colored lights",
+    "location": "Newburgh, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer who reported the sighting.",
+    "contains photographs": false
 }

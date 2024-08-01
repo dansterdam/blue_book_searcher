@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "An oblong object was observed changing colors from yellow to red to yellow, traveling northeast then changing course to northwest, approximately 50 miles southeast of Inlet, NY.",
-    "interesting points": [
-        "The object was described as changing colors from yellow to red to yellow.",
-        "The object was traveling on a northeast course before changing to a northwest heading.",
-        "The sighting location was approximately 50 miles southeast of Inlet, NY.",
-        "The report was received at 3:32 AM on September 15, 1955.",
-        "Thunderstorm activity was heavy in the area north of the station at the time of the sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "oblong object changing colors",
-    "location": "Somewhere in New York State, approximately 50 miles southeast of Inlet",
-    "witnesses": "unknown",
-    "photographs": "yes, but not included in the report"
+    "main event": "A civilian observed a single oblong object changing colors from yellow to red while flying in a northeast direction, then changing course to the northwest.",
+    "interesting points": "The sighting involved a color-changing object,The observation was made during a heavy thunderstorm in the area,The object was reported to be flying at an unknown altitude,The report was part of Project Blue Book,An official investigation by the U.S. Air Force documented the sighting.",
+    "sighted object": "one oblong object changing colors",
+    "location": "Someplace, New York State, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

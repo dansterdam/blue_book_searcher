@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An observer saw a bright silver or aluminum object hovering and climbing straight up in Oklahoma City, Oklahoma on August 27, 1957.",
-    "interesting points": [
-        "The object was observed for 1.5 minutes.",
-        "The object was described as a 'bright silver or aluminum object' that was climbing straight up in a hovering, circular motion.",
-        "The report lists several possible explanations for the object, including balloons, aircraft, and an unknown.",
-        "The report states that a C-130 aircraft was overhead at 2,000 feet during the sighting.",
-        "The observer used binoculars to observe the object."
-    ],
-    "result": "unexplained",
+    "main event": "An observer saw a bright silver or aluminum object climbing straight up in a hovering, circular motion for 1.5 minutes.",
+    "interesting points": "The object was described as having a half-dollar shape.,There was no tail, trail, or exhaust visible from the object.,The observer reported no sound emitted by the object., Several possibilities for the object's identity included balloons and aircraft., The observation took place at dusk.",
     "sighted object": "bright silver or aluminum object",
-    "location": "Oklahoma City, Oklahoma",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "location": "Oklahoma City, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. [REDACTED], 32, insurance consultant, Oklahoma City, Oklahoma",
+    "contains photographs": false
 }

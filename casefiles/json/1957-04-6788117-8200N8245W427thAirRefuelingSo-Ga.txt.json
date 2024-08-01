@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, triangular-shaped object was sighted in the sky over Dooly, Georgia on January 5, 1957.",
-    "interesting points": [
-        "The object appeared to be moving intelligently and made irregular, drifting movements.",
-        "The object emitted a sound similar to an airplane engine.",
-        "The object appeared to change in color and brightness over time, going from bright to dimmer and changing to an orange hue.",
-        "The object was estimated to be about one-tenth the size of the half moon when first sighted.",
-        "The sighting lasted for around 25 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, triangular-shaped object in the sky",
-    "location": "Dooly, GA",
-    "witnesses": "1st Lt. Dean L. Beach and 1st Lt. John A. Gasseeine, considered reliable sources",
-    "photographs": "none"
+    "main event": "A sighting of a bright, triangular-shaped object reported over Dooly, GA on January 5, 1957.",
+    "interesting points": "The object was observed for 15 minutes and appeared to move intelligently, resembling an airplane engine sound., Radar scope photographs corroborated details of the eyewitness reports., The object's brilliance was similar to the moon, making it appear twice as bright., It was initially stationary before ascending slowly, then appearing to drift eastward., Both witnesses had pilot ratings and were considered reliable sources of information.",
+    "sighted object": "a bright triangular-shaped object",
+    "location": "Dooly, Georgia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "1st Lt. Dean L. Beach and 4th Lt. John A. Gasseeine, both with pilot ratings",
+    "contains photographs": false
 }

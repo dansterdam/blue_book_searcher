@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright white object, brighter than a light bulb, was observed in the sky over Syracuse, New York, shooting sparks and disappearing like a flare going out.",
-    "interesting points": [
-        "The object was observed for less than 5 seconds.",
-        "It was described as a bright white light, brighter than a light bulb, that was shooting sparks behind it.",
-        "The witness and his friend thought it was too low to be a meteor.",
-        "The object flew low and over the center of Syracuse.",
-        "The object was bright enough to provide the required information, according to the witness."
-    ],
-    "result": "Astro (METEOR)",
-    "sighted object": "a bright white object",
-    "location": "Syracuse, New York",
-    "witnesses": "2 civilian witnesses",
-    "photographs": "None"
+    "main event": "Witnesses observed a bright object in the sky over Syracuse, New York, which lasted less than 5 seconds.",
+    "interesting points": "The object appeared as a bright light, brighter than a light bulb,It was white in color and emitted sparks behind it,The object disappeared like a flare going out,It was initially suspected to be a meteor, but the witnesses believed it was too low to be one,Witnesses included two individuals who reported their observation to the authorities.",
+    "sighted object": "a bright white object shooting sparks",
+    "location": "Syracuse, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two civilians",
+    "contains photographs": false
 }

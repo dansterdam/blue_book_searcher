@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed by a Coast Guard cutter in the Gulf of Mexico on November 5, 1957.",
-    "interesting points": [
-        "The object appeared circular and grayish-white in color, moving from north to south direction.",
-        "The object was tracked on radar, with the target moving from south to north and appearing stationary at one point.",
-        "Visual contact was made with the object, which was described as resembling a brilliant planet.",
-        "The object was tracked on radar for approximately 6 minutes before disappearing.",
-        "The report suggests the sightings may have been caused by anomalous radar propagation or a meteor."
-    ],
-    "result": "unexplained",
+    "main event": "Unidentified flying object sighted by the Coast Guard Cutter Sebago in the Gulf of Mexico on November 5, 1957.",
+    "interesting points": "The UFO was tracked on radar moving from north to south at a high rate of speed., Visual contact was held for approximately three seconds., The object appeared circular and grayish-white in color., Despite multiple radar sightings, only one object was initially believed to be present., It was determined that visual contact was likely a meteor and radar signals may have been affected by erroneous propagation.",
     "sighted object": "circular, grayish-white object",
-    "location": "Gulf of Mexico, 200 miles south of New Orleans, Louisiana",
-    "witnesses": "Coast Guard cutter Sebago crew",
-    "photographs": "none"
+    "location": "Gulf of Mexico, Louisiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Coast Guard personnel operated under radar observations.", 
+    "contains photographs": false
 }

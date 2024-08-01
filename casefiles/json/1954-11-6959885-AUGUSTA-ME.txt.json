@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "Ten bright objects were observed in a Y-formation flying with a straight flight path over Augusta, Maine at dusk.",
-    "interesting points": [
-        "The objects seemed to dissolve during the 3-minute observation.",
-        "The objects were observed from the ground and on radar.",
-        "The report states the light conditions at the time made it difficult to determine the exact nature of the objects, which could have been anything from a flight of high-altitude planes to unidentified flying objects.",
-        "The report concludes there is insufficient data to make a definitive evaluation.",
-        "The report lists several possible explanations for the sighting, including ball-shaped, balloon, aircraft, astronomical, or other."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "ten bright objects in a Y-formation",
-    "location": "Augusta, ME",
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "Ten bright objects were observed in a Y-formation flying in a straight path with no sound heard.",
+    "interesting points": "The sighting lasted for about 3 minutes., The objects dissolved during the observation., The sighting occurred at dusk., The report mentions various possibilities for the sighting including aircraft and astronomical objects., The observation was made using both ground-radar and air-visual methods.",
+    "sighted object": "ten bright objects in Y-formation",
+    "location": "Augusta, Maine, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian",
+    "contains photographs": false
 }

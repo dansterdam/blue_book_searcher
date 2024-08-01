@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two witnesses in Houston, Texas observed a bright, circular object with four red lights around the rim on August 7, 1952.",
-    "interesting points": [
-        "The object was much brighter than any star or planet and seemed to be at an altitude of around 12,000 feet.",
-        "The object made no noise and moved very fast to the south and then upwards, disappearing from view in about 10 seconds.",
-        "The object appeared white and trailed a luminous reddish-orange glow as it moved.",
-        "A second witness traveling east from Richmond, Texas to Houston also reported seeing a bright object over their car, which was in view for about 3 seconds before fading from view.",
-        "No physical evidence or identification of the object was available to investigators."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, circular object with four red lights around the rim",
-    "location": "Houston, Texas",
-    "witnesses": "Jerry Adams and his wife, and an unidentified second witness traveling from Richmond to Houston",
-    "photographs": "none"
+    "main event": "Jerry Adams and his wife observed a bright circular object with four red lights moving rapidly in the sky on August 7, 1952.",
+    "interesting points": "The object was described as bright white and trailed a luminous reddish-orange glow., The sighting lasted approximately 10 seconds., The object was estimated to be at an altitude of about 12,000 feet., There was a second sighting of a similar object from a different location nearby., The object made no noise during its flight.",
+    "sighted object": "a bright circular object with four red lights",
+    "location": "Houston, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Jerry Adams and his wife",
+    "contains photographs": false
 }

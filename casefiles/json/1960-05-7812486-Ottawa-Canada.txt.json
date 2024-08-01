@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a bright, white object make zig-zag maneuvers near Rockcliffe Airport in Ottawa, Canada on May 9, 1960 at around 2:15 AM.",
-    "interesting points": [
-        "The object seemed to suddenly grow in size and then stop, repeating this maneuver a few times.",
-        "When the object passed behind a cloud, it made a humming sound.",
-        "The witness, who had experience around RCAF stations, stated the object was not an aircraft.",
-        "The witness called the Rockcliffe Airport control tower, who confirmed there were no aircraft in the sky at that time.",
-        "The report includes a hand-drawn sketch or diagram depicting the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, white object that made zig-zag maneuvers",
-    "location": "Near Rockcliffe Airport, Ottawa, Canada",
-    "witnesses": "a civilian and a member of the Canadian Air Force",
-    "photographs": "no"
+    "main event": "A civilian and a member of the Canadian Air Force observed a bright light in the sky while driving along the Ottawa River, which exhibited unusual zig-zag movement.",
+    "interesting points": "The light was initially thought to be an aircraft landing light,The object was brighter than a star and white in color,There was a humming sound when the object passed behind a cloud,Rockcliffe Airport confirmed no aircraft were in the sky at that time,The witness had considerable experience with aircraft and was certain it was not one.",
+    "sighted object": "a bright white light in the sky",
+    "location": "Ottawa, Ontario, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "a civilian and a member of the Canadian Air Force",
+    "contains photographs": false
 }

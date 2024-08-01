@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed two bright, silvery objects moving from northwest to southeast over Dundee, Minnesota.",
-    "interesting points": [
-        "The objects were reported to be round and about the size of a basketball at arm's length.",
-        "The objects were observed for approximately 2 minutes.",
-        "No radar detection of the objects was reported.",
-        "The observer claimed a similar incident occurred previously involving two Russian MiG aircraft on his farm, but he provided no further details.",
-        "The investigating officer found the observer's credibility to be doubtful due to the improbability of the previous incident and the delayed reporting of the sighting."
-    ],
-    "result": "Insufficient data to determine the nature of the objects",
-    "sighted object": "two bright, silvery objects",
-    "location": "Dundee, Minnesota",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "Observer observed 2 bright objects moving from the northwest to the southeast at 1:50 AM.",
+    "interesting points": "The objects appeared to be round, bright, and silvery in color., The objects were visible for approximately 2 minutes., The observer estimated the size of the objects to be about the size of a basketball at arm's length., No radar detection was made for the objects., The observer reported the sighting 20 days after the actual observation.",
+    "sighted object": "two bright round objects",
+    "location": "Dundee, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer is a retired mail carrier, estimated to be 55-65 years old, living alone on a farm.",
+    "contains photographs": false
 }

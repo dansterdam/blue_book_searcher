@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer watched a bright white to orange light approaching his aircraft off the right wing in the Pacific Ocean.",
-    "interesting points": [
-        "The object appeared to be brighter than the aircraft.",
-        "When the object was within 2 miles, the light went out.",
-        "There was a satellite decay on July 26, 1966, but the exact time and location are not available.",
-        "The observation lasted for about 30 seconds.",
-        "The document mentions contact with SPADATS (Satellite Detection and Tracking System) regarding the decay of objects 1455 and 1247 on July 24, 1966, which were only fragments and their exact decay location was not calculated."
-    ],
-    "result": "Likely a satellite re-entry",
-    "sighted object": "A bright white to orange light",
-    "location": "22.30N - 172.15W (Pacific Ocean)",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "Observer watched a bright white to orange light approaching his aircraft off the right wing.",
+    "interesting points": "The object appeared to be brighter than the aircraft., The sighting lasted for approximately 30 seconds., The light went out when the object was within 2 miles., There was a satellite decay occurring on the same date., The object is suspected to be a satellite re-entry.",
+    "sighted object": "a bright white to orange light",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer aboard an aircraft",
+    "contains photographs": false
 }

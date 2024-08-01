@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A family driving in Sommerville, Ohio spotted a large glowing object in the sky on November 13, 1968.",
-    "interesting points": [
-        "The object's lights turned off the car's dashboard lights.",
-        "The object followed the car, appearing on different sides of the vehicle.",
-        "The object hovered over the car at one point.",
-        "The object seemed to disappear by 'folding into itself'.",
-        "The witnesses were shaken by the encounter and tried to outrun the object, but it kept pace with their car."
-    ],
-    "result": "unexplained",
-    "sighted object": "large glowing object with blinking lights",
-    "location": "Sommerville, Ohio",
-    "witnesses": "a family (husband, wife, two daughters)",
-    "photographs": "no"
+    "main event": "A family reported observing a UFO consisting of multiple lights while driving in Sommerville, Ohio on November 13, 1968.",
+    "interesting points": "The observers noted that the lights seemed to follow their car while they were driving,There were five distinct lights observed in the sky,The family felt a strange sensation that the lights wanted to communicate with them,The object was described as having blinking lights and seeming to change in size,There was a hand-drawn map included in the report depicting the general area of the sighting.",
+    "sighted object": "Multiple lights in the sky",
+    "location": "Sommerville, Ohio, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "The witness was a 55-year-old female named Evelyn Sommerville, along with her husband and two daughters.",
+    "contains photographs": false
 }

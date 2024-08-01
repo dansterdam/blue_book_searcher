@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A red object sighted with an estimated size of 20-30 ft by 260 ft long.",
-    "interesting points": [
-        "The object was sighted for approximately 5 minutes.",
-        "The report mentions that the sighting was likely the Aurora Borealis.",
-        "The report includes various project codes and references, indicating it was part of the Project Blue Book investigation.",
-        "The report mentions a person named Gerald R. Taber and a time call concluding at 2:32 PM.",
-        "The report indicates the sighting was classified as 'Possible Balloon, Probably Aurora Borealis, Insufficient Data for Evaluation, Unknown'."
-    ],
-    "result": "unknown",
-    "sighted object": "a red object",
-    "location": "not specified",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A red object was sighted in the sky, measuring 20-30 feet wide by 260 feet long, on 3 November 1957.",
+    "interesting points": "The sighting lasted for approximately 5 minutes., The object had red ends., It was reported as a civilian sighting., Initial conclusions suggested it was probably the Aurora Borealis., The report noted insufficient data for proper evaluation.",
+    "sighted object": "a red elongated object",
+    "location": "Unknown, Unknown, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

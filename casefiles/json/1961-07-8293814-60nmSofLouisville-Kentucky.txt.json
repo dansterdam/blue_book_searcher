@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A white, cigar-shaped object was observed moving in a west-to-east direction at a fast pace over Louisville, Kentucky.",
-    "interesting points": [
-        "The object's altitude varied in an irregular manner and had some dimness as if covered by a thin haze at times.",
-        "No sound or trail was observed from the object.",
-        "The sighting was observed by the pilot and crew of an Eastern Airlines DC-6 aircraft.",
-        "A strong possibility exists that the sighting could have been a weather balloon released from a station west of Louisville, given the westerly flow of air in the area.",
-        "The pilot stated the object might be an object in space."
-    ],
-    "result": "unknown",
-    "sighted object": "white, cigar-shaped object",
-    "location": "Louisville, Kentucky",
-    "witnesses": "pilot and crew of an Eastern Airlines DC-6 aircraft",
-    "photographs": "no"
+    "main event": "A white cigar-shaped object was observed moving in a west to east direction at a fast pace near Louisville, Kentucky on June 7, 1961.",
+    "interesting points": "The object was visible for about 15 minutes before fading out., It moved irregularly in altitude and emitted no sound or trail., The sighting was made by the pilot of a DC-6 aircraft and crew personnel., Senior director comments suggested the information might be hearsay and not specific., A strong possibility exists that the sighting could have been a weather balloon.",
+    "sighted object": "white cigar-shaped object",
+    "location": "Louisville, Kentucky, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "pilot of DC-6 Eastern 1253 and crew personnel",
+    "contains photographs": false
 }

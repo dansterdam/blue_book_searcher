@@ -1,15 +1,9 @@
 {
-    "main event": "A bright flashing light or object at 40 mhz was observed at very high altitude, traveling at a speed of 130 degrees per second on a course of 130 degrees.",
-    "interesting points": [
-        "The object was observed by ground radar, but echo data was not available.",
-        "The object could not be definitively identified as a satellite due to insufficient data.",
-        "The sighting was reported to multiple military and government agencies, including NORAD and the Air Force.",
-        "The object was described as as bright as a second magnitude star.",
-        "The weather conditions at the time of the sighting were calm with scattered clouds."
-    ],
-    "result": "unidentified",
-    "sighted object": "bright flashing light or object",
-    "location": "31-57N 174-25E (Pacific)",
-    "witnesses": "ground radar",
-    "photographs": "none"
+    "main event": "Observation of a bright flashing light in the sky, possibly a satellite, on 23 Aug 63.",
+    "interesting points": "The object was observed moving at a fast speed of 130 degrees per second., The observation was made using ground-radar., The object appeared as bright as a second magnitude star., The weather conditions were described as calm sea with scattered clouds., ECHO data for verification was unavailable, leaving the identification uncertain.",
+    "sighted object": "bright flashing light or signal",
+    "location": "Pacific Ocean, NA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Data insufficient for a witness account.",
+    "contains photographs": false
 }

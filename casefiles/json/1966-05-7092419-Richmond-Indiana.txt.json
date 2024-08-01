@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness saw two unusual bright lights over Richmond, Indiana on May 20, 1966 around 10:30 PM.",
-    "interesting points": [
-        "The lights appeared to be very high and distant, and on a direct course toward the east.",
-        "The lights seemed to disappear quite rapidly.",
-        "The witness showed one of the lights to their wife.",
-        "The witness could not identify the lights as a known aircraft.",
-        "The witness understood and verified the action they witnessed."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unusual bright lights",
-    "location": "Richmond, Indiana",
-    "witnesses": "1 witness (name redacted)",
-    "photographs": "none"
+    "main event": "A witness observed unusual bright lights over Richmond, Indiana on May 20, 1966, for about 25 minutes.",
+    "interesting points": "The sighting occurred at night at approximately 10:30 PM,The object was observed moving from south to north,The witness described the lights as too bright to be standard aircraft running lights,The witness indicated that there were two lights that seemed to disappear rapidly,The observation was made near Richmond Exit I-70.",
+    "sighted object": "two unusual bright lights in the sky",
+    "location": "Richmond, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 22-year-old male with a good deal of knowledge of aircraft",
+    "contains photographs": false
 }

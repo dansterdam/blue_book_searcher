@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright light was observed moving at a high rate of speed in the northern sky over Pocatello, Idaho on November 8, 1965.",
-    "interesting points": [
-        "The light was observed changing course and heading in a westerly direction.",
-        "The light exhibited a very rapid rate of speed and appeared to be at a very high altitude.",
-        "No sound was heard from the object.",
-        "On September 20, 1965, a large oval-shaped, silver object was observed hovering and then moving off rapidly to the northeast near Pocatello, Idaho.",
-        "The object was described as circular in shape, glowing from within, and moving at a speed too fast to track with the eye. When it disappeared, there was a momentary brilliance."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright light, oval-shaped silver object, circular glowing object",
-    "location": "Pocatello, Idaho",
-    "witnesses": "single observer, unspecified number of observers",
-    "photographs": "no photographs present"
+    "main event": "On the night of November 8, 1965, an engineer observed a peculiar light in the sky above Pocatello, Idaho, from approximately 7:00 PM to 9:00 PM.",
+    "interesting points": "The light was bright and moved in a northerly direction at a high rate of speed before changing course westward., The light was luminescent and fixed in position during the observation period., At times, it appeared surrounded by a reddish-orange glow or halo., Visibility conditions were excellent with no cloud cover or haze., The observer was a professional engineer familiar with celestial objects and concluded it was of an unidentified nature.",
+    "sighted object": "a bright luminescent light in the sky",
+    "location": "Pocatello, Idaho, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "a professional engineer employed by the United States Geological Survey",
+    "contains photographs": false
 }

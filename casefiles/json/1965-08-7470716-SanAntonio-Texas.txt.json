@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information in the provided UFO report:
-
 {
-    "main event": "A civilian witness spotted a silver, bright, round object the size of a pea held at arm's length near San Antonio International Airport in 1965.",
-    "interesting points": [
-        "The object made a screeching sound, which the investigator later determined was likely from a nearby fire station siren during an alert.",
-        "The witness initially saw a 'flash of light' while looking at newborn pups in his backyard, then noticed a T-38 aircraft at around 1,000 feet with the UFO slightly above and following.",
-        "The witness took a photograph of the UFO, which appeared to be 'jittering' and then disappeared instantaneously without any motion.",
-        "Weather conditions at the time included clouds at 23,000 feet, 15 miles visibility, and surface winds of 220 degrees at 6 knots.",
-        "The Air Force investigator concluded that most of the witness's information was inaccurate and that the sighting was likely the result of misidentification or natural phenomena."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "a silver, bright, round object",
-    "location": "San Antonio, Texas",
-    "witnesses": "civilian",
-    "photographs": "yes, but the negative was destroyed before analysis"
+    "main event": "A sound object was sighted near San Antonio International Airport on 5 August 1965, observed for about 3 minutes.",
+    "interesting points": "The object was initially noted due to an observed sound., The observer described a flash of light and a jittering appearance of the object., The observer thought the object followed a T-38 aircraft., Heavy airport traffic was present during the sighting., During interviews, potential explanations for the sounds included an emergency vehicle or construction equipment noise.",
+    "sighted object": "one unidentified flying object",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer, age 19",
+    "contains photographs": false
 }

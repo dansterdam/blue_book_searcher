@@ -1,15 +1,9 @@
 {
-    "main event": "A radar operator detected an unidentified object over Wichita, Kansas in 1950.",
-    "interesting points": [
-        "The object was tracked on radar for approximately 1 minute.",
-        "The object was observed to travel on a course between 210-275 degrees.",
-        "The radar operator could not definitively identify the object as an aircraft.",
-        "No photographs were taken during the sighting.",
-        "The report indicates this was a Ground-Radar observation rather than a visual sighting."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unidentified radar target",
-    "location": "Wichita, Kansas",
-    "witnesses": "radar operator",
-    "photographs": "no"
+    "main event": "A UFO was observed using ground radar in Wichita, Kansas.",
+    "interesting points": "The sighting took place on February 2, 1954., The observation lasted for 1 minute., There was one object detected., The object had a course between 210 and 275 degrees., The comments suggest it might have been an aircraft.",
+    "sighted object": "one unidentified object",
+    "location": "Wichita, Kansas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses were mentioned.",
+    "contains photographs": false
 }

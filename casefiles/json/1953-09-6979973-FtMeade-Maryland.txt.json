@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Three unidentified flying objects were observed over Fort Meade, Maryland on September 1-3, 1953.",
-    "interesting points": [
-        "The objects were observed for 10 minutes.",
-        "The objects were described as a single golden light similar to a star, about four times larger in diameter.",
-        "The objects moved very swiftly from southeast to northwest and disappeared rapidly, then reappeared.",
-        "The objects were faster than any known aircraft and very maneuverable.",
-        "Andrews Air Force Base also received reports of similar objects, but no radar contact was established."
-    ],
-    "result": "unexplained",
+    "main event": "A formation of three unidentified flying objects was observed over Ft Meade, Maryland during the early hours of September 1-3, 1953.",
+    "interesting points": "The objects were observed for about 10 minutes., The source of the report was military., There was no physical evidence or photographs present., The investigation concluded it could not be determined what the objects were., The location of observation at Ft Meade, Md., is significant due to its military background.",
     "sighted object": "three unidentified flying objects",
-    "location": "Fort Meade, Maryland",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "location": "Ft Meade, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "V. E. Hansom, Capt., AGD",
+    "contains photographs": false
 }

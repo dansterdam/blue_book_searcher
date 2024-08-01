@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single unidentified aerial object was observed near Clarion, Pennsylvania on January 13, 1968.",
-    "interesting points": [
-        "The object was observed for 6 minutes and remained stationary in the sky.",
-        "The observer described the object as a bright light that was almost twice as bright as the stars.",
-        "The object had an irregular, flickering light intensity and a whitish glow.",
-        "The object appeared to slowly revolve or turn.",
-        "The observer could not determine how the object disappeared from view."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright white or pale yellow light in the sky",
-    "location": "Clarion, Pennsylvania",
-    "witnesses": "a civilian observer",
-    "photographs": "none"
+    "main event": "A UFO was sighted in Clarion, Pennsylvania on January 12, 1968, which was classified as unidentified due to the lack of further information about the object's disappearance.",
+    "interesting points": "The sighting lasted for 6 minutes,The object was observed while stationary,There was no physical evidence of the UFO,The observer reported the object appeared brighter than the brightest stars,The witness stated there was no sound associated with the sighting.",
+    "sighted object": "one unidentified flying object",
+    "location": "Clarion, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was a 53-year-old male.",
+    "contains photographs": false
 }

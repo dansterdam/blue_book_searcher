@@ -1,15 +1,9 @@
 {
-    "main event": "A round, bright white light was observed for 5 minutes, changing course 3 times and leaving a long trail.",
-    "interesting points": [
-        "The object faded in 3 places.",
-        "2 pilots reported seeing a flaming object falling fast and disappearing into a cloud.",
-        "The object was going too fast to be a satellite.",
-        "The case was listed as uncertain.",
-        "USAF pilots reported seeing a very bright light that flared up and disintegrated into 4 pieces rapidly fading out in 5 seconds."
-    ],
-    "result": "uncertain",
-    "sighted object": "Round, bright white light; flaming, falling object",
-    "location": "Near Vandenberg AFB, California",
-    "witnesses": "Pilots, other observers over a wide geographical area",
-    "photographs": "No photographs"
+    "main event": "A round bright white light was observed for 5 minutes, with reports of a flaming object falling rapidly and disappearing into clouds.",
+    "interesting points": "The object changed its course three times,The object had a long trail,No satellite data was available for the object,The sighting was recorded over a wide geographical area,The case is listed as uncertain.",
+    "sighted object": "round bright white light",
+    "location": "Vandenberg AFB, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witness details provided",
+    "contains photographs": false
 }

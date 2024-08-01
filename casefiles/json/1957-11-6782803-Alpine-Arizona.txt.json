@@ -1,15 +1,9 @@
 {
-  "main event": "On 15 November 1957, in Alpine, Arizona, a very bright, spherical object was observed for 20 minutes, exhibiting erratic circular motion and extreme brilliance at times.",
-  "interesting points": [
-    "The observation was classified as a ground-visual type with no photographs available.",
-    "An astro plot indicated that the reported location of the sighting matched that of Venus at the time.",
-    "The object remained at the same altitude and exhibited erratic circular motion for the duration of the observation.",
-    "The observer was described as a housewife using binoculars to view the object.",
-    "The conclusion suggested a possible identification of the object as a weather balloon."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "a very bright, spherical object",
-  "location": "Alpine, Arizona",
-  "witnesses": "a housewife",
-  "photographs": "no"
+    "main event": "A sighting of a very bright spherical object in erratic circular motion in Alpine, Arizona on November 15, 1957.",
+    "interesting points": "The object was observed for 20 minutes,The object was described as very brilliant,An astro plot indicates Venus was in the reported location at the time of the sighting,The object was spotted at night using binoculars,The report suggests the possibility of the object being a weather balloon.",
+    "sighted object": "very bright spherical object",
+    "location": "Alpine, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife",
+    "contains photographs": false
 }

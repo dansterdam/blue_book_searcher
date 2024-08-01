@@ -1,15 +1,9 @@
 {
-    "main event": "Three unidentified flying objects were sighted in the sky over Belmar, New York on December 1, 1953.",
-    "interesting points": [
-        "The objects were described as bright, round, and silver or white in color.",
-        "The objects moved very rapidly in a southeasterly direction, much faster than any jet aircraft the witness had seen.",
-        "The objects appeared to be at a very high altitude.",
-        "The sighting was reported to the nearest Air Force office.",
-        "The document was part of the U.S. Air Force's Project Blue Book investigation into unidentified flying objects."
-    ],
-    "result": "insufficient data to make a determination",
-    "sighted object": "three bright, round, silver or white objects",
-    "location": "Belmar, New York",
-    "witnesses": "GX military",
-    "photographs": "no"
+    "main event": "Three bright unidentified objects were sighted moving rapidly in the sky over Belmar, New York on December 1, 1953.",
+    "interesting points": "The objects were described as silver or white in color and moved very rapidly in a southeasterly direction., The sighting duration was reported to be between 30 seconds to 1 minute., The objects appeared to be at a very high altitude., The sighting involved three confirmed witnesses including military personnel., No satisfactory photographs were taken despite photographic coverage being considered.",
+    "sighted object": "three bright round objects in the sky",
+    "location": "Belmar, New York, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Sergeant James F. Molnar, Colonel Charles F. Stuart, Major Thomas P. Allen, all from the 5th Air Force",
+    "contains photographs": false
 }

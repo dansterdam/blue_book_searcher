@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A meteor-like object with a red head and a brushy white tail was observed in the sky west-southwest of the Hawaiian Islands.",
-    "interesting points": [
-        "The object diminished in brilliance until it disappeared.",
-        "The object's tail was the same size as its head.",
-        "The sighting was observed by around 25 people, and their descriptions agreed.",
-        "The object resembled a slow-moving shooting star or perhaps a satellite entering the atmosphere.",
-        "The sighting lasted for about 5 seconds."
-    ],
-    "result": "astronomical",
-    "sighted object": "meteor-like object with a red head and brushy white tail",
-    "location": "West-southwest of the Hawaiian Islands",
-    "witnesses": "around 25 people",
-    "photographs": "no"
+    "main event": "On 10 May 1960, a meteor-like object with a red head and bluish-white tail was observed for about 3 seconds over the WSW of Hawaiian Islands.",
+    "interesting points": "The object was described as having a size with the head and tail being the same width., It diminished in brilliance until it disappeared., The sighting was confirmed by approximately 25 persons., The duration of the sighting was very brief, lasting only 5 seconds., The description was typical of a meteor, according to comments in the report.",
+    "sighted object": "one meteor-like object",
+    "location": "Hawaiian Islands",
+    "number of confirmed witnesses": 25,
+    "witness description": "Descriptions agree, resembled a slow-moving shooting star, perhaps a satellite entering atmosphere",
+    "contains photographs": false
 }

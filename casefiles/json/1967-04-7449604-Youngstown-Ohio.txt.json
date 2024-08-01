@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright flash of light was observed in the sky over Youngstown, Ohio on April 4, 1967.",
-    "interesting points": [
-        "The object was described as clear in appearance and moving slowly to ascend and glide.",
-        "The object was estimated to be about 3 feet in diameter.",
-        "The object disappeared behind a building.",
-        "Other witnesses in the area also reported seeing the same or similar object.",
-        "The sighting lasted for a total duration of approximately 25-30 seconds."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright flash of light",
-    "location": "Youngstown, Ohio",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs available"
+    "main event": "On April 4, 1967, three witnesses observed an unidentified object in Youngstown, Ohio.",
+    "interesting points": "The object was white with a light blue haze around it in the early morning light., The object seemed to appear as a flash before disappearing behind a building., The witnesses indicated the object moved silently and was estimated to be about 20-30 miles per hour., The object was estimated to be about 50 yards away from the witnesses when observed., One witness described the size of the object as being covered by about half a match stick.",
+    "sighted object": "unidentified object in the sky",
+    "location": "Youngstown, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "young observers including at least one 13-year-old boy",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A sighting of an 'Unidentified Light'",
-    "interesting points": [
-        "The sighting was reported to the ATIC Aerial Phenomena Section, who requested additional information through a questionnaire.",
-        "The report mentions that the ATIC had reviewed the detailed information included with the initial report.",
-        "The report is in the form of a letter from Gladys Vise of the Civilian Information Division, requesting the completion of the attached questionnaire.",
-        "The report does not contain any photographs or details about the actual sighting, only the administrative handling of the report.",
-        "The report mentions that the sighting is being investigated as part of the ATIC's 'continuing investigation' into unidentified aerial phenomena."
-    ],
-    "result": "unknown",
-    "sighted object": "unidentified light",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A letter was sent regarding an 'Unidentified Light' sighting, requesting further information.",
+    "interesting points": "The record card indicates that UFO sightings were documented using a specific form., The letter was addressed to a person who provided information about the sighting., The ATIC Aerial Phenomena Section is actively investigating the 'Unidentified Light' sighting., Completed questionnaires were requested to help with the investigation., The document included various conclusions that could be drawn from UFO sightings.",
+    "sighted object": "Unidentified Light",
+    "location": "Not specified",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a star-shaped, lemon-colored object that was bright white and reddish as it faded in Hicksville, NY.",
-    "interesting points": [
-        "The object was described as star-shaped and very large.",
-        "The object changed colors from bright white to reddish as it faded.",
-        "The object was observed for about an hour.",
-        "The sighting was reported to the Air Force as an unidentified flying object.",
-        "The Air Force officer on duty suggested the object was likely a planet that attracted the witness's attention."
-    ],
-    "result": "unknown",
-    "sighted object": "a star-shaped, lemon-colored object",
-    "location": "Hicksville, NY",
-    "witnesses": "a machinist",
-    "photographs": "no"
+    "main event": "A witness observed a single cub-shaped object in Hicksville, N.Y. on March 10, 1959.",
+    "interesting points": "The object was described as having a distant yellow color,The sighting lasted around 5 seconds,The observation type was ground-visual,There were no other identifications known by sources,The report concluded there was insufficient data for proper evaluation.",
+    "sighted object": "cub-shaped object",
+    "location": "Hicksville, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Machinist in Hicksville, N.Y.",
+    "contains photographs": false
 }

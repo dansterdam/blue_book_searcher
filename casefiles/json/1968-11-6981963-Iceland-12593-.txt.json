@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple elliptical or disc-shaped unidentified flying objects were observed and photographed over Iceland on November 6, 1968.",
-    "interesting points": [
-        "The objects were observed by both Air Force and civilian personnel.",
-        "The objects were described as having illuminated sections and moving in irregular patterns at high speeds.",
-        "The objects were observed over an extended period, maneuvering around the area.",
-        "The weather conditions were overcast with reduced visibility.",
-        "The report includes three photographs, although the quality of the images is not specified."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple elliptical or disc-shaped unidentified objects",
+    "main event": "Multiple elliptical or disc-shaped objects were observed maneuvering at high speeds over Iceland on November 6, 1968.",
+    "interesting points": "The objects had illuminated sections and moved in irregular patterns, observations were made by both Air Force and civilian personnel, the objects were photographed during the observation, visibility was reduced due to overcast conditions, the sighting lasted for an extended period.",
+    "sighted object": "multiple elliptical or disc-shaped objects",
     "location": "Iceland",
-    "witnesses": "Air Force and civilian personnel",
-    "photographs": "yes, the report includes 3 photographs"
+    "number of confirmed witnesses": 2,
+    "witness description": "Air Force and civilian personnel",
+    "contains photographs": true
 }

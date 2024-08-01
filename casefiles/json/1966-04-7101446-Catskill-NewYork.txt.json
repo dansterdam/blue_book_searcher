@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An elongated object emitting red and green lights was observed maneuvering in the sky over the Catskill Mountains in New York on April 11, 1966.",
-    "interesting points": [
-        "The object was seen for about 15 minutes before it disappeared.",
-        "A child reportedly observed an unidentified light in the sky near Catskill, New York on April 10, 1966.",
-        "The report was part of Project Blue Book, the U.S. Air Force's official program for investigating UFO sightings.",
-        "Major Hector Quintanilla, the Chief of Project Blue Book, requested that the witnesses complete and return Project Blue Book forms 164 to provide more information for the investigation.",
-        "The report indicates that the information provided was not sufficient for evaluation, so the Air Force was seeking additional details from the witnesses."
-    ],
-    "result": "unexplained",
+    "main event": "Witnesses reported an elongated object emitting red and green lights maneuvering in the sky over Catskill, New York on April 6, 1966.",
+    "interesting points": "The object was observed for approximately 15 minutes before it disappeared., The sighting involved a couple named Mr. & Mrs. Patterson., The object was reported to have emitted both red and green lights., A letter from Major HECTOR QUINTANILLA, Jr. requested more information about an observation from April 11, 1966., There were multiple reports of unidentified lights in the sky in the Catskill area around this time.",
     "sighted object": "an elongated object emitting red and green lights",
-    "location": "Catskill, New York",
-    "witnesses": "Mr. and Mrs. Patterson, a child",
-    "photographs": "no"
+    "location": "Catskill, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. & Mrs. Patterson, as well as a child who reported a sighting.",
+    "contains photographs": false
 }

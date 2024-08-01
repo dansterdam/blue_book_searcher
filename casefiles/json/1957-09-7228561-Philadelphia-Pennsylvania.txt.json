@@ -1,15 +1,9 @@
 {
-  "main event": "Multiple objects were reported falling from the sky in Philadelphia, Pennsylvania on September 9-10, 1957.",
-  "interesting points": [
-    "The objects were evaluated as chaff used in jamming radar, according to the comments on the report.",
-    "The letter from the United States Air Force acknowledged the matter as deserving investigation and expressed interest in the object described as being under intelligent control by remote directions.",
-    "The report advised the sender to inspect aero charts nr. 310, obtainable for 30 cents, to confirm the heavy air traffic in the area.",
-    "There is a clear indication of the Air Force's policy not to become involved in or comment on speculative discussions, as mentioned in one of the letters.",
-    "Another letter reported a sighting of an Unidentified Flying Object in the Bakersfield, California area, which was also forwarded to the Headquarters for investigation and/or evaluation."
-  ],
-  "result": "prozaic explanation - evaluated as chaff used in jamming radar",
-  "sighted object": "multiple objects falling from the sky",
-  "location": "Philadelphia, Pennsylvania",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "Multiple objects were observed falling from the sky on 9-10 September 1957.",
+    "interesting points": "The observation was documented as part of Project Blue Book,The report categorized the objects as potentially being chaff used in jamming radar,The letters indicate interest from the Air Force regarding the sighting,The location is near heavy air traffic, indicating possible explanations for the sighting,The report included correspondence among various governmental agencies about the sighting.",
+    "sighted object": "multiple falling objects",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two red, round objects were observed in the sky for 1 hour and 30 minutes over Orlando, Florida on March 25, 1961.",
-    "interesting points": [
-        "One of the objects appeared to be the size of a dime, while the other was button-sized.",
-        "The smaller object flashed white once or twice.",
-        "The objects were staggered some distance apart, approximately 10 degrees.",
-        "The larger object appeared as two red lights fusing together.",
-        "The observer noted the objects remained in a fixed position during the sighting."
-    ],
-    "result": "Identified as the planets Mars and Jupiter",
-    "sighted object": "two red, round objects",
-    "location": "Orlando, Florida",
-    "witnesses": "Mrs. B., a 44-year-old civilian clerical assistant",
-    "photographs": "No photographs were taken"
+    "main event": "A civilian observed two red objects in the sky for one and a half hours in Orlando, Florida on March 25, 1961.",
+    "interesting points": "Both objects appeared round and red and were situated some distance apart,One of the objects was approximately 50 degrees azimuth and the other at 45 degrees azimuth,The smaller object flashed white once or twice,The objects were visible when the observer went indoors,The local planetarium reported that the planets Mars and Jupiter were in the area at the time of the sighting.",
+    "sighted object": "two red objects in the sky",
+    "location": "Orlando, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, Mrs. B, 44 years old, 2 years college education",
+    "contains photographs": false
 }

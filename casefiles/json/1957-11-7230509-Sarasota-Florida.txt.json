@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed by a control tower operator at the Sarasota Airport in Florida on November 5, 1957.",
-    "interesting points": [
-        "The object appeared to be at an altitude of around 25,000 to 30,000 feet and was brighter than an airplane.",
-        "The object moved rapidly, climbed higher, and then faded away after approximately 2 minutes of observation.",
-        "The object was observed through a pair of 6x30 binoculars.",
-        "The weather conditions were clear with high scattered cirrus clouds.",
-        "The report notes that the object could have been a high-altitude aircraft or a high balloon, possibly Sputnik."
-    ],
-    "result": "undetermined",
-    "sighted object": "a bright, metallic-looking object",
-    "location": "Sarasota, Florida",
-    "witnesses": "control tower operator",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in Sarasota, Florida on November 5, 1957.",
+    "interesting points": "The object appeared circular in shape and climbed to a high altitude before fading away., The brightness of the object was noted to be brighter than an airplane., The observation was made through binoculars and lasted approximately 2 minutes., The azimuth was reported at 99 degrees from the Sarasota control tower., Initial thoughts were that the object was a reflection of the sun off a high metallic object.",
+    "sighted object": "unidentified flying object",
+    "location": "Sarasota, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "control tower operator at Sarasota Airport",
+    "contains photographs": false
 }

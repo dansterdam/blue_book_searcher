@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was observed over Exeter, New Hampshire on October 21, 1955.",
-    "interesting points": [
-        "The object was described as stationary, round, and appeared to be red and orange in color.",
-        "The object remained stationary during the one-minute observation.",
-        "The observation was made by both civilian and military (Ground Observer Corps) witnesses.",
-        "On October 22, 1955, a separate report describes a fast-moving, bright object that was observed for 15 minutes before disappearing.",
-        "The Project Blue Book report was inconclusive, with the conclusions listing several possible explanations such as a balloon, aircraft, or astronomical object."
-    ],
-    "result": "unexplained",
-    "sighted object": "A stationary, round object that appeared red and orange in color",
-    "location": "Exeter, New Hampshire",
-    "witnesses": "Civilian and military (Ground Observer Corps)",
-    "photographs": "none"
+    "main event": "An observation was made of a stationary round object appearing red and orange on October 21, 1955, in Exeter, New Hampshire.",
+    "interesting points": "The observation lasted for one minute., The object was described as stationary and round, with its size unknown., The color of the object appeared to be red and orange., The document concluded the object could be a balloon, aircraft, or astronomical phenomenon., Another fast-moving bright object was observed the next day traveling at very high speed.",
+    "sighted object": "one stationary round object",
+    "location": "Exeter, New Hampshire, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian and military (GOC)",
+    "contains photographs": false
 }

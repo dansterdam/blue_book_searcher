@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian in Dayton, Ohio reported seeing an unknown object in the sky on June 30, 1967 around 11 PM.",
-    "interesting points": [
-        "The object appeared gray and oval-shaped, and seemed to move faster than a normal aircraft.",
-        "The object moved behind and in front of clouds at times during the sighting.",
-        "The witness described the object as making a high-pitched sound and appearing larger than the end of a match stick held at arm's length.",
-        "The witness drew a sketch of the oval-shaped object with some lines around it to suggest movement or exhaust trails.",
-        "The witness stated the object was not a known star or airplane and that it dipped down towards their house before shooting straight up into the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "gray, oval-shaped object",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A UFO was reported over Dayton, Ohio on 5 June 1967, but the document indicates insufficient data for evaluation.",
+    "interesting points": "The number of objects was recorded as unknown., The length of observation was marked as unknown., The object was reported by a civilian source., The conclusion of the report was 'INSUFFICIENT DATA FOR EVALUATION.', There are references to various questions regarding the object's movement, sound, and appearance.",
+    "sighted object": "unknown",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The report source is a civilian, but no witness names or details are specified.",
+    "contains photographs": false
 }

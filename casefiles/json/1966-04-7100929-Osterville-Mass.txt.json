@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "A witness spotted a rectangular object, 2 ft long and 1 ft wide, which traveled a level path and went from 20 deg elevation in the north to 20 deg elevation in the south in 5 seconds.",
-    "interesting points": [
-        "The object was described as rectangular and bluish-white in color.",
-        "Two white lights were seen on one end of the object.",
-        "The object seemed opaque and was observed to be in level flight.",
-        "The object moved instantly to the south after being observed.",
-        "The witness, Aaron McHart, was described as sincere and frank during the telephone interview."
-    ],
-    "result": "ASTRO (METEOR)",
+    "main event": "An observer sighted a rectangular object in Osterville, Massachusetts on April 10, 1966.",
+    "interesting points": "The observer described the object as 2 feet long and 1 foot wide,The sighting lasted for only 5 seconds,The object traveled from 20 degrees elevation in the north to 20 degrees elevation in the south,No sound was observed during the sighting,The conclusion of the report is that the object was a meteor.",
     "sighted object": "a rectangular object",
-    "location": "Osterville, Mass",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "location": "Osterville, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer seemed sincere and frank during the telephone interview.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A pilot spotted a light over Toledo, Ohio on September 15-16, 1967.",
-    "interesting points": [
-        "The object appeared as a steady navigation light and was in a slow or stationary pattern.",
-        "The observer reported sparks falling downward from the object, which disappeared when the object turned off its lights.",
-        "The object was not noticed again in the morning paper, suggesting it may have been a balloon.",
-        "The observer was an international guard pilot who was training and returning home after a flight.",
-        "Another captain commented that the object was identified in the morning papers as a satellite."
-    ],
-    "result": "likely a balloon or satellite",
-    "sighted object": "a steady light",
-    "location": "Toledo, Ohio",
-    "witnesses": "civilian pilot",
-    "photographs": "no"
+    "main event": "On 15-16 September 1967, an observer at Toledo Express Airport, Ohio, reported seeing a light in the sky, which appeared to be a navigation light, observed for 20 minutes.",
+    "interesting points": "The object was in a slow motion or stationary pattern., Sparks were seen falling downward from the object before it turned off its lights., The object was not identified as a balloon in the morning paper., The observer described the object as brighter than car headlights., The observer was a military pilot returning home after a flight.",
+    "sighted object": "a steady navigation light in the sky",
+    "location": "Toledo, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A military pilot and a companion",
+    "contains photographs": false
 }

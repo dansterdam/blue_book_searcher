@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Witnesses reported a bright object or 'dark cloudy mass' passing overhead at about 60 mph at 3,000 feet in West Virginia on August 30, 1962.",
+    "interesting points": "The object seemed to approach close and then disappear with no sound,The sighting lasted for about 2-3 minutes,The object was initially thought to be an airplane but no sound was heard,Conclusions suggested it could be a balloon, aircraft, or satellite,This sighting is part of a larger investigation by Project Blue Book.",
+    "sighted object": "bright object or dark cloudy mass",
+    "location": "West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported seeing the object while observing in the early morning hours.",
+    "contains photographs": true
 }

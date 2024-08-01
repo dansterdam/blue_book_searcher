@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A radar target, described as non-defined, exploded 3-5 miles away from the aircraft.",
-    "interesting points": [
-        "The radar target was on a heading of 099 degrees at an altitude slightly less than 7,000 feet.",
-        "The aircraft was on a heading of 330 degrees at 7,000 feet when it sighted the object.",
-        "The object approached the aircraft from the front at a closure speed described as faster than expected for a piston aircraft but normal for a jet.",
-        "The object exploded with a white flash and reddish-white center, but was not tracked by the radar operator.",
-        "The aircraft commander and pilot could not determine the outline of the object due to darkness and had assumed it was a jet aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a radar target, described as non-defined",
-    "location": "30N 125W Pacific",
-    "witnesses": "two pilots in aircraft ETHAN-26",
-    "photographs": "none"
+    "main event": "A fast flying object was observed by two pilots of an Ethan-26 aircraft, which exploded and disappeared.",
+    "interesting points": "The object was believed to be a fast moving aircraft before it exploded,The explosion occurred at a distance of 3 to 5 miles from the aircraft,The explosion was described as a white flash with a reddish white center,The object was not tracked by the radar operator during the incident,The sighting involved two pilots with significant flying hours: Capt Lowell Call (7000 hours) and Lt Clyde T. Dennis (4000 hours).",
+    "sighted object": "fast flying object that exploded",
+    "location": "Pacific, Unknown, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilots of an Ethan-26 aircraft",
+    "contains photographs": false
 }

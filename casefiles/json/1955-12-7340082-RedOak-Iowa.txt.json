@@ -1,15 +1,9 @@
 {
-  "main event": "On December 17th, 1955, an unidentified object was observed exploding in the sky, changing colors from white to red to blue. The sighting lasted for approximately 15 seconds.",
-  "interesting points": [
-    "The object changed colors from white to red to blue and was observed to explode in the sky.",
-    "The sighting was believed to be caused by a meteorite, supported by the observations of multiple witnesses and the collective professional opinion of experts.",
-    "The object was described as moving in a characteristic downward trajectory, similar to a meteorite of unusual size.",
-    "Witnesses in different locations had varying interpretations of the object's behavior, with some believing it burned out and others thinking it struck the earth.",
-    "Despite initial speculation, the investigation concluded that the object was a high altitude natural phenomenon and not an unknown or unidentified flying object."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "an unidentified object exploding in the sky",
-  "location": "Red Oak, Iowa, USA",
-  "witnesses": "Captains, commercial pilots, CAA control tower operators, and high school students",
-  "photographs": "no photographs were taken"
+    "main event": "An unidentified soundless object was observed to explode in the sky near Red Oak, Iowa on 17 Dec 55.",
+    "interesting points": "The object changed colors from white to red to blue during its descent,The sighting lasted approximately 15 seconds,Various eyewitnesses, including a high school student and air traffic controllers, reported seeing the same object,Professional opinions suggested it was a meteorite based on its trajectory and characteristics,The object burned out in the horizon before disappearing from view.",
+    "sighted object": "a soundless object changing colors",
+    "location": "Red Oak, Iowa, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "A 15-year-old high school student and two air traffic controllers in Kansas City, Missouri.",
+    "contains photographs": false
 }

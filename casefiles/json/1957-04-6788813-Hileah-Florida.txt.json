@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One object, round with tail, size of quarter, color white with orange tail. Tail three times longer than body.",
-    "interesting points": [
-        "The object was observed for 5 seconds.",
-        "The object was described as falling.",
-        "The conclusion was that it was a larger than normal size meteor in a state of decomposition.",
-        "The object was observed from the ground, both visually and on radar.",
-        "The sighting occurred on April 14, 1957 at 20:19 local time in Hialeah, Florida."
-    ],
-    "result": "Unknown",
-    "sighted object": "One round object with a tail",
-    "location": "Hialeah, Florida",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "One object observed falling from the sky, described as round with a tail, during a sighting on 14 April 1957.",
+    "interesting points": "The object was the size of a quarter, It was white with an orange tail that was three times longer than the body, The observation lasted for 5 seconds, The sighting was reported by civilians, The conclusion suggested it might be a meteor of larger than normal size.",
+    "sighted object": "one round object with a tail",
+    "location": "Hialeah, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians including a housewife and another individual.",
+    "contains photographs": false
 }

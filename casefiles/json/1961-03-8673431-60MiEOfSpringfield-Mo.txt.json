@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright green light was observed by the crew of a B-47 bomber near Springfield, Missouri.",
-    "interesting points": [
-        "The light was bright enough to illuminate the cockpit of the aircraft.",
-        "The light was estimated to be about 1,000 feet from the aircraft.",
-        "The light was also observed by two additional B-47 bombers in the same general area.",
-        "The light descended from the pilot's right to left but did not appear to be moving at an extremely high rate of speed.",
-        "The light left no trail, unlike a meteorite or burning nose cone."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright green light",
-    "location": "60 miles east of Springfield, Missouri",
-    "witnesses": "crew of a B-47 bomber and two additional B-47 bombers",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported near Springfield, Missouri on March 21, 1961.",
+    "interesting points": "The object was visually observed as a pulsating light about the size of a silver dollar and appeared to remain stationary for 20 minutes,The sighting was confirmed by a radar operator who tracked the object,It was reported by a tower operator along with 4-5 additional witnesses on the ground,The object had no lights and would intermittently appear brighter or dimmer,The document is part of the Project Blue Book records which aimed to investigate unidentified aerial phenomena.",
+    "sighted object": "a pulsating light",
+    "location": "Springfield, Missouri, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "tower operator and several witnesses on the ground",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white object was observed orbiting near a ship at coordinates 21.15N 170.15W on November 3, 1961.",
-    "interesting points": [
-        "The object appeared to be the size of a pinhead and was sighted by the navigator while shooting stars.",
-        "The object's initial position was observed at an angle of approximately 30 degrees, but then faded and reappeared at an angle of 17 degrees.",
-        "The object was tracked on a course of approximately 040 degrees and was eventually lost in the haze.",
-        "The object was observed with the naked eye and a navigator's sextant.",
-        "The sighting occurred at 0305SZ on November 3 at dusk, and the ship's location was 21-15N 170-15W."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, white object",
+    "main event": "A UFO sighting involving three round white objects was reported, observed using ground radar and air intercept radar over a duration of 10 minutes.",
+    "interesting points": "The sighting lasted for approximately 10 minutes, The objects appeared to be orbiting, They were observed disappearing and reappearing at a specific location, The coordinates of the sighting are 21.15N 170.15W, The report was considered unclassified and high reliability based on the observers.",
+    "sighted object": "three round white objects",
     "location": "21.15N 170.15W",
-    "witnesses": "navigator, Lt. USN executive officer (highly reliable), Lt. jg. USN on temporary additional duty (highly reliable)",
-    "photographs": "no photographs obtained"
+    "number of confirmed witnesses": 2,
+    "witness description": "Highly reliable naval officers observing the objects while shooting stars.",
+    "contains photographs": false
 }

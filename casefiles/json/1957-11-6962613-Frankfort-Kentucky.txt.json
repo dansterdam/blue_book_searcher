@@ -1,15 +1,9 @@
 {
-  "main event": "On November 25, 1957, in Frankfort, Kentucky, a civilian reported seeing a round white object the size of a dime flying in a straight path for six seconds.",
-  "interesting points": [
-    "The object was described as round, white, and the size of a dime.",
-    "The sighting lasted only six seconds, indicating a brief observation.",
-    "The conclusion suggested that the object was likely a balloon or possibly a meteor due to the short duration of the sighting.",
-    "The source of the report was a civilian from the Air National Guard (ANG).",
-    "The report mentioned that there were no photographs of the object."
-  ],
-  "result": "prosaic explanation: possibly a balloon or meteor",
-  "sighted object": "one round white object",
-  "location": "Frankfort, Kentucky",
-  "witnesses": "civilian from the Air National Guard (ANG)",
-  "photographs": "no"
+    "main event": "A civilian reported seeing one round white object the size of a dime in Frankfort, Kentucky on 25 November 1957.",
+    "interesting points": "The object was observed for a duration of six seconds., The object was on a straight flight path., The observation was classified as ground-visual., Six different conclusions were noted regarding the nature of the object., The witness considered it could be a balloon or an aircraft.",
+    "sighted object": "one round white object",
+    "location": "Frankfort, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian (ANG)",
+    "contains photographs": false
 }

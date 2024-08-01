@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian driver spotted an unidentified object suddenly appear above the trees while driving along the highway.",
-    "interesting points": [
-        "The object appeared to flash on and off every 2-3 seconds before disappearing.",
-        "The witness, along with their grandfather and mother, all observed the identical object.",
-        "Confirmation was made that there were parties from Detroit vacationing in the Great Lakes area at the time, but their identities were unknown.",
-        "No photographs of the object were taken.",
-        "The incident was reported to an official Air Force agency for investigation."
-    ],
-    "result": "unknown",
-    "sighted object": "a white light object that would flash on and off",
-    "location": "Monrovia, California",
-    "witnesses": "civilian driver, grandfather, mother",
-    "photographs": "none"
+    "main event": "Two reliable citizens reported a sighting of an unidentified flying object in Clarke, Montana on February 7, 1952.",
+    "interesting points": "The sighting occurred at approximately 7:21 P.M.,The object was described as a flying saucer or unidentified flying object,There were no further details about the appearance or behavior of the object provided in the report,This sighting is part of a larger investigation documented in Project Blue Book,The report indicates that the witnesses were considered reliable and responsible citizens.",
+    "sighted object": "unidentified flying object",
+    "location": "Clarke, Montana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "reliable and responsible citizens",
+    "contains photographs": false
 }

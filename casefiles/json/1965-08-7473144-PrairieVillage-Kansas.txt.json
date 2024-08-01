@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A single bright blue-white light ball was observed for about 3 minutes, with a red spark-like surrounding intense glow that was too bright for the observer to continue looking at directly.",
-    "interesting points": [
-        "The light was estimated to be at an altitude of around 5,000 feet.",
-        "The light exhibited a slow speed and large size, indicating it could have been an experimental craft.",
-        "A green light also appeared, coming from the south, turning north, and disappearing in the distance.",
-        "An airplane was sighted a few minutes after the object disappeared, providing a clear contrast.",
-        "The observation occurred at night with a clear sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single bright blue-white light ball with a red spark-like surrounding glow",
-    "location": "Prairie Village, Kansas",
-    "witnesses": "a 33-year-old plant manager, who appears reliable",
-    "photographs": "none"
+    "main event": "A civilian observed a bright blue-white light ball in the sky which was thought to be a prototype jet aircraft.",
+    "interesting points": "The observation lasted for about 3 minutes., The object emitted a bright light with a red spark-like surrounding glow., The light dimmed and disappeared to the north before a green light appeared from the south., The light was estimated to be 5,000 ft high and exhibited slow speed., A conventional airplane was sighted a few minutes after the object disappeared, providing contrast for comparison.",
+    "sighted object": "a bright blue-white light ball",
+    "location": "Prairie Village, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 33-year-old plant manager, described as reliable",
+    "contains photographs": false
 }

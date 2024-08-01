@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object the size of a dime was observed making erratic and highly erratic maneuvers in the sky in Kansas City, Missouri on April 30, 1955.",
-    "interesting points": [
-        "The object was observed for 2-3 minutes.",
-        "The Air Force also observed the same phenomenon and stated that local research activity was the likely cause of the sighting.",
-        "The report includes a conclusion that there was insufficient data for evaluation.",
-        "The report indicates that a photograph of the object was taken.",
-        "The object was described as moving at a tremendous speed with highly erratic movements and maneuvers."
-    ],
-    "result": "unknown",
-    "sighted object": "one round object the size of a dime",
-    "location": "Kansas City, Missouri",
-    "witnesses": "unknown",
-    "photographs": "yes"
+    "main event": "On April 30, 1955, a round object the size of a dime was observed traversing the sky at tremendous speed with highly erratic movements.",
+    "interesting points": "The sighting lasted for 2-3 minutes,The object maneuvered with incredible speed and sharp turns,The object was initially categorized as a possible balloon,Comments suggested that visual searchlight activity may have caused the sighting,The sighting involved reports from the Air Force as well.",
+    "sighted object": "one round object",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Individual observing the round object.",
+    "contains photographs": false
 }

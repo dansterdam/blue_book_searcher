@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A bright star-like light was observed moving erratically back and forth overhead in Las Vegas, Nevada on September 10, 1968.",
-    "interesting points": [
-        "The object appeared to be self-luminous and of a bright blue-white color.",
-        "The observer could not determine the size or shape of the object as they were blinded by its intense light.",
-        "The object started slowly and then rapidly increased in speed, moving away between power lines behind the observer's house.",
-        "Nellis Air Force Base and the North Las Vegas Airport also reported observing the object.",
-        "The object was estimated to be the size of a large star."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, star-like light",
-    "location": "Las Vegas, Nevada",
-    "witnesses": "multiple civilians",
-    "photographs": "no"
+    "main event": "A civilian observed a bright star-like object moving erratically in the sky for approximately three hours on September 10, 1968, in Las Vegas, Nevada.",
+    "interesting points": "The object was stationary at times but moved erratically back and forth, seemingly stopping briefly before darting in various directions., The witness described the object as having an intensity greater than that of the North Star and a blue-white color., The observation coincided with the visibility of Altair and Deneb in the night sky., Nellis Air Force Base personnel and North Las Vegas Airport reportedly also observed the same object., No physical evidence was recorded, and the sighting was deemed possibly an astronomical event.",
+    "sighted object": "bright star-like light",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Way Wies confirmed as the observer, who was cooperative and reliable.",
+    "contains photographs": false
 }

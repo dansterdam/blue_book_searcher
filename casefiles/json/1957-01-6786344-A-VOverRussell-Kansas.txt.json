@@ -1,15 +1,9 @@
 {
-  "main event": "On January 1, 1957, in Russell, Kansas, a civilian reported sighting one round blue-white object, the size of a pea at arm's length, moving from East to West and disappearing at a high rate of speed after being seen for a few seconds.",
-  "interesting points": [
-    "The object was described as a round blue-white object, the size of a pea at arm's length.",
-    "It moved from East to West and disappeared at a high rate of speed after being seen for a few seconds.",
-    "The observation was made air-visually by a pilot flying a Convair-Continental 500 at 15,000 feet in Denver, Colorado.",
-    "The document lists possible conclusions including 'Astronomical Meteor', 'Insufficient Data for Evaluation', and 'Unknown'.",
-    "Weather and winds-aloft conditions at the time of the sighting were noted as CAVU (Ceiling and Visibility Unlimited) with varying wind speeds at different altitudes."
-  ],
-  "result": "Possibly Astronomical",
-  "sighted object": "one round blue-white object",
-  "location": "Russell, Kansas",
-  "witnesses": "civilian, pilot",
-  "photographs": "no"
+    "main event": "One round blue-white object was observed over Russell, Kansas on January 1, 1957.",
+    "interesting points": "The object appeared to be the size of a pea at arm's length., The object moved from East to West at a high rate of speed., The sighting lasted for a 'few' seconds., The object disappeared from sight quickly after the initial observation., The phenomenon was suggested to be caused by a meteor based on its description.",
+    "sighted object": "one round blue-white object",
+    "location": "Russell, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

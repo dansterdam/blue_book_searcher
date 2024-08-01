@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, rotating object was observed over Skokie, Illinois on June 8, 1963.",
-    "interesting points": [
-        "The object was at an altitude of approximately 2,000 feet.",
-        "The object appeared to be very brightly lit and had brightly lit up portions around it.",
-        "The sighting was witnessed by the letter writer, who was 11 years old at the time, as well as the writer's father and 15-year-old brother.",
-        "The sighting occurred on the Edens Highway between Skokie and Highland Park, Illinois at around 9:30 PM.",
-        "The sighting lasted for an unspecified duration, but the Project Blue Book report card indicates it was a 5-hour observation."
-    ],
-    "result": "unknown",
-    "sighted object": "a very brightly lit, rotating object",
-    "location": "Skokie, Illinois",
-    "witnesses": "an 11-year-old, their father, and their 15-year-old brother",
-    "photographs": "no photographs included"
+    "main event": "A brightly lit rotating object was observed on the Edens Highway between Skokie and Highland Park, Illinois on June 8, 1963.",
+    "interesting points": "The object was seen by a child and his family., The object was at approximately 2,000 feet altitude., The light was described as elongated and very bright., The sighting lasted for about 5 hours., No motion was observed during the sighting.",
+    "sighted object": "a very brightly lit rotating object",
+    "location": "Skokie, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "an 11-year-old child, his father, and his 15-year-old brother",
+    "contains photographs": false
 }

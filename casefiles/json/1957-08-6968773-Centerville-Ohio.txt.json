@@ -1,15 +1,9 @@
 {
-    "main event": "Two star-like objects were observed in Centerville, Ohio on August 21, 1957.",
-    "interesting points": [
-        "The objects were observed for about 10 minutes.",
-        "The objects were described as two bright, star-like objects that disappeared rapidly after sunset.",
-        "The witness believed the objects were likely the planets Venus and Mars, which were very bright at that time.",
-        "The report concluded the objects were 'probably balloon' or 'possibly astronomical'.",
-        "No photographs of the objects were included in the report."
-    ],
-    "result": "Possibly astronomical",
-    "sighted object": "two bright, star-like objects",
-    "location": "Centerville, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Two star-like objects were observed in Centerville, Ohio on 21 August 1957.",
+    "interesting points": "The sighting lasted for about 10 minutes,The objects appeared brighter than the background sky,The report suggests that the objects may have been Venus and were very bright at the time,The objects moved rapidly and disappeared after sunset,The observer speculated that the objects might have been a weather balloon or sunlight reflecting.",
+    "sighted object": "two star-like objects",
+    "location": "Centerville, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was uncertain about the exact nature of the objects but noted their brightness and rapid disappearance.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A round, large, white object with a brilliant white streak was observed flying in a straight course from east to west over Orlando, Florida on 4th July 1955 for sixty to seventy seconds.",
-  "interesting points": [
-    "The object was observed by both military and civilian sources.",
-    "Observers in Miami and Palm Beach also sighted the same object.",
-    "The report suggested that the object was likely a meteorite based on its description and the duration of the sighting.",
-    "Speculation arose due to the brightness of the meteorite.",
-    "Photographs were taken during the sighting."
-  ],
-  "result": "prozaic explanation - likely a meteorite",
-  "sighted object": "round, large, white object with a brilliant streak",
-  "location": "Orlando, Florida",
-  "witnesses": "Military and Civilian",
-  "photographs": "yes the report includes photographs"
+    "main event": "A large, round white object was observed in the sky with a brilliant white streak trailing behind it.",
+    "interesting points": "The sighting lasted between sixty to seventy seconds,The object was seen by observers in Miami and Palm Beach as well,The report suggested that the object was probably a meteorite,The sighting has a well-defined trajectory from east to west,Speculation arose regarding the brightness of the meteorite.",
+    "sighted object": "a large round white object with a streak trailing behind",
+    "location": "Orlando, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "observers from military and civilian sources",
+    "contains photographs": true
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported by at least 25 residents in Cincinnati, Ohio on June 24, 1953.",
-    "interesting points": [
-        "The object was observed for 15 seconds and the case was concluded to be an astronomical event.",
-        "The object changed color from yellow-white to brilliant red and then to brilliant blue, and seemed to come over the observer to a distance of about 900 yards.",
-        "The object made a very gradual climb, accompanied by a whining noise which seemed to increase in intensity as it climbed, and appeared to be tilted off balance and go into a slight wobble as it moved away.",
-        "The witness, who was driving a car at the time, is considered to be of sound mind and reliable.",
-        "The object was described as bright, roughly circular, and several times the size of a star, and it disappeared from view after a few minutes of observation."
-    ],
-    "result": "astronomical (confirmed)",
-    "sighted object": "bright, roughly circular object several times the size of a star",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "at least 25 residents",
-    "photographs": "none"
+    "main event": "A UFO was observed by at least 25 residents in Cincinnati, Ohio on June 24, 1953, for a duration of 15 seconds.",
+    "interesting points": "The object was reported to change colors from yellow-white to brilliant red and then to brilliant blue.,Witnesses described the object as being the size of a medium automobile from their viewpoint.,The object emitted a whining noise as it changed altitude.,The sighting resulted in a conclusion of an astronomical event., The reported object was estimated to be 10,000 feet away.",
+    "sighted object": "unidentified aerial object",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 25,
+    "witness description": "residents of Cincinnati",
+    "contains photographs": false
 }

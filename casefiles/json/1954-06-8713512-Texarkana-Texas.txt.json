@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian night watchman at the Red River Arsenal saw a bright red, golden yellow object moving at a very high speed and altitude towards the southwest.",
-    "interesting points": [
-        "The object moved in an erratic, circular motion and made no noise.",
-        "The disappearance of the object was sudden.",
-        "The sighting occurred around the same time as an explosion of fragmentation cluster bombs in the nearby arsenal, but the cause of the explosion was undetermined.",
-        "Another witness, a civilian guard at the arsenal, reported seeing a traveling light at around 5,000-10,000 feet altitude, moving downward and making a humming sound.",
-        "The witnesses were described as reliable and conscientious observers."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright red, golden yellow object",
-    "location": "Red River Arsenal, Texarkana, Texas",
-    "witnesses": "a civilian night watchman and a civilian guard",
-    "photographs": "no"
+    "main event": "A civilian night watchman at Red River Arsenal observed a bright red object moving at a high altitude and speed on 8 June 1954.",
+    "interesting points": "The object was bright golden yellow in color with no tail and made no noise., It moved in an erratic circular motion and disappeared suddenly., The sighting lasted for about 15 minutes., A possible relation was noted between the object's movement and an explosion of fragmentation cluster bombs occurring at the same time., The watchman was noted as a reliable observer.",
+    "sighted object": "a bright red aerial object",
+    "location": "Texarkana, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian night watchman at Red River Arsenal",
+    "contains photographs": false
 }

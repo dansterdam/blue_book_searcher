@@ -1,15 +1,9 @@
 {
-  "main event": "Multiple UFO sightings and reports documented in Germany and the United States in the 1950s, including observations of bright objects, saucer-like movements, and unexplained flying phenomena.",
-  "interesting points": [
-    "The sightings occurred in locations such as Herford, Germany and involved observations of bright, bluish-white lights moving at high speeds.",
-    "One report suggested the observed object could have been a blimp, while another mentioned it was possibly a meteor.",
-    "Witnesses reported seeing unidentified objects that did not resemble known aircraft or natural phenomena, sparking curiosity and concern.",
-    "Some sightings included detailed descriptions of the objects' sizes, shapes, colors, and movements, as well as their durations and directions of disappearance.",
-    "The documents also contained questionnaires and technical information sheets used to collect data on UFO sightings, including details on weather conditions, observers' experiences, and previous knowledge of Project Blue Book."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright, bluish-white lights and saucer-like phenomena",
-  "location": "Herford, Germany and various locations in the United States",
-  "witnesses": "U.S. Army personnel and British subjects",
-  "photographs": "No photographs included in the report"
+    "main event": "A sighting of a bright object was reported in Herford, Germany, on May 5, 1955, observed for about 5 minutes.",
+    "interesting points": "The object appeared bright and high in altitude,It was suggested that the object could be a satellite or possibly a balloon,The observation was made during a clear night,At one point, the object was described as moving in a straight line at high speed,No photographs were taken during the sighting.",
+    "sighted object": "a bright object in the sky",
+    "location": "Herford, Germany",
+    "number of confirmed witnesses": 1,
+    "witness description": "A private first class in the army.",
+    "contains photographs": false
 }

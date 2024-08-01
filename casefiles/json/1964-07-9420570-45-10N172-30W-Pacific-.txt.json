@@ -1,15 +1,9 @@
 {
-    "main event": "A suspected satellite was observed in the Pacific Ocean in 1964.",
-    "interesting points": [
-        "The sighting was reported by the USAF and occurred on July 9, 1964.",
-        "The object was observed for around 3 hours, from 12:28 to 15:22.",
-        "The location of the sighting was in the Pacific Ocean at coordinates 45-00N 172-30W.",
-        "The report states that the object was evaluated as a satellite by the reporting unit.",
-        "The report was retransmitted to the CIA."
-    ],
-    "result": "Identified as a satellite",
-    "sighted object": "Unidentified object",
-    "location": "Pacific Ocean, 45-00N 172-30W",
-    "witnesses": "USAF",
-    "photographs": "None"
+    "main event": "An unidentified object was observed in the Pacific Ocean in 1964, but insufficient information was available to identify it.",
+    "interesting points": "The report from Project Blue Book includes a detailed analysis from Dr. Hynek,The sighting took place in the Pacific Ocean at the coordinates 45-00N 172-30W,No physical evidence or photographs were documented in the report,The nature of the object remains unknown, and it was suggested that it could potentially be a satellite.",
+    "sighted object": "unknown object or satellite",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "none provided",
+    "contains photographs": false
 }

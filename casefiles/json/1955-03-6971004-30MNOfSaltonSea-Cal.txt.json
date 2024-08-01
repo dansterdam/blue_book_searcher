@@ -1,15 +1,9 @@
 {
-    "main event": "A ground-visual observation of an unidentified object near the Salton Sea in California on March 15, 1955.",
-    "interesting points": [
-        "The observation lasted for 5 minutes.",
-        "The weather conditions were overcast and calm.",
-        "The report notes that the object could have been a balloon, but there was insufficient data to make a conclusive determination.",
-        "There were no photographs taken of the object.",
-        "No military personnel were involved in the observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object",
-    "location": "40 m S of Salton Sea, Cal.",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported near the Salton Sea at 0325 PST on 15 March 1955.",
+    "interesting points": "The observation lasted for 5 minutes,The weather conditions were overcast and calm,The report states that the object could have been a balloon,There were no military personnel involved in the observation,No photographs were taken or included in the report",
+    "sighted object": "unknown object possibly a balloon",
+    "location": "Salton Sea, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no military personnel present",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "An unidentified aerial object was observed over West Palm Beach, Florida on August 6, 1952.",
-    "interesting points": [
-        "The object was described as a bright, disc-shaped object approximately 50 feet in diameter, flying at an altitude of 2000 feet and a speed of 400-500 knots.",
-        "The object was observed for 2-3 minutes, hovered, and then rapidly accelerated and disappeared from view.",
-        "Photos were taken of the object and the incident was investigated as part of Project Blue Book.",
-        "The investigation was unable to conclusively identify the object as any known aircraft or natural phenomenon.",
-        "Another report describes witnesses observing an unidentified bright light that descended, hovered about 10 feet off the ground, and then drifted back up into the sky."
-    ],
-    "result": "Unexplained",
-    "sighted object": "Bright, disc-shaped object",
-    "location": "West Palm Beach, Florida",
-    "witnesses": "Multiple witnesses",
-    "photographs": "Yes, photographs were taken"
+    "main event": "On August 6, 1952, multiple witnesses observed an unidentified flying object over West Palm Beach, Florida.",
+    "interesting points": "The object was described as oblong, approximately 30 feet long and hovering about 500 feet above ground., Witnesses noted the object was dull gray in color and made no sound., The object was observed for about 2-3 minutes around 8:15 PM., A different witness reported a bright disc-shaped object, which was estimated to be 50 feet in diameter, flying at 2000 feet altitude at speeds of 400 to 500 knots., Investigations by the Air Force concluded the observed objects could not be definitively identified and are part of Project Blue Book records.",
+    "sighted object": "unidentified flying object",
+    "location": "West Palm Beach, Florida, US",
+    "number of confirmed witnesses": 3,
+    "witness description": "Witnesses reported seeing the object hover and make sudden changes in direction.",
+    "contains photographs": true
 }

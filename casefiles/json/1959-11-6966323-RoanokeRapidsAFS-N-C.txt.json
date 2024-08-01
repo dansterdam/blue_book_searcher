@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A pale green object, shaped like a match flame and the size of a little finger at arm's length, was observed falling straight down.",
-    "interesting points": [
-        "The object was observed for 2 minutes.",
-        "The object was pale green in color.",
-        "The object was the size of a little finger at arm's length.",
-        "The object was falling straight down.",
-        "The report includes details about the weather conditions and other technical information."
-    ],
-    "result": "unexplained",
-    "sighted object": "pale green object, shaped like a match flame",
-    "location": "unknown",
-    "witnesses": "gate guard",
-    "photographs": "no"
+    "main event": "A pale green object shaped like a match flame was observed falling straight down for 2 minutes.",
+    "interesting points": "The object appeared the size of a little finger at arm's length., The observation lasted for 2 minutes., The object's brightness was described as significant., It was observed falling at a 50-60 degree angle., The object became out of sight due to the horizon.",
+    "sighted object": "pale green object shaped like a match flame",
+    "location": "Roanoke Rapids, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground-visual, observed by a radar operator.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian reported observing an object emitting pulsating bluish-green light flying from the southwest and disappearing in the northwest over mountains in Boise, Idaho in November 1947. However, insufficient data was available for evaluation.",
-  "interesting points": [
-    "The observer reported seeing an object emitting pulsating bluish-green light, which disappeared in the northwest over mountains.",
-    "The object's speed, altitude, size, and duration of observation were not reported, making it challenging to determine the nature of the object.",
-    "The report suggests the object might have been a fireball due to the lack of essential information.",
-    "The observations occurred under clear weather conditions with brilliant green color reported for the object.",
-    "There are indications that investigations revealed a synoptic weather balloon could have been at the location where the sightings were reported."
-  ],
-  "result": "unexplained",
-  "sighted object": "an object emitting pulsating bluish-green light",
-  "location": "Boise, Idaho",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A civilian observer reported seeing an object emitting a pulsating bluish-green light in November 1947.",
+    "interesting points": "The object was seen flying in a northwest direction., There is no mention of the object's speed, altitude, or size., The observer's exact location was between Boise and Mountain Home., The object was described as having a brilliant green color., The report did not provide sufficient data for evaluation.",
+    "sighted object": "an object emitting a bluish-green light",
+    "location": "Boise, Idaho, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

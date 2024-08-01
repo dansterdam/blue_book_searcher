@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Officials at Biggs Air Force Base in Texas reported seeing 2 to 11 unidentified flying objects on radar, which disappeared in close proximity to each other.",
-    "interesting points": [
-        "The objects displayed a definite relationship between them, disappearing one at a time rather than individually.",
-        "Visual sightings were attempted but were unsuccessful.",
-        "The radar returns could have been from a flight of helicopters or ducks, but unusual atmospheric conditions do not appear to have existed at the time.",
-        "No radar scope photography was taken.",
-        "The objects had an irregular flight path, with velocities ranging from 0 to 58 knots, and disappeared one at a time approximately 4 miles south of Biggs Air Force Base."
-    ],
-    "result": "unknown",
-    "sighted object": "2 to 11 unidentified flying objects",
-    "location": "Biggs Air Force Base, El Paso, Texas",
-    "witnesses": "Air Force officials and civilians",
-    "photographs": "no"
+    "main event": "Officials at Biggs Air Force Base in Texas reported sightings of 2 to 11 unidentified flying objects on radar, which disappeared in close proximity to each other.",
+    "interesting points": "The objects were sighted on radar but visual sightings were unsuccessful,The report noted that this type of disappearance is unusual as objects typically vanish one at a time,There was a possibility that the radar returns could have been caused by a flight of helicopters or ducks,The sighting lasted approximately 5 minutes,Final conclusions remained inconclusive with no satisfactory explanation provided.",
+    "sighted object": "multiple unidentified flying objects",
+    "location": "El Paso, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel at Biggs Air Force Base",
+    "contains photographs": false
 }

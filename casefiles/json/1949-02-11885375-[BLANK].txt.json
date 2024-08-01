@@ -1,13 +1,9 @@
 {
-    "main event": "The document is a report on unidentified aerial objects, which includes observations, discussions, and analysis of possible origins of these objects.",
-    "interesting points": [
-        "The document discusses the possibility of space travel from other points within the Solar System, visits from Martians, and the likelihood of habitable planets among other stars.",
-        "It speculates on the potential origins of visiting space ships from Mars or Venus and considers hypothetical engineering problems and points regarding the use of space vehicles as compared with descriptions of the flying objects.",
-        "The report narrows the field by providing specifications for the origins of these visiting space ships, stating that only certain types of stars are likely to be suitable hosts for habitable planets."
-    ],
-    "result": "The document is a thorough analysis and discussion of the various potential origins and characteristics of unidentified aerial objects, but it does not provide conclusive evidence of the nature or origin of these objects. The report raises interesting speculations but falls short of providing concrete conclusions.",
-    "sighted object": "Unidentified Aerial Objects",
-    "location": "Not applicable",
-    "witnesses": "Not applicable",
-    "photographs": "No, the report does not include any photographs."
+    "main event": "The document is an unclassified summary of Project SIGN, which investigates sightings of unidentified aerial objects.",
+    "interesting points": "The project reviews approximately 243 domestic incidents and 30 foreign incidents,The sightings are classified into four groups including flying disks, torpedo-shaped objects, spherical objects, and balls of light,Approximately 20% of the incidents have been identified as conventional aerial objects,There's an emphasis on the need for more factual evidence such as photographs and technical data,The psychological aspect of human witnesses is considered as a factor in some sightings.",
+    "sighted object": "unidentified aerial objects",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The document does not specify witness descriptions.",
+    "contains photographs": false
 }

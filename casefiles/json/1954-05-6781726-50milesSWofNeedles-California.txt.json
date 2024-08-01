@@ -1,15 +1,9 @@
 {
-  "main event": "A reported sighting of a large UFO 50 miles SW of Needles, California on May 21, 1954.",
-  "interesting points": [
-    "The report was from a civilian source.",
-    "There was only one object observed.",
-    "The UFO was sighted at approximately 10-22,222 feet altitude.",
-    "Radar sites were alerted, but traffic control channels could not track the object.",
-    "The report was investigated by military authorities."
-  ],
-  "result": "unexplained",
-  "sighted object": "large unidentified aerial object",
-  "location": "50 miles SW of Needles, California",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "An unidentified aerial object was sighted approximately 50 miles southwest of Needles, California on May 21, 1954.",
+    "interesting points": "The sighting occurred at a significant distance from a known location,The object was visually observed from the ground,The specific course and altitude of the object were not reported,There was no photographic evidence or physical evidence available,The incident is part of a documented investigation by Project Blue Book.",
+    "sighted object": "one unidentified aerial object",
+    "location": "Needles, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian observation",
+    "contains photographs": false
 }

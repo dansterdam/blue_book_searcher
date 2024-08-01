@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the text:
-
 {
-    "main event": "Visual confirmation of an anticipated satellite decay event over Europe (Germany, Spain) on June 2-3, 1965.",
-    "interesting points": [
-        "The report includes details such as the date, time, location, source, number of objects, length of observation, type of observation, and course.",
-        "The event involved a satellite decay process, with visual confirmation reported from multiple locations in Europe.",
-        "Potential observers in France reported cloud cover, preventing visual confirmation from those locations.",
-        "The report indicates that a satellite decay report was filed.",
-        "The report does not contain any photographs, only textual information."
-    ],
-    "result": "Satellite decay event, visually confirmed",
-    "sighted object": "Satellite decay/breakup",
+    "main event": "Visual confirmation of a satellite decay event occurred from June 2-3, 1965, in Europe, specifically in Germany and Spain.",
+    "interesting points": "The event was confirmed visually by civilians,The report pertains to an object associated with a satellite decay,Potential observers in France reported cloud cover which may have obstructed views, The decay event involved a satellite identified as KSTARFLASH 13, The type of observation recorded was ground-visual.",
+    "sighted object": "satellite debris",
     "location": "Europe (Germany, Spain)",
-    "witnesses": "Civilians",
-    "photographs": "No"
+    "number of confirmed witnesses": 0,
+    "witness description": "civilians",
+    "contains photographs": false
 }

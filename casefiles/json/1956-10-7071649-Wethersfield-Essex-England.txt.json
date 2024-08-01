@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Aerial sightings of a single, round, silver-white and brilliantly lit object that was stationary and then moved off rapidly at high speed on October 6, 1956 in Wethersfield, Essex, England.",
-    "interesting points": [
-        "The object appeared to explode but then continued with less brilliancy until it faded from view.",
-        "There were numerous GCA (Ground Controlled Approach) observations on October 6 and 7, 1956, which included targets the size of B-36 and L-20 aircraft.",
-        "No unusual weather was reported on either night.",
-        "The sighting on October 6 lasted for about 1 minute.",
-        "The case was evaluated as probably being a balloon."
-    ],
-    "result": "Probable Explanation (Balloon)",
-    "sighted object": "Single, round, silver-white and brilliantly lit object",
+    "main event": "Aerial sightings of a single object which was round, silver-white and brilliantly lit were reported in Wethersfield, Essex, England on October 6 and 7, 1956.",
+    "interesting points": "The object appeared to explode on October 6 but continued moving with less brilliance until it faded from view,There were numerous CIA observations along with the visual sighting,The observations included numerous targets the size of B-36 and L-20 aircraft,The evaluation suggested the object was probably a balloon,The sightings were reported during nights with no unusual weather.",
+    "sighted object": "single round, silver-white brilliantly lit object",
     "location": "Wethersfield, Essex, England",
-    "witnesses": "Military",
-    "photographs": "No"
+    "number of confirmed witnesses": 0,
+    "witness description": "Visual and numerous CIA observations from military sources",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is a summary of the key information from the UFO report in JSON format:
-
 {
-    "main event": "A person observed an unidentified flying object (UFO) in the sky for about 10 minutes.",
-    "interesting points": [
-        "The object had bright red lights in the middle, with some white lights like a balloon and slight lights shining below the balloon.",
-        "The object appeared to move up towards the balloon.",
-        "The observer used eyeglasses or binoculars to observe the object.",
-        "The object was estimated to have an angular size that would have been about 1/5 the size of a match head held at arm's length.",
-        "The object was eventually observed to go out of sight."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright red and white lights, possibly a balloon-like object",
-    "location": "Unspecified location",
-    "witnesses": "1 observer",
-    "photographs": "none"
+    "main event": "On February 1, 1968, a witness in New Albany, Indiana observed a peculiar flying object described as having a square configuration with four red lights arranged in a square shape, moving irregularly in the sky.",
+    "interesting points": "The observation lasted about five minutes,The object was reported to appear similar to other sightings of light phenomena in the New Mexico area,The witness reported the object moving at high speeds with unusual maneuvers,The object was only seen by one confirmed individual,Comments were made about the object resembling a possible aircraft.",
+    "sighted object": "a square configuration with four red lights",
+    "location": "New Albany, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer noted the object was shaped like a square and described its movement as irregular.",
+    "contains photographs": false
 }

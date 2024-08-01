@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright blueish object hovered over a field near a farmhouse in Rossburg, Ohio in 1966.",
-    "interesting points": [
-        "The object just remained stationary and gave no indication of its heading or speed.",
-        "The witnesses could never definitively describe what part of the object they could see distinctly.",
-        "The object appeared to be circular and have three bright discs set in a saucer shape.",
-        "The object circled the witness's car at an altitude of about 100 feet in a northeasterly direction.",
-        "The witness found the experience most unnerving until the object eventually moved away over the trees."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright blueish hovering object",
-    "location": "Rossburg, Ohio",
-    "witnesses": "civilians",
-    "photographs": "no"
+    "main event": "A bright bluish object hovered over a field in Rossburg, Ohio, while witnesses observed it from their car for about 15 minutes.",
+    "interesting points": "The object was described as brilliant blue and circular,The witnesses couldn't definitively identify parts of the object due to its hovering position,The object remained stationary and showed no visible heading or speed, It appeared to have three bright discs,The sighting was reported by a female witness aged 40.",
+    "sighted object": "a bright bluish circular object",
+    "location": "Rossburg, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a female approximately 40 years old",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, sharply defined, silvery-white disc-shaped object was sighted by several witnesses in Appleton, Wisconsin on July 7, 1967.",
-    "interesting points": [
-        "The object was estimated to be 30-40 feet in diameter and moving at a high rate of speed, around 600-800 miles per hour.",
-        "The object made a very sharp, 45 degree turn during its flight.",
-        "Several still photographs were taken of the object, but the quality of the photographs was poor and the object was not clearly defined.",
-        "No sound was heard and no exhaust or propulsion system was observed.",
-        "The object was observed for approximately 1-2 minutes before it disappeared from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, sharply defined, silvery-white disc-shaped object",
-    "location": "Appleton, Wisconsin",
-    "witnesses": "several witnesses",
-    "photographs": "several still photographs were taken, but the quality was poor"
+    "main event": "On July 7, 1967, a resident of Appleton, Wisconsin reported sighting an unidentified flying object that appeared yellow and was estimated to be between 1 to 15 feet in diameter.",
+    "interesting points": "The object was described as looking like 'two bowls put together',It hovered approximately 1,000 feet above ground and made no sound,The sighting lasted about 5-10 seconds,The object was confirmed as a hoax according to the analysis,This sighting included a letter reporting extreme speed and a lack of sound.",
+    "sighted object": "yellow object resembling two bowls put together",
+    "location": "Appleton, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer reported a yellow object that hovered without sound.",
+    "contains photographs": false
 }

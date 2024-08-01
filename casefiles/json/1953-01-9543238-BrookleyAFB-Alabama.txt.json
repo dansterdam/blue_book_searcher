@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot reported seeing a bright metallic object at 30,000 feet altitude approximately 4-5 miles to the east over Brookley AFB, Alabama on August 28, 1962.",
-    "interesting points": [
-        "The object appeared to be larger than an aircraft and was solid in appearance, exhibiting a silvery metallic color.",
-        "The object was stationary at first, then started moving at a high rate of speed, changing direction abruptly and disappearing in the distance.",
-        "No other aircraft were observed in the area at the time.",
-        "The pilot stated that the object looked like nothing he had ever seen before.",
-        "Four aircraft were scrambled to attempt visual contact but the object increased speed and disappeared from view."
-    ],
-    "result": "unidentified aircraft",
-    "sighted object": "a bright metallic object",
-    "location": "Brookley AFB, Alabama",
-    "witnesses": "pilot",
-    "photographs": "none"
+    "main event": "A pilot observed a bright metallic object at high altitude over Brookley AFB in Alabama, which moved at high speed and changed direction abruptly.",
+    "interesting points": "The observation lasted for about 25 minutes,The object was seen at approximately 30,000 feet and around 4-5 miles east of the observer,It appeared larger than an aircraft and had a silvery metallic color,No other aircraft were in the vicinity during the sighting,The pilot described the object as looking like nothing he had ever seen before.",
+    "sighted object": "a bright metallic object in the sky",
+    "location": "Brookley AFB, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a pilot from Brookley AFB",
+    "contains photographs": false
 }

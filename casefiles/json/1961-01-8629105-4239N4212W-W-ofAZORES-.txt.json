@@ -1,15 +1,9 @@
 {
-    "main event": "A Navy pilot reported seeing a bright object that appeared to be a star in close proximity to his aircraft, moving rapidly on a course of approximately 085 degrees true.",
-    "interesting points": [
-        "The object was of a magnitude somewhat less than that of the planet Mars.",
-        "The object was visually observed for approximately 2 to 3 minutes before disappearing over the horizon.",
-        "The approximate altitude of the object at the time of sighting was 45 degrees.",
-        "The pilot's aircraft was traveling at 199 knots true at an altitude of 6,000 feet.",
-        "The weather conditions were unlimited visibility with broken cloud cover at 700 feet."
-    ],
-    "result": "Probably Aircraft",
-    "sighted object": "a bright object that appeared to be a star",
-    "location": "West of Azores (8230N 3215W)",
-    "witnesses": "one (Navy pilot)",
-    "photographs": "no"
+    "main event": "An unidentified object was sighted by a Navy aircraft over the Azores on January 19, 1961.",
+    "interesting points": "The object was observed traveling at 195 knots at an altitude of 30,000 feet., The observation lasted for 5 to 10 minutes., The object was seen for only 1 second before it disappeared back into cloud cover., The sighting occurred at coordinates 8230N 3215W., The report concludes that the object is probably an aircraft based on its straight flight path and duration.",
+    "sighted object": "an unidentified object",
+    "location": "West of Azores, Azores, Portugal",
+    "number of confirmed witnesses": 1,
+    "witness description": "Reginald D. LT. USN",
+    "contains photographs": false
 }

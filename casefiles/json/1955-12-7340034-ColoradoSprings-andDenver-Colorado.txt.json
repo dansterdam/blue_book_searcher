@@ -1,15 +1,9 @@
 {
-  "main event": "Three observers in Colorado Springs and Denver reported a sighting of one object on December 11, 1955. The object was described as green with an orange trail and much brighter than jet exhaust.",
-  "interesting points": [
-    "The observation was made by both military and civilian sources, adding credibility to the report.",
-    "The object was tracked on ground radar, indicating a tangible presence.",
-    "The USAF initially identified the object as a meteor, but it was later labeled as 'definitely not' a meteor, suggesting uncertainty in the explanation.",
-    "The object's abnormal brightness and color set it apart from typical atmospheric phenomena.",
-    "The brief duration of the sighting (3-5 seconds) suggests a rapid and unusual movement pattern."
-  ],
-  "result": "unexplained",
-  "sighted object": "one green object with an orange trail",
-  "location": "Colorado Springs and Denver, CO",
-  "witnesses": "military and civilian sources",
-  "photographs": "no, the report does not include photographs"
+    "main event": "Three observers reported seeing a green object with an orange trail in Colorado, which was much brighter than jet exhaust.",
+    "interesting points": "The sighting occurred in the vicinity of Colorado Springs and Denver on December 11, 1955., The observation lasted for only 3-5 seconds., The object was identified as a meteor by the USAF, which is considered false by the witnesses., The reports came from both military and civilian sources., All three observers had the same description of the object.",
+    "sighted object": "one green object with an orange trail",
+    "location": "Colorado Springs and Denver, Colorado, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "all same description",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information found in the UFO report document:
-
 {
-    "main event": "A civilian observed a bright white light that traveled across the sky in an erratic direction for about 90 seconds.",
-    "interesting points": [
-        "The object was described as a bright white light that moved erratically across the sky.",
-        "The observer was unsure if the object was a satellite or an aircraft.",
-        "The sighting lasted for approximately 90 seconds.",
-        "No physical evidence or photographs were obtained.",
-        "The Air Force investigator concluded it was probably a satellite, but it could have also been an aircraft."
-    ],
-    "result": "Probable satellite, possibly an aircraft",
-    "sighted object": "Bright white light",
-    "location": "Evansville, Illinois",
-    "witnesses": "Civilian observer",
-    "photographs": "None"
+    "main event": "Multiple observers reported seeing a bright light traveling in an erratic direction in the night sky over Evansville, Illinois.",
+    "interesting points": "The sighting lasted for 90 seconds,The observer described the light as being brighter than a star and round in shape,There was no physical evidence or photographs associated with the sighting,The conclusion suggests that the sighting could have been a satellite or an aircraft,Previous documents referenced a need for immediate reporting to Air Force bases for better investigation.",
+    "sighted object": "bright white light in the sky",
+    "location": "Evansville, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "the observers reported seeing the object together",
+    "contains photographs": false
 }

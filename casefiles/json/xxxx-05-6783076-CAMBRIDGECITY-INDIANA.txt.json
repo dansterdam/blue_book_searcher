@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted over Cambridge City, Indiana on June 30, 1953 around 3:30 AM.",
-    "interesting points": [
-        "The sighting lasted for 30 minutes.",
-        "The object was described as an 'unknown flying object' (UFOB).",
-        "A staff member reported that a UFOB Form 117 was sent to the observer but had not been returned as of July 3, 1953.",
-        "There was no physical evidence or photographs taken of the object.",
-        "The report indicates that the case was still under investigation as of May 1955."
-    ],
-    "result": "unexplained",
-    "sighted object": "unknown flying object (UFOB)",
-    "location": "Cambridge City, Indiana",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A pilot reported seeing a strange craft-like object hovering over Cambridge City, Indiana in 1951.",
+    "interesting points": "The object was described as shining silvery and approximately 30 to 40 feet in diameter., The pilot observed the object from about 500 feet above the ground., The craft was reported to have no visible means of propulsion and was rotating slowly., The object remained motionless for several minutes before accelerating straight up to an altitude of 15,000 feet., The incident was documented in the Project Blue Book, which was a government investigation into UFOs.",
+    "sighted object": "a strange craft-like object",
+    "location": "Cambridge City, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a pilot from the United States Army Air Forces",
+    "contains photographs": false
 }

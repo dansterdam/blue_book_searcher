@@ -1,17 +1,9 @@
-Here is the requested JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness observed a bright, glowing, elongated oval-shaped object that remained stationary in the sky for several minutes before suddenly shooting off at a high rate of speed.",
-    "interesting points": [
-        "The object was glowing with an intense white-yellowish color.",
-        "Neither the witness nor their wife had seen anything like this object before.",
-        "The object disappeared from view within seconds after suddenly accelerating.",
-        "The witness and their wife are convinced the object was not a conventional aircraft or other known object.",
-        "The witness would be interested to know if anyone else in the area reported a similar sighting that evening."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, glowing, elongated oval-shaped object",
-    "location": "near the Sassafras River in Maryland",
-    "witnesses": "the witness and their wife",
-    "photographs": "no"
+    "main event": "A witness reported seeing a UFO over the Sassafras River in Maryland on 17 May 1967 at around 11:30 PM, which they observed to have flashing lights and made a sudden maneuver before disappearing.",
+    "interesting points": "The UFO lasted for 2 to 3 minutes in sight, initially appearing as a bright light about 500 to 1000 feet above the horizon., The object flew in a straight line and executed a rapid 90-degree turn before it vanished., Witness described distinct flashing light sequences, suggesting a structured object rather than a simple light phenomenon., Observers reported the sky was clear at the time of the sighting., A private citizen provided the report, indicating a non-military source of observation.",
+    "sighted object": "UFO with flashing lights",
+    "location": "Sassafras River, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A private citizen, observed the UFO while being a licensed private pilot.",
+    "contains photographs": false
 }

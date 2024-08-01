@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "Unidentified objects traveling south to north over the Hawaiian Islands were detected by military radar for 30 minutes on September 7, 1960.",
-    "interesting points": [
-        "Five unidentified objects were detected by military radar.",
-        "The objects were observed traveling at high speed.",
-        "The radar contact lasted for 30 minutes.",
-        "The objects were tracked moving from south to north over the Hawaiian Islands.",
-        "The report concludes the sighting was likely of a natural or artificial satellite."
-    ],
-    "result": "unexplained",
-    "sighted object": "five unidentified objects detected on radar",
-    "location": "North of the Hawaiian Islands",
-    "witnesses": "military radar operators",
-    "photographs": "no photographs present in the report"
+    "main event": "Unidentified objects were observed traveling at high speed over the Hawaiian Islands on September 7, 1960.",
+    "interesting points": "The observation lasted for 30 minutes,The objects were tracked by ground radar,The sighting involved 5 unidentified objects,The objects were moving from South to North,The conclusion suggested it could have been a limited observation of a natural or artificial satellite.",
+    "sighted object": "five unidentified objects",
+    "location": "North of Hawaiian Islands, Hawaii, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military radar observation",
+    "contains photographs": false
 }

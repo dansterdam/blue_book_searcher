@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information found in the UFO report:
-
 {
-    "main event": "A light was observed moving rapidly at 45 degree elevation in a southerly direction in Dayton, Ohio on September 13, 1964.",
-    "interesting points": [
-        "The object moved approximately 3 degrees across the horizon.",
-        "The sighting lasted about 6 seconds.",
-        "There was only one object observed.",
-        "The object appeared less bright than a star.",
-        "The object's movement was described as rapid."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "A light, described as less bright than a star",
-    "location": "Dayton, Ohio",
-    "witnesses": "1 witness",
-    "photographs": "None"
+    "main event": "A witness observed a light in the sky moving rapidly at a 45-degree elevation on September 13, 1964.",
+    "interesting points": "The observation lasted about 6 seconds., The light moved southerly and changed position by 3 degrees on the horizon., The witness reported that the object disappeared slowly, fading from view., The object was described as blue-gray., There were no photographs present with the report.",
+    "sighted object": "a light in the sky",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "details not fully provided in the report",
+    "contains photographs": false
 }

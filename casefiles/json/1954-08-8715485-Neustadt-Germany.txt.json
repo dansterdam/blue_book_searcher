@@ -1,15 +1,9 @@
 {
-    "main event": "A round, orange light was observed moving in a straight and circular flight pattern over Neustadt, Germany on August 4, 1954.",
-    "interesting points": [
-        "The object appeared to rise slowly from 15-60 degrees, then make a 180-degree turn as it made its final observations.",
-        "The object was observed for 35 minutes by a ground-visual witness.",
-        "The witness could not sleep and looked out the window, spotting the object at an angle between 45-65 degrees in azimuth around 40 degrees.",
-        "The object was also observed at an angle between 45-62 degrees in azimuth around 132 degrees.",
-        "The weather was clear and cloudless with a bright night sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, orange light with a straight and circular flight pattern",
+    "main event": "An unidentified round orange light was observed in Neustadt, Germany on 4 August 1954.",
+    "interesting points": "The observation lasted for 35 minutes.,The object displayed a round, orange, straight, and circular light pattern.,The object appeared to rise at angles between 15-60 degrees and then moved 180 degrees during the final observations.,The sighting was confirmed by one witness, a housewife who was unable to sleep.,The sky was clear and cloudless during the observation.",
+    "sighted object": "a round orange light in the sky",
     "location": "Neustadt, Germany",
-    "witnesses": "a ground-visual witness, a housewife from Neustadt",
-    "photographs": "no photographs included in the report"
+    "number of confirmed witnesses": 1,
+    "witness description": "a housewife in Neustadt",
+    "contains photographs": false
 }

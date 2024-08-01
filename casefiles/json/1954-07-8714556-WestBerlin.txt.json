@@ -1,15 +1,9 @@
 {
-    "main event": "On July 5, 1954, a ground-visual UFO observation was reported in West Berlin, but the conclusions were inconclusive due to insufficient data for evaluation.",
-    "interesting points": [
-        "The UFO observation was reported on multiple dates in August and September 1954 over the City of Berlin (West), indicating potential recurring sightings.",
-        "The reports indicated unknown or insufficiently detailed information, precluding a definite determination of the nature or origin of the observed objects.",
-        "The UFO reports were examined by ATIC PRI 54-295, but the condition of the reports made it impossible to determine their validity.",
-        "No photographs were included in the documentation, and the source of the report was ATIC 195271 (GIA-CC-W-30904, 25 Oct 54).",
-        "The observation seemed to involve multiple instances of unknown aerial phenomena, as indicated by the dates and times of the reports."
-    ],
-    "result": "Unknown",
-    "sighted object": "Unidentified aerial phenomena",
-    "location": "West Berlin",
-    "witnesses": "Unknown",
-    "photographs": "No photographs"
+    "main event": "A report documenting a UFO sighting on July 5, 1954, in West Berlin.",
+    "interesting points": "The observation type was ground-visual,The report indicated insufficient data for a valid conclusion,The source of the report was ATIC 195271,Multiple unknown sightings were recorded in August 1954 in the same area,The object sightings were inconsistent with typical aircraft or balloon characteristics.",
+    "sighted object": "unknown aerial observation",
+    "location": "West Berlin, Berlin, Germany",
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data",
+    "contains photographs": false
 }

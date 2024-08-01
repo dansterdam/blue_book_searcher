@@ -1,15 +1,9 @@
 {
-  "main event": "A sighting near St. Edward, Nebraska on 12/23/1952 documented in Project 10073 involved the observation of oblong objects with a tail to one side and no sound, lasting for 1 minute. The case was evaluated as a possible balloon sighting.",
-  "interesting points": [
-    "The observation described oblong objects with a tail to one side and no sound, resembling a balloon.",
-    "The duration of the sighting was noted as 1 minute, indicating a relatively short observation period.",
-    "The source of the report was a civilian, adding credibility to the observation.",
-    "The report mentions the absence of photographs, suggesting a lack of visual evidence for the sighting.",
-    "The evaluation categorized the observation as a possible balloon sighting, indicating a prosaic explanation for the reported objects."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "oblong objects with a tail to one side and no sound",
-  "location": "St. Edward, Nebraska",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A sighting documented near St. Edward, Nebraska on 12/23/1952, describing an object with a tail to one side and no sound.",
+    "interesting points": "The observation lasted for 1 minute, The sighting is classified as a possible balloon observation, Limited data is available due to missing duration and wind drift details, The report originates from Project 10073, The source of the observation is civilian.",
+    "sighted object": "An object with a tail to one side, no sound",
+    "location": "St. Edward, Nebraska, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian source",
+    "contains photographs": false
 }

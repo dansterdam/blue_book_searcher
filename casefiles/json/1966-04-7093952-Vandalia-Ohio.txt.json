@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A large, bright light was observed moving quickly from west to northeast in Vandalia, Ohio on April 6, 1965.",
-    "interesting points": [
-        "The object was observed for 2-3 minutes, which suggests it may have been an aircraft landing at the nearby Vandalia airport.",
-        "The object was reported to be moving fast and was visible from the ground.",
-        "The witness reported that the object made no noise.",
-        "The Air Force requested additional information from the witness to further evaluate the observation.",
-        "The report notes that the object was observed close to Millers Grove and north of old U.S. Route 40, near a National Guard facility."
-    ],
-    "result": "Insufficient data",
-    "sighted object": "a large, bright light",
-    "location": "Vandalia, Ohio",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in Vandalia, Ohio on April 6, 1965.",
+    "interesting points": "The observation lasted for 2 to 3 minutes and involved a single large light,The witness described no noise associated with the sighting,The object appeared to be moving rapidly from west to northeast,The report concluded insufficient data for a definitive evaluation,The original report was part of Project Blue Book documentation.",
+    "sighted object": "a large light in the sky",
+    "location": "Vandalia, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

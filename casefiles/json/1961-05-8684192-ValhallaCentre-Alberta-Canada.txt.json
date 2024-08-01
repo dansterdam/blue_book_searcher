@@ -1,15 +1,9 @@
 {
-    "main event": "A bright light was observed moving erratically in the sky to the east.",
-    "interesting points": [
-        "The sighting was observed by a military officer.",
-        "The report indicates that the validity and accuracy of the sighting cannot be ascertained, as it was not reported and no other information is available to confirm the report.",
-        "The record card contains various fields filled out, including the date, location, type of observation, source, and duration of the sighting.",
-        "The image does not contain any photographs, but it appears to show a page from a Project Blue Book report.",
-        "The additional pages in the image contain more information, such as numerical data and handwritten notes, but do not provide any further details about the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright light",
+    "main event": "An officer observed a bright light moving erratically in the sky to the east on May 26, 1961.",
+    "interesting points": "The observation lasted for 1 minute,The sighting was reported as a 'Ground-Visual' observation type,The report originates from a military source,The validity and accuracy of the report cannot be confirmed,The bright light appeared to be moving in an unpredictable manner.",
+    "sighted object": "bright light in the sky",
     "location": "Valhalla Centre, Alberta, Canada",
-    "witnesses": "military officer",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "an officer",
+    "contains photographs": false
 }

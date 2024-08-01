@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting occurred on 3 September 1956 in Washington, D.C. The object was described as the size of a D2G at arm's length, moving with vertical motions, and observed for about 2 minutes at approximately 15 degrees elevation.",
-    "interesting points": [
-        "The observer concluded that the object was probably caused by a temperature inversion, although its behavior did not fully support this conclusion.",
-        "The report states that the object was originally reported as due east of College Park MD and National Airport.",
-        "The object was observed for 20 minutes and was surrounded by occasional aurora, with no sound reported.",
-        "Weather data from Bolling AFB indicated two inversions and two near inversions over the Washington area, and a clear sighting of the planet Mars in an otherwise starless sky.",
-        "The report mentions a ground visual sighting by Mr. Tavel at 1040 EDT, observed by other witnesses, with no stars in the sky and slight overcast."
-    ],
-    "result": "unexplained",
-    "sighted object": "one UFO, described as the size of a D2G at arm's length, moving with vertical motions",
+    "main event": "A single unidentified object was sighted moving with vertical motions in Washington, D.C. on 3 September 1956.",
+    "interesting points": "Object observed at arm's length and estimated to be the size of a button to a small pea., The sighting lasted for approximately two minutes., The observer suspected temperature inversion as a possible explanation for the sighting., The object was reported to have no appendages and emitted no sound., Weather conditions included a slight overcast with visibility of 12 miles.",
+    "sighted object": "one unidentified object moving vertically",
     "location": "Washington, D.C.",
-    "witnesses": "multiple observers including Mr. Tavel",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "An observer who reported the sighting in an otherwise starless sky.",
+    "contains photographs": false
 }

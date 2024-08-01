@@ -1,15 +1,9 @@
 {
     "main event": "Observation of a radar 'blip' in the vicinity of Washington, D.C.",
-    "interesting points": [
-        "The radar blip was about the size of a small aircraft, and its characteristics did not match any known aircraft in the area.",
-        "Attempts to obtain the radar data were unsuccessful.",
-        "The sighting lasted for 10-15 minutes.",
-        "The sighting was classified as 'Possible Aircraft, Probable Balloon, Possible Ground-Radar, Possible Air-Intercept Radar, Insufficient Data for Evaluation, Unknown'.",
-        "A separate sighting of a light in the East was observed for 25 minutes, but the evaluation was 'Insufficient Data'."
-    ],
-    "result": "unknown",
-    "sighted object": "radar blip",
+    "interesting points": "The radar blip was about the size of a small aircraft.,The blip characteristics did not match any known aircraft in the area.,The radar data could not be obtained.,The observation lasted for approximately 10-15 minutes.,The case was concluded as insufficient data for evaluation.",
+    "sighted object": "one unidentified radar blip",
     "location": "Washington, D.C.",
-    "witnesses": "ground radar operators",
-    "photographs": "yes, one photograph"
+    "number of confirmed witnesses": 0,
+    "witness description": "n/a",
+    "contains photographs": false
 }

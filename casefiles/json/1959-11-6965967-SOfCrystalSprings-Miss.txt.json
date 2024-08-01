@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A row of red lights was observed hovering and moving in the sky near Crystal Springs, Mississippi on November 19, 1959.",
-    "interesting points": [
-        "The object appeared to be a horizontal row of red lights, with the rear slightly higher than the front.",
-        "The lights varied in intensity but there were no maneuvers observed.",
-        "The object started slowly but then increased in speed immensely as it moved away.",
-        "The observer was able to pursue the object by car for about a mile, but then lost sight of it as it accelerated.",
-        "The observer stated that when he stopped to observe the object, it was completely silent, with no audible sound."
-    ],
-    "result": "unknown",
-    "sighted object": "a row of red lights",
-    "location": "near Crystal Springs, Mississippi",
-    "witnesses": "1 civilian observer",
-    "photographs": "no"
+    "main event": "An observer reported seeing a horizontal row of red lights in the sky on November 19, 1959, near Crystal Springs, Mississippi.",
+    "interesting points": "The observer initially thought the lights were a warning beacon., The lights varied in intensity and created a perception of a solid object., The object was described as having the appearance of a helicopter., The observer stated there was no sound at all during the sighting., The object started slowly before rapidly increasing its speed.",
+    "sighted object": "a row of red lights in the sky",
+    "location": "Crystal Springs, Mississippi, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An observer, a 35-year-old woodworker and deacon in the First Baptist Church of Crystal Springs.",
+    "contains photographs": false
 }

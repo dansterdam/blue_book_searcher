@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A disc-shaped object was sighted emerging from the fog at around 500 feet altitude, hovering for about 2 minutes before shooting straight up into the clouds and disappearing.",
-    "interesting points": [
-        "The object was disc-shaped and came out of the fog at around 500 feet altitude.",
-        "The object hovered in a northerly direction for about 2 minutes.",
-        "The object then shot straight up into the clouds and disappeared.",
-        "The witness reported seeing a similar object a few hours earlier, described as a flash in the northwest part of the sky that lasted about 2-3 seconds.",
-        "The witness believed the object was one of two familiar types of aerospace vehicles, possibly on a short mission or part of some secret experimental project."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped object",
+    "main event": "Witness observed a weird-shaped object revolving or rotating for about 30 seconds before rapidly moving to the right.",
+    "interesting points": "The object was confirmed by radar as a target., The visibility of the object was obscured by fog., The sighting occurred on April 8, 1959 at about 1:30 AM., The object was described as disc-shaped and hovered at 500 feet., The witness had seen a similar flashing object hours earlier.",
+    "sighted object": "weird-shaped object, disc-shaped",
     "location": "Niles, Illinois, USA",
-    "witnesses": "1 (police officer)",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "Police officer, age 54, experienced in aerial observations.",
+    "contains photographs": false
 }

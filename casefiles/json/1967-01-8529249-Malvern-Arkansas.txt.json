@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report:
-
 {
-    "main event": "A bright white light in the eastern sky that appeared to separate into two parts and then recombine, fading and increasing in brightness rapidly.",
-    "interesting points": [
-        "The object would fade and increase in brightness very rapidly.",
-        "The case was classified as 'complicting data' with no definite conclusion.",
-        "No radar contact was made with the unknown object.",
-        "The sighting lasted for about 45 minutes.",
-        "The object appeared to be a single bright white light that exhibited unusual behavior."
-    ],
-    "result": "complicting data",
+    "main event": "Observers watched a bright white light in the eastern sky that appeared to separate into two parts and then recombine, lasting for 45 minutes.",
+    "interesting points": "The object faded and increased in brightness rapidly., There was no radar contact made with the object., The sighting involved one confirmed witness., The weather was clear during the observation., The object's course was towards the North-Northwest.",
     "sighted object": "a bright white light",
-    "location": "Malvern, Arkansas",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Malvern, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported the sighting and provided details in a questionnaire format.",
+    "contains photographs": false
 }

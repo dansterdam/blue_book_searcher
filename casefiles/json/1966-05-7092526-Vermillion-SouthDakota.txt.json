@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A civilian observer spotted a blinking, oblong-shaped object in the sky over Vermillion, South Dakota on May 27, 1965.",
-    "interesting points": [
-        "The object appeared to be very high up, like a satellite, and was blinking approximately every two seconds.",
-        "The object was observed zig-zagging and jerking in an orbital path, traveling from northwest to southwest before going out of visual contact in the southeast.",
-        "The observation lasted less than two minutes.",
-        "The observer was lying on the grass in front of a fraternity house looking up at the stars when the object was spotted.",
-        "The First Lieutenant who filed the report believed the object could have been a satellite in orbit or in a de-orbiting pattern."
-    ],
-    "result": "Possible (Aircraft)", 
-    "sighted object": "Blinking, oblong-shaped object",
-    "location": "Vermillion, South Dakota",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "An observer reported seeing a blinking object in the sky that resembled a satellite.",
+    "interesting points": "The object blinked approximately every two seconds,The observer noted no sound or exhaust from the object,The object appeared to change direction and zigzag in its path,The sighting occurred while the observer was lying on grass at night under clear conditions,The observer concluded that the object could possibly be a satellite.",
+    "sighted object": "a blinking object in the sky",
+    "location": "Vermillion, South Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer was a 21-year-old individual lying on grass outside a fraternity house",
+    "contains photographs": false
 }

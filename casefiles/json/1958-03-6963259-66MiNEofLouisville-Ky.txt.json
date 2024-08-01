@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "A bright green light was observed that either burned out or entered overcast.",
-    "interesting points": [
-        "The object was described as round in shape.",
-        "The object was observed for 2-6 seconds.",
-        "The object was seen 10 degrees above the horizon and 5-10 degrees below the horizon.",
-        "The object did not deviate from its course.",
-        "The weather conditions at the time included 55,000 ft overcast skies."
-    ],
-    "result": "probably lens reflection or meteor, unsure",
-    "sighted object": "a bright green light",
-    "location": "66 miles northeast of Louisville, KY",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A military personnel observed a round bright green light in the sky for 2-6 seconds.",
+    "interesting points": "The object was observed at night,Ten degrees above the horizon when it came into view,It was seen visually during the observation,The object either burned out or entered overcast clouds,The conclusion suggests it was most likely an astronomical meteor.",
+    "sighted object": "a round bright green light",
+    "location": "66 Mi NE of Louisville, KY, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major, HQ USAF, who was flying a T-33 at 33,000 feet",
+    "contains photographs": false
 }

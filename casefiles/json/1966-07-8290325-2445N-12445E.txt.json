@@ -1,15 +1,9 @@
 {
-    "main event": "A U.S. Army sergeant observed an unidentified flying object near Camp Ledo, Burma on July 8, 1966.",
-    "interesting points": [
-        "The object was first sighted at an elevation of approximately 45 degrees and appeared to be stationary.",
-        "After about 3 minutes, the object began moving in a northeasterly direction at a very rapid rate of speed.",
-        "The object emitted a constant bright white light, but no other lights or sounds were observed.",
-        "The object was observed for a total of approximately 5 minutes before it disappeared from view.",
-        "The sergeant estimated the size of the object to be approximately 20 to 30 feet in diameter and the altitude to be between 5,000 and 10,000 feet."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light that moved rapidly",
+    "main event": "SGT DJF observed an unidentified flying object near Camp Ledo, Burma on the night of 8 July 1966.",
+    "interesting points": "The sighting occurred at approximately 2100 hours with clear weather conditions and unlimited visibility., The object was initially stationary at an elevation of about 45 degrees before moving rapidly in a northeasterly direction., It emitted a constant bright white light and was estimated to be 20 to 30 feet in diameter., The object was observed for a total of around 5 minutes before disappearing from view., There were no other witnesses to the incident, and a thorough check of aircraft and satellite activity yielded no identification for the object.",
+    "sighted object": "unidentified flying object emitting a bright white light",
     "location": "Camp Ledo, Burma",
-    "witnesses": "U.S. Army sergeant",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "SGT DJF, US Army",
+    "contains photographs": false
 }

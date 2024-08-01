@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground-radar object was observed in Canterbury, New Zealand in November 1954.",
-    "interesting points": [
-        "The object was balloon-shaped and motionless, but then disappeared by rising and moving west into a cloud layer.",
-        "The report notes that a balloon released at the same time had an identical flight path, indicating the original object may have been misinterpreted.",
-        "The object was observed moving at high velocity (20,000-30,000 feet per second) before slowing down, stopping, and then accelerating rapidly in a vertical climb.",
-        "The object was described as circular in shape and emitting a white light, with no visible exhaust or propulsion system.",
-        "The sighting was considered to be an unidentified phenomenon that could be added to the increasing list of such incidents worldwide."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, white light-emitting object",
+    "main event": "An unidentified flying object was observed over Canterbury, New Zealand in November 1954, described as balloon-shaped and motionless, then moving rapidly into a cloud.",
+    "interesting points": "The object was tracked on ground radar for about 5 minutes before disappearing., It exhibited a different speed than a meteorological balloon released simultaneously., The primary observation came from members of the R.N.Z.A.F. under a watching operation., A civilian observation occurred at an altitude of approximately 40,000 feet., The report noted that the object emitted a white light without visible propulsion.",
+    "sighted object": "an unidentified balloon-shaped object",
     "location": "Canterbury, New Zealand",
-    "witnesses": "R.N.Z.A.F. members", 
-    "photographs": "yes, the report mentions photographs, but none are present in the provided image"
+    "number of confirmed witnesses": 0,
+    "witness description": "observed by R.N.Z.A.F. members and civilians",
+    "contains photographs": false
 }

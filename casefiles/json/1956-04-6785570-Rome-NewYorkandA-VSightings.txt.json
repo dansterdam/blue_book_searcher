@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Ground crew at Griffiss AFB observed a bright, round object change in color from orange-white to orange with a red tint over a 23-minute period.",
-    "interesting points": [
-        "The object was larger than a known star and was observed through binoculars.",
-        "The object was located at an azimuth of 330 degrees and an elevation of 3,000 to 4,000 feet, fading over the horizon.",
-        "Two aircraft also reported seeing the same object.",
-        "Analysts concluded the object was likely the planet Venus, which was prominent and very bright at that time of year.",
-        "Observing astronomical objects through binoculars can create the illusion of odd movements and maneuvers."
-    ],
-    "result": "Probably Venus",
-    "sighted object": "a bright, round object",
-    "location": "Rome, New York",
-    "witnesses": "ground crew at Griffiss AFB",
-    "photographs": "yes, the report includes photographs"
+    "main event": "One light larger than known star was observed in Rome, New York, changing color from orange-white to orange with red light.",
+    "interesting points": "The object was seen at an azimuth of 330 degrees and at an elevation of about 4000 feet,The sighting lasted for twenty-three minutes and was viewed through binoculars,Two aircraft also reported seeing the object at the same time,Analysts concluded the object was likely the planet Venus,Conditions at the time caused the object to appear larger and brighter than usual.",
+    "sighted object": "a round light larger than a known star",
+    "location": "Rome, New York, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Air Traffic Control personnel, including a shift supervisor",
+    "contains photographs": false
 }

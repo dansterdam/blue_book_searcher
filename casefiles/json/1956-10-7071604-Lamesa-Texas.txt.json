@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright metallic object was observed in the western sky for 5-10 seconds.",
-    "interesting points": [
-        "The object was described as either round or oblong in shape.",
-        "The object had a distinct trail, but no contrail.",
-        "The object passed directly overhead and out of sight due to the curvature of the Earth.",
-        "The report includes observations from two Air Force officers, Captain William A. Yonkers and 2nd Lt. Ronald D. Cooper.",
-        "There were other aircraft in the area at the time of the sighting, including a C-54 aircraft at 6,000 feet and 160 knots."
-    ],
-    "result": "unknown",
-    "sighted object": "bright metallic object",
-    "location": "Amarillo Air Force Base, Texas",
-    "witnesses": "Captain William A. Yonkers and 2nd Lt. Ronald D. Cooper",
-    "photographs": "no"
+    "main event": "On 28 SEP 1956, a bright metallic object was observed in the western sky for 5-10 seconds.",
+    "interesting points": "The object was described as round or oblong and bright metallic gold., The observation was made with the naked eye before the object passed out of sight directly overhead., The sighting lasted for only 5-10 seconds., The report included observations made by multiple personnel., No photographs were included in the report.",
+    "sighted object": "one bright metallic object",
+    "location": "Amarillo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain William A. Yonkers, seconded by 2nd Lt. Ronald D. Cooper",
+    "contains photographs": false
 }

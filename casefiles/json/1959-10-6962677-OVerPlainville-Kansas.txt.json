@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light, like a star in size, was observed approaching head-on over Plainville, Kansas on October 19, 1959.",
-    "interesting points": [
-        "The light gained in size as it approached, appearing yellowish-white in color.",
-        "The light exhibited erratic, sharp angular changes in direction, approximately 45 degrees from a straight course.",
-        "The light reached an elevation as high as 40 degrees above the horizon, then descended and disappeared behind trees.",
-        "The light showed no characteristics of a conventional aircraft and was described as a very bright white light that rapidly faded in and out and darted about the sky in an erratic pattern.",
-        "The pilots took evasive action, but the light faded and then reappeared, before finally disappearing over the horizon."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, like a star in size",
-    "location": "Plainville, Kansas",
-    "witnesses": "military pilots",
-    "photographs": "none"
+    "main event": "A yellowish-white light, resembling a star and the size of Venus, was observed approaching head on over Plainville, Kansas on October 19, 1959.",
+    "interesting points": "The light gained in size as it approached and faded out when evasive action was taken., The sighting lasted for about 2-3 minutes., The flight path of the light changed course after initially being straight and level., Observers noted that the light showed no characteristics of a conventional aircraft., The report concluded that the sighting remains unidentified and may have been a reflection or meteorological phenomenon.",
+    "sighted object": "a yellowish-white light like a star",
+    "location": "Plainville, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the sighting was viewed from an aircraft",
+    "contains photographs": false
 }

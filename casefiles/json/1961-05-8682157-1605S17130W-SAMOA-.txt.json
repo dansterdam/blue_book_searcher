@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white object with a tail was spotted by military personnel over the Pacific Ocean near Samoa on May 2, 1961.",
-    "interesting points": [
-        "The object was low on the horizon and moving at high speed, seeming to accelerate and decelerate.",
-        "The object disappeared over the horizon after 2-3 minutes of observation.",
-        "Space tracking data showed no satellites in the area at the time of the sighting.",
-        "The light could not have been a meteor due to the object's steady course and deceleration/acceleration.",
-        "The number of military and civilian air traffic over the Pacific Ocean at the time made it unlikely to have been an aircraft."
-    ],
-    "result": "unexplained",
+    "main event": "A bright white object with a tail was observed moving at high speed over Samoa on May 2nd, 1961.",
+    "interesting points": "The object appeared to accelerate and decelerate during the observation., The sighting lasted for 2-3 minutes., The object was low on the horizon., No satellites were detected during the time of the sighting according to space track data., The object could not be definitively identified as a meteor or aircraft due to its steady course.",
     "sighted object": "a bright white object with a tail",
-    "location": "16°52' S 171°30'W (Samoa)",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "location": "Samoa",
+    "number of confirmed witnesses": 0,
+    "witness description": "military observation through various radar and visual methods",
+    "contains photographs": false
 }

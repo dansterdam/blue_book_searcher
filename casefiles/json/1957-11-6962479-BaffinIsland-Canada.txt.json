@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unidentified objects were detected on ground radar, moving rapidly from north to south at an estimated speed of 1,000 mph over Baffin Island, Canada.",
-    "interesting points": [
-        "The objects were fairly defined and moved rapidly.",
-        "The observation lasted for 5-6 minutes.",
-        "The objects were tracked by ground radar, but no photographs were taken.",
-        "The sighting occurred on November 22, 1957 at around 5:00 PM local time.",
-        "The objects were tracked moving from north to south at a high estimated speed of 1,000 mph."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects detected on ground radar",
+    "main event": "Two unidentified objects were observed via ground radar on 22 November 1957.",
+    "interesting points": "The observation lasted for approximately 5-6 minutes., The objects were moving rapidly at an estimated speed of 1,000 mph., The sighting was recorded on Baffin Island, Canada., The course of the objects was from north to south., The objects were described as fairly defined and clearly defined with no tail.",
+    "sighted object": "two unidentified objects",
     "location": "Baffin Island, Canada",
-    "witnesses": "ground radar operators",
-    "photographs": "no, the report does not include any photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "observation made via ground radar",
+    "contains photographs": false
 }

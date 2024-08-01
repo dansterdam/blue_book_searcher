@@ -1,15 +1,9 @@
 {
-    "main event": "Civilian observation of unidentified objects in Roswell, New Mexico on July 8, 1952.",
-    "interesting points": [
-        "The object was first sighted by several people, including a ranch foreman.",
-        "The object was estimated to be approximately 25 to 30 feet in diameter.",
-        "The object was found on a ranch and the area was secured and investigated by military personnel.",
-        "The report concludes that the object was likely a high-altitude research balloon and not an unidentified flying object.",
-        "The report mentions that no further details are provided in the image."
-    ],
-    "result": "Likely a high-altitude research balloon, not an unidentified flying object.",
-    "sighted object": "Unidentified object, approximately 25-30 feet in diameter.",
-    "location": "Roswell, New Mexico",
-    "witnesses": "Civilian witnesses, including a ranch foreman.",
-    "photographs": "No photographs present in the document."
+    "main event": "A civilian observation of unidentified flying objects occurred in Roswell, New Mexico on February 6, 1952.",
+    "interesting points": "The report mentions a sighting of a greenish-blue ball of fire by a B-29 crew while flying in Roswell,New Mexico.,The object was described as circular and metallic, with a diameter of approximately 40 to 50 feet.,One report speculated the phenomenon was a 'ball of fire' instead of traditional flying saucer sightings.,The objects were reported to display unusual maneuverability, including vertical ascents.,There were multiple sightings reported in various states around the same time.",
+    "sighted object": "unidentified flying objects",
+    "location": "Roswell, New Mexico, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members of B-29 aircraft and civilians",
+    "contains photographs": false
 }

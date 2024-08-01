@@ -1,15 +1,9 @@
 {
-    "main event": "The report describes the sighting of a star-like object moving from the northeast to the southwest at high speed and an altitude of around 20,000 feet, observed visually and on radar by a naval unit in the northern latitudes.",
-    "interesting points": [
-        "The object was observed for about 75 seconds before disappearing.",
-        "The object was described as having a magnitude of 0, indicating it was bright.",
-        "The object maintained a constant altitude during the sighting.",
-        "Other naval units in the area also reported observing a fast-moving unidentified object at the same time.",
-        "The report concludes that the object could have been a satellite, meteor, balloon, or aircraft, but there was insufficient information to make a definitive evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, star-like object moving rapidly through the sky",
-    "location": "61°30'N 16°09'W (Atlantic Ocean)",
-    "witnesses": "naval personnel",
-    "photographs": "no"
+    "main event": "A star-like object was observed moving from the NE to WSW over the Atlantic Ocean for approximately 75 seconds.",
+    "interesting points": "The object was reported as a starlike object at a magnitude of 0.,The observation was made visually and on radar.,The object was at a constant altitude of about 20,000 feet.,The sighting was corroborated by radar data from a Navy unit in the area.,Possible explanations include a satellite, meteor, balloon, or aircraft.",
+    "sighted object": "star-like object",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 2,
+    "witness description": "crew members of an aircraft observing from 6,000 feet",
+    "contains photographs": false
 }

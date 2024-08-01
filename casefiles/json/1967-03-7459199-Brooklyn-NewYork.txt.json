@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A civilian witness reported seeing two unusual objects in the sky over Brooklyn, New York in 1967.",
-    "interesting points": [
-        "The larger object was described as an 'umbrella' or 'bell-shaped' object, around the size of an open umbrella at a distance of 15-20 yards.",
-        "There was a smaller, spherical object that was slightly to the side and behind the larger object.",
-        "The larger object had a 'dim red' color and clearly visible contours, with the top tilted to the west.",
-        "The smaller object suddenly 'flashed bright' for 4-5 seconds before disappearing along with the larger object.",
-        "The witness, a 75-year-old former judge and lawyer, was deeply convinced the objects were extraterrestrial in origin."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unusual objects, one large 'umbrella' or 'bell-shaped' and one smaller spherical object",
-    "location": "Brooklyn, New York",
-    "witnesses": "one civilian witness, a 75-year-old former judge and lawyer",
-    "photographs": "no photographs were included in the report"
+    "main event": "A civilian reported observing two unidentified flying objects in Brooklyn, NY on March 11, 1967.",
+    "interesting points": "The observer described the first object as an elongated, bell-shaped, dim red object and the second as a smaller, spherical object,The larger object emitted a bright fiery light for 4-5 seconds before it disappeared,The observation lasted approximately two minutes with the objects being clearly visible,The witness stated that he is a retired lawyer and judge, aged 74,The report concludes that there was no physical evidence found related to the sighting.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 74-year-old retired lawyer and judge",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting near Saginaw, Michigan on August 6, 1955, lasting for 1 hour and 12 minutes, described a rectangular, white object the size of a baseball held at arm's length, which was seen to move slightly.",
-  "interesting points": [
-    "The sighting was reported by a civilian and categorized as a ground-visual observation.",
-    "Balloons released by the University of Minnesota and General Mills in Mobile, Minnesota were mentioned in relation to the sighting.",
-    "The observed object was described as relatively small and white, with slight movement.",
-    "The observation lasted for an extended period of 1 hour and 12 minutes.",
-    "A check with the CONAD weather balloon program revealed that all released balloons were drifting in the direction of the sighting."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "one rectangular, white object",
-  "location": "Saginaw, Michigan",
-  "witnesses": "civilian",
-  "photographs": "no photograph included"
+    "main event": "A UFO sighting was reported near Saginaw, Michigan on August 6, 1955, involving one rectangular white object.",
+    "interesting points": "The sighting lasted for 1 hour and 12 minutes,The object was described as the size of a baseball held at arm's length,The object was seen to move slightly,There were daily balloon releases by the University of Minnesota and General Mills in Mobile, Minnesota,All released balloons were drifting in the general direction of the sighting.",
+    "sighted object": "one rectangular white object",
+    "location": "Saginaw, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian",
+    "contains photographs": false
 }

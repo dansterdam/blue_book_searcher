@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two large, long white objects were observed on radar and visually in Woodland Hills, California on August 14, 1957.",
-    "interesting points": [
-        "The objects appeared as one or two bright lights and were described as being twice as large as a B-36 aircraft.",
-        "The objects moved in a straight and level path, then made a clockwise circular motion until they disappeared in the southeast.",
-        "When the objects reached the west, four bright flashes of 1-2 second duration were observed, and the objects then started a 15-degree climb until they reached the northwest and disappeared.",
-        "The sighting was observed both on radar and visually by ground observers.",
-        "The air defense command had no explanation for the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "two large, long white objects",
-    "location": "Woodland Hills, California",
-    "witnesses": "ground radar and visual observers",
-    "photographs": "none"
+    "main event": "Two very large, long objects were observed on 14 August 1957 in Woodland Hills, California.",
+    "interesting points": "The objects were reported to be twice as large as a B-36 aircraft,The sighting lasted for 2-3 seconds,The objects appeared as one or two bright lights with dark space in between, They moved in a straight and level course during the observation, Four bright flashes were noted as the objects reached the west before disappearing.",
+    "sighted object": "two very large, long objects appearing as bright lights",
+    "location": "Woodland Hills, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses confirmed in the report",
+    "contains photographs": false
 }

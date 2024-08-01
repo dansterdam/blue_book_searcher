@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several sightings of unidentified objects with white vapor trails reported in New Jersey in March 1950.",
-    "interesting points": [
-        "Witnesses described the objects as bright, shiny, and luminous, moving at high speeds with no sound.",
-        "The objects changed direction during the sightings, traveling from south to east and over the ocean.",
-        "One witness, a mechanical engineer, estimated the objects were traveling at speeds of 2,000-3,000 miles per hour at altitudes of 40,000-50,000 feet.",
-        "Witnesses included civilians as well as military personnel, all of whom were described as reliable and responsible.",
-        "The sightings lasted for several minutes, with the objects disappearing into the distance."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, shiny, luminous objects with white vapor trails",
-    "location": "New Jersey",
-    "witnesses": "civilians and military personnel",
-    "photographs": "no photographs present in the report"
+    "main event": "Multiple witnesses observed unidentified objects in the sky over New Jersey on March 6 and March 15, 1950.",
+    "interesting points": "Several witnesses described three luminous round forms moving intelligently in the sky., A witness reported a dull metallic grey object about 30 feet in diameter., Observations noted that the objects were high altitude with no sound and left vapor trails., Witnesses included reliable citizens and individuals with backgrounds in engineering and military intelligence., Different descriptions of the objects varied, including colors and shapes, indicating a range of eyewitness perceptions.",
+    "sighted object": "three luminous round forms and a dull metallic grey object",
+    "location": "Little Silver, New Jersey, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Reliable citizens in various professions, including a housewife and an engineer",
+    "contains photographs": false
 }

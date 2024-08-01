@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was sighted over Fort Walton Beach, Florida on July 21, 1954.",
-    "interesting points": [
-        "The object was described as circular, the size of a softball to a basketball, with a bright yellow center and light yellow haze.",
-        "The object moved in a southeast to northwest course, with the motion described as more than any star.",
-        "The sighting duration was 5-7 minutes, and the object was observed at regular intervals from 10:00 PM to 10:30 PM.",
-        "The weather conditions were hazy with a low ceiling and visibility up to 2 miles, with scattered high cirrus clouds and no moon.",
-        "No radar tracking of the object was reported, and no other confirming reports or sightings could be obtained."
-    ],
-    "result": "unknown",
-    "sighted object": "circular object with bright yellow center and light yellow haze",
-    "location": "Fort Walton Beach, Florida",
-    "witnesses": "civilians",
-    "photographs": "none"
+    "main event": "An unidentified flying object was reported over Fort Walton Beach, Florida on 21 July 1954.",
+    "interesting points": "The object was described as circular with a bright yellow center and a light yellow haze., The size of the object was estimated between a softball and a basketball., The sighting duration was approximately 5-7 minutes., The observations were made by civilians who appeared sincere and confident in their accounts., No other confirming reports were obtained, and no aircraft were in the area during the sighting.",
+    "sighted object": "unidentified flying object",
+    "location": "Fort Walton Beach, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians in the area who showed sincerity in their observations",
+    "contains photographs": false
 }

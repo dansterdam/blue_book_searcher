@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A UFO was sighted at Goodfellow AFB, Texas on June 15, 1966.",
-    "interesting points": [
-        "The object was described as looking like a distant star, about twice the size of an aircraft, and white to bluish-white in color.",
-        "The object moved rapidly across the sky in 3-4 minutes, disappearing to the south, then reappearing less than a minute later, seemingly climbing in altitude before moving westward and disappearing again.",
-        "The object was seen by two military witnesses, a radio intercept analyst and a linguist, both of whom were rated as having good reliability.",
-        "Weather conditions at the time included clear skies, unlimited visibility, and various wind speeds at different altitudes.",
-        "No physical evidence or photographs were obtained, and the object could not be identified conclusively, with the conclusion being it was either a probable satellite (ECHO II) or a possible aircraft."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright, unidentified object in the sky",
-    "location": "Goodfellow AFB, Texas",
-    "witnesses": "2 military personnel",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted at Goodfellow AFB, Texas on 15 June 1966, observed for 3 to 4 minutes.",
+    "interesting points": "The object moved from south to a southerly direction across the sky before disappearing,It reappeared almost immediately after fading and climbed in altitude before moving westward,The sighting involved two military witnesses,The object was described to be twice the size of an aircraft seen below it,The conclusion includes possibilities of it being a satellite or an aircraft.",
+    "sighted object": "One unidentified flying object",
+    "location": "Goodfellow AFB, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel stationed at Goodfellow AFB",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text:
-
 {
-    "main event": "An unidentified circular, white object was observed over Ravenson Chester, Ohio on July 4, 1961.",
-    "interesting points": [
-        "The object moved in an upward direction and then vanished from view.",
-        "The weather was clear at the time of the incident.",
-        "The investigating officer was Capt. George E. Oetzel.",
-        "The report states there was insufficient information to evaluate the object.",
-        "The source of the report was an AFSC Form 14 dated July 4, 1961."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, white object",
-    "location": "Ravenson Chester, Ohio",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "An unknown circular object was observed over Ravensont Chester, Ohio at 2210 hours on 4 July 1961, described as white in color and about the size of the full moon, moving upward before vanishing from view.",
+    "interesting points": "The object was described as circular and white,The sighting occurred on a clear night,The object maneuvered upward before disappearing, The incident involved an official Air Force investigation, The report was filed by Capt. George E. Oetzel.",
+    "sighted object": "unknown circular object",
+    "location": "Ravensont Chester, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "individual who reported the sighting",
+    "contains photographs": false
 }

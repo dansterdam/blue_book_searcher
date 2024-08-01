@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A stationary object made an arc turn of 170 degrees and then disappeared in place over Winston-Salem, North Carolina on February 29, 1967.",
-    "interesting points": [
-        "The object was described as a yellowish-orange, grapefruit-shaped object.",
-        "The object was stationary and then made an abrupt arc turn of 170 degrees before disappearing.",
-        "The sighting lasted for about 5 minutes.",
-        "The sighting was made by multiple civilian witnesses, including students from Wake Forest College.",
-        "Weather conditions at the time included a light overcast sky and temperature inversions."
-    ],
-    "result": "BALLOON (Not Air)",
-    "sighted object": "A yellowish-orange, grapefruit-shaped object",
-    "location": "Winston-Salem, North Carolina",
-    "witnesses": "Multiple civilian witnesses, including students",
-    "photographs": "No"
+    "main event": "A yellowish orange object was observed in Winston Salem, North Carolina on February 29, 1967.",
+    "interesting points": "The object made a 170-degree arc turn and then disappeared in place., The sighting lasted for approximately 5 minutes., The object was described as oblong and very bright., It was observed visually during nighttime., It was noted that a weather balloon was released nearby one hour before the sighting.",
+    "sighted object": "one yellowish orange object",
+    "location": "Winston Salem, North Carolina, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "students, all reliable",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report text:
-
 {
-    "main event": "A bright light, described as bright yellow and red, was observed dimming and disappearing within less than 1 minute.",
-    "interesting points": [
-        "The object exhibited erratic movement and did not appear to change its configuration during the observation.",
-        "The sighting was observed both visually and from the air.",
-        "The location of the sighting was 38.05N 96.55W.",
-        "No photographs were taken during the incident.",
-        "The conclusion was that there was insufficient data to determine the nature of the observed object."
-    ],
-    "result": "insufficient data",
+    "main event": "A bright light was observed in the sky on August 29, 1968, which dimmed and disappeared during the sighting.",
+    "interesting points": "The observation lasted less than 1 minute,The light was extremely bright, featuring bright yellow and red colors,No photographs were taken of the sighting,The object followed an erratic course,The source of the report is from the 27 TFW.",
     "sighted object": "a bright light",
-    "location": "38.05N 96.55W",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "location": "38.05N, 96.55W",
+    "number of confirmed witnesses": 0,
+    "witness description": "observers from 27 TFW",
+    "contains photographs": false
 }

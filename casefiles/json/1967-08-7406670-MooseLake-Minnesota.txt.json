@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple people observed a star-like object hovering and pulsating over Moose Lake, Minnesota in August 1967.",
-    "interesting points": [
-        "The object was described as round in shape with a pulsating yellowish-orange light.",
-        "The object hovered at an approximate altitude of 1,000 feet for 15-20 minutes before rapidly accelerating and disappearing.",
-        "One observer attempted to photograph the object, but the photos were unsuccessful due to poor lighting conditions.",
-        "The Air Force investigated the sighting and determined the object was likely a star, as the same phenomenon was observed on multiple subsequent nights.",
-        "The Air Force noted the sighting contained excellent detail, including the object's dark, elliptical shape, even speed and altitude, and a noticeable increase in speed and altitude at one point."
-    ],
-    "result": "Likely astronomical, though not conclusively determined",
-    "sighted object": "A round, pulsating object with a yellowish-orange light",
-    "location": "Moose Lake, Minnesota",
-    "witnesses": "Multiple people, including Mr. John Strom and his wife",
-    "photographs": "Attempted, but unsuccessful due to poor lighting conditions"
+    "main event": "Multiple observers reported sightings of unidentified flying objects in Moose Lake, Minnesota over various dates in August 1967.",
+    "interesting points": "Approximately 20 persons watched a star-like object for over thirty minutes, The object changed brightness and tilted slightly, One observer later reported a similar sighting the following night, An observer described a round object with pulsating yellowish-orange light hovering at 1,000 feet altitude, Another sighting involved a large metallic object hovering silently over the lake.",
+    "sighted object": "various unidentified flying objects, including a star-like object and a large metallic hovering object",
+    "location": "Moose Lake, Minnesota, USA",
+    "number of confirmed witnesses": 20,
+    "witness description": "Residents of Moose Lake, including Mr. and Mrs. John Strom.",
+    "contains photographs": false
 }

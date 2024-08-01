@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A bright object was reported maneuvering in the sky over West Virginia on August 28, 2200.",
-    "interesting points": [
-        "The object was observed by multiple witnesses in the area.",
-        "The object was described as a bright, shiny, round object about the size of a marble, moving at a steady pace through the sky.",
-        "The sighting lasted for about 45 minutes.",
-        "No physical evidence was reported.",
-        "The witness compared the motion of the object to a feather moving in the wind."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, shiny, round object",
-    "location": "West Virginia",
-    "witnesses": "multiple witnesses in the area",
-    "photographs": "none"
+    "main event": "Witness reported observing a bright object in the sky that appeared to be maneuvering for about 45 minutes.",
+    "interesting points": "The sighting was corroborated by other witnesses in the area., No physical evidence was found to support the sighting., The observation was conducted visually with no supporting photographs., The sighting occurred in West Virginia on August 28, 2200., The report is part of Project Blue Book, which investigated UFO sightings.",
+    "sighted object": "bright object in the sky",
+    "location": "West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness's identity details are redacted in the report.",
+    "contains photographs": false
 }

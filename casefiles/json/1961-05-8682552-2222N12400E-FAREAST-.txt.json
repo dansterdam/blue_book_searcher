@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright whitish round object was sighted over Guam on May 10, 1963.",
-    "interesting points": [
-        "The object was the size of a pin head.",
-        "The object's course was 120 degrees ± 5 degrees.",
-        "The object was observed for 10 seconds and traveled at a speed of approximately 10 degrees per minute.",
-        "The object was observed from a ship's position at 22-22N 124-00E.",
-        "The report concludes the object was possibly meteoric material, but the long duration of the sighting does not fit the nature of meteoric material."
-    ],
-    "result": "possible meteoric material",
+    "main event": "A bright whitish round object was observed in Guam on May 10, 1963.",
+    "interesting points": "The object was the size of a pinhead, The course of the object was observed at 120° ± 5°, The sighting lasted approximately 10 seconds, The speed of the object was estimated at 2-3 miles in 10 minutes, The conclusion noted was possible meteoric material, though the duration was atypical for such material.",
     "sighted object": "bright whitish round object",
-    "location": "Guam",
-    "witnesses": "naval personnel, including the Officer of the Deck and Junior Officer of the Deck",
-    "photographs": "yes, the report indicates photographs were taken"
+    "location": "Guam, Guam, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "observers onboard ship",
+    "contains photographs": false
 }

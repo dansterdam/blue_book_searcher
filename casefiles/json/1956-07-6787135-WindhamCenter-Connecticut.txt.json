@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "Two objects like a star, size of a pea, color like a bright star, with deep throbbing sound and vapor trails were observed. The objects seemed to collide and disappear, with one object later seen breaking up and exploding.",
-    "interesting points": [
-        "The objects moved from east to west and appeared to collide.",
-        "One object was later seen breaking up and exploding, initially thought to be a meteor.",
-        "The witness estimated the objects' speed to be around 1000 mph and their distance to be about 100,000 feet.",
-        "The sighting occurred while the witness was watching fireworks.",
-        "The witness was unable to determine the exact nature of the objects."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "two star-like objects with vapor trails",
-    "location": "Windham Center, Connecticut",
-    "witnesses": "civilian witness",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Two star-like objects were observed in Windham Center, Connecticut, on July 17, 1956.",
+    "interesting points": "Objects emitted a deep throbbing sound and left vapor trails,Objects appeared pea-sized and bright like a star,Observers thought the objects were meteors until one exploded,One object vanished after a possible collision,The observation lasted for approximately 15 minutes.",
+    "sighted object": "two star-like objects",
+    "location": "Windham Center, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is identified as a student.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a glowing, cigarette-shaped object over Pueblo, Colorado in 1955.",
-    "interesting points": [
-        "The object was white in color and appeared to be at a very high altitude.",
-        "The object was observed for 20 minutes, disappearing beyond the mountains.",
-        "Other civilians in the area, including a state senator, reported similar sightings of unidentified objects around the same time.",
-        "The state senator described the object as greenish-blue in color, luminous, and of a jelly-like consistency, traveling at a high rate of speed.",
-        "The report includes details from an investigation by the Office of Special Investigations and the Air Defense Command."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, cigarette-shaped object",
-    "location": "Pueblo, Colorado",
-    "witnesses": "civilian, state senator",
-    "photographs": "none"
+    "main event": "An unidentified flying object observed near La Veta, Colorado on 25 November 1955.",
+    "interesting points": "The object was described as greenish-blue, luminous, and jelly-like in consistency., The sighting lasted for approximately five seconds., The object was estimated to be at 15,000 feet and traveled at half the speed of a meteorite., A pair of witnesses, including a state senator, reported the sighting under clear skies with no visible clouds., The object suddenly disappeared from view over Mt. Mestas.",
+    "sighted object": "a luminous greenish-blue jelly-like object",
+    "location": "La Veta, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A state senator and his wife described the sighting.",
+    "contains photographs": false
 }

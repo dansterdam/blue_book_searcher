@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, glowing, oval-shaped object was observed hovering and then rapidly accelerating over Hyattsville, Maryland on February 16, 1965.",
-    "interesting points": [
-        "The object was estimated to be 30-40 feet in diameter and brightly illuminated in a blue-white color.",
-        "The object remained stationary for several minutes before slowly moving horizontally for about a mile, then suddenly accelerating at a tremendous speed and disappearing from sight.",
-        "The total observation lasted approximately 10 minutes.",
-        "The witness was a former B-29 navigator and was familiar with various aircraft, but stated this object was unlike anything he had seen before.",
-        "The witness could not explain what the object was that he observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, luminous, oval-shaped object",
-    "location": "Hyattsville, Maryland",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A civilian observed a domed-shaped object in Hyattsville, Maryland on February 16, 1965.",
+    "interesting points": "The object was solid and sharply outlined at first before it gradually faded away,The observation was made in clear conditions with a bright day and clear sky,The object was estimated to be about 10-15 feet in diameter,It was observed descending at a speed of 800-900 mph from a distance of about 300 ft, The conclusion in the report suggested it was likely a conventional aircraft but did not adequately convince of its traditional identity.",
+    "sighted object": "a domed-shaped object in the sky",
+    "location": "Hyattsville, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian without any specific training in astronomy or physics, but familiar with various types of aircraft due to former experience as a B-29 navigator.",
+    "contains photographs": false
 }

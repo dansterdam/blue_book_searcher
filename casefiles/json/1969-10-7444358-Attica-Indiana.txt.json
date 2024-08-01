@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A group of 5 or 6 people observed four lighted objects hovering above the ground near Attica, Indiana on September 24, 1969.",
-    "interesting points": [
-        "The objects were bright and reddish-orange in color.",
-        "The objects sometimes appeared to be joined together and then separated and maneuvered independently.",
-        "The objects made no sound.",
-        "The witnesses became excited and amazed at what they were seeing.",
-        "The objects went out of sight upward, disappearing into the night sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "four lighted objects",
-    "location": "Attica, Indiana",
-    "witnesses": "5 or 6 people",
-    "photographs": "no"
+    "main event": "A series of UFO sightings were reported in Attica, Indiana, on July 6, 1969, including observations of a 'Viau' UFO at different elevations.",
+    "interesting points": "The first sighting of the 'Viau' UFO was at 2000 hours with a 150° elevation,The second sighting occurred at 2115 hours with a 50° elevation, Other unidentified objects were noted to have a stellar magnitude of +0.2±, A witness described seeing a bright star-like object change colors from red, white, to green, Multiple witnesses, including a family, observed the changing lights over approximately 1 hour and 15 minutes.",
+    "sighted object": "Viau UFO and unidentified aerial phenomena",
+    "location": "Attica, Indiana, USA",
+    "number of confirmed witnesses": 8,
+    "witness description": "A family including 7 children and their parents, a foreman with extensive travel experience.",
+    "contains photographs": false
 }

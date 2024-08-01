@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of a single drifting object over Spokane, Washington on July 31, 1955.",
-    "interesting points": [
-        "The object appeared to be the size of a baseball held at arm's length and drifted slowly.",
-        "The sighting lasted for 15 minutes.",
-        "The object's identity could not be conclusively determined and was listed as 'Unknown'.",
-        "No photographs were taken of the object.",
-        "The sighting was reported by a civilian witness."
-    ],
-    "result": "unknown",
-    "sighted object": "a single drifting object",
-    "location": "Spokane, Washington",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A sighting of an unidentified object reported during a baseball event in Spokane on July 31, 1955.",
+    "interesting points": "The object was observed to drift slowly for fifteen minutes., The report stated that the object appeared to be the size of a baseball held at arm's length., The object could potentially be classified as a balloon, aircraft, or astronomical phenomenon., The sighting lacked sufficient data for a definitive conclusion., The observation was made by a civilian.",
+    "sighted object": "one unidentified object in the sky",
+    "location": "Spokane, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

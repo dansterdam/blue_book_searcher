@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An unidentified vertical cylindrical object was spotted hovering in Jacksonville, Florida for about 10 seconds.",
-    "interesting points": [
-        "The object was the size of a silver dollar.",
-        "It hovered in a stationary position before rapidly accelerating vertically out of sight.",
-        "The sighting was made by children who called their parents' attention to the object.",
-        "The object was observed traveling at a terrific speed heading south from Jacksonville.",
-        "The report notes that there were no definite or conclusive indications that the sighting was of an aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "vertical cylindrical object",
-    "location": "Jacksonville, Florida",
-    "witnesses": "children and their parents",
-    "photographs": "no photographs included in the report"
+    "main event": "An object was observed hovering in a stationary position for 10 seconds in Jacksonville, Florida.",
+    "interesting points": "The object was described as a vertical cylinder the size of a silver dollar., The object moved out of sight with rapid acceleration., Children playing in the yard were the primary witnesses., The sighting lasted for 10 seconds., The object was considered 'probably' not an aircraft or balloon based on evaluations.",
+    "sighted object": "vertical cylinder",
+    "location": "Jacksonville, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "children playing in the yard",
+    "contains photographs": false
 }

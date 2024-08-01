@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A government employee observed a bright, silvery, spherical object with an equator or skirt in the sky near Alexandria, Virginia in 1958.",
-    "interesting points": [
-        "The object was initially stationary, then rapidly gained altitude and proceeded south, disappearing from view.",
-        "The object subtended an angle of approximately 3 degrees, suggesting it was a very large object around 600 feet in size.",
-        "There was no sound of a motor, jet, or propeller observed.",
-        "The witness was the only person around at the time of the sighting.",
-        "The witness later estimated the angles and timing of the sighting using a protractor and by pacing the distance walked."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, silvery, spherical object with an equator or skirt",
-    "location": "Alexandria, Virginia",
-    "witnesses": "government employee",
-    "photographs": "no"
+    "main event": "A 63-year-old male observed a bright silvery object in the sky while walking in Alexandria, Virginia, on October 7, 1958.",
+    "interesting points": "The object was described as spherical with an annulus around its circumference and approximately 600 feet long., The sighting lasted for about 50 seconds before the object disappeared rapidly., The witness estimated the distance of the object to be roughly 3 miles., It was initially stationary for about 10 seconds before it moved away., The report suggests the object might have been an illusion created by sun reflections from ice crystals or thin clouds.",
+    "sighted object": "spherical, oblate object",
+    "location": "Alexandria, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "63-year-old male, Special Assistant for the Secretary of Defense, educated with a college degree in Engineering.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting took place in Mulberry Corners, Ohio in late July to early August 1955 with 2 accompanying photos.",
-  "interesting points": [
-    "The UFO was first seen and traversed its course at tree top level with an estimated altitude of 60 to 100 feet.",
-    "The report contains two photos, one showing a rural landscape with a building in the distance and the other showing trees and power lines silhouetted against the sky.",
-    "The sighting took place in a rural area.",
-    "The estimated altitude of the UFO's traverse provides a specific detail about the sighting.",
-    "The mention of 'Shene man' sighting suggests a specific witness or previous sighting in the same area."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying object (UFO)",
-  "location": "Mulberry Corners, Ohio",
-  "witnesses": "unknown",
-  "photographs": "yes"
+    "main event": "The Shene man sighting of a UFO took place in late July to early August 1955.",
+    "interesting points": "The UFO was observed at tree top level with an estimated altitude of 60 to 100 feet., The sighting was documented by Project Blue Book., The document includes two photographs showing the rural landscape., The larger photograph shows a building in the distance., The smaller photograph depicts trees and power lines against the sky.",
+    "sighted object": "UFO",
+    "location": "Mulberry Corners, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The details encounter references a sighting by a man named Shene but does not list confirmed witnesses.",
+    "contains photographs": true
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white elliptical object was observed moving southwest, accelerating and making a sharp turn before disappearing into a dark cloud layer.",
-    "interesting points": [
-        "The object first appeared out of a low dark cloud layer.",
-        "The object accelerated and made a sharp turn before disappearing into the dark cloud cover.",
-        "The duration of the sighting was 11 minutes.",
-        "The report concludes the object was possibly a balloon, an aircraft, or astronomical.",
-        "The report states there was definitely insufficient data to evaluate the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white elliptical object",
-    "location": "unspecified",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "White elliptical object observed moving SW from a low dark cloud layer.",
+    "interesting points": "The observation lasted for 11 minutes., The object made a sharp turn and disappeared into dark cloud cover., The object was possibly identified as a balloon or Air Force aircraft., The report emphasizes insufficient data for evaluation., The sighting is part of the Project Blue Book records.",
+    "sighted object": "white elliptical object",
+    "location": "Flores, unspecified region, unspecified country",
+    "number of confirmed witnesses": 0,
+    "witness description": "Pilot of a Navy aircraft who experienced engine failure.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A disk-shaped, yellowish object was observed by radar on the ground at 0830 on October 9, 1953 in Dayton, Ohio. The object moved to the west, turned toward the south, turned over, and went behind clouds.",
-    "interesting points": [
-        "The object was observed for 33 seconds.",
-        "The object's maneuver and description were noted as unusual.",
-        "The case was concluded as 'Unknown'.",
-        "The report also lists 'Possibly Balloon', 'Possibly Aircraft', and 'Possibly Astronomical' as possible explanations, but states there was 'Insufficient Data for Evaluation'.",
-        "A later report from October 1963 mentions an object moving through the sky, believed to be an aircraft, with a registered identification."
-    ],
-    "result": "unexplained",
+    "main event": "A radar observation of a disk-shaped, yellowish object was recorded in Dayton, Ohio on 9 October 1953.",
+    "interesting points": "The sighting lasted for 33 seconds and included radar ground observations., The object was described as disk-shaped and moved west before turning south and disappearing behind clouds., The object was observed using ground radar and air interceptor radar., The case classified the object as unknown, possibly due to a balloon or aircraft., No photographs were included in the report.",
     "sighted object": "disk-shaped, yellowish object",
-    "location": "Dayton, Ohio",
-    "witnesses": "Air Force",
-    "photographs": "None"
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses were documented.",
+    "contains photographs": false
 }

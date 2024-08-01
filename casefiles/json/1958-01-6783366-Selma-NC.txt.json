@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A disc-shaped object, colored green and amber, was observed flying at low altitudes up to 1000 ft in Selma, NC on December 27, 1957.",
-    "interesting points": [
-        "The object passed overhead at a slight angle and was observed for 25 to 25.5 minutes.",
-        "The observation was made using ground-visual and ground-electronic means.",
-        "The weather conditions were clear with excellent ceiling and standard cloud cover.",
-        "No photographs were included in the report, but a single photo or motion picture was mentioned.",
-        "The report suggests the sighting was possibly a balloon."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped object, colored green and amber",
-    "location": "Selma, NC",
-    "witnesses": "civilian and military observer",
-    "photographs": "yes, one photo or motion picture"
+    "main event": "A civilian reported seeing a green and amber disc-shaped object flying at low altitudes in Selma, NC on June 21, 1952.",
+    "interesting points": "The object was observed for about 25 to 25 1/2 minutes., The sighting involved a combination of ground-visual and ground-radar observations., The object passed overhead at a slight angle., Weather conditions during the sighting were clear with excellent ceiling., Preliminary analysis suggests that the sighting was possibly a balloon.",
+    "sighted object": "disc-shaped object",
+    "location": "Selma, NC, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

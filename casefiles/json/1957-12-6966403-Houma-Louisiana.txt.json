@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported on 1 December 1957 in Houma, Louisiana. The object was described as a round, multi-colored light the size of a basketball, which changed colors and moved slowly before disappearing below the horizon after 24 minutes of observation.",
-  "interesting points": [
-    "The UFO changed colors from white, yellow, red, orange, to green, which is unusual for natural atmospheric phenomena.",
-    "It was observed for 24 minutes, indicating a relatively long duration of the sighting.",
-    "The military source concluded that the object was 'probable Venus' based on astro charts and current astro journal data.",
-    "The report mentions a civilian and military source, adding credibility to the observation.",
-    "The object was initially described as being the size of a basketball, indicating a relatively large size for a celestial or atmospheric phenomenon."
-  ],
-  "result": "probable Venus",
-  "sighted object": "round, multi-colored light",
-  "location": "Houma, Louisiana",
-  "witnesses": "civilian & military",
-  "photographs": "no"
+    "main event": "On 1 December 1957, a round multi-colored light the size of a basketball was observed in Houma, Louisiana for 24 minutes.",
+    "interesting points": "The object changed colors between white, yellow, red, orange, and green., The object was stationary at first before moving slowly in a WSW direction until it disappeared., The sighting lasted for a total of 24 minutes., The observers included both civilians and military personnel., The conclusion suggested that the sighting was likely Venus based on astro charts.",
+    "sighted object": "a multi-colored round light",
+    "location": "Houma, Louisiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians and military personnel, including a housewife and a store manager.",
+    "contains photographs": false
 }

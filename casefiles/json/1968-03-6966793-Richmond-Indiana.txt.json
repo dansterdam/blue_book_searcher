@@ -1,15 +1,9 @@
 {
-    "main event": "A witness reported seeing an unidentified flying object in Richmond, Indiana on March 29, 1968.",
-    "interesting points": [
-        "The observer gave a very sketchy description of the UFO sighting.",
-        "Both the observer and the witness were sent Form 117s but neither returned a completed form as of May 28, 1968.",
-        "There was insufficient data for the Air Force to evaluate the sighting.",
-        "The object was described as reddish-brown in color and made no sound.",
-        "The object was observed for approximately 20 minutes before moving behind trees."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object",
-    "location": "Richmond, Indiana",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "An observer reported seeing an unidentified flying object in Richmond, Indiana on March 28, 1965.",
+    "interesting points": "The observer claimed the object was reddish brown in color., The sighting duration was estimated to be around 20 minutes., The object was seen continuously during the observation., The sky conditions were clear at the time of the sighting., The observer stated that the object moved behind trees during the sighting.",
+    "sighted object": "reddish brown object in the sky",
+    "location": "Richmond, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observer and an unnamed witness",
+    "contains photographs": false
 }

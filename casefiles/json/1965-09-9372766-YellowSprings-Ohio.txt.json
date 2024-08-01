@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported seeing a bright object moving very fast in the sky over Yellow Springs, Ohio in September 1965.",
-    "interesting points": [
-        "The object was brighter than the star Polaris and moved very quickly.",
-        "The object had the same color as a star and appeared as a point of light.",
-        "The object disappeared over the horizon after being observed for about 5 minutes.",
-        "The report indicates the object was concluded to be the ECHO II satellite.",
-        "The observer was asked detailed questions about the sighting, including time of day, weather conditions, and characteristics of the object."
-    ],
-    "result": "Satellite (ECHO II)",
-    "sighted object": "Bright, fast-moving point of light",
-    "location": "Yellow Springs, Ohio",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A civilian observed a bright object in the sky for 5 minutes, concluding it was a satellite (ECHO II).",
+    "interesting points": "The object was brighter than Polaris and moved very fast,The color of the object was similar to that of a star,The object disappeared over the horizon, The observation was made during the night, The report indicates no physical evidence.",
+    "sighted object": "a bright object in the sky",
+    "location": "Yellow Springs, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

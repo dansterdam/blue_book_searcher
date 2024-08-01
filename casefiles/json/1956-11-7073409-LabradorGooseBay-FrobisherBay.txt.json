@@ -1,15 +1,9 @@
 {
-  "main event": "An aircraft crew sighted an amber object in Labrador, Goose Bay - Frobisher Bay, on 11 November 1956, which overtook and passed their aircraft before disappearing. The object was initially thought to be a jet type aircraft but was later identified as a rocket from the USS Rushmore conducting rocket firing tests in the area.",
-  "interesting points": [
-    "The sighting lasted for only 15-20 seconds, and the object was estimated to be about 10 miles away from the reporting aircraft.",
-    "There were no other known air traffic or radar contacts in the area at the time of the sighting.",
-    "The crew initially thought the object to be a jet type aircraft, indicating that it exhibited characteristics of high speed and maneuverability.",
-    "The subsequent identification of the object as a rocket from USS Rushmore points to the possibility of misidentifications of aerial phenomena as advanced technology during that time.",
-    "The report provides details such as the specific coordinates, altitude, heading, and speed of both the reporting aircraft and the estimated position of the unidentified object."
-  ],
-  "result": "Identified as a rocket from the USS Rushmore conducting tests in the area",
-  "sighted object": "Amber object initially thought to be a jet type aircraft",
-  "location": "Labrador, Goose Bay - Frobisher Bay",
-  "witnesses": "Aircraft crew",
-  "photographs": "No photographs included in the report"
+    "main event": "The crew of an aircraft sighted an amber object overtaking and passing their aircraft in Labrador on November 11, 1956.",
+    "interesting points": "The object was thought to be a jet-type aircraft, The crew observed the object for 15-20 seconds, The object pulled ahead rapidly and disappeared, No radar contact or air traffic was present at the time, Subsequent information indicated the object was likely a rocket being tested by the USS Rushmore.",
+    "sighted object": "amber object",
+    "location": "Goose Bay, Labrador, Canada",
+    "number of confirmed witnesses": 2,
+    "witness description": "crew of an aircraft",
+    "contains photographs": false
 }

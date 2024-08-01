@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A UFO was observed on radar at 33-30N 177-40W on February 20, 1964.",
-    "interesting points": [
-        "The UFO was observed at an elevation of 30 degrees in the east at approximately 21:24.",
-        "The UFO had an intensity of light similar to a star.",
-        "The UFO's movement was described as 'erratic' with an unspecified speed and direction.",
-        "The observation lasted for 8 minutes.",
-        "The report notes that the date is not available."
-    ],
-    "result": "unexplained",
+    "main event": "A UFO was observed at 30 degrees elevation in the east on February 20, 1964, showing erratic course and bright intensity.",
+    "interesting points": "The observation lasted for 8 minutes,The object was observed by radar,Document mentions a very high speed and an approximate intensity comparable to a first magnitude star,The exact data of the object is unclear and includes unusual terminology,The UFO was reported to be at 52,000 feet above the horizon.",
     "sighted object": "one unidentified flying object",
     "location": "33-30N 177-40W",
-    "witnesses": "ground-based radar operators",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "the sighting was reported via ground-radar, no confirmed witnesses detailed",
+    "contains photographs": false
 }

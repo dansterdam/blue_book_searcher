@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was sighted on ground-radar, falling in a northwest direction, breaking into 2 pieces, and turning up in the atmosphere.",
-    "interesting points": [
-        "The object was observed on ground-radar, indicating it was a physical object and not just a visual sighting.",
-        "The object broke into 2 pieces before turning up in the atmosphere, suggesting it was not a typical meteorological event.",
-        "The sighting was reported by a naval radio officer, providing an official government source for the report.",
-        "The report mentions the object appeared like a 'shooting star', but the details indicate it was something more unusual.",
-        "The report suggests the object may have been a balloon, aircraft, or meteor, but the conclusion is that the sighting remains unexplained."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light/object",
-    "location": "Pacific Ocean, 20 N 134 W",
-    "witnesses": "ground-radar operators",
-    "photographs": "no"
+    "main event": "A bright object was sighted in the sky breaking into two pieces and falling in a northwest direction.",
+    "interesting points": "The object was observed on ground radar as a bright light,The sighting lasted for 35 seconds,The object was reported to have broken into two pieces before disappearing,It was noted as possibly being a balloon, meteor, or aircraft,The sighting location was in the Pacific Ocean at coordinates 20 N 134 W.",
+    "sighted object": "a bright light object breaking into two pieces",
+    "location": "Pacific Ocean, N/A, N/A",
+    "number of confirmed witnesses": 0,
+    "witness description": "ground radar observations",
+    "contains photographs": false
 }

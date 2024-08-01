@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observation of a circular light, smaller than an aircraft, with a whiter and brighter glow than an aircraft. The object moved in a straight line, descending, with no sound.",
-    "interesting points": [
-        "The object had the characteristics of a body, with white dots being described as pieces falling from a meteor.",
-        "The sighting lasted for 2 minutes.",
-        "The object was observed visually, with no visual aids used.",
-        "The weather conditions included partly cloudy skies, with various wind speeds at different altitudes.",
-        "The observer was a local radio announcer who was described as a level-headed and trustworthy individual."
-    ],
-    "result": "Probably Astronomical",
-    "sighted object": "circular light, smaller than an aircraft, with a whiter and brighter glow",
-    "location": "Thayer, Kansas",
-    "witnesses": "local radio announcer",
-    "photographs": "no"
+    "main event": "On April 10, 1962, a circular light was observed in Thayer, Kansas for 2 minutes.",
+    "interesting points": "The object was described as circular, smaller than an aircraft, and emitted a whiter and brighter glow., The object made no sound during the observation., The observation lasted for 2 minutes at 15:40 hours., The report suggests the object had characteristics resembling a body, with white dots potentially being pieces falling from a meteor., The conclusion of the report indicated that the sighting was probably astronomical.",
+    "sighted object": "circular light",
+    "location": "Thayer, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a local radio announcer who is respected and does not want publicity",
+    "contains photographs": false
 }

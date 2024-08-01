@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A metallic, solid object was observed near Albuquerque, New Mexico for 10-15 seconds.",
-    "interesting points": [
-        "The object appeared solid and metallic.",
-        "The object flashed as it flew straight and level.",
-        "The object was not a balloon, aircraft, or satellite.",
-        "The report includes an evaluation of a suspected rock sample, indicating some additional analysis was done.",
-        "The materials submitted for analysis were determined to be harmless."
-    ],
-    "result": "unexplained",
-    "sighted object": "a metallic, solid object",
-    "location": "Near Albuquerque, New Mexico",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "An unidentified object was observed near Albuquerque, New Mexico on June 11, 1964.",
+    "interesting points": "The object was observed for 10-15 seconds,It was reported to have appeared solid and metallic,The object's flight was described as straight and level with flashing features,The conclusion of the report states it was not a balloon, aircraft, or satellite,The observation was solely visual with no physical evidence collected.",
+    "sighted object": "one unidentified metallic object",
+    "location": "Albuquerque, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

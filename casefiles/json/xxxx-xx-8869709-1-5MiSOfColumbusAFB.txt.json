@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "An unidentified object was observed 13 miles south of Columbus AFB.",
-    "interesting points": [
-        "The object was described as a football-shaped object that gradually increased in size.",
-        "The report concludes that the object was a probable balloon, a probable astronomical event, or a possible aircraft.",
-        "The report mentions that the characteristics of the object are of an aircraft present, suggesting military implications.",
-        "The report states that the information on the object's appearance and disappearance is unclassified, but the intelligence regarding the object is top secret.",
-        "The report mentions several other unidentified items observed, including a clear and star-like item, a less clear whitish and larger item, and other unknown items, but the data on these items is inconclusive."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a football-shaped object that gradually increased in size",
-    "location": "13 Mi S of Columbus AFB",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "A UFO sighting report documented in Project Blue Book regarding an unidentified object observed 13 miles south of Columbus AFB.",
+    "interesting points": "The object was described as a football shape that increased in size gradually., Military implications suggested it could involve maneuvers and characteristics of an aircraft., The report concludes the object could be a probable balloon, astronomical phenomenon, or possibly an aircraft., Insufficient data was available for a thorough evaluation., The document is an official record card containing classified intelligence references.",
+    "sighted object": "one object resembling a football",
+    "location": "Columbus, Mississippi, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "ground observation noted, but no specific witnesses were mentioned.",
+    "contains photographs": false
 }

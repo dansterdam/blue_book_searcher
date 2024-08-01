@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a bright, luminous, disc-shaped object with a brightly lit dome and a flashing red light on the bottom over Lake City, Pennsylvania on February 23, 1967.",
-    "interesting points": [
-        "The object was hovering motionless for several minutes before moving in a circular pattern, disappearing and reappearing.",
-        "The object remained in view for approximately 15-20 minutes before speeding away at a tremendous rate of speed in a southerly direction.",
-        "The witness had never seen anything like this before and was quite puzzled by the observation.",
-        "The Air Force requested the witness to complete a DD Form 164 to provide more information about the sighting.",
-        "Other reliable witnesses in the area also reported seeing a small, bright object in the sky that stopped, hovered, and then quickly disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "Bright, luminous, disc-shaped object with a brightly lit dome and a flashing red light on the bottom",
-    "location": "Lake City, Pennsylvania",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "Multiple civilians reported sightings of a UFO over Lake City, Pennsylvania during February 1967.",
+    "interesting points": "The object was described as oval-shaped with hazy edges, appearing white to golden in color., One report indicated a round, disc-shaped craft with a brightly lit dome and a flashing red light., The object was observed hovering for several minutes, moving in circular patterns, then speeding away., Witnesses claimed the object remained visible for approximately 15 to 20 minutes before disappearing., Local citizens described seeing a small light object hovering about a cloud that appeared suddenly and disappeared just as quickly.",
+    "sighted object": "one round disc-shaped craft or luminous object in the sky",
+    "location": "Lake City, Pennsylvania, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "civilians reporting various observations",
+    "contains photographs": false
 }

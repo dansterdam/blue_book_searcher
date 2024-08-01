@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A large, white, stationary object was sighted just above the horizon in the vicinity of Seattle and Bremerton, Washington.",
-    "interesting points": [
-        "The object was sighted at around 1600Z on February 18, 1953.",
-        "The object was sighted at a bearing of 270 degrees from the coordinates 47°33'N 123°0'W.",
-        "The object was reported as being large in size and white in color.",
-        "The object remained motionless and did not move during the observation.",
-        "The sighting was reported by a Navy lieutenant commander and a civilian observer in Bremerton."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, white, stationary object",
-    "location": "Seattle and Bremerton, Washington",
-    "witnesses": "a Navy lieutenant commander and a civilian observer",
-    "photographs": "no"
+    "main event": "A stationary white object was sighted just above the horizon in Bremerton, Washington on February 18, 1953.",
+    "interesting points": "The sighting was reported by a Lieutenant Commander from the 13th Naval District and a civilian observer,The object was described as large, white, and motionless,The sighting occurred at approximately 1336 hours,The exact distance of the object was not reported,The object was observed at a bearing of 270 degrees from a specific geographic coordinate.",
+    "sighted object": "a large stationary white object",
+    "location": "Bremerton, Washington, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Lieutenant Commander Garies, Staff Duty Officer, and a civilian observer, name redacted.",
+    "contains photographs": false
 }

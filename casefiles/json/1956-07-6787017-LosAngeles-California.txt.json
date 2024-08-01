@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A mysterious light that glowed brilliantly in the sky before it disappeared in a sudden flash was seen by multiple witnesses in the Los Angeles area on July 16, 1956.",
-    "interesting points": [
-        "The light emitted a strong reddish glow similar to the red nose light on a Constellation plane.",
-        "The light moved in a southeasterly direction at great speed, but its exact speed could not be estimated.",
-        "There was no blip or plane detected in the area at the time of the sighting.",
-        "The light was visible for about four minutes from 1:02 a.m. before it suddenly blacked out and vanished from sight.",
-        "More than 40 calls were made to the police from residents in the southwestern area reporting the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "one round, red object",
-    "location": "Los Angeles, California",
-    "witnesses": "multiple civilian witnesses, including workers at the control tower at the International Airport",
-    "photographs": "no photographs included in the report"
+    "main event": "A mysterious light was observed in the sky over Los Angeles, California on July 6, 1956.",
+    "interesting points": "The sighting lasted for several minutes., The object was initially thought to be a missile., Witnesses described the object as a round, red light that became a ball of fire and then disappeared., Workers at the airport control tower estimated the light's altitude and noted its speed as blinding., Over 40 calls were made to the police regarding the sighting.",
+    "sighted object": "one round red object",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 40,
+    "witness description": "residents in the southwestern area and airport workers",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified flying object observed over Shiloh, Ohio in 1957",
-    "interesting points": [
-        "The object was described as round or oval in shape and illuminated.",
-        "The object was observed traveling at a very high speed in a straight line.",
-        "The object was visible for approximately 3-4 minutes before disappearing.",
-        "Investigation by Air Force personnel could not identify the object as any known aircraft, missile, or natural phenomenon.",
-        "Several witnesses, including a church congregation, reported observing the object."
-    ],
-    "result": "unidentified",
-    "sighted object": "round or oval, illuminated object",
-    "location": "Shiloh, Ohio",
-    "witnesses": "church congregation, multiple civilian witnesses",
-    "photographs": "none available"
+    "main event": "On July 6, 1957, multiple witnesses observed an unidentified flying object in the sky over Shiloh, Ohio.",
+    "interesting points": "The object was described as a dull reddish-orange round shape, about 25-30 feet in diameter, observed for approximately 3 minutes., Another witness reported a bright, elongated object that moved rapidly across the horizon at an estimated speed of 600 mph., The object was sometimes reported to be circular and silvery, indicating variation in descriptions., Investigators concluded that the sightings do not match any known aircraft, satellite, or natural celestial phenomenon., Despite thorough investigations, these cases remain classified as unidentified under Project Blue Book.",
+    "sighted object": "unidentified flying object",
+    "location": "Shiloh, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Various adults and a couple, including Mr. and Mrs. Richard T. Plummer and Mr. F. A. Hartman.",
+    "contains photographs": false
 }

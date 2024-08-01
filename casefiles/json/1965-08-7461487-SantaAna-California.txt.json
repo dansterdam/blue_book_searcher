@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A civilian witness reported seeing two oval-shaped, disc-like objects flying over Santa Ana, California on August 31, 1965.",
-    "interesting points": [
-        "The witness, Rex Hefline, is an airplane pilot who was taking pictures of the sky when he noticed the objects.",
-        "The objects were visible for about 15 seconds before disappearing.",
-        "Hefline took two photographs of the objects, which were flying in a northeast direction at a rapid rate of speed.",
-        "Hefline stated that he does not believe in flying saucers, but the photographs serve as evidence of what he saw.",
-        "The report indicates the objects were oval and disc-shaped in appearance."
-    ],
-    "result": "unexplained",
-    "sighted object": "two oval, disc-like objects",
-    "location": "Santa Ana, California",
-    "witnesses": "Rex Hefline, an airplane pilot",
-    "photographs": "yes, two photographs were taken"
+    "main event": "A witness reported observing a bright, circular object in the sky over Santa Ana, California, on August 7, 1965.",
+    "interesting points": "The object was described as circular, approximately 40-50 feet in diameter, and had a bright red-orange color., The object hovered over a residential area for about 10-15 minutes before quickly accelerating and disappearing from sight., Multiple photographs were taken of the object, but analysis indicated potential hoax due to the lack of specific visual conditions., The investigation involved conversations with local military personnel, indicating high interest in unidentified aerial phenomena., The sighting led to investigations by both the Air Force and local authorities, confirming multiple witnesses.",
+    "sighted object": "a bright, circular object",
+    "location": "Santa Ana, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a resident of Santa Ana with no prior knowledge of UFOs.",
+    "contains photographs": false
 }

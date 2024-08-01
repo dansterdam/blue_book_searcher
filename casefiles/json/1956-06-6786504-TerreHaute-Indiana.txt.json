@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A lighted, oval-shaped object, approximately 15-20 feet in diameter, was sighted at an altitude of about 1,000 feet over Terre Haute, Indiana on June 22, 1956.",
-    "interesting points": [
-        "The object was moving in a general northeast direction at 1,000-1,500 feet altitude.",
-        "The object was observed for about 3 minutes before going out of sight.",
-        "The observer believed the sighting was likely caused by a weather balloon released in Terre Haute, as the winds were blowing from the southwest direction.",
-        "Mrs. [REDACTED] stated she had taken pictures of the object, but the film was immediately taken by the operations officer and sent to Indianapolis for development, with no results reported.",
-        "The sighting occurred on a cloudy day with thunderstorms in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "a lighted, oval-shaped object approximately 15-20 feet in diameter",
-    "location": "Terre Haute, Indiana",
-    "witnesses": "Mrs. [REDACTED]",
-    "photographs": "yes, but the film was confiscated and the results were unknown"
+    "main event": "A UFO sighting occurred on 22 June 1956 in Terre Haute, Indiana, involving an object shaped like a medicine ball.",
+    "interesting points": "The object was observed at an altitude of approximately 1,000 feet and was lighted,The size of the object was estimated to be 15 to 20 feet in diameter,The sighting lasted for about three minutes,The witness believed the object could have been a weather balloon due to the overcast conditions,The winds in the area were from the southwest, coinciding with the object's movement.",
+    "sighted object": "lighted medicine-ball shaped object",
+    "location": "Terre Haute, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs [REDACTED], resident of Terre Haute, Indiana",
+    "contains photographs": false
 }

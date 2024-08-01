@@ -1,15 +1,9 @@
 {
-    "main event": "A bright white light was observed moving in the sky over Detroit, Michigan in 1967.",
-    "interesting points": [
-        "The object moved very slowly and seemed very bright.",
-        "The air was very still when the object was observed.",
-        "The object gradually turned towards the east as it moved westward, appearing to get lower in the sky.",
-        "The description is consistent with that of an aircraft approaching and departing.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "Aircraft (possible)",
+    "main event": "Observers watched a bright white light in Detroit, Michigan, on January 8, 1967, for about 10 minutes.",
+    "interesting points": "The object appeared to be getting lower in the sky as it moved eastward,The description was consistent with that of an aircraft,There were multiple witnesses reported in the area,The object was observed to turn and head overhead before disappearing,The object made no sound and had a greyish color.",
     "sighted object": "a bright white light",
-    "location": "Detroit, Michigan",
-    "witnesses": "civilian",
-    "photographs": "yes, the report includes a sketch"
+    "location": "Detroit, Michigan, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One witness was a 25-year-old male.",
+    "contains photographs": false
 }

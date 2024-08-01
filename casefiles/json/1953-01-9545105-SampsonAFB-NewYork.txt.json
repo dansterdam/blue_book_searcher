@@ -1,17 +1,9 @@
-Here is the JSON summary of the report:
-
 {
-    "main event": "An unidentified luminous object was observed by military personnel at Sampson Air Force Base, New York on January 26, 1953.",
-    "interesting points": [
-        "The object was described as being a large, luminous, rectangular-shaped unidentified flying object.",
-        "The object traveled through an arc of 70-80 degrees in one minute and emitted a humming sound.",
-        "The object was only visible for about one minute, making analysis difficult.",
-        "A commercial flight was reported to be in the area around the time of the sighting.",
-        "The conclusion was that the object was possibly an aircraft."
-    ],
-    "result": "Possibly aircraft",
-    "sighted object": "A large, luminous, rectangular-shaped unidentified flying object",
-    "location": "Sampson Air Force Base, New York",
-    "witnesses": "Military personnel",
-    "photographs": "No"
+    "main event": "A sighting of a luminous object was reported at Sampson Air Force Base, New York on January 26, 1953.",
+    "interesting points": "The object was described as large, rectangular in shape and was observed for about one minute,It emitted a humming sound while moving,The object traveled through an arc of 70 or 80 degrees,The sighting was reported by multiple military personnel at the base,The conclusion drawn from the sighting indicated it could be a probable aircraft.",
+    "sighted object": "luminous rectangular shaped unidentified flying object",
+    "location": "Sampson AFB, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel at Sampson Air Force Base",
+    "contains photographs": false
 }

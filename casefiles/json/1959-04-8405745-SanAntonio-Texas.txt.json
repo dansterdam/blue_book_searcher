@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian witness reported seeing a single, rectangular-shaped object with a long, slender tail traveling at a moderate speed and making no sound over San Antonio, Texas on April 15, 1959.",
-    "interesting points": [
-        "The object was described as being the size of an orange held at arm's length and had a bright yellow flame-like color.",
-        "The object was first observed in a north-northwest position at an elevation of 45 degrees from the horizon, then it disappeared behind trees.",
-        "The object's course was reported as northerly, curving downward, then changing to a directly downward trajectory toward the earth before curving and traveling slowly in a southerly direction.",
-        "The object was visible for approximately 15 minutes.",
-        "Weather conditions included slightly cloudy skies, good visibility, and various wind speeds and directions at different altitudes."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "One rectangular-shaped object with a long, slender tail",
-    "location": "San Antonio, Texas",
-    "witnesses": "Civilian witness",
-    "photographs": "No"
+    "main event": "A round, white unidentified object was observed moving at moderate speed with no visible means of propulsion on April 18, 1959.",
+    "interesting points": "The object made no sound during the observation., The sighting lasted for about 5 minutes., The observer described the shape of the object as round., The observer reported the object was traveling at a moderate speed., The investigation faced challenges due to a lack of additional information.",
+    "sighted object": "One round, white object",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, housewife",
+    "contains photographs": false
 }

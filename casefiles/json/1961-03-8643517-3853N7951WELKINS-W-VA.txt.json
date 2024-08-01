@@ -1,17 +1,9 @@
-Here is the JSON summary based on the given UFO report:
-
 {
-    "main event": "A dark object with an orange glow, similar in size and shape to an F-86 or P-51 aircraft, was observed for about 5 minutes before disappearing.",
-    "interesting points": [
-        "The object was described as being about half the size of the aircraft and had an orange glow.",
-        "The object disappeared while still in sight.",
-        "The report concludes that the object was probably a meteor or fireball, and there was no evidence that it was an aircraft.",
-        "The observer just happened to be looking in the right direction to see the object.",
-        "The object was estimated to be at an altitude of around 50,000 feet and moving at a speed of around 2,000 mph."
-    ],
-    "result": "Probable Meteor or Fireball",
-    "sighted object": "dark object with orange glow, similar in size and shape to an F-86 or P-51 aircraft",
-    "location": "3932W Elkine, W.VA.",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A dark object with an orange glow was observed on March 14, 1961, around 1920 near Elkine, W.VA.",
+    "interesting points": "The object was described as being about half the size of an F-86 or P-51,The sighting lasted for approximately 5 minutes,The object disappeared while still in sight,Initial evaluation indicated it was probably a meteor or fireball,The report concluded that there was insufficient data for further evaluation.",
+    "sighted object": "dark object with orange glow",
+    "location": "Elkine, West Virginia, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A farmer spotted 1 bright red object the size of a basketball in the sky near Burnettown, S.C. in 1967.",
-    "interesting points": [
-        "The object moved in an erratic course, slowing down and speeding up.",
-        "The object was described as bright red and the size of a basketball.",
-        "The object was observed for about 30 minutes.",
-        "The object was observed by ground visual from Burnettown, S.C.",
-        "The conclusion was that the object was a probable astro, possible (ARIES)."
-    ],
-    "result": "probable Astro, possible (ARIES)",
-    "sighted object": "one bright red object the size of a basketball",
-    "location": "Burnettown, S.C.",
-    "witnesses": "observer",
-    "photographs": "no"
+    "main event": "An individual reported observing a single unidentified object in Burnettown, S.C. that resembled a large star but exhibited movement and color changes over a 30-minute observation period.",
+    "interesting points": "The object was stationary but appeared to change color twice the size of a star., The object was observed for a total of 30 minutes., The report suggested the object might be a probable astronomical phenomenon., No photographs or physical evidence were found to verify the sighting., The observer described the object as significantly larger than a typical star.",
+    "sighted object": "a large, stationary object resembling a star",
+    "location": "Burnettown, South Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "One observer who noted the object's unusual characteristics during the sighting.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing several bright, glowing objects moving across the sky over Yakima, Washington on August 21, 1968.",
-    "interesting points": [
-        "The objects varied in their speed and maneuverability, sometimes moving slowly and other times speeding up and making sharp turns.",
-        "The objects were estimated to be around 20-40 feet in diameter.",
-        "The sighting lasted for approximately 45 minutes.",
-        "The witness described the objects as having a bright, gold color and making no sound.",
-        "Similar sightings had been reported in the area on a previous occasion in April 1968."
-    ],
-    "result": "unexplained",
-    "sighted object": "several bright, glowing objects in the sky",
-    "location": "Yakima, Washington",
-    "witnesses": "civilian(s)",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A UFO sighting reported in Yakima, Washington, on 21 August 1968, described a bright gold object observed in the sky.",
+    "interesting points": "The sighting lasted approximately 45 minutes,The observers included a housewife and two boys aged 9 and 11,The object was described as larger than an average star and silent,It appeared to move in a straight line with some brief maneuvering, and it faded away slowly at the end of the observation.",
+    "sighted object": "bright gold object in the sky",
+    "location": "Yakima, Washington, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a housewife and two boys aged 9 and 11",
+    "contains photographs": false
 }

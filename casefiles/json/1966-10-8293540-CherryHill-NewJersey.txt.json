@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Mr. and Mrs. reported seeing a dirigible-type aircraft hovering and illuminating their surroundings in Cherry Hill, New Jersey on October 30, 1966.",
+    "interesting points": "Witnesses described the object as having distinctive amber-colored vertical windows,The craft hovered silently above them at around 10-12 feet,Witnesses reported rapid movements and abrupt changes in direction,There were multiple other sightings of similar objects reported in the area around the same time,The object was seen to attach itself to the RCA building, causing all lights to illuminate.",
+    "sighted object": "a dirigible-shaped aircraft with amber windows",
+    "location": "Cherry Hill, New Jersey, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. [REDACTED], residents of Maple Shade, New Jersey",
+    "contains photographs": false
 }

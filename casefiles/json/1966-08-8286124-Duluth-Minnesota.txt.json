@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian witness reported seeing one unidentified object with flashing red and green lights in the sky over Duluth, Minnesota on August 23, 1966.",
-    "interesting points": [
-        "The witness observed the object for a varied length of time.",
-        "The object exhibited varied flight characteristics, but specific details were not provided.",
-        "No photographs or physical evidence was available for this sighting.",
-        "Weather conditions and aircraft activity in the area at the time were documented.",
-        "The Air Force concluded there was insufficient data to evaluate this sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified object with flashing red and green lights",
-    "location": "Duluth, Minnesota",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported seeing one unidentified object in Duluth, Minnesota on 23 August 1966.",
+    "interesting points": "The object was observed visually but no photographs or physical evidence were provided., The witness's observation has been classified as insufficient data for evaluation., Lt. Stoecker noted limited information on sightings in the Duluth area from the local air force base., The document referenced previous communications about UFO sightings in the region., The object was reported to have been high and stationary before it disappeared by flying straight up.",
+    "sighted object": "one unidentified flying object",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the case file:
-
 {
-    "main event": "A bright light in the sky was observed near Rivesville, West Virginia on February 9, 1964.",
-    "interesting points": [
-        "The object appeared suddenly, seemingly popping into view, and was much brighter than any star or planet.",
-        "The object was an intense white light, round or oval in shape, and remained stationary in the sky for several minutes before moving slowly and erratically.",
-        "The brightness of the object seemed to fluctuate, and it disappeared rapidly after a few minutes.",
-        "The witness, a reliable person, reported no sound associated with the object.",
-        "There were no clouds in the sky at the time, and no other witnesses have been located."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light in the sky",
-    "location": "Rivesville, West Virginia",
-    "witnesses": "a single reliable witness",
-    "photographs": "no photographs present"
+    "main event": "A UFO sighting reported in Rivesville, West Virginia on February 9, 1964, involving one object observed for 3 minutes with erratic movement.",
+    "interesting points": "The object was observed using ground radar but lacked sufficient detail for a comprehensive evaluation., Much conflicting information was reported regarding the sightings., The sighting was part of Project Blue Book, which investigated UFO reports., Witnesses described the object as circular and emitting a bright light., The Air Force evaluated the sighting but found no unusual meteorological phenomena to explain the sightings.",
+    "sighted object": "one circular object with bright light",
+    "location": "Rivesville, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported the object as circular and bright, with erratic movement.",
+    "contains photographs": false
 }

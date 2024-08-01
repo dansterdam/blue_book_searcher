@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian pilot spotted an unidentified flying object near Champagne, Yukon, Canada on May 29, 1960.",
-    "interesting points": [
-        "The object was estimated to be about 50 feet in diameter and was observed to be tumbling at an altitude of 10,000 to 15,000 feet.",
-        "The object had two flat spots on the bottom.",
-        "The sighting lasted for 2 or 3 minutes.",
-        "Additional information and photographs were requested by the Air Technical Intelligence Center, but the current whereabouts of the observers were unknown.",
-        "Due to the limited information provided, the case could no longer be located."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, tumbling object with two flat spots on the bottom",
-    "location": "Vicinity of Champagne, Yukon, Canada",
-    "witnesses": "civilian pilots",
-    "photographs": "no"
+    "main event": "A sighting of an unidentified flying object near Champagne, Yukon, Canada on May 29, 1960.",
+    "interesting points": "The object was approximately 50 ft. in diameter with two flat spots on the bottom.,The object was estimated to be at an altitude of 10,000 to 15,000 ft. high.,The object exhibited tumbling behavior as it was observed.,The observation lasted for about 2 to 3 minutes.,The report indicates a lack of additional information and photographs.",
+    "sighted object": "one unidentified flying object",
+    "location": "Champagne, Yukon, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian pilot",
+    "contains photographs": false
 }

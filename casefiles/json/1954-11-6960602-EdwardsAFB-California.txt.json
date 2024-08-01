@@ -1,15 +1,9 @@
 {
-  "main event": "A number of unidentified objects were observed near Edwards AFB in California on November 5, 1954.",
-  "interesting points": [
-    "The objects were described as blinking and brighter than stars.",
-    "The objects moved in an irregular course.",
-    "The sighting lasted for 17 minutes.",
-    "The investigation concluded that the objects were likely aircraft, but there was insufficient data to make a definitive evaluation.",
-    "The report indicates that the objects were initially thought to be spacecraft, but were later determined to be something else, possibly aircraft."
-  ],
-  "result": "insufficient data for evaluation",
-  "sighted object": "10 unidentified objects",
-  "location": "Edwards AFB, California",
-  "witnesses": "military personnel",
-  "photographs": "no"
+    "main event": "Ten unidentified objects were observed in the sky over Edwards AFB for 17 minutes.",
+    "interesting points": "The objects blinked intermittently and were brighter than stars,The observation was conducted on November 5, 1954,Investigations suggested the objects could be balloons or aircraft,The course of the objects was described as irregular,There was insufficient data for firm conclusions made about the observed objects.",
+    "sighted object": "ten unidentified objects",
+    "location": "Edwards AFB, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unidentified observers",
+    "contains photographs": false
 }

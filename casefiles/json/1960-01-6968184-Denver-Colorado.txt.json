@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A distinct, light-colored object with a tail was observed moving rapidly in a zigzag course and disappearing rapidly.",
-    "interesting points": [
-        "The object was slightly larger than a star or satellite.",
-        "The object's movement and general appearance indicated it was not a star, planet, meteor, or satellite.",
-        "The object appeared to be 'something unquestionable falling in flames'.",
-        "The object was reported to have appeared through the windshield of an automobile.",
-        "The analysis concluded the sighting was likely of a bright meteor, supported by the description, lack of radar detection, and speed being too great for an astronomical object."
-    ],
-    "result": "likely a meteor",
-    "sighted object": "an elongated, light-colored object with a tail",
-    "location": "Denver, Colorado",
-    "witnesses": "a witness in an automobile",
-    "photographs": "none"
+    "main event": "An unusual flying object was reported moving rapidly in a zigzag course and disappearing quickly.",
+    "interesting points": "The object was described as distinct, light in color, and slightly larger than a star or satellite., The sighting lasted for about 2-3 minutes., Observers noted that it was not a meteor, star, or satellite., The object appeared to be falling in flames and was viewed through the windshield of a car., The analysis characterized the sighting as a bright meteor based on speed and movement.",
+    "sighted object": "elongated object with a tail",
+    "location": "Denver, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Design engineer, reported seeing the object moving westward at a 75-degree angle.",
+    "contains photographs": false
 }

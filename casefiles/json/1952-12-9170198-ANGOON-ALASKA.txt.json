@@ -1,15 +1,9 @@
 {
-    "main event": "An Air National Guard pilot sighted an object consisting of two shiny globes connected by a solid rod proceeding in a southerly direction.",
-    "interesting points": [
-        "The pilot attempted to overtake the object but was unable to distinguish any lights, vapor trails or exhaust smoke.",
-        "The pilot estimated the size of the object to be comparable to a Grumman Goose aircraft.",
-        "The description of the object is similar to reports of known upper air search balloons.",
-        "The fact that the object appeared to climb lends credence to the explanation of an upper air search balloon.",
-        "There is insufficient data to conclusively evaluate the sighting."
-    ],
-    "result": "insufficient data to evaluate",
+    "main event": "An Air National Guard pilot sighted two shiny globes connected by a solid rod in Angoon, Alaska, on December 6, 1950.",
+    "interesting points": "The pilot observed the objects moving in a southerly direction at high speed of approximately 3000 mph,The objects were circular in shape with an estimated diameter of 150 feet,The pilot was unable to distinguish any lights, vapor trails, or exhaust smoke from the objects,The sighting lasted approximately 1.5 minutes,The report suggests similarities to known upper air search balloons but lacks sufficient data for a definitive conclusion.",
     "sighted object": "two shiny globes connected by a solid rod",
-    "location": "Angoon, Alaska",
-    "witnesses": "Air National Guard pilot",
-    "photographs": "no"
+    "location": "Angoon, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Air National Guard pilot",
+    "contains photographs": false
 }

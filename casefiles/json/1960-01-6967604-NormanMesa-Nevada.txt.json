@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted over Norman Mesa, Nevada on January 4, 1960 at 0312 hours.",
-    "interesting points": [
-        "The object was described as having a blue and bright yellow flame, and appeared like a 'missile' at first.",
-        "The object was first seen at an altitude of 20,000 to 22,000 feet and disappeared at the same altitude.",
-        "The object was moving in a southwest direction at a very high speed.",
-        "The sighting was made by the crews of two commercial airline flights - United Airlines Flight 140 to Denver and Trans World Airlines Flight 207 to Las Vegas.",
-        "The analysis concluded that the object was most likely a meteor."
-    ],
-    "result": "Identified as a meteor",
-    "sighted object": "A blue and bright yellow flaming object, described as appearing like a 'missile'",
-    "location": "Over Norman Mesa, Nevada",
-    "witnesses": "Crews of United Airlines Flight 140 and Trans World Airlines Flight 207",
-    "photographs": "No photographs present in the document"
+    "main event": "A UFO was observed over Norman Mesa, Nevada on 2 January 1960, described as having a blue and bright yellow flame and appeared like a missile.",
+    "interesting points": "The sighting involved one object moving at a high altitude of 20,000 to 25,000 feet., The observation lasted for a maximum of 5 seconds., The object moved steadily in a southwest direction at a rapid speed., Two civilian airlines reported spotting the object, but radar was unable to pick it up., The source reliability of the report is considered probably very good.",
+    "sighted object": "an unidentified flying object with blue and bright yellow flame",
+    "location": "Norman Mesa, Nevada, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "pilot crew and passengers aboard United Airlines Flight 140",
+    "contains photographs": false
 }

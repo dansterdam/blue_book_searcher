@@ -1,15 +1,9 @@
 {
-    "main event": "A bright object was observed in the sky over Terre Haute, Indiana on August 18, 1959, traveling at an estimated speed of 120,000 miles per hour at an altitude of 120,000 feet.",
-    "interesting points": [
-        "The object was observed to be extremely bright and travel at a very rapid angular velocity, disappearing near the horizon.",
-        "A noise resembling 'frying' was heard during the observation of the object.",
-        "The observation occurred during the firing of a missile, which may have been detected by the witness.",
-        "The Aerospace Technical Intelligence Center concluded the object was likely a bolide or bright meteor, despite the witness's initial report.",
-        "The duration of the sighting was estimated to be around 5-6 minutes, longer than a typical meteor event."
-    ],
-    "result": "Likely a bolide or bright meteor, though the exact nature of the object remains unknown.",
-    "sighted object": "A bright, fast-moving object in the sky",
-    "location": "Terre Haute, Indiana",
-    "witnesses": "At least one civilian witness",
-    "photographs": "No photographs present in the report"
+    "main event": "An unidentified flying object was observed in Terre Haute, Indiana on August 18, 1959.",
+    "interesting points": "The object was observed at a calculated height of 120,000 feet,The object's angular path was approximately 30 degrees and it had a rapid angular velocity,The object was extremely bright but no trail or impact noise was recorded,Observations coincided with the firing of a missile,Investigations suggest the object may have been a bolide or a meteor.",
+    "sighted object": "a bright unidentified flying object",
+    "location": "Terre Haute, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object's shape as shell-like and reported a sound resembling frying.",
+    "contains photographs": false
 }

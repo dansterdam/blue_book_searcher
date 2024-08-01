@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A yellow-green flash was sighted, followed by a yellow-green smoke trail that remained for approximately six seconds.",
-    "interesting points": [
-        "The object appeared at approximately 320 degrees relative and 45 degrees to the horizon.",
-        "The object moved vertically downward.",
-        "The object was estimated to be one-third the size of a meteor.",
-        "The evaluation of the object was listed as 'unknown, possible meteor'.",
-        "The report was a CIVIS report, indicating it was a civilian sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "yellow-green flash and smoke trail",
-    "location": "08-20N 179-20W",
-    "witnesses": "civilians",
-    "photographs": "no"
+    "main event": "A yellow-green flash followed by a yellow-green smoke trail was reported, suspected to be a meteor sighting.",
+    "interesting points": "The object appeared vertically downward, The sighting lasted for approximately six seconds, The object was estimated to be one third the size of a meteor, The coordinates of the sighting are 08-20N 179-20W, The evaluation concluded it was possibly a meteor.",
+    "sighted object": "yellow-green flash with smoke trail",
+    "location": "Unknown, Unknown, Unknown",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilians reported the sighting",
+    "contains photographs": false
 }

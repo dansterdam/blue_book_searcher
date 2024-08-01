@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An object with flashing lights was observed for over an hour by multiple witnesses near Baker, Oregon.",
-    "interesting points": [
-        "The object appeared to be round or elliptical in shape and very bright, almost blinding.",
-        "It had flashing red, green, and white lights that seemed to rotate.",
-        "The object was observed to be at a distance and change direction rapidly.",
-        "Multiple witnesses, including air force personnel, reported the sighting.",
-        "The object made no sound and left no trail or exhaust."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright, rotating object with flashing lights",
-    "location": "Near Baker, Oregon",
-    "witnesses": "Multiple, including air force personnel",
-    "photographs": "none"
+    "main event": "On June 4, 1966, observers reported seeing a star-like object in the northern sky over Baker, Oregon. The object appeared to hover for approximately 30 minutes and had flashing lights, potentially making it look like an exceptionally bright star.",
+    "interesting points": "The sighting lasted for 30 minutes, Observers noted that the object appeared to hover, Flashing lights were observed from time to time, The object was thought to be an exceptionally bright star due to the hazy conditions, The observers included military personnel and civilians.",
+    "sighted object": "one star-like object with flashing lights",
+    "location": "Baker, Oregon, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "military personnel and civilians who reported seeing the object",
+    "contains photographs": false
 }

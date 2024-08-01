@@ -1,15 +1,9 @@
 {
-    "main event": "A observer sighted and photographed three dull white objects in the sky on June 19, 1967 in Colorado.",
-    "interesting points": [
-        "The objects were described as dull white in color and were photographed by the observer.",
-        "The observer was on the ground at the time of the sighting.",
-        "The sighting lasted for 2 minutes.",
-        "Project Blue Book concluded the sighting was a probable reflection.",
-        "The photographs were analyzed and determined to be photographic phenomena reflecting objects outside the camera, rather than unidentified flying objects."
-    ],
-    "result": "Probable reflection",
-    "sighted object": "three dull white objects",
-    "location": "Colorado",
-    "witnesses": "1 civilian observer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Observer sighted and photographed three dull white objects while on the ground.",
+    "interesting points": "The sighting lasted for 2 minutes,The observer was a civilian who was 13 years old,There were 2 more witnesses who reported seeing the same objects around the same time,The nature of the sighting was classified as probable reflection,The objects were dull white and captured in a photograph.",
+    "sighted object": "three dull white objects in the sky",
+    "location": "Colorado, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a 13-year-old civilian and two other witnesses",
+    "contains photographs": true
 }

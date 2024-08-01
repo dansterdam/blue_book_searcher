@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "Observations of a satellite, presumed to be Echo I, over a period of several days.",
-    "interesting points": [
-        "The satellite had a magnitude of 3 to 4 and was circular in shape.",
-        "The satellite had the movement of vessel M3 Ascanius.",
-        "The satellite was observed passing overhead at high speed, around 3,500 mph, at an altitude of approximately 40,000 feet.",
-        "The satellite was observed by many witnesses on board the vessel MS Ascanius.",
-        "The observations conform with the passage of Satellite Echo I."
-    ],
-    "result": "Satellite Echo I",
-    "sighted object": "Satellite, presumed to be Echo I",
-    "location": "Shimya (possibly San Pedro)",
-    "witnesses": "Crew of the vessel MS Ascanius",
-    "photographs": "None"
+    "main event": "Multiple observations of a satellite, identified as Satellite ECHO I, during various dates in June 1963.",
+    "interesting points": "There were seven observations of the satellite assumed to be the same object,The object had a magnitude of 3 to 4 and was circular in shape,The satellite moved similarly to the vessel M3 Ascanius,The sighting was reported at various times, no photographs were included in the report,The observations took place during a passage from Shimya to San Pedro.",
+    "sighted object": "Satellite",
+    "location": "Shimya, undefined, Japan",
+    "number of confirmed witnesses": 0,
+    "witness description": "Many witnesses on board the MS Ascanius.",
+    "contains photographs": false
 }

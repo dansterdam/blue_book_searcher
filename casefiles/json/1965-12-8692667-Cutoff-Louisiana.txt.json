@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A silver-colored object with blinking or flashing lights was observed in the sky over Cutoff, Louisiana.",
-    "interesting points": [
-        "The object appeared to be reflecting off the bottom of clouds or an object.",
-        "The observer got into a plane and chased the object for 50 miles, but the object slowed down and got away.",
-        "The object was observed for a total of 2.5 minutes, rising to an estimated altitude of 1600 feet.",
-        "The object was not the moon and did not move during the initial 2-minute observation period.",
-        "The observer was an ex-Marine pilot with very good reliability."
-    ],
-    "result": "Possible BALLOON",
-    "sighted object": "silver-colored object with blinking or flashing lights",
-    "location": "Cutoff, Louisiana",
-    "witnesses": "civilian observer, ex-Marine pilot",
-    "photographs": "Yes"
+    "main event": "A pilot observed a silver-colored object with blinking lights over Cutoff, Louisiana, on December 6, 1955.",
+    "interesting points": "The object was reported to be not moving for two minutes while directly overhead., The pilot estimated the object rose about 1600 feet and was not the moon., The pilot chased the object for fifty miles but ultimately lost sight of it., The conclusion was that it may have been a balloon., The sighting lasted a total of approximately 15 minutes, including the chase.",
+    "sighted object": "silver-colored object with blinking lights",
+    "location": "Cutoff, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a pilot and an ex-Marine with a good reliability rating.",
+    "contains photographs": false
 }

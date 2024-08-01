@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "Three circular silvery objects were observed moving from side to side in Bedford, Indiana on January 8, 1956.",
-    "interesting points": [
-        "The objects were close together and the observation lasted for 2 hours and 34 minutes.",
-        "No positional information was obtained, but the sighting was mentioned in an information report.",
-        "Fighter pilots in the area were contacted to investigate, but they did not make visual contact with the objects and instead saw a Piper Cub type aircraft that was assumed to be a Civil Air Patrol plane.",
-        "The assistant chief director's analysis was that the fighter jets in the area could have been mistaken for the unidentified flying objects.",
-        "The objects were described as having a 'vaporish smoke' appearance and their shape appeared to be changing."
-    ],
-    "result": "insufficient data",
+    "main event": "Three circular silvery objects were observed moving side to side over Bedford, Indiana on 8 January 1956.",
+    "interesting points": "The length of the observation was 2 hours and 34 minutes., The objects were described as circular and silvery., No positional information was obtained during the sighting., Fighter pilots in the area did not visually confirm the UFO but saw a Piper Cub aircraft., The report indicates that the sighting was part of an information report but lacks a conclusion or case status.",
     "sighted object": "three circular silvery objects",
-    "location": "Bedford, Indiana",
-    "witnesses": "multiple witnesses, including Mrs. X and Mrs. Y",
-    "photographs": "none"
+    "location": "Bedford, Indiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witness information provided",
+    "contains photographs": false
 }

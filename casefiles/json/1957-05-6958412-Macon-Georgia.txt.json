@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A family in Macon, Georgia observed a number of unidentified aerial objects moving in a strange and unorderly fashion on May 7-8, 1957.",
-    "interesting points": [
-        "The family secured a motion picture film and still photographs of the objects, which were submitted to the Air Force for examination.",
-        "The motion picture film was in color and the objects appeared similar in shape and movements to those of the 'Tremonton Incident'.",
-        "Micro-photographs of the best frames revealed the objects to be aircraft and a 'spent' flare or similar object.",
-        "The sightings were determined to be related to large-scale military exercises and operations taking place in a nearby U.S. Army Proving Ground area.",
-        "The report includes a table of additional UFO sightings from June 1957, most of which were determined to be insufficient data or identified as balloons."
-    ],
-    "result": "Identified as military activity and conventional objects",
-    "sighted object": "Unidentified aerial objects",
-    "location": "Macon, Georgia",
-    "witnesses": "A family",
-    "photographs": "Yes, the family secured motion picture film and still photographs, but they are not included in this report."
+    "main event": "A family observed three unidentified aerial objects moving in a strange and unorderly fashion in Macon, Georgia on May 7-8, 1957.",
+    "interesting points": "The family secured an 8mm color motion picture film of the objects,The film and prints were submitted to the Air Force for examination,Enlargements from the black and white prints showed emulsion flaws and small white, oddly-shaped airborne objects,The objects' movements were similar to those in the Tremonton Incident,Large scale military operations were taking place in the area during the sightings.",
+    "sighted object": "three unidentified aerial objects",
+    "location": "Macon, Georgia, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "a family observing the objects from their location",
+    "contains photographs": false
 }

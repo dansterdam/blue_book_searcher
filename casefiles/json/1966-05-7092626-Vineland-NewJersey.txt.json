@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, shining white object with a distinct conical to round shape was observed for 11 minutes in Vineland, New Jersey on May 26, 1966.",
-    "interesting points": [
-        "The object was moving at a speed of 10-15 seconds and several other objects were also sighted moving at a slow speed towards the north, with no interruption of power lines.",
-        "The witness described the object as being about 2 feet across and very bright.",
-        "The object gradually faded out slowly in a horizontal direction in the air.",
-        "The witness had previously observed a similar object on May 27th through binoculars, about 77 feet in the air near Vineland, New Jersey around 4:30 PM.",
-        "Multiple witnesses, including the 16-year-old male witness, reported the sighting to the authorities."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, shining white object with a distinct conical to round shape",
-    "location": "Vineland, New Jersey",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no"
+    "main event": "An unidentified bright shining white object was observed in Vineland, New Jersey on 26 May 1966.",
+    "interesting points": "The object had a distinct conical to round shape,It was visible for a total duration of 11 minutes,Several witnesses reported seeing slow-moving objects alongside the bright object,The object made no sound and appeared to be very bright white,The object gradually faded out slowly in a horizontal direction.",
+    "sighted object": "a bright shining white object",
+    "location": "Vineland, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 16-year-old male who reported seeing the object and completed a questionnaire for the Air Force.",
+    "contains photographs": false
 }

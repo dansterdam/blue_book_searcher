@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several bright lights in the sky were reported as unidentified flying objects in Dalton, Massachusetts in 1967.",
-    "interesting points": [
-        "The sightings were brief and the witness was unable to obtain a photograph.",
-        "The Air Force stated that they do not test new weapon systems over populated areas.",
-        "The report mentions that there is scientific data that extraterrestrial life exists, but no evidence that it has visited Earth.",
-        "Some sightings have been explained as natural phenomena, but others appear to be structured objects maneuvering in a purposeful way.",
-        "Witnesses from multiple locations have confirmed the presence of unidentified objects, lending credibility to the reports."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright lights in the sky",
-    "location": "Dalton, Massachusetts",
-    "witnesses": "multiple, including a military pilot",
-    "photographs": "none stated"
+    "main event": "Two high school students reported seeing a large, luminous egg-shaped object hovering over a field near Dalton, Massachusetts, on November 8, 1966.",
+    "interesting points": "The object was about 60 feet in diameter and surrounded by a glowing aura,The students observed the object hovering silently for several minutes before it shot straight up and disappeared,The sighting lasted for about 10 minutes before the students reported it to their parents,The initial investigation leaned towards a hoax, but further analysis raised doubts about this conclusion,The case has drawn attention due to similar reports in the area and the actions of the object being deemed deliberate.",
+    "sighted object": "large luminous egg-shaped object",
+    "location": "Dalton, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two high school students, a boy and a girl",
+    "contains photographs": false
 }

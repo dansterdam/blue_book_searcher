@@ -1,15 +1,9 @@
 {
-    "main event": "A naval officer aboard the USS Noble spotted a bright object, similar to a second magnitude star, moving in a southeasterly direction in the Pacific Ocean on October 30, 1961.",
-    "interesting points": [
-        "The object was visible for 11 minutes, disappearing on the horizon at an elevation of 132 degrees.",
-        "The object made a slight change of course to the right during the sighting.",
-        "Neither air nor surface radar could detect the object.",
-        "The elevation of the object was verified using a sextant.",
-        "The sighting conformed to the pattern of a satellite, but there was no indication that it was a satellite."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright object, similar to a second magnitude star",
-    "location": "Pacific Ocean, 18°00'N 158°35'E",
-    "witnesses": "naval officer aboard the USS Noble",
-    "photographs": "no"
+    "main event": "An object resembling a second magnitude star was observed moving in a southeastern direction over the Pacific Ocean for 11 minutes.",
+    "interesting points": "The object was first sighted by a duty lookout and confirmed by another observer., The object had a brightness similar to a star and was observed at an elevation of 66 degrees., It disappeared at a bearing of 132 degrees on the horizon., Air and surface radar were unable to detect the object., The observation conforms to the pattern of satellite activity.",
+    "sighted object": "an object resembling a second magnitude star",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 2,
+    "witness description": "duty lookout and another observer",
+    "contains photographs": false
 }

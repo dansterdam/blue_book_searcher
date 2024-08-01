@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Several unidentified flying objects were reported by four persons near Amarillo, Texas over the course of 1 hour and 10 minutes just before sunrise on March 6, 1968.",
-    "interesting points": [
-        "The sightings were not reported to local news media.",
-        "One observer, a service station attendant, saw a stationary object the size of a plate that then accelerated to a tremendous speed and disappeared.",
-        "Another observer, an USAF nurse, saw a circular object about 50-60 feet in diameter with a red flashing light and white lights around the edge, which hovered over the highway and then shot straight up into the sky.",
-        "An air policeman at the South Gate of Amarillo AFB saw a yellow light or object with a red flashing light on top drop from a dark cloud, make a right angle turn, travel horizontally, and then go straight back up into the clouds.",
-        "The sightings occurred along a line parallel to lights from the city of Amarillo, Texaco Refinery, and Amarillo AFB, and the Air Force concluded the sightings were likely caused by mirages created by a temperature inversion."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular objects, glowing lights, and unidentified flying objects",
-    "location": "Amarillo, Texas",
-    "witnesses": "civilian and military personnel",
-    "photographs": "no"
+    "main event": "On March 6, 1968, multiple witnesses reported observing unidentified flying objects near Amarillo, Texas.",
+    "interesting points": "Reports were received from both civilians and military personnel., Observations included an unusual object that appeared to move at extreme speeds., One witness described the object as glowing and changing brightness., A weather inversion may have contributed to the visibility of the objects., No photographs or physical evidence were found to support the sightings.",
+    "sighted object": "unidentified flying objects",
+    "location": "Amarillo, Texas, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Witnesses included a truck stop manager, a nurse, an airman, and a service station attendant.",
+    "contains photographs": false
 }

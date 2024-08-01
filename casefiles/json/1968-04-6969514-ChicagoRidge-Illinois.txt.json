@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A blue object with red lights on the sides and bottom was sighted over Chicago Ridge, Illinois on April 10, 1968.",
-    "interesting points": [
-        "The object was described as being blue with red lights on each side and down.",
-        "The observer sighted the object for an unknown duration of time.",
-        "Additional information on the sighting was requested from the observer, but no further details were provided.",
-        "The Air Force's Project Blue Book investigated the sighting, but was unable to evaluate it due to lack of information.",
-        "A separate report from March 17, 1969 describes a large glowing object that hovered and performed erratic maneuvers over Chicago Ridge, Illinois."
-    ],
-    "result": "unexplained",
-    "sighted object": "blue object with red lights",
-    "location": "Chicago Ridge, Illinois",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed over Chicago Ridge, Illinois, on April 10, 1968.",
+    "interesting points": "The object was described as being blue with red lights on each side and down,No further information was received from the observer following the initial sighting request,The observation was part of Project Blue Book, a U.S. Air Force program to investigate UFOs,The object exhibited rapid and erratic maneuvers during the sighting,The distance from the observer was estimated at 2000 feet.",
+    "sighted object": "large glowing object with blue and red lights",
+    "location": "Chicago Ridge, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "George Purtee, resident at 7315 South 79th Ave, Chicago Ridge",
+    "contains photographs": false
 }

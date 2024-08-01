@@ -1,17 +1,9 @@
-```json
 {
-    "main event": "An unidentified object was sighted near Laredo, Texas on May 21, 1952.",
-    "interesting points": [
-        "The object was described as saucer-shaped and reddish in color.",
-        "The object was traveling at an extremely high rate of speed in both vertical and horizontal directions.",
-        "The report states that the investigation was not sufficient to make an evaluation.",
-        "The report mentions five red lights, with a frequency of 50-50 CPS, that were sighted from 1155 to 1159 CDR.",
-        "The instructor pilot was unable to provide an estimate of the reliability of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "saucer-shaped object, reddish in color",
-    "location": "Near Laredo, Texas",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "main event": "An unidentified object, described as saucer-shaped, was sighted near Laredo, Texas, on May 21, 1952.",
+    "interesting points": "The object was reported to be reddish in color,The object was observed traveling at extremely high speeds both vertically and horizontally,The military was involved in the observation and investigation of the sighting,The length of the observation is unknown,The investigation report concluded that there was not sufficient information to evaluate the sighting.",
+    "sighted object": "one unidentified saucer-shaped object",
+    "location": "Laredo, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "military personnel involved in the observation",
+    "contains photographs": false
 }
-```

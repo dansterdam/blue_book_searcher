@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-  "main event": "A witness reported seeing a spinning, saucer-shaped object with visible lights hovering over the Weldon Springs plant in Missouri in 1959.",
-  "interesting points": [
-    "The object was spinning clockwise but appeared to be hovering in place.",
-    "Lights were visible through port holes on the object.",
-    "The witness observed the object from the highway.",
-    "The Air Force investigated the sighting but did not provide a response to the witness.",
-    "The report includes a hand-drawn sketch of the observed object."
-  ],
-  "result": "unexplained",
-  "sighted object": "a spinning, saucer-shaped object with visible lights",
-  "location": "Weldon Springs, Missouri",
-  "witnesses": "multiple witnesses on the highway",
-  "photographs": "no, the report does not include any photographs"
+    "main event": "A UFO was observed over Weldon Springs, Missouri, on September 9, 1959.",
+    "interesting points": "The object was described as round, lighted, and moving at high speed before vanishing suddenly., The sighting lasted approximately 20 minutes., A witness reported the object giving off a very bright light that cast shadows as it passed overhead., The object's estimated size was between 40 to 80 feet in length., No photographs or physical evidence could be found related to the sighting.",
+    "sighted object": "round, lighted object",
+    "location": "Weldon Springs, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 54-year-old male described seeing the object which remained stationary for minutes before accelerating silently.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "A police officer spotted a bright, circular object hovering in the sky that emitted a brilliant light and then accelerated rapidly and disappeared.",
-    "interesting points": [
-        "The object was described as 30-40 feet in diameter and hovering for several minutes before rapidly accelerating and disappearing.",
-        "The witness stated she had never seen anything like it before and was quite shaken by the experience.",
-        "The report indicates the sighting was investigated but no further details on the findings or conclusions are provided.",
-        "The report suggests it was an unusual and unexplained aerial phenomenon.",
-        "An artifact numbered 341-11-475 was located in the artifact room, possibly related to the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, circular object emitting a brilliant light",
-    "location": "Dayton, Ohio",
-    "witnesses": "a police officer",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A police detective noticed a bright, circular object hovering in the sky on the morning of 27 July 1959.",
+    "interesting points": "The object was described as being 30 to 40 feet in diameter.,The object emitted a brilliant light.,It hovered for several minutes before accelerating rapidly and disappearing.,The witness reported being shaken by the experience.,The incident was investigated but no further findings were provided.",
+    "sighted object": "a bright circular object emitting light in the sky",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "police detective",
+    "contains photographs": false
 }

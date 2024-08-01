@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of an unusual phenomenon in Panama on 3 November 1948 was reported to Headquarters Caribbean Air Command.",
-    "interesting points": [
-        "The sighting was initially thought to be the comet 1948l, which had been discovered two days earlier in Australia.",
-        "The object appeared as light-colored and long in shape, larger than a train, and remained visible for approximately 40 minutes.",
-        "The sighting took place at sunrise, and the object's brilliance was dimmed by the full sunrise of sunlight.",
-        "The report also includes evaluations from Project Grudge, classifying incidents as astronomical, non-astronomical with other explanations, and non-astronomical with no evident explanation.",
-        "Photographs were included in the overall document, depicting long streaks of light and panoramic views."
-    ],
-    "result": "unexplained",
-    "sighted object": "light-colored, long-shaped object larger than a train",
-    "location": "Panama",
-    "witnesses": "weather observer in Panama",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An unidentified celestial object was observed in Panama, resembling a comet, on November 5, 1948.",
+    "interesting points": "The object was reported to be larger than Venus and emitted a long cone of light,The sighting lasted for approximately 40 minutes until sunrise obscured it,It may have been identified as Comet 1948l, which was discovered shortly before,The object appeared in the southeastern quadrant of the observer's view,The document also includes multiple pages summarizing communications regarding unidentified flying objects.",
+    "sighted object": "spherical object with a tail resembling a comet",
+    "location": "Panama City, Panama",
+    "number of confirmed witnesses": 1,
+    "witness description": "An operator making a weather report",
+    "contains photographs": false
 }

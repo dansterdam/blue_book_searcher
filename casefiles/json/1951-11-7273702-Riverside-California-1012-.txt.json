@@ -1,15 +1,9 @@
 {
-    "main event": "A resident of Riverside, California observed an unidentified flying object in the sky near their location on November 7, 1951.",
-    "interesting points": [
-        "The object appeared to be a dark, disc-shaped craft hovering in the air.",
-        "Four photographs were taken of the object before it disappeared from view.",
-        "The object was estimated to be approximately 25 to 50 feet in diameter.",
-        "The object was visible for approximately 30 seconds before it disappeared from view.",
-        "The weather conditions were clear with no clouds."
-    ],
-    "result": "unexplained",
-    "sighted object": "a dark, disc-shaped object in the sky",
-    "location": "Riverside, California",
-    "witnesses": "a resident of Riverside, California",
-    "photographs": "yes, 4 photographs were taken"
+    "main event": "A resident of Riverside, California observed an unidentified flying object, a dark, disc-shaped craft, on November 7, 1951.",
+    "interesting points": "The sighting occurred at approximately 1:15 p.m, The object was described as dark and flattened, with an estimated diameter of 25 to 50 feet, The estimated altitude of the object was between 10,000 to 15,000 feet, The observer was a resident of San Bernardino, California, The object was visible for approximately 30 seconds before disappearing.",
+    "sighted object": "a dark, flattened, disc-like object",
+    "location": "Riverside, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "resident of San Bernardino, California",
+    "contains photographs": true
 }

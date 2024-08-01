@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Report of a satellite-like object observation",
-    "interesting points": [
-        "The object was initially observed at an elevation of 45 degrees and an azimuth of 252 degrees.",
-        "The object faded from view at an elevation of 50 degrees and an azimuth of 010 degrees, after a flight of approximately 5 minutes.",
-        "The report was initially classified as a satellite observation.",
-        "The report was distributed to multiple military and intelligence agencies, including the Air Force, Army, Navy, and National Security Agency.",
-        "The report appears to be part of a larger project or program called 'Project 10073'."
-    ],
-    "result": "unexplained",
+    "main event": "A report of a satellite-like object was observed on 17 May 1964.",
+    "interesting points": "The observation lasted approximately 5 minutes., The object was at 45 degrees elevation and 252 degrees azimuth initially., The object faded from view at 50 degrees elevation and 010 degrees azimuth., The report was part of Project Blue Book documentation., It was analyzed by multiple military branches including the Air Force and Navy.",
     "sighted object": "satellite-like object",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Unknown",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses detailed in the report",
+    "contains photographs": false
 }

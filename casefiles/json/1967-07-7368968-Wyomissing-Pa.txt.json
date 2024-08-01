@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Wyomissing, Pennsylvania observed a satellite (Echo I) in the sky on July 3, 1967.",
-    "interesting points": [
-        "The sighting lasted for 5 minutes and 52 seconds.",
-        "The object was observed from the ground.",
-        "The object's course was N-NE.",
-        "No photographs were taken of the object.",
-        "The conclusion was that the object was likely the satellite Echo I."
-    ],
-    "result": "Identified as Satellite (Echo I)",
-    "sighted object": "One object, likely a satellite (Echo I)",
-    "location": "Wyomissing, Pennsylvania",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A civilian reported observing a satellite (Echo I) in the Wyomissing, Pennsylvania area on July 3, 1967.",
+    "interesting points": "The observation lasted for 5 minutes and 52 seconds,The course of the observed object was N-NE,There was no physical evidence or photographs of the event,The observation was classified as a satellite sighting (Echo I) by the authorities,The report form did not reveal any other witnesses despite stating that several people might have seen the same UFO.",
+    "sighted object": "a satellite (Echo I)",
+    "location": "Wyomissing, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian who filled out the observation form",
+    "contains photographs": false
 }

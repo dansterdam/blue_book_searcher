@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A cylindrical object, larger than an aircraft, was observed with a wobbling, worm-like motion over Raytown, Missouri.",
-    "interesting points": [
-        "The object had a change in direction, duration, and flight pattern consistent with remote-controlled maneuvers.",
-        "The object was observed visually from the ground and also detected on radar.",
-        "The object was observed at various altitudes from 6,000 feet to 60,000 feet, with a steady course from southeast to northwest.",
-        "The object's appearance was described as white or grayish in color.",
-        "The sighting lasted for approximately 4-5 minutes before the object gradually faded from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "a cylindrical object with a wobbling, worm-like motion",
-    "location": "Raytown, Missouri",
-    "witnesses": "ground visual and radar observation",
-    "photographs": "no photographs available"
+    "main event": "A cylindrical object larger than an aircraft was observed exhibiting a wobbling motion in Raytown, Missouri.",
+    "interesting points": "The sighting lasted for about 1 minute,The object had a worn-like appearance due to its wobbling action,The object changed direction and maintained a steady flight pattern with maneuvers,The witness's wife initially thought it was a falling star or satellite,The report was delayed due to the officer's reluctance to call it in immediately.",
+    "sighted object": "cylindrical object larger than an aircraft",
+    "location": "Raytown, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "the witness and the witness's wife",
+    "contains photographs": false
 }

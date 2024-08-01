@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a cigar-shaped object with flashing blue and red lights over Laredo, Texas in January 1967.",
-    "interesting points": [
-        "The object was larger than a star and emitted a white-ish smoke trail.",
-        "Two of the objects moved in a straight line from east to west, while one remained stationary overhead for about 20 minutes.",
-        "The objects were first noticed as a flashing red-green 'star' in the sky.",
-        "The report mentions a satellite burn-in observed in the area around the same time period.",
-        "The observer had previously submitted a similar UFO report in October 1966, and was considered a 'poor' reliability source."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a cigar-shaped object with flashing blue and red lights",
-    "location": "Laredo, Texas",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian observed a cigar-shaped object in Laredo, Texas, in January 1967.",
+    "interesting points": "The object was described as larger than a star and exhibited blue and red flashing lights., The object was visible for about twenty minutes before disappearing., The report indicated that the object was not any known aircraft., The object moved in a straight line and was observed by a single civilian witness., The witness's reliability was noted as poor due to a previous similar report.",
+    "sighted object": "cigar-shaped object with flashing blue and red lights",
+    "location": "Laredo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, age 50, housewife, reliability poor",
+    "contains photographs": false
 }

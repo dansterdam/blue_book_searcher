@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A bright light, described as a fireball, was sighted near Stead AFB, Nevada on November 9, 1963.",
-    "interesting points": [
-        "The object appeared to separate into two parts, with one remaining stationary and the other moving off leaving a trail of fire.",
-        "The sighting was observed by multiple witnesses, including a weather observer and air policemen.",
-        "The weather conditions at the time were described, including cloud cover, wind, and temperature.",
-        "The sighting was determined to be related to a Titan missile launch from Vandenberg AFB in California.",
-        "The sighting lasted for approximately 6 minutes."
-    ],
-    "result": "Identified as a missile launch",
-    "sighted object": "A bright fireball that separated into two parts",
-    "location": "Stead AFB, Nevada",
-    "witnesses": "Weather observer, air policemen",
-    "photographs": "No photographs present"
+    "main event": "Multiple observers reported seeing bright lights in the sky near Stead AFB, Nevada, on 9 November 1963.",
+    "interesting points": "The witnesses described the objects as bright lights that traveled at high speed,The sighting lasted approximately 10 minutes,Three observers confirmed the flight path and actions of the lights,The objects left trails of light as they moved,The initial conclusions suggested the sighting could be consistent with known aerial phenomena.",
+    "sighted object": "bright lights in the sky",
+    "location": "Stead AFB, Nevada, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "weather observer and air police personnel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "A witness observed three bright objects in the sky near Jensen, Utah on October 8, 1961.",
-    "interesting points": [
-        "The objects appeared and disappeared to the northeast within 1.5 minutes.",
-        "The objects had no visible vapor trails.",
-        "An investigation was conducted at the approximate site of the sighting.",
-        "The observer reported seeing superior images of distant mountain peaks, which could have been a mirage.",
-        "The time geometry and the initial sighting details were consistent with previous sightings, such as the Kenneth Arnold case in 1947."
-    ],
-    "result": "unidentified",
-    "sighted object": "three bright objects",
-    "location": "Jensen, Utah",
-    "witnesses": "one observer",
-    "photographs": "no"
+    "main event": "On October 8, 1961, multiple witnesses in Jensen, Utah observed a bright, unidentified object moving in the sky, displaying an erratic flight pattern.",
+    "interesting points": "Witnesses described the object as a bright light, about the size of a dime at arm's length, moving in a zigzag pattern at high speed,The sighting lasted approximately 10 minutes and occurred around 8:30 PM,Another report from a different witness described a circular object, 30-40 feet in diameter, that hovered silently before accelerating rapidly,The incident prompted investigations by local authorities and the Air Force, and the case was classified as unresolved in the Project Blue Book files.",
+    "sighted object": "A bright, unidentified object observed in the sky",
+    "location": "Jensen, Utah, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Various witnesses reported seeing a bright object in the sky with different characteristics",
+    "contains photographs": false
 }

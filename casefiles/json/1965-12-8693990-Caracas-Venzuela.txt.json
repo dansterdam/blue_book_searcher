@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A spherical, orange-red object was observed by civilians in Caracas, Venezuela for approximately 40 seconds.",
-    "interesting points": [
-        "The object appeared as a 'flaming sphere' with a slight tail about one-third the diameter of the object.",
-        "The object made a steady course from east to west, then turned to the north before disappearing behind buildings.",
-        "The object was observed at an elevation of 28 degrees and an azimuth of 315 degrees, then changed to an azimuth of 320 degrees.",
-        "The observation was made on a very clear night with no optical aids used.",
-        "The weather conditions were clear with a surface wind from the west-northwest at 4 mph, and the temperature was 76 degrees Fahrenheit."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "spherical, orange-red object",
+    "main event": "An unidentified flying object was observed in Caracas, Venezuela on December 13, 1965, by a military observer.",
+    "interesting points": "The object was described as a flaming spherical shape with an orange-red color., The observer reported a slight tail about one-third of the object's diameter., The object was visible for about 40 seconds before it was lost from sight due to building obstructions., No sound was reported during the observation., The sighting conditions were clear with no optical aids used.",
+    "sighted object": "a flaming spherical object",
     "location": "Caracas, Venezuela",
-    "witnesses": "civilians",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Robert D. Vinson, 2/LT, US Army, age 27",
+    "contains photographs": false
 }

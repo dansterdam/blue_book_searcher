@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Two observers saw a white light that became larger and then smaller, and then took off quickly in the sky.",
-    "interesting points": [
-        "The observers first saw the white light without binoculars, and then were able to see a green light beside the white one through binoculars.",
-        "The white light started small, became larger and wider, then shrank back to a small size before taking off very quickly.",
-        "The observers were unable to identify the object they saw.",
-        "The observers were sent AF Form 117s but did not return them.",
-        "The conclusion of the report was 'INSUFFICIENT DATA FOR EVALUATION'."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white light that changed size and a green light",
-    "location": "Islip Terrace, New York",
-    "witnesses": "two observers",
-    "photographs": "none"
+    "main event": "Two observers saw a white light that turned green beside it while using binoculars.",
+    "interesting points": "The sighting occurred on February 10, 1968, between 3:30 p.m.,The white light initially appeared small but grew larger before shrinking and disappearing rapidly,The observers could not identify the object,The report concluded there was insufficient data for evaluation,Nobody returned AF Form 117's that were sent to the witnesses.",
+    "sighted object": "a white light that turned green",
+    "location": "Islip Terrace, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two observers including a girlfriend",
+    "contains photographs": false
 }

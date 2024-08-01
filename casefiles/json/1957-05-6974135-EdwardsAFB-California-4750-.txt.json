@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A black, circular object about 30 feet in diameter was observed at 6,000 feet altitude approximately five miles northeast of Edwards AFB.",
-    "interesting points": [
-        "The object was flying at a high speed and appeared to be under intelligent control.",
-        "During the observation, the object made an abrupt 90 degree turn and accelerated out of sight.",
-        "Several other military and civilian personnel also observed the object.",
-        "No sound was heard during observation of the object, and it did not leave any condensation trail.",
-        "Other unidentified aerial objects were reported by personnel at Edwards AFB on the same day."
-    ],
-    "result": "unexplained",
-    "sighted object": "black, circular object about 30 feet in diameter",
-    "location": "Edwards AFB, California",
-    "witnesses": "Major Paul R. Hill, Commanding Officer, 742d Radar Sq, and other military/civilian personnel",
-    "photographs": "yes, the report includes photographs"
+    "main event": "On May 6, 1957, at Edwards AFB, California, a black circular object approximately 30 feet in diameter was observed flying at 6,000 feet altitude, making a 90-degree turn and accelerating out of sight.",
+    "interesting points": "The object was described as under intelligent control,The sighting lasted approximately 3 minutes,No sound was heard during the observation,No condensation trail was left by the object,Several military and civilian personnel observed the object.",
+    "sighted object": "a black circular object",
+    "location": "Edwards AFB, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Lt. Col. Walter G. Winstead and other military personnel",
+    "contains photographs": false
 }

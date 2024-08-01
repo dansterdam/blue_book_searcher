@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An observer saw an unidentified object over Enon, Ohio on multiple occasions in March 1966.",
-    "interesting points": [
-        "The object was described as a bright light that displayed a great deal of maneuverability, making sharp, abrupt turns.",
-        "The object appeared to be revolving and was estimated to be about the size of a high-wheeling aircraft.",
-        "When the object crossed in front of the observer's car, it took off with a 'terrific burst of speed'.",
-        "The observer did not notice any aircraft in the area at the time of the sightings.",
-        "The sightings occurred on March 13, 16, and 29, 1966 between 1:30 AM and 2:30 or 3:00 AM."
-    ],
-    "result": "identified as a KC-135 aircraft",
-    "sighted object": "a bright light with a lot of maneuverability",
-    "location": "Enon, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "none"
+    "main event": "A civilian observed a bright light object three times on March 26, 1966, described as the size of a high-flying aircraft.",
+    "interesting points": "The object was seen at different times during a short period,The observer described the object as elongated and highly maneuverable,The object was compared to a bright silver color,The Air Force confirmed a KC-135 was in the area but the observer did not initially notice it,The sighting was deemed unremarkable, and no further investigation was necessary.",
+    "sighted object": "a bright light object",
+    "location": "Enon, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilian who reported the sightings",
+    "contains photographs": false
 }

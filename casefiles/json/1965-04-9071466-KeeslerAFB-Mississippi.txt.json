@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A military observer at Keesler AFB in Mississippi spotted a black oblong object with four bright, evenly-spaced lights on the underside in 1965.",
-    "interesting points": [
-        "The object was estimated to be 15-20 feet in diameter and passed overhead, descending to around 1000 feet and then ascending to 2000 feet.",
-        "The object made no sound and did not leave any trail or exhaust.",
-        "FAA and the Keesler AFB control tower had no records of the sighting, and radar checks did not detect any targets in the area.",
-        "The witness stated the object was quite different from any aircraft he had seen before.",
-        "Searchlights in the area and the possibility of a satellite sighting were considered, but the case was ultimately classified as 'unidentified' due to lack of conclusive evidence."
-    ],
-    "result": "unidentified",
-    "sighted object": "black oblong object with four bright lights",
-    "location": "Keesler AFB, Mississippi",
-    "witnesses": "military observer",
-    "photographs": "no"
+    "main event": "A black oblong object resembling a football with four lights was observed moving with high speed over Keesler AFB in Mississippi on April 6, 1965.",
+    "interesting points": "The object was initially thought to be an aircraft, but the FAA had no records of any flight in the area at the time., The object descended to about 1000 feet and then ascended to around 2000 feet., The lights were of high intensity and still, unlike typical aircraft lights., The object's size was estimated to be 15-20 feet in diameter, similar to the size of the moon., The sighting lasted for approximately 15 seconds before the object disappeared.",
+    "sighted object": "a black oblong object with four lights",
+    "location": "Keesler A.F.B., Mississippi, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a military observer who noted the object's unusual appearance and lack of sound",
+    "contains photographs": false
 }

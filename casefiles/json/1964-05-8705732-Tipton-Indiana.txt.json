@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the summary in JSON format:
-
 {
-    "main event": "A bright light was observed in the sky over Tipton, Indiana on May 7, 1964, which was seen by several witnesses over the course of an hour.",
-    "interesting points": [
-        "The light was described as very bright, sometimes flashing, and reflecting on the ground.",
-        "The light hovered and then slowly moved in a southerly direction, at one point disappearing below the trees before reappearing.",
-        "Detailed descriptions were provided by two witnesses, including one who said the light was about the size of a basketball held at arm's length and that he could see stars through it.",
-        "The light was observed for over an hour by several persons within about a 15 mile radius of Tipton.",
-        "It is considered that the light could have been a military or other aircraft, a planet, a meteor, or a balloon, but there is no evidence that this sighting involved an unidentified flying object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light in the sky",
-    "location": "Tipton, Indiana",
-    "witnesses": "several persons within a 15 mile radius of Tipton",
-    "photographs": "none"
+    "main event": "Multiple witnesses observed a bright light in the sky over Tipton, Indiana, on May 8, 1964, noting it first hovered and then moved at high speed before disappearing.",
+    "interesting points": "The light changed colors from pink to red during the observation., One witness reported seeing stars through the light., The sighting lasted for about 30 minutes., Witnesses described the light as being about the size of a basketball at arm's length., The sighting coincided with the passage of ECHO, suggesting a potential atmospheric relation.",
+    "sighted object": "a bright round light",
+    "location": "Tipton, Indiana, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "including a city policeman and 4 children, all deemed reliable, with good reputations in the community.",
+    "contains photographs": false
 }

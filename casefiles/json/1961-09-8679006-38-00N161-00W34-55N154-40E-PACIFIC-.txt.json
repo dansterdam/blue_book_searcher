@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An unidentified flying object appeared at 1700Z, described as a large circular area of high intensity light with a dark center, similar to an eclipse. The object was traveling east at orbital speed, leaving a faint glow of light trail.",
-    "interesting points": [
-        "The object was observed by aircraft in the area, with the position of the aircraft at the time of sighting being 34°55'N 154°40'E.",
-        "The object appeared about 10 degrees over the horizon and well east of the aircraft.",
-        "When first noted, the object was small and bright, and as it got closer, it became a brilliant light with the center missing, similar to a doughnut.",
-        "The object retained this appearance until it was lost on the horizon.",
-        "The report suggests the object may have been an electrical disturbance of some kind."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large circular area of high intensity light with a dark center, similar to an eclipse",
-    "location": "Pacific Ocean, 34°55'N 154°40'E",
-    "witnesses": "aircraft in the area",
-    "photographs": "no"
+    "main event": "A luminous, circular object was observed traveling at orbital speed, leaving a glowing trail in the sky.",
+    "interesting points": "The object was visible for approximately 6 minutes., It was traveling ESE and maneuvered irregularly., The center of the object appeared clear, similar to a doughnut shape., The sighting coincided with missile activity in the area at the time., TWA and United Air Lines pilots confirmed seeing a strange lighted UFO during the same timeframe.",
+    "sighted object": "luminous circular object",
+    "location": "Pacific Ocean, Unknown Region, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "pilots from TWA and United Air Lines",
+    "contains photographs": false
 }

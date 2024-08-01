@@ -1,15 +1,9 @@
 {
-    "main event": "Two pilots reported a sighting of an unidentified aerial object at Yokota Air Base, Japan on August 6, 1952. The object was described as a pulsating white light maneuvering at high speeds and then suddenly accelerating and disappearing from view.",
-    "interesting points": [
-        "The pilots observed a single white light pulsating in nature at an estimated altitude of 15,000 feet and a distance of approximately 8 to 10 miles from their position.",
-        "The object appeared to be maneuvering at a high rate of speed in various directions before suddenly accelerating and disappearing from view after approximately 2 minutes of observation.",
-        "The object was visual from a U-47 aircraft at approximately 10,000 feet traveling at approximately 300 miles per hour.",
-        "At one point, the object passed off the tail of the aircraft and did not blink, was not illuminated, and did not have any observed exhaust or vapor trail.",
-        "No sound or physical evidence was detected, and no activity or condition, meteorological or otherwise, could explain the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified aerial object",
+    "main event": "A B-26 pilot observed a pulsating white light maneuvering at a high speed over Yokota Air Base, Japan on August 6, 1952.",
+    "interesting points": "The sighting lasted approximately 2 minutes before the object suddenly accelerated and disappeared., The object was reported to be at an estimated altitude of 15,000 feet and 8 to 10 miles away from the observer., The report included a conclusion that the object might be a comet., There were no sounds or physical evidence detected during the observation., The sighting was made during night gunnery operations at 7,000 feet.",
+    "sighted object": "a single pulsating white light",
     "location": "Yokota Air Base, Japan",
-    "witnesses": "2 Pilots",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "pilots of a B-26 type aircraft",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A female civilian reported an unusual aircraft sighting over Long Island on March 17, 1950, describing it as resembling two plates face to face.",
-    "interesting points": [
-        "The aircraft initially appeared small but then descended a few thousand feet.",
-        "The observer reported that the aircraft hovered and maneuvered before disappearing.",
-        "The observer did not report the observation to news agencies or local authorities.",
-        "The report was sent to Project Blue Book, a U.S. Air Force program to investigate UFOs.",
-        "The sighting involved a detailed description of the observed aircraft and the observer's interpretation of the event."
-    ],
-    "result": "unexplained",
-    "sighted object": "unusual aircraft resembling two plates face to face",
-    "location": "Roslyn, N.Y.",
-    "witnesses": "female civilian",
-    "photographs": "no"
+    "main event": "A female civilian reported seeing an unusual aircraft over Long Island that descended and maneuvered before disappearing on March 17, 1950.",
+    "interesting points": "The aircraft appeared small at first before descending a few thousand feet,The observer described the aircraft as looking like two plates face to face,The aircraft dropped away from a smoke trail before hovering,The observer chose not to report the sighting to news agencies or local authorities, The event was documented as part of Project Blue Book.",
+    "sighted object": "unusual aircraft",
+    "location": "Roslyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a female civilian",
+    "contains photographs": false
 }

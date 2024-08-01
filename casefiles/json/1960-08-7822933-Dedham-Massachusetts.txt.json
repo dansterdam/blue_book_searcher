@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
     "main event": "Two bright, pear-shaped objects were observed in the sky over Dedham, Massachusetts on August 5, 1950.",
-    "interesting points": [
-        "The objects were described as grayish white in color.",
-        "The objects moved silently from east to west at an estimated speed of around 3 mph.",
-        "The duration of the sighting was around 30 seconds.",
-        "The report indicates that there was insufficient data to definitively determine the nature of the objects, with possibilities including a balloon, aircraft, or astronomical phenomenon.",
-        "The report was forwarded to the Air Technical Intelligence Center for further investigation."
-    ],
-    "result": "unknown",
+    "interesting points": "The objects moved silently from east to west,The color of the objects was described as grayish white,The speed of the objects was estimated at around 3 mph, The sighting lasted approximately 30 seconds, The report included various conclusions about the nature of the objects, suggesting they may have been a balloon, aircraft, or astronomical phenomenon.",
     "sighted object": "two bright, pear-shaped objects",
-    "location": "Dedham, Massachusetts",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "location": "Dedham, Massachusetts, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

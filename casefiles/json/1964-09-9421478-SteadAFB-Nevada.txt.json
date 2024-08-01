@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A pilot observed a fast-moving object that appeared to be the size of the head of a pin while flying at 33,000 feet on September 22, 1964.",
-    "interesting points": [
-        "The pilot initially thought the object was a satellite or missile, but determined it was not a satellite.",
-        "The object was moving at a very high rate of speed.",
-        "The sighting lasted for approximately 5 minutes.",
-        "Radar later determined the object was likely an Atlas D missile launched from Vandenberg Air Force Base.",
-        "No photographs were taken of the object."
-    ],
-    "result": "Likely an Atlas D missile launch",
-    "sighted object": "A fast-moving object the size of a pin head",
-    "location": "Near Stead Air Force Base, Nevada",
-    "witnesses": "Pilot Peter Hendrickson",
-    "photographs": "No"
+    "main event": "On 22 September 1964, multiple witnesses, including pilots and civilians, reported observing unidentified flying objects in the vicinity of Stead AFB, Nevada, and surrounding areas.",
+    "interesting points": "The objects were reported to be moving at high speeds of 3500-4000 mph., One object was observed to be round and bright, appearing like a pinhead in size., A pilot believed one object was initially a satellite or missile but determined it was not., Witnesses described the objects as having a glowing appearance with a straight vapor trail like a shining star., There were also reports of the objects disappearing gradually after a few minutes of observation.",
+    "sighted object": "Unidentified flying objects (UFOs), described as round and glowing",
+    "location": "Stead AFB, Nevada, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Pilots and civilians including Mr. Carmichael and civilian eyewitnesses from Carmichael and West Sacramento, California",
+    "contains photographs": false
 }

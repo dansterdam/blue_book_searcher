@@ -1,15 +1,9 @@
 {
-    "main event": "Sighting of an unidentified flying object near Avoca, Wisconsin on October 8, 1960.",
-    "interesting points": [
-        "The object was described as being oblong or oval in shape, with a horizontal row of colored lights (red and green) along the middle section.",
-        "The object was observed for about 10 minutes and at times appeared to change course and altitude.",
-        "The document mentions that the sighting was reported by multiple witnesses, including the person who wrote the report.",
-        "The report indicates that the sighting was classified as an 'unexplained aerial phenomenon'.",
-        "The document also contains a response from the Air Force Public Information Division regarding 'window or shatter' material, which may be related to the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying object",
-    "location": "Avoca, Wisconsin",
-    "witnesses": "multiple persons",
-    "photographs": "no"
+    "main event": "Multiple unidentified flying objects were sighted in Avoca, Wisconsin on October 8, 1960.",
+    "interesting points": "The objects were described as oblong or oval in shape with a horizontal row of colored lights (red and green)., The sighting lasted for about 10 minutes., The objects appeared to change course and altitude during the observation., The event was reported by an unidentified witness and several other persons., The Air Force classified this as an unexplained aerial phenomenon.",
+    "sighted object": "unidentified flying objects",
+    "location": "Avoca, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an unidentified person and several others",
+    "contains photographs": false
 }

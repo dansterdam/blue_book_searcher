@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A report of multiple unidentified, luminous, and rapidly moving circular objects observed in the sky over South Charleston, Ohio on October 6, 1964.",
-    "interesting points": [
-        "The objects exhibited erratic, high-speed movements.",
-        "The sighting lasted approximately 30 seconds.",
-        "The photographs included in the report appear blurry and indistinct, making the objects difficult to clearly identify.",
-        "The report was part of Project Blue Book, the historic U.S. Air Force investigation into unidentified flying objects (UFOs).",
-        "The report and photographs are labeled as 'UNCLASSIFIED' by the Foreign Technology Division of the Air Force Systems Command (AFSC)."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple circular, luminous, rapidly moving objects",
-    "location": "South Charleston, Ohio",
-    "witnesses": "unnamed observer(s)",
-    "photographs": "yes, the report includes blurry, indistinct photographs"
+    "main event": "At least 2 circular, luminous objects were observed moving rapidly at high speed in South Charleston, Ohio.",
+    "interesting points": "The sighting occurred on October 6, 1964, at 2205 hours., The objects exhibited erratic movement patterns., The duration of the sighting was approximately 30 seconds., The weather conditions during the sighting were described as clear and cool., The report was subsequently made to the U.S. Air Force as part of Project Blue Book.",
+    "sighted object": "circular, luminous objects",
+    "location": "South Charleston, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Unnamed observer",
+    "contains photographs": true
 }

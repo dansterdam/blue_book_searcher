@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, circular object with two wing-like appendages was sighted rising rapidly in the sky over the Atlantic Ocean east of Cape Canaveral, Florida.",
-    "interesting points": [
-        "The object was amber-colored and approximately 1 foot in diameter.",
-        "The object was observed to move very rapidly and set to a heading of 270 degrees.",
-        "No sound was heard and no trail was visible.",
-        "The object was witnessed by 5 crew members on a ship.",
-        "The object took about 30 seconds to traverse the celestial arc."
-    ],
-    "result": "Inconclusive, insufficient data for evaluation",
-    "sighted object": "A bright, circular object with two wing-like appendages",
-    "location": "28°15'N 77°11'W (East of Cape Canaveral, Florida)",
-    "witnesses": "5 crew members on a ship",
-    "photographs": "No, the report does not include any photographs"
+    "main event": "A brief UFO sighting of an amber object approximately 20° above the horizon east of Cape Canaveral.",
+    "interesting points": "The object was observed to move rapidly and changed direction abruptly., The sighting lasted for about 2 minutes, with 30 seconds of observation., The object was circular in shape and emitted no sound or visible trail., Five crew members witnessed the event and confirmed its details., Various conclusions were drawn including that it could have been a balloon or aircraft.",
+    "sighted object": "an amber colored circular object",
+    "location": "Cape Canaveral, Florida, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "crew members aboard a vessel",
+    "contains photographs": false
 }

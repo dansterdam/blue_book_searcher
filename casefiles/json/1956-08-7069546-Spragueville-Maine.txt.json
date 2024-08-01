@@ -1,15 +1,9 @@
 {
-  "main event": "On August 17, 1956, in Spragueville, Maine, a radar observation was made of a UFO, described as 35-40 feet in diameter, which disappeared after being tracked for three minutes at speeds over 500 knots.",
-  "interesting points": [
-    "The object was not visually observed at 4000 yards, raising questions about equipment malfunction or an alternative source.",
-    "The radar operator and the pilot displayed different observations, suggesting possible equipment malfunction.",
-    "The sighting was tentatively categorized as 'unknown' by the U.S. Air Force, indicating a lack of definitive explanation.",
-    "The object's behavior, such as disappearing and crossing in front of aircraft at a 45-degree angle, was highly unusual.",
-    "The observation of a 35-40 feet object moving at high speeds and displaying unconventional behavior makes the sighting intriguing."
-  ],
-  "result": "unknown",
-  "sighted object": "UFO, described as 35-40 feet in diameter",
-  "location": "Spragueville, Maine",
-  "witnesses": "Military radar operator and pilot",
-  "photographs": "No"
+    "main event": "An unidentified flying object was observed on radar and visually by military personnel in Spragueville, Maine on August 17, 1956.",
+    "interesting points": "The object was tracked on radar for three minutes before disappearing at 4000 yards,The object was estimated to have been moving at over 500 knots,There were discrepancies between the radar operator's and pilot's scopes,Equipment malfunction was suggested due to the inability to visually identify the object at 4000 yards,The conclusions drawn about the object varied widely, ranging from balloon to unknown.",
+    "sighted object": "unknown flying object",
+    "location": "Spragueville, Maine, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel involved in radar tracking and visual observation",
+    "contains photographs": false
 }

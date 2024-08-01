@@ -1,15 +1,9 @@
 {
-  "main event": "A pencil-shaped UFO was sighted in Bismarck, North Dakota on 29 October 1957, moving fast and climbing slowly for a duration of 20 minutes.",
-  "interesting points": [
-    "The UFO was described as pencil-shaped and was observed moving at high speeds and climbing slowly.",
-    "The report states that there was no photograph of the sighting.",
-    "The sighting was supported by two witnesses, including a GOC observer on duty, who estimated the object to be 44 feet thick and half a mile long.",
-    "The conclusion of the report seems to suggest that the object sighted was a standard size at approximately 30,000 feet, potentially accounting for the sighting.",
-    "The UFO report provides details of the weather conditions and altitude at the time of the sighting."
-  ],
-  "result": "Unexplained",
-  "sighted object": "Pencil-shaped UFO",
-  "location": "Bismarck, North Dakota",
-  "witnesses": "Two witnesses, including a GOC observer on duty",
-  "photographs": "No"
+    "main event": "On 29 October 1957, a pencil-shaped object was sighted in Bismarck, North Dakota, moving fast and climbing slowly.",
+    "interesting points": "The observation lasted for 20 minutes., The sighting involved a ground-radar type of observation., Two witnesses were present, one was a GOC observer., The object was estimated to be 44 feet thick and 1/2 mile long., The object turned black and disappeared after the sighting.",
+    "sighted object": "a pencil-shaped object",
+    "location": "Bismarck, North Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One of the witnesses was on duty as a GOC observer.",
+    "contains photographs": false
 }

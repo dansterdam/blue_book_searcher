@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian reported seeing a silver object, the size of a nickel at arm's length, traveling faster than a jet in Van Nuys, California on 28 July 1955.",
-  "interesting points": [
-    "The object was described as moving faster than a jet, indicating high speed.",
-    "The size of the object at arm's length was compared to that of a nickel, suggesting it was relatively small.",
-    "The civilian's drawing of the object supported their memory of the sighting.",
-    "The report indicated that the characteristics data for evaluation were unknown, leaving the sighting unexplained.",
-    "The sighting lasted for 30 seconds, providing a relatively short observation period."
-  ],
-  "result": "unexplained",
-  "sighted object": "a silver object",
-  "location": "Van Nuys, California",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A civilian observed a silver object traveling southerly at high speed on 28 July 1955.",
+    "interesting points": "The object was described as being the size of a nickel at arm's length., The observation lasted for 30 seconds., The object moved faster than a jet., The sighting was made from the ground., A drawing was made that supports the memory of the sighting.",
+    "sighted object": "one silver object",
+    "location": "Van Nuys, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

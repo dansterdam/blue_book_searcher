@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A private citizen reported seeing a luminous, silent object the size of a small automobile traveling at 300-400 mph near Westford, Massachusetts in 1964.",
-    "interesting points": [
-        "The object was described as luminous or illuminated and made no sound.",
-        "It was observed for 10-15 seconds before disappearing.",
-        "The case was considered a probable unidentified flying object due to the consistent description provided by the witness.",
-        "Another report from 1960 described a dark, round object that made a sharp right angle turn and disappeared over Westford, Massachusetts.",
-        "The 1964 report indicates the witness was regarded as unreliable by a NICAP representative who submitted the case to the Air Force."
-    ],
-    "result": "unexplained",
-    "sighted object": "luminous, silent object the size of a small automobile",
-    "location": "Westford, Massachusetts",
-    "witnesses": "private citizen",
-    "photographs": "no"
+    "main event": "Mrs. Carney and her daughter Barbara observed a luminous object with four lights in the sky while parked on Old Lowell Road in Westford, Massachusetts.",
+    "interesting points": "The object was observed for about 45 minutes,The colors of the lights included white, orange, and blue-green,The object moved slowly before rapidly accelerating out of sight,Mrs. Carney and her neighbors reported multiple UFO sightings in the past year,This case remains unexplained by military investigation.",
+    "sighted object": "luminous object with four lights",
+    "location": "Westford, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. Carney and her daughter Barbara",
+    "contains photographs": false
 }

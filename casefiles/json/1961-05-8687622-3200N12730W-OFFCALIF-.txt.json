@@ -1,15 +1,9 @@
 {
-    "main event": "The document describes a sighting of a small, light-colored oval object moving in a straight, level course at a constant speed with a slight increase in brightness momentarily. The object was observed by a ground observer and could not be definitively identified.",
-    "interesting points": [
-        "The object appeared larger than a star and moved rapidly on a straight course across the sky for approximately 30 degrees, giving off a greenish-colored light.",
-        "The sighting was observed by two independent witnesses on board a ship, who stated it was something they had never seen before and could not identify.",
-        "The document indicates the object could possibly be a meteor, but could not be definitely identified.",
-        "The document is a Project 10073 record card, suggesting it is from the Project Blue Book archive of UFO reports.",
-        "The document also includes a separate analysis sheet that discusses the sighting, including the location, date, time, and evaluation of the source's reliability as 'poor - possible reliable'."
-    ],
-    "result": "unexplained",
+    "main event": "A small light-colored oval object, possibly dull white, was observed moving in a straight course at constant speed.",
+    "interesting points": "The object showed a slight increase in brightness momentarily during the observation., The object could not be definitely identified but was possibly a meteor., The sighting was made by a ground observer., The object was described as having no discernible markings or structure., Two independent witnesses on board a ship observed a larger greenish light moving rapidly in the sky.",
     "sighted object": "small light-colored oval object",
     "location": "32.00 N, 127.30 W",
-    "witnesses": "ground observer, two independent witnesses on board ship",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "independent witnesses on board a ship",
+    "contains photographs": false
 }

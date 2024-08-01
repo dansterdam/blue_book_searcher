@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A farmer spotted 3 red lights over his farm in Maryland in 1965.",
-    "interesting points": [
-        "The lights moved at a very slow speed, as if attached to a balloon.",
-        "The lights appeared to be under intelligent control and were maneuverable.",
-        "One of the lights was so bright that it simulated sunlight and had pinpoints visible on its surface.",
-        "The lights were observed by the farmer, his son, and other neighbors in the area.",
-        "The case could not be satisfactorily explained, with the possibility of a large glider being the cause, but the slow speed and lack of green/white lights did not fit that explanation."
-    ],
-    "result": "unexplained",
-    "sighted object": "three red lights in the sky",
-    "location": "Mt. Airy, Maryland",
-    "witnesses": "farmer, his son, and neighbors",
-    "photographs": "no"
+    "main event": "An unidentified object with red lights was observed over Mt. Airy, Maryland, on March 8, 1965.",
+    "interesting points": "The object was initially seen by an observer and his son who noticed six red lights about 1300 feet away moving at an estimated speed of twenty miles per hour., The lights appeared in a straight line and seemed to blink at times., The sighting lasted approximately three minutes before the lights disappeared over the horizon., An aircraft with a white light was also observed, flying perpendicular to the lights., This case remains classified as 'unidentified' by the Air Force due to a lack of conclusive evidence.",
+    "sighted object": "six red lights",
+    "location": "Mt. Airy, Maryland, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "An observer and his two sons",
+    "contains photographs": false
 }

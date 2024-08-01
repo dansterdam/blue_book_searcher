@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three unidentified objects were observed at different times over Douglasville, Georgia between September 28 and October 9, 1960.",
-    "interesting points": [
-        "The objects were much brighter than any star, possibly 10 times brighter than the evening star.",
-        "The objects appeared to have straight line movements with occasional 'dance-like' movements, suggesting variations in altitude.",
-        "The objects were observed at different times, with one object seen approximately 3-4 hours after the initial sighting.",
-        "The elevation and azimuth of the objects when first and last seen were documented, showing they moved away from the observers in a generally straight line.",
-        "Detailed weather data, including wind speeds, cloud cover, and temperature gradients, were provided for the dates of the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "three bright unidentified objects",
-    "location": "Douglasville, Georgia",
-    "witnesses": "Mr. and Mrs. [redacted], Douglasville, GA",
-    "photographs": "none"
+    "main event": "Three objects were observed over Douglasville, Georgia, at different times, appearing much brighter than any stars.",
+    "interesting points": "The objects were observed at different times between September 28 and October 9, 1960., The duration of the observation was approximately 3 to 4 hours., Witnesses described the objects as being possibly ten times brighter than the evening star., The objects showed occasional dance-like movements suggesting variations in altitude., No photographs of the sighting were available.",
+    "sighted object": "three bright objects in the sky",
+    "location": "Douglasville, Georgia, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "A 59-year-old male and his 42-year-old wife; the male was a retired MSG from the USAF.",
+    "contains photographs": false
 }

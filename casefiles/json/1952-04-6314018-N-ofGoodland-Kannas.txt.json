@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A B-29 bombardier observed a white, pear-shaped object moving in straight and level flight for about 2 seconds near Goodland, Kansas on April 29, 1952.",
-    "interesting points": [
-        "The object appeared to be flying at around 5,000 feet altitude and moving at a high speed of approximately 1,000 mph.",
-        "The object did not leave a visible vapor trail or exhaust, and was completely silent.",
-        "The object was not picked up on radar at the time of the sighting.",
-        "Investigation revealed no other air traffic in the area besides the observer's B-29 aircraft.",
-        "The object was described as being silver in color and circular in shape, about the size of a C-47 aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, pear-shaped object",
-    "location": "North of Goodland, Kansas",
-    "witnesses": "B-29 bombardier",
-    "photographs": "no"
+    "main event": "A B-29 bombardier reported seeing an unidentified flying object near Goodland, Kansas on 29 April 1952, characterized as a white pear shape flying in straight and level flight.",
+    "interesting points": "The object was observed for about 2 seconds during which it was noted to pulsate 3-4 times per second., The object was described as having a soft white light and was approximately 50 to 60 feet across., It was traveling at a high speed of approximately 1,000 mph and was completely silent., No other air traffic was observed in the area at the time of the sighting., The object was not captured by radar despite the altitude of approximately 5,000 feet.",
+    "sighted object": "unidentified flying object with a pear shape and soft white light",
+    "location": "Goodland, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "B-29 bombardier, reliable observer",
+    "contains photographs": false
 }

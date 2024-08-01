@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two to four unidentified objects were observed for 15 minutes, traveling at high speeds and changing directions.",
-    "interesting points": [
-        "The objects appeared circular in shape and were viewed for 35 seconds.",
-        "The objects disappeared rapidly.",
-        "The report was filed by several sources.",
-        "The sighting occurred in the Pacific northeast of Hawaii.",
-        "The report concludes that there was insufficient data to evaluate the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "two to four circular objects",
-    "location": "Pacific northeast of Hawaii",
-    "witnesses": "several",
-    "photographs": "no"
+    "main event": "Several objects were observed traveling at high speeds and changing directions for 15 minutes.",
+    "interesting points": "The sighting lasted for 15 minutes,Objects appeared circular in shape,The objects were visible for 35 seconds before disappearing rapidly,The observation included both ground-radar and air-visual types,Insufficient data for evaluation was concluded.",
+    "sighted object": "2-4 circular objects",
+    "location": "Pacific NE Hawaii",
+    "number of confirmed witnesses": 0,
+    "witness description": "Several sources reported the sighting.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several witnesses observed a bright object moving up and down and sidewise in the sky over Troy, New Hampshire on May 5, 1962.",
-    "interesting points": [
-        "The object was not pulsating but seemed to change in brightness.",
-        "The object's color was described as very bright, possibly like Venus.",
-        "The object was sighted for several minutes and then disappeared.",
-        "The witnesses thought the object may have been a bright planet, possibly Venus, under atmospheric conditions which gave the appearance of unusual motion and changes in brightness.",
-        "The witness reported seeing the object again on May 29, 1962, and called their parents to come outside and see it."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright object",
-    "location": "Troy, New Hampshire",
-    "witnesses": "several",
-    "photographs": "no"
+    "main event": "Several witnesses in Troy, New Hampshire observed a bright object moving up and down and sideways in the sky on 5 May 1962.",
+    "interesting points": "Witnesses described the object as very bright, possibly resembling Venus, The object changed in brightness but did not pulsate, The sighting lasted for approximately 5 minutes before the object disappeared, One witness noted that he saw the object multiple times over several nights, The report suggests that the object may have been misidentified as a UFO due to atmospheric conditions.",
+    "sighted object": "a bright object in the sky",
+    "location": "Troy, New Hampshire, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "A witness saw the object with his mother and two sisters; another witness observed it along with family.",
+    "contains photographs": false
 }

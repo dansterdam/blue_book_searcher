@@ -1,15 +1,9 @@
 {
-    "main event": "The document titled 'Unidentified Flying Objects, Project Blue Book Special Report No. 14' contains a series of reports, photographs, and analyses of UFO sightings and investigations conducted by the United States Air Force from 1950-1955.",
-    "interesting points": [
-        "The report includes photographs that were analyzed by photographic analysts and an astronomer, with conclusions attributing the images to natural phenomena such as clouds dimming the moon or moving ground vehicles during long exposure photography.",
-        "Witnesses and studios from New York, such as Underhilt Studio and Goldsmith Studio, sent inquiries and photographs of unidentified objects discovered in their images, prompting investigations into the nature of these sightings.",
-        "The documents indicate that some of the unidentified objects in the photographs were determined to be the moon and bright stars obscured by clouds and atmospheric conditions, debunking them as potential extraterrestrial objects.",
-        "The UFO investigations were conducted with detailed scrutiny, involving multiple analyses by experts and discussions with witnesses, demonstrating the thoroughness of the U.S. Air Force's approach to these sightings.",
-        "The declassification and downgrading of these documents was regulated, with information being declassified after 12 years, highlighting the sensitivity and long-term scrutiny of UFO-related materials."
-    ],
-    "result": "Unexplained",
-    "sighted object": "Unidentified flying objects, moon, bright stars, and potentially long exposure photography artifacts",
-    "location": "New York and unspecified locations",
-    "witnesses": "Underhilt Studio, Goldsmith Studio, and U.S. Air Force officials",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A document from Project Blue Book concludes that unidentified flying objects reported were caused by the moon and time exposure effects.",
+    "interesting points": "The object was identified as the unusually bright twin stars obscured by the moon., The photograph was taken during the evening of 20 March 1950, when a new moon rose., Analysts noted a streak of light typical of a moving ground vehicle in the photograph., The report was prepared for the United States Air Force by Battelle Memorial Institute and Rand Corporation., Harold E. Watson signed off the report as Chief of the Intelligence Department.",
+    "sighted object": "an unidentified object in the sky",
+    "location": "New York, NY, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Photographic analysts and astronomers involved in the review.",
+    "contains photographs": false
 }

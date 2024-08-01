@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Three luminous oval-shaped objects were observed moving across the sky in Canon, New Mexico on January 11, 1967.",
-    "interesting points": [
-        "The objects were described as light blue in color and luminous.",
-        "One of the objects moved up and down while the other three stayed in formation.",
-        "The lights of a nearby house went out when the objects were observed.",
-        "The objects were visible for 20-30 seconds before moving north towards Jemez Springs.",
-        "No sound was reported from the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "three luminous oval-shaped objects",
-    "location": "Canon, New Mexico",
-    "witnesses": "multiple civilian witnesses, including a housewife and teachers",
-    "photographs": "no, the report indicates only 3 sketchy reports, no photographs"
+    "main event": "Three luminous objects were observed moving from east to west for a duration of 20-30 seconds.",
+    "interesting points": "The objects were described as light blue and hazy., One object moved up and down while others remained stationary., The lights in the area went out during the sighting., The observation was made visually without any optical aids., The sighting occurred at night.",
+    "sighted object": "three luminous objects in the sky",
+    "location": "Canon, New Mexico, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "A housewife and two teachers from Canon, New Mexico.",
+    "contains photographs": false
 }

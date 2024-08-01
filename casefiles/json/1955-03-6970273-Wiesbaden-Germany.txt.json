@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, orange object resembling a falling star, except for the color, was observed for 15 seconds.",
-    "interesting points": [
-        "The object was silent and resembled a meteor, except for the color.",
-        "The object was observed at an altitude of 1,500-2,000 feet, moving at a speed of 300-400 mph.",
-        "The object was first observed at an elevation of 1 degree and an azimuth of 275 degrees, and it disappeared at the same elevation.",
-        "The sighting was reported by Lt. Paul A. McGuay of the 74th Fighter Interceptor Squadron, stationed in Wiesbaden, Germany.",
-        "The sighting was consistent with other similar reports from the area."
-    ],
-    "result": "possibly a meteor",
-    "sighted object": "round, orange object",
+    "main event": "An unidentified object resembling a falling star was observed over Germany on 9 March 1955.",
+    "interesting points": "The object was round and orange, emitting no sound,The sighting lasted for approximately 15 seconds,The estimated speed of the object was between 300-400 mph,The observer noted the object had an altitude of approximately 1500-2000 ft, Similar reports from the area suggest consistency in the type of sightings.",
+    "sighted object": "round orange object in the sky",
     "location": "Wiesbaden, Germany",
-    "witnesses": "Lt. Paul A. McGuay, 74th Fighter Interceptor Squadron",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "LT Paul A McGuay from the 74 Fighter Interceptor Squadron",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report text provided:
-
 {
-    "main event": "A metal object was found on a farm in Emmons, Minnesota on July 7, 1959.",
-    "interesting points": [
-        "The object was 17 inches long, 5 inches in diameter, and weighed approximately 12.5 pounds. It was made of magnesium alloy.",
-        "The object was found by the farm owner, who reported it to the sheriff. The sheriff then contacted a news photographer who took photos of the object.",
-        "The object was very corroded and was lying on top of the grass with no penetration marks or disturbance to the ground or nearby vegetation.",
-        "The Air Force investigated the object, examining the terrain and circumstances, and requested assistance from the Army CIC and local OSI, but could not determine the origin of the object.",
-        "The Air Force recommended that the object be forwarded to Wright-Patterson Air Force Base for further analysis and identification."
-    ],
-    "result": "unidentified",
-    "sighted object": "a metal object made of magnesium alloy",
-    "location": "Emmons, Minnesota",
-    "witnesses": "farm owner, sheriff, news photographer",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "On July 7, 1959, a report was made regarding a UFO sighting in Emmons, Minnesota, where a metal object was found and investigated.",
+    "interesting points": "The object was evaluated as a magnesium anode after thorough investigation,The object was significantly corroded and did not show signs of disturbance where it was found,Lawrence J. Tacker addressed correspondence acknowledging the UFO report and the lack of photographic evidence,The sighting included an observer who saw a large metallic object hovering silently in a field,The investigation involved local authorities and multiple communications regarding the object's nature.",
+    "sighted object": "metal object approximately 17 inches long and 5 inches in diameter, estimated to be magnesium alloy",
+    "location": "Emmons, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. X reported seeing a tall, narrow metallic object hovering silently.",
+    "contains photographs": false
 }

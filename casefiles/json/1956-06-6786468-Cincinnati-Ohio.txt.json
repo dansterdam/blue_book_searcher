@@ -1,15 +1,9 @@
 {
-  "main event": "On June 21, 1956, a radar observed an unidentified object in Cincinnati, Ohio for 9 seconds. Radar analysis suggests ground clutter as the probable cause.",
-  "interesting points": [
-    "The observation was made by two meteorologists and an electronics engineer.",
-    "The object appeared as an echo on the radar scope and had moved about 4 to 5 miles within 6 seconds.",
-    "The report indicates that the object's reflective area scattered and faded as it disappeared from view.",
-    "The witness was a 31-year-old male staff meteorologist with college education in physics, math, and postgraduate meteorology.",
-    "The report sought detailed information including the observer's location, time of day, weather conditions, and additional witnesses."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified object observed on radar",
-  "location": "Cincinnati, Ohio",
-  "witnesses": "meteorologists and an electronics engineer",
-  "photographs": "no"
+    "main event": "A radar event involving an unidentified object was observed for 9 seconds on June 21, 1956 in Cincinnati, Ohio.",
+    "interesting points": "The object was initially detected on radar, leading meteorologists to describe the event,The radar analysis concluded that ground clutter was the most likely cause of the signal,Two meteorologists and an electronics engineer were monitoring the radar during the sighting,The echo appeared to move 4 to 5 miles during successive radar sweeps,All observers believed that the refractive field was not caused by weather or other interference.",
+    "sighted object": "unidentified object detected on radar",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Two meteorologists and an electronics engineer",
+    "contains photographs": false
 }

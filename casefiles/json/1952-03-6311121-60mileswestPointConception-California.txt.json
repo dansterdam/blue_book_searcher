@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified object was observed moving at an estimated speed of 3,000 miles per hour in a northwesterly direction near Point Conception, California in 1952.",
-  "interesting points": [
-    "The object was observed on radar at a speed of 3000 MPH, with an estimated constant velocity of 25,000 MPH.",
-    "Both the navigator and radar operator, who had combat experience, witnessed the object and considered it reliable.",
-    "The visual description by the pilot corroborated the electronic data, indicating the existence of a definite unidentified object.",
-    "A yellow-white light was observed, disappearing vertically at a high rate of speed.",
-    "There were no deviations from normal weather conditions to account for the radar anomaly."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified object",
-  "location": "Point Conception, California",
-  "witnesses": "navigator, radar operator, and pilot",
-  "photographs": "no"
+    "main event": "An unidentified object was observed moving at an estimated speed of 3,000 miles per hour in a northwesterly direction near Point Conception, California on 24 March 1952.",
+    "interesting points": "The object was detected on radar with a positive speed calculation of 2,700 knots while flying at an altitude of 23,000 feet., The navigator and radar operator, both experienced in combat missions, were confirmed witnesses., The sighting lasted approximately 1-2 minutes., No weather anomalies were present that could explain the radar readings., The object was described visually as a rapidly moving light.",
+    "sighted object": "unidentified flying object (yellow-white light)",
+    "location": "Point Conception, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "navigator and radar operator both experienced in military combat missions",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "A bright, sparkling object traveling at a high rate of speed was sighted over Las Cruces, New Mexico.",
-    "interesting points": [
-        "The object was described as a greenish-white object emitting a spark.",
-        "The object was sighted to traverse a portion of the sky in a horizontal path.",
-        "The object was in sight for only 4 seconds.",
-        "The witness indicated that the object was a meteor-like object.",
-        "The size, appearance, and duration of the sighting led to the conclusion that the object was most likely a meteor."
-    ],
-    "result": "Probably Meteor",
-    "sighted object": "A bright, sparkling object",
-    "location": "Las Cruces, New Mexico",
-    "witnesses": "Civilian",
-    "photographs": "Yes"
+    "main event": "A civilian reported seeing a bright, sparkling object traveling on a horizontal path in Las Cruces, New Mexico on January 15, 1962.",
+    "interesting points": "This incident marks the third sighting of unidentified flying objects in Las Cruces in about a year., Officer Dan Carde reported similar lights flashing on and off above the Organ Mountains., The object was described as moving at an extremely high rate of speed and exhibited characteristics typical of a meteor., The police department received multiple reports of similar sightings during recent months., There was some debate whether the object was a meteor, balloon, aircraft, or something else altogether.",
+    "sighted object": "bright, sparkling object",
+    "location": "Las Cruces, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer and Officer Dan Carde",
+    "contains photographs": false
 }

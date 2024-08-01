@@ -1,15 +1,9 @@
 {
-  "main event": "On 24 May 1949, a civilian aircraft observed an unconventional object at Rogue River, Oregon. The object was described as round, silver in color, and about the size of a C-47 aircraft, exhibiting no noise, exhaust trail, or maneuvers.",
-  "interesting points": [
-    "The object appeared to be three or four miles away and initially came from the east, later turning to the southwest.",
-    "No photographs were presented, but physical evidence was reported.",
-    "The CAA Weather Station at Medford Airport confirmed the clear weather on the reported date.",
-    "The area where the object was sighted was not under radar coverage by any unit according to the Commanding Officer of the 505th Aircraft Control and Warning Group.",
-    "The report was declassified after 12 years, as per DOD directives."
-  ],
-  "result": "unexplained",
-  "sighted object": "unconventional round object, silver in color, and about the size of a C-47 aircraft",
-  "location": "Rogue River, Oregon",
-  "witnesses": "civilian aircraft, Mrs. [Redacted] and four other persons fishing on the Rogue River",
-  "photographs": "No photographs were presented, but physical evidence was reported"
+    "main event": "Mrs. [Redacted] and four others spotted a round, silver object the size of a C-47 while fishing on the Rogue River near Gold Beach, Oregon on 24 May 1949.",
+    "interesting points": "The object was first seen about three or four miles away,The object made no noise and left no exhaust trail,The object turned from east to southwest during the sighting,The estimated speed of the object was comparable to that of a C-47,Colonel informed that the area was not covered by radar at the time of the sighting.",
+    "sighted object": "a round, silver object approximately the size of a C-47",
+    "location": "Gold Beach, Oregon, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "fishing party members",
+    "contains photographs": false
 }

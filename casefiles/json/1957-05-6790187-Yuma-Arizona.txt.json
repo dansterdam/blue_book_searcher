@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed in Yuma, Arizona on 29th May 1957 at 2200 local time (0400 GMT), moving at an estimated speed of over 600 knots and climbing at a steep angle before disappearing behind trees and buildings.",
-    "interesting points": [
-        "The object was estimated to be 5 times longer than wide and of light grey color.",
-        "No radar or electronics pips were observed, and binoculars were used for the sighting.",
-        "The sighting lasted for 6 to 10 seconds, and it was suggested to be a meteor based on the duration and description.",
-        "The observation was made by a Yuma TV assistant manager under calm and clear conditions.",
-        "The senior director at GOC post in Yuma reported no unusual activity."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "a longer, light grey UFO moving at high speed",
-    "location": "Yuma, Arizona",
-    "witnesses": "Yuma TV assistant manager, senior director at GOC post",
-    "photographs": "no"
+    "main event": "A sighting of an unknown object in Yuma, Arizona on 29 May 1957.",
+    "interesting points": "The observed object was estimated to be 5 times longer than it was wide,The object was light grey and moved at an estimated speed of over 600 knots,The sighting lasted between 6 to 10 seconds,The observer was using 6x10 binoculars while looking at the stars when the object appeared,There were no radar or electronic detections of the object.",
+    "sighted object": "one long, light grey object",
+    "location": "Yuma, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Yuma TV assistant manager",
+    "contains photographs": false
 }

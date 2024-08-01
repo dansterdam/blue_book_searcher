@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Corpus Christi, Texas spotted a glowing white object in the sky on August 29, 1965.",
-    "interesting points": [
-        "The object was round and the size of a dime at arm's length.",
-        "The object was overhead and moved to the northeast before disappearing after about 1 minute.",
-        "The weather conditions at the time included scattered clouds, 15 mile visibility, and no unusual weather activity.",
-        "The Air Force concluded the sighting was of the ECHO II satellite, with a 15 minute time error in the reporting.",
-        "The reliability of the civilian witness was considered to be good."
-    ],
-    "result": "Satellite (ECHO II)",
+    "main event": "A white round object was sighted in Corpus Christi, Texas, on August 27, 1965.",
+    "interesting points": "The object was described as round and the size of a dime at arm's length,The object glowed white when observed,The sighting lasted approximately one minute,The object was moving to the northeast when it disappeared,There was no physical evidence found related to the sighting.",
     "sighted object": "a glowing white round object",
-    "location": "Corpus Christi, Texas",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was in the backyard of a brother's home.",
+    "contains photographs": false
 }

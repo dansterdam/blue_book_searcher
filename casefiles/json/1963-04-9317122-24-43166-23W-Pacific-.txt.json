@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A glowing object resembling a bright star was sighted moving across the sky over the Pacific Ocean.",
-    "interesting points": [
-        "The object was estimated to be at an altitude of 20,000 feet.",
-        "The object was observed for 105 seconds.",
-        "The sighting was reported by the crew of the USNS Gossatut/Tau 77 ship, which was located at coordinates 24°43'N 166°23'W.",
-        "The object was described as glowing and moving very fast to the east.",
-        "The report concludes that there was insufficient data to definitively evaluate the nature of the observed object."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a glowing object resembling a bright star",
-    "location": "Pacific Ocean, coordinates 24°43'N 166°23'W",
-    "witnesses": "crew of the USNS Gossatut/Tau 77 ship",
-    "photographs": "no"
+    "main event": "Report of a glowing object moving across the sky resembling a bright star observed on April 11, 1963.",
+    "interesting points": "The object was observed for approximately 105 seconds., Estimated altitude of the object was 20,000 ft., The case was listed as insufficient data for evaluation., There is a possibility that the object might have been a meteor or astronomical phenomenon., Multiple evaluations included balloon and aircraft as possible explanations.",
+    "sighted object": "glowing object resembling a bright star",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses were described in the report.",
+    "contains photographs": false
 }

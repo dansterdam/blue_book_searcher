@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four objects, two large and two small, formed a rectangular pattern, making sharp or zig-zag maneuvers, and proceeding from north to south at approximately 150 mph.",
-    "interesting points": [
-        "The objects were observed for 45 minutes.",
-        "The objects made sharp or zig-zag maneuvers.",
-        "The observer appeared to be very competent and specific in their report.",
-        "Weather conditions at the time of the sighting were recorded, including cloud cover, wind speeds, and temperature gradients.",
-        "The report indicates that there was no apparent notification from Dickinson, North Dakota, and no known flights of intercept balloons were reported."
-    ],
-    "result": "Possible/Probable",
-    "sighted object": "Four objects, two large and two small, in a rectangular pattern",
-    "location": "20 miles west of Williston, North Dakota",
-    "witnesses": "Civilian",
-    "photographs": "No, the report does not include any photographs"
+    "main event": "Four objects, two large and two small, formed a rectangular pattern and proceeded from north to south at approximately 150 mph.",
+    "interesting points": "The objects made sharp or zig-zag maneuvers., The sighting lasted for 45 minutes., Witness reported no other unusual activities at the time., The observer appeared competent and was described as very logical and coherent., The objects were too distant for the witness to estimate size and color.",
+    "sighted object": "four flying objects arranged in a rectangular pattern",
+    "location": "Williston, North Dakota, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Observer's name was Mr. Williston; age and occupation unknown; described as logical and coherent.",
+    "contains photographs": false
 }

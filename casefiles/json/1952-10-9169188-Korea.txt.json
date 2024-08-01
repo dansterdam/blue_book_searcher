@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Multiple pilots observed a metallic silver, circular object that was able to stop, hover, and change direction at high speeds over Korea in 1952.",
-    "interesting points": [
-        "The object was observed to stop and hover, then continue on at an estimated speed of 800 mph.",
-        "The object was observed at various clock positions, indicating it was maneuvering in different directions.",
-        "The pilots were wearing Air Force-issued sunglasses and goggles, and the object was brighter than the sky background.",
-        "One report describes the object as being approximately 50 feet in diameter and cylindrical in shape.",
-        "The object was observed for about 1 minute before disappearing from view."
-    ],
-    "result": "unexplained",
-    "sighted object": "metallic silver, circular object",
+    "main event": "Various sightings of unidentified aerial objects over Korea in October 1952.",
+    "interesting points": "One observation included a metallic silver round object that changed speed and hovered, A report described 25 circular objects traveling at approximately 200 MPH, which sparkled in the sunlight, An observation of a bright light approaching a C-47 aircraft led to evasive action and gunfire, Pilots were able to confirm that their observations included objects exhibiting high speeds and erratic maneuvers, Multiple reports suggest the possibility of misidentifications related to balloons and other aerial phenomena.",
+    "sighted object": "metallic silver objects and bright lights",
     "location": "Korea",
-    "witnesses": "multiple USAF pilots",
-    "photographs": "no"
+    "number of confirmed witnesses": 4,
+    "witness description": "USAF pilots and crew members",
+    "contains photographs": false
 }

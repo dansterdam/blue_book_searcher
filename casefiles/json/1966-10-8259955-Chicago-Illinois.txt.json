@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness saw a strange light in the sky over Chicago, Illinois on October 30, 1966.",
-    "interesting points": [
-        "The object appeared as a bright, white light larger than the stars and hovering high in the sky.",
-        "The object suddenly split into two parts and turned bright red before slowly fading out.",
-        "The witness estimated the object was about 5 miles high and traveling around 180 mph.",
-        "Through binoculars, the witness described the object as cigar-shaped, transparent, and having what appeared to be a cabin on the underside.",
-        "The witness had never seen anything like this before and was amazed by the size, shape, and behavior of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, white light that split into two parts and turned red",
-    "location": "Chicago, Illinois",
-    "witnesses": "1 civilian witness",
-    "photographs": "yes, the report includes 3 photographs"
+    "main event": "A civilian observer reported seeing a bright light in the night sky over Chicago, Illinois on October 30, 1966.",
+    "interesting points": "The observer described the light as whiter than the stars and larger than a star.,The light briefly split into two parts and turned bright red before disappearing.,The object left a vapor trail and was estimated to be hovering at about 5 miles high.,The observer noted that the speed of the object was approximately 180 mph.,The observer compared the light to aircraft lights but concluded it was not an aircraft due to its altitude and speed.",
+    "sighted object": "a bright white light that split into two parts",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

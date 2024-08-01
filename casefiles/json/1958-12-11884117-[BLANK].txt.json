@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "The image does not contain any visible photographs. It appears to be a document page with the header 'STAFF STUDY DECEMBER 1958' and the text 'UNCLASSIFIED' at the top. The bottom portion of the page is redacted.",
-    "interesting points": [
-        "There are 49 UFO organizations in the Zone of Interior in addition to many individual self-proclaimed experts.",
-        "The people reporting UFOs are mostly honest American citizens, including eminent authorities, who feel strongly about what they saw.",
-        "Investigations conducted by various Air Force installations are often inadequate, with issues like complacency, delays, lack of competent investigators, and slow reporting processes.",
-        "Many private UFO organizations are well-equipped and conduct comprehensive field investigations, which can make the Air Force appear lacking in comparison.",
-        "There is a need to strengthen ATIC support of the UFO program, including developing a trained and equipped group of investigators, using GRT aircraft for rapid response, and preparing an SOP addendum to AFR 200-2."
-    ],
-    "result": "unexplained",
-    "sighted object": "unspecified",
-    "location": "unspecified",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "A document from December 1958 outlines issues and proposed improvements in the U.S. Air Force's UFO investigation program.",
+    "interesting points": "The report mentions the existence of 49 UFO organizations competing with the Air Force for reports., It highlights how complacency within the Air Force has led to inadequate investigations of UFO sightings., The report describes a proposed volunteer force of investigators to improve responses to sightings., It indicates that a significant percentage of early UFO reports were misclassified as unknowns., The document stresses the need for prompt and accurate investigations to counteract public and organizational scrutiny.",
+    "sighted object": "unidentified flying objects (UFOs)",
+    "location": "Wright-Patterson Air Force Base, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The report discusses various eyewitnesses without specific details about individual witnesses.",
+    "contains photographs": false
 }

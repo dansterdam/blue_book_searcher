@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person in Marietta, Ohio sighted a red, disc-shaped craft with a dome on it in 1968.",
-    "interesting points": [
-        "The object came closer to the observer, then changed course and flew towards the Big Dipper constellation before going out of sight.",
-        "The object had a red light and yellow lights.",
-        "The observer sketched the object's position and movement in relation to the horizon and compass directions.",
-        "The Air Force sent the observer a form to fill out with more details about the sighting.",
-        "The report includes a hand-drawn sketch of the observed object, showing its shape and colors."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red, disc-shaped craft with a dome",
-    "location": "Marietta, Ohio",
-    "witnesses": "1 civilian observer",
-    "photographs": "none"
+    "main event": "A civilian reported sighting a red disc-shaped UFO with yellow lights in Marietta, Ohio on July 25, 1955.",
+    "interesting points": "The object was observed for about ten minutes,The sighting involved an object that appeared to come from the direction of the constellation Hercules,The observer noted conflicting data about the object's course,The observer described the object as having glowing yellow lights and a red body,There was no physical evidence or photographs provided with the report.",
+    "sighted object": "red disc-shaped UFO with yellow lights",
+    "location": "Marietta, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian who submitted the report",
+    "contains photographs": false
 }

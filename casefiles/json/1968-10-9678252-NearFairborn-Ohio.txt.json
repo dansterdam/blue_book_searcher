@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported seeing one unidentified object near Fairborn, Ohio on October 9, 1968.",
-    "interesting points": [
-        "The sighting lasted for 10 minutes.",
-        "The witness could not determine any definite movements or other discernible characteristics of the object.",
-        "The witness described the object as possibly being a cloud at a higher altitude.",
-        "The Air Force requested additional information from the witness to further investigate the sighting, but the address provided by the witness was invalid.",
-        "The Air Force concluded there was insufficient data to evaluate the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified object",
-    "location": "Near Fairborn, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A UFO was reported to be sighted near Fairborn, Ohio on October 9, 1968.",
+    "interesting points": "The observation lasted for 10 minutes,The report was flagged for insufficient data for scientific investigation,The reporting witness indicated no previous sightings of a similar phenomenon,The address provided by the observer was deemed nonexistent,No physical evidence was reported alongside the sighting.",
+    "sighted object": "unidentified aerial phenomenon",
+    "location": "Fairborn, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "one civilian observer",
+    "contains photographs": false
 }

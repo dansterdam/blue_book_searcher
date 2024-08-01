@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Civilians in Pittsburgh, Pennsylvania reported seeing multiple burning objects descending slowly from the sky over the last two years.",
-    "interesting points": [
-        "The objects had fiery trails and descended slowly before disappearing.",
-        "A taxi driver reported seeing around 20 of these objects in the last two years, which they initially thought were falling stars.",
-        "The taxi driver and a Mr. Johnson observed one of the objects closely, noting it turned in a semi-circle before disappearing.",
-        "The objects were described as lighting up the area around the Pittsburgh airport, with beams of light extending up into the sky.",
-        "The report was forwarded to the Foreign Technology Division of the Air Force for further investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple burning objects with fiery trails descending from the sky",
-    "location": "Pittsburgh, Pennsylvania",
-    "witnesses": "taxi driver, Mr. Johnson",
-    "photographs": "no"
+    "main event": "A Yellow Cab driver in Pittsburgh reported seeing lights that he initially thought were falling stars, which descended slowly and had fiery trails.",
+    "interesting points": "The driver observed at least 20 similar objects over the last two years.,Mr. Johnson and another witness saw a light that descended and turned around in a semi-circle.,The lights appeared to burst up like searchlights a thousand feet above the ground.,The official documents reveal interest from the Air Force regarding these meteor sightings., The report includes correspondence with the American Meteor Society related to the observations.",
+    "sighted object": "burning objects with fiery trails",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "A Yellow Cab driver and two other individuals",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian in Hazel Green, Wisconsin reported seeing three elongated, bright discs in the sky on April 11, 1960.",
-    "interesting points": [
-        "The objects were described as elongated discs, with a bright, brilliant color.",
-        "The objects hovered and moved slowly, eventually fading from view after 1-2 minutes.",
-        "The sighting occurred on a clear day with westerly winds around 2-10 knots.",
-        "The Air Force's analysis indicated the sighting was likely a misidentification of conventional aircraft, possibly due to publicity around a recent UFO sighting in the Dubuque, Iowa area.",
-        "There was a report of a 17-year-old student seeing a round, silver object hovering over their home for 3-4 minutes before leaving at high speed, but no conclusive information on the cause."
-    ],
-    "result": "Inconclusive, likely misidentification of conventional aircraft",
-    "sighted object": "Three elongated, bright discs",
-    "location": "Hazel Green, Wisconsin",
-    "witnesses": "Civilian",
-    "photographs": "None"
+    "main event": "A resident of Hazel Green, Wisconsin, reported a sighting of a bright, silver-colored object in the sky on April 4, 1960.",
+    "interesting points": "The object was observed for approximately 2-3 minutes and was moving slowly in an east to west direction., It was described as being about three times the size of a jet aircraft., The object showed no trails, vapor, or exhaust during its movement., A close inspection of the object later confirmed it was still visible and of the same size., A new 5 mm UFO movie filmed by a local man was submitted to the Air Force for analysis.",
+    "sighted object": "a bright, silver-colored object",
+    "location": "Hazel Green, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. J. W., a resident engaged in routine farming activities.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A long, brush-shaped object was observed in the sky over Duluth, Minnesota in February 1963.",
-    "interesting points": [
-        "The object was observed for only 3 seconds.",
-        "The object was moving northward slowly.",
-        "The object did not appear to be a meteor.",
-        "The observer believed the object was a meteoric.",
-        "Several other UFO reports were received in the Duluth area on the same night."
-    ],
-    "result": "unexplained",
-    "sighted object": "a long, brush-shaped object",
-    "location": "Duluth, Minnesota",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A long tail, brush shaped object was observed in the sky in Duluth, Minnesota in February 1963.",
+    "interesting points": "The object appeared to move slowly and was heading northward., The sighting lasted for approximately 3 seconds., The observer believed the object was not a meteor., There were multiple reports of unidentified flying objects on February 14, 1963., The object was described as larger than a jet aircraft and illuminated the area with a bright light.",
+    "sighted object": "a long tail, brush shaped object",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several witnesses in Kokomo, Indiana reported seeing bright, oval-shaped lights moving rapidly back and forth in the sky on July 22, 1966.",
-    "interesting points": [
-        "The lights appeared bluish-white in color and shaded off to darkness at the edges.",
-        "There was disagreement among the witnesses about whether the sky was cloudy or clear at the time of the sighting.",
-        "The witnesses described the lights as moving with fast, jerky motions and remaining within a generally oval area spanning about 30 degrees.",
-        "The investigators determined that the lights were likely from searchlights in Indianapolis, about 40 miles to the south, and the cloud cover allowed the lights to be seen clearly from Kokomo.",
-        "The fast motions and oval shapes of the lights were attributed to the angles of observation and the way the searchlight beams interacted with the cloud layers."
-    ],
-    "result": "Likely explanation found",
-    "sighted object": "Bright, oval-shaped lights",
-    "location": "Kokomo, Indiana",
-    "witnesses": "Multiple civilians, including a sheriff's deputy and his wife",
-    "photographs": "None"
+    "main event": "On July 22, 1966, multiple witnesses observed oval patches of bluish-white lights moving rapidly in the sky over Kokomo, Indiana.",
+    "interesting points": "The sighting lasted approximately 50 minutes with a total of twelve witnesses present,There were conflicting accounts about cloud coverage during the sighting, with half stating it was clear and the other half indicating it was cloudy,The color of the lights was described as bluish-white resembling a mercury-vapor light,The lights appeared to emit a halo effect, with no beams of light seen reaching the ground,The investigation suggested that the lights could be explained as searchlights from Indianapolis, 40 miles away.",
+    "sighted object": "oval patches of bluish-white lights",
+    "location": "Kokomo, Indiana, US",
+    "number of confirmed witnesses": 12,
+    "witness description": "civilians including a Deputy Sheriff and various residents",
+    "contains photographs": false
 }

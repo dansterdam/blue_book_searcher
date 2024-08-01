@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "An orange, star-shaped object the size of a pinpoint was observed traveling from south to north in a wavering fashion over Greenwood Lake, New Jersey.",
-    "interesting points": [
-        "The object was observed for about 50 seconds.",
-        "The sighting was a ground-visual observation.",
-        "The report indicates that photographs were taken, but none are included in the document.",
-        "The report states that there is too little information to make a correct evaluation of the sighting.",
-        "The report was filed through military channels, involving various Air Force commands."
-    ],
-    "result": "unexplained",
-    "sighted object": "orange, star-shaped object",
-    "location": "Greenwood Lake, New Jersey",
-    "witnesses": "civilian",
-    "photographs": "yes, but not included in the document"
+    "main event": "An orange, star-shaped object was observed traveling from south to north over Greenwood Lake.",
+    "interesting points": "The object was the size of a pinpoint and moved in a wavering fashion., The observation lasted for 50 seconds., The sighting was classified as a possible UFO due to insufficient information for proper evaluation., The observation was made by a civilian., There were no additional details about other witnesses or conditions during the sighting.",
+    "sighted object": "one orange, star-shaped object",
+    "location": "Greenwood Lake, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

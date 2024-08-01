@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A large, bright, low-flying object with a cigar-shaped configuration was silently observed moving across the sky.",
-    "interesting points": [
-        "The object had a cigar-shaped configuration.",
-        "The object was observed moving silently across the sky.",
-        "The object disappeared behind trees.",
-        "The sighting was carefully recorded in accordance with standard Project Blue Book reporting procedures.",
-        "The report is from a Project Blue Book document."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, bright, low-flying object with a cigar-shaped configuration",
-    "location": "Creston, Iowa",
-    "witnesses": "local observer",
-    "photographs": "none"
+    "main event": "A local observer saw a large, bright, low-flying cigar-shaped object silently moving across the sky for 3-5 minutes.",
+    "interesting points": "The observer noted that the object was bright and had a cigar shape.,The object was low-flying and disappeared behind trees.,The sighting was conducted with ground-visual observation.,The report is part of the Project Blue Book documentation.,No photographs were included with the sighting report.",
+    "sighted object": "large bright cigar-shaped object",
+    "location": "Creston, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Local observer",
+    "contains photographs": false
 }

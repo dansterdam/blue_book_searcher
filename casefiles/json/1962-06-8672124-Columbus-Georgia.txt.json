@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar detected five unidentified targets moving at high speeds near Columbus, Georgia in 1962.",
-    "interesting points": [
-        "The closest target was about 8 miles south-southwest of the radar site at an altitude of 11,500 feet.",
-        "The targets were tracked for about 3 minutes before disappearing from the radar scope.",
-        "The targets were traveling at ground speeds of 800-900 knots.",
-        "No visual sightings of the objects were made.",
-        "The incident was reported as a qualified radar detection and forwarded to OSIC for further investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "five unidentified radar targets",
-    "location": "Columbus, Georgia",
-    "witnesses": "radar and air traffic control personnel",
-    "photographs": "no"
+    "main event": "An unidentified flying object was detected on ground radar for 15 minutes, showing intermittent pings.",
+    "interesting points": "The object was noted on radar, moving SE to NW but was not visually identified,The object hovered momentarily at low altitude before accelerating away at high speed,The sighting occurred on the night of May 15, 1962, in Columbus, Georgia,The object was described as having a bright, discoidal shape and yellowish-amber color,No photographic evidence was available for this report.",
+    "sighted object": "radar detected object",
+    "location": "Columbus, Georgia, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground radar operator",
+    "contains photographs": false
 }

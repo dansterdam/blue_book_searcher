@@ -1,15 +1,9 @@
 {
-    "main event": "Pinkish bluish reddish clouds in an irregular pattern, reported as a UFO sighting",
-    "interesting points": [
-        "The sighting conformed with the observation of a contrail",
-        "The source continually wrote to the Air Force about UFOs and ridiculed the handling of the 'so-called problem'",
-        "The sighting of 28 May was similar to many reported observations of aircraft contrails with the sun behind them",
-        "Several 'White Sands' sightings had no information developed to indicate anything unusual",
-        "The sighting of Miss _____ on 13 April was over Wyoming at 7:35 PM and heading southeast"
-    ],
-    "result": "Contrails",
-    "sighted object": "Pinkish bluish reddish clouds in an irregular pattern",
-    "location": "Not specified",
-    "witnesses": "Unknown",
-    "photographs": "None"
+    "main event": "A report detailing various UFO sightings and the evaluation of observations related to aircraft contrails.",
+    "interesting points": "The report discusses pinkish bluish reddish clouds and concludes they conform to normal contrails., The Air Force received correspondence about handling UFO sightings., One sighting involved a cigar-shaped unidentified object estimated to be 30-40 feet long., A sighting in 1954 in Philadelphia included a bright white light moving rapidly., It was noted that missing radar tracks do not indicate unidentified aerial vehicles.",
+    "sighted object": "cigar-shaped object and pinkish bluish reddish clouds",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A witness observed an unidentified cigar-shaped object for about 25-30 seconds.",
+    "contains photographs": false
 }

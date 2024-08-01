@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright object was observed moving steadily towards Essex in Kent, England.",
-    "interesting points": [
-        "The object was quite bright in appearance and was lost from sight within about 5 minutes.",
-        "The object was at a high altitude and moving steadily towards Essex.",
-        "It was not possible to estimate the size or speed of the object.",
-        "The report concludes that the information was sufficient to establish the existence of the object and make an assessment.",
-        "The object was observed over a longer period and performed significant maneuvers."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A bright, unidentified object",
+    "main event": "Police officers observed a bright object in Kent, England, moving steadily towards Essex on the night of September 23, 1964.",
+    "interesting points": "The object was observed heading in a northerly direction before disappearing from sight at approximately 11:00 p.m.,The observation lasted for a few minutes, but data was insufficient for evaluation,No physical evidence was recorded,The object's altitude was high but its size and speed could not be estimated,The case was referred for further evaluation by the U.S.A.F.",
+    "sighted object": "a bright object in the sky",
     "location": "Kent, England",
-    "witnesses": "Police officers",
-    "photographs": "None"
+    "number of confirmed witnesses": 2,
+    "witness description": "Police Officers",
+    "contains photographs": false
 }

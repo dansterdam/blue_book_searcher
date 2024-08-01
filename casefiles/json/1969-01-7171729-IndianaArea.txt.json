@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The observer sighted a bright light to the NNE. After about 50 minutes the light appeared to drift away and disappeared.",
-    "interesting points": [
-        "The observer thought the light may have been a balloon, but no further information was gathered since the complete address was not given.",
-        "The report is from a Project Blue Book record, which was the U.S. Air Force's investigation of unidentified flying objects.",
-        "The form includes various questions about the observer's experience with the unidentified phenomenon, including the date, time, location, and other details.",
-        "The form also includes a sketch area where the observer is instructed to indicate the position and movement of the phenomenon.",
-        "The report does not contain any photographs, only text and forms related to the sighting."
-    ],
-    "result": "Probable BALLOON",
-    "sighted object": "a bright light",
-    "location": "Indiana Area",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "An observer sighted a bright light in the sky believed to be a UFO, lasting approximately 50 minutes before drifting away.",
+    "interesting points": "The observer initially thought the object might be a balloon., The sighting occurred on May 25, 1965, from 1:30 PM to 2:00 PM., The phenomenon was described as a pulsating light that could not be accurately described., The observer used binoculars for a clearer view of the phenomenon., There were no other witnesses reported or physical evidence left by the phenomenon.",
+    "sighted object": "a bright pulsating light in the sky",
+    "location": "Indiana Area, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer provided an account with limited personal information.",
+    "contains photographs": false
 }

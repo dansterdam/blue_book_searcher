@@ -1,15 +1,9 @@
 {
-    "main event": "A radar operator at Arcata Air Force Station in California observed an unidentified aerial object on radar on April 7, 1960.",
-    "interesting points": [
-        "The object was detected on radar at about 15 miles northeast of the station at an altitude of 6,000 feet.",
-        "The object was moving in a straight line at a constant speed of approximately 1,000 mph.",
-        "The object was also visible to the naked eye and was illuminated with a bright light.",
-        "The object suddenly disappeared from the radar scope after about 1 minute of observation.",
-        "No unusual atmospheric conditions or meteorological phenomena were evident at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fast-moving illuminated object detected on radar",
+    "main event": "On April 7, 1960, a witness observed a bright aerial object from a radar station near Arcata, California. It was detected moving at approximately 1,000 mph before vanishing from the radar.",
+    "interesting points": "The object was first detected 15 miles northeast of the radar station at an altitude of 6,000 feet., The object exhibited characteristics not associated with conventional aircraft, such as extreme speed and sudden disappearance., The witness described the object as illuminated with a bright light visible to the naked eye., The sighting lasted approximately 1 minute before the object was lost from radar., Weather conditions at the time were clear with no unusual atmospheric phenomena.",
+    "sighted object": "unidentified aerial object",
     "location": "Arcata, California",
-    "witnesses": "radar operator",
-    "photographs": "no photographs included"
+    "number of confirmed witnesses": 1,
+    "witness description": "Airman First Class, stationed at the USAF RDF (Radio Direction Finding) station",
+    "contains photographs": false
 }

@@ -1,18 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white object with a small white tail was observed in the sky between California and Hawaii.",
-    "interesting points": [
-        "The object appeared to be falling like a shooting star, with an elevation of 29 degrees and a bearing of 91 degrees.",
-        "The object disappeared behind a cloud and was visible for about 1 minute.",
-        "The object was as bright as a first magnitude star.",
-        "The sighting occurred at coordinates 28°31'N 137°19.3'W.",
-        "The object was observed by 2 navigators and an assisting quartermaster."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white object with a small white tail",
-    "location": "Pacific Ocean between California and Hawaii",
-    "coordinates": "28°31'N 137°19.3'W",
-    "witnesses": "2 navigators and an assisting quartermaster",
-    "photographs": "none"
+    "main event": "A reddish-white, blurred, stationary light was observed at the horizon while flying between California and Hawaii on May 8, 1962.",
+    "interesting points": "The object was observed for 15 minutes,The light had no definite shape or motion,No other aircraft or contrails were seen in the area,Insufficient data was available for thorough evaluation,The case was classified as having insufficient information.",
+    "sighted object": "stationary reddish-white light",
+    "location": "Pacific Between Calif & Hawaii",
+    "number of confirmed witnesses": 3,
+    "witness description": "2 navigators and an assisting quartermaster",
+    "contains photographs": false
 }

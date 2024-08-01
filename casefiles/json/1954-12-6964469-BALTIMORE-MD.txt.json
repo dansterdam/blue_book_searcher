@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A round, white object with an orange color that changed to a 'frown of cream proportions' and had a 20-foot tail was observed in Baltimore, Maryland on December 6, 1954.",
-    "interesting points": [
-        "The object failed to leave the ground and remained stationary at 60-degree elevation and 90-degree right ascension.",
-        "The sighting lasted for 1 minute.",
-        "The object was observed at an elevation of 1,000 feet.",
-        "There were 5 additional UFO sightings reported in the Baltimore area on December 27, 1954, but only one remained unidentified.",
-        "No photographs were obtained in connection with any of the reports."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, white object with an orange color that changed to a 'frown of cream proportions' and had a 20-foot tail",
-    "location": "Baltimore, MD",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A resident of Baltimore reported observing a very distant ball-shaped object with a bright blinking red light on 27 December 1954.",
+    "interesting points": "The object was seen for approximately 3 minutes,The observer described the object as having bright blinking lights,Military aircraft were also misidentified as UFOs during this time,Five UFO cases were reported in the Baltimore area during the period,One case remains unidentified while others were attributed to aircraft, balloons, or celestial objects.",
+    "sighted object": "distant ball-shaped object with bright blinking red light",
+    "location": "Baltimore, MD, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "resident of Baltimore",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple flashing lights were observed in the sky over Seymour Johnson AFB, North Carolina on October 23, 1966.",
-    "interesting points": [
-        "The lights were described as flashing red and white, with 5 or 6 objects observed.",
-        "The objects displayed erratic flashing and small movements, generally traveling southeast.",
-        "The observation lasted for about 5 minutes.",
-        "No air traffic was detected in the area and the radar did not pick up anything unusual.",
-        "Two distinct flights of migrating geese were observed at approximately the same time as the reported lights."
-    ],
-    "result": "unexplained",
-    "sighted object": "5-6 flashing red and white lights in the sky",
-    "location": "Seymour Johnson AFB, North Carolina",
-    "witnesses": "Military personnel",
-    "photographs": "no"
+    "main event": "Flashing lights were observed at Seymour Johnson AFB, NC, with erratic movements, potentially misidentified as UFOs.",
+    "interesting points": "The observation lasted for approximately 5 minutes., Five to six flashing lights were noted in red and white colors., No radar detected any air traffic in the vicinity., Two flights of migrating geese were observed at the same time., The report concluded the lights could possibly be attributed to the geese or environmental factors.",
+    "sighted object": "flashing red and white lights",
+    "location": "Seymour Johnson AFB, North Carolina, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Sgt. and two A2C personnel from the 201 17th Comm Sq (RAPCON)",
+    "contains photographs": false
 }

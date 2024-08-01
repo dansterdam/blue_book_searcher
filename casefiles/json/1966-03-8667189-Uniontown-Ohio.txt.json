@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright light, brighter than a star, was observed traveling very fast in the sky over Uniontown, Ohio on March 16, 1966.",
-    "interesting points": [
-        "The object first appeared traveling north, then changed direction and traveled in a straight line before disappearing.",
-        "The observer reported that the object seemed to 'light up' and then went out completely before continuing forward and disappearing over the horizon.",
-        "The elapsed time of the sighting was 5-7 minutes.",
-        "The observer tried to report the sighting to the Akron-Canton station and the Akron City airport control tower.",
-        "The observer felt that the government should investigate these 'space crafts' as they appear to be superior to ours and could have easily destroyed us."
-    ],
-    "result": "Satellite (Echo II)",
-    "sighted object": "a bright light, brighter than a star",
-    "location": "Uniontown, Ohio",
-    "witnesses": "2 men",
-    "photographs": "no"
+    "main event": "Two men observed a very bright light in the sky on March 16, 1966, which traveled very fast and changed direction.",
+    "interesting points": "The light was brighter than Venus and appeared to travel northward parallel to the horizon,The sighting lasted for 5 to 7 minutes,The object suddenly lit up and then went out completely before disappearing over the horizon, The observer attempted to report the sighting to the Akron-Canton station but received no response, Major Hector Quintanilla expressed concerns about the implications of such sightings and the need for government investigation.",
+    "sighted object": "a very bright light in the sky",
+    "location": "Uniontown, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two men observing the sky",
+    "contains photographs": false
 }

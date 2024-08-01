@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A bright white light was sighted in the sky, which was stationary at first and then started moving rapidly and oscillating back and forth.",
-  "interesting points": [
-    "The observer was driving in an automobile at the time and the object was quite close or quite large.",
-    "The description, other than the noise, is consistent with that of a satellite.",
-    "The Air Force requested the witness to complete a detailed questionnaire about the sighting.",
-    "The questionnaire included detailed questions about the time, location, weather conditions, appearance of the object, and the witness's observations.",
-    "The witness was asked to provide a sketch or diagram to show the motion and position of the object in the sky."
-  ],
-  "result": "Possible satellite",
-  "sighted object": "a bright white light",
-  "location": "Desoto, Missouri",
-  "witnesses": "a civilian observer",
-  "photographs": "no, the report does not include any photographs"
+    "main event": "An observer sighted a bright white light in the sky on 20 Aug 1959.",
+    "interesting points": "The light was stationary at first, then started moving rapidly and oscillating back and forth., The observer was driving in an automobile at the time., The object was described as quite close or quite large., The sighting lasted for about 15 minutes., The conclusion suggests that the sighting may have been of a satellite.",
+    "sighted object": "bright white light in the sky",
+    "location": "Desoto, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

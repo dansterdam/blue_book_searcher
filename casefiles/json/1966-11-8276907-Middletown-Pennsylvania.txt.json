@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a bright white object moving at high speed across the sky in Middletown, Pennsylvania on November 23, 1966.",
-    "interesting points": [
-        "The object was a bright white light that appeared to be metallic and had an intense orange light emanating from the outside edges.",
-        "The object hovered motionless for about 5 minutes, then suddenly accelerated to a very high speed and disappeared without a sound.",
-        "The witness estimated the speed of the object to be around 1,600 mph and the distance to be about 2 miles away.",
-        "The witness had a longstanding interest in UFO sightings and some knowledge of the phenomenon.",
-        "The sighting was reported to the authorities on November 6, 1966."
-    ],
-    "result": "astro(meteor)",
-    "sighted object": "a bright white, metallic object with an intense orange light",
-    "location": "Middletown, Pennsylvania",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "main event": "An observer watched a bluish white star-like object across the sky for about six seconds.",
+    "interesting points": "The object was reported to be moving at a speed of 113 MPH,The sighting happened on November 22, 1966, during the nighttime,The object disappeared upward in a flash for a split second,The observer estimated the object's speed at 1,600 MPH and its distance at 2 miles,The object appeared as a bright white light with an intense orange light emanating from the edges.",
+    "sighted object": "bluish white star-like object",
+    "location": "Middletown, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a 52-year-old male with a long-standing interest in sightings of flying objects.",
+    "contains photographs": false
 }

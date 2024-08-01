@@ -1,15 +1,9 @@
 {
-  "main event": "On 31 July 1954 at 22/0500Z, a bright star-sized object was observed traveling at high speed and following an erratic course from Dallas, Texas, making wide circles of the airport.",
-  "interesting points": [
-    "The object was described as the size of a bright star, traveling at a terrific speed, and following an erratic course.",
-    "Witnesses reported the object making wide circles around the airport in Dallas.",
-    "Photographs were taken during the observation.",
-    "The conclusion indicated insufficient data for firm analysis, with options for it being a balloon, aircraft, or astronomical object, but ultimately marked as unknown.",
-    "The report includes communication exchanges about the sighting between individuals and the Air Technical Intelligence Center at Wright Field in Dayton, Ohio."
-  ],
-  "result": "Unknown",
-  "sighted object": "Bright star-sized object traveling at high speed",
-  "location": "Dallas, Texas",
-  "witnesses": "Civilians in Dallas and Air Technical Intelligence Center at Wright Field",
-  "photographs": "Yes"
+    "main event": "A bright star-sized object was observed traveling at high speed in an erratic course over Dallas, Texas.",
+    "interesting points": "The object was observed making wide circles around the airport,The sighting was recorded on 31 July 54,The duration of the observation is unknown,There were indications that it could be a balloon or aircraft but insufficient data for firm analysis,An attorney named Talbot was involved in the report.",
+    "sighted object": "bright star-sized object",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians including an attorney and his friend",
+    "contains photographs": false
 }

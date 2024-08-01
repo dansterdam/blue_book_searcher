@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A reddish object was sighted in the sky over Centerville, Ohio on July 15, 1962.",
-    "interesting points": [
-        "The object appeared as a light and was brighter than the brightest stars.",
-        "The object changed brightness and may have flashed or flickered at times.",
-        "The witness was sitting on their porch when they noticed the object in the daytime sky.",
-        "The witness could not determine an exact distance or speed for the object.",
-        "No photographs were taken of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a reddish light in the sky",
-    "location": "Centerville, Ohio",
-    "witnesses": "one person",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported on September 13, 1962, in Centerville, Ohio, involving one object observed over a duration of five years.",
+    "interesting points": "The sighting is classified as an aircraft type., The course of the object was toward the north., The sighting was reported in detail on a U.S. Air Force Technical Information Sheet., The document emphasizes the confidentiality of the observer's information., Multiple unfilled questionnaire sections suggest extensive data was collected about the phenomenon.",
+    "sighted object": "one unidentified flying object",
+    "location": "Centerville, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Details about witnesses are redacted.",
+    "contains photographs": false
 }

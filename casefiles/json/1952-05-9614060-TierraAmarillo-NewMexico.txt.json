@@ -1,15 +1,9 @@
 {
-    "main event": "Unidentified flying object observed in Tierra Amarilla, New Mexico on May 20, 1952.",
-    "interesting points": [
-        "The object was observed on radar, appearing as three targets on two radar scopes.",
-        "The object was tracked for approximately 40 seconds, moving at a speed of around 1,800 mph.",
-        "The radar operators who observed the object were considered to be very reliable and trustworthy.",
-        "The sighting was reported to higher command, including the Director of Intelligence at USAF headquarters.",
-        "The report indicates that the sighting warranted further scrutiny as a possible unidentified aerial object."
-    ],
-    "result": "unexplained",
+    "main event": "An unidentified flying object was reported over Tierra Amarilla, New Mexico on 25 May 1952, potentially traversing at high speeds and identified through radar.",
+    "interesting points": "The object was observed on radar as three fires on two scopes., One pilot reported a circular yellow object traveling at estimated speeds of 600 to 1,000 mph., The radar contact was maintained as the object moved at various speeds before disappearing., It was reported that the observations of the target warranted further scrutiny as a possible unidentified aerial object., The reliability of the airmen involved in the sighting was considered trustworthy.",
     "sighted object": "unidentified flying object",
-    "location": "Tierra Amarilla, New Mexico",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "location": "Tierra Amarilla, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "airmen considered reliable and trustworthy in performance of their duties",
+    "contains photographs": false
 }

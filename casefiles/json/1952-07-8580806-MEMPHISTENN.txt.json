@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An unidentified flying object was observed from Memphis, Tennessee on July 24, 1952.",
-    "interesting points": [
-        "The object was described as a 'white light' that appeared to be moving too fast for an aircraft and did not have the appearance of a known aircraft.",
-        "The object was sighted by a Memphis Municipal Airport Traffic Controller and two other witnesses.",
-        "The weather conditions at the time were clear with good visibility, and the winds aloft were light and variable, not strong enough or in the proper direction to carry a balloon.",
-        "No air traffic was reported in the area, and there was no commercial evidence or attempted interception of the object.",
-        "The primary witness, the Memphis Municipal Airport Traffic Controller, was considered a capable observer in the field."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white light",
-    "location": "Memphis, Tennessee",
-    "witnesses": "Memphis Municipal Airport Traffic Controller, two other persons",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed over Memphis, Tennessee on 24 July 1952.",
+    "interesting points": "The sighting was reported by a Memphis Municipal Airport Traffic Controller and two other witnesses., The object was described as a white light moving too fast for an aircraft and did not resemble a meteor., No air traffic was reported in the vicinity at the time of the sighting., Weather conditions were clear with unlimited visibility during the sighting., The primary witness's occupation qualifies him as a capable observer.",
+    "sighted object": "a white light moving in a northeasterly direction",
+    "location": "Memphis, Tennessee, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Memphis Municipal Airport Traffic Controller and two other persons",
+    "contains photographs": false
 }

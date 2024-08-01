@@ -1,15 +1,9 @@
 {
-    "main event": "A pilot spotted an orange, erratic object descending near Syracuse, New York on 25/05/22.",
-    "interesting points": [
-        "The object was observed for only 2 seconds.",
-        "The object's movement was described as 'orange, erratic down'.",
-        "The report states there is 'insufficient data for evaluation'.",
-        "The sighting was reported by a pilot from the 49th Fighter Interceptor Squadron.",
-        "The weather conditions at the time were reported as 'good', with unlimited visibility."
-    ],
-    "result": "unknown",
+    "main event": "A UFO sighting involving one orange object observed erratically descending near Syracuse, New York on 25/05/22.",
+    "interesting points": "The sighting lasted only 2 seconds., The object was reported to be orange in color., The type of observation was classified as ground-visual., Insufficient data was noted for further evaluation., The sighting occurred during nighttime conditions.",
     "sighted object": "one orange object",
-    "location": "Near Syracuse, New York",
-    "witnesses": "pilot",
-    "photographs": "no"
+    "location": "Syracuse, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

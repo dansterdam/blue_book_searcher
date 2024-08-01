@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two bright reddish-orange objects were sighted traveling side by side, rotating continuously over Route 146 towards Worcester airport.",
-    "interesting points": [
-        "The objects were sighted by a civilian pilot.",
-        "The objects were visible for 10-15 minutes.",
-        "The Worcester airport reported no aircraft traffic in the vicinity at the time of the sighting.",
-        "The description of the flight path and maneuvers could equate to a helicopter, but there were no helicopters stationed in the local area at the time.",
-        "The report was inconclusive, with the investigators unable to determine what the objects were."
-    ],
-    "result": "inconclusive",
-    "sighted object": "two bright reddish-orange rotating objects",
-    "location": "Worcester, Massachusetts",
-    "witnesses": "civilian pilot",
-    "photographs": "no"
+    "main event": "Two objects were sighted traveling side by side over Route 146 towards Worcester airport, rotating continuously, and appearing bright reddish-orange in color.",
+    "interesting points": "The sighting lasted between 10 to 15 minutes,The objects were observed by a civil pilot at night,Airport reports indicated no traffic in the vicinity at the time of the sighting,Objects did not seem to be blocked by any security measures as no holes in fences were reported,Pilot used a helios-3 wind instrument during the observation.",
+    "sighted object": "two bright reddish-orange objects",
+    "location": "Worcester, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civil pilot",
+    "contains photographs": false
 }

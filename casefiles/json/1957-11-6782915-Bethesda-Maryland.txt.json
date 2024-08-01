@@ -1,15 +1,9 @@
 {
-    "main event": "A lightning-like object was observed for half a second in the sky.",
-    "interesting points": [
-        "The object traversed the distance between two points at its base, indicating it may have been a meteor.",
-        "The object appeared greenish-reddish in color at the base.",
-        "The sighting was reported by an observer driving an automobile in Bethesda, Maryland.",
-        "The sighting occurred on November 15, 1957 at GMT 12/2332Z.",
-        "The report concludes the sighting was possibly a meteor."
-    ],
-    "result": "possibly a meteor",
-    "sighted object": "a lightning-like object",
-    "location": "Bethesda, Maryland",
-    "witnesses": "a driver",
-    "photographs": "none"
+    "main event": "A brief observation of a lightning-like object was reported on 15 November 1957.",
+    "interesting points": "The observation lasted for only 1/2 second., The sighting was likely that of a meteor., The description includes mentions of air-visual guidance and radar evaluation., The report was part of Project Blue Book's investigations into UFOs., Various conclusions listed include satellite, balloon, and insufficient data.",
+    "sighted object": "lightning-like object",
+    "location": "Bethesda, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer was driving an auto",
+    "contains photographs": false
 }

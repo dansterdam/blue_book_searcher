@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report text you provided:
-
 {
-    "main event": "A single unidentified flying object was observed for 1.5 hours over Philadelphia, Pennsylvania on September 18, 1954.",
-    "interesting points": [
-        "The object was observed in an elliptical formation by a civilian witness.",
-        "The object was sighted when the witness was looking at the sky, at an elevation of 45 degrees due south.",
-        "The object moved to the west and disappeared below the horizon.",
-        "The observation lasted for 1 hour and 30 minutes.",
-        "The witness described the manner of observation as 'good'."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified flying object",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "a civilian witness",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A ground visual observation of a single unidentified flying object in Philadelphia lasting for 1.5 hours.",
+    "interesting points": "The object was observed in an elliptical formation,The observation had a clear view and good conditions,The object disappeared below the horizon after moving to the west,There were no photographs taken of the object,The sighting was recorded as part of Project 10073 related to UFO investigations.",
+    "sighted object": "one unidentified flying object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian with operational background",
+    "contains photographs": false
 }

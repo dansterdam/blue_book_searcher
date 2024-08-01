@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A strange light was sighted from the control tower at Webb AFB in Texas, moving erratically and disappearing from view.",
-    "interesting points": [
-        "The object was described as 2-3 bright white lights, moving erratically and appearing to travel about 1-2 miles.",
-        "The tower reported the object to radar, but they could not detect it.",
-        "The object was initially sighted at 7 degrees above the horizon, 270 degrees from the Webb AFB tower, later moving westward.",
-        "The object faded from sight, then reappeared dimmer and at a lower altitude before disappearing again.",
-        "The sighting was observed by three highly qualified agencies - the control tower, a weather observer, and a detachment from the 8th Weather Group."
-    ],
-    "result": "unexplained",
-    "sighted object": "2-3 bright white lights",
-    "location": "Webb AFB, Texas",
-    "witnesses": "Control tower, weather observer, Air Force detachment",
-    "photographs": "none"
+    "main event": "Bright lights were observed moving erratically for 3 minutes at Webb AFB, Texas.",
+    "interesting points": "The lights were reported as bright white and changed positions before vanishing., The lights were reported to the control tower, which could not detect them on radar., The probable sighting was attributed to Venus., The sighting lasted for about 3 minutes., The observation was made by qualified tower operators.",
+    "sighted object": "two to three bright lights in the sky",
+    "location": "Webb AFB, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "qualified control tower operators including TSGT and CAPT",
+    "contains photographs": false
 }

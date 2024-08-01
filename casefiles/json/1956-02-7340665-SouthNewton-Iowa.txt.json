@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Several people in South Newton, Iowa observed a bright, triangular-shaped object maneuvering silently in the sky on February 7, 1956.",
-    "interesting points": [
-        "The object appeared larger and brighter than the stars.",
-        "The object moved slowly to the east and disappeared from view in approximately 10 minutes.",
-        "The report number is 7340665.",
-        "Other people in the area also reported seeing the object.",
-        "No evaluation was provided due to insufficient data."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, triangular-shaped object",
-    "location": "South Newton, Iowa",
-    "witnesses": "several civilians",
-    "photographs": "no"
+    "main event": "On February 7, 1956, multiple witnesses in South Newton, Iowa, observed a bright, triangular-shaped object silently maneuvering in the sky.",
+    "interesting points": "The object was described as brighter and larger than the stars in the sky.,The sighting lasted approximately 10 minutes.,Witnesses reported that the object moved slowly to the east before disappearing.,There were multiple confirmed observers of the event.,The object was noted to be triangular in shape.",
+    "sighted object": "triangular-shaped bright object",
+    "location": "South Newton, Iowa, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "not detailed in the report",
+    "contains photographs": false
 }

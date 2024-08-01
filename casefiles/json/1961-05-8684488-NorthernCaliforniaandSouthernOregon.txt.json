@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was spotted in Northern California and Southern Oregon on July 3, 1961.",
-    "interesting points": [
-        "The object appeared to be well-defined, oval in shape, and white to slightly yellow in color, with a few small lights that seemed to be part of the object.",
-        "The object moved from the northwest to the southeast at an apparent speed of 3 to 5 degrees per second, dipped slightly below the horizon, and became obscured by trees.",
-        "The witness was a reliable observer with 6 years of experience, and his description of the object's characteristics and movement is consistent with an astronomical object or aircraft.",
-        "The object was concluded to possibly be an aircraft or a balloon, or an astronomical phenomenon.",
-        "The sighting was reported to have occurred in multiple locations in Northern California and Southern Oregon."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "An oval-shaped, white to slightly yellow object with small lights",
-    "location": "Northern California and Southern Oregon",
-    "witnesses": "Multiple reliable observers",
-    "photographs": "No photographs present"
+    "main event": "A well-defined, oval object was sighted in Northern California and Southern Oregon on July 3, 1961.",
+    "interesting points": "The object was white to slightly yellow in color with a few small lights., It moved from northwest to southeast at an apparent speed of 3 to 5 degrees per second., The object dipped below the horizon and was obscured by trees., The observer had 6 years of experience and was deemed reliable., Conclusions suggested the object was likely either an aircraft or an astronomical phenomenon.",
+    "sighted object": "one oval object with lights",
+    "location": "Northern California and Southern Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a reliable observer with 6 years of experience",
+    "contains photographs": false
 }

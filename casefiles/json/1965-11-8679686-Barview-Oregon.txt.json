@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A round, white object was observed moving up and down by multiple witnesses near the horizon in Barview, Oregon on November 11, 1965.",
-  "interesting points": [
-    "The object was the size of a quarter coin.",
-    "The object was observed by four other people besides the primary witness.",
-    "The object disappeared into the clouds after about 10 minutes of observation.",
-    "There were no exhaust or propulsion details observed.",
-    "The weather conditions were overcast and raining at the time of the sighting."
-  ],
-  "result": "unexplained",
-  "sighted object": "round, white object",
-  "location": "Barview, Oregon",
-  "witnesses": "multiple, including a grocery store owner",
-  "photographs": "none"
+    "main event": "A round, white object the size of a quarter coin was seen moving up and down near the horizon and disappeared into clouds after ten minutes.",
+    "interesting points": "The sighting was confirmed by four other witnesses., The object was first observed through a spotting scope., The object moved in a straight flight path before disappearing., Military aircraft were confirmed to be in the area but at a much higher altitude., The weather conditions were overcast and raining at the time of the sighting.",
+    "sighted object": "a round, white object",
+    "location": "Barview, Oregon, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "grocery store owner, aged 38",
+    "contains photographs": false
 }

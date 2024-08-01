@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light was observed moving rapidly across the sky in Glassboro, New Jersey on September 6, 1964.",
-    "interesting points": [
-        "The object was estimated to be at an altitude of 1,000-2,000 feet and moving at a speed of 500-1,000 mph.",
-        "On September 9, 1964, Mr. and Mrs. Joseph Tantum observed a silver, circular object approximately 30 feet in diameter hovering about 2 feet above the ground near Barrens Pond.",
-        "The object was illuminated in a blue-white color and slowly rose from the ground and moved silently away to the north.",
-        "On September 12, 1964, a witness named Anthony J. Luciano observed a bright, pulsating red light around the outer edge of a round object with a bluish-white light in the center.",
-        "Physical traces were found at the site, consisting of impressions on the ground where the object apparently hovered, and soil samples were collected for analysis."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light, a silver circular object, and a round object with pulsating red and bluish-white lights",
-    "location": "Glassboro, New Jersey",
-    "witnesses": "Mrs. Mildred Schwartz, Mr. and Mrs. Joseph Tantum, Anthony J. Luciano, and local police officers",
-    "photographs": "yes, the report includes 6 photographs"
+    "main event": "On 6 September 1964, Mrs. Mildred Schwartz observed a bright red-orange light hovering over her backyard in Glassboro, New Jersey.",
+    "interesting points": "The object was described as round with no visible fins or tail., Mrs. Schwartz observed the object for approximately 2-3 minutes., The object moved rapidly east before disappearing., Mr. and Mrs. Joseph Tantum also reported seeing a silver colored object approximately 30 feet in diameter hovering near Barrens Pond., The police received multiple reports of bright lights in the sky that night and collected soil samples from an area where an object had previously hovered.",
+    "sighted object": "bright red-orange light and silver colored object",
+    "location": "Glassboro, New Jersey, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mrs. Mildred Schwartz and Mr. and Mrs. Joseph Tantum",
+    "contains photographs": false
 }

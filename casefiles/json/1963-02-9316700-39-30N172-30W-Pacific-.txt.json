@@ -1,15 +1,9 @@
 {
-    "main event": "A military object was sighted moving erratically in the Pacific Ocean on August 17, 1963.",
-    "interesting points": [
-        "The object was sighted moving at 20 degrees above the horizon, then disappeared at 20 degrees below the horizon.",
-        "The object reappeared momentarily 15 minutes later.",
-        "The report suggests the object may have been a satellite in an unusual orbiting motion.",
-        "The sighting was reported by military sources.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "inconclusive",
-    "sighted object": "one unidentified object",
-    "location": "Pacific Ocean, 39-30N 172-30W",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "main event": "An object was sighted moving erratically at 20 degrees above the horizon and disappeared at 20 degrees below the horizon. It reappeared momentarily 15 minutes later.",
+    "interesting points": "The sighting lasted for about 10 minutes,The object was tracked via ground radar,The object was reported to be moving in an unusual orbiting motion,There is speculation that the object may have been a satellite,The report was sourced from military observations.",
+    "sighted object": "one object moving erratically",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel observing from ground radar",
+    "contains photographs": false
 }

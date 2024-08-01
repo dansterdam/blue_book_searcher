@@ -1,15 +1,9 @@
 {
     "main event": "A bright, round object was observed falling rapidly to the south over Richmond, California on 6 March 1953.",
-    "interesting points": [
-        "The observation lasted approximately 30 seconds, and the object was described as having a short pointed fall.",
-        "Possible explanations listed include balloon, meteor, aircraft, and astronomical object.",
-        "There was insufficient data for evaluation of whether the sighting was a hoax.",
-        "The report suggests that it was a possible meteor sighting.",
-        "The observation took place at 1930 hours local time."
-    ],
-    "result": "prozaic explanation",
-    "sighted object": "bright, round object falling rapidly to the south",
-    "location": "Richmond, California",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "interesting points": "The object was observed for approximately 30 seconds,The sighting occurred in the evening at 1930,The possible explanations for the sighting include a balloon, meteor, or aircraft,The object's trajectory was a short pointed fall,There was insufficient data for a conclusive evaluation.",
+    "sighted object": "a bright, round object",
+    "location": "Richmond, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none provided",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian witness observed an unidentified flying object near Broomall, Pennsylvania on August 4, 1966.",
-    "interesting points": [
-        "The object appeared to have 3 windows and emitted a slight light.",
-        "The object moved slowly at first, then rapidly gained altitude and disappeared in the distance.",
-        "The witness estimated the object was about the size of a fist held at arm's length.",
-        "The object made no sound and was observed for 3-5 minutes.",
-        "The witness reported the sighting to the Air Force on August 8, 1966."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, disc-shaped object with 3 windows",
-    "location": "Broomall, Pennsylvania",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in Broomall, Pennsylvania, on August 4, 1966, for a duration of 3 to 5 minutes.",
+    "interesting points": "The object appeared to have 3 windows,The observer noted that the light from the object was brighter than usual and seemed strange,The object moved southward, gained altitude, then turned northward and disappeared,Two red lights were also observed accompanying the object,The conclusion was that the object could NOT have been an aircraft.",
+    "sighted object": "unidentified object with lights and three windows",
+    "location": "Broomall, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer saw a strange bright light in the sky at night.",
+    "contains photographs": false
 }

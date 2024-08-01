@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "3 or more unidentified objects were observed over Richards Gebaur AFB in Missouri on July 25, 1965.",
-    "interesting points": [
-        "The objects were initially thought to be satellites (ECHO I & II) and a star cluster.",
-        "The objects were described as having a reddish light, hovering, and moving to the southeast direction before disappearing.",
-        "The sighting lasted approximately 10 minutes.",
-        "The witness was a female telephone operator from Kansas City, Missouri, whose reliability was considered good.",
-        "The weather conditions included clear skies, high scattered clouds, and 15-mile visibility."
-    ],
-    "result": "unexplained",
-    "sighted object": "3 or more unidentified objects",
-    "location": "Richards Gebaur AFB, Missouri",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "main event": "Observation of 3 or more objects at Richards Gebaur AFB in Missouri on July 25, 1965.",
+    "interesting points": "The observation was recorded by military personnel., The conclusion categorized the objects as satellites (ECHO I & II) and a star cluster., There is no physical evidence, only visual observation., The report indicates that the observation took place at night., Witness reliability was described as good for the primary observer.",
+    "sighted object": "three or more unidentified flying objects",
+    "location": "Richards Gebaur AFB, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. **********, 34, Kansas City, MO, telephone operator",
+    "contains photographs": false
 }

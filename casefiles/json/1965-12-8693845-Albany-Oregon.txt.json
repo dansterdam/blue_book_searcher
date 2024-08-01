@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian observer spotted a pea-sized white object moving away from a star in Albany, Oregon on December 22, 1965.",
-    "interesting points": [
-        "The object was like a star in appearance and moved in a straight line, fading into a cloud formation.",
-        "The sighting lasted for 3-4 minutes.",
-        "Two Boeing 727 civilian aircraft were traveling in the area at the time of the sighting.",
-        "The report concluded the sighted object was likely one of the Boeing 727 aircraft.",
-        "No unusual activity or meteorological phenomena were reported."
-    ],
-    "result": "identified (satellite/aircraft)",
-    "sighted object": "pea-sized white object", 
-    "location": "Albany, Oregon",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian reported a sighting of an object resembling a star moving in a straight line before fading into a cloud formation in Albany, Oregon.",
+    "interesting points": "The sighting lasted for approximately 4 minutes., The object was described as 'pea size' and 'white like a star.', It faded into a cloud formation after moving away from another star., Two civilian Boeing 727 aircraft were traveling southward nearby at the time of the sighting., The report concluded that the object was likely a satellite.",
+    "sighted object": "an object resembling a star",
+    "location": "Albany, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, male, age 32",
+    "contains photographs": false
 }

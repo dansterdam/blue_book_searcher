@@ -1,15 +1,9 @@
 {
-    "main event": "A ground-visual sighting of one silver, baseball-sized object flying east was reported in Cresco, Iowa in June 1956.",
-    "interesting points": [
-        "The object was observed for about one minute.",
-        "The report indicates the sighting was 'probable a/c' (probably an aircraft).",
-        "The report was filed by military personnel.",
-        "The report was distributed to various military commands, including the Air Defense Command and the Air Technical Intelligence Center.",
-        "The report includes coded military communication and a date-time group indicating when the report was filed."
-    ],
-    "result": "probable aircraft sighting",
-    "sighted object": "one silver, baseball-sized object",
-    "location": "Cresco, Iowa",
-    "witnesses": "military personnel on duty",
-    "photographs": "yes, the report indicates photos were taken, but they are not present in the provided information"
+    "main event": "A ground-visual observation of a silver object the size of a baseball flying east in Cresco, Iowa in June 1956.",
+    "interesting points": "The sighting lasted one minute., The object was reported to be the size of a baseball and silver in color., The object was observed flying east., The report came from a civilian source., There are no photographs included in the report.",
+    "sighted object": "a silver object the size of a baseball",
+    "location": "Cresco, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

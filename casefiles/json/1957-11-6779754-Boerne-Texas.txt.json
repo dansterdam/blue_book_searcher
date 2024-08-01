@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a luminous white object flying at high speed in a straight line over Boerne, Texas on February 22, 1952.",
-    "interesting points": [
-        "The object was observed for 10-15 minutes and was described as a luminous white object traveling at a very rapid speed with no sound.",
-        "The object was seen in a straight line over the trees.",
-        "The object was estimated to be several miles away and appeared similar to a light bulb in the sky.",
-        "The witness did not see the moon during the sighting, but it came out after the object disappeared.",
-        "A similar incident was briefly reported at the same location within the past two years."
-    ],
-    "result": "unidentified",
+    "main event": "A luminous white object was observed traveling at high speed with no sound for 10-15 minutes near Boerne, Texas.",
+    "interesting points": "The object was described as moving in a straight line at very rapid speed and emitted no sound., A witness reported seeing the object for approximately 10-15 minutes., The object was noted to have a bright orange color, resembling a light bulb in the sky., Witnesses described the object as being round or egg-shaped and not very high in the sky., Similar incidents were reported in the area within the past two years.",
     "sighted object": "a luminous white object",
-    "location": "Boerne, Texas",
-    "witnesses": "1 witness",
-    "photographs": "none"
+    "location": "Boerne, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnesses described seeing the object at a distance characterized by its bright light and its lack of movement.",
+    "contains photographs": false
 }

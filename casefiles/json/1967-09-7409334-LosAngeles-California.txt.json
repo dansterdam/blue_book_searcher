@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A rock-like object and a small metal slug were submitted for analysis after being reported to have fallen from the sky in Hawthorne, California on September 21, 1967.",
-    "interesting points": [
-        "The rock-like object was analyzed and found to be either slag or a naturally occurring material, but a definitive identification was not possible.",
-        "The metal slug was analyzed and determined to be unalloyed iron, a common type of steel that can be found in any scrapyard.",
-        "The Air Force Materials Laboratory at Wright-Patterson Air Force Base in Ohio conducted the analysis and provided the conclusions.",
-        "The incident generated considerable local media interest, and the Air Force requested assistance in providing a plausible explanation.",
-        "The materials were forwarded to the Air Force's Foreign Technology Division at Wright-Patterson AFB for further study and analysis."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a rock-like object and a small metal slug",
-    "location": "Hawthorne, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An object was observed on a doorstep in Los Angeles, California on September 7, 1967.",
+    "interesting points": "The object was described as rock-like and fist-sized,Materials submitted for analysis included a rock-like sample and a metal slug,It was concluded that the large object is probably a piece of ordinary rock,It was suggested that the metal piece is unalloyed iron,The incident generated media interest, although the objects were determined to be common materials.",
+    "sighted object": "rock-like object and a small metal slug",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

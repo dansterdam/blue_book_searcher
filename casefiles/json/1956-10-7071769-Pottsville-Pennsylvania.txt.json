@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver, disc-shaped object was observed above 10,000 ft. over Pottsville, Pennsylvania.",
-    "interesting points": [
-        "The object was the size of a silver dollar.",
-        "According to instrument readings, the object moved to the edge of the observer's elevation at 5,000 ft. and then suddenly disappeared.",
-        "The observer reported a red glow behind the object.",
-        "The object was observed for about 3.5 hours, remaining mostly stationary with only slight drifting.",
-        "A local pilot and photographer attempted to get a closer look at the object, but were unable to take any photographs as it remained above 6,000 ft."
-    ],
-    "result": "possible astronomical or balloon",
-    "sighted object": "a silver, disc-shaped object",
-    "location": "Pottsville, Pennsylvania",
-    "witnesses": "a radio engineer",
-    "photographs": "no, the report indicates no photographs were taken"
+    "main event": "A silver-shaped object was observed above 10,000 ft for one hour on March 15, 1956.",
+    "interesting points": "The object was the size of a silver dollar and was moving towards the edge of elevation before disappearing., According to instrument readings, it was at an altitude above 13,222 ft., A local pilot and photographer attempted to get closer to the object but could not capture any photographs., The observation lasted for one hour and included ground visual and binoculars., The conclusion suggested it might be a possible astronomical phenomenon.",
+    "sighted object": "one silver-shaped object",
+    "location": "Pottsville, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a radio engineer",
+    "contains photographs": false
 }

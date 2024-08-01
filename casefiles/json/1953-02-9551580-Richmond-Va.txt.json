@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military officer observed an unidentified elliptical object flying over Richmond, Virginia on November 24, 1952.",
-    "interesting points": [
-        "The object was described as a distinct, bright, white phosphorus-like light that was rectangular and narrow in shape.",
-        "The object was estimated to be flying at an altitude of 3 to 5 thousand feet and at a speed less than that of a jet aircraft.",
-        "No sound was heard, and the object did not exhibit any maneuvers, disappearing in a normal straight-line path.",
-        "The report was one of several made by a Colonel George E. Perry, USAF, who was considered a reliable witness.",
-        "An hour after the sighting, the officer visited another USAF Colonel, James Barry, to report the incident and initiate an investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified elliptical object",
-    "location": "Richmond, Virginia",
-    "witnesses": "military officer",
-    "photographs": "no"
+    "main event": "On 10th February 1953, an Air Force colonel and several civilians observed unusual aerial objects in Richmond, Virginia.",
+    "interesting points": "Observation described objects as circular, luminous, and moving rapidly; Sightings reported by four individuals at the Richmond Quartermaster Depot; One witness mentioned the objects traveled at high altitudes and disappeared at a fast speed; Observations took place in clear weather conditions; The investigation concluded the sightings might have been due to a contrail of a jet aircraft.",
+    "sighted object": "two circular, luminous objects",
+    "location": "Richmond, Virginia, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "civilians and an Air Force colonel working in the Richmond area",
+    "contains photographs": false
 }

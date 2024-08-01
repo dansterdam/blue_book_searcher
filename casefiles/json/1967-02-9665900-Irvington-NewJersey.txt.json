@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a strange, silvery metallic object over Irvington, New Jersey in 1964.",
-    "interesting points": [
-        "The object appeared round and had a silvery metallic appearance.",
-        "It was observed at an altitude of approximately 1,000 to 1,500 feet, moving in an irregular pattern, sometimes stopping and hovering, then moving off again.",
-        "The object was observed for about 20 minutes before it disappeared.",
-        "The object did not make any sound that the witness could hear.",
-        "In a separate sighting, two observers watched a bright light that was round in shape and stationary, then moved quickly to the left and disappeared."
-    ],
-    "result": "Probable natural phenomenon (meteor)",
-    "sighted object": "A round, silvery metallic object; a bright light that was round in shape and stationary",
-    "location": "Irvington, New Jersey",
-    "witnesses": "Civilian observers",
-    "photographs": "None"
+    "main event": "Observers witnessed a bright light in the sky over Irvington, New Jersey, which was later determined to be a hot air balloon.",
+    "interesting points": "The observers initially thought the bright light was an unidentified flying object but later confirmed it was a hot air balloon with an electronic device attached., The sighting lasted for about 20 minutes., One observer reported the object was round with a silvery metallic appearance., The balloon was seen at an altitude of 1000 to 1500 feet moving in an irregular pattern., A separate report noted a round stationary light that moved quickly to the left and disappeared after six seconds.",
+    "sighted object": "bright light in the sky",
+    "location": "Irvington, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 25-year-old male who was alone during the sighting.",
+    "contains photographs": false
 }

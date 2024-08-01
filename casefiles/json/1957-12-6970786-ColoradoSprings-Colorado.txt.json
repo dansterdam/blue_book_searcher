@@ -1,15 +1,9 @@
 {
-    "main event": "A luminous object was sighted in the sky over Colorado Springs, Colorado on December 17, 1957.",
-    "interesting points": [
-        "The object appeared to be like a comet streak with a reddish front, tapering toward the rear with sparks.",
-        "The object was bluish-white in color and about the size of a pea.",
-        "The object made no sound.",
-        "The sighting lasted for only 3 seconds.",
-        "The object appeared to slow down, change direction, and then descend quickly towards Pikes Peak before disappearing."
-    ],
-    "result": "unknown",
-    "sighted object": "luminous object with comet-like appearance",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "HQ USAF personnel, 2LT William T. Niven (Assistant Chief, Support Division, ADCOI, and Intelligence)",
-    "photographs": "yes"
+    "main event": "An unidentified flying object resembling a comet was sighted in Colorado Springs, Colorado on December 17, 1957.",
+    "interesting points": "The object had a reddish front and emitted sparks, It appeared to be the size of a pea and was bluish white in color, The sighting lasted for approximately 3 seconds, The initial analysis suggested it could be a balloon or aircraft, The observer was a civilian construction engineer who watched the object along with an Air Force lieutenant.",
+    "sighted object": "comet-like object with reddish front and sparks",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a civilian construction engineer and an Air Force lieutenant",
+    "contains photographs": false
 }

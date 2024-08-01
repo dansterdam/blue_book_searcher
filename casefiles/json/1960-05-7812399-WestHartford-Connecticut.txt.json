@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted an unidentified object in the sky over West Hartford, Connecticut on two occasions in May 1960.",
-    "interesting points": [
-        "The object was described as an oval, long object with a bright white pinpoint apparently on a luminous red and green oblong body that flickered.",
-        "The object was first seen in the west-northwest and northwest, few degrees above the horizon, and last seen in the northeast and east, few degrees above the horizon.",
-        "The sightings lasted 10-15 minutes each.",
-        "The object maneuvered in the sky.",
-        "The report concludes that the object was most likely an aircraft that appeared unusual due to factors like viewing angle, lighting conditions, and atmospheric effects."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oval, long object with a bright white pinpoint apparently on a luminous red and green oblong body that flickered",
-    "location": "West Hartford, Connecticut",
-    "witnesses": "civilian witness",
-    "photographs": "none"
+    "main event": "On May 3 and 6, 1960, a civilian reported a sighting of an unidentified flying object in West Hartford, Connecticut.",
+    "interesting points": "The object was described as an oval, long shape with bright white pinpoint lights on a luminous red and green body,The object maneuvered in the sky and was observed for 10-15 minutes,The witness was in an area crisscrossed by many airways with numerous flying aircraft both military and civilian,The colors suggestive of running lights used on aircraft were noted,The witness has a background in aircraft observation, possibly affecting his perception of the sighting.",
+    "sighted object": "an oval, long object with bright white pinpoint and luminous red and green body",
+    "location": "West Hartford, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian possibly familiar with aircraft due to jet engine testing work",
+    "contains photographs": false
 }

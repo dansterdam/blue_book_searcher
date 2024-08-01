@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "On June 5, 1952 at around 9:00 PM, a bright, elliptical-shaped object was sighted over Dallas, Texas by a group of approximately 300-400 people at a drive-in theater.",
-    "interesting points": [
-        "The object appeared to be metallic and silent, with no visible exhaust or other features.",
-        "The object hovered stationary for several minutes, then moved at a very high rate of speed across the sky, disappearing behind trees.",
-        "Many of the witnesses reported the same observations of the object.",
-        "The object was described as very bright and appeared to be hovering before rapidly moving across the sky.",
-        "The sighting lasted for several minutes before the object disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, elliptical-shaped metallic object",
-    "location": "Dallas, Texas",
-    "witnesses": "group of approximately 300-400 people at a drive-in theater",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A bright light, elliptical in shape, was observed moving at a very high speed over Dallas, Texas, in 1952, with approximately 300-400 witnesses at a drive-in theater.",
+    "interesting points": "The object hovered stationary for several minutes before moving rapidly across the sky,The control tower operator reported a bright light moving from north to south at high speed,The object was silent and showed no exhaust or other features,Many attendees at the drive-in theater reported similar observations,The incident was reported in detail to the Air Force for further investigation.",
+    "sighted object": "bright elliptical light",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 300,
+    "witness description": "civilians in a drive-in theater",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, unidentified object was observed in the eastern sky moving slowly from south to north before disappearing.",
-    "interesting points": [
-        "The object was observed through binoculars and appeared larger than a star, very bright, and moving slowly.",
-        "The observer was unable to determine the exact nature of the object.",
-        "The object was sighted for approximately 10 minutes.",
-        "No sound or trail was observed from the object.",
-        "The weather at the time was clear."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A bright, unidentified object",
-    "location": "Glenside, Pennsylvania",
-    "witnesses": "1 observer",
-    "photographs": "No, the report does not include any photographs."
+    "main event": "An unidentified bright object was observed in the eastern sky moving from south to north before disappearing.",
+    "interesting points": "The object was observed through binoculars,It appeared very bright and larger than a star,The observation lasted for about 10 minutes,No sound or trail was observed during the sighting,The weather was clear at the time of the sighting.",
+    "sighted object": "unidentified bright object",
+    "location": "Glenside, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Individual reporting observed the object through binoculars.",
+    "contains photographs": false
 }

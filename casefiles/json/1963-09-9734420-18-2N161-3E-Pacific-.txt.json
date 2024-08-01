@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright blue-white streak of light that illuminated the ship and horizon for 1-2 seconds was observed in the Pacific Ocean.",
-    "interesting points": [
-        "The object was described as a bright streak of light that was observed for a duration of 5 seconds.",
-        "The object produced blue and red sparks, as well as blue streaks.",
-        "The sighting was observed by multiple lookouts on the ship.",
-        "The weather conditions were clear at the time of the sighting.",
-        "The object was below the horizon and did not deliver anything to the ship."
-    ],
-    "result": "Meteor sighting of fireball class",
+    "main event": "A bright streak of light illuminated the ship and horizon with a blue-white glow observed on 8 September 1963.",
+    "interesting points": "The sighting lasted approximately 5 seconds,The object was described as a streak of such brilliance that it lit up the surroundings,The sighting was classified as a meteor sighting of fireball class,Documentation originates from Project Blue Book,The sighting included descriptions of blue-red sparks and blue streaks.",
     "sighted object": "bright streak of light",
-    "location": "Pacific Ocean, 16°1.3'N",
-    "witnesses": "ship lookouts",
-    "photographs": "no"
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 4,
+    "witnesses": "lookouts on the ship",
+    "photographs": false
 }

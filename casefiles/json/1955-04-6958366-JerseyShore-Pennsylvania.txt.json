@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "Several civilians reported seeing an unidentified metallic, disc-shaped object near the Jersey Shore in Pennsylvania in 1955.",
-    "interesting points": [
-        "The object was described as being approximately 50-75 feet in diameter and moving at high speeds estimated between 600-800 mph.",
-        "The object was observed maneuvering erratically, hovering, and then accelerating rapidly.",
-        "The object was visible for approximately 4-10 minutes during each sighting.",
-        "No sound or sonic booms were associated with the object's movements.",
-        "Investigators concluded the sightings represented an actual unconventional aerial object of unknown identity and origin."
-    ],
-    "result": "unidentified",
-    "sighted object": "metallic, disc-shaped object",
-    "location": "Jersey Shore, Pennsylvania",
-    "witnesses": "civilian observers, including a Civil Air Patrol and Air Force personnel",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Witnesses reported seeing unidentified flying objects near Jersey Shore, Pennsylvania on multiple occasions, with various descriptions and observations recorded.",
+    "interesting points": "On 23 April 1955, a civilian reported seeing 4 unidentified flying objects that stood still before rising slowly., An object was described as round, luminous, and about 50 feet in diameter, observed maneuvering at high speeds., The sightings included multiple observers with consistent accounts., One report mentioned a round bright light moving rapidly and silently for approximately 3 minutes., Investigators concluded the objects did not correspond to known aircraft or natural phenomena.",
+    "sighted object": "unidentified flying objects, round luminous object, round bright light",
+    "location": "Jersey Shore, Pennsylvania, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Civilian witnesses and Civil Air Patrol personnel, reliable and consistent in their accounts.",
+    "contains photographs": false
 }

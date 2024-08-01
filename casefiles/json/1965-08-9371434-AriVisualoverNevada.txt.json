@@ -1,15 +1,9 @@
 {
-    "main event": "A visual observation of an unidentified object over Nevada, as reported in a Project Blue Book UFO record.",
-    "interesting points": [
-        "The object was observed at an altitude of approximately 17,000 feet.",
-        "The object appeared to be round, flat on the bottom and top, and light gray in color.",
-        "The object had no wings, tail, or visible propulsion system.",
-        "The object's movement was smooth and stabilized, with no apparent motion noise.",
-        "The object was tracked by radar and observed by a ground observer at Nellis Air Force Base."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, flat, light gray object in the sky",
-    "location": "Nevada",
-    "witnesses": "USAF personnel at Nellis Air Force Base",
-    "photographs": "no, the report does not mention any photographs"
+    "main event": "A visual observation of a round, light gray object over Nevada was reported on August 6, 1965.",
+    "interesting points": "The object was observed at approximately 17,000 feet,The observation lasted between 10 to 15 minutes,The object had a round shape, flat on the bottom and top,There were no wings, tail, or visible propulsion observed,The object moved smoothly and was tracked by radar.",
+    "sighted object": "round, flat object",
+    "location": "Ari, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground observer at Nellis AFB",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two objects shaped like helicopters, the size of a DC-3 aircraft, were observed with one light on top and one on the bottom, disappearing over the horizon.",
-    "interesting points": [
-        "The objects were described as having the characteristics of aircraft, though the information was limited.",
-        "The objects were observed for about 1.5 minutes.",
-        "Weather conditions at the time of the sighting included scattered clouds.",
-        "The sighting location was near a lake.",
-        "The objects were observed by visual sighting and through binoculars."
-    ],
-    "result": "Possibly Aircraft",
-    "sighted object": "Two helicopter-shaped objects with lights",
-    "location": "Eastlake, Ohio",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "Two objects shaped like helicopters, the size of a DC-3, were observed in Eastlake, Ohio, on June 7, 1960, and disappeared over the horizon after 1.5 minutes of observation.",
+    "interesting points": "The objects had one light on top and one light on the bottom., The sighting was made through binoculars., The objects disappeared moving from west to east., The report contained acknowledgments of possible explanations including balloons and aircraft., The sighting falls under the Project Blue Book documentation.",
+    "sighted object": "two helicopter-shaped objects",
+    "location": "Eastlake, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observation made through binoculars",
+    "contains photographs": false
 }

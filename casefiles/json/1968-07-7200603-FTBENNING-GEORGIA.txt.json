@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light was observed that seemed to climb and disappear into the cloud cover at approximately 35 degrees elevation from the observer's location.",
-    "interesting points": [
-        "The light appeared to rise in the observer's course.",
-        "The observer was requested to complete an AF Form 117 but had not done so as of 8 September 1959.",
-        "The report mentions that the information received was not sufficient for a scientific investigation, and the observer was requested to complete the attached AF Form 117 and return it.",
-        "The report was forwarded to the Foreign Technology Division at Wright-Patterson AFB, Ohio.",
-        "The report mentions that the sighting was made without any optical aids, and the location was in front of the 6th CC bn headquarters on Fort Benning, Georgia."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A bright light",
-    "location": "Fort Benning, Georgia",
-    "witnesses": "Military observer (Major Randolph Reese)",
-    "photographs": "No"
+    "main event": "A military observer reported a sighting of a bright light that seemed to climb and disappear into the cloud cover at Fort Benning, Georgia on 1 July 1968.",
+    "interesting points": "The light was observed at approximately 35 degrees elevation from the observer's location., The observer noted that the light appeared to rise in its trajectory., No photographs were available in the report., The observer used no optical aids and sighted the object with the naked eye., The observer was a military personnel stationed at Fort Benning.",
+    "sighted object": "a bright light in the sky",
+    "location": "Fort Benning, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Randolph Reese, a Major in the military, stationed at Headquarters, 6th CC Bn, Ft Benning, GA.",
+    "contains photographs": false
 }

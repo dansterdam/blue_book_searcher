@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed an unidentified object over Tucson, Arizona on October 7, 1967.",
-    "interesting points": [
-        "The object was described as a bright, silver-colored circular object about 30-40 feet in diameter.",
-        "The object hovered for several minutes before shooting straight up and disappearing.",
-        "No sound was heard associated with the object.",
-        "The Air Force initiated an investigation into the sighting.",
-        "The case was ultimately classified as 'unidentified' due to a lack of conclusive evidence."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, silver-colored circular object",
-    "location": "Tucson, Arizona",
-    "witnesses": "a civilian witness",
-    "photographs": "no photographs were taken"
+    "main event": "On October 7, 1967, multiple witnesses in Tucson, Arizona reported seeing unidentified flying objects with distinct characteristics, including bright lights and unusual movements.",
+    "interesting points": "The object was described as circular and luminous, appearing to hover for several minutes before rapidly accelerating upward., At least one sighting involved a bright white light larger than a star, observed for approximately 10 minutes., Witnesses reported the object making no sound during the observations., The Air Force concluded that there was insufficient evidence to identify the objects, classifying the cases as 'Unidentified'., An investigation by the U.S. Air Force did not yield any conclusive explanation for the sightings but noted witness credibility.",
+    "sighted object": "unidentified flying objects",
+    "location": "Tucson, Arizona, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "witnesses included private citizens and an air traffic controller, reporting on the object's characteristics and behavior.",
+    "contains photographs": false
 }

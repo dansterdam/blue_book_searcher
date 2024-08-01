@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a bright, maneuverable oval-shaped object in the sky near San Angelo, Texas on November 21, 1967.",
-    "interesting points": [
-        "The object appeared to be the size of a dime at arm's length, then seemed to get smaller and larger again.",
-        "The object changed direction several times and was very bright, at times appearing to be the size of a grapefruit at arm's length.",
-        "The object hovered and then disappeared suddenly.",
-        "The witness was driving and continued to observe the object until it finally disappeared.",
-        "The object seemed to move behind some trees on the witness's land as it moved away."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, maneuverable oval-shaped object",
-    "location": "near San Angelo, Texas",
-    "witnesses": "one civilian witness",
-    "photographs": "no"
+    "main event": "A bright light was observed in the sky by a witness driving on US Highway 67 near San Angelo, Texas, at around 7:45 pm on September 16, 1967.",
+    "interesting points": "The light was described as larger than any conventional aircraft and appeared pulsating and flickering., The sighting lasted approximately 15-20 minutes before the light disappeared suddenly., 16-20 other objects were reported, with 7-8 being clearly observed., The objects flew in an irregular array at high speeds and made sharp turns., The observer, who is a student in flight school, marked the sighting as a first-time event.",
+    "sighted object": "a bright light in the sky",
+    "location": "San Angelo, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "the witness and their spouse, both impressed by the unusual nature of the sighting",
+    "contains photographs": false
 }

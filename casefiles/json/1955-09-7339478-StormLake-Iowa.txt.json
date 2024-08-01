@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single unidentified object was observed for 20 minutes over Storm Lake, Iowa on September 25, 1955.",
-    "interesting points": [
-        "The object alternated between red and green colors.",
-        "The object had no definite shape and faded out of sight.",
-        "The observer had seen similar objects before.",
-        "The sighting was deemed as a possible astronomical event, such as a star or planet, but there was insufficient data to evaluate it.",
-        "The report mentions a ground visual observation, but provides no other details about the witness or the circumstances of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified object",
-    "location": "Storm Lake, Iowa",
-    "witnesses": "a civilian observer",
-    "photographs": "no photographs were taken"
+    "main event": "On September 25, 1955, a civilian observer reported a sighting of a stationary object in Storm Lake, Iowa.",
+    "interesting points": "The object alternated between red and green colors during the sighting,The observer stated that the object had no definite shape,The sighting lasted for approximately 20 minutes,The observer previously saw the object before this incident,There is a suggestion that the object may have been a star or planet, but insufficient data exists for a definite conclusion.",
+    "sighted object": "a stationary object alternating red and green lights",
+    "location": "Storm Lake, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

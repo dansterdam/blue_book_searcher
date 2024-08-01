@@ -1,15 +1,9 @@
 {
-  "main event": "Two green lights were seen over a large area in Worcester, Massachusetts on November 12, 1954, indicating a meteor.",
-  "interesting points": [
-    "The sighting involved two green lights seen twenty minutes apart, suggesting a potential meteor.",
-    "The report does not contain any photographs of the UFO sighting.",
-    "Multiple military personnel and civilian witnesses were involved in reporting the UFO sighting.",
-    "The report indicates that the object appeared to be an enormous size and was heading towards the earth.",
-    "There were unconfirmed reports of similar objects sighted at different locations, including Atlantic City, New Jersey."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "two green lights over a large area",
-  "location": "Worcester, MA",
-  "witnesses": "multiple military and civilian witnesses",
-  "photographs": "no photographs available"
+    "main event": "Two green lights were seen over a large area in Worcester, Massachusetts, on November 12, 1954, indicating a meteor.",
+    "interesting points": "The lights were seen twenty minutes apart., The observation type was Ground-Visual., The lights appeared to be two objects but were believed to be one due to canopy distortion., The sighting was reported by a pilot from Mohawk Airlines flight 56., The objects were described as enormous and appeared to be heading towards the Earth.",
+    "sighted object": "two green lights",
+    "location": "Worcester, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilot from Mohawk Airlines",
+    "contains photographs": false
 }

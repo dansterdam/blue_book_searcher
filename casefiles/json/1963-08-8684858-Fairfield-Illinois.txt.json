@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple unidentified lights were observed in the sky over Fairfield, Illinois on August 10, 1963.",
-    "interesting points": [
-        "The lights were described as moving in an erratic manner, making sharp turns and changing direction rapidly.",
-        "There seemed to be a connection or relationship between two of the lights, as they would move together, one following the other, and at times join together and then separate again.",
-        "The sighting lasted for about 2 hours, with the lights appearing and disappearing sporadically.",
-        "The Air Force investigators concluded that the sighting was not an unusual occurrence and the phenomena were likely explainable as things like searchlights or astronomical bodies.",
-        "The report mentions that only a small percentage of UFO cases remain unsolved, and those are often due to lack of information provided to the investigators."
-    ],
-    "result": "Likely explained as conventional phenomena, according to the Air Force investigation.",
-    "sighted object": "Multiple unidentified lights in the sky",
-    "location": "Fairfield, Illinois",
-    "witnesses": "Single witness, a driver",
-    "photographs": "None"
+    "main event": "A sighting of unidentified flying objects was reported on August 10, 1963, in Fairfield, Illinois.",
+    "interesting points": "The sighting lasted for about two hours,The objects were described as multiple and moving in various directions,Some witnesses claimed to have seen the objects through binoculars,The Air Force concluded that the objects could likely be explained as balloons or misinterpretations of searchlights,One witness reported a discoidal shape with flashing lights exhibiting erratic movement.",
+    "sighted object": "unidentified flying objects",
+    "location": "Fairfield, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnesses described peculiar lights moving erratically in the sky.",
+    "contains photographs": false
 }

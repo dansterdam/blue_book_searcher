@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large, teardrop-shaped object with a blue nose, yellow midsection, and red tail was observed from a Greek vessel, the M.S. Themistocles, in the Atlantic Ocean.",
-    "interesting points": [
-        "The object had a fiery appearance and was emitting yellow sparks trailing behind it.",
-        "The object was observed for only about 1 second.",
-        "A sea plane had been spotted in the area 15 minutes prior to the sighting, but it only resembled the UFO in size.",
-        "The object was traveling from northeast to southwest and disappeared instantaneously to the southwest.",
-        "Weather balloon data was included in the report, suggesting a possible explanation for the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "a large, teardrop-shaped object with a blue nose, yellow midsection, and red tail",
-    "location": "Atlantic Ocean, 27N by 73 59W",
-    "witnesses": "crew of the Greek vessel M.S. Themistocles",
-    "photographs": "no photographs"
+    "main event": "A large, teardrop-shaped object with a blue nose, yellow midsection, and red tail was observed from the Greek vessel M.S. Themistocles on April 25, 1960.",
+    "interesting points": "The object appeared to have a fiery look with yellow sparks trailing behind it., The observation was made at approximately 2315Z on the day of the sighting., The sighting lasted only 1 second according to the report., A seaplane was spotted in the area 15 minutes prior to the sighting of the UFO., The report did not classify the sighting as a balloon, satellite, aircraft, or astronomical phenomenon, leaving it as insufficient data for evaluation.",
+    "sighted object": "teardrop-shaped object with blue nose, yellow midsection, and red tail",
+    "location": "Unknown, Unknown, Greece",
+    "number of confirmed witnesses": 2,
+    "witness description": "Officer and radio operator aboard the Greek vessel M/S Themistocles",
+    "contains photographs": false
 }

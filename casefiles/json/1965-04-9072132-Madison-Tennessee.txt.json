@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A round, disc-shaped object was observed in the sky over Nashville, Tennessee on April 22, 1965.",
-    "interesting points": [
-        "The object was observed for a total of 50 seconds, with a straight flight of 15 seconds, followed by a momentary hover and then a rapid acceleration lasting 35 seconds.",
-        "The object was described as silvery-white in color, the size of a full moon, and traveling at an estimated speed of 2,000 mph.",
-        "Additional details were reported, including some haze visible and the object being more than 50 miles away.",
-        "The sighting was initially reported to Project Blue Book, but the Air Force concluded it was likely a satellite from the U.S. Satellite Detection Program.",
-        "Another sighting was reported in the same area, with a witness describing seeing three reddish objects in succession, with the third changing from bright red to orange-red and disappearing."
-    ],
-    "result": "Inconclusive - Likely identified as a satellite, but additional details warrant further investigation.",
-    "sighted object": "A round, disc-shaped object",
-    "location": "Nashville, Tennessee",
-    "witnesses": "Civilian observers",
-    "photographs": "No photographs available"
+    "main event": "A round-shaped disc object was observed overhead in Nashville, Tennessee, on April 22, 1965.",
+    "interesting points": "The object had a size comparable to the full moon and was silvery-white in color., The object displayed erratic flight behavior, including straight flight for 15 seconds and hovering before rapidly departing., The estimated velocity of the object was around 2000 mph., Witnesses reported seeing a reddish object moving to the east., The total duration of the sighting was approximately 50 seconds.",
+    "sighted object": "one disc-shaped object",
+    "location": "Nashville, Tennessee, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Insufficient details on witnesses; analysis ongoing.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "Four white, very high and low appearing objects were observed in the sky near Sloan, Iowa on October 18, 1955.",
-    "interesting points": [
-        "The objects were described as being white, oblong, and 4-5 feet in size.",
-        "Two of the objects appeared to be very high in the sky, while the other two appeared to be low.",
-        "A slight sound accompanied the objects as they moved into the sun.",
-        "The sighting lasted for about 1 minute.",
-        "The observer was a 35-year-old clergyman from Reverend, Iowa."
-    ],
-    "result": "unexplained",
-    "sighted object": "four white, oblong objects",
-    "location": "Sloan, Iowa",
-    "witnesses": "35-year-old clergyman",
-    "photographs": "no"
+    "main event": "Four white objects were observed in Sloan, Iowa on 18 Oct 55.",
+    "interesting points": "The objects were reported to be 2-3 feet long and had a white coloration,The sighting lasted for 1 minute,The objects produced a slight sound during the observation,Two of the objects were described as being very high, while two others appeared low,The report indicates the possibility of a spacecraft generated sighting.",
+    "sighted object": "four white oblong objects",
+    "location": "Sloan, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Reverend, age 35, clergyman",
+    "contains photographs": false
 }

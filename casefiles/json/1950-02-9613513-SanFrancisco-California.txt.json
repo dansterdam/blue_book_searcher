@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting occurred in the San Francisco, California area on February 7, 1950.",
-    "interesting points": [
-        "The sighting was observed by both civilian and military sources.",
-        "The UFO was described as a conical shape, approximately 30 feet long, and flying at an estimated altitude of 5,000 feet.",
-        "The UFO was observed changing position and maneuvering.",
-        "The sighting lasted for approximately 10 minutes.",
-        "No photographs or physical evidence were collected."
-    ],
-    "result": "unexplained",
-    "sighted object": "a conical-shaped UFO",
-    "location": "San Francisco, California Area",
-    "witnesses": "civilian and military",
-    "photographs": "no"
+    "main event": "A citizen and military personnel observed a conical-shaped UFO in the San Francisco, California area on 7 February 1950.",
+    "interesting points": "The object was estimated to be 30 feet long and at an altitude of approximately 5,000 feet., The observation lasted for about 30 minutes., The sighting involved ground-visual observation., There were no photographs or physical evidence collected., The object changed position during the observation.",
+    "sighted object": "one conical-shaped UFO",
+    "location": "San Francisco, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian and military personnel",
+    "contains photographs": false
 }

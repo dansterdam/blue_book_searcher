@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-  "main event": "Two bright spherical objects were observed near a missile site in Nebraska, moving at high speeds and performing complex maneuvers.",
-  "interesting points": [
-    "The objects were observed by multiple military personnel, including at the Radar Section at Cape Kennedy AFS, Florida.",
-    "One object appeared to be the size of a star and disappeared in 10-15 seconds, while the other two objects changed direction in a zigzag manner and were visible for about 10 minutes.",
-    "An object observed through a telescope appeared elliptical in shape, the size of a pinhead, and maneuvered in a complex and erratic manner.",
-    "Another object was observed to split into three white objects that later became six red objects as it moved away.",
-    "An object was also observed to move about 4 miles in 30 seconds, with a swirling up and down motion and flashes of light."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright spherical objects, elliptical object, and other maneuvering objects",
-  "location": "Missile Site in Nebraska",
-  "witnesses": "military personnel, Air Force intelligence officers, and civilian observers",
-  "photographs": "no"
+    "main event": "Two unidentified flying objects were observed at a missile site in Nebraska on 26 August 1965.",
+    "interesting points": "The objects were described as bright spheres,The first sighting occurred at approximately 1430 hours with the objects moving at a high rate of speed,One consisted of two objects about one mile apart,The objects changed direction in a zigzag manner,The sighting lasted for approximately 2 minutes and 7 seconds.",
+    "sighted object": "two bright spheres",
+    "location": "Nebraska, United States",
+    "number of confirmed witnesses": 11,
+    "witness description": "Nine military personnel and two civilians from the 551st USAF Medical Group.",
+    "contains photographs": false
 }

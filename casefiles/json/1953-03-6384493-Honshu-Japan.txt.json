@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "A pilot observed an unidentified flying object over Honshu, Japan on 31 March 1953.",
-    "interesting points": [
-        "The object was described as a round, luminous object that appeared to be a satellite.",
-        "The object was observed for approximately 20 minutes by the pilot and a passenger.",
-        "The pilot attempted to chase the object for 10 minutes but lost sight of it.",
-        "Other aircraft in the area were contacted but were unable to observe the object.",
-        "The weather conditions were clear with unlimited visibility."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, luminous object",
-    "location": "Between Yokohama and Iwakuni, Japan",
-    "witnesses": "pilot and passenger of C-1305 aircraft",
-    "photographs": "no"
+    "main event": "Multiple sightings of unidentified objects reported by U.S. Air Force pilots over Honshu, Japan between February and May 1953.",
+    "interesting points": "One sighting involved a round white object with two legs, which may have been similar to Venus., Another encounter reported a bright light that appeared to chase a star and accelerated away., Pilots consistently described the objects as having unusual maneuverability that could not be attributed to known aircraft., Reports indicated excellent visibility conditions during the sightings, making the observations more credible., The sightings remain unexplained, with no photographs or physical evidence documented in the reports.",
+    "sighted object": "unidentified flying objects or lights",
+    "location": "Honshu, Japan",
+    "number of confirmed witnesses": 5,
+    "witness description": "U.S. Air Force pilots from various fighter wings",
+    "contains photographs": false
 }

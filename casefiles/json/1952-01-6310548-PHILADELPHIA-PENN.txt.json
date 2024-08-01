@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observed oval-shaped object traveling at terrific speed in Philadelphia, Pennsylvania on January 29, 1952",
-    "interesting points": [
-        "The object was described as a bluish-green fireball traveling at high speed.",
-        "The sighting lasted approximately 10-12 seconds.",
-        "The object exhibited characteristics of a fireball.",
-        "The report was classified as a 'known factor'.",
-        "Other sightings of green fireballs were reported around the same time in various locations."
-    ],
-    "result": "unknown",
-    "sighted object": "bluish-green oval-shaped object",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "An oval-shaped object, described as a bluish-green fireball, was observed traveling at high speed over Philadelphia, Pennsylvania on January 29, 1952.",
+    "interesting points": "The object was reported to have a visibility duration of approximately 10-12 seconds., The fireball was observed at a distance of 50 to 100 miles from the observer., Dr. Charles F. Olivier received around 150 reports about the incident from the public., The brilliance of the fireball was comparable to that of a quarter-moon., Dr. Olivier stated that the phenomenon occurred as described but did not personally observe it.",
+    "sighted object": "bluish-green fireball",
+    "location": "Philadelphia, Pennsylvania, US",
+    "number of confirmed witnesses": 150,
+    "witness description": "various individuals reporting the sighting",
+    "contains photographs": false
 }

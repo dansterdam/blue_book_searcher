@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified bright, metallic-looking object was observed moving at a high rate of speed across the sky in Lincoln, Nebraska on October 7, 1959.",
-    "interesting points": [
-        "The object was described as round, between white and yellow in color, and appeared to be shaped like an ellipse.",
-        "The object exhibited rapid, abrupt turns of 90 degrees at various points in its flight path.",
-        "The object appeared to stop for a split second at the 90 degree turn points before proceeding.",
-        "The object's altitude seemed to remain constant and high throughout the observation.",
-        "The observers, which included a USAF pilot, stated the object was traveling much faster than any jet aircraft they had seen in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic-looking object",
-    "location": "Lincoln, Nebraska",
-    "witnesses": "USAF personnel and civilians",
-    "photographs": "none"
+    "main event": "On October 5, 1959, an unidentified flying object was observed in Lincoln, Nebraska, moving at a high rate of speed and making sharp turns.",
+    "interesting points": "The object changed direction abruptly and was observed for approximately 5 to 8 minutes., It was described as bright, round, and metallic with a hazy glow around it., Witnesses initially thought the object might be a shooting star before realizing it was something unusual., The object appeared to stop momentarily at 90-degree turns., The observers noted that the object's speed was significantly faster than that of jets they were familiar with.",
+    "sighted object": "a bright round object with a hazy glow",
+    "location": "Lincoln, Nebraska, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "An Air Force pilot and two family members, including a son studying astronomy.",
+    "contains photographs": false
 }

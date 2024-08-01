@@ -1,15 +1,9 @@
 {
-    "main event": "A round, continuous blue-and-white object was observed in the sky over Naperville, Illinois on March 17, 1963.",
-    "interesting points": [
-        "The object was observed for 4 minutes.",
-        "The observation was made by a civilian.",
-        "The report states that there was insufficient data available for further analysis.",
-        "The report was submitted to the Air Force Systems Command, Foreign Technology Division at Wright-Patterson AFB.",
-        "The report was submitted by the Base Operations Officer, Thomas A. Hillquist."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian observer reported seeing a round, continuous blue-and-white object in the sky over Naperville, Illinois on March 17, 1963.",
+    "interesting points": "The sighting lasted for about 4 minutes,The object exhibited a continuous bluish glow,There was insufficient data for further analysis,The sighting was reported by a civilian source,The radar observation was part of Project 10073.",
     "sighted object": "round, continuous blue-and-white object",
-    "location": "Naperville, Illinois",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Naperville, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

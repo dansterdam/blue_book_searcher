@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains multiple reports of a UFO sighting in Kerrville, Texas on October 9, 1958, with a bright, single object with a light glow the size of a pen being observed for around 30 seconds. The conclusion of the observation was that the object was likely a meteor.",
-  "interesting points": [
-    "The UFO was described as a bright, single object with a light glow, roughly the size of a pen, and was observed for 30 seconds.",
-    "The sighting took place in Kerrville, Texas, and involved ground-visual observation by credible witnesses.",
-    "A conclusion was drawn that the observed object was likely a meteor based on its description, duration of observation, and apparent speed.",
-    "The report was forwarded and approved by various military officials, indicating the seriousness with which it was treated.",
-    "An investigation was conducted by the Air Force, and reports were obtained through the Ground Observer Corps, emphasizing the effort put into these UFO sightings."
-  ],
-  "result": "prosaic explanation - likely a meteor",
-  "sighted object": "bright, single object with a light glow",
-  "location": "Kerrville, Texas",
-  "witnesses": "Ground Observer Corps and 741st AC&W Squadron personnel",
-  "photographs": "the report states that photographs were taken"
+    "main event": "A single bright object with a light glow was reported in Kerrville-Valverde, Texas on October 9, 1958.",
+    "interesting points": "The sighting lasted for approximately 30 seconds., The object was described as being the size of a pen., The object was reported to have a bright glow., The object was concluded to probably be a meteor based on its description and speed., The report was part of the Project Blue Book investigations conducted by the U.S. Air Force.",
+    "sighted object": "one bright object with a light glow",
+    "location": "Kerrville-Valverde, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers' occupations were not specified.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A large red and white spinning light was observed in the night sky over Millard, Nebraska for 15 minutes.",
-    "interesting points": [
-        "The object was stationary and spinning.",
-        "The object was approximately 1/3 the size of a basketball held at arm's length.",
-        "The object was in the approximate position of the star Sirius.",
-        "No sound was reported from the object.",
-        "The sighting occurred on a clear night with a full moon."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a large red and white spinning light",
-    "location": "Millard, Nebraska",
-    "witnesses": "1 civilian witness",
-    "photographs": "none"
+    "main event": "A civilian reported observing a large red and white spinning light in Millard, Nebraska on April 11, 1966.",
+    "interesting points": "The object was observed for 15 minutes and displayed stationary and spinning behavior., The object was described as being 1/3 the size of a basketball., The observation occurred during clear night conditions with a full moon., The witness reported no sound emanating from the object., The star Sirius was noted to be in the approximate position of the object.",
+    "sighted object": "large red and white spinning light",
+    "location": "Millard, Nebraska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

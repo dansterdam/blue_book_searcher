@@ -1,15 +1,9 @@
 {
-  "main event": "Two unidentified objects were observed over Indianapolis on July 20, 1953 at 23:15 CST.",
-  "interesting points": [
-    "The report mentions that there were no photos or physical evidence available.",
-    "The conclusion of the report indicates that the objects were identified as 'BALL ONS', possibly meaning balloons.",
-    "The objects were observed for an unspecified length of time.",
-    "The type of observation is marked as 'rosia', which is unclear.",
-    "The location of the sighting was Indianapolis, Ind."
-  ],
-  "result": "prosaic explanation (balloons)",
-  "sighted object": "unidentified objects",
-  "location": "Indianapolis, Ind.",
-  "witnesses": "unknown",
-  "photographs": "no"
+    "main event": "Two unidentified objects were observed in Indianapolis on July 20, 1953.",
+    "interesting points": "The observation took place at 2315 CST,The objects were reported as 'rosia',The conclusion drawn from the observation was related to balloon analysis,No physical evidence was found,The report indicates that the objects were noted in a star line formation.",
+    "sighted object": "two unidentified objects",
+    "location": "Indianapolis, Indiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "village",
+    "contains photographs": false
 }

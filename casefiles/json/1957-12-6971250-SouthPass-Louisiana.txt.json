@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-  "main event": "A pilot for Patten Motor Company plane owned by A.W. Ewing of Old Fortuna, Louisiana, reported sighting an unusual object while in flight at an altitude of 6,000 feet on December 6, 1957.",
-  "interesting points": [
-    "The object was described as round and white in color, moving rapidly at an estimated speed of 500-600 mph.",
-    "The object was observed for about 1/2 hour by the pilot and his copilot while en route from a VHF CG light station south of Pass-a-Loutre to Old Fortuna.",
-    "The object was considered to be reliable and of unusual nature, but the report does not make any conclusions or identify the object.",
-    "The report also includes a Project 10073 record card documenting a sighting that occurred on 28 December 1957 at South Pass, Louisiana, where the object was described as a 'Round, bright white light, moving slowly but erratically across sky of planet'.",
-    "The conclusion in the Project 10073 record card was that the object could have been a weather balloon."
-  ],
-  "result": "unexplained",
-  "sighted object": "round, white object moving rapidly",
-  "location": "South Pass, Louisiana; Old Fortuna, Louisiana",
-  "witnesses": "pilot and co-pilot of Patten Motor Company plane",
-  "photographs": "no"
+    "main event": "A pilot for Patten Motor Company reported a sighting of a round, white object moving rapidly while flying at 6,000 feet on December 6, 1957.",
+    "interesting points": "The object was moving at an estimated speed of 500-600 mph.,The pilot and copilot observed the object for about half an hour.,The sighting occurred while en route from a VHF CG light station to Old Fortuna.,The sighting was documented but no conclusions were drawn regarding the object's nature.,On December 28, 1957, another sighting of a round, bright white light occurred in South Pass, Louisiana, lasting 1.5 hours.",
+    "sighted object": "round, bright white light",
+    "location": "South Pass, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "pilot for Patten Motor Company",
+    "contains photographs": false
 }

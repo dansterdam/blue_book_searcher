@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A citizen in Long Beach, California reported seeing a round object with a tail hovering in the area for a short time.",
-    "interesting points": [
-        "The sighting lasted for 14 minutes.",
-        "The report states the object conforms with an aircraft track.",
-        "Another neighbor also observed the object with the reporting citizen.",
-        "The object was described as resembling a 'flying saucer'.",
-        "The report mentions this was part of Project 10073, a government UFO documentation program."
-    ],
-    "result": "possibly aircraft",
-    "sighted object": "round object with a tail",
-    "location": "Long Beach, California",
-    "witnesses": "citizen, neighbor",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A citizen in Long Beach, California reported a sighting of a round object with a tail on February 5, 1955.",
+    "interesting points": "The sighting lasted for 14 minutes,The object resembled a flying saucer,The report was confirmed by another witness,Reports varied on the nature of the object including balloon and aircraft possibilities,The observation was a visual type and classified as ground-visual.",
+    "sighted object": "one round object with a tail",
+    "location": "Long Beach, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "citizens in Long Beach",
+    "contains photographs": false
 }

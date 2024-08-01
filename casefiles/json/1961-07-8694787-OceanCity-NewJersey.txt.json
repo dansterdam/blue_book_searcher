@@ -1,15 +1,9 @@
 {
-    "main event": "A radar operator observed an unidentified object moving erratically at varying altitudes between 1500 and 3000 feet over Ocean City, New Jersey on July 23, 1961.",
-    "interesting points": [
-        "The object was observed both visually and on the radar scope for about 10 minutes.",
-        "The radar operator stated that this was not a normal target and that the lights and motion were unlike any known aircraft.",
-        "The object had flashing irregular lights and made sharp, erratic movements.",
-        "The object was described as a 'strong return' on the radar scope, suggesting it was a solid object.",
-        "The object finally faded from both visual and radar observation."
-    ],
-    "result": "unidentified",
-    "sighted object": "A single unidentified flying object",
-    "location": "Ocean City, New Jersey",
-    "witnesses": "Radar operator",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in Ocean City, N.J. on July 23, 1961, moving erratically at varying altitudes.",
+    "interesting points": "The object was detected both visually and on radar for about 10 minutes,The altitude of the object varied between 1500 and 3000 feet,The motion of the object was described as irregular and erratic with flashing lights,The radar operator noted that the object was not a typical target and its behavior was unlike known aircraft,The data was insufficient to draw any definitive conclusions about the object's nature.",
+    "sighted object": "an unidentified flying object",
+    "location": "Ocean City, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "U.S. Army Lieutenant Colonel, age 41",
+    "contains photographs": false
 }

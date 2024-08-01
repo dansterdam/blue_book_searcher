@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
     "main event": "A bright yellowish object was observed through a bedroom window in Marietta, Ohio on March 3, 1964.",
-    "interesting points": [
-        "The object was observed for 15 minutes or more.",
-        "The object appeared stationary at an azimuth of 280 degrees.",
-        "The witness observed the object through binoculars and it did not twinkle.",
-        "The Air Force concluded the object was an observation of the planet Venus.",
-        "The witness was informed of the Air Force's conclusion regarding the sighting."
-    ],
-    "result": "Identified as the planet Venus",
-    "sighted object": "a bright yellowish object",
-    "location": "Marietta, Ohio",
-    "witnesses": "civilian witness",
-    "photographs": "no"
+    "interesting points": "The object was observed for over 15 minutes and described as stationary at 280 degrees azimuth., The witness used binoculars to observe the object., The sighting was later determined to be Venus., The observation was conducted by a mother and her child., The incident sparked interest in UFOs leading to a letter sent to the UFO Investigations office.",
+    "sighted object": "one bright yellowish object",
+    "location": "Marietta, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a mother and her child observing through a bedroom window",
+    "contains photographs": false
 }

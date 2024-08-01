@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be the cover page of a Project Blue Book UFO report document from Omaha, Nebraska dated October 7, 1967, with 3 photos mentioned.",
-    "interesting points": [
-        "The report mentions 3 photographs, but the images provided do not contain any clear photographs.",
-        "The images show grainy black and white pages, with one image showing a long, bright line or streak against a dark background, and another showing a single bright streak against a dark background.",
-        "The report is from the Foreign Technology Division of the AFSC, indicating it was likely an investigation into a potential foreign or unidentified aerial phenomenon.",
-        "The pages are marked as 'UNCLASSIFIED', suggesting the contents were not considered highly sensitive or classified.",
-        "The report does not provide any additional details about the specific UFO incident or sighting, and focuses solely on the limited visual information provided in the images."
-    ],
-    "result": "inconclusive",
-    "sighted object": "bright streaks or lines in the sky",
-    "location": "Omaha, Nebraska",
-    "witnesses": "unknown",
-    "photographs": "yes, but the provided images do not contain clear photographs"
+    "main event": "A Project Blue Book UFO report was filed regarding a sighting in Omaha, Nebraska on October 7, 1967.",
+    "interesting points": "The report dated from 1967 includes 3 photographs mentioned but not visible in the provided text., The document is classified as UNCLASSIFIED., It contains images depicting long, bright lines or streaks against dark backgrounds., The report comes from the FOREIGN TECHNOLOGY DIVISION, AFSC., The sighting does not include any identifiable human subjects.",
+    "sighted object": "a long, bright line or streak against a dark background",
+    "location": "Omaha, Nebraska, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": true
 }

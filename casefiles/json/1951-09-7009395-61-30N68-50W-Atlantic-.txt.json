@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple military aircraft and radar observed unidentified objects in the sky over the Atlantic Ocean in October 1951.",
-    "interesting points": [
-        "The objects were detected visually and on radar by the crew of several B-36 aircraft during a training mission.",
-        "The radar interference was described as a 'definite track' on the radar scope, and it was determined that the interference was not ground clutter, jamming, or other participating aircraft.",
-        "The objects were observed to move at high speeds, estimated between 1,500-2,000 mph, and were able to make sharp turns.",
-        "The objects were reported to be larger and brighter than stars or planets, and they were observed for around 10 minutes.",
-        "Attempts were made to intercept the objects with aircraft, but they failed to make visual contact."
-    ],
-    "result": "unknown",
-    "sighted object": "unidentified aircraft",
-    "location": "Atlantic Ocean",
-    "witnesses": "military personnel, including pilots and radar operators",
-    "photographs": "none"
+    "main event": "An unidentified aircraft was sighted at approximately 30,000 feet, observed visually and picked up on radar by a B-36 aircraft.",
+    "interesting points": "The aircraft was reported to have uncontrolled running lights., The ECM frequencies noted during the sighting were 907, 3076, 9324, 9331, 7352, 715 and 730 mcs., Radar interference was continuously noted until the aircraft were 180 miles from the Texas coast., The operators ruled out ground clutter, jamming, and other aircraft for the radar interference., Similar incidents were reported in the past involving B-36 aircraft, but no explanation was provided.",
+    "sighted object": "unidentified aircraft at 30,000 feet",
+    "location": "Atlantic, Unknown Region, Unknown Country",
+    "number of confirmed witnesses": 3,
+    "witness description": "Major Paul E. Garhart, radar operator; 2/Sgt Donald E. Jenkins, ECM operator; 2/Sgt Doyt T. Larimore, ECM operator.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A fast-moving object was sighted by an aircraft approximately 5 miles off the left wing, moving parallel to the aircraft's heading of 107 degrees.",
-    "interesting points": [
-        "The object appeared to be a 'big comet' and disappeared from view in less than 25 seconds.",
-        "The altitude of the object was estimated to be between 9,000 and 11,000 feet.",
-        "The speed of the object was in excess of 1,500 knots.",
-        "The object appeared to be in level flight, not climbing or descending.",
-        "The report mentions characteristics of a meteor, but indicates there was not enough information to determine if it was a meteor observation."
-    ],
-    "result": "unidentified",
-    "sighted object": "fast-moving object",
-    "location": "31.53N 72.05W, Bermuda",
-    "witnesses": "aircraft crew",
-    "photographs": "no"
+    "main event": "A fast-moving object, possibly a balloon or aircraft, was observed over Bermuda on February 23, 1962.",
+    "interesting points": "The sighting lasted for 25 seconds and the object moved parallel to the observer's heading of 107 degrees., The object was reported moving at a speed in excess of 1500 knots., The observers described the object as resembling a big comet., There was a possibility the sighted object could have been a meteor due to its characteristics., The sighting was part of a Project Blue Book UFO report.",
+    "sighted object": "unidentified fast-moving object",
+    "location": "Bermuda",
+    "number of confirmed witnesses": 0,
+    "witness description": "various military personnel involved in the report",
+    "contains photographs": false
 }

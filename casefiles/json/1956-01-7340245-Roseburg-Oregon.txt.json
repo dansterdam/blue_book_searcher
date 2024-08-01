@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round white object with a small amount of sparks was observed for 2-3 seconds in Roseburg, Oregon on January 9, 1956.",
-    "interesting points": [
-        "The object was approximately 1 foot in diameter and appeared to be 'white hot'.",
-        "The object had a sloping nose that pointed down and emitted a small amount of sparks.",
-        "The witness was looking out a window when he observed the object moving south at an unknown altitude.",
-        "The sighting occurred at 0120Z (9:20 PM local time) during dusk.",
-        "The witness was a civilian and veteran Air Force engineer living 5 miles southwest of Roseburg."
-    ],
-    "result": "Was Astronomical",
-    "sighted object": "round white object",
-    "location": "Roseburg, Oregon",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A witness observed a round white object with a small amount of sparks in the sky for 2-3 seconds.",
+    "interesting points": "The sighting occurred on January 8, 1956, at 0120Z,The object was observed from a distance of 5 miles southwest of Roseburg,The object was noted to have a diameter of 1 foot,It was concluded that the sighting was astronomical,No photographs were taken.",
+    "sighted object": "round white object emitting sparks",
+    "location": "Roseburg, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a veteran Air Force engineer",
+    "contains photographs": false
 }

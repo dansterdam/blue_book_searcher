@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright light was seen following a satellite in the sky over Johnstown, Pennsylvania in 1967.",
-    "interesting points": [
-        "The bright light seemed to catch up to and lock onto the satellite.",
-        "The bright light suddenly dimmed to the brightness of a normal star in the sky.",
-        "The observer used binoculars to observe the event.",
-        "The observer provided a diagram showing the location and movement of the objects.",
-        "The Air Force responded to the report, indicating they did not have enough information to investigate further."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light that seemed to follow and interact with a satellite",
-    "location": "Johnstown, Pennsylvania",
-    "witnesses": "the observer and their cousin",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An observer in Johnstown, Pennsylvania, reported seeing a bright light that appeared to be following a satellite on the night of September 16, 1967.",
+    "interesting points": "The light seemed to lock onto the satellite as it ascended in the sky., The observer described the light as the brightest in the sky that night., The light dimmed to the brightness of other stars before disappearing., The observer had a cousin who witnessed the event alongside them., The report was classified as 'Insufficient Data for Evaluation' due to the time elapsed since the sighting.",
+    "sighted object": "a bright light in the sky",
+    "location": "Johnstown, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "10th-grade students, specifically a student and a cousin",
+    "contains photographs": false
 }

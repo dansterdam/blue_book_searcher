@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed by radar and visually over the Pacific Ocean near Agt Salmon on October 22, 1962.",
-    "interesting points": [
-        "The object was observed for 68 seconds as it moved from southwest to northeast.",
-        "Observers concluded the object was likely a satellite, balloon, meteor, or aircraft, but there was insufficient data for a definitive evaluation.",
-        "The report includes references to various military and intelligence agencies that were involved in the observation and analysis.",
-        "No photographs were available, but the report indicates that additional documents were attached, including a lieutenant's report and other technical details.",
-        "The object was described as being as bright as a first magnitude star and moving very fast."
-    ],
-    "result": "inconclusive",
+    "main event": "An unidentified object was observed, likely a satellite, on October 22, 1962.",
+    "interesting points": "The sighting lasted for 68 seconds,The object was observed moving from southwest to northeast,The object was recorded as possibly being a satellite, balloon, meteor, or aircraft,There was insufficient data for a definitive evaluation,Two persons believed it to be a satellite.",
     "sighted object": "one unidentified object",
-    "location": "Agt Salmon (Pacific)",
-    "witnesses": "unknown",
-    "photographs": "no, the report indicates no photographs were available"
+    "location": "AGT Salmon, Pacific",
+    "number of confirmed witnesses": 2,
+    "witness description": "two persons sighting",
+    "contains photographs": false
 }

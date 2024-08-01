@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright green light, described as a football-shaped object, was sighted descending at a 45-60 degree angle from north to south near Robins Air Force Base in Georgia.",
-    "interesting points": [
-        "The object was reported to be moving at a very fast and erratic speed, close to the ground, and behind trees.",
-        "The object was visible for approximately 2 seconds before gradually disappearing beyond the trees.",
-        "The area where the object was sighted is known to have mercury vapor street lights that can sometimes flash or flicker, which the investigators believe may have been the source of the sighting.",
-        "No known air traffic or balloon releases were reported in the area at the time of the sighting.",
-        "The observer, a radar engineer at Robins AFB, was considered a reliable witness."
-    ],
-    "result": "Probable explanation - Mercury vapor street lights",
-    "sighted object": "A bright green, football-shaped light",
-    "location": "Robins AFB, Georgia",
-    "witnesses": "Radar engineer at Robins AFB",
-    "photographs": "None"
+    "main event": "A UFO sighting was reported at Robins AFB, Georgia on 30 September 1962, involving a fast-moving object observed for approximately 2 seconds.",
+    "interesting points": "The object was reported as a bright green light moving from north to south at high speed,The object was visible for only about 2 seconds,The sighting occurred during clear weather conditions with unlimited visibility,The observer was parked in an automobile when the object was first noticed,The investigation concluded that the bright light was likely due to mercury vapor street lights in the area.",
+    "sighted object": "bright green light moving rapidly",
+    "location": "Robins AFB, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. John T. Taylor, a civilian radar engineer, considered reliable.",
+    "contains photographs": false
 }

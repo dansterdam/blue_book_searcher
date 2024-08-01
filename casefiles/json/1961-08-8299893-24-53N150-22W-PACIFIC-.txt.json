@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military radar detected a vapor trail from the eastern horizon to the western horizon, likely a missile.",
-    "interesting points": [
-        "The vapor trail moved southerly over a ship (SS Lurline) and was moving rapidly.",
-        "The observation was reported by the crew of the SS Lurline at coordinates 24-53N 150-22W in the Pacific Ocean.",
-        "The vapor trail was observed at an altitude described as 'low'.",
-        "The sea conditions were reported as calm at the time of the sighting.",
-        "The sighting lasted approximately 5 minutes."
-    ],
-    "result": "probable missile",
-    "sighted object": "vapor trail",
-    "location": "24-53N 150-22W (Pacific Ocean)",
-    "witnesses": "crew of the SS Lurline",
-    "photographs": "no"
+    "main event": "A sighting of a probable missile reported by the SS Lurline on 18 Aug 61.",
+    "interesting points": "The observation lasted for about 5 minutes., A vapor trail was seen from the East horizon to the West horizon., The object was moving rapidly and had a low altitude., The position reported was 24-53N 150-22W., The report was communicated to several military branches including Army and Navy.",
+    "sighted object": "probable missile with vapor trail",
+    "location": "Pacific, Pacific Ocean, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "reported by SS Lurline",
+    "contains photographs": false
 }

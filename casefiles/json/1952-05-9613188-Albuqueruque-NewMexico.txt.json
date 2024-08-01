@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "An Air Force colonel and his wife observed two silver, disc-shaped objects in the sky over Albuquerque, New Mexico on May 10, 1952.",
-    "interesting points": [
-        "The objects were observed for 5-10 minutes.",
-        "The objects were seen at different altitudes.",
-        "The objects were moving in a northeast direction.",
-        "Attempts were made to track the objects on radar, but with negative results.",
-        "The official conclusion was that the objects were either a balloon or probably an aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "two silver, disc-shaped objects",
-    "location": "Albuquerque, New Mexico",
-    "witnesses": "Air Force colonel and his wife",
-    "photographs": "yes, the report mentions photographs were taken"
+    "main event": "On 10 May 1952, an Air Force Colonel and his wife observed two unidentified silver disc-shaped objects in the sky above Albuquerque, New Mexico.",
+    "interesting points": "The sighting lasted between 5 to 10 minutes,The objects were maneuvering straight and level, radar attempts to locate the objects were unsuccessful, The Colonel's sighting began approximately 30 seconds after a civilian reported a cylindrical-shaped object traveling at high speed, Two objects were eventually sighted with one appearing about 15 minutes after the first.",
+    "sighted object": "two silver disc-shaped objects",
+    "location": "Albuquerque, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Air Force Colonel and his wife",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two red objects, one larger than the other, were observed in the sky near Belvidere, South Dakota on December 2, 1956.",
-    "interesting points": [
-        "The objects were reported to be about 2 feet in circumference and were a brilliant red color.",
-        "The smaller object appeared to be trailing the larger one.",
-        "The bright light from the objects startled the observer, and they disappeared as if the light had been turned off.",
-        "The sighting lasted approximately 10 minutes.",
-        "The report states that there was insufficient data for analysis."
-    ],
-    "result": "unknown",
-    "sighted object": "two red objects, one larger than the other",
-    "location": "Belvidere, South Dakota",
-    "witnesses": "one civilian observer",
-    "photographs": "no photographs included"
+    "main event": "Two objects with brilliant red light were spotted in the sky over Belvidere, South Dakota, on December 2, 1956.",
+    "interesting points": "The objects had a circumference of 2 feet,The smaller object appeared to be trailing the larger one,The bright light from the objects startled the observer,The objects disappeared as if the light was turned off,The sighting lasted possibly ten minutes.",
+    "sighted object": "two brilliant red objects in the sky",
+    "location": "Belvidere, South Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "rancher",
+    "contains photographs": false
 }

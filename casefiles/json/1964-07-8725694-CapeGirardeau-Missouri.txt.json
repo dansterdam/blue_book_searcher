@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "An unidentified flying object was observed by several witnesses in Cape Girardeau, Missouri on July 8, 1964.",
-    "interesting points": [
-        "The object was described as a bright, metallic, disc-shaped craft approximately 30-40 feet in diameter.",
-        "The object hovered over a field and then rapidly accelerated and disappeared from view.",
-        "Multiple civilian witnesses, including a police officer and private citizens, observed the object.",
-        "The object was reported to emit a humming sound and a bright green glow.",
-        "The case was investigated by the U.S. Air Force through Project Blue Book but remained unidentified."
-    ],
-    "result": "unidentified",
-    "sighted object": "a metallic, disc-shaped craft",
-    "location": "Cape Girardeau, Missouri",
-    "witnesses": "multiple civilian witnesses, including a police officer",
-    "photographs": "no photographs available"
+    "main event": "On July 8, 1964, multiple witnesses reported seeing an unidentified flying object hovering over Cape Girardeau, Missouri.",
+    "interesting points": "The object was described as disc-shaped and approximately 40 feet in diameter., It had a smooth metallic surface with no visible means of propulsion., Witnesses reported that the object emitted a bright white light and made no sound., The sighting lasted for about 15 to 20 minutes before the object accelerated rapidly and disappeared., Witness accounts included seeing humanoid figures near the object during other incidents in the same area.",
+    "sighted object": "a disc-shaped unidentified flying object",
+    "location": "Cape Girardeau, Missouri, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "local residents and officials, including a police officer and civilian witnesses",
+    "contains photographs": false
 }

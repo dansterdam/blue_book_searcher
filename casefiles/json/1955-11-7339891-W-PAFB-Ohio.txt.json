@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white and blue object was observed stationary for 2 hours at Wright-Patterson AFB, Ohio on November 10, 1955.",
-    "interesting points": [
-        "The brightness of the object appeared to decrease and increase over time.",
-        "The object was initially considered to be an unusual sighting.",
-        "The object was later determined to be caused by the conjunction of Jupiter and the star Regulus.",
-        "The sighting involved multiple military personnel, including a lieutenant, lieutenant colonel, and a captain.",
-        "The report includes detailed time and location information, as well as descriptions of the object's appearance and movement."
-    ],
-    "result": "Astronomical (Jupiter and Regulus)",
-    "sighted object": "round, white and blue object",
-    "location": "Wright-Patterson AFB, Ohio",
-    "witnesses": "multiple military personnel",
-    "photographs": "no"
+    "main event": "A circular white and blue object was observed at Wright-Patterson AFB with varying brightness.",
+    "interesting points": "The observation lasted for 2 hours and was stationary,The object made no sound,The brightness of the object appeared to decrease and increase,The location was Wright-Patterson Air Force Base, Ohio,The report concluded that the sighting was unusual and might be astronomical, potentially linked to Jupiter and Regulus.",
+    "sighted object": "a round, white and blue object in the sky",
+    "location": "Wright-Patterson AFB, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "LT COL SE Z, P.O. BLOCK 1472ND FLIGHT SERVICE, and other military personnel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A witness in Seattle, Washington observed a strange plate-shaped object traveling low across the sky on June 15, 1967.",
-    "interesting points": [
-        "The object was described as a cream or white color, solid or glasslike in appearance, and outlined.",
-        "The object moved quickly and silently, disappearing very quickly within the time it took to blink.",
-        "The witness was near an airfield when they saw the object come in a straight line from over the treetops.",
-        "The witness had never seen anything like the object before and was certain they were not confused or mistaken.",
-        "The witness provided a hand-drawn sketch of the object, depicting an oval-shaped craft."
-    ],
-    "result": "Balloon (possible)",
-    "sighted object": "Plate-shaped object",
-    "location": "Seattle, Washington",
-    "witnesses": "Unknown witness(es)",
-    "photographs": "No photographs present"
+    "main event": "Observers watched a strange plate-shaped object travel low across the sky on August 15, 1967.",
+    "interesting points": "The object appeared to be solid, grey, and glasslike in appearance., It disappeared quickly, within the time it took to blink., The object was seen near an airfield and was moving in a straight line toward the observer., No sound was noted during the observation., The witness has a collection of UFO literature and is confident they are not mistaken.",
+    "sighted object": "a plate-shaped object",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 15-year-old boy with a strong interest in UFOs.",
+    "contains photographs": false
 }

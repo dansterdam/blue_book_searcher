@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A resident in Lafayette Hill, Pennsylvania observed an unidentified flying object on January 18, 1967.",
-    "interesting points": [
-        "The object was a bright, long, round object with a bluish-white color.",
-        "The object moved slowly, then seemed to stop and glide sideways.",
-        "The witness rushed inside to get a camera but the object had disappeared by the time they returned.",
-        "A similar object was sighted again on February 3, 1967, moving slowly and appearing to maneuver and hover.",
-        "The witness submitted several color slides of the UFO sighting, which were analyzed by the Air Force's Photo Analysis Branch."
-    ],
-    "result": "Possibly an Aircraft, Possible Light Data", 
-    "sighted object": "a bright, long, round object with a bluish-white color",
-    "location": "Lafayette Hill, Pennsylvania",
-    "witnesses": "a resident in Lafayette Hill",
-    "photographs": "yes, the report includes color slides"
+    "main event": "An observer reported seeing a bright, round, bluish-white object in Lafayette Hill, Pennsylvania on January 18, 1967.",
+    "interesting points": "The object was initially moving slowly and then seemed to glide sideways., The observer rushed inside to inform family, but the object disappeared before he could return with a camera., The object was sighted multiple times, including a repeat sighting on February 3, 1967., Witnesses described the object as having a red and green light and hovering in one spot., The observer attempted to take photographs, though the quality was poor due to camera instability.",
+    "sighted object": "bright, round, bluish-white light",
+    "location": "Lafayette Hill, Pennsylvania, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "The primary observer described the object as moving at a high speed and hovering with no visible means of propulsion; other witnesses included family and friends.",
+    "contains photographs": false
 }

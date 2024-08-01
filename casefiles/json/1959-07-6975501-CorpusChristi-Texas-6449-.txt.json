@@ -1,15 +1,9 @@
 {
-  "main event": "A bright, white, stationary object was observed in the night sky over Corpus Christi, Texas on June 21, 1959, for a duration of 40 minutes.",
-  "interesting points": [
-    "The object was stationary and remained visible despite cloud cover.",
-    "The observation was classified as an aerial event.",
-    "Only one object was observed.",
-    "The weather conditions were reported as clear with scattered broken clouds.",
-    "The sighting lasted for a significant duration of 40 minutes."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright, white, stationary object in the night sky",
-  "location": "Corpus Christi, Texas",
-  "witnesses": "Not specified",
-  "photographs": "yes, 1 photo" 
+    "main event": "A report of a bright, white, stationary object observed in the night sky over Corpus Christi on June 21, 1959.",
+    "interesting points": "The observation lasted for 40 minutes,The weather was clear with scattered broken clouds,The object did not move during the observation,The object remained bright and visible despite cloud cover,There was one confirmed sighting with no identifiable faces present in the image.",
+    "sighted object": "a bright, white, stationary object",
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "not specified",
+    "contains photographs": true
 }

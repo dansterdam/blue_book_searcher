@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "An unidentified object was reported to have fallen into Pensacola Bay, Florida on July 15, 1960.",
-    "interesting points": [
-        "The object was described as a hot, 3-foot diameter object that was seen to go straight down into the water.",
-        "The sound of the object entering the water was heard.",
-        "Attempts were made to recover the object, but they were unsuccessful due to the muddy bottom of the bay.",
-        "It was concluded that the object was likely a meteor or possibly a part of an artificial earth satellite.",
-        "The recovery attempt was eventually canceled due to the excessive funds required."
-    ],
-    "result": "The object was likely a meteor or satellite fragment, but its identity could not be conclusively determined.",
-    "sighted object": "a hot, 3-foot diameter object",
-    "location": "Pensacola Bay, Florida",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "An unidentified flying object was reported over Pensacola Bay on July 15, 1960, with multiple witnesses confirming its presence and subsequent disappearance into the water.",
+    "interesting points": "The object was described as approximately three feet in diameter and made a sound upon entering the water., An unsuccessful recovery operation was conducted due to the soft muddy bottom of the bay., The object is speculated to be either a meteorite or a part of an artificial satellite., Several aerial sightings were reported around the same time by different military personnel., The duration of the sightings lasted several minutes, with various accounts corroborating the events.",
+    "sighted object": "unidentified flying object",
+    "location": "Pensacola Bay, Florida, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "military personnel and civilians in the area",
+    "contains photographs": false
 }

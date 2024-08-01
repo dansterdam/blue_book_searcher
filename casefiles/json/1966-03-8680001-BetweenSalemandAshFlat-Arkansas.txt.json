@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A driver almost collided with an unidentified hovering object while driving between Salem and Ash Flat, Arkansas on March 27, 1966.",
-    "interesting points": [
-        "The object was elliptical in shape, about 20 feet long and 5 feet wide, and navy gray in color.",
-        "The object had 25-30 brilliant lights around its circumference.",
-        "When the driver's car approached the object, his high beam lights and tail lights were extinguished, and his engine stalled.",
-        "After the close encounter, the driver's high beam lights and tail lights were completely inoperative, but he was able to restart his car after replacing a fuse.",
-        "The driver's 15 audio tapes from that night were found to have a magnetic void or erasure in the same relative spot on each reel."
-    ],
-    "result": "Insufficient Data",
-    "sighted object": "An elliptical-shaped object with 25-30 brilliant lights",
-    "location": "Between Salem and Ash Flat, Arkansas",
-    "witnesses": "1 driver",
-    "photographs": "no"
+    "main event": "A driver reported a near collision with a gray elliptical object with lights hovering above U.S. Highway 62 between Salem and Ash Flat, Arkansas on March 27, 1966.",
+    "interesting points": "The object was roughly 20' long and 5' wide with 25-30 brilliant lights around it,The observer reported that both his high beam lights and tail lights became inoperative after the encounter,The object was visible for less than one minute before disappearing directly overhead,The observer experienced a magnetic erasure of his tape recordings made during the incident,The weather was calm with no significant atmospheric disturbances during the sighting.",
+    "sighted object": "one gray elliptical object with lights",
+    "location": "Salem, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. W, an engineer, reliability unknown, speaks intelligently",
+    "contains photographs": false
 }

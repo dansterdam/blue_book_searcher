@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified radar target was detected by both ground and airborne radar in Plainview, New York on July 31, 1951.",
-    "interesting points": [
-        "The object was being picked up on both ground and airborne radar.",
-        "The location of the object could not be determined.",
-        "The object appeared to be hovering or intermittent on the radar.",
-        "The exact nature of the object could not be determined from the available data.",
-        "More investigation was recommended to try to identify the radar target."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified radar target",
-    "location": "Plainview, New York",
-    "witnesses": "radar operators",
-    "photographs": "yes, but not included in the report"
+    "main event": "Radar detected an unidentified object in Plainview, New York on July 31, 1951, with both ground and airborne radar confirming its presence.",
+    "interesting points": "The observation lasted several minutes and involved an object described as intermittent and possibly hovering., The exact nature and identity of the object could not be determined from the collected data., More investigation is recommended to understand the radar target., Witnesses included the radar operators who confirmed the Object's presence., The report mentions a potential connection to Project Blue Book's investigations.",
+    "sighted object": "unidentified object on radar",
+    "location": "Plainview, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "radar operators and observers involved in the project",
+    "contains photographs": false
 }

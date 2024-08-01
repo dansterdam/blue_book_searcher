@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object was observed over Baltimore, Maryland. The object was still for a while, then moved slightly over the center of the city.",
-  "interesting points": [
-    "The observation was made using ground radar, indicating a credible method of data collection.",
-    "The object was initially believed to be a reflection from city lights by an apartment officer.",
-    "The conclusion drawn was that it was probably a balloon, possibly a meteor, or an identified aircraft.",
-    "The sighting occurred in 1947, shortly after the famous Roswell UFO incident.",
-    "The object changed shape from large to small before disappearing out of the observer's vision."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "unidentified flying object",
-  "location": "Baltimore, Maryland",
-  "witnesses": "ground radar",
-  "photographs": "no"
+    "main event": "A ground radar observation reported a single unidentified object moving slightly over the center of Baltimore on May 21.",
+    "interesting points": "The observation noted that the object was still for a while before moving slightly., The officer believed the object to be a reflection from city lights., The concluded possibilities for the object included a balloon, meteor, or possibly an identified aircraft., The observation duration was unknown., Only one object was observed during this incident.",
+    "sighted object": "one unidentified object",
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian age 33, land lithographer operator",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A commercial airline pilot spotted six white lights in a formation over Michigan.",
-    "interesting points": [
-        "The objects displayed unusual flight characteristics, such as fading in and out.",
-        "No physical evidence or remains were found in the area.",
-        "It was an easy day check of the regular airway, and no other similar cases were reported in the area.",
-        "The lights were in a stepped-up echelon formation to the left.",
-        "The objects gained altitude as they were observed by two crew members for about 5 minutes."
-    ],
-    "result": "UNIDENTIFIED",
-    "sighted object": "six white lights in formation",
-    "location": "15 miles south of Houghton Lake, Michigan",
-    "witnesses": "commercial airline pilot and crew",
-    "photographs": "None"
+    "main event": "A commercial airline pilot observed six white lights in formation over Houghton Lake, Michigan on July 25, 1964.",
+    "interesting points": "The pilot and crew members reported unusual flight characteristics of the lights,The sighting lasted for 5 minutes,The objects displayed maneuvers by fading,There was no physical evidence left after the sighting,No known similar cases were recorded in the area.",
+    "sighted object": "six white lights in echelon formation",
+    "location": "Houghton Lake, Michigan, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "commercial airline pilot and crew members",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Multiple sightings of unidentified flying objects over Moneta, Virginia in January and February 1965.",
-    "interesting points": [
-        "The objects were described as cigar-shaped, round, and emitting bright lights.",
-        "The objects exhibited erratic, fast movements, making tight turns and stops.",
-        "Multiple observers, including a crane operator and a housewife, witnessed the objects on several occasions.",
-        "Attempts to identify the objects with air traffic, weather balloons, and military aircraft were inconclusive.",
-        "The sightings remained unexplained, with no satisfactory identification or explanation found."
-    ],
-    "result": "unexplained",
-    "sighted object": "cigar-shaped and round objects with bright lights",
-    "location": "Moneta, Virginia",
-    "witnesses": "civilians, including a crane operator and a housewife",
-    "photographs": "none"
+    "main event": "Multiple UFO sightings were reported in Moneta, Virginia from January 25 to February 5, 1965, involving six distinct observations.",
+    "interesting points": "The objects were described as cigar-shaped and aluminum, One sighting included observations by a crane operator and a housewife, Weather conditions were clear during the sightings, The objects were reported to have erratic, fast courses, and the sightings lasted between 3 to 10 minutes each.",
+    "sighted object": "cigar-shaped and round aluminum objects",
+    "location": "Moneta, Virginia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a crane operator for the Norfolk and Western Railroad and a mature housewife",
+    "contains photographs": false
 }

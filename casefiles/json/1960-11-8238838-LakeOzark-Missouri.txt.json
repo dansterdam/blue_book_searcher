@@ -1,17 +1,9 @@
-Based on the provided UFO report text, here is the summary in JSON format:
-
 {
-    "main event": "A bright, metallic, disc-shaped object with a dome on top was observed hovering and accelerating rapidly before disappearing from sight.",
-    "interesting points": [
-        "The object was estimated to be approximately 50-60 feet in diameter.",
-        "The object hovered for a few minutes before rapidly accelerating and disappearing.",
-        "No sound was heard from the object.",
-        "The object was observed for 2-3 minutes.",
-        "The witness was excited and frightened by the observation."
-    ],
-    "result": "unknown",
-    "sighted object": "metallic, disc-shaped object with a dome",
-    "location": "Lake Ozark, Missouri",
-    "witnesses": "Resident of Lake Ozark",
-    "photographs": "no"
+    "main event": "A resident of Lake Ozark, Missouri reported observing a metallic, disc-shaped object with a dome on top, which hovered and then accelerated rapidly before disappearing.",
+    "interesting points": "The object appeared to be larger than a conventional aircraft, measuring approximately 50 to 60 feet in diameter., The sighting occurred around 10:00 PM and lasted for about 2-3 minutes., The object made no sound during the observation., It was seen at an altitude of approximately 500 ft and reflected a brilliant light., The object maneuvered rapidly from side to side before climbing at a sharp angle.",
+    "sighted object": "metallic, disc-shaped object",
+    "location": "Lake Ozark, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Resident of Lake Ozark, Missouri",
+    "contains photographs": false
 }

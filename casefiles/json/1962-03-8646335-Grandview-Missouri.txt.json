@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar station tracked an unidentified bright object making drastic maneuvers at varying speeds up to over 600 knots in Grandview, Missouri in March 1962.",
-    "interesting points": [
-        "The object appeared directly on the radar scope and could be tracked and followed.",
-        "At times, the object disappeared completely from the radar screen only to reappear again.",
-        "The object traveled through varying speeds from slow to over 600 knots.",
-        "The object appeared white and extremely bright.",
-        "During the observation, the object made drastic maneuver changes impossible for conventional aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, white object tracked on radar",
-    "location": "Grandview, Missouri",
-    "witnesses": "USAF radar station",
-    "photographs": "no"
+    "main event": "A UFO was tracked on radar at a USAF station in Grandview, Missouri in March 1962.",
+    "interesting points": "The object appeared directly on the radar scope and could be tracked and followed., It traveled at varying speeds from subsonic to over 600 knots., The object appeared white and extremely bright., It made drastic maneuver changes impossible for conventional aircraft., USAF Lt. J. Allen Hynek analyzed the report and noted it was consistent with known UFO phenomena.",
+    "sighted object": "one extremely bright object",
+    "location": "Grandview, Missouri, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "reported via radar and analyzed by USAF personnel",
+    "contains photographs": false
 }

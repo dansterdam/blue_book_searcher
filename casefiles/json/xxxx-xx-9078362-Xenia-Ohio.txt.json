@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A witness observed a bright, disc-shaped object with a yellow light over Xenia, Ohio on May 4, 1957.",
-    "interesting points": [
-        "The object was about the size of a basketball, but much brighter.",
-        "The object moved in a jerky, erratic fashion, stopping, starting, and changing direction.",
-        "The object hovered or moved slowly at one point, taking up less than the diameter of a pencil held at arm's length.",
-        "The light from the object fluctuated in intensity before disappearing without a trail or flash.",
-        "The witness estimated the object was 15-20 miles away."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, disc-shaped object with a yellow light",
-    "location": "Xenia, Ohio",
-    "witnesses": "one witness",
-    "photographs": "no"
+    "main event": "Observers reported seeing an unidentified flying object in the sky near Xenia, Ohio on May 18, 1952.",
+    "interesting points": "The object appeared very bright and was described as round,The object was seen for approximately 5 minutes and 30 seconds,It moved from south to northwest at a high speed and emitted a bright light,The observer provided a description of the object as being about the size of a small airplane,This sighting was recorded as part of the Project Blue Book documentation",
+    "sighted object": "a bright, round object in the sky",
+    "location": "Xenia, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as emitting a very bright light and moving rapidly across the sky.",
+    "contains photographs": false
 }

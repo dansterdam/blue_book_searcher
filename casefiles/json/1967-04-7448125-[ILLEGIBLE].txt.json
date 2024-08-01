@@ -1,17 +1,9 @@
-Here is the JSON summary based on the text in the UFO report:
-
 {
-    "main event": "A witness observed a bright, metallic, disc-shaped object that moved rapidly and silently in the sky over Myrtle Beach, South Carolina on April 27, 1967.",
-    "interesting points": [
-        "The object was described as brilliant silver or metallic in appearance, about the size of a car.",
-        "It moved very rapidly and silently, disappearing suddenly.",
-        "The witness estimated the object was about 1/2 mile away and that a match head would have covered about 1/3 of the object.",
-        "There were no exhaust trails or vapor visible.",
-        "The witness had previously reported similar sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic, disc-shaped object",
-    "location": "Myrtle Beach, South Carolina",
-    "witnesses": "1 witness, a civilian",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed in Williamsport, Pennsylvania, on April 23, 1969, lasting for 25 seconds.",
+    "interesting points": "The object was described as shiny silver/white and silent., It gradually disappeared from view and moved behind clouds before reappearing., Other witnesses were present but could not corroborate details., The UFO appeared to float without any visible means of propulsion., It was reportedly about the size of a car and very rapid in movement.",
+    "sighted object": "A shiny silver/white object in the sky",
+    "location": "Williamsport, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One reliable witness and others present who did not contribute detailed accounts.",
+    "contains photographs": false
 }

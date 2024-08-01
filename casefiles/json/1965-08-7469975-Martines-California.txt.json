@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, light-colored object the size of a basketball was observed in the sky over Martines, California on August 5, 1965.",
-    "interesting points": [
-        "The object had 119 lights, with 6 smaller lights in a line.",
-        "The object made sudden movements and then vanished.",
-        "The object was observed to move 90 degrees eastward.",
-        "The object was spotted at 0500 and was a usual sight in the night skies.",
-        "The skies were clear at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, light-colored object the size of a basketball with 119 lights and 6 smaller lights in a line",
-    "location": "Martines, California",
-    "witnesses": "unnamed observer",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported in Martinez, California on August 5, 1965, involving a round light in the night sky.",
+    "interesting points": "The UFO was described as being the size of a basketball, with a yellow-white color,The object had a total of 119.2 lights and 6 smaller lights in line,The movement of the UFO was sudden and it displayed attraction due to its motion,There was no sound associated with the object,The sighting was reported by 5 witnesses and lasted for 15 minutes.",
+    "sighted object": "round yellow-white light",
+    "location": "Martinez, California, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "5 individuals observed the object simultaneously.",
+    "contains photographs": false
 }

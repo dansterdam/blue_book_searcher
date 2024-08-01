@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large 'flying saucer' with glowing areas on its leading edge was sighted over Fort Myers, Florida by a military witness.",
-    "interesting points": [
-        "The object was traveling at approximately 500 feet and appeared to be round or elliptical in shape.",
-        "The object had a metallic glowing edge or boundary and a moving part that was orange-red in color.",
-        "The witness could not detect any means of propulsion, and the object disappeared to the northwest at a great speed, faster than any airplane.",
-        "Two aircraft were sighted in the Oak Ridge area during the same time period, with one believed to have fired at the other object.",
-        "The unusual sightings were also reported by the AF radar station at Knoxville, Tennessee."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large 'flying saucer' with glowing areas on its leading edge",
-    "location": "Fort Myers, Florida",
-    "witnesses": "a military witness (a U.S. airplane purchasing agent during World War II)",
-    "photographs": "none"
+    "main event": "A military witness sighted a large 'flying saucer' over Ft. Myers, Florida.",
+    "interesting points": "The saucer was reported to have glowing areas on its leading edge and appeared round or elliptical in shape.,The object was traveling at about 500 feet altitude and had a metallic glowing edge.,The witnessed claimed no discernible means of propulsion for the object.,The flying saucer disappeared to the northwest at a speed faster than any airplane.,The witness was a U.S. airplane purchasing agent during World War II.",
+    "sighted object": "a large flying saucer with glowing areas",
+    "location": "Ft. Myers, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "U.S. airplane purchasing agent during World War II",
+    "contains photographs": false
 }

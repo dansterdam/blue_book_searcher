@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a single bright white object in the sky for about 1 minute on August 23, 1966 in New Carlisle, Ohio.",
-    "interesting points": [
-        "The witness had previously seen a similar object in the same area on August 23, 1956.",
-        "The object was observed at night in a clear sky, and it did not produce any sound.",
-        "The object appeared solid and sharply outlined, and it moved in a straight line to the northeast.",
-        "Other witnesses also observed the object, and the witness reported the sighting to the Air Force.",
-        "The report includes a diagram showing the object's motion and position relative to the horizon."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single bright white object",
-    "location": "New Carlisle, Ohio",
-    "witnesses": "a civilian witness",
-    "photographs": "no photographs"
+    "main event": "A civilian witnessed a bright white object in the sky in New Carlisle, Ohio on August 9, 1966.",
+    "interesting points": "The object was observed for 1 minute during the night,The witness reported clear weather and a clear sky at the time of observation,There was no physical evidence found related to the sighting,The object was described as appearing solid and bright white,The witness reported having seen a similar object before in August 23, 1956.",
+    "sighted object": "a bright white object",
+    "location": "New Carlisle, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, age 32, female",
+    "contains photographs": false
 }

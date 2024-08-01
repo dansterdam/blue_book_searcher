@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An unidentified flying object was sighted by personnel at Los Alamos, New Mexico on November 23, 1954.",
-    "interesting points": [
-        "The object was silver in color and traveling very slowly.",
-        "Two F-84 fighter jets were diverted to search for the object, but the results were negative.",
-        "The sighting was believed to be caused by a temperature inversion reflecting a civilian-type transport aircraft taking off from Santa Fe Airport.",
-        "The report states there was insufficient data to properly evaluate the sighting.",
-        "The conclusion of the report was that there was insufficient data to determine the nature of the unidentified object."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "An unidentified silver object",
-    "location": "Los Alamos, New Mexico",
-    "witnesses": "Military personnel",
-    "photographs": "No"
+    "main event": "An unidentified flying object was sighted by personnel in Los Alamos, New Mexico on 23 November 1954.",
+    "interesting points": "The object was silver in color and emitted no sound,The sighting lasted for 10 minutes,Two F-84 jets were diverted to investigate but found no results,The object was speculated to be a civilian transport due to a temperature inversion effect,Insufficient data was found for conclusive evaluation.",
+    "sighted object": "a silver unidentified flying object",
+    "location": "Los Alamos, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "personnel observing from the control tower",
+    "contains photographs": false
 }

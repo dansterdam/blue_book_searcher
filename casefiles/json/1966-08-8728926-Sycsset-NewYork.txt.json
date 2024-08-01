@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observed a bright green-white light in the sky over Syosset, Long Island, New York on August 17, 1966 around 9:06 PM. The object was descending rapidly and crossed the sky in about 5 minutes.",
-    "interesting points": [
-        "The object was described as a greenish-white light.",
-        "The object was descending rapidly when first observed.",
-        "The sighting lasted for about 5 minutes as the object crossed the sky.",
-        "The report states the object was not a cataloged satellite.",
-        "The Air Force response indicates the object was likely the satellite ECHO I, which was visible in the sky at the time."
-    ],
-    "result": "likely ECHO I satellite",
-    "sighted object": "bright greenish-white light",
-    "location": "Syosset, Long Island, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A sighting of a pseudo-satellite object observed in Oyster Bay, New York on August 17, 1966.",
+    "interesting points": "The sighting lasted for approximately 30 minutes., The object was reported to be descending., The observation was made visually., The object was described as a greenish-white light by one witness., The report was forwarded to the Smithsonian Astrophysical Observatory for clarification.",
+    "sighted object": "a pseudo-satellite object",
+    "location": "Oyster Bay, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer who reported seeing a greenish-white light.",
+    "contains photographs": false
 }

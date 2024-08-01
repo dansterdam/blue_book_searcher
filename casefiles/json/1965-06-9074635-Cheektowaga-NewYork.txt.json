@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported sighting a white, V-shaped flying object with a blinking effect that left no vapor trail in Cheektowaga, New York on June 10, 1965.",
-    "interesting points": [
-        "The object was described as somewhat V-shaped.",
-        "The object was white in color with a blinking effect.",
-        "The object left no vapor trail.",
-        "The sighting was reported to the Department of the Air Force in Washington, D.C.",
-        "The Air Force requested the individual fill out a form to report the observation of the unidentified flying object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, V-shaped flying object with a blinking effect",
-    "location": "Cheektowaga, New York",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "main event": "A civilian reported sighting a flying saucer in Cheektowaga, New York on June 10, 1965.",
+    "interesting points": "The object was described as V-shaped and white in color with a blinking effect., It left no vapor trail., The sighting involved one object observed from the ground., The observation was reportedly 'hot,' indicating urgency or immediacy., The author expressed interest in receiving more information about flying saucers from the Department of Defense.",
+    "sighted object": "one flying saucer",
+    "location": "Cheektowaga, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who had read about flying saucers",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ship's crew observed a fast-moving object that formed a contrail in the sky between Port Lincoln and Melbourne, Australia in 1958.",
-    "interesting points": [
-        "The contrail appeared to originate from some fast-moving body at an estimated altitude of over 50,000 feet.",
-        "The contrail remained visible for about 30 minutes, gradually dissipating over time.",
-        "The second officer likened the contrail to the trails left by V-2 rockets he had observed during 1944.",
-        "Abnormal refraction was noted at the time of observation, with another ship observed below the horizon and appearing inverted.",
-        "The sighting lasted for approximately 20 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "fast-moving object that formed a contrail",
-    "location": "Between Port Lincoln and Melbourne, Australia",
-    "witnesses": "ship's crew, including the second officer, chief engineer, and fifth engineer",
-    "photographs": "no photographs present"
+    "main event": "A UFO phenomenon was observed while traveling between Port Lincoln and Melbourne on 28 March 1958.",
+    "interesting points": "The observation included a radar confirmation of an unusual target,The observation lasted for about 20 seconds,The report suggests the object could be an astronomical or meteorological phenomenon,No further data was available for a conclusive evaluation,The sighting was made by ship crew members.",
+    "sighted object": "Unidentified flying object indicated by radar blip",
+    "location": "Between Port Lincoln & Melbourne, Australia",
+    "number of confirmed witnesses": 3,
+    "witness description": "Second Officer, Chief Engineer, Fifth Engineer of the ship",
+    "contains photographs": false
 }

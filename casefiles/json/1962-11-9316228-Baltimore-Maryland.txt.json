@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was observed in the sky by a cab driver in Baltimore, Maryland on November 7, 1962.",
-    "interesting points": [
-        "The object was observed to the south of Baltimore and maintained speed and direction.",
-        "The sighting lasted approximately half the distance between the horizon.",
-        "The witness, a night operator for the Electrical Boat Co., had never seen anything like this before.",
-        "The witness called the control tower at Essex to verify if any aircraft were in the air at the time, but was told none were.",
-        "The witness described the object as moving considerably faster than any ordinary aircraft and not blinking."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, fast-moving object in the sky",
-    "location": "Baltimore, Maryland",
-    "witnesses": "a cab driver, a night operator for the Electrical Boat Co.",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A cab driver observed a bright object in the sky to the south of Baltimore, Maryland on November 7, 1962.",
+    "interesting points": "The sighting lasted for approximately half the distance between the horizon., The object maintained a constant speed and direction., It was described as not blinking and moving faster than ordinary aircraft., An investigation request was made to the control tower, confirming no aircraft were in the air at that time., The sighting was reported to NASA and referenced in records of previous sodium/chemical shots from Wallops Island.",
+    "sighted object": "a bright, non-blinking object in the sky",
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a cab driver and a night operator for the Electrical Boat Co. in Middle River",
+    "contains photographs": false
 }

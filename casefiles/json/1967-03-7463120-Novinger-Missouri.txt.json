@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a single, bright, greenish-colored object that remained stationary for several minutes in Novinger, Missouri.",
-    "interesting points": [
-        "The object initially appeared to be a UFO, but was later concluded to be the planet Venus.",
-        "The witness had prior UFO sightings that appeared to have the same source and destination as the reported sighting.",
-        "The object displayed a flashing red light and exhibited various movements, such as going back and forth, expanding and contracting, and rising up and dropping back down.",
-        "The object eventually disappeared in a westerly direction.",
-        "The witness was a reliable individual who worked for the Schneider Construction Company and had completed 11th grade in high school."
-    ],
-    "result": "OBJECT (VENUS)",
-    "sighted object": "a bright, greenish-colored object",
-    "location": "Novinger, Missouri",
-    "witnesses": "a single witness",
-    "photographs": "no"
+    "main event": "A civilian observed a bright greenish object in the sky for several minutes, initially believed to be a UFO, later concluded to be Venus.",
+    "interesting points": "The object remained stationary for several minutes., The observer reported the object as bright and greenish-colored., The observation was made in clear weather conditions., The witness had prior experience with similar sightings., The conclusion of the report identified the object as Venus.",
+    "sighted object": "bright greenish object",
+    "location": "Novinger, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. Rodgers, age 25, male, prior UFO sightings",
+    "contains photographs": false
 }

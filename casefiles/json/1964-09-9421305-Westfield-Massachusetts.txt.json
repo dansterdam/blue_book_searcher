@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A mother ship and four smaller ships were observed performing maneuvers over an 8-hour period in Westford, Massachusetts on September 6, 1964.",
-    "interesting points": [
-        "The objects were observed through binoculars, not with the naked eye.",
-        "The witness believed the objects could have been a government experimental craft.",
-        "The objects made 90-degree turns and hovered briefly before speeding away.",
-        "A separate sighting was reported of a silvery-white, cigar-shaped object approximately 80 feet long in Westfield, Massachusetts on September 9, 1964.",
-        "Another sighting was reported of a small, luminous, circular object moving across the sky in Westfield, Massachusetts on September 9, 1964."
-    ],
-    "result": "unreliable report",
-    "sighted object": "mother ship and four smaller ships, silvery-white cigar-shaped object, small luminous circular object",
-    "location": "Westford, Massachusetts; Westfield, Massachusetts",
-    "witnesses": "civilian(s)",
-    "photographs": "no"
+    "main event": "A witness reported sighting a UFO that appeared to be an oval-shaped craft about 30 to 50 feet in diameter in Westford, Massachusetts on September 6, 1964.",
+    "interesting points": "The craft moved rapidly and silently across the sky, making a 90 degree turn and hovering briefly,The objects were observed through binoculars,The witness speculated it could have been a government experimental craft,The sighting lasted for 10 to 15 minutes,The objects were not visible to the naked eye but revealed through binocular observations.",
+    "sighted object": "oval-shaped craft, approximately 30 to 50 feet in diameter",
+    "location": "Westford, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a man and his wife, along with their son age 12.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A bright light was observed moving south over Big Bend National Park, Texas on April 20, 1964.",
-    "interesting points": [
-        "The object appeared as a stationary light, similar to a star, but then disappeared behind a mountain peak.",
-        "The object was observed moving to the south at an elevation of around 15 degrees.",
-        "The report notes that the object had characteristics similar to a satellite, but the duration of the sighting was longer than expected for a satellite.",
-        "The observer was unsure if they had accurately estimated the duration of the sighting.",
-        "The report concludes that the observed object was likely the ECHO II satellite."
-    ],
-    "result": "likely ECHO II satellite",
-    "sighted object": "a bright light",
-    "location": "Big Bend National Park, Texas",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "A solid light-like object was observed moving to the south in Big Bend National Park on April 20, 1964.",
+    "interesting points": "The object resembled a star and had no blinking unlike a planet., The object disappeared behind a mountain peak., The observation lasted between 15 to 30 minutes., The object's course was noted as southerly during the observation period., It displayed characteristics similar to a satellite but had an unforeseen duration.",
+    "sighted object": "solid light-like object",
+    "location": "Big Bend National Park, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses were described in the report.",
+    "contains photographs": false
 }

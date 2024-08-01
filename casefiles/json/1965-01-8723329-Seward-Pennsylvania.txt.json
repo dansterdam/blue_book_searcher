@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a single bright, glowing object entering the atmosphere over Seward, Pennsylvania in 1965.",
-    "interesting points": [
-        "The object was described as a large silver glow that appeared like a shooting star.",
-        "The observation lasted for only 2 seconds.",
-        "The Air Force concluded the sighting was an astronomical event, likely a meteor.",
-        "A pilot had previously reported seeing a small, circular, lighted object over Seward, Pennsylvania in 1922.",
-        "Another handwritten document mentions observing large, white, star-like objects in the sky over Seward."
-    ],
-    "result": "Astronomical (meteor)",
-    "sighted object": "A bright, glowing object entering the atmosphere",
-    "location": "Seward, Pennsylvania",
-    "witnesses": "Civilian witness, commercial pilot",
-    "photographs": "No"
+    "main event": "Observation of a large silver glow entering the atmosphere, described as a meteor by the witness.",
+    "interesting points": "The object was observed for a short duration of 2 seconds,The object was described as having a large silver glow resembling a shooting star,The conclusion of the observation was categorized as astronomical (meteor),There were no photographs or physical evidence associated with the sighting,The location of the event was Seward, Pennsylvania.",
+    "sighted object": "large silver glow",
+    "location": "Seward, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a single object in Bovey, Minnesota on April 15, 1966 for a duration of 3 hours.",
-    "interesting points": [
-        "The object was described as 'AUTO (JUPITER) - VERY SLOW'.",
-        "The observer took 5 photographs of the object.",
-        "The object was reported to be round, the size of a half dollar, and red in color.",
-        "The object was observed flashing on and off.",
-        "5 persons had seen the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single red, round object the size of a half dollar",
-    "location": "Bovey, Minnesota",
-    "witnesses": "civilian observer",
-    "photographs": "yes, 5 photographs were taken"
+    "main event": "A civilian observer reported seeing a single unidentified object in Bovey, Minnesota on April 15, 1966.",
+    "interesting points": "The observation lasted for 3 hours., The object was described as round and red., The object was reported to have exploded with two white flashes before moving on., The observer recorded the sighting while driving in a car at tree top level., 5 other persons confirmed seeing the object during the sighting.",
+    "sighted object": "a round, red object",
+    "location": "Bovey, Minnesota, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "civilian observer and 5 other witnesses",
+    "contains photographs": true
 }

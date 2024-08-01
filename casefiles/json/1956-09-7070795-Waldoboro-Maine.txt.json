@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver-gray cigar-shaped object was sighted near Waldoboro, Maine on September 10, 1956.",
-    "interesting points": [
-        "The object approached the observer at high speed, hovered, and made two 90-degree turns before returning to its original course.",
-        "The object appeared to be lit but lacked definite contours.",
-        "The object was the size of a quarter held at arm's length.",
-        "The object was initially sighted at 45 degrees elevation in the SSE.",
-        "The sighting lasted for about 5 minutes."
-    ],
-    "result": "Probable Aircraft",
-    "sighted object": "Silver-gray cigar-shaped object",
-    "location": "Waldoboro, Maine",
-    "witnesses": "A civilian and a Navy petty officer",
-    "photographs": "No photographs were included in the report."
+    "main event": "On 10 September 1956, a silver gray cigar-shaped object was sighted in Waldoboro, Maine.",
+    "interesting points": "The object approached the observer at high speed., It hovered and made two 90-degree turns before returning to its original course., The object was described as the size of a quarter at arm's length., It emitted a diffused light but lacked distinct contours., The sighting lasted for about 5 minutes.",
+    "sighted object": "one silver gray cigar-shaped object",
+    "location": "Waldoboro, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 29-year-old clerk typist and petty officer in the United States Navy",
+    "contains photographs": false
 }

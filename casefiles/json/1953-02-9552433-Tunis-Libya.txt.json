@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified bright object with a halo of diffused light was observed by the crew of a C-119 aircraft over Tunis, Libya on February 11, 1953.",
-    "interesting points": [
-        "The object appeared very bright and was observed at 17,000 feet, making an indicated airspeed of 170 knots.",
-        "The length of the sighting varied from 5 to 55 minutes, and several crew members stated the object appeared to ascend and descend slowly.",
-        "Four out of the five crew members believed the object was not a star, while the remaining observer would not commit to a conclusion.",
-        "Project Blue Book submitted the case to an astrophysicist, who determined the object was likely the planet Venus, which would appear very bright under the fair weather conditions.",
-        "The fact that the object remained almost stationary and was observed for a long period of time supported the conclusion that it was Venus."
-    ],
-    "result": "Probably Venus",
-    "sighted object": "A bright object with a halo of diffused light",
+    "main event": "An unidentified object was observed by the crew of a C-119 aircraft over Tunis, Libya on February 11, 1953, for approximately 45 minutes.",
+    "interesting points": "The object was first seen as a red object that appeared aircraft-like and was later described as a sharp bright light with a halo of diffused light around it., The sighting varied in length from 5 to 55 minutes, depending on the observer., Four out of five crew members believed the object was not a star, while one was indecisive., The object was observed at an altitude of 17,000 feet and was noted to have an angular velocity of 1/4 mile per second., The conclusion drawn was that the object was possibly Venus due to its brightness and the conditions at the time.",
+    "sighted object": "unidentified bright object with a halo of diffused light",
     "location": "Tunis, Libya",
-    "witnesses": "Crew of a C-119 aircraft",
-    "photographs": "No"
+    "number of confirmed witnesses": 5,
+    "witness description": "crew of a C-119 aircraft",
+    "contains photographs": false
 }

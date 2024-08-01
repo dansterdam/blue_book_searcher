@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple sightings of unidentified objects in the sky over Shelby, Montana on April 25, 1960",
-    "interesting points": [
-        "The objects appeared to be circular craft, approximately 10 feet in diameter, that emitted a strong white light shining downward with a red glow, apparently from the underside.",
-        "The objects would stand perfectly still for several minutes, then suddenly dart from one position to another.",
-        "The witness reported a total of five sightings, with three objects in the first sighting and five objects in each of the four other sightings.",
-        "The objects appeared to get faster and more erratic in their movements during the final few minutes of each sighting.",
-        "The witness had 8mm cameras and wanted to develop the film to see if there was anything on it, and also wanted to know where they could report future sightings to take immediate action."
-    ],
-    "result": "unidentified",
-    "sighted object": "circular craft, approximately 10 feet in diameter, with a strong white light shining downward and a red glow",
-    "location": "Shelby, Montana",
-    "witnesses": "multiple, including the witness who reported the sightings",
-    "photographs": "none, but the witness had 8mm cameras and wanted to develop the film"
+    "main event": "Two witnesses observed unidentified flying objects in Shelby, Montana on April 25, 1960.",
+    "interesting points": "Witnesses reported a total of five sightings of the same object over a period of time., The objects were described as circular and emitted a strong white light., They appeared to move in a trail formation, changing speeds and directions rapidly., No specific details about the objects were available, as provided photographs were uninformative., The case remains classified as 'unidentified' by the Project Blue Book analysis.",
+    "sighted object": "unidentified flying objects",
+    "location": "Shelby, Montana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Ground-viewed observations reported.",
+    "contains photographs": false
 }

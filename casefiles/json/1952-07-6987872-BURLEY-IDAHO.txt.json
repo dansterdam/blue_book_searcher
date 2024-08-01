@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Multiple unidentified objects were sighted over Burley and Fern, Idaho on July 23, 1952.",
-    "interesting points": [
-        "The objects were described as circular, light yellowish-white in color, and moving very fast at high altitudes.",
-        "There were three objects observed in a V-formation that disappeared to the south.",
-        "The objects were sighted visually by multiple witnesses, including a police officer, but no sound was audible.",
-        "Weather conditions at the time were clear with 30 miles visibility.",
-        "No physical evidence or photographs were available, and no interception or identification action was taken."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple circular, light yellowish-white objects",
-    "location": "Burley and Fern, Idaho",
-    "witnesses": "multiple civilian witnesses and a police officer",
-    "photographs": "none"
+    "main event": "Multiple unidentified flying objects were sighted over Burley and Fern, Idaho on July 23, 1952, moving very fast from north to south.",
+    "interesting points": "Witnesses observed three circular objects that were light yellowish-white and moving in a V formation,The objects were reported to be about three times their length, trailing a tail of flame,The sighting lasted approximately 15 to 30 minutes,Clear weather conditions were reported at the time with 30 miles visibility,Several witnesses including civilians and a policeman observed the objects.",
+    "sighted object": "three circular objects trailing flames",
+    "location": "Burley, Idaho, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians and a policeman",
+    "contains photographs": false
 }

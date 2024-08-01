@@ -1,15 +1,9 @@
 {
-  "main event": "Two incidents occurred on 3rd May 1948 in Middleport, Ohio, involving a total of 18 civilians who observed an unidentified object for a duration of 45 seconds.",
-  "interesting points": [
-    "The report states that the insufficient light on the object below made it difficult to discern its nature.",
-    "The document suggests that the phenomenon observed resembled the reflection of an airplane beacon or search light against an overcast, which would appear periodic, phosphorescent, travel at great speed, and be oval in shape.",
-    "Dr. Hynek's evaluations extracted from the Project Grudge report mention incidents with high, fair, or low probability of astronomical origin, as well as incidents suggestive of other explanations such as balloons, aircraft, rockets, flares, falling bodies, and miscellaneous objects.",
-    "There are several incidents categorized as non-astronomical with no evident explanation or lacking sufficient evidence for an explanation.",
-    "The reports refer to a wide range of sightings, including those resembling aircraft, falling bodies, and unexplained phenomena."
-  ],
-  "result": "The incidents are classified as non-astronomical with no evident explanation or lacking sufficient evidence for an explanation.",
-  "sighted object": "Unidentified object observed in Middleport, Ohio",
-  "location": "Middleport, Ohio",
-  "witnesses": "18 civilians",
-  "photographs": "No photographs included in the report"
+    "main event": "Several incidents of unidentified aerial phenomena observed by civilians in Ohio during May 1948.",
+    "interesting points": "The first incident involved 8 civilians observing an object under insufficient light for 45 seconds., The second incident on 8 May 1948 reported a phenomenon similar to an airplane beacon reflecting against an overcast sky., The report suggested the object could appear phosphorescent and travel at high speed., Weather conditions at the time of the observations were not stated in any detail., Dr. Hynek evaluated various incidents, categorizing them into astronomical and non-astronomical explanations, suggesting a systematic investigation approach.",
+    "sighted object": "Unidentified aerial phenomena resembling an airplane beacon or searchlight",
+    "location": "Middleport, Ohio, USA",
+    "number of confirmed witnesses": 8,
+    "witness description": "Civilians observing the phenomena",
+    "contains photographs": false
 }

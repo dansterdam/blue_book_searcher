@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified flying object sighted over Amarillo Air Force Base in Texas on November 23, 1957.",
-    "interesting points": [
-        "The object was described as a round, white, glowing object the size of a hill that stayed towards the observer and then veered up and to the right.",
-        "The object was sighted for around 2-3 minutes.",
-        "The observer was an Airman 3rd Class from the 68th Aircraft Control and Warning Squadron, who was an air policeman.",
-        "There was a Piper Tri-Pacer aircraft in the area at the time, but the observer doubted it was that aircraft based on the speed and lack of sound.",
-        "The report was submitted to the Commander of the Air Defense Command at Ent Air Force Base, Colorado Springs, Colorado."
-    ],
-    "result": "unexplained",
-    "sighted object": "A round, white, glowing object the size of a hill",
-    "location": "Amarillo Air Force Base, Texas",
-    "witnesses": "An Airman 3rd Class from the 68th Aircraft Control and Warning Squadron",
-    "photographs": "No photographs included"
+    "main event": "Several unidentified flying object sightings reported at Amarillo Air Force Base, Texas, on November 17 and November 23, 1957.",
+    "interesting points": "The first sighting involved a glowing object that appeared to move upward and lower in a westward direction, lasting about 1 minute., The second sighting described a round, white, glowing object, the size of a hill, which veered up and to the right after moving toward the observer., One report speculated that the observer probably saw an aircraft that was in the vicinity at the time., Multiple sightings reported and documented by the 68th Aircraft Control and Warning Squadron., Observers described varying conditions including clear weather during the sightings.",
+    "sighted object": "glowing object and round, white object",
+    "location": "Amarillo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "R.D. Fitchall, A/3C, Air Policeman",
+    "contains photographs": false
 }

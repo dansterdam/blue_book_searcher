@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A resident of Brimfield, Massachusetts observed a single white light traveling at high speed in a north-south direction on October 9, 1964.",
-    "interesting points": [
-        "The object appeared and disappeared suddenly, with the entire sighting lasting approximately 5 minutes.",
-        "The witness, Mr. Carl Smith, saw the object in a clear sky with no moon.",
-        "There were no other witnesses reported.",
-        "The investigators concluded that there was insufficient evidence to determine the nature of the object, and the sighting remains unidentified.",
-        "The report indicates that the TV and lights of a nearby neighbor, Mrs. Chevalier, also fluctuated during the sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "single white light",
-    "location": "Brimfield, Massachusetts",
-    "witnesses": "Mr. Carl Smith",
-    "photographs": "no"
+    "main event": "Mrs. Irene Page reported seeing a sparkling ball of light intermittently appearing and disappearing over Brimfield, Massachusetts on October 9, 1964.",
+    "interesting points": "The object was visible for approximately three hours from 8:30 PM to 11:45 PM., The object changed in brightness and would blaze and recede., Mrs. Page was unable to estimate the size or shape of the object, having no phone to contact authorities during the sighting., Mrs. Page observed fluctuations in TV reception during the sighting, confirming similar experiences from neighbors., The object eventually disappeared from view in the distant sky.",
+    "sighted object": "sparkling ball of light",
+    "location": "Brimfield, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. Irene Page, a housewife",
+    "contains photographs": false
 }

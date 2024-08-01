@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "An unidentified object was observed in the sky near Clearwater, Florida on July 8, 1964. The object was reported to be hovering and emitting a bright light.",
-    "interesting points": [
-        "The object remained stationary for several minutes before suddenly accelerating and disappearing from view.",
-        "The incident was investigated by Project Blue Book, the U.S. Air Force's program for investigating unidentified flying objects (UFOs).",
-        "Based on the available information, the investigators were unable to determine the identity or origin of the object.",
-        "The case was classified as 'unidentified'.",
-        "An examination of official records showed that an unusual, unexplainable aerial object was reported and observed by witnesses."
-    ],
-    "result": "unidentified",
-    "sighted object": "bright, hovering light",
-    "location": "Clearwater, Florida",
-    "witnesses": "two witnesses",
-    "photographs": "no photographs"
+    "main event": "On July 8, 1964, multiple witnesses reported seeing unidentified flying objects in the sky over Clearwater, Florida.",
+    "interesting points": "The sightings included objects described as bright, round, and emitting a white glow,Many witnesses reported witnessing strange lights in the sky on July 4th, causing confusion,Police Chief Dempsey Barron stated that the lights did not resemble any known aircraft,An investigation was conducted by Project Blue Book, several documents were generated about the sightings, many witnesses corroborated the events they observed.",
+    "sighted object": "Unidentified flying objects, including bright lights and round objects",
+    "location": "Clearwater, Florida, USA",
+    "number of confirmed witnesses": 20,
+    "witness description": "Multiple residents and officials including police and civillians stating they observed strange flying lights or objects.",
+    "contains photographs": false
 }

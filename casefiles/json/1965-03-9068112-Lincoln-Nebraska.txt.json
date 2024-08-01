@@ -1,15 +1,9 @@
 {
-    "main event": "Unidentified flying object observed on March 15, 1965 in Lincoln, Nebraska",
-    "interesting points": [
-        "The object was observed for about 8 seconds and appeared to be aircraft-like lights heading south.",
-        "The object was seen by a civilian observer, and the sighting was reported to the U.S. Air Force's Project Blue Book investigation.",
-        "The Air Force concluded that the object observed was likely a scheduled weather balloon, and there was no evidence it was an extraordinary or unknown aerial phenomenon.",
-        "The report includes a detailed questionnaire for the observer to provide information about the sighting, such as time, location, weather conditions, and description of the object.",
-        "The report indicates that the observer was unable to estimate the speed or distance of the object, and a sketch was provided to illustrate the motion and appearance of the object."
-    ],
-    "result": "Explained as a weather balloon",
-    "sighted object": "Lights appearing to be aircraft",
-    "location": "Lincoln, Nebraska",
-    "witnesses": "Civilian observer",
-    "photographs": "No photographs included"
+    "main event": "On 15 March 1965, an unidentified flying object resembling an aircraft was observed in Lincoln, Nebraska.",
+    "interesting points": "The sighting lasted for about eight seconds., The object appeared to be flying south during the observation., Distinguishing characteristics of the object were not provided., It was later suggested that the sighting could be attributed to a scheduled weather balloon release in the area., The report was part of Project Blue Book, which investigated UFO sightings for the U.S. Air Force.",
+    "sighted object": "lights that appeared to be aircraft",
+    "location": "Lincoln, Nebraska, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

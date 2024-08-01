@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observed an unidentified object moving up and down in the sky for 2 hours in Newport, Kentucky.",
-    "interesting points": [
-        "The object was described as being round with a bright light in the center.",
-        "The witnesses were looking skyward and may have been watching an astronomical body.",
-        "There is no indication of difficulty or directives to determine what was observed.",
-        "The Air Force requested the witness complete a report form for further evaluation.",
-        "No photographs were taken of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "round object with a bright light in the center",
-    "location": "Newport, Kentucky",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A civilian observed a round object with a bright light in the center moving up and down in the sky for 2 hours in Newport, Kentucky.",
+    "interesting points": "The observation lasted for 2 hours,The object was described as round with a bright light at its center,The witnesses were uncertain whether they were observing an astronomical body, The report indicates that an inquiry was made to obtain more information,There are no photographs included in the documentation.",
+    "sighted object": "a round object with a bright light in the center",
+    "location": "Newport, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian",
+    "contains photographs": false
 }

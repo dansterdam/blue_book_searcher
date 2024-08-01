@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, stationary object was observed near Mt. Whitney, California that suddenly went out of sight.",
-    "interesting points": [
-        "The object appeared as a very large and distant star with a bright green color.",
-        "The object illuminated the canyon wall and campground, as if exposed by a photo flash.",
-        "The object was observed for approximately 30 seconds, from an elevation of 72 degrees to 45 degrees above the horizon.",
-        "The location of the sighting was the Mt. Whitney Portal Campground, about 6,218 feet east of Mt. Whitney.",
-        "The report describes the sighting as typical of a meteor, although the object was stationary and did not move until it went out of sight."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, stationary object",
-    "location": "Mt. Whitney, California",
-    "witnesses": "unknown",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A bright stationary light was observed near Mt. Whitney, California, appearing to illuminate the surrounding area like a photo flash before going out of sight.",
+    "interesting points": "The object was described as being much brighter than stars in the night sky., The sighting lasted approximately 30 seconds., The object caused illumination in the canyon wall and campground., It was reported to resemble a meteor but significantly brighter., The sighting occurred on September 18, 1960, 8 miles NW of Pasadena.",
+    "sighted object": "a very bright stationary light",
+    "location": "Pasadena, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witness descriptions provided",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, circular object was observed over Auburn, Alabama on November 15, 1952.",
-    "interesting points": [
-        "The object was observed for about 1 hour and 15 minutes, starting around 6:30 PM.",
-        "The object appeared to be very bright, like a flashlight shining, but had no discernible color.",
-        "The object did not move at any time during the observation.",
-        "No sound was associated with the object.",
-        "The observer was unable to estimate the exact size of the object, but compared it to being a little smaller than the head of a pin held at arm's length."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, circular object",
-    "location": "Auburn, Alabama",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "On 9 November 1952, witnesses observed a bright orange light in the sky above Auburn, Alabama, which moved rapidly north after being stationary for about 10 seconds.",
+    "interesting points": "Witnesses included a first lieutenant and numerous students from Alabama Polytechnic Institute, who reported a bright light that changed color and hovered for a significant amount of time., The sighting occurred after a football game, which drew a larger crowd's attention to the sky., The object was described as approximately 1000 feet above the ground and moving at a rapid speed., Reports indicated that the object was soundless and showed no visible means of propulsion., The weather was clear, with conditions allowing for good visibility of the object.",
+    "sighted object": "a bright orange light",
+    "location": "Auburn, Alabama, USA",
+    "number of confirmed witnesses": 50,
+    "witness description": "Students and a first lieutenant in the area who observed the light during and after a football game.",
+    "contains photographs": false
 }

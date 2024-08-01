@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white with reddish glow object was observed moving at high speed, descending vertically from about 35 degrees elevation to about 12 degrees elevation with 15 degrees horizontal oscillation, before fading out.",
-    "interesting points": [
-        "The object was observed for about 6-7 seconds.",
-        "The object was initially at an elevation of about 35 degrees, then descended to about 8,000 feet before fading out.",
-        "The object did not make any sound.",
-        "The observation was reported by a US Navy officer and four deck seamen, all considered experienced and reliable.",
-        "The weather conditions were calm with no high clouds, and there were no aircraft seen in the area at the time of the sighting."
-    ],
-    "result": "was related to test or known aircraft",
+    "main event": "On December 6, 1960, a radar observation reported a high-speed object with a white and reddish glow descending vertically at high speed.",
+    "interesting points": "The sighting lasted for 6-7 seconds, The object descended to about 8,000 feet before fading out, The object was observed using ground radar, The observation concluded it was related to known aerospace activity, Four experienced naval seamen confirmed the sighting.",
     "sighted object": "a white with reddish glow object",
-    "location": "3350N14220E Japan",
-    "witnesses": "US Navy officer and four deck seamen",
-    "photographs": "no"
+    "location": "Japan",
+    "number of confirmed witnesses": 4,
+    "witness description": "naval seamen on watch",
+    "contains photographs": false
 }

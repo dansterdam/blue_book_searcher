@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A citizen observed an unusual object in the sky on April 23, 1952.",
-    "interesting points": [
-        "The object was traveling at a very high rate of speed.",
-        "The object was illuminated all over.",
-        "The object appeared to be about 100 to 150 feet in diameter.",
-        "The object seemed to descend and then climb upwards.",
-        "The sighting lasted about 6 to 8 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified illuminated object",
-    "location": "unknown",
-    "witnesses": "a citizen",
-    "photographs": "no"
+    "main event": "A witness reported seeing an unidentified object in the sky that exploded after being observed.",
+    "interesting points": "The object was described as a comet or similar phenomenon,There was no physical evidence collected related to the sighting,The observer was encouraged to complete a questionnaire for further investigation,The incident occurred on April 26, 1950,The witness noted the object traveled at a high rate of speed and fluctuated in altitude.",
+    "sighted object": "unidentified object described as a comet",
+    "location": "California, CA, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A citizen who observed the object in the sky",
+    "contains photographs": false
 }

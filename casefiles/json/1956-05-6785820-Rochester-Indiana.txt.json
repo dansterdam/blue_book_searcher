@@ -1,15 +1,9 @@
 {
-  "main event": "On May 7, 1956, in Rochester, Indiana, a stationary round object, three inches in diameter with silver and green color, was observed. It was identified as a fixed beacon light by a scrambled aircraft.",
-  "interesting points": [
-    "Observation was made by a civilian-military source.",
-    "The UFO was described as a small round object with specific colors.",
-    "One aircraft was scrambled to identify the UFO as a fixed beacon light.",
-    "The report indicates the possibility of the object being astronomical in nature.",
-    "There were no photographs included with the report."
-  ],
-  "result": "Possibly Astronomical",
-  "sighted object": "stationary round object, three inches in diameter, with silver and green color",
-  "location": "Rochester, Indiana",
-  "witnesses": "civilian-military source",
-  "photographs": "no"
+    "main event": "One round object, three inches in diameter, observed in Rochester, Indiana on 7 May 1956.",
+    "interesting points": "The object was described as silver and green,The observation was made by a civilian source,One aircraft was scrambled in response to the sighting,The object was identified as a fixed beacon light,It was determined to possibly be astronomical.",
+    "sighted object": "one round object",
+    "location": "Rochester, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

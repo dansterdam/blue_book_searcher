@@ -1,15 +1,9 @@
 {
-    "main event": "A bright white object was observed in the sky over Alamosa, Colorado on October 21, 1965.",
-    "interesting points": [
-        "The object was round in shape and had a brief flash of bright white color.",
-        "The observers believed the object was similar to an aircraft or rocket based on the color and lack of sound.",
-        "There was no distinct trail or fragmentation data observed.",
-        "The sighting only lasted for about 2 seconds.",
-        "The preliminary analysis indicated the object was likely a meteorite."
-    ],
-    "result": "meteorite",
-    "sighted object": "a bright white, round object",
-    "location": "Alamosa, Colorado",
-    "witnesses": "unspecified observers",
-    "photographs": "no photographs were taken"
+    "main event": "An unidentified object was observed in Alamosa, Colorado, on 21 October 1965.",
+    "interesting points": "The object was described as round with a brief flash of bright white color., The observation lasted only 2 seconds., The observer speculated that it resembled an aircraft or rocket due to its color and lack of sound., No photographs or physical evidence were documented in the report., The case is classified as closed.",
+    "sighted object": "one round object with a bright white flash",
+    "location": "Alamosa, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "electronic technician, reliable source",
+    "contains photographs": false
 }

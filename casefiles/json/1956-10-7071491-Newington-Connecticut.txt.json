@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a UFO hovering over the treetops in a field behind his house in Newington, Connecticut on October 7, 1956.",
-    "interesting points": [
-        "The witness was a real estate agent named Thomas Warren.",
-        "The UFO hovered above the treetops for about 10 minutes before disappearing without making any sound or emitting any smoke.",
-        "The report includes two black and white photographs, though the quality is not specified.",
-        "The Air Force concluded they could not properly evaluate or analyze the sighting due to insufficient information and the age of the photographs.",
-        "The Air Force letter thanks the witness for submitting the photographs and information, but states they are unable to properly assess the sighting."
-    ],
-    "result": "unable to evaluate",
-    "sighted object": "one unidentified flying object",
-    "location": "Newington, Connecticut",
-    "witnesses": "Thomas Warren, a real estate agent",
-    "photographs": "yes, two black and white photographs were included"
+    "main event": "A witness observed a UFO hovering above the treetops for about 10 minutes in Newington, Connecticut on October 7, 1956.",
+    "interesting points": "The UFO disappeared without sound or smoke,The witness, Thomas Warren, was a real estate agent,The sighting was documented with a letter sent to the Air Force,The photographs accompanying the report were considered too old to evaluate,The report contains insufficient data for evaluation and suggests the object may have been a balloon or astronomical.",
+    "sighted object": "unidentified flying object",
+    "location": "Newington, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Thomas Warren, a real estate agent",
+    "contains photographs": false
 }

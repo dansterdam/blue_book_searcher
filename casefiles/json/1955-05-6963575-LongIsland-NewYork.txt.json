@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three sizeable objects in a 'V' formation were detected on ground radar for 15 minutes over Long Island, New York on May 6, 1953.",
-    "interesting points": [
-        "The objects were unaccounted for in terms of their course.",
-        "The case was considered to have insufficient data for accurate evaluation.",
-        "The report mentions potential transmissions related to the sighting, but provides no additional details.",
-        "The report includes coordinates and speed information for the objects, but no other descriptive details.",
-        "The report was filed by 1st Lt. David A. Brown, the Senior Director at Highlands Air Force Station."
-    ],
-    "result": "unexplained",
-    "sighted object": "three sizeable objects in a 'V' formation",
-    "location": "Long Island, New York",
-    "witnesses": "ground radar operators",
-    "photographs": "none"
+    "main event": "Three sizeable objects were observed in a 'v' formation over Long Island, New York on 6 May 1953.",
+    "interesting points": "The sighting lasted for about 15 minutes,The observation was classified under ground-radar type,There were multiple unaccounted objects reported,Case considered as insufficient data for accurate evaluation,The report is linked to Project Blue Book, a U.S. Air Force UFO investigation program.",
+    "sighted object": "three sizeable objects in 'v' formation",
+    "location": "Long Island, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian observations",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A person in Yonkers, New York sighted and filmed several unidentified flying objects over the Yonkers bay on March 19, 1967.",
-    "interesting points": [
-        "The objects appeared to be flying or floating just above the sound at an estimated height of 150 feet.",
-        "The observer made 8mm movie film of the sightings, but the objects appeared blurred in the footage.",
-        "The observer became quite excited while filming the objects.",
-        "The sighting lasted from 6:00 AM to 6:45 AM.",
-        "The observer requested guidance from the Air Force on what to do with the film."
-    ],
-    "result": "unexplained",
-    "sighted object": "several unidentified flying objects",
-    "location": "Yonkers, New York",
-    "witnesses": "1 civilian observer",
-    "photographs": "Yes, 8mm movie film was taken"
+    "main event": "Several unidentified flying objects were observed and filmed over Yonkers, New York on March 19, 1967.",
+    "interesting points": "The sighting lasted approximately 45 minutes,The witness reported filming the objects but described the images as blurred,The objects were observed from a 16th-floor apartment,The witness expressed interest in receiving feedback and analysis of the film submitted to the Air Force,Colonel Manaff's correspondence indicated long processing times for film evaluations.",
+    "sighted object": "four unidentified flying objects",
+    "location": "Yonkers, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A civilian observer and a companion watching from an apartment",
+    "contains photographs": false
 }

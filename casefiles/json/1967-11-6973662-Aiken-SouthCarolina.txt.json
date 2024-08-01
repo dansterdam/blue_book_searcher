@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian radar technician observed a disc-shaped object with lighted rings at the top and bottom hovering at treetop level for 15 minutes before accelerating horizontally at high speed in Aiken, South Carolina on November 6, 1967.",
-    "interesting points": [
-        "The object was disc-shaped, approximately 40-50 feet in diameter.",
-        "The object had lighted rings at the top and bottom.",
-        "The object hovered at treetop level for 15 minutes before accelerating horizontally at high speed.",
-        "The sighting was reported to the state highway patrol by another witness in the area, with the locations of the two witnesses being about 20 miles apart.",
-        "A possible still photograph of the object was mentioned, but the quality was doubtful."
-    ],
-    "result": "unidentified",
-    "sighted object": "disc-shaped object with lighted rings",
-    "location": "Aiken, South Carolina",
-    "witnesses": "civilian radar technician, other witness reported to state highway patrol",
-    "photographs": "possible, but quality doubtful"
+    "main event": "A witness observed a bright round object hovering or moving slowly in the night sky over Aiken, South Carolina on November 6, 1967.",
+    "interesting points": "The object was described as being several times larger than a star and gave off a steady white light., The sighting lasted for approximately 10-15 seconds before the object went out of sight., A second witness reported a disc-shaped object hovering above Highway Route #1 in the vicinity of Couchton, SC with similar characteristics., A total of 3-4 minutes of observation by another witness was noted before the object accelerated and disappeared silently., The Air Force requested additional information from local authorities to further investigate the sighting.",
+    "sighted object": "a bright round object",
+    "location": "Aiken, South Carolina, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilians, including a commercial airline pilot, reported the sightings.",
+    "contains photographs": false
 }

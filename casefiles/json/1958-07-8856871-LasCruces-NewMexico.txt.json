@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object resembling a magnesium flare with a teal tail was spotted moving at high speed in Las Cruces, New Mexico on July 24, 1958.",
-    "interesting points": [
-        "The object traveled at approximately 12,000 mph, which is too fast for a satellite.",
-        "The object was sighted by four separate and reliable observers.",
-        "The object departed on a trajectory toward the southeast.",
-        "A similar object was reportedly sighted in Chapel Hill, North Carolina about 10 days later, suggesting a possible relationship between the two sightings.",
-        "The author of the report considered the possibility that the object could have been a foreign satellite, but ultimately thought the sighting was likely genuine and not a natural phenomenon."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright object resembling a magnesium flare with a teal tail",
-    "location": "Las Cruces, New Mexico",
-    "witnesses": "4 separate and reliable observers",
-    "photographs": "none"
+    "main event": "A bright object resembling a meteor was sighted over Las Cruces, New Mexico on July 24, 1958.",
+    "interesting points": "The object was described as extremely bright with a teal tail and reddish-brown color,It was observed traveling at approximately 5 degrees per second, which is considered too slow for a meteor,The sighting was confirmed as a meteor sighting,The object changed colors from white to yellow and appeared one-fourth the size of the moon before disappearing suddenly,There were related sightings in Chapel Hill, N.C., about 10 days later, suggesting a possible pattern.",
+    "sighted object": "a bright object resembling a meteor",
+    "location": "Las Cruces, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian astronomer",
+    "contains photographs": false
 }

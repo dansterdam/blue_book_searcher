@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "Surveillance radar picked up an object at a distance of approximately 30 miles and indicated its altitude of 30,000 feet. The object traveled very rapidly and disappeared from radar within 11 minutes, indicating a very high speed.",
-    "interesting points": [
-        "The object was detected on radar, but no visual observation was made.",
-        "The object traveled at a very high speed and disappeared from radar within 11 minutes.",
-        "Similar radar targets at high altitude have been reported by U.S. troops stationed in Korea.",
-        "The report mentions possible explanations such as satellite, balloon, aircraft, astronomical, but concludes there is insufficient data for evaluation.",
-        "The report is classified as 'unclassified'."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "unidentified radar target",
-    "location": "North of Seoul, Korea",
-    "witnesses": "Tank Battalion, 10th Armor",
-    "photographs": "none"
+    "main event": "Four soldiers from the 10th Armor reported an unidentified flying object on November 5, 1957.",
+    "interesting points": "The radar detected an object at 30,000 feet traveling rapidly before disappearing from the radar within 11 minutes., The sighting involved multiple personnel, indicating a coordinated observation., The object’s characteristics were described variably, ranging from the size of a 25-gallon drum to that of an egg., A bright light was noted that resembled a bulb with a glowing effect during the observation., Weather conditions were cloudy with little wind during the sighting.",
+    "sighted object": "unidentified flying object and bright light",
+    "location": "N of Seoul, Korea",
+    "number of confirmed witnesses": 4,
+    "witness description": "soldiers from the 10th Armor",
+    "contains photographs": false
 }

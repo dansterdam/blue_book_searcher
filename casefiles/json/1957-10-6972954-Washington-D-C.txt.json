@@ -1,15 +1,9 @@
 {
-    "main event": "On October 30, 1957, in Washington, D.C., a bright light was observed descending slowly at first, then rapidly, and eventually went out of sight. The object appeared like a Roman candle with a bright star-like glow and a trail resembling fireworks.",
-    "interesting points": [
-        "The object was observed for approximately 1 minute before going out of sight.",
-        "The description of the object matches that of a bright star with a trail, resembling a Roman candle.",
-        "The observer compared the object to a falling star but noted that the trail resembled fireworks.",
-        "The official conclusion listed possibilities such as balloon, satellite, aircraft, and astronomical object, but the final conclusion was 'Unknown'.",
-        "The document is from Project Blue Book, a U.S. Air Force program to investigate unidentified flying objects (UFOs)."
-    ],
-    "result": "Unknown",
-    "sighted object": "Bright light resembling a Roman candle with a star-like glow and a trail resembling fireworks",
+    "main event": "A bright light was observed descending toward Washington, D.C. on October 30, 1957.",
+    "interesting points": "The object descended slowly at first, then rapidly went out of sight.,It appeared similar to a Roman candle with a trail.,The object was described as much like a bright star.,The sighting lasted for approximately 1 minute.,The observer was located at the corner of 13th Street and Missouri Avenue.",
+    "sighted object": "a bright light with a trail",
     "location": "Washington, D.C.",
-    "witnesses": "Not specified",
-    "photographs": "No"
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer described the object as much like a bright star but with a trail that reminded him of fireworks.",
+    "contains photographs": false
 }

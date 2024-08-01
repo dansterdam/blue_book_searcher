@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported near the Homestead Air Force Base in Florida on 30th May 1956, observed by multiple witnesses for about 40 minutes before disappearing.",
-  "interesting points": [
-    "The object was described as bright or luminous, either circular, elliptical, or spherical in shape, and estimated to be between 30 and 60 feet in diameter.",
-    "It appeared to hover before flying off at a rapid rate of speed, and it showed varying intensity and velocity, as well as sudden changes in direction.",
-    "Observers could not hear any sound emanating from the object, and some attempted to identify it using binoculars but could only see a red light.",
-    "The object was observed by pilots, USAF personnel, and air traffic controllers, adding credibility to the report.",
-    "The sighting details include the object's estimated altitude, speed, and changes in altitude over a short period of time, as well as the hazy but clear evening weather conditions during the sighting."
-  ],
-  "result": "Unknown",
-  "sighted object": "Bright or luminous object, circular, elliptical, or spherical in shape, estimated to be between 30 and 60 feet in diameter",
-  "location": "Homestead Air Force Base, Florida",
-  "witnesses": "Multiple witnesses including USAF personnel, pilots, and air traffic controllers",
-  "photographs": "No, the report does not contain any photographs"
+    "main event": "A UFO sighting was reported near Homestead Air Force Base in Florida on May 30, 1956, lasting approximately 30 minutes.",
+    "interesting points": "The object was described as either circular, elliptical, or spherical and measured between 30 and 60 feet in diameter., It exhibited behavior of hovering before rapidly flying off., Observations indicated the object had bright or luminous colors., The object was observed by multiple military personnel including pilots and a chief dispatcher., The object was reported to possibly be a balloon or an astronomical object but lacked sufficient data for definitive evaluation.",
+    "sighted object": "one unidentified flying object",
+    "location": "Homestead, Florida, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "military personnel including pilots and a chief dispatcher",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A star-like object was sighted in the ESE that faded and disappeared at dawn.",
-    "interesting points": [
-        "The object appeared to be a star-like light that faded and disappeared as dawn approached.",
-        "The object remained stationary in the ESE direction during the observation.",
-        "The total observation time was 1 hour.",
-        "The conclusion was that the object was a probable astronomical object (Altair).",
-        "The witness was a civilian observer."
-    ],
-    "result": "probable astronomical object (Altair)",
+    "main event": "On 16 February 1963, a civilian observer reported seeing a star-like object in the southeast that faded and disappeared at dawn.",
+    "interesting points": "The observation lasted for 1 hour,The object was described as being stationary,The conclusion suggested it was likely the star Altair,There were no physical evidence or photographs provided,This sighting was reported to Project Blue Book for analysis.",
     "sighted object": "a star-like object",
-    "location": "Clifton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Clifton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

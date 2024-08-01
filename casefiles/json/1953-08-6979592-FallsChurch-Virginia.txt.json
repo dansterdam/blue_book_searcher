@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
     "main event": "Two UFO objects were observed in the sky over Falls Church, Virginia on 27 Aug 53 at 2300 hours.",
-    "interesting points": [
-        "The objects appeared to be glowing.",
-        "The objects moved erratically and disappeared.",
-        "The observation lasted for approximately 2-3 minutes.",
-        "No photos were available.",
-        "The reliability of the source was unknown, but the observation and report appeared reliable."
-    ],
-    "result": "unexplained",
-    "sighted object": "two glowing objects in the sky",
-    "location": "Falls Church, Virginia",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "interesting points": "The objects appeared to be glowing.,They moved erratically.,The observation lasted for approximately 2-3 minutes.,The course of the objects was noted as 237.,There was no physical evidence or photographs available.",
+    "sighted object": "two glowing UFO objects",
+    "location": "Falls Church, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian source",
+    "contains photographs": false
 }

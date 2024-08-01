@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A red egg-shaped object, the size of a dime at arm's length, was sighted overhead moving westerly and ascending/descending at 1,000 feet altitude in Tehachapi, California on October 17, 1956.",
-    "interesting points": [
-        "The object was viewed visually for 22 minutes.",
-        "The object was moving too fast to be an astronomical body.",
-        "The object had a bobbing motion and slow descent, indicating it was likely a balloon.",
-        "Variable winds were reported at different altitudes.",
-        "The report concluded the sighting was probably caused by a balloon."
-    ],
-    "result": "Probably Balloon",
-    "sighted object": "red egg-shaped object",
-    "location": "Tehachapi, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "One red egg-shaped object was observed moving to the west in Tehachapi, California for 22 minutes on October 17, 1956.",
+    "interesting points": "The object was initially sighted directly overhead at 1000 feet altitude., The object was viewed visually for an extended period of 22 minutes., The sighting included a bobbing motion and a slow descent., The report concludes that the sighting was probably caused by a balloon., The observation took place in clear conditions with a bright moon.",
+    "sighted object": "one red egg-shaped object",
+    "location": "Tehachapi, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian scanning the area",
+    "contains photographs": false
 }

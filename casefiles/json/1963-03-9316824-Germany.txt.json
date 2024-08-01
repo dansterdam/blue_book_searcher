@@ -1,15 +1,9 @@
 {
-    "main event": "A bright white, disc-shaped object with a bright green undersurface was observed by a pilot, copilot, and engineer of a Pan American Airlines flight in Germany on March 1, 1963.",
-    "interesting points": [
-        "The object was dark, had no tail or trail, and disappeared rapidly.",
-        "The object first appeared at about 30 degrees elevation, descended to about 10 degrees above the horizon, and then disappeared.",
-        "The object seemed to be in powered, level flight and gained speed as it progressed.",
-        "The total duration of the sighting was 2-3 seconds.",
-        "The pilot, copilot, and engineer all confirmed seeing the same object."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "Bright white, disc-shaped object with a bright green undersurface",
+    "main event": "A pilot reported observing a bright white, disc-shaped object with a bright green undersurface in Germany on 1 March 1963.",
+    "interesting points": "The object was first observed at approximately 30 degrees and descended 20 degrees above the horizon., The observation duration was 20 seconds., The object was described as having no tail or trail and seemed to be in powered, level flight., The estimated brightness of the object was 2 to 3 times that of Venus., The sighting was made at night under clear conditions with excellent visibility.",
+    "sighted object": "a bright white disc-shaped object with a bright green undersurface",
     "location": "Germany",
-    "witnesses": "Pilot, copilot, and engineer of a Pan American Airlines flight",
-    "photographs": "No photographs included in the report"
+    "number of confirmed witnesses": 3,
+    "witness description": "pilot, copilot, and engineer of the aircraft",
+    "contains photographs": false
 }

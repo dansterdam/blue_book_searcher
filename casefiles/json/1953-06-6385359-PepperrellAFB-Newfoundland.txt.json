@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "An unidentified aerial object was sighted by ground observers at Pepperrell Air Force Base, Newfoundland on June 21, 1953.",
-    "interesting points": [
-        "The object was described as a bright, silver, round-shaped object, approximately 30 inches in diameter.",
-        "The object was observed for a period of approximately 45 minutes, traveling at an estimated speed of 200-300 knots at an altitude of 15,000 feet.",
-        "The object did not make any sound and was not seen to land or change its course.",
-        "There were multiple sightings of unidentified aerial objects over Pepperrell Air Force Base around this time period.",
-        "The initial evaluation by the reporting officer was that the object was an unidentified flying object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, silver, round-shaped object",
-    "location": "Pepperrell Air Force Base, Newfoundland",
-    "witnesses": "security guard",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An unidentified aerial object, possibly a high altitude balloon, was observed hovering over Pepperrell Air Force Base in Newfoundland on June 21, 1953.",
+    "interesting points": "The observation lasted for approximately 22 minutes,The object hovered at an estimated altitude of 40,000 feet,The object did not engage in any maneuvers during the sighting,Initial evaluation concluded the object was a balloon,The weather conditions were clear and suitable for visibility.",
+    "sighted object": "one possible high altitude balloon",
+    "location": "Pepperrell AFB, Newfoundland, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground observers, including a military officer.",
+    "contains photographs": false
 }

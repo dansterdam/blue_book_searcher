@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A civilian observer watched a star-like object move in a northerly direction in Medway, Ohio on August 17, 1966.",
-    "interesting points": [
-        "The object was bright and moved too fast to be a satellite.",
-        "The object's movement was compared to a plane, which was observed moving in an oval direction.",
-        "The observer watched the object for 5-7 minutes.",
-        "The object appeared to be a fuzzy, reddish-orange light in the sky with no discernible details.",
-        "The observer's field of view was somewhat restricted, making it difficult to fully track the object's exact movements."
-    ],
-    "result": "Satellite (possible)",
-    "sighted object": "A bright, star-like object",
-    "location": "Medway, Ohio",
-    "witnesses": "1 civilian observer",
-    "photographs": "No"
+    "main event": "A civilian observed a bright star-like object moving in a northerly direction for approximately 5-7 minutes in Medway, Ohio.",
+    "interesting points": "The observed object was initially thought to be a satellite but was moving too quickly for that classification,The observer noted that a plane was also visible moving in an oval direction,The object appeared fuzzy and reddish-orange in color,Estimated speed of the object was approximately 2-3 times that of a jet aircraft,The observer indicated the object moved behind and in front of something during the sighting.",
+    "sighted object": "a bright star-like object",
+    "location": "Medway, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

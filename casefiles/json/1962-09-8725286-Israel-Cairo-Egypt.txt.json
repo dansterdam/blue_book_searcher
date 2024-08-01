@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A luminous object was sighted by a Consulate member over Port Said, Egypt at approximately 31,000 feet. The object fell into the Mediterranean Sea about 10 miles northeast of Port Said.",
-    "interesting points": [
-        "The object was observed falling into the sea, leaving a smoke trail visible for 5 minutes after descent.",
-        "The object was not recovered after falling into the Mediterranean Sea.",
-        "The report states this was a preliminary analysis, with a more detailed airgram report to follow.",
-        "The document is a telegram from the Department of State regarding this sighting.",
-        "The sighting was reported to the Secretary of State and the Project Blue Book investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "luminous object",
-    "location": "Port Said, Egypt",
-    "witnesses": "Consulate member",
-    "photographs": "no"
+    "main event": "An object was observed over Port Said, Egypt, in September 1962, trailing a white smoke trail.",
+    "interesting points": "The object was approximately 51,000 ft high and visible for about 45 minutes,Photographs of the smoke trail were taken,The observation duration was recorded as 55 seconds,There were reports of a luminous object falling into the Mediterranean Sea after being sighted at approximately 31,000 feet,The object left a smoke trail that was visible for five minutes after descent.",
+    "sighted object": "a luminous object trailing a white smoke trail",
+    "location": "Cairo, Egypt",
+    "number of confirmed witnesses": 1,
+    "witness description": "Consulate member over Port Said",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "The report contains multiple sightings of unidentified flying objects (UFOs) over La Grande, Oregon in 1953. Civilian observers, including an engineer and a clerk, reported the observation of UFOs exhibiting various features such as dazzling brilliant light, also described as circular and emitting a blue-green light. These observations were made during clear night skies with excellent visibility conditions.",
-  "interesting points": [
-    "The observed UFOs were described as disk-like or fish-shaped, varying in size and emitting intense light, with no sound associated with their movements.",
-    "The sightings were made by reliable witnesses using optical aids such as binoculars and magnification lenses to observe the objects in detail.",
-    "An airline pilot reported a UFO as being bigger than a normal full moon, exhibiting a dazzling brilliant light, and hovering without making sharp turns or abrupt changes in direction.",
-    "The speed and altitude variations of the observed objects made it impossible to conclusively identify them as conventional aircraft, leading to the acceptance of the sightings as genuine observations of unidentified flying objects.",
-    "The report also includes requests for personnel interrogation and investigation of naval pilots who observed similar objects, as well as requests for investigation of weather conditions and winds aloft in the area of the sightings."
-  ],
-  "result": "unexplained",
-  "sighted object": "multiple unidentified flying objects exhibiting various characteristics such as intense light, circular or fish-shaped appearance, and hovering motion.",
-  "location": "La Grande, Oregon",
-  "witnesses": "civilian observers, airline pilot, and naval pilot",
-  "photographs": "no photographs included in the report"
+    "main event": "On July 1, 1953, personnel from West Coast Airlines and a Navy pilot observed an unidentified flying object over La Grande, Oregon.",
+    "interesting points": "The object exhibited fast maneuvers and then disappeared,No physical evidence was found to support the sighting,Weather conditions were clear with 25-mile visibility,The object was described as silent with no trails or exhaust,The sighting lasted approximately 15 minutes.",
+    "sighted object": "unidentified flying object",
+    "location": "La Grande, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "West Coast Airlines personnel and a Navy pilot",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was observed by military personnel in the Pacific Ocean on October 3, 1963.",
-    "interesting points": [
-        "The object was observed moving from 3-5 degrees elevation to 6-10 degrees elevation in a slight 15 degree arc in azimuth.",
-        "The object apparently dived toward the sea or merged with one of Jupiter's moons.",
-        "The observation lasted for 8 minutes.",
-        "The report includes possible explanations such as a satellite, balloon, or aircraft, but states that the data was insufficient for a conclusive evaluation.",
-        "The location of the sighting was provided as 32°07.7'N/117°17.5'W in the Pacific Ocean."
-    ],
-    "result": "inconclusive",
-    "sighted object": "an unidentified object",
-    "location": "Pacific Ocean, 32°07.7'N/117°17.5'W",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A military observation of an unidentified object moving in a slight arc over the Pacific Ocean in 1963.",
+    "interesting points": "The observation lasted for 8 minutes., The object was seen moving to an elevation between 3 to 5 degrees in a slight arc at 15 degrees in azimuth., The object disappeared after appearing to dive toward the sea or merge with one of Jupiter's moons., The report included various possible explanations for the sighting, including satellite, balloon, and aircraft., Weather conditions were noted as calm with excellent visibility during the observation.",
+    "sighted object": "unknown aircraft",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

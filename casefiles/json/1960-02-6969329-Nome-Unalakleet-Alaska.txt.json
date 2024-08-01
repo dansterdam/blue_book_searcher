@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A mysterious object was reported over Western Alaska near Nome, traveling at a high rate of speed and exhibiting unusual behavior.",
-    "interesting points": [
-        "The object was reported by multiple civilian witnesses, with varying descriptions of its speed and altitude.",
-        "The object was observed moving in a relatively straight line from northwest to southeast over an area of approximately 180 nautical miles.",
-        "The sightings were mostly of short duration, around 5-10 seconds, indicating the object was traveling at a very high speed and altitude.",
-        "The Alaskan Air Command investigated the reports but was unable to positively identify the object.",
-        "The information was forwarded to Headquarters, United States Air Force as an unidentified flying object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white hot, high-speed unidentified object",
-    "location": "Western Alaska, near Nome",
-    "witnesses": "multiple civilian observers",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed over Nome and Unalakleet, Alaska, on February 15, 1960, described as traveling at very high speed and exhibiting characteristics similar to a meteor.",
+    "interesting points": "The object was tracked by witnesses in multiple locations including Nome, St. Michael, and Unalakleet.,Witnesses reported seeing a bright, tubular object emitting flames from the tail.,The sighting was reported to have occurred over a 7-8 second duration.,Alaskan Air Command determined that the object was likely a meteor based on observations.,The sighting received significant media attention and was reported in local news outlets.",
+    "sighted object": "a bright tubular object",
+    "location": "Nome - Unalakleet, Alaska, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians including a station manager and a pilot",
+    "contains photographs": false
 }

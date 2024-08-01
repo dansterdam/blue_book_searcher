@@ -1,15 +1,9 @@
 {
-    "main event": "A MATS aircraft flying at position 18°30'N 164°25'E on February 17, 1962 at 14:15 UTC reported sighting what appeared to be a rocket reentry.",
-    "interesting points": [
-        "The object was greenish in color with a white sputtering tail.",
-        "The object was visible from 45 degrees through 20 degrees above the horizon.",
-        "The direction of travel of the object was not reported.",
-        "The sighting was made on a bearing of 113 degrees from the aircraft's position.",
-        "The report was classified as a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report."
-    ],
-    "result": "unknown",
-    "sighted object": "greenish object with white sputtering tail",
-    "location": "18°30'N 164°25'E (Pacific Ocean)",
-    "witnesses": "MATS aircraft crew",
-    "photographs": "none"
+    "main event": "A sighting of an object described as possibly a rocket reentry, characterized by a greenish color with white patterning and zig-zag motion.",
+    "interesting points": "The sighting was classified as 'very brief.' The object was observed at a significant distance and visible at a specific bearing from the aircraft's position. There is a contention around its classification, with a strong inclination towards it being a fireball rather than reentry debris. The flight characteristics indicated the possibility of it being meteoric in nature.",
+    "sighted object": "an unidentified object resembling rocket reentry",
+    "location": "Pacific Ocean, Pacific",
+    "number of confirmed witnesses": 1,
+    "witness description": "an aircraft crew reporting from the area",
+    "contains photographs": false
 }

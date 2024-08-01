@@ -1,17 +1,9 @@
-Here is a JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A RAF fighter aircraft sighted an unidentified flying object over Burtonwood, England on April 17, 1955.",
-    "interesting points": [
-        "The object was round, silver in color, and approximately 30-40 feet in diameter.",
-        "The object was traveling at an estimated speed of 600-700 knots.",
-        "The pilot attempted to close on the object, but it accelerated and disappeared at a very high rate of speed.",
-        "The pilot was unable to obtain any photographic evidence of the object.",
-        "Another report describes a separate sighting of a 'wheeled circular orange light' with a blue-white exhaust trail, estimated at an altitude of 3,500 feet."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, silver object; wheeled circular orange light with blue-white exhaust",
+    "main event": "An unidentified flying object was sighted over Burtonwood, England on 17 April 1955.",
+    "interesting points": "The object was observed at an altitude of 15,000 feet traveling at an estimated speed of 600-700 knots., The sighting lasted approximately 1-5 seconds., The object was described as round and bright bluish white with a trail of sparks., A pilot attempted to close in but the object accelerated away., The conclusions include possibilities such as balloon, meteor, or unidentified.",
+    "sighted object": "a round, bright bluish white object with exhaust or trail",
     "location": "Burtonwood, England",
-    "witnesses": "RAF fighter pilot",
-    "photographs": "no, the report states the pilot was unable to obtain any photographic evidence"
+    "number of confirmed witnesses": 1,
+    "witness description": "A pilot from the 3612th Squadron, RE TAC Fighter Aircraft stationed in Burtonwood.",
+    "contains photographs": false
 }

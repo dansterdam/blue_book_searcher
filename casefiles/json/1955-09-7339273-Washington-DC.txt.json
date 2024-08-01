@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three workers at the Army Map Service in Washington, D.C. spotted an illuminated, glowing object about the size of a silver dollar in the sky on September 7, 1955.",
-    "interesting points": [
-        "The object seemed to glow and was silent as it crossed the sky over the Dalecarlia Reservoir.",
-        "The object was visible for about 1 minute.",
-        "The sighting was made by three workers - one photographer and two others whose occupations were unknown.",
-        "The weather conditions were described as very good with slow-moving cirrus clouds and almost no wind.",
-        "No air traffic was reported in the area at the time of the sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "an illuminated, glowing object",
-    "location": "Washington, D.C.",
-    "witnesses": "three workers at the Army Map Service",
-    "photographs": "none"
+    "main event": "An illuminated object was sighted in Washington, D.C. on September 7, 1955.",
+    "interesting points": "The object appeared round and glowing, with no sound emitted,The sighting lasted for approximately 1 minute,There were three witnesses to the sighting,The weather conditions were described as very good with almost no wind,The object disappeared over the Dalecarlia Reservoir.",
+    "sighted object": "an illuminated round object",
+    "location": "Washington, D.C., District of Columbia, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Three men, including a photographer and a color photographer, observed the object.",
+    "contains photographs": false
 }

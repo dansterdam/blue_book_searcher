@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness in Chicago, Illinois reported seeing three large, light-green crescent-shaped objects moving rapidly across the southwestern sky on May 9, 1964.",
-    "interesting points": [
-        "The objects were approximately 1-2 diameters of the moon in size and of 3rd magnitude in brightness.",
-        "The objects were observed to be oscillating in size and color, with a slightly nebulous form.",
-        "The objects maintained a tight formation as they traversed about a quarter of the southwestern sky in approximately 40-50 seconds.",
-        "The witness ruled out common explanations like planets, searchlights, aircraft, meteors, or optical effects.",
-        "The witness immediately contacted the Chicago Adler Planetarium, Chicago Tribune, and Sky & Telescope magazine to report the sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "three large, light-green crescent-shaped objects",
-    "location": "Southwestern Chicago, Illinois",
-    "witnesses": "1 civilian witness",
-    "photographs": "no, no photographs were taken"
+    "main event": "An unidentified flying object sighting occurred in Chicago, Illinois, on May 9, 1964, involving three objects observed for three seconds.",
+    "interesting points": "The objects were seen oscillating and were compared to three moons through fog.,Witness reported exceptional clarity of the night sky and stated it was a once-a-year night.,The duration of the observation was notably brief, lasting only three seconds.,The observer initially thought the objects were not aircraft and considered them to be around third magnitude.,Multiple explanations were considered, including after-images caused by previously looking at a red light.",
+    "sighted object": "three large light-green crescents",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer who described the objects as pulsating with a greenish tinge.",
+    "contains photographs": false
 }

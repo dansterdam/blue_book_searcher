@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver, round object the size of a dime at arm's length was observed hovering over an airbase runway for about 5 minutes.",
-    "interesting points": [
-        "The object showed no signs of propulsion and made no sound.",
-        "It hovered motionless and then shot off at tremendous speed out of sight.",
-        "Another report described up to 30 silver, circular objects flying erratically over Alameda, California at about 1,000 feet altitude and 150 mph.",
-        "The objects appeared to be illuminated from within and were very unlike any known aircraft.",
-        "The sighting lasted about 2 minutes."
-    ],
-    "result": "Probable balloon",
-    "sighted object": "A round, silver object; up to 30 silver, circular objects",
-    "location": "Alameda, California",
-    "witnesses": "Respectable citizens",
-    "photographs": "No photographs available"
+    "main event": "A silvery object was observed in Alameda, California for about 5 minutes and then faded from view.",
+    "interesting points": "The object was round and silver in color,It showed no signs of propulsion and made no sound,It hovered motionless before shooting off at tremendous speed,Observers included two highly respectable citizens of the area,The sighting lasted for about 30 minutes in a different instance with a similarly described object.",
+    "sighted object": "one silvery round object",
+    "location": "Alameda, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "highly respectable citizens of Alameda, California",
+    "contains photographs": false
 }

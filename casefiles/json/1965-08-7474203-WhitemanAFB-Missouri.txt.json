@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report text provided:
-
 {
-    "main event": "Multiple unidentified flying objects were observed by several witnesses near Whiteman Air Force Base in Missouri on August 7, 1965.",
-    "interesting points": [
-        "The objects were described as bright, white, circular, and approximately 30-40 feet in diameter.",
-        "The objects were observed hovering at an estimated altitude of 2,000-3,000 feet for several minutes before suddenly disappearing.",
-        "Radar also detected an unknown target in the area during the sightings, but it disappeared before ground visual contact could be made.",
-        "Air Force investigators were assigned to look into the incident and conduct interviews with the witnesses.",
-        "No photographs or physical evidence of the objects were obtained."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple bright, white, circular objects",
-    "location": "Whiteman Air Force Base, Missouri",
-    "witnesses": "multiple military and civilian witnesses",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed at Whiteman Air Force Base, Missouri, on August 7, 1965.",
+    "interesting points": "The object was bright white in color and estimated to be approximately 30-40 feet in diameter, It hovered for about 2 minutes before rapidly ascending and disappearing from view, Witnesses included at least one Security Patrolman and other personnel on the base, No photographs were taken of the object, although it was visible to multiple observers during the time of the sighting.",
+    "sighted object": "bright white object",
+    "location": "Whiteman AFB, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Security personnel at Whiteman AFB",
+    "contains photographs": false
 }

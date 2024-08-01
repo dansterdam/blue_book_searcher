@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object was sighted over Lake Huron, Michigan on 9/28/22.",
-    "interesting points": [
-        "The object was not actually observed, but appeared in a photograph.",
-        "The report concluded that the objects were not observed.",
-        "The duration of the alleged sighting was not applicable since the object was not observed.",
-        "No physical evidence such as photographs was included with the report.",
-        "The report states that the object's appearance suggested it was not any known type of aircraft."
-    ],
-    "result": "unresolved",
-    "sighted object": "none",
-    "location": "Lake Huron, Michigan",
-    "witnesses": "none",
-    "photographs": "none"
+    "main event": "A pilot reported observing an unidentified flying object hovering over Lake Huron, Michigan, emitting a bright light and appearing egg-shaped, which accelerated away suddenly.",
+    "interesting points": "The object was estimated to be approximately 100 feet in length., The object remained stationary for a short duration before making a rapid departure., Ground observers also reported seeing the same object., The sighting was made around 2125 EST on August 22, 1954., The incident remains unresolved and classified as unidentified.",
+    "sighted object": "egg-shaped luminous object",
+    "location": "Lake Huron, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Pilot, USAF, age 29.",
+    "contains photographs": false
 }

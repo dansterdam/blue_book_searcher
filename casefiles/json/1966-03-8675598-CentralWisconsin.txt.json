@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple sightings of spherical objects in the sky over central Wisconsin in March 1966",
-    "interesting points": [
-        "The objects were reported to be spherical in shape, the size of a basketball, and a reddish-pink color that was very bright.",
-        "The objects were observed flying side-by-side in close formation, traveling at very high speeds with no visible trail or exhaust, and making no sound.",
-        "The sightings were reported by several reliable witnesses, including members of the Wisconsin County Sheriffs Department, over a period of several days from March 24 to March 29.",
-        "Weather conditions were clear with unlimited visibility and no unusual weather phenomena reported by local weather stations.",
-        "No military personnel were involved, and checks with the FAA and local air force units could not identify the objects as any known aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "One or two spherical, reddish-pink objects",
-    "location": "Central Wisconsin",
-    "witnesses": "Civilian, including members of the Wisconsin County Sheriffs Department",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "Multiple observers reported seeing one or two spherical objects flying in close formation over central Wisconsin.",
+    "interesting points": "The objects appeared to be flying at very high speeds and were described as reddish-pink and very bright., Witnesses included reliable members of the Wisconsin County Sheriff's Department as well as many other local citizens., The sighting occurred under clear weather conditions with no unusual weather phenomena reported., Observers reported that the objects were silent and had no discernable features or exhaust trails., The observation window lasted from the night of March 24 to the early morning of March 29.",
+    "sighted object": "one or two spherical objects",
+    "location": "Central Wisconsin, WI, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "members of the Wisconsin County Sheriff's Department and other local citizens",
+    "contains photographs": false
 }

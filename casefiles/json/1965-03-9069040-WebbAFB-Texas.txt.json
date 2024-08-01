@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two circular, reddish-bright objects were observed in the sky near Webb AFB, Texas on March 28, 1965.",
-    "interesting points": [
-        "The objects separated as if they were two objects, flashing on and off rapidly.",
-        "Air observers confirmed the visual sighting, and the objects were seen lighting up the cockpit.",
-        "No sound was observed with the objects.",
-        "The sighting was reported to military authorities, and the time is considered accurate.",
-        "The objects were observed for 15 to 20 seconds, from 0320 to 0350 hours."
-    ],
-    "result": "unexplained",
-    "sighted object": "two circular, reddish-bright objects",
-    "location": "Webb AFB, Texas - Abilene, Texas",
-    "witnesses": "civilian and military",
-    "photographs": "no"
+    "main event": "Multiple sightings of unidentified flying objects (UFOs) over Webb AFB and Sweetwater, Texas, on March 29, 1965.",
+    "interesting points": "Witnesses reported seeing two circular reddish bright objects in the sky, which emitted no sound and were difficult to see against the clouds., The objects were confirmed by air observers who noted they lit up the cockpit, indicating an interaction with the aircraft., A prominent feature of the sightings was that the objects flashed on and off rapidly before separating., One object was described as a short cigar shape with a greenish light and a trail, observed for up to 30 seconds., Multiple military personnel and civilians witnessed these events, with reports submitted to military authorities.",
+    "sighted object": "two circular reddish bright objects and a greenish light object",
+    "location": "Abilene, Texas",
+    "number of confirmed witnesses": 4,
+    "witness description": "military personnel and civilians",
+    "contains photographs": false
 }

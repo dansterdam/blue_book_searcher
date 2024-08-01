@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Bronx, New York observed a round, white light object moving slowly at first and then accelerating rapidly to disappear in the northwest on November 7, 1968.",
-    "interesting points": [
-        "The object was approximately the size of a car light and moved at an estimated speed of 1,000 - 2,000 mph.",
-        "The witness reported that the object had a bright dome in the center and portholes around the circumference.",
-        "The witness observed the object for approximately 3-5 minutes before it disappeared over the horizon.",
-        "The investigator's evaluation suggests the object was likely a meteor or a fast-moving aircraft, and not an unidentified flying object.",
-        "The report includes a sketch or drawing depicting a trail of dots or orbs, and a yellow-colored object."
-    ],
-    "result": "inconclusive",
-    "sighted object": "round, white light object",
-    "location": "Bronx, New York",
-    "witnesses": "2 adults",
-    "photographs": "yes, the report includes a sketch or drawing"
+    "main event": "A report from November 1968 details a UFO sighting in Bronx, New York.",
+    "interesting points": "The sighting lasted approximately 3 to 5 minutes., The objects observed were described as round, white lights with an estimated speed of 1,000 to 2,000 MPH., Witnesses reported that the object moved from east to west, ascending into the northwestern sky., The Department of the Air Force responded to the report but stated they needed additional information for investigation., It was noted that there was no physical evidence left by the phenomenon.",
+    "sighted object": "round, white light",
+    "location": "Bronx, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. John Doe and another adult",
+    "contains photographs": true
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, white object was observed for approximately 22 seconds in Fairborn, Ohio in 1967.",
-    "interesting points": [
-        "The object appeared solid and was brighter than the brightest stars.",
-        "The object suddenly disappeared while being observed.",
-        "The witness was able to estimate the angular size of the object using a match stick at arm's length.",
-        "The witness provided a sketch showing the object's motion and trajectory.",
-        "Several other witnesses reported similar sightings in the area around the same time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, white, solid object",
-    "location": "Fairborn, Ohio",
-    "witnesses": "civilian witness",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "On 19 August 1957, a witness reported observing a bright object in the sky for approximately 2-3 seconds in Fairborn, Ohio.",
+    "interesting points": "The object was described as similar to burning magnesium and produced a smoke trail., The course of the object was northbound and it disappeared behind a tree., The sighting had both physical evidence and a conclusion suggesting it was an astro event (meteor)., The observation was confirmed by a civilian source., The report was submitted to Project Blue Book for further investigation.",
+    "sighted object": "a bright object with a smoke trail",
+    "location": "Fairborn, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian who observed the object.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A small bright light, the color of sunlight, with no sound or movement, was observed through a theodolite by a U.S. Weather Bureau meteorologist in Duluth, Minnesota.",
-    "interesting points": [
-        "The light was observed for approximately 2 minutes from 2106Z to 2108Z on August 7, 1952.",
-        "The light appeared about 1/20 inch long and 1/2 inch high in the theodolite eyepiece, but its actual size and distance could not be determined.",
-        "The meteorologist moved the theodolite to try to keep the light in the field of view, but could not find it again when he moved the theodolite back to the original position.",
-        "The meteorologist stated that the light was not caused by any defect in the theodolite instrument.",
-        "Winds at 13,000 feet were 250 degrees at 15 knots."
-    ],
-    "result": "unknown",
-    "sighted object": "small bright light, color of sunlight",
-    "location": "Duluth, Minnesota",
-    "witnesses": "U.S. Weather Bureau meteorologist",
-    "photographs": "no"
+    "main event": "A meteorologist observed a small bright light during a routine pilot balloon observation using a theodolite on August 7, 1952.",
+    "interesting points": "The observer could not locate the object again after adjusting the theodolite,The object had the appearance of a bright spot of sunlight with no sound or movement,The object was observed for approximately two minutes,The light appeared to be about 1/20 inch long and 1/10 inch high in the theodolite eyepiece,No physical evidence or identification of the object was made.",
+    "sighted object": "one small bright light",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a U.S. Weather Bureau meteorologist with 20 years of experience in balloon observations.",
+    "contains photographs": false
 }

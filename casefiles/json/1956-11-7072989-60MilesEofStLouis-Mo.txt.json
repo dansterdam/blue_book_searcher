@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object was sighted near St. Louis, Missouri on November 1, 1956, by a military source at around 2:25 A.M. The object was described as a round light, the size of an F-94 aircraft, very bright, and traveling at about 3,000 mph at an estimated altitude of 15,000 to 20,000 feet.",
-  "interesting points": [
-    "The object was spotted by a serious-minded and experienced pilot, Captain Daniel, who was initially reluctant to submit the report.",
-    "The object was observed to have a steady orange light with a low-level flight path, visible at an altitude of about 23,000 feet, and later reaching an altitude of 33,000 feet.",
-    "The object's speed was much greater than the surrounding jet aircraft, and its size and apparent arc were mentioned in the report.",
-    "There was no sound heard from the object, and it suddenly disappeared as if it turned off its light.",
-    "The pilot turned with the radar to attempt to acquire the object in flight and observed that it definitely was not a meteor."
-  ],
-  "result": "insufficient data for evaluation",
-  "sighted object": "a round light the size of an F-94 aircraft and traveling at about 3,000 mph",
-  "location": "St. Louis, Mo.",
-  "witnesses": "Captain Daniel, Aerial Weather Reconnaissance Officer",
-  "photographs": "no"
+    "main event": "An unidentified flying object was sighted by a military officer near St. Louis, Missouri on November 1, 1956.",
+    "interesting points": "The object was a round light, about the size of an F-94 aircraft, observed at an altitude of 15,000 to 20,000 feet traveling at approximately 3,000 mph., The sighting lasted about 2 minutes with visibility calculated at over 60 miles., The object was bright and solid color without any visible tail., An experienced pilot noted that the object's speed was much greater than surrounding jet aircraft., The object suddenly disappeared as if its light turned off.",
+    "sighted object": "a round light in the sky",
+    "location": "St. Louis, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain Daniel, Aerial Weather Reconnaissance Officer with substantial flying experience.",
+    "contains photographs": false
 }

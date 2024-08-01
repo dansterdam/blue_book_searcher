@@ -1,15 +1,9 @@
 {
-    "main event": "The image does not contain a photograph. It appears to be a blank page from a document.",
-    "interesting points": [
-        "The report indicates there is no text present on this page.",
-        "The page appears to be from an old Air Force document related to Project Blue Book, which was a United States Air Force program to investigate unidentified flying objects (UFOs).",
-        "There are no details or information provided about a UFO sighting or event.",
-        "The document appears to be administrative in nature, with no specific UFO case details.",
-        "Without any visual or textual evidence of a UFO encounter, there are no compelling details to summarize."
-    ],
-    "result": "inconclusive",
-    "sighted object": "none",
-    "location": "unknown",
-    "witnesses": "none",
-    "photographs": "none"
+    "main event": "The document relates to the U.S. Air Force's ongoing Project Blue Book, which investigates unidentified flying objects (UFOs).",
+    "interesting points": "The document contains historical information about the investigations into UFOs by the U.S. Air Force,The Air Force Regulation No. 80-17 outlines the procedures for investigating UFO sightings,An Ad Hoc committee has been set up to review and recommend improvements to the Project Blue Book program,Project Blue Book has seen various status reports and revisions over the years,Several scientific experts, including Dr. Carl Sagan, have been involved in discussions related to UFO investigations.",
+    "sighted object": "unidentified flying objects (UFOs)",
+    "location": "Wright-Patterson AFB, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses are described in the document; it references scientific committees and military personnel involved.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A brilliant, fast-moving object the size of a DC-4 aircraft was sighted near Clarkdale, Arizona on September 17, 1954.",
-    "interesting points": [
-        "The object was spotted flying from north to south, then turned and flew parallel to the observer's aircraft at an estimated speed of 700-1000 mph.",
-        "The shape of the object could not be determined due to its brilliance.",
-        "The object was initially sighted at an altitude of 11,000 feet MSL.",
-        "The pilot of the observer's aircraft contacted the 34th Air Division at Albuquerque about the sighting.",
-        "The pilot was requested to submit a full report upon landing at Albuquerque."
-    ],
-    "result": "Unknown",
-    "sighted object": "Brilliant, fast-moving object the size of a DC-4 aircraft",
-    "location": "Clarkdale, Arizona",
-    "witnesses": "Pilot of an aircraft",
-    "photographs": "No"
+    "main event": "On 17 September 1954, a military pilot reported a sighting of a brilliant object near Clarkdale, Arizona, that flew faster than a jet.",
+    "interesting points": "The object was approximately the size of a DC-4 aircraft., The sighting included ground and air visual observations., The object was observed flying from north to south before turning to a parallel course., Speed estimates ranged from 700 to 1000 mph., The nature of the object was undetermined, with conclusions leaning towards it being an aircraft, balloon, or astronomical object.",
+    "sighted object": "a brilliant object in the sky",
+    "location": "Clarkdale, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military pilot",
+    "contains photographs": false
 }

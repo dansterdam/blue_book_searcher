@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian pilot spotted a circular, ground-viewed object over Kansas in 1952.",
-    "interesting points": [
-        "The object was described as a circular shape.",
-        "The object was observed by a civilian pilot.",
-        "The object was moving from northeast to southwest at a very high speed, faster than a jet.",
-        "The object left a bright blue-green trail.",
-        "The pilot could not identify the object due to the darkness."
-    ],
-    "result": "Believed to be a meteorite",
-    "sighted object": "Circular, ground-viewed object",
-    "location": "30 miles west of Goodland, Kansas",
-    "witnesses": "Civilian pilot",
-    "photographs": "No photographs included"
+    "main event": "A civilian pilot observed a circular object flying NE to SW near Goodland, Kansas, believed to be a falling meteorite.",
+    "interesting points": "The object was described as circular and observed from an aircraft at 8,500 feet., The sighting lasted four seconds., The pilot reported the object was going very fast, faster than a jet., The sighting was conducted in darkness, limiting visibility., The conclusion by investigators was that it was likely a meteor or meteorite.",
+    "sighted object": "one circular object in the sky",
+    "location": "Goodland, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian pilot",
+    "contains photographs": false
 }

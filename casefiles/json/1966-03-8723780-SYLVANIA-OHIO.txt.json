@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A witness in Sylvania, Ohio reported seeing a UFO in March 1966 and taking photographs of it.",
-    "interesting points": [
-        "The witness sent the photographs to Project Blue Book for analysis, but the photos were not received.",
-        "Project Blue Book requested that the witness complete a standard form (PTT Form 164) and send the original negative of the photographs to aid in the evaluation.",
-        "The letter from Project Blue Book provided instructions on the information needed to analyze the photographs, including details about the camera, lens, film, and lighting used.",
-        "The witness was informed that the case would be re-evaluated if the requested information and photographs were provided.",
-        "The witness had read about Project Blue Book and was interested in obtaining more information about the program and its findings."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "unknown",
-    "location": "Sylvania, Ohio",
-    "witnesses": "1 witness",
-    "photographs": "yes, but not received by Project Blue Book"
+    "main event": "A witness observed a UFO in March 1966 in Sylvania, Ohio, and took pictures of it.",
+    "interesting points": "Only one witness reported seeing the UFO,The witness had photographs of the UFO developed but did not return them after a request from Project Blue Book, The physical evidence was deemed insufficient as no further data was provided, A letter was sent to the witness requesting additional information for photo analysis, The conclusion of the report indicates insufficient data for evaluation.",
+    "sighted object": "UFO",
+    "location": "Sylvania, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness took photographs and had a keen interest in gathering information about UFOs.",
+    "contains photographs": false
 }

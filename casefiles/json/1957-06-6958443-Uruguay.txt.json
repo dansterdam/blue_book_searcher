@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in the requested JSON format:
-
 {
-    "main event": "A bright round object was observed flying at a uniform speed of approximately 10 knots before disappearing below the horizon in Uruguay.",
-    "interesting points": [
-        "The object had a solid, metallic appearance and a round, flattened shape.",
-        "The object made a continuous, high-frequency vibrating or humming sound, similar to the buzzing of a bee.",
-        "Witnesses reported that the object had glowing eyes and emitted a low humming sound.",
-        "Other similar sightings of unidentified flying objects had been reported in the area.",
-        "The sighting lasted for approximately 102 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round metallic object",
+    "main event": "A bright round object was observed in Uruguay on June 15, 1957, moving at a steady speed before it disappeared below the horizon.",
+    "interesting points": "The object was described as a bright light with a solid appearance and metallic characteristics.,Witnesses reported a loud high-frequency sound, similar to the humming of a bee.,The object's course was towards the north.,The observation lasted for approximately 102 seconds.,Conclusions drawn indicated that it could possibly have been a balloon.",
+    "sighted object": "one bright round object",
     "location": "Uruguay",
-    "witnesses": "Uruguayan Air Force personnel",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. Amalia Laconceguy de Becares and Juan Ramón Mera",
+    "contains photographs": false
 }

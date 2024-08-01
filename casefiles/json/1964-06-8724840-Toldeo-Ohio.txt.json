@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar operator at the Toledo airport tracked an unidentified object visually and on radar that exhibited unusual flight characteristics.",
-    "interesting points": [
-        "The object was observed to hover at an altitude of 500 feet and then accelerate and disappear over the horizon.",
-        "Attempts by interceptor aircraft to get closer to the object were unsuccessful.",
-        "The object was described as round in shape, white in color, and leaving a trail behind it.",
-        "The sighting lasted for approximately 30 minutes.",
-        "Several reliable eyewitnesses also reported seeing the object."
-    ],
-    "result": "unknown",
-    "sighted object": "a round, white object that hovered and then accelerated away",
-    "location": "Toledo, Ohio",
-    "witnesses": "National Guard radar operator, eyewitnesses",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Multiple witnesses reported sightings of unidentified bright objects over Maumee and Toledo, Ohio in June 1964.",
+    "interesting points": "Witnesses described a brilliant, fast-moving object that appeared to be solid rather than a natural phenomenon., The object was observed by multiple independent witnesses corroborating each other's accounts., One witness reported an object with no lights or discernible wings flying in formation., There was no conventional explanation for the observed objects, ruling out aircraft or meteors., Analysis suggests the objects were potentially extraterrestrial vehicles.",
+    "sighted object": "brilliant white object in the sky",
+    "location": "Toledo, Ohio, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Mr. and Mrs. William Donahue, Mr. Andrew Busch and his wife, and an individual from Radio Station [REDACTED]",
+    "contains photographs": false
 }

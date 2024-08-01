@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military pilot observed a UFO that appeared to be a baseball-shaped object flying in an arc to the southeast over Newfoundland.",
-    "interesting points": [
-        "The object was observed moving on a southeast course, similar to a comet.",
-        "Another object was observed to the north of the first one a few minutes later.",
-        "The sighting lasted for about half an hour.",
-        "The primary analysis revealed no probable cause for the sighting other than a possible appearance of a comet.",
-        "A second sighting by an airline pilot to the north of the first sighting later revealed that the object must have reappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "a baseball-shaped object",
-    "location": "southeast of Newfoundland",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A sighting of a UFO resembling a baseball was reported over Newfoundland on April 9, 1960.",
+    "interesting points": "The sighting occurred between 1900 and 2300Z,The object was seen moving in an arc on a southeastern course,Another similar object was observed to the north shortly after this sighting,The length of observation was approximately half an hour,It was suggested that the object might have been a meteor.",
+    "sighted object": "one object resembling a baseball",
+    "location": "Newfoundland, NA, CA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military observation",
+    "contains photographs": false
 }

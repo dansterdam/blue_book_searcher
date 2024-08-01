@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A witness reported seeing a green-white Mercury capsule-like object in the sky over Philadelphia, Pennsylvania on April 27, 1962.",
-    "interesting points": [
-        "The object was stationary and observed for 10 minutes.",
-        "The object had a sphere of light in the center that shone continuously with no sound.",
-        "The object was sighted for a considerable period of time and the lights were continuously visible.",
-        "The report suggests the object was likely a meteorite in origin.",
-        "The witness requested any available information on unidentified flying objects from the National Aeronautical and Space Administration."
-    ],
-    "result": "unexplained",
-    "sighted object": "a green-white Mercury capsule-like object",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "at least one witness",
-    "photographs": "no photographs included in the report"
+    "main event": "A green-white, Mercury capsule-like object was sighted over Philadelphia, Pennsylvania on April 27, 1962.",
+    "interesting points": "The object was observed for about 10 minutes,The sighting occurred at approximately 8:30 PM E.S.T.,The object was described as having a sphere of continuous light in its center,The object was stationary and then moved in a north-easterly direction,The report suggests the object may have been a meteorite.",
+    "sighted object": "green-white Mercury capsule-like object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The report was sent by an unidentified individual based in Philadelphia.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed over the town of Oak Ridge, Tennessee from 1245 to 1300 hours on December 5, 1950 by two civilians.",
-    "interesting points": [
-        "The object was described as a 'brilliant metallic, as aluminum or highly burnished metal that reflected the light, shape round, flat or disk-like'.",
-        "The object appeared to turn slightly to the left or northwest, and then the appearance changed and the light was no longer reflected, and it appeared smaller and dark gray in color.",
-        "The object left no definite trail, but a misty 'halo' could be seen on the edge of the left side.",
-        "The object flew a straight course and no noise could be heard.",
-        "Another witness observed a similarly described object moving west around 1300 hours the same day."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, flat object that reflected light like burnished metal",
-    "location": "Oak Ridge, Tennessee",
-    "witnesses": "two civilian women",
-    "photographs": "no"
+    "main event": "Multiple civilians observed an unidentified flying object over Oak Ridge, Tennessee on 5 December 1950.",
+    "interesting points": "The object was described as a brilliant metallic light that appeared round and flat before changing to a dark gray color., It was observed by at least two confirmed witnesses, including a secretary and another civilian., The sighting lasted for approximately 60 seconds and occurred between 12:45 and 1:00 PM., The object flew slowly at an altitude of about 500 feet and changed direction from east to northwest., There was no sound associated with the object, and it left no definite trail.",
+    "sighted object": "a brilliant metallic, round, flat object",
+    "location": "Oak Ridge, Tennessee, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians including a secretary and another citizen",
+    "contains photographs": false
 }

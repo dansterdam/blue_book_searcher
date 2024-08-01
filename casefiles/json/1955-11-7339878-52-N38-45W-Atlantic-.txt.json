@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A USAF aircraft sighted an unidentified flying object (UFOB) over the North Atlantic Ocean in November 1955.",
-    "interesting points": [
-        "The UFOB was described as elliptical in shape, with a reddish-yellow glow resembling the top third of an orange in an inverted position.",
-        "The UFOB was silent and gradually faded away over the course of about 2 minutes.",
-        "The navigator of the USAF aircraft first noticed the UFOB and informed the pilot, who observed it at an elevation of 5 degrees above the plane's flight path and 5 degrees to the right of the aircraft's nose.",
-        "Weather conditions at the time included a layer of broken clouds at 14,000-20,000 feet, with light rain showers and a surface wind of 17 knots.",
-        "The base intelligence officer suggested the sighting may have been a parallax phenomenon or reflection of the moon, which rose about 1.5 hours after the sighting, but could not fully explain the observation due to the lack of confirmation of the high cloud layer."
-    ],
-    "result": "unexplained",
+    "main event": "A military aircraft reported sighting an elliptical object with a reddish glow in November 1955.",
+    "interesting points": "The sighting lasted for 2 minutes., The object resembled the top third of an inverted orange., There was no sound associated with the object., The object gradually faded away., Preliminary analysis suggests the sighting could be explained by a parallax phenomenon related to the moon.",
     "sighted object": "elliptical object with reddish glow",
-    "location": "North Atlantic Ocean, 51°52'-54\"N, 38°-4.5°W",
-    "witnesses": "USAF aircraft crew (navigator, pilot, flight engineer)",
-    "photographs": "no"
+    "location": "Atlantic, Unknown, Unknown",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members of a military aircraft from Prestwick, Scotland",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A bright light was observed in the sky near Springfield, Ohio on November 13, 1967.",
-    "interesting points": [
-        "The object changed color from white to pink to orange to green while observed.",
-        "The object seemed to be revolving or spinning.",
-        "The object was estimated to be 250 to 350 feet in size.",
-        "The observer turned off their car light and the object also seemed to turn off and disappear.",
-        "The object was observed for about 10 minutes."
-    ],
-    "result": "unexplained",
+    "main event": "An observer in Springfield, Ohio sighted a bright light changing colors and disappearing when the automobile light was turned off on November 13, 1967.",
+    "interesting points": "The observer estimated the distance of the light to be 1.5 to 2 miles away., The object changed colors from white to pink to orange to green., The estimated size of the object was between 250 to 350 feet., The object emitted no sound and followed the observer's vehicle for a short distance., The observation lasted for approximately 10 minutes.",
     "sighted object": "a bright light in the sky",
-    "location": "Springfield, Ohio",
-    "witnesses": "a resident of Springfield, Ohio",
-    "photographs": "none"
+    "location": "Springfield, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer from the Springfield Police Department",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian youth spotted a white, round UFO over the northern section of Utica, New York for about 30 seconds on August 8, 1966.",
-    "interesting points": [
-        "The object was described as a single white, round object with no discernible features or details.",
-        "The object was overhead when first observed and when it disappeared.",
-        "The object exhibited a zig-zag flight path.",
-        "Multiple agencies were contacted, including the Griffiss AFB Control Tower, Oneida County Airport Control Tower, FAA RAPCON, and Utica Police, but none of them received any information or made any sightings.",
-        "The report suggests the sighting was most likely a reflection from a searchlight or the light of an aircraft, due to the numerous celebrations and heavy air traffic in the area at the time."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a single white, round object",
-    "location": "Utica, New York",
-    "witnesses": "a civilian youth",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported by a civilian youth over Utica, New York, on August 8, 1966.",
+    "interesting points": "The sighting lasted approximately 30 seconds., The object was reported as round and white., The object was observed visually with no sound or discernible features., Multiple celebrations in the area were noted which could explain potential reflections., The final evaluation suggested it could have been an aircraft or a reflection from search lights.",
+    "sighted object": "one round white object",
+    "location": "Utica, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian youth",
+    "contains photographs": false
 }

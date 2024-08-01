@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "Four objects were observed in formation, with a fourth object trailing behind, over White Sands, New Mexico in 1951.",
-    "interesting points": [
-        "The objects appeared to be about the size of a newspaper that had been opened up and were initially thought to be amber in color like light coming through window shades.",
-        "The objects were reported to move at a speed estimated to be twice as fast as a rocket, without any sound.",
-        "The objects changed direction from northwest to north and increased in elevation by about 15 degrees.",
-        "The objects were evaluated as being astronomical in nature, likely a meteor sighting.",
-        "Multiple witnesses, both military and civilian, reported seeing the unusual objects in the sky."
-    ],
-    "result": "evaluated as a meteor",
-    "sighted object": "four objects in formation, with a fourth object trailing behind",
-    "location": "White Sands, New Mexico",
-    "witnesses": "military and civilian personnel",
-    "photographs": "no"
+    "main event": "On 2 October 1951, multiple observers reported seeing unidentified aerial objects at White Sands, New Mexico.",
+    "interesting points": "Four objects were first seen in formation with a fifth trailing behind,They were described as approximately the size of a newspaper and appeared to emit a glowing amber light,The objects moved at speeds estimated to be five times that of a rocket,No sound was associated with the sightings,The sightings lasted between 15 to 6 seconds as the objects vanished from sight.",
+    "sighted object": "four unidentified aerial objects",
+    "location": "White Sands, New Mexico, USA",
+    "number of confirmed witnesses": 5,
+    "witnesses": "military personnel and various observers at White Sands Proving Ground",
+    "photographs": false
 }

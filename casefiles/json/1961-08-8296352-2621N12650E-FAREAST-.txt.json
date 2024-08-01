@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light was tracked on radar making a very rapid ascent to an altitude of approximately 50,000 feet, before turning 90 degrees and descending to 40,000 feet where it remained stationary for several minutes. It then resumed a westerly course and accelerated to an estimated speed of 3,000 to 4,000 knots before disappearing from radar.",
-    "interesting points": [
-        "The light was first seen approximately 20 miles east of Choshi, Japan.",
-        "Control tower personnel in the area confirmed the presence of the extremely bright white light.",
-        "Radar operators estimated the light covered a distance of about 200 miles in approximately 2 to 3 minutes, which is an extremely rapid rate of speed that cannot be reconciled with any known type of aircraft.",
-        "There was no exhaust trail or sonic boom noted during the observation.",
-        "The radar operators who tracked the light were highly experienced and reliable individuals."
-    ],
-    "result": "unidentified",
-    "sighted object": "bright white light",
-    "location": "SE of Hanoi, N. Vietnam",
-    "witnesses": "USAF crew",
-    "photographs": "none"
+    "main event": "A bright white light was tracked on radar moving rapidly at high altitudes near Choshi, Japan.",
+    "interesting points": "The light ascended rapidly to approximately 50,000 feet at an estimated speed of 3000 to 4000 knots., Control tower personnel confirmed the presence of the light., The light made a 90-degree turn to the west and then descended to about 40,000 feet where it remained stationary for several minutes., Radar operators, highly experienced, tracked the light covering a distance of about 200 miles in approximately 2 to 3 minutes., The sighting was categorized as incredible and attributed to a possible reconnaissance vehicle of extraterrestrial origin.",
+    "sighted object": "extremely bright white light",
+    "location": "Choshi, Japan",
+    "number of confirmed witnesses": 2,
+    "witness description": "Flight controller at Air Defense Control Center and control tower personnel",
+    "contains photographs": false
 }

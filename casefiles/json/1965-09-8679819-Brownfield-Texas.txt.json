@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single unidentified flying object was observed near Brownfield, Texas on September 23, 1965.",
-    "interesting points": [
-        "The object appeared slightly smaller than 4 inches at arm's length and had a star-like color.",
-        "The object's brightness fluctuated on a 20-second cycle, brightening and fading.",
-        "The object was observed for approximately 8 minutes as it hovered in the sky.",
-        "There was no reported physical evidence, but the sighting was investigated by an Air Force officer.",
-        "The investigating officer suggested the same object may have been observed at varying distances on multiple occasions over the past year."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified flying object",
-    "location": "Brownfield, Texas",
-    "witnesses": "civilian observers",
-    "photographs": "no photographs available"
+    "main event": "A UFO was reported in Brownfield, Texas on September 23, 1965, observed for 8 minutes.",
+    "interesting points": "The object was reported as stationary during the observation,There was physical evidence associated with the sighting,The observation was made from a back yard,The object appeared bright and then faded on a cycle,The witness was a reliable civilian vice president.",
+    "sighted object": "one unidentified flying object",
+    "location": "Brownfield, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Miley, Age 32, Vice President, J & Ethyle Distributing Company",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar object was observed for 90 seconds over Chelveston, England.",
-    "interesting points": [
-        "The object was bright orange and white in color, with no trail or sound.",
-        "The object appeared overhead and traveled west-northwest.",
-        "The sighting lasted for 20 seconds.",
-        "The report was received and declassified by the U.S. Air Force.",
-        "The report conclusions include that the object was possibly a balloon or aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright orange and white object",
+    "main event": "An object was observed for 90 seconds over Chelveston, England, displaying bright orange and white colors, with no trail or sound.",
+    "interesting points": "The object was in view for a total of 90 seconds,It appeared overhead and showed no signs of a trail or sound,The report indicates the object could be a balloon, an aircraft, or possibly an astrofal,The observation was made at 15 0115Z on 22 Mar 61,The report was received unclassified on 17 Mar 61.",
+    "sighted object": "one bright orange and white object",
     "location": "Chelveston, England",
-    "witnesses": "ground radar",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

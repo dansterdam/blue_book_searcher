@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Two pieces of colorless substance, one appearing to be metallic, fell in Syracuse, New York on June 25, 1960.",
-    "interesting points": [
-        "The two pieces of material were forwarded for analysis.",
-        "The analysis indicated that the material was believed to be glass furnace slag.",
-        "The samples were tested and found to be of the same chemical composition.",
-        "There was an attempt to investigate the samples further, including a microstructural analysis and spectrographic analysis, but the samples were eventually returned.",
-        "The incident coincided with the landing of the Sputnik IV carrier vehicle."
-    ],
-    "result": "unexplained",
+    "main event": "On 25 June 1960, two pieces of colorless substance, one appearing metallic, fell in Syracuse, New York, after one piece struck the hood of a small automobile.",
+    "interesting points": "The incident involved two samples forwarded for analysis with no photographs present,The analysis of the materials indicated they were likely glass furnace slag,Analysis from the Wright Air Development Center showed the material contained various elements including calcium and silicon,The incident coincided with the landing of the Sputnik IV carrier vehicle,There were indications that the materials could possibly be foreign space object material.",
     "sighted object": "two pieces of colorless substance",
-    "location": "Syracuse, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Syracuse, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses confirmed; reported by civilians.",
+    "contains photographs": false
 }

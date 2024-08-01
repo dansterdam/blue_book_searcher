@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver, disc-shaped object was spotted in the sky over Bloomingburg, New York in July 1965.",
-    "interesting points": [
-        "The object was estimated to be about the size of a silver dollar, with a bright, mirror-like surface that reflected sunlight.",
-        "The object was observed moving across the sky with a smooth, continuous motion for around 30 seconds.",
-        "This was one of several similar UFO sightings reported in the same general area over the past few years.",
-        "The witness was described as a mature, responsible adult employed as a professional.",
-        "The object exhibited no pulsing, flashing or trail, and made no sound."
-    ],
-    "result": "unexplained",
-    "sighted object": "a silver, disc-shaped object",
-    "location": "Bloomingburg, New York",
-    "witnesses": "a mature, responsible adult professional",
-    "photographs": "none"
+    "main event": "Two teenagers, Judy Shaver and Nancy Morros, reported seeing a bright unidentified flying object while swimming in Bloomingburg, New York.",
+    "interesting points": "The object was described as very bright and ascended swiftly before veering sharply and speeding off., The sighting occurred on a Sunday evening during the summer., The teenagers did not report the sighting immediately for fear of not being believed., The object reportedly moved too fast for the girls to track with their eyes., The girls tried to convey what they saw to others but faced skepticism.",
+    "sighted object": "a big bright unidentified flying object",
+    "location": "Bloomingburg, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "teenagers swimming in a pool",
+    "contains photographs": false
 }

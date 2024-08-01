@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report text:
-
 {
-    "main event": "A bright white object, described as the size of a pea, was observed over Los Angeles, California on November 13, 1957.",
-    "interesting points": [
-        "The object was reported to be moving in a slow, zig-zag pattern.",
-        "The object was observed for over 25 minutes, with the report stating it was still in sight when the report was made.",
-        "The object's description, duration, and flight path indicated it was likely a balloon, possibly Venus.",
-        "The sighting was reported by a civilian, whose reliability was unknown.",
-        "The object was observed both visually and by radar."
-    ],
-    "result": "Probable balloon, possible Venus",
-    "sighted object": "A bright white object, described as the size of a pea",
-    "location": "Los Angeles, California",
-    "witnesses": "Civilian, reliability unknown",
-    "photographs": "Yes, the report indicates photographs were taken"
+    "main event": "A bright red object the size of a pea with spikes was reported, moving towards the horizon for a duration of 15 minutes.",
+    "interesting points": "The sighting occurred on November 8, 1957 in Los Angeles, California., The object was observed for 15 minutes., The observer described it as a bright red object with spikes., Possible explanations included a balloon or Venus., A military officer checked the report and observed nothing unusual, only a bright star.",
+    "sighted object": "bright red object with spikes",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer reported seeing the object in the sky",
+    "contains photographs": false
 }

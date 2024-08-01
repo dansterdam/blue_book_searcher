@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple UFO incidents reported in 1947 in California, including sightings by a USAF pilot, a test pilot, and other observers.",
-    "interesting points": [
-        "The incident is from 1947, a notable year for UFO reports such as the Roswell incident.",
-        "The report suggests a possible weather balloon explanation due to ascending warm air currents over the desert giving the illusion of object oscillation.",
-        "Descriptions include a circular and flat object, estimated to be 3 to 10 feet in diameter, as well as spherical objects with a diameter of 10 feet and traveling at 200 to 225 MPH.",
-        "No photographs or sketches of the reported objects were included in the document.",
-        "Evaluation indices by Dr. Hynek categorized the incidents into various probabilities, including astronomical and non-astronomical explanations as well as those lacking evident explanation."
-    ],
-    "result": "unexplained",
-    "sighted object": "various unidentified objects including spheres and circular, flat objects",
-    "location": "California",
-    "witnesses": "USAF pilot, test pilot, and multiple other observers",
-    "photographs": "no"
+    "main event": "A UFO sighting reported on 7 July 1947, with the incident being unexplainable astronomically and suggested to possibly be a weather balloon.",
+    "interesting points": "The sighting occurred near Muroc AAF in California, Multiple observations were made by military personnel, The object was described as circular and possibly oscillating due to warm air currents, A major pilot observed what initially appeared to be a parachute at a significant altitude, The evaluation by Dr. Hynek categorized the sighting as having no astronomical explanation.",
+    "sighted object": "circular object believed to be 3 to 10 feet in diameter",
+    "location": "Muroc, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel including a major and a test pilot",
+    "contains photographs": false
 }

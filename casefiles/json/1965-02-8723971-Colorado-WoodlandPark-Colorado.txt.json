@@ -1,17 +1,9 @@
-```json
 {
-    "main event": "A burning object was observed descending behind the mountains in Colorado.",
-    "interesting points": [
-        "The object was described as round with a tail, varying in color from red to blue to green.",
-        "Multiple civilian and military witnesses reported seeing the object, with reports varying in the size from a nickel to a tennis ball.",
-        "The object descended almost vertically with no noticeable arc or turning movement.",
-        "The sighting lasted from 1 to 10 seconds.",
-        "Agencies including NORAD, the Space Track Directorate, and local airport control towers were contacted, but they were unable to identify the object as an aircraft, satellite, or any other known phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round object with a tail, varying in color from red to blue to green",
-    "location": "Woodland Park, Colorado",
-    "witnesses": "civilian and military personnel",
-    "photographs": "no"
+    "main event": "A bright object, described as burning and descending behind the mountains, was observed in Woodland Park, Colorado.",
+    "interesting points": "The object changed colors from red to blue to green as it descended., Multiple observers reported seeing the object for about 10 seconds., Witnesses described the object as round with a tail of burning matter., Estimates of the object's size ranged from that of a nickel to a tennis ball., The initial observation included a sound report similar to past observations.",
+    "sighted object": "a bright, burning object with a tail",
+    "location": "Woodland Park, Colorado, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "military personnel and a local machine shop foreman",
+    "contains photographs": false
 }
-```

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO reports provided:
-
 {
-    "main event": "A blueish-green object was observed moving from NW to SE for a very short period of time in Columbus, Ohio in 1957.",
-    "interesting points": [
-        "The object was observed both visually and on radar by military personnel.",
-        "The object was in sight for a very short period of time, around 2-3 minutes.",
-        "The report concludes that the object was possibly a balloon, aircraft, or astronomical in nature, but there was insufficient data for a definitive evaluation.",
-        "There is a hand-drawn sketch of the object in the report.",
-        "The second report notes that there was no further report filed on the sighting."
-    ],
-    "result": "inconclusive",
-    "sighted object": "blueish-green object",
-    "location": "Columbus, Ohio",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A record card from Project 10073 documents two UFO sightings in Columbus, Ohio.",
+    "interesting points": "The first sighting was on December 22, 1957, where a blueish-green object moved from NW to SE for a very short period of time., The second sighting was on September 10, 1957, involving an object that moved to SE and was observed for 2-3 minutes., Military sources reported both sightings., The conclusions of the sightings included potential explanations such as meteor, balloon, aircraft, and astronomical phenomena., No photographs were included in either of the reports.",
+    "sighted object": "one blueish-green object and an unspecified object",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses mentioned, military source.",
+    "contains photographs": false
 }

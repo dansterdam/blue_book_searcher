@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military aircraft sighted what appeared to be a satellite flying at high speed over the Pacific Ocean.",
-    "interesting points": [
-        "The sighting occurred at 21/0322Z on May 21, 1959.",
-        "The object was seen at an elevation of 45 degrees, traveling northwest to southeast.",
-        "The object was in sight for 15 minutes and was reported to be as bright as a first magnitude star.",
-        "The sighting was reported by the crew of the CURTIS-39.39 aircraft, which was at an altitude of 7,200 feet.",
-        "The sighting location was at 3 degrees north, 177 degrees west in the Pacific Ocean."
-    ],
-    "result": "unexplained",
-    "sighted object": "satellite-like object",
-    "location": "Pacific Ocean",
-    "witnesses": "aircraft crew",
-    "photographs": "none"
+    "main event": "An anonymous report of a UFO sighting was filed on May 21, 1959, over the Pacific.",
+    "interesting points": "The sighting lasted for approximately 10 minutes., The object was moving very fast and reflecting sunlight., The original report was received anonymously., The specific course of the object was unknown., Only one object was reported during the sighting.",
+    "sighted object": "Unidentified Flying Object (UFO)",
+    "location": "Pacific, Unknown, Unknown",
+    "number of confirmed witnesses": 1,
+    "witness description": "anonymous",
+    "contains photographs": false
 }

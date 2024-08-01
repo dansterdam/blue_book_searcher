@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white, circular object similar to a star but larger and brighter was observed for 1-2 minutes over Temple, Texas.",
-    "interesting points": [
-        "The object was 12210 ft. the size of the quarter held at arm's length.",
-        "There is a possibility of an explanation involving the misidentification of a known astronomical object.",
-        "The sighting was reported to the U.S. Air Force, 7th Recon Sq.",
-        "The witness described the object as fairly reliable.",
-        "The duration of the observation was 1-2 minutes."
-    ],
-    "result": "possibly a misidentified astronomical object",
-    "sighted object": "white, circular object similar to a star but larger and brighter",
-    "location": "Temple, Texas",
-    "witnesses": "local USAF, 7th Recon Sq.",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Witnesses reported seeing a white, circular object in Temple, Texas in June 1961.",
+    "interesting points": "The object was similar to a star but larger and brighter,The sighting lasted for about 1-2 minutes with varying durations reported,Multiple forms of observations were documented from different dates involving similar objects,Some possibilities of misidentification with known astronomical objects were suggested,The UFO report is part of Project Blue Book's documentation process.",
+    "sighted object": "one white circular object",
+    "location": "Temple, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "witnesses saw a bright circular object in the sky, at times described as ovoid and star-like",
+    "contains photographs": false
 }

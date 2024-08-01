@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Two round, whitish-gray objects were spotted in the sky over Centerport, Long Island, New York on October 30, 1966.",
-    "interesting points": [
-        "The objects were stationary and just disappeared in about 45 seconds.",
-        "The witness has reported seeing several alleged UFOs in the past and reported them to the Air Force.",
-        "The objects were the size of a silver dollar held at arm's length.",
-        "The objects did not move high or low, but were paced with the observer's car.",
-        "The objects disappeared instantaneously to the north."
-    ],
-    "result": "unexplained",
-    "sighted object": "two round, whitish-gray objects",
+    "main event": "On October 30, 1966, two round objects were sighted in Centerport, Long Island, New York.",
+    "interesting points": "The observer noted the objects were twinkling and appeared suddenly,The objects were stationary for about 45 seconds before disappearing,The objects were described as the size of a silver dollar and whitish-gray in color,The sighting was classified as a civilian source and deemed unreliable,The observer indicated they had seen several alleged UFOs previously.",
+    "sighted object": "two round, flat objects",
     "location": "Centerport, Long Island, New York",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer named Greenlantz, additional details redacted",
+    "contains photographs": false
 }

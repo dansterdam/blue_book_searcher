@@ -1,15 +1,9 @@
 {
-    "main event": "A glowing reddish object was sighted north of Midway Island on an east-bound course, tracked for approximately 10 minutes covering 40 degrees of arc.",
-    "interesting points": [
-        "The object was tracked by ground radar.",
-        "No aircraft was found to be in the area at the time of the sighting.",
-        "The object's altitude, size, and speed could not be estimated.",
-        "The report notes that a satellite would have been visible in the area at the time of the sighting.",
-        "The report states that no evaluation of the sighting has been made at this time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a glowing reddish object",
-    "location": "north of Midway Island",
-    "witnesses": "two officers",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted north of Midway on an eastbound course by two officers on June 20, 1963.",
+    "interesting points": "The object glowed with a reddish tint., The sighting lasted for approximately 10 minutes., The object tracked around 40 degrees of arc during the observation., There were no other aircraft in the area according to Honolulu center reports., The conclusion suggested it was probably a satellite.",
+    "sighted object": "unidentified flying object glowing with reddish tint",
+    "location": "Midway, Pacific",
+    "number of confirmed witnesses": 2,
+    "witness description": "two officers",
+    "contains photographs": false
 }

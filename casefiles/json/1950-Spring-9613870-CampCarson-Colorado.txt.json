@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a dark, solid-looking object moving at high speed (around 1000 mph) in the sky near a military training camp in Colorado in 1950.",
-    "interesting points": [
-        "The object was observed for 35-45 seconds and simply disappeared out of sight.",
-        "The witness estimated the object was 4000-7000 feet away from his location.",
-        "Another sergeant who was with the witness also saw the object, but only for a few seconds.",
-        "The witness was an experienced outdoorsman and amateur astronomer who had been flying since 1939.",
-        "The witness reported the sighting to the personnel officer at the military camp after returning from the location."
-    ],
-    "result": "unexplained",
-    "sighted object": "a dark, solid-looking object",
-    "location": "Near Camp Carson, Colorado",
-    "witnesses": "the witness and another sergeant",
-    "photographs": "none"
+    "main event": "A former USAF colonel reported a UFO sighting in 1950, describing the object as extremely fast and potentially unnoticed without direct observation.",
+    "interesting points": "The observer was outdoors at Camp Carson, Colorado, when the sighting occurred., The object was estimated to have traveled at a speed of 500 to 800 MPH and possibly up to 1000 MPH., The witness stated that if they hadn't been looking at the object, it would have gone unnoticed., The sighting lasted approximately 35 to 45 seconds., The report states one other person, a sergeant, was present who also observed the object for a few seconds.",
+    "sighted object": "unidentified fast-moving object",
+    "location": "Camp Carson, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a retired USAF colonel with a background in hunting and amateur astronomy",
+    "contains photographs": false
 }

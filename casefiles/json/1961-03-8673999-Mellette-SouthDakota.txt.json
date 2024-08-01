@@ -1,15 +1,9 @@
 {
-    "main event": "A large, silver-colored unidentified flying object was sighted over Mellette, South Dakota in March 1961.",
-    "interesting points": [
-        "The object remained in the sky for several minutes before suddenly disappearing.",
-        "The sighting was witnessed by Mrs. Melette and her husband and son.",
-        "The report was part of Project 10073, a government program documenting UFO sightings.",
-        "The case was evaluated as an unreliable report, with the witness likely distorting her impressions.",
-        "There was no evidence to support the claim that the object shot down jets or caused an atomic blast."
-    ],
-    "result": "Unidentified",
-    "sighted object": "A large, silver-colored unidentified flying object",
-    "location": "Mellette, South Dakota",
-    "witnesses": "Mrs. Melette, her husband, and her son",
-    "photographs": "None"
+    "main event": "A UFO sighting was reported in Mellette, South Dakota in March 1961, involving a large silver-colored object observed by Mrs. Melette and her family.",
+    "interesting points": "The sighting lasted for several minutes before the object suddenly disappeared., Two jets were dispatched to pursue the flying object., The object was described as large and silver in color., There was considerable uneasiness among the public regarding the sighting., The conclusion of investigations implied that there was a distortion of normal objects by the observers.",
+    "sighted object": "a large silver-colored UFO",
+    "location": "Mellette, South Dakota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mrs. Melette and her husband and son",
+    "contains photographs": false
 }

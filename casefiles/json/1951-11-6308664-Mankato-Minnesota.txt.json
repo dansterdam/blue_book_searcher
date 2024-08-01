@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sighting of three brilliant white objects in a triangular shape, flying with an 8 ft. wing span, heading east at a high rate of speed, maneuvering erratically, and disappearing to the west.",
-    "interesting points": [
-        "The objects were observed for 2-5 seconds by a ground observer.",
-        "The objects were also observed on radar, with their speed estimated at 1000 knots.",
-        "The objects did not appear to be affected by the presence of an F-51 aircraft, other than making a slight course change to pass in front of it.",
-        "Weather balloons and other known aircraft were ruled out as the source of the sighting.",
-        "The objects were described as flying in the vertical plane and at a very high rate of speed."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Three brilliant white objects in a triangular shape",
-    "location": "Mankato, Minnesota",
-    "witnesses": "Ground observer, F-51 pilot",
-    "photographs": "Yes, but no film was recovered"
+    "main event": "Sighting of 3 brilliant white objects in a triangular shape flying at high speed observed in Mankato, Minnesota.",
+    "interesting points": "The objects had an 8 ft. wingspan and maneuvered erratically,The sighting lasted for 2-5 seconds,The weather was clear and visibility was good, The objects disappeared to the west after the observation, Conclusions of the report include the possibility of the objects being a balloon or aircraft reflection.",
+    "sighted object": "three brilliant white objects in a triangular shape",
+    "location": "Mankato, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "ground observer, possibly a pilot from an F-51",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object was spotted in the sky over Tipp City, Ohio on July 3, 1953.",
-    "interesting points": [
-        "The object appeared suddenly and was stationary at a high altitude above a plane that was flying overhead.",
-        "After the plane passed, the object moved rapidly upward, turned south, and disappeared behind a cloud bank.",
-        "The object was described as brilliant white and shiny in appearance.",
-        "The sighting lasted for approximately 45 minutes.",
-        "Multiple witnesses, including personnel from the Tinker Air Force Base control tower, observed the object."
-    ],
-    "result": "Weather balloon",
-    "sighted object": "a brilliant white, shiny object",
-    "location": "Tipp City, Ohio",
-    "witnesses": "control tower personnel at Tinker AFB",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An observer noticed a large silver object over Tipp City, Ohio, on July 3, 1953, that remained stationary for a time before moving vertically and disappearing to the south.",
+    "interesting points": "The observation lasted for approximately 12 to 14 minutes., The observer was outside at the time of the sighting., The object was described as shiny and round., It moved rapidly upwards and then changed direction sharply to the south., Local inquiries found no evidence of a weather balloon in the vicinity at the time of the sighting.",
+    "sighted object": "a large shiny silver object",
+    "location": "Tipp City, Ohio, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "The main witness was 25 years old, worked as an industrial operator, and was notified about the sighting while outside of his porch.",
+    "contains photographs": false
 }

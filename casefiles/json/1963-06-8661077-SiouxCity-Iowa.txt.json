@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large star-like object was observed with a telescope. It had a blinking light and was moving in an irregular zigzag path, then seemed to stop northeast of Sioux City.",
-    "interesting points": [
-        "The flight path described is not normal for an aircraft.",
-        "The observer had a previous experience of two similar objects coming together and then separating.",
-        "The object could possibly be an ESU or a known SAC aircraft in the area.",
-        "No sound was reported from the object.",
-        "The object was observed for 15-30 minutes."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a large star-like object with a blinking light",
-    "location": "Sioux City, Iowa",
-    "witnesses": "civilian observers Mr. N-------- and Mr. T---------",
-    "photographs": "no photographs included"
+    "main event": "A large circular star-like object was observed with a telescope moving in an irregular zigzag path over Sioux City, Iowa.",
+    "interesting points": "The object had a blinking light,The object seemed to stop northeast of the city,The flight path of the object was not normal for aircraft,The observation lasted for about 15-30 minutes,There were two confirmed witnesses who were civilians.",
+    "sighted object": "large circular star-like object",
+    "location": "Sioux City, Iowa, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians Mr. N-------- and Mr. T---------",
+    "contains photographs": false
 }

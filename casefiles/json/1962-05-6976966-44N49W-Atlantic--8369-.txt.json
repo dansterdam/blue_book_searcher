@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified aerial object was detected and tracked by radar over the Atlantic Ocean on May 5, 1962.",
-    "interesting points": [
-        "The object was detected at coordinates 44°N 49°W, approximately 215 miles east of the Atlantic coast.",
-        "The object was tracked by two separate radar stations for about 45 minutes.",
-        "The object was initially detected traveling at an estimated speed of 1,800 knots (around 2,070 mph) at an altitude of 55,000 feet.",
-        "The object then abruptly changed course, turning east and accelerating to an estimated speed of 3,200 knots (around 3,680 mph) before disappearing from radar coverage.",
-        "No known aircraft or spacecraft were operating in the area at the time of the incident, and the nature and origin of the unidentified object remain unknown."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified aerial object",
-    "location": "Atlantic Ocean, 44°N 49°W",
-    "witnesses": "radar operators",
-    "photographs": "yes, radar photographs are attached"
+    "main event": "On May 6, 1962, two F-102 jet interceptors tracked an unidentified object by radar in the Atlantic Ocean at coordinates 44N 49W for 15 minutes.",
+    "interesting points": "The unidentified object was observed at speeds between 1,000 and 3,000 knots., The object made a rapid change in course during the tracking., Visibility was reported to be good and weather clear during the sighting., A probable meteor or meteorite sighting was reported in the same area shortly after the U.S. Navy's sighting., The object was described as being 30-75 feet in diameter and emitted no sound.",
+    "sighted object": "an unidentified airborne object",
+    "location": "Atlantic Ocean, Atlantic, CA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Pilot and crew of Air Force jet interceptors",
+    "contains photographs": false
 }

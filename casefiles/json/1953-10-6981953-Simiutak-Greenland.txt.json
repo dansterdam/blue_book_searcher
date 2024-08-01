@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report document:
-
 {
-    "main event": "Unidentified flying objects (UFOs) were sighted near Simiutak, Greenland on October 26, 1955.",
-    "interesting points": [
-        "Two UFOs were observed by weather observers at Narsarssuak, Greenland in the early morning hours.",
-        "The first UFO was a white glowing object that appeared stationary, while the second UFO changed color from red to green to white and was moving in various directions.",
-        "The UFOs were under observation for approximately one hour.",
-        "A civilian aircraft passed over Simiutak around the same time the UFOs were sighted, but there was no contact with the aircraft.",
-        "The observers were unable to continue observing the objects after 2:29 AM local time due to approaching daylight."
-    ],
-    "result": "unexplained",
+    "main event": "Two unidentified flying objects were observed near Simiutak, Greenland, for 2-3 hours on 29 October 1953.",
+    "interesting points": "The objects were described as a white glowing object not moving and another changing colors from red to green to white., The first sighting was noted at 25Z815 and they were under observation for approximately an hour., The report was filed by a radio operator from an aircraft., The sighting occurred during clear weather conditions., The conclusion reached in the report suggested the lights were probably Venus and Vega.",
     "sighted object": "two unidentified flying objects",
     "location": "Simiutak, Greenland",
-    "witnesses": "weather observers at Narsarssuak, Greenland",
-    "photographs": "yes, the report includes 2 photographs"
+    "number of confirmed witnesses": 2,
+    "witness description": "radio operators and weather observers",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "On 20 August 1956, in North Bend, Oregon, a UFO was tracked on ground radar, then visually observed. The object was initially sighted at 54,000 ft altitude, appeared to orbit, then descended to 50,000 ft altitude before fading from view, being tracked for two hours.",
-  "interesting points": [
-    "The object was tracked on ground radar before being visually observed, adding credibility to the sighting.",
-    "It was initially sighted at a high altitude of 54,000 ft and appeared to orbit before descending to 50,000 ft.",
-    "The object was tracked for a significant duration of two hours before fading from view.",
-    "The conclusion was inconclusive, listing possibilities such as balloon, aircraft, and astronomical phenomena.",
-    "The sighting involved military sources, adding to the credibility of the observation."
-  ],
-  "result": "Unknown",
-  "sighted object": "Unidentified object tracked on ground radar and visually observed",
-  "location": "North Bend, Oregon",
-  "witnesses": "Military sources",
-  "photographs": "No photographs available"
+    "main event": "An unidentified object was tracked on ground radar and visually observed from North Bend, Oregon.",
+    "interesting points": "The object was initially sighted at 54,000 ft altitude before descending to 50,000 ft.,The object appeared to orbit during its flight,It was tracked for a total of two hours before fading from view.,Radar operators at Roselle, Washington also reported seeing a bright light that matched the object's altitude.,The conclusions suggested it could be a balloon, aircraft, astronomical object, or remain insufficient for evaluation.",
+    "sighted object": "unidentified object tracked on radar",
+    "location": "North Bend, Oregon, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military radar operators",
+    "contains photographs": false
 }

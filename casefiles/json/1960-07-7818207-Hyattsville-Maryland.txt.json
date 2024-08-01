@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was sighted near Hyattsville, Maryland on July 21, 1960.",
-    "interesting points": [
-        "The object was described as having varying size, color, and other characteristics, possibly indicating a meteor.",
-        "The object was observed by both civilian and military witnesses.",
-        "The sighting lasted for approximately 5 minutes.",
-        "No photographs were taken of the object.",
-        "The Air Force concluded the sighting was a probable astronomical meteor."
-    ],
-    "result": "probable astronomical meteor",
-    "sighted object": "an unidentified flying object with varying size, color, and characteristics",
-    "location": "Hyattsville, Maryland",
-    "witnesses": "civilian and military",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in Hyattsville, Maryland on July 21, 1960.",
+    "interesting points": "The sighting lasted for 5 minutes., The object was described as varied in size and color., Witnesses noted the object resembled a falling meteor., Observers compared the size of the object to a 25-cent piece., The object fell straight down without any maneuvers.",
+    "sighted object": "one meteor-like object",
+    "location": "Hyattsville, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers reported varying elevations of view of the object.",
+    "contains photographs": false
 }

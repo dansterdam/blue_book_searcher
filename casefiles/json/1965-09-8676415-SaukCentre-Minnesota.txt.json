@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A resident of Sauk Centre, Minnesota reported seeing a large, round object with a blue glow hovering over the town in 1965.",
-    "interesting points": [
-        "The object was estimated to be 75-100 feet in diameter and about 500 feet off the ground.",
-        "The object made no noise and suddenly shot straight up and disappeared out of sight.",
-        "The witness, who was 65 years old at the time, had excellent eyesight and was certain of what he saw.",
-        "A neighbor also witnessed the object and was equally amazed.",
-        "The Air Force response suggests the object was likely an aircraft, but due to the limited information, they could not make a conclusive determination."
-    ],
-    "result": "possible aircraft",
-    "sighted object": "a large, round object with a blue glow",
-    "location": "Sauk Centre, Minnesota",
-    "witnesses": "a resident and his neighbor",
-    "photographs": "none"
+    "main event": "A resident in Sauk Centre, Minnesota reported a sighting of an unidentified flying object on September 11, 1965.",
+    "interesting points": "The object was described as round with a blue glow and hovered at an estimated 500 feet above the ground., The sighting included a blinking light that appeared to disappear as the object moved at high altitude., Several witnesses were involved, including the reporter's son and a neighbor who were equally amazed., The sighting lasted approximately two minutes before the object shot straight up into the sky., The investigation suggested that the observed phenomena were characteristics commonly associated with aircraft.",
+    "sighted object": "a round object with a blue glow",
+    "location": "Sauk Centre, Minnesota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Sighting reports from residents, including individuals aged 43 and 65, who expressed concerns about ridicule regarding their experiences.",
+    "contains photographs": false
 }

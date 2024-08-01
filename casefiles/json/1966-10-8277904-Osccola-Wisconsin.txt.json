@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A civilian observer spotted an unidentified bright orange object in the sky over Osceola, Wisconsin on October 5, 1966.",
-  "interesting points": [
-    "The object appeared to be very bright and large, and passed between the observer and the trees.",
-    "The object suddenly moved over the horizon and then disappeared.",
-    "The object appeared to be traversing and could not be accurately identified, but could not be photographed.",
-    "The observer watched the object for about 20 minutes.",
-    "Other military personnel at Osceola AFS also claimed to have seen a bright object the night of the sighting."
-  ],
-  "result": "unidentified",
-  "sighted object": "a bright orange object",
-  "location": "Osceola, Wisconsin",
-  "witnesses": "civilian observer, military personnel",
-  "photographs": "no"
+    "main event": "An unidentified bright object was observed by a civilian in Osceola, Wisconsin on October 5, 1966, for about 20 minutes.",
+    "interesting points": "The object was observed moving westward and appeared bright and large,The observer described it as passing between her and the trees,The sighting lasted about 20 minutes and the object was seen both stationary and moving,No physical evidence or photographs were obtained during the sighting,Some military personnel in the area claimed to have seen a similar bright object that night.",
+    "sighted object": "one bright unidentified object",
+    "location": "Osceola, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian who observed the object.",
+    "contains photographs": false
 }

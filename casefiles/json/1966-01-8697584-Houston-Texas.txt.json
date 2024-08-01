@@ -1,17 +1,9 @@
-Here is the JSON summary:
-
 {
-    "main event": "A civilian in Houston, Texas reported seeing 3-4 unidentified objects in the sky on January 15, 1966.",
-    "interesting points": [
-        "The objects were observed for 5 minutes.",
-        "The objects were stationary.",
-        "No photographs were taken of the objects.",
-        "No physical evidence of the objects was reported.",
-        "The report was filed as part of Project Blue Book, the US Air Force's UFO investigation program."
-    ],
-    "result": "unexplained",
-    "sighted object": "3-4 unidentified objects",
-    "location": "Houston, Texas",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Multiple unidentified flying object sightings reported in Houston, Texas on various dates in January 1966.",
+    "interesting points": "Numerous reports documented different sightings including a bright white light, a red and pink light, and V-shaped objects with red lights., The sightings occurred under various conditions, including day and night., Significant emphasis was placed on the lack of photographic evidence in each report., Observations lasted from 1 to 30 minutes, depending on the incident., Despite numerous reports, the conclusions often stated insufficient data for evaluation.",
+    "sighted object": "various unidentified flying objects including bright lights and V-shaped objects",
+    "location": "Houston, Texas, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "civilians including a fireworks store manager and others",
+    "contains photographs": false
 }

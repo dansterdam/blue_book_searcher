@@ -1,15 +1,9 @@
 {
-    "main event": "Intercept of an unidentified flying object (UFO) by an F-89 jet, with negative radar contact but visual sighting only.",
-    "interesting points": [
-        "The UFO was estimated to be 30-40 feet in diameter, relative to the size of the F-89 jet.",
-        "The UFO was observed to descend at high speed, then hover, and then accelerate and depart at an estimated speed of 1000 mph.",
-        "The sighting was reported by SSGT Chisick, A2C Gray, A2C Ledlow, and A2C Mclaughlin, all radar operators assigned to the 511th Radar Squadron at North Concord, Vermont, who were deemed reliable observers.",
-        "The UFO was first detected on radar at 1956 degrees, 54 miles, at 2122Z, and then moved to 199 degrees, 75 miles, before being lost at 2142Z.",
-        "The weather conditions at the time of the sighting were clear, with a hurricane (Esther) located at 31/23 North, 72/24 West."
-    ],
-    "result": "unexplained",
+    "main event": "An F-89 jet visually sighted a UFO on September 8, 1961, during an intercept attempt.",
+    "interesting points": "The UFO was estimated to be 30-40 ft in diameter relative to the size of the F-89 jet., The object descended at high speed, hovered, and then accelerated away at an estimated speed of 1000 mph., The sighting lasted for about 15 minutes., There was no radar contact during the intercept., The observation was made by multiple radar operators.",
     "sighted object": "unidentified flying object (UFO)",
-    "location": "North Concord, Vermont",
-    "witnesses": "SSGT Chisick, A2C Gray, A2C Ledlow, and A2C Mclaughlin",
-    "photographs": "no"
+    "location": "5 miles east of Claremont, New Hampshire, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Radar operators and crew members from the 511 RA SQ (SAGE), North Concord, VT",
+    "contains photographs": false
 }

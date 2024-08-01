@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian witness sighted an unidentified object in the sky over Westhampton Beach, New York on August 25, 1966.",
-    "interesting points": [
-        "The object was described as a football-shaped, bright orange object tilted at a 45-degree angle.",
-        "The object was observed for 6-7 minutes, traveling from Riverhead to Westhampton Beach.",
-        "The witness was a photographer for the local newspaper, the Riverhead News Review.",
-        "Weather conditions at the time included a surface wind of 0 knots, with higher winds aloft.",
-        "No radar sighting or aircraft intercept was reported, and the sighting was concluded as a probable civilian aircraft operating VFR."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a football-shaped, bright orange object",
-    "location": "Westhampton Beach, New York",
-    "witnesses": "a civilian photographer",
-    "photographs": "no photographs were included in the report"
+    "main event": "A civilian reported an unidentified object sighting at Westhampton Beach, New York on August 22, 1966.",
+    "interesting points": "The observation lasted for approximately 5-7 minutes., The object was described as having a varied course., There were no photographs taken of the sighting., The conclusion of the report was insufficient data for evaluation., A follow-up request for more information was sent by the Air Force to the observer.",
+    "sighted object": "unidentified object",
+    "location": "Westhampton Beach, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

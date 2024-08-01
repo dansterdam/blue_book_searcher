@@ -1,7 +1,9 @@
-{"main event":"Unfortunately, the text provided does not appear to be a complete UFO report. It seems to be a compilation of various excerpts and pages from a Project Blue Book document. Without a coherent narrative or full set of details, I am unable to provide a comprehensive JSON summary as requested. The information is fragmented and does not contain enough context to summarize the key points in the structured format you asked for. My apologies, but I cannot generate the requested JSON summary based on the provided text alone.",
-"result": "",
-"sighted object": "",
-"location": "Toronto Canada",
-"witnesses": "",
-"photographs": "0"
+{
+    "main event": "On July 13, 1965, an unidentified aerial phenomenon was reported in Toronto, Canada, resembling an artificial satellite.",
+    "interesting points": "The object was observed in flight from NW to SE for a duration of 22 days., The witnesses noted that the weather was clear during the observation., The object was not identified as any known satellites like ECHO I, II, PEGASUS I, II., The report documented an investigation carried out by the U.S. Air Force., It was suggested that the sightings could be attributed to conditions in the satellite operations.",
+    "sighted object": "unidentified aerial phenomenon resembling an artificial satellite",
+    "location": "Toronto, Ontario, Canada",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witness descriptions were provided.",
+    "contains photographs": false
 }

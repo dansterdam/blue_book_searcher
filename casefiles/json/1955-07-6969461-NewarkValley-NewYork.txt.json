@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A single object, possibly two objects, were observed over Newark Valley, New York on July 12, 1955.",
-    "interesting points": [
-        "The object(s) were described as being similar in color and appearance to a clear plastic balloon, and were stationary and steady in flight.",
-        "The object(s) were intercepted by two fighter aircraft.",
-        "The object(s) were ultimately identified as an unusual double balloon.",
-        "The observation lasted for a total of 8 minutes.",
-        "The observation was made by a civilian witness who was identified by military personnel."
-    ],
-    "result": "Identified as an unusual double balloon",
-    "sighted object": "One or possibly two objects similar in appearance to a clear plastic balloon",
-    "location": "Newark Valley, New York",
-    "witnesses": "Civilian (identified by military)",
-    "photographs": "no"
+    "main event": "One or possibly two objects resembling clear plastic balloons were sighted in Newark Valley, New York on July 12, 1955.",
+    "interesting points": "The objects were observed to be stationary and steady in flight at the time of the report., They were identified by military personnel as resembling unusual double balloons., The observation lasted for 8 minutes with the objects in sight., The sighting was reported by a civilian source., Two fighter jets intercepted the objects during the sighting.",
+    "sighted object": "one or possibly two clear plastic balloons",
+    "location": "Newark Valley, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian source identified by military",
+    "contains photographs": false
 }

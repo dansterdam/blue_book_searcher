@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A ball of fire with 3 red lights was spotted on the horizon, appearing to be stationary and then quickly moving west before disappearing.",
-    "interesting points": [
-        "The object appeared to have a fire-like appearance on the horizon.",
-        "The object was described as a ball of fire with 3 red lights.",
-        "The object was initially stationary, then quickly moved west before disappearing.",
-        "The sighting lasted for 3-5 minutes.",
-        "The report includes wind speed and temperature data for the time of the sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "ball of fire with 3 red lights",
-    "location": "Wood Glen, Stanhope, New Jersey",
-    "witnesses": "Al T. Green, Mr. McConnel (post supervisor), and an unnamed woman",
-    "photographs": "none"
+    "main event": "A ball of fire with three red lights was observed in Wood Glen, New Jersey on 15 November 1967.",
+    "interesting points": "The observation lasted for approximately 10 minutes., The object appeared to be stationary before moving west., The object emitted an appearance of fire on the horizon., The sighting was part of the USAF's Project Blue Book program., Conclusive data was deemed insufficient for further evaluation.",
+    "sighted object": "ball of fire with three red lights",
+    "location": "Stanhope, New Jersey, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses were confirmed in the report",
+    "contains photographs": false
 }

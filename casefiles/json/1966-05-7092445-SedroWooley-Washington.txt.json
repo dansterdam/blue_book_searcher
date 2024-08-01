@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian witness in Sedro Woolley, Washington observed an unidentified oval-shaped object with a yellowish light on May 22, 1966 at around 2230Z (10:30 PM).",
-    "interesting points": [
-        "The object was the size of a wash tub and made a buzzing, whirring sound like a spinning top.",
-        "The witness reported hearing a whirring sound and a dog barking.",
-        "The object was seen moving eastward at medium and high altitudes, climbing and then slowly moving east over the Skagit River.",
-        "The observation lasted for about 5 minutes.",
-        "The operations duty officer suggested the sighting could have been caused by a weather balloon released from Tatoosh Island, but this was considered unlikely due to the wind conditions."
-    ],
-    "result": "unexplained",
-    "sighted object": "oval-shaped object with a yellowish light",
-    "location": "Sedro Woolley, Washington",
-    "witnesses": "1 civilian witness, a housewife who was reportedly reliable",
-    "photographs": "no"
+    "main event": "A housewife observed a yellowish oval object with buzzing and whirring sounds in Sedro Wooley, Washington on May 22, 1966.",
+    "interesting points": "The object was observed for 5 minutes,The course of the object was east,The witness reported a buzzing, whirring sound similar to a spinning top,The sighting occurred at night,The witness is described as apparently reliable.",
+    "sighted object": "oval yellowish object",
+    "location": "Sedro Wooley, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife, reportedly reliable",
+    "contains photographs": false
 }

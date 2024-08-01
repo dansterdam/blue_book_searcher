@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported at Thule AFB, Greenland on September 31, 1958. The object was described as the size of a star with a blue blinking light, disappearing for 10-15 seconds and then reappearing, and estimated to have a speed of 1500 to 1800 knots before disappearing instantly.",
-  "interesting points": [
-    "The UFO was observed by military personnel, including the aircraft commander, co-pilot, and navigator of the 4287th Air Transport Squadron.",
-    "The sighting was of an object that appeared on the northern horizon, travelled overhead heading 63 degrees to the west at a very fast speed.",
-    "The report states 'insufficient data for evaluation' and mentions the possibility of a balloon or satellite, with potential errors in speed or duration of the sighting.",
-    "The document also requests a preliminary investigation to obtain more specific information concerning the sighting, indicating the seriousness with which it was taken.",
-    "There is discrepancy in the timing of the sighting, with the original report indicating a different time from the command post log."
-  ],
-  "result": "unexplained",
-  "sighted object": "Unknown object with a blue blinking light",
-  "location": "Thule AFB, Greenland",
-  "witnesses": "Military personnel (aircraft commander, co-pilot, navigator)",
-  "photographs": "No"
+    "main event": "A blue blinking light, size of a star, was observed over Thule AFB, Greenland on 31 September 1958.",
+    "interesting points": "The object disappeared for about 10 to 15 seconds and then reappeared., The estimated speed of the object was around 1500 to 1800 knots., The observation lasted for approximately 2 minutes., The sight was evaluated as an unreliable report due to insufficient data for evaluation., The possible explanations included that it could have been a balloon or a satellite.",
+    "sighted object": "a blue blinking light",
+    "location": "Thule AFB, Greenland",
+    "number of confirmed witnesses": 3,
+    "witness description": "George E Jolly, Capt. USAF; Ernest H. Walthall, Capt. USAF; Edward E. Warthling, 1/LT USAF",
+    "contains photographs": false
 }

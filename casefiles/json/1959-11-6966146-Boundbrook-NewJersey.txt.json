@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright red-orange object was observed moving rapidly across the sky over Bound Brook, New Jersey on November 25, 1959 at around 9:30 PM.",
-    "interesting points": [
-        "The object was described as a bright star-like object that moved at an extreme speed.",
-        "The object was observed for about 60 seconds before it disappeared.",
-        "The witness estimated the object was traveling at a very high speed.",
-        "The witness was unsure of the nature of the object, but it was concluded as 'unknown'.",
-        "The report contains sketches showing the object's path and position relative to the observer."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright red-orange object",
-    "location": "Bound Brook, New Jersey",
-    "witnesses": "local citizens",
-    "photographs": "no"
+    "main event": "A red-orange object described as a bright star moved rapidly across the night sky in Boundbrook, New Jersey on November 28, 1959.",
+    "interesting points": "The object was seen moving at extreme speed,Two minutes was the estimated time of observation but the actual sighting duration was noted as 60 seconds,The sighting occurred at 10:30 PM,There is speculation that it could have been a high-flying jet,The witness described the object fading out slowly after about 12-15 seconds of movement.",
+    "sighted object": "a red-orange object resembling a bright star",
+    "location": "Boundbrook, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness described being around their car at night when they observed the object",
+    "contains photographs": false
 }

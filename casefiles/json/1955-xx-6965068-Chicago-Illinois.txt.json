@@ -1,15 +1,9 @@
 {
-    "main event": "The report contains a letter describing a UFO sighting in 1959 near Chicago, Illinois. The witness claims to have seen and taken a picture of several UFOs, but the negatives were lost before the picture could be developed.",
-    "interesting points": [
-        "The witness and their brother sighted several UFOs while driving in Chicago in 1959.",
-        "The witness reported taking a picture of the UFOs but lost the negatives before they could be developed.",
-        "An official from the Air Force requested the original photograph for evaluation in 1960.",
-        "The document contains a hand-drawn sketch or diagram labeled with annotations.",
-        "The Air Force requested additional information and a completed questionnaire regarding the UFO sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "several UFOs near Chicago, Illinois",
-    "location": "Chicago, Illinois",
-    "witnesses": "Xa Y.., the witness and his brother",
-    "photographs": "The report claims there was a picture taken but the negatives were lost"
+    "main event": "A sighting of several unidentified flying objects (UFOs) near Chicago in 1959.",
+    "interesting points": "The witness was driving with his brother when they saw a flash in the sky and stopped to observe., The witness attempted to take a photograph, but the film broke and the negatives were lost., The witness sought assistance from the Air Force regarding their sighting and lost photograph., The sighting involved multiple UFOs as reported by the witness., The case file includes several letters regarding the analysis of the reported sighting.",
+    "sighted object": "unidentified flying objects in the sky",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a driver and his brother",
+    "contains photographs": false
 }

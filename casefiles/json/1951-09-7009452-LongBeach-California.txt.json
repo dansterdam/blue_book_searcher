@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "Four F-86 aircraft were scrambled to investigate an unidentified object sighted over Long Beach, California at an altitude of around 50,000 feet on September 23, 1951.",
-    "interesting points": [
-        "The object was described as being round, silver in color, and moving at a high speed.",
-        "The object was able to maneuver, making left orbits and passing over the F-86 aircraft.",
-        "The F-86 aircraft were unable to reach the altitude of the object due to carrying external fuel tanks.",
-        "A weather balloon released from Long Beach Municipal Airport around the same time was considered as a possible explanation for the sighting.",
-        "The object could not be tracked on radar and its identity remained unknown."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a round, silver object",
-    "location": "Long Beach, California",
-    "witnesses": "F-86 fighter pilots",
-    "photographs": "no"
+    "main event": "On 23 September 1951, an unidentified object was reported near Long Beach, California, leading to the scramble of F-86 aircraft to investigate.",
+    "interesting points": "The object was initially described as being round and silver, with an altitude estimated between 50,000 to 55,000 feet., The object was eventually evaluated as possibly being a radiosonde balloon., Four F-86 pilots attempted to visually intercept the object but were unable to do so., At one point, the object was reported to be in a left orbit at approximately 4,000 feet., Weather balloons had been launched from nearby stations shortly before the sighting.",
+    "sighted object": "unidentified object believed to be a balloon",
+    "location": "Long Beach, California, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "F-86 pilots and military personnel involved in the interception.",
+    "contains photographs": false
 }

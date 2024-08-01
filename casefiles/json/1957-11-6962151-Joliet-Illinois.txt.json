@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large, round, brilliant white object was observed by multiple commercial airline pilots near Joliet, Illinois on November 6, 1957.",
-    "interesting points": [
-        "The object seemed to change in appearance when passing behind clouds.",
-        "The object appeared to hover at times and then move in a straight course.",
-        "Five individual commercial airline pilots reported seeing the object.",
-        "The object was also briefly detected on ground radar, about 10 seconds of contact.",
-        "The sighting occurred under thin, scattered cloud cover at an altitude of 8,200 to 12,000 feet."
-    ],
-    "result": "Possibly a Balloon",
-    "sighted object": "A large, round, brilliant white object",
-    "location": "Near Joliet, Illinois",
-    "witnesses": "Five commercial airline pilots",
-    "photographs": "No photographs"
+    "main event": "A sighting of a large round brilliant white object reported by pilots on 6 November 1957.",
+    "interesting points": "The sighting lasted for 3 minutes and occurred at 6:17 PM CST., The object changed appearance when passing behind clouds., Multiple observations were made by five individual commercial airline pilots., There was a balloon released at Joliet, Illinois around the time of the sighting., Ground radar reported a contact for ten seconds near the sighting area.",
+    "sighted object": "large round brilliant white object",
+    "location": "Joliet, Illinois, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "commercial airline pilots from TWA, CAL, CM Airlines, Northwest, and United",
+    "contains photographs": false
 }

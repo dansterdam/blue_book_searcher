@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, oval-shaped object was observed by four people and tracked on radar over Finland, Minnesota on November 7, 1957.",
-    "interesting points": [
-        "The object was described as being about 50 feet long and 25-35 feet wide, silvery gray in color with flashing, changing yellow streaks, and blinking red and green lights.",
-        "The object covered the general area, flying up and down and side to side, climbing to 8,000 feet at an estimated speed of 800-1,000 mph before descending to 800 feet.",
-        "The observation lasted for about 5 minutes.",
-        "The weather conditions were clear to partly cloudy, with winds of 12-15 mph and temperatures between 32-35°F.",
-        "The sighting was reported to Project Blue Book, the U.S. Air Force's UFO investigation program."
-    ],
-    "result": "unidentified",
-    "sighted object": "round, oval-shaped object",
-    "location": "Finland, Minnesota",
-    "witnesses": "4 people",
-    "photographs": "none"
+    "main event": "An unidentified object was observed by several witnesses in Finland, Minnesota on 2 November 1957.",
+    "interesting points": "The object was described as almost oval shaped and cloudlike, but its movements eliminated it as a cloud., The observation lasted between 1 to 3 hours., The weather conditions were clear and calm with a bright moon present., Witnesses concluded that the object was likely the planet Venus due to its brightness and position., The documentation references military involvement in the investigation of this sighting.",
+    "sighted object": "an almost oval-shaped object",
+    "location": "Finland, Minnesota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Witnesses reported the object for 1 to 3 hours under clear weather conditions.",
+    "contains photographs": false
 }

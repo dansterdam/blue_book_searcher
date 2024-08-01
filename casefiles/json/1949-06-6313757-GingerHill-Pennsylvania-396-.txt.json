@@ -1,15 +1,9 @@
 {
-  "main event": "A sighting of an unidentified aerial phenomenon was reported on 4th June 1949 at 10:15 AM near Ginger Hill, Pennsylvania. The witness observed an oval and very thin object flying at a 45-degree tilt at approximately 4000 feet altitude, twice the speed of conventional aircraft, and disappeared behind trees after approximately 30 seconds of observation.",
-  "interesting points": [
-    "The witness described the object to be highly polished with no evidence of projections, lights, exhaust, or vaporization, and it made no sound.",
-    "The object's shape was comparable to the wingspread of a two-engine plane, and its thickness was around 10% of its diameter.",
-    "Witness was regarded as well-educated, level-headed, and of good character with no police record. The witness's ability to distinguish colors, speed of objects, and distances was attributed to their everyday work.",
-    "The sighting was investigated by the United States Air Force and verified with weather reports from Allegheny County and Greater Pittsburgh Airport, confirming no flights in the vicinity at that time.",
-    "The witness's brother, who was a passenger in the automobile at the time, did not see the object, adding an element of corroborative testimony."
-  ],
-  "result": "unexplained",
-  "sighted object": "an oval and very thin unidentified aerial phenomenon",
-  "location": "Ginger Hill, Pennsylvania",
-  "witnesses": "Civilian, Mr. [redacted], Chief Engineer of Pittsburgh Coal Washer Co.",
-  "photographs": "no"
+    "main event": "A civilian observed an oval and very thin object flying at a 45 degree tilt while driving in his automobile on 4 June 1949.",
+    "interesting points": "The object was flying parallel to Old Brownsville Road from northwest to southeast at about twice the speed of conventional aircraft., The object maintained a straight and level flight until obscured by trees, and made no sound., The object's size was comparable to the wingspread of a two-engine plane, with a thickness of only 10% of its diameter., The observer was well-educated and respected in his community, further supporting the credibility of the sighting., Weather reports from nearby airports confirmed visibility and conditions suited for such an observation.",
+    "sighted object": "an oval and very thin object",
+    "location": "Ginger Hill, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a Chief Engineer at Pittsburgh Coal Washer Co., well-educated and level-headed",
+    "contains photographs": false
 }

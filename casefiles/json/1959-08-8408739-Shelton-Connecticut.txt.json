@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on 10th August 1959 in Shelton, Connecticut. The object was observed to change color and passed out of sight in 3-4 minutes.",
-    "interesting points": [
-        "The object's color changed to a bright orange-red after passing overhead.",
-        "The sighting was not conclusive, and the report requested further information from the witness.",
-        "The document indicates that six persons witnessed the object.",
-        "The report mentions a particular 'object' or 'device' under government interest or investigation, but the details have been redacted or omitted.",
-        "The sender of the report acknowledged the insufficiency of data and requested completion of an Air Force questionnaire for analysis and evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying object",
-    "location": "Shelton, Connecticut",
-    "witnesses": "six persons",
-    "photographs": "no"
+    "main event": "An object was sighted in Shelton, Connecticut, on 10 August 1959, with multiple witnesses observing it.",
+    "interesting points": "The object was observed for 3-4 minutes,It changed color to bright orange-red after passing overhead,Insufficient information was available for thorough analysis,The sighting was reported by 6 individuals,There was a follow-up request for further data that was not returned.",
+    "sighted object": "an unidentified flying object that changed color",
+    "location": "Shelton, Connecticut, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "six persons observed the object",
+    "contains photographs": false
 }

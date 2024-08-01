@@ -1,15 +1,9 @@
 {
-    "main event": "A strange object was observed approximately 10 miles above the horizon moving from east to west west of Portugal on October 6, 1957. The observation lasted 3-5 minutes with no further information available.",
-    "interesting points": [
-        "The sighting was of a single object, possibly a satellite or unknown aircraft, and was observed by a civilian source.",
-        "The report dismisses the possibility of the object being a balloon and states that it was definitely not Sputnik.",
-        "The object was described as high and fast, and no photographs or visual evidence of the object are included in the report.",
-        "The report was received from New York DAC, indicating that it was part of a wider system for tracking and documenting UFO sightings.",
-        "The conclusion of the report suggests that the observed object was possibly a satellite or an unknown aircraft."
-    ],
-    "result": "unknown",
-    "sighted object": "a strange object moving from east to west approximately 10 miles above the horizon",
-    "location": "west of Portugal",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On October 6, 1957, a strange object was observed west of Portugal moving east to west at approximately 10 miles above the horizon.",
+    "interesting points": "The observation lasted between 3 to 5 minutes., The object was identified as not being a balloon., Conclusions included possible aircraft or satellite., The object was definitely not Sputnik., The source of the sighting was civilian.",
+    "sighted object": "one strange object",
+    "location": "West of Portugal, Portugal",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian source",
+    "contains photographs": false
 }

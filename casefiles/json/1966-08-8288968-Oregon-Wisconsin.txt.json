@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report text:
-
 {
-    "main event": "A woman observed a bright, orange, stationary object in the sky that suddenly changed position. Later, she saw a crescent-shaped elongated object.",
-    "interesting points": [
-        "The first object looked like it had a propeller on it.",
-        "The second object was in a crescent shape.",
-        "The objects were observed for about 5 minutes.",
-        "The witness was asked to draw diagrams showing the motion and direction of the objects.",
-        "The Air Force requested the witness provide additional information on an enclosed form."
-    ],
-    "result": "unknown",
-    "sighted object": "bright, orange, stationary object that suddenly changed position; later, a crescent-shaped elongated object",
-    "location": "Oregon, Wisconsin",
-    "witnesses": "1 female witness",
-    "photographs": "no"
+    "main event": "An observer reported seeing two unidentified objects in the sky on 28 August 1966 in Oregon, Wisconsin.",
+    "interesting points": "The first object was described as a bright orange object that appeared stationary before changing position,The second object looked elongated and was sighted later,The first object was initially thought to have a propeller,The observer estimated the distance of the object to be between 1/2 to 2 miles away,The sighting lasted for approximately 5 minutes with no photographs taken.",
+    "sighted object": "two unidentified aerial objects",
+    "location": "Oregon, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Female, age 25, specific details redacted",
+    "contains photographs": false
 }

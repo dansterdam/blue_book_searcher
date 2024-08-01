@@ -1,15 +1,9 @@
 {
-    "main event": "A disc-shaped metallic gray object, approximately 500 yards in diameter, was seen traveling nearly parallel to the horizon in St. Louis, Missouri on September 17, 1957.",
-    "interesting points": [
-        "The object made a steep climb and disappeared after being observed for approximately 20-25 seconds.",
-        "The object was described as having a whistling or humming sound.",
-        "The object exhibited erratic maneuvers that would be very difficult for a conventional aircraft.",
-        "Multiple sightings of similar objects were reported in the area around the same time.",
-        "The weather conditions included a light rain shower in the area at the approximate time of the incident."
-    ],
-    "result": "unknown",
+    "main event": "A civilian graduate student in Chemistry observed a disc-shaped unidentified flying object in St. Louis, Missouri on September 17, 1957.",
+    "interesting points": "The object was described as disc-shaped and metallic gray,The object was estimated to be approximately 500 yards in diameter,It emitted a whistling or humming sound that attracted attention,The object made an erratic motion difficult for conventional aircraft,The sighting lasted approximately 20-25 seconds.",
     "sighted object": "disc-shaped metallic gray object",
-    "location": "St. Louis, Missouri",
-    "witnesses": "civilian graduate student in Chemistry at Washington University",
-    "photographs": "no"
+    "location": "St. Louis, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian graduate student in Chemistry at Washington University",
+    "contains photographs": false
 }

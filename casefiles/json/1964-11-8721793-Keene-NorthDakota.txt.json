@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A rancher in Keene, North Dakota spotted a flat, lightbulb-shaped object in the sky on November 8, 1964.",
-    "interesting points": [
-        "The object appeared smaller than a B-52 and was brightly illuminated.",
-        "The object was spotted by the rancher's children first, then by the rancher and another witness.",
-        "The object was observed for about 10 seconds and made no sound.",
-        "The Air Force center claimed there was no aircraft traffic in the area that day.",
-        "The probable cause of the sighting was undetermined at the time."
-    ],
-    "result": "undetermined",
-    "sighted object": "a flat, lightbulb-shaped object",
-    "location": "Keene, North Dakota",
-    "witnesses": "a rancher and his children",
-    "photographs": "no"
+    "main event": "A rancher in Keene, North Dakota, observed a UFO resembling a light bulb on the night of November 8, 1964.",
+    "interesting points": "The object was observed for 10 seconds traveling in a NE course at an estimated altitude of 2500-3000 feet., The object was smaller than an 8-52 aircraft and brightly illuminated., The sighting was made by children who were later joined by the rancher, George Tank Jr., The rancher was deemed a reliable observer due to his background with NIMIL Defense and familiarity with aerial activity., The object made no sound and was seen passing about 2 miles from the observer's location.",
+    "sighted object": "a flat, light bulb-shaped object",
+    "location": "Keene, North Dakota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "children and a rancher",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is a JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A witness saw a pale yellow, cream-white object in the sky for about 15 seconds.",
-    "interesting points": [
-        "The object appeared to be larger than a balloon and moved at a speed of 10-15 mph.",
-        "The object just disappeared and did not make any sound.",
-        "The witness was unsure of the exact distance, estimating it was 0.5-1 mile away.",
-        "The witness reported the sighting to the authorities, though the report does not indicate when.",
-        "The witness drew a simple sketch showing the object's location and path of movement."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "pale yellow, cream-white object",
-    "location": "Tulsa, Oklahoma",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A civilian reported seeing an unidentified object in Tulsa, Oklahoma on February 3, 1956.",
+    "interesting points": "The sighting lasted for 15 seconds., The observer described the object as similar to an airplane with its landing light on., The object was observed moving northeast., The conclusion indicated insufficient data for evaluation., The report did not contain any photographs or physical evidence.",
+    "sighted object": "one unidentified flying object",
+    "location": "Tulsa, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

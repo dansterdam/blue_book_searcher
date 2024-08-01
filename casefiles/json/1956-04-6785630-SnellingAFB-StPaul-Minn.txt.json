@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver, octagonal-shaped object was observed by multiple witnesses for 5 hours at Snelling AFB, St. Paul, Minnesota on April 24, 1956.",
-    "interesting points": [
-        "The object had a solid octagonal shape and was silver in color.",
-        "The object was surrounded by binoculars and appeared to be the size of a cigarette end when viewed without binoculars.",
-        "The object emitted a high intensity light from two areas on its sides.",
-        "The object remained stationary during the 5-hour observation period.",
-        "The sighting was reported by multiple reliable witnesses, including a major and the weather officer, as well as their families."
-    ],
-    "result": "Probable balloon",
-    "sighted object": "Silver, octagonal-shaped object",
-    "location": "Snelling AFB, St. Paul, Minnesota",
-    "witnesses": "Major, weather officer, their families",
-    "photographs": "No photographs available"
+    "main event": "A solid octagonal shaped object, silver in color, was observed at Snelling AFB for approximately 5 hours.",
+    "interesting points": "The object was surrounded by binoculars and was the size of a cigarette end when viewed without them,It appeared stationary during the observation period,The report suggests that the object may have emitted light from its bottom sides,An observer described the object as having a well-defined octagonal plane surface,Dr. Robinson concluded that the sighting was probably a balloon.",
+    "sighted object": "a solid octagonal shaped object",
+    "location": "St Paul, Minnesota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "a reliable weather officer and his wife and two boys",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Objects sighted near Frenchman's Bayou, Arkansas, believed to be aircraft. The object appeared to be moving erratically and swerving in a zigzag motion.",
-    "interesting points": [
-        "The object was observed by ground radar and visually.",
-        "No contrail or sound was noticed from the object.",
-        "The object disappeared from the radar scope.",
-        "A ground investigation was conducted, but the sighting could not be confirmed.",
-        "The report includes photographs, but they are not provided in the given text."
-    ],
-    "result": "was aircraft",
-    "sighted object": "one unidentified object",
-    "location": "Frenchman's Bayou, Arkansas",
-    "witnesses": "civilian",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An unidentified object was observed near Frenchman's Bayou, Arkansas, believed to be an aircraft, moving erratically for 15 minutes on December 17, 1954.",
+    "interesting points": "The object's movement was zigzagging and irregular without producing a contrail or sound., The sighting was recorded both visually and on ground radar., The observation lasted from 1530 to 1545 CST., Spontaneous combustion was found in the area, indicating a possible disturbance caused by the object., A military investigation was initiated following the sighting.",
+    "sighted object": "an irregularly moving aircraft",
+    "location": "Frenchman's Bayou, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observation reported by Mr. ***********",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "On September 5, 1958, an unidentified object was reported as a bright light moving from East to West over the Atlantic at coordinates 29.03N 63.56W. The sighting was confirmed by both visual and radar reports, including observations from the Pan American Clipper 207.",
-  "interesting points": [
-    "The object was observed by both visual and radar reports, adding credibility to the sighting.",
-    "The object appeared as a bright light, with its size and shape remaining unknown.",
-    "The lack of contact and return on second scan, as well as its rapid speed, added to the mystery of the sighting.",
-    "The fluctuations and unspecific location of the object contributed to the difficulty in identifying it.",
-    "The sighting was corroborated by multiple witnesses, including those aboard the Pan American Clipper 207."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified bright light",
-  "location": "Atlantic, 29.03N 63.56W",
-  "witnesses": "multiple credible witnesses including those aboard the Pan American Clipper 207",
-  "photographs": "no photographs were included in the report"
+    "main event": "An object appearing as a bright light was reported moving East to West over the Atlantic on September 5, 1958.",
+    "interesting points": "The object was detected visually and by radar by the Pan American Clipper 207., The size and shape of the object were unknown., The object's speed was noted as too fast for confirmation., The report mentioned insufficient information for a detailed analysis., There were fluctuations during tracking but no contact was established.",
+    "sighted object": "bright light",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "sighted by crew of Pan American Clipper 207",
+    "contains photographs": false
 }

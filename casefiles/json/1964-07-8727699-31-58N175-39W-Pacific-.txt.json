@@ -1,15 +1,9 @@
 {
-    "main event": "Possible sighting of a UFO or satellite over the Pacific Ocean.",
-    "interesting points": [
-        "The object was described as a steady white light, indicating it may have been an artificial satellite or spacecraft.",
-        "The object was observed at a very high altitude, traveling from south to north at a rapid speed.",
-        "The report was filed as a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report, which was a standardized procedure for reporting unusual aerial phenomena.",
-        "The report was retransmitted to various military and intelligence agencies, including the CIA, indicating the potential significance of the sighting.",
-        "No physical evidence or photographs were mentioned in the report."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Steady white light",
-    "location": "30-36N 175-29W (Pacific Ocean)",
-    "witnesses": "Unknown",
-    "photographs": "None"
+    "main event": "A report analyzing a possible UFO sighting that could potentially be a helicopter or aircraft observed from a distance.",
+    "interesting points": "The report includes a teletype message with various military codes and addressees. The sighting was estimated to be 30 miles away. The observation noted a steady white light that could be a satellite. The report concluded there was no evidence of a UFO. The sighting was categorized under TC 40 II.",
+    "sighted object": "possible helicopter or aircraft",
+    "location": "Not specified",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not applicable as specific witnesses are not mentioned.",
+    "contains photographs": false
 }

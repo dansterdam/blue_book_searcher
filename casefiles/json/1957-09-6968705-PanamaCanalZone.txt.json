@@ -1,15 +1,9 @@
 {
-  "main event": "Multiple reports of an unidentified flying object, described as a luminous white, cigar-shaped object similar in size to a C-54 fuselage, were made on 21st September 1957 in the Panama Canal Zone.",
-  "interesting points": [
-    "Witnesses reported the object emitting a fluorescent white glow and moving at a speed of approximately 100 knots before disappearing suddenly.",
-    "Radar operators at Fort Clayton confirmed tracking the object, which moved at a tremendous speed before disappearing.",
-    "The object was observed for several minutes in a 'stationary hovering attitude' before moving at a stated rate of speed from west to east.",
-    "The sighting occurred in good visibility after a local thunder shower, and observer winds aloft and weather conditions were documented.",
-    "The report also includes a handwritten note suggesting the possibility of the sighting being associated with 'ball lightning' or fireballs."
-  ],
-  "result": "unexplained",
-  "sighted object": "luminous white, cigar-shaped object",
-  "location": "Panama Canal Zone",
-  "witnesses": "civilian and military personnel",
-  "photographs": "no"
+    "main event": "On 21 September 1957, a sighting of an unidentified flying object was reported in the Panama Canal Zone, suggested to be a balloon or other aerial phenomena.",
+    "interesting points": "The object was described as having a luminous light over a mile wide,The sighting occurred at 2240K with two CIC officers observing it,The object was noted to hover and emit a fluorescent white glow,Radar operators at Fort Clayton tracked the object and reported its tremendous speed,The report deemed the observer as a reliable source.",
+    "sighted object": "unidentified flying object",
+    "location": "Panama Canal Zone, Panama",
+    "number of confirmed witnesses": 2,
+    "witness description": "CIC officers and radar operators at Fort Clayton",
+    "contains photographs": false
 }

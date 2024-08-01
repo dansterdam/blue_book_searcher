@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified blue, round object was observed hovering and making erratic maneuvers.",
-    "interesting points": [
-        "The object was about the size of a basketball and appeared to be at an altitude of approximately 500 feet.",
-        "The witness observed the object for approximately 5-10 minutes and was able to observe details.",
-        "The object was maneuvering in an erratic and rapid manner.",
-        "Another report describes a round, bright, blue object that appeared in front of an automobile and disappeared to the west, losing altitude.",
-        "The report also mentions a lightning fireball that the observer did not think was lightning."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, bright, blue object",
-    "location": "Duluth, Minnesota; other locations mentioned include Temple, Texas; Asheville, North Carolina; Highland Park, Illinois; Inglewood, California; and others.",
-    "witnesses": "civilian and military observers",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "On March 31, 1961, a witness observed a round, bright blue object hovering and making erratic maneuvers.",
+    "interesting points": "The object glowed in blue color and was about the size of a basketball.,The object was at an altitude of approximately 500 feet.,The witness observed the object for approximately 5-10 minutes.,The report documents the object's erratic and rapid maneuvers but does not specify its speed or distance.,There were multiple pages and references in the report, but none contained photographs.",
+    "sighted object": "a round, bright blue object",
+    "location": "Duluth, Minnesota, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness observed the object clearly during the sighting",
+    "contains photographs": false
 }

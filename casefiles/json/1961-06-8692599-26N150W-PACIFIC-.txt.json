@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "United Airlines Flight 84 sighted a brightly burning object at 2'147E - position 25-20N, 153-00W.",
-    "interesting points": [
-        "The object appeared at 22:15:00 and disappeared at 12:20:30, lasting 15 to 20 seconds.",
-        "The object was leaving a trail of flaming fragments.",
-        "The object was evaluated as no threat.",
-        "The sighting was reported by United Airlines Flight 84.",
-        "The sighting occurred over the Pacific Ocean."
-    ],
-    "result": "unexplained",
-    "sighted object": "a brightly burning object",
-    "location": "Pacific Ocean, 25-20N, 153-00W",
-    "witnesses": "crew of United Airlines Flight 84",
-    "photographs": "no"
+    "main event": "A radar target was intermittently acquired and lost in the Pacific on September 6, 1961.",
+    "interesting points": "The radar target was located at coordinates 26N - 150W,The visual observation attempt did not reveal any sighting,The radar track originated from a site in Iosaka, Japan,The observation was categorized as possibly astronomical,The duration of the radar acquisition was approximately 5 minutes.",
+    "sighted object": "one radar target",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "no visual witnesses reported",
+    "contains photographs": false
 }

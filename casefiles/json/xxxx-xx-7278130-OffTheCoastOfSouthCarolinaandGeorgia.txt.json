@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Several pilots reported seeing green and purple glowing lights in a crisscross pattern off the coast of South Carolina and Georgia on September 27, 1967.",
-    "interesting points": [
-        "The lights were described as five to seven in number, staggered upward on a tilted axis.",
-        "The lights were observed for 3-14 minutes, but the course of the objects was not clearly stated.",
-        "The sighting was investigated by the Air Force, but they were unable to determine the source of the lights.",
-        "A later barium vapor cloud experiment conducted by NASA from Wallops Island, Virginia on October 3-4, 1967 produced similar glowing clouds that were visible over a large area.",
-        "The Air Force contacted various military and radar sites in the area but no one reported tracking any objects corresponding to the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "five to seven glowing lights in a crisscross pattern",
-    "location": "Off the coast of South Carolina and Georgia",
-    "witnesses": "multiple pilots",
-    "photographs": "none"
+    "main event": "Two pilots reported seeing a series of lights off the coast of South Carolina and Georgia on September 27, 1967.",
+    "interesting points": "The first pilot saw five to seven greenish lights in a crisscross pattern,The lights were reported to have been visible for 1-2 minutes and then suddenly went out,The second pilot reported seeing the same lights forming a triangle formation 11 minutes later at a distance of 135 miles away,The sightings occurred in clear weather conditions with no known military flights in the area at the same time,The investigation into the sightings concluded that there was insufficient data for evaluation.",
+    "sighted object": "five to seven lights in a crisscross pattern",
+    "location": "South Carolina and Georgia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilots who observed the lights during their flights",
+    "contains photographs": false
 }

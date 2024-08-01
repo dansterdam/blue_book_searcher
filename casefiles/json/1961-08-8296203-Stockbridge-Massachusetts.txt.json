@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A glowing red object was observed moving in a zigzag course in the sky over Stockbridge, Massachusetts.",
-    "interesting points": [
-        "The object was estimated to be 20-30 feet in diameter, at an altitude of 1000-2000 feet.",
-        "The object moved erratically at high speed, yet relatively near the observer.",
-        "No sound was heard from the object.",
-        "The observer was convinced it was an unconventional vehicle of unknown origin, and not an aircraft, satellite, or planet.",
-        "The sighting lasted for about 30 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "a glowing red, oblong triangular object",
-    "location": "Stockbridge, Massachusetts",
-    "witnesses": "a physician",
-    "photographs": "no photographs included"
+    "main event": "A glowing red object was observed moving in a zigzag course in Stockbridge, Massachusetts in 1962.",
+    "interesting points": "The object was estimated to be 20-30 ft in diameter and was at a height of 1000-2000 ft., The object moved erratically at high speed for about 30 seconds before fading to a dim light., Witnesses were convinced it was an unconventional vehicle and not a meteor or flare., The observation was made under overcast weather conditions., There was no sound heard during the sighting.",
+    "sighted object": "glowing red object",
+    "location": "Stockbridge, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A physician who does not appear given to flights of fancy.",
+    "contains photographs": false
 }

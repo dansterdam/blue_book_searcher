@@ -1,15 +1,9 @@
 {
-    "main event": "A round object, larger than a star, was observed moving up and down and north and south for 25 minutes on July 6, 1956.",
-    "interesting points": [
-        "The object was larger than a star and had erratic movements, leading to the conclusion that it could be a heavenly body or affected by atmospheric conditions.",
-        "The observation lasted for 25 minutes, providing a significant duration for studying the object's behavior.",
-        "The color of the object was noted as an important factor, possibly due to the binocular viewing causing apparent movements.",
-        "The report suggests the possibility of the object being a heavenly body, but its color and erratic movements classify it as unidentified.",
-        "The sighting was made by a civilian using binoculars, adding credibility to the observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "round object, larger than a star, moving erratically",
-    "location": "unknown",
-    "witnesses": "civilian (GOC)",
-    "photographs": "no"
+    "main event": "A round object, larger than a star, was observed moving up and down and north and south for 25 minutes.",
+    "interesting points": "The object was seen moving erratically,The observation lasted for 25 minutes,The object was observed through binoculars which may have affected the perceived movement,It was classified as unidentified due to its color and movement,There is a possibility that the object was a heavenly body or affected by atmospheric conditions.",
+    "sighted object": "one round object larger than a star",
+    "location": "",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian (GOC)",
+    "contains photographs": false
 }

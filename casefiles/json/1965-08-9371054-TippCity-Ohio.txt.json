@@ -1,15 +1,9 @@
 {
-    "main event": "A circular, yellowish-white object was observed in wavering flight for 2-5 minutes over Tipp City, Ohio on August 29, 1965.",
-    "interesting points": [
-        "The object moved behind clouds and was slightly brighter than the brightest star.",
-        "The object's motion was similar to that of the Echo II satellite, which was over Dayton, Ohio at the time.",
-        "The witness observed the object moving to the northeast.",
-        "The report includes a questionnaire with additional details about the sighting, such as time, location, duration, and witness description.",
-        "The report concludes that the observed object was likely the Echo II satellite."
-    ],
-    "result": "SATELLITE (ECHO II)",
-    "sighted object": "circular, yellowish-white object",
-    "location": "Tipp City, Ohio",
-    "witnesses": "civilian",
-    "photographs": "yes, but not included in the report"
+    "main event": "A circular object was observed in wavering flight over Tipp City, Ohio, on 29 Aug 65.",
+    "interesting points": "The object was yellowish white and moved behind clouds, appearing slightly brighter than the brightest star., The sighting lasted for about 2-5 minutes., The object's course was to the northeast., Echo II was noted in the area around the same time., The report concluded that the object was a satellite (ECHO II).",
+    "sighted object": "circular object in wavering flight",
+    "location": "Tipp City, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian",
+    "contains photographs": false
 }

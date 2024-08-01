@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness spotted a very fast, low-level object traveling in a straight line in the northern sky, which moved out of sight very rapidly.",
-    "interesting points": [
-        "The sighting lasted for 1-2 minutes.",
-        "The report indicates that the sighting was of a very fast, low-flying object, but no other details are provided which would allow any assessment of the nature of the object.",
-        "The Air Force requested the witness to provide additional details in support of the sighting and for classification as scientific.",
-        "The Air Force considered the sighting significant and wanted to obtain more information from the witness.",
-        "The Air Force suggested the incident could possibly be investigated by their intelligence elements."
-    ],
-    "result": "unexplained",
+    "main event": "A witness observed a very fast, low-level object traveling in a straight line in the northern sky on April 23, 1960.",
+    "interesting points": "The object moved out of sight very rapidly,The sighting lasted for 1-2 minutes,The report states the observation was visual and noted the low altitude of the object,There are no definitive conclusions drawn due to limited information available,Airman J.D. Wardman may have additional information related to the sighting.",
     "sighted object": "a very fast, low-level object",
-    "location": "Chicago, Illinois",
-    "witnesses": "one witness",
-    "photographs": "no"
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is not specifically described in the report.",
+    "contains photographs": false
 }

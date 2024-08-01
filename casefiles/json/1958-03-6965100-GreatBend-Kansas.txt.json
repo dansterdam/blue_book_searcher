@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A blue and white ball-shaped object gave off a flash in the sky over Great Bend, Kansas on March 24, 1958.",
-    "interesting points": [
-        "The object was observed for 5-7 seconds.",
-        "The object was moving in a southeast direction.",
-        "The report concludes the object was likely an astronomical event, possibly a meteor.",
-        "No photographs were taken of the object.",
-        "The sighting was reported by a civilian witness."
-    ],
-    "result": "possibly astronomical",
-    "sighted object": "blue and white ball-shaped object",
-    "location": "Great Bend, Kansas",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A blue and white ball-shaped object was observed, giving off a flash in Great Bend, Kansas.",
+    "interesting points": "The sighting lasted for 5-7 seconds.,The object was flying in a southeast direction.,The observation was made at 24 Mar 58 10:19 Zulu time.,The report suggests the object might be a meteor.,The source of the observation was a civilian.",
+    "sighted object": "one ball-shaped blue and white object",
+    "location": "Great Bend, Kansas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian source",
+    "contains photographs": false
 }

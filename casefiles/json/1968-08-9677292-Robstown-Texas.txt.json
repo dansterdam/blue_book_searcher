@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A civilian in Robstown, Texas observed a near circular object with blinking lights that moved rapidly and silently across the sky for about 10 minutes on February 9, 1968.",
-    "interesting points": [
-        "The object appeared to be about 2 miles away, hovered at around 500 feet altitude for a few minutes, then took off straight up at a very fast speed.",
-        "The object made no noise during the sighting.",
-        "The witness grabbed his wife and they both observed the object together.",
-        "After the object disappeared, the night seemed unusually dark compared to before.",
-        "The witness could not accurately draw the object but could describe it in detail, and the experience was very unsettling."
-    ],
-    "result": "unexplained",
-    "sighted object": "a near circular object with blinking lights",
-    "location": "Robstown, Texas",
-    "witnesses": "civilian couple",
-    "photographs": "none"
+    "main event": "Witnesses reported seeing a bright, near-circular object with blinking lights moving rapidly and silently over Robstown, Texas on 21 August 1968.",
+    "interesting points": "The object was observed for approximately 2 hours,The object exhibited rapid movements, including disappearing and reappearing in different locations,The object was described as having a brilliant white color and glowing edges without making any sound,Several witnesses expressed frustration with authorities when trying to report UFO sightings,The sightings correspond with earlier documented cases from October 1967 and March 1968.",
+    "sighted object": "bright near-circular object with blinking lights",
+    "location": "Robstown, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Average citizens with no prior experience in reporting such phenomena.",
+    "contains photographs": false
 }

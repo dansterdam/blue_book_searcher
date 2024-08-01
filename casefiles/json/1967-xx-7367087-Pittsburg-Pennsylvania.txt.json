@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed a bright, glowing object in the sky over Pittsburgh, Pennsylvania on July 26, 1967.",
-    "interesting points": [
-        "The object was visible for around 15 minutes and appeared to change in brightness and clarity over time.",
-        "The witness reported seeing the object appear and disappear at random times, both that night and into the early morning hours.",
-        "When viewed through binoculars, the object appeared hazy or blurred, which is a common observation for celestial objects.",
-        "The witness was an experienced observer of satellites, jets, and other aircraft, as well as meteors and astronomical phenomena.",
-        "The witness reported the sighting to the Allegheny Airport tower, the Pittsburgh Press, and the Buhl Planetarium, but was told the object was likely a weather balloon, which did not match the witness's observations."
-    ],
-    "result": "Likely the planet Venus",
-    "sighted object": "A bright, glowing object in the sky",
-    "location": "Pittsburgh, Pennsylvania",
-    "witnesses": "1 witness",
-    "photographs": "No photographs provided"
+    "main event": "A witness reported sighting an unidentified flying object on July 26, 1967, around 9:30 PM EDT in Pittsburgh, Pennsylvania.",
+    "interesting points": "The sighting lasted for about 15 minutes, The witness described the object as a bright light that appeared and disappeared randomly, The object was fuzzy when viewed through binoculars, The investigation suggested it was likely the planet Venus, The witness had experience in astronomy and had seen various astronomical phenomena before.",
+    "sighted object": "bright light in the sky",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "21-year-old male with a decade of astronomy experience",
+    "contains photographs": false
 }

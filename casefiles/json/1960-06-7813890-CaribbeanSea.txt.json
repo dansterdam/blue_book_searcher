@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A British West Indies Airlines flight witnessed the explosion of a bright white object with a green center over the Caribbean Sea.",
-    "interesting points": [
-        "The object was moving at a high speed on a magnetic bearing of 225 degrees relative to the aircraft, which was also heading 225 degrees magnetic.",
-        "The object disintegrated into several green flaming objects about one minute after it was first sighted.",
-        "The airline crew obtained samples of the object, but they were not received for analysis.",
-        "The samples were described as being light in weight, with a sponge-like or metallic appearance.",
-        "The conclusion was that the object was likely a meteor or bolide, based on the description, but the physical samples were not analyzed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white object with a green center that disintegrated into several green flaming objects",
+    "main event": "A British West Indies Airlines flight witnessed a meteor explode in the Caribbean Sea on June 25, 1960.",
+    "interesting points": "The airline witnessed an explosion of a meteor and obtained samples described as lightweight and metallic., Two samples reported were sponge-like material and a lemon-shaped piece of very light metal., The bright white object spotted by the airline disintegrated into several green flaming objects., The sighting was reported at 0220 GMT., The document indicates a conclusion that the sighting was a meteor.",
+    "sighted object": "a bright white object with a green center",
     "location": "Caribbean Sea",
-    "witnesses": "Civilian airline crew",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "British Viscount Airlines crew",
+    "contains photographs": false
 }

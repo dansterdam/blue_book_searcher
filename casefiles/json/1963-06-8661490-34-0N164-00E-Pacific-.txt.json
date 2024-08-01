@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, bright white object with a red trace was sighted low on the horizon, ascending rapidly.",
-    "interesting points": [
-        "The object was sighted from the USS Chautauqua, on ocean station Victor.",
-        "The sighting occurred at 34-04N 164-02E in the Pacific Ocean.",
-        "The sighting was at 13/1632Z.",
-        "The object shifted low and ascended rapidly.",
-        "No further details about the object or the sighting were provided."
-    ],
-    "result": "unknown",
-    "sighted object": "round, bright white object with a red trace",
-    "location": "34-04N 164-02E (Pacific Ocean)",
-    "witnesses": "crew of the USS Chautauqua",
-    "photographs": "none"
+    "main event": "A round white bright object with a red trace was sighted ascending low on the horizon.",
+    "interesting points": "The sighting was recorded in a Project Blue Book document dated 23 June 1963., Only one object was reported during the observation., The course of the object was ascending., The observation was made via Ground-Radar., The duration of the sighting was not reported.",
+    "sighted object": "round white bright object with a red trace",
+    "location": "Pacific, Unknown, Unknown",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

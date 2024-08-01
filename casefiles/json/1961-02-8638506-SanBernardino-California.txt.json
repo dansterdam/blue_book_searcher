@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white object, 20 inches in diameter, appeared and disappeared at 60-second intervals, moving in a northward direction. The object was sighted by two civilian observers for about 20 minutes.",
-    "interesting points": [
-        "The observers believed the object was a meteor 3 to 4 billion miles away, passing by.",
-        "The Air Force investigated the sighting and determined the object was likely a weather balloon based on wind data from nearby Air Force bases.",
-        "The report mentions that no photographs were taken of the object.",
-        "The report includes detailed weather data and information about balloon launches in the area around the time of the sighting.",
-        "The investigating officer concluded that the object was a 'common meteorological balloon' based on the observations and investigation."
-    ],
-    "result": "likely a weather balloon",
-    "sighted object": "a white, round object about 20 inches in diameter",
-    "location": "Unknown, likely in the San Bernardino, California area",
-    "witnesses": "two civilian observers",
-    "photographs": "no photographs were taken"
+    "main event": "On February 27, 1961, two observers sighted a white object approximately 20 inches in diameter that appeared and disappeared at 60-second intervals, moving in a northward direction.",
+    "interesting points": "The sighting lasted for about 20 minutes,The observers thought the object was a meteor located 3 to 4 billion miles away,The object was observed at a 60-degree angle above the northern horizon,Both witnesses were civilians,No weather balloons were launched during the period of the sighting.",
+    "sighted object": "white object 20 inches in diameter",
+    "location": "San Bernardino, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians",
+    "contains photographs": false
 }

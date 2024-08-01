@@ -1,17 +1,9 @@
-Here is the summary in the requested JSON format:
-
 {
-    "main event": "Two farm hands observed a large, solid, round object with a whitish center and whitish yellow perimeter hovering over a field near Rocky, Oklahoma on June 19, 1968.",
-    "interesting points": [
-        "The object was approximately 25-30 feet in diameter and had whitish yellow lights equally spaced around the perimeter, each about 1 foot in diameter.",
-        "The object made a sound like a helicopter at first, then was silent.",
-        "The object hovered at an angle of about 45 degrees from the south-southwest, then moved to about 15 degrees east.",
-        "The witnesses hid in a barn while the object was visible for approximately 4-5 minutes before it disappeared.",
-        "The witnesses had never seen anything like this object before."
-    ],
-    "result": "unidentified",
-    "sighted object": "a large, solid, round object with lights around the perimeter",
-    "location": "Rocky, Oklahoma",
-    "witnesses": "two farm hands",
-    "photographs": "no"
+    "main event": "Witnesses observed a bright lit object with white lights rotating counter-clockwise in the sky over Rocky, Oklahoma on June 19, 1968.",
+    "interesting points": "The object was described as having a glowing center surrounded by many white lights,The sighting lasted approximately 2-3 minutes before the object disappeared,The object emitted a sound similar to a helicopter during the observation,There were no local aircraft reported in the vicinity during the time of the sighting,The sighting was reported to the U.S. Air Force and was categorized as unidentified.",
+    "sighted object": "a glowing object with white lights",
+    "location": "Rocky, Oklahoma, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two boys, approximately ages 18, reported the sighting while unloading hay.",
+    "contains photographs": false
 }

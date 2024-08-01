@@ -1,15 +1,9 @@
 {
-    "main event": "A circular object was observed flying over Paris, France on August 30, 1954.",
-    "interesting points": [
-        "The object was described as a luminous circular object.",
-        "The sighting was reported by a Polish private citizen to the gendarmerie of Paris.",
-        "The object was observed at approximately 11:15 pm.",
-        "The report states that there was insufficient data for analysis.",
-        "The conclusion on the report card was listed as 'Unknown'."
-    ],
-    "result": "unknown",
+    "main event": "A Polish private citizen reported a circular object flying over Paris, France on August 30, 1954.",
+    "interesting points": "The sighting occurred around 11:15 p.m.,The object was described as luminous and circular.,The report was made to the gendarmerie of Paris.,The length of observation was noted as 0 m, indicating immediate observation.,Insufficient data was provided for further analysis.",
     "sighted object": "luminous circular object",
-    "location": "Paris, France",
-    "witnesses": "Polish private citizen",
-    "photographs": "none"
+    "location": "Paris, Île-de-France, France",
+    "number of confirmed witnesses": 1,
+    "witness description": "Polish private citizen",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Military observers reported seeing a bright red and white object with a red tail that broke into 4 pieces and disappeared, appearing to be in level flight.",
-    "interesting points": [
-        "The object was seen visually for about 100 seconds before breaking into pieces and disappearing.",
-        "The object's entire surface appeared to be burning.",
-        "The object was reportedly sighted in two different locations, suggesting it may have been a reentry of a space vehicle.",
-        "The sighting was reported to the Air Force and investigated as part of Project Blue Book.",
-        "The report includes detailed weather and aircraft information related to the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright red and white object with red tail",
-    "location": "Pacific Ocean, 39°20'N 133°20'W and 43°11'N 134°04'W",
-    "witnesses": "Military observers",
-    "photographs": "no"
+    "main event": "Observers reported seeing a bright red and white object, with a red tail, which broke into 4 pieces and disappeared during visual observation.",
+    "interesting points": "The sighting lasted for about 100 seconds., The object appeared to be in level flight before disintegration., Observers described the object as having a trailing debris of small pieces before it completely disappeared., The object was estimated to be at an altitude of 29,000 feet., The sighting was documented in a military report from the Navy Department.",
+    "sighted object": "a bright red and white object with a red tail",
+    "location": "Pacific Ocean, Coordinates 3920N 13320W and 4311N 13404W",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel involved in the observation",
+    "contains photographs": false
 }

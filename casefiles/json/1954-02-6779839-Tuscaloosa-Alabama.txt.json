@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "Lights were observed hovering around a cosmic research balloon in Tuscaloosa, Alabama on February 1, 1954.",
-    "interesting points": [
-        "Six objects were observed joining together in a formation behind the balloon.",
-        "The objects appeared very quickly and then moved slowly under the balloon before suddenly going straight up at a terrific speed and disappearing.",
-        "The observer took pictures of the objects with a 16mm Bolex camera, but the Navy has not yet provided a report on the analysis of the negatives.",
-        "The observer felt the objects were not reflections off the balloon or the aircraft windshield, and that they were likely clear though he didn't have time to properly adjust the camera settings.",
-        "Similar sightings of white, flashing objects had been reported in the area in January 1952, which were believed to be radio-controlled devices."
-    ],
-    "result": "Insufficient data",
-    "sighted object": "Six bright, white objects",
-    "location": "Tuscaloosa, Alabama",
-    "witnesses": "Civilian observer",
-    "photographs": "Yes, but no report on analysis yet"
+    "main event": "Civilians observed six objects in formation around a cosmic research balloon in Tuscaloosa, Alabama, on February 1, 1954.",
+    "interesting points": "The objects quickly joined in formation behind a leader, appearing to move slowly under the balloon before accelerating straight up at right angles., Observers were tracking cosmic research balloons when they noticed the objects., The sighting lasted around 15 minutes., The objects emitted no sound and were described as bright white., Multiple photos were taken during the observation, pending analysis by the Navy.",
+    "sighted object": "six bright white objects in the sky",
+    "location": "Tuscaloosa, Alabama, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian observers tracking cosmic research balloons.",
+    "contains photographs": true
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The observer reported sighting a series of flashing objects moving from northwest to southeast, which appeared twice within a 2-3 minute period.",
-    "interesting points": [
-        "The observer stated the sighting was similar to a rotating searchlight on low-hanging clouds.",
-        "The series of flashing objects were observed twice within a 2-3 minute timeframe.",
-        "The observer completed a detailed questionnaire providing information about the sighting, such as the time, location, weather conditions, and description of the phenomenon.",
-        "The report includes a compass rose diagram and sketches to illustrate the movement and appearance of the observed phenomenon.",
-        "The Air Force investigated the sighting and concluded it was likely caused by ground lights, rather than an unidentified flying object."
-    ],
-    "result": "explained (ground lights)",
-    "sighted object": "series of flashing objects",
-    "location": "Arcanum, Ohio",
-    "witnesses": "1 civilian observer",
-    "photographs": "none"
+    "main event": "A civilian reported a sighting of several flashing objects moving from northwest to southeast over Arcanum, Ohio, on November 13, 1968.",
+    "interesting points": "The observer noted that the objects appeared twice within a two to three minute period., The observer initially thought the light was part of low-hanging clouds that seemed to be parting., The report described the objects as similar to the reflection of a searchlight., The sighting lasted about 5 minutes and involved visual observation., The observer was accompanied by his wife during the sighting.",
+    "sighted object": "flashing objects in the sky",
+    "location": "Arcanum, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "the observer and his wife",
+    "contains photographs": false
 }

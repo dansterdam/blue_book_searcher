@@ -1,15 +1,9 @@
 {
-    "main event": "Radar contact and visual sighting of an unidentified flying object in the Pacific Ocean on May 28, 1963.",
-    "interesting points": [
-        "The object was detected on air-intercept radar and observed visually by 6 crewmembers.",
-        "The object appeared as a slow-moving trail of an unidentified number of objects.",
-        "The object was silver in color and leaving contrails that blended into one.",
-        "The object was tracked for 3 minutes, heading west at an estimated altitude of 62,000 feet.",
-        "The sighting was reported to various military and intelligence agencies, including PACAF, CINCPAC, and DIA-CTIC."
-    ],
-    "result": "Unidentified",
-    "sighted object": "Slow-moving trail of unidentified objects, silver in color with contrails",
-    "location": "Pacific Ocean, 58-15N 169-120W",
-    "witnesses": "6 crewmembers",
-    "photographs": "No photographs included in the report"
+    "main event": "An unidentified number of objects with a slow-moving trail were detected by ground radar and visually sighted by radar operators on 28 May 1963.",
+    "interesting points": "The objects were only visible on radar, not visually observed,The observation lasted for 1 minute,The report indicated the possibility of the objects being a balloon, bird, or aircraft,The sighting occurred off the coast in the Pacific Ocean at specific coordinates,The event was documented by the Department of the Air Force and involved multiple military personnel.",
+    "sighted object": "unidentified objects with a slow-moving trail",
+    "location": "Pacific Ocean, Alaska, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "radar operators and crewmembers involved in the observation",
+    "contains photographs": false
 }

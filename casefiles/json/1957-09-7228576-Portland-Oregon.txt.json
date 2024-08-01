@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of an unusual object in the sky over Portland, Oregon on the morning of September 10th, 1957. The object was described as oblong shaped, the color of an electric light bulb, and traveled at a high speed, disappearing within a couple of seconds.",
-    "interesting points": [
-        "The object was outlined against a bright blue sky and appeared as bright as the moon, making the moon seem dull in comparison.",
-        "The sighting lasted only a few seconds before the object disappeared behind a roof, indicating high speed.",
-        "The witness, a civilian, reported the observation to the United States Air Force.",
-        "The witness worked at the Northeast YMCA and observed the object while walking about 250 ft.",
-        "The document includes handwritten reports and record cards from Project Blue Book, a UFO investigation program by the US Air Force."
-    ],
-    "result": "unexplained",
-    "sighted object": "oblong shaped, bright, fast-moving object in the sky",
-    "location": "Portland, Oregon",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian observed an oblong-shaped object, the color of an electric light bulb, traveling at high speed over Portland, Oregon on September 10, 1957.",
+    "interesting points": "The object was described as brighter than the moon, making the moon appear dull in comparison., The object was moving west and disappeared behind a house within seconds., The witness was on their way to work at the Northeast YMCA when they spotted the object., The sighting lasted only a short time, estimated to be just a couple of seconds., The report was submitted to the USAF as part of the Project Blue Book investigation.",
+    "sighted object": "oblong-shaped object emitting light",
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian female working at the Northeast YMCA, who observed the object while walking.",
+    "contains photographs": false
 }

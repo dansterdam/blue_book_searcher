@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot at Patrick AFB in Florida spotted a circular, distant, white object with a blinking, pulsating light in the sky in 1961.",
-    "interesting points": [
-        "The object was observed intermittently over a few minutes.",
-        "The object moved in a straight and level flight path from east to west.",
-        "The object disappeared as a white flash heading in a westerly direction.",
-        "The sighting lasted approximately 10 seconds.",
-        "The pilot was considered to be highly reliable, with 3,502 hours of flying time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular, distant, white object with a blinking, pulsating light",
-    "location": "Patrick AFB, Florida",
-    "witnesses": "1 pilot",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "On 25 Oct 61, a witness observed a circular object with a blinking, pulsating light at Patrick AFB, Florida.",
+    "interesting points": "The object was seen intermittently over a few minutes., The sighting lasted approximately 10 seconds., The object was described as white and circular., No sound was heard during the observation., The flight path of the object was straight and level from east to west.",
+    "sighted object": "circular object with blinking, pulsating light",
+    "location": "Patrick AFB, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A pilot with 3502 hours flying time, reliability considered to be excellent.",
+    "contains photographs": false
 }

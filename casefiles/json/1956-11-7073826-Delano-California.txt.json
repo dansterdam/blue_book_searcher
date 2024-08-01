@@ -1,17 +1,9 @@
-Here's the JSON summary for the provided UFO report:
-
 {
-    "main event": "Radar tracking of four unidentified objects over Delano, California on November 14, 1956",
-    "interesting points": [
-        "The objects were tracked on ground-based radar",
-        "The objects were observed flying in a straight course",
-        "The report states that the sighting was likely caused by aircraft, but there are no further details provided",
-        "The report notes that there is no additional information available in the files",
-        "The sighting was reported by a reliable source (VLR)"
-    ],
-    "result": "inconclusive",
-    "sighted object": "four unidentified objects tracked on radar",
-    "location": "Delano, California",
-    "witnesses": "ground-based radar operators",
-    "photographs": "no"
+    "main event": "An observation of four unidentified objects was recorded via ground-radar on 14 November 1956.",
+    "interesting points": "The observation was made in Delano, California., The number of objects observed was four., The course of the objects was straight., The source of the observation was labeled as 'GOOD' VLR., The comments suggested that the observation was caused by aircraft.",
+    "sighted object": "four unidentified objects",
+    "location": "Delano, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses or descriptions provided",
+    "contains photographs": false
 }

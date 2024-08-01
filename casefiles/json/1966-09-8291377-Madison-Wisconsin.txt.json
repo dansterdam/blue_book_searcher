@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a flashing red and blue-green light in the northern sky near Madison, Wisconsin that they could not identify.",
-    "interesting points": [
-        "The light flashed for about 15 minutes before leaving the area.",
-        "The speed and altitude of the object corresponded to the star Arcturus, which was setting at the time.",
-        "The witness had seen a similar object the previous night and was looking for it again.",
-        "The object appeared to stand still at times and then move slowly.",
-        "The object did not disappear, but just got very small and went off into the distance."
-    ],
-    "result": "Likely Arcturus, the star",
+    "main event": "Observers reported a flashing red and blue-green light in the northern sky for about 15 minutes.",
+    "interesting points": "The light moved across the sky and then left the area after its 15-minute display., The elevation of the identified object corresponded with the position of Arcturus., A civilian witness named Roger Dise, a railroad trainman, was one of the observers., There were no other similar sightings reported immediately after., The sighting was made in clear weather conditions.",
     "sighted object": "flashing red and blue-green light",
-    "location": "Madison, Wisconsin",
-    "witnesses": "civilian witness(es)", 
-    "photographs": "no"
+    "location": "Madison, Wisconsin, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian, railroad trainman",
+    "contains photographs": false
 }

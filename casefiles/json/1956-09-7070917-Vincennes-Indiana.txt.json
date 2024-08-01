@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A very bright light, about the size of a 50 cent piece, was observed moving rapidly across the sky in Vincennes, Indiana on September 18, 1956.",
-    "interesting points": [
-        "The object appeared to be behind a thin cloud cover.",
-        "The object moved rapidly from east to west across the sky.",
-        "The sighting lasted for 10-15 seconds.",
-        "The weather was clear, with calm winds and excellent visibility.",
-        "The object was reported by both civilian and military witnesses."
-    ],
-    "result": "probably aircraft",
-    "sighted object": "a very bright light, about the size of a 50 cent piece",
-    "location": "Vincennes, Indiana",
-    "witnesses": "civilian and military",
-    "photographs": "no"
+    "main event": "A report detailing multiple sightings of unidentified flying objects in Vincennes, Indiana, on 1 September 1956.",
+    "interesting points": "One sighting involved a very bright light about the size of a 50 cent piece moving rapidly across the sky., The object appeared to be behind thin cloud cover during the observation., The visibility was described as excellent during the sightings., The reports noted varying potential explanations including an aircraft. and balloon., The last sighting mentioned a stationary egg-shaped silver object that faded out of sight after moving southwest.",
+    "sighted object": "very bright light, egg-shaped silver object",
+    "location": "Vincennes, Indiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civil and military sources indicated observations but specific witnesses were not detailed.",
+    "contains photographs": false
 }

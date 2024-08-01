@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Sighting of a white object with red and green lights that was seen in the sky, rising slowly until it faded out of view",
-    "interesting points": [
-        "The object was observed through binoculars for about 10 minutes.",
-        "The reporting officer thinks the sighting was likely caused by a star or planet flickering in the distance.",
-        "The object was described as being about the size of a star.",
-        "The object's lights were described as white, red, and green.",
-        "The sighting lasted for about 8 minutes."
-    ],
-    "result": "unexplained",
+    "main event": "An unidentified flying object with red and green lights was observed in the sky on April 5, 1957.",
+    "interesting points": "The object was seen rising slowly until it faded out of view.,The object was observed through binoculars for about 10 minutes.,The reporting officer speculated that the observation might have been caused by a star or planet flickering in the distance.,The sighting was recorded in a Project 10073 record card.,The observation took place at night under clear sky conditions.",
     "sighted object": "one white object with red and green lights",
-    "location": "Unknown",
-    "witnesses": "Unknown",
-    "photographs": "Yes, but no photograph is present in the report"
+    "location": "Rhinelander, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 57-year-old man from Rhinelander",
+    "contains photographs": false
 }

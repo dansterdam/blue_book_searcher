@@ -1,15 +1,9 @@
 {
-    "main event": "A yellow-white flickering light was observed in the south that disappeared over the horizon after about 25 minutes.",
-    "interesting points": [
-        "The object was brighter than the stars.",
-        "The object remained stationary for an extended period before suddenly moving off rapidly at high speed in a straight line.",
-        "The sighting was detected by a very sensitive radar installation under the operational control of the U.S. Air Force.",
-        "The observer was outdoors when the sighting occurred.",
-        "There were no photographs or physical evidence associated with the sighting."
-    ],
-    "result": "Probable Astro (VENUS)",
+    "main event": "A witness observed a yellow-white flickering light in the southern sky that disappeared over the horizon after approximately 25 minutes.",
+    "interesting points": "The sighting lasted for about 25 minutes,The light was reported to be yellow-white and flickering,The observer was unable to confirm any physical evidence,The conclusion of the observation suggested it was likely Venus,The object was described as being brighter than the stars.",
     "sighted object": "yellow-white flickering light",
-    "location": "Morgantown, West Virginia",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Morgantown, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An unnamed civilian observer",
+    "contains photographs": false
 }

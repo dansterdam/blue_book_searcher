@@ -1,15 +1,9 @@
 {
-    "main event": "A bright round fireball or 'nickle' was sighted by two pilots in an aircraft 10 miles northwest of Langley Air Force Base, Virginia.",
-    "interesting points": [
-        "The object appeared at one o'clock high and descended straight down, disappearing into a solid cloud deck at around 23,000 feet.",
-        "The object left a thin black smoke trail that remained visible for about 2 minutes.",
-        "The object was described as resembling a small meteorite or rocket.",
-        "No other reports of the sighting were received, and the intelligence officer suggested it could have been a meteorite.",
-        "The pilots reported the sighting to the Washington Center at 2115Z local time."
-    ],
-    "result": "possible meteorite",
-    "sighted object": "bright round fireball or 'nickle'",
-    "location": "10 miles northwest of Langley AFB, Virginia",
-    "witnesses": "Capt. Harry W. Delancey and Maj. Alfred C. Seers of HQ TAC",
-    "photographs": "no"
+    "main event": "A report recorded a sighting of a round fireball possibly characterized as a meteorite or rocket near Langley AFB, VA.",
+    "interesting points": "The sighting was characterized as not overly significant., The object was described as a round fireball trailing thin black smoke., It appeared at approximately 4,000 feet and descended straight down into a solid cloud deck., The object disappeared into undercast at 23,000 feet., The report was submitted by Air Force personnel including Capt. Harry W. Delancey and Major Alfred C. Seers.",
+    "sighted object": "round fireball",
+    "location": "Langley AFB, Virginia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Capt. Harry W. Delancey, age 34; Major Alfred C. Seers, age 41",
+    "contains photographs": false
 }

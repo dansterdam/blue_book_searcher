@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting occurred in Dolinsk, USSR in October 1957. The witness heard a tremendous sound and felt the house shaking, then saw a light high above in the western skies before it disappeared.",
-    "interesting points": [
-        "The witness observed a strange flying object and described a tremendous sound accompanied by the house shaking.",
-        "The UFO sighting involved a single object observed from the ground.",
-        "Possible jet breaking sound barrier and disturbance to the atmosphere were mentioned in the comments.",
-        "The conclusion included 'insufficient data for evaluation' and 'probable balloon' as a possible explanation.",
-        "The witness was unable to identify the object and it disappeared shortly after being observed."
-    ],
-    "result": "unexplained",
+    "main event": "In October 1957, a witness in Dolinsk, USSR, observed a strange flying object that caused a tremendous sound and made the house shake.",
+    "interesting points": "The witness described the object making a significant noise, resembling a jet breaking the sound barrier., The object was seen high above in the western skies., The sighting lasted only a brief moment as the object disappeared shortly after being noticed., The event was classified as a ground visual observation., Initial conclusions suggested the object might have been a balloon or aircraft, but it remained unidentified due to insufficient data.",
     "sighted object": "strange flying object",
     "location": "Dolinsk, USSR",
-    "witnesses": "single witness",
-    "photographs": "no photograph included in the report"
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness felt a tremendous sound and shaking of the house",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Two unidentified aircraft were tracked by APS 42 search radar at Pepperrell AFB, Newfoundland on July 27, 1954.",
-    "interesting points": [
-        "The unidentified objects were tracked moving at 61 knots and at a very low altitude.",
-        "An experienced navigator positively identified the objects as two aircraft that were 2-3 miles apart, moving on a grid course of 133 degrees at 9,000 feet altitude.",
-        "The navigator lost sight of the objects after they changed heading to 12 knots.",
-        "The objects were last sighted at 51 degrees 29 minutes North, 27 degrees 35 minutes West, at a relative bearing of 43 degrees and a range of 19 miles.",
-        "The incident was reported to various military commands, including the Continental Air Defense Command (CONAD)."
-    ],
-    "result": "unknown",
+    "main event": "Two unidentified aircraft were observed by radar at Pepperrell AFB on 27 July 1954.",
+    "interesting points": "The sighting lasted for 2 minutes,Two objects were tracked on radar with a course of 270 degrees,The objects were initially considered as possibly being balloons or aircraft,The sighting was documented under the Project Blue Book,The observation involved air radar at a military base.",
     "sighted object": "two unidentified aircraft",
-    "location": "Pepperrell AFB, Newfoundland",
-    "witnesses": "experienced navigator",
-    "photographs": "no"
+    "location": "Pepperrell AFB, Newfoundland, Canada",
+    "number of confirmed witnesses": 0,
+    "witness description": "Observation was made via Air Radar with no confirmed eyewitnesses noted.",
+    "contains photographs": false
 }

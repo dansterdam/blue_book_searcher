@@ -1,15 +1,9 @@
 {
-    "main event": "On March 25, 1956, a UFO sighting was reported in Cincinnati, Ohio, involving a round object with no light that was standing still.",
-    "interesting points": [
-        "The sighting was reported as ground-radar observation, indicating it was detected by radar from the ground.",
-        "The report states that there was insufficient data for analysis and evaluation, suggesting a lack of concrete evidence.",
-        "The object was described as round with no light and standing still, providing specific details about the UFO.",
-        "The location of the sighting was in the vicinity of Lunken Airport or Fort Thomas in Cincinnati, Ohio, adding a specific geographical reference.",
-        "The document includes various codes and technical details, reflecting the thoroughness of the military investigation into the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "round object with no light standing still",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On March 25, 1956, a round object with no light was reported as standing still in Cincinnati, Ohio.",
+    "interesting points": "The object was observed using ground-radar,The exact duration of the observation is unknown,The report notes insufficient data for analysis and evaluation,Only one object was sighted,The observation occurred near Lunken Airport or Fort Thomas.",
+    "sighted object": "one round object with no light, standing still",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data available",
+    "contains photographs": false
 }

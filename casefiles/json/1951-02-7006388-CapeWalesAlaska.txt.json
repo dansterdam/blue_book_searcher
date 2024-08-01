@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Multiple lights, alternating red and green, were observed in the sky near Cape Wales, Alaska on February 2, 1951.",
-    "interesting points": [
-        "The lights were observed on a bearing of 242 degrees from the observation station.",
-        "The red light was below, intermingling with and glowing below, indicating a ship although not visible.",
-        "The lights were in view until 03/05/52, disappeared for 1 hour, and then were viewed for another 1/2 hour before being obscured by a fog bank.",
-        "Similar sightings of lights, estimated to be traveling at 1000 mph, were reported on February 18 in the Alaskan area. The lights were observed to travel horizon to horizon, stop in mid-air, and then reverse direction.",
-        "The objects were estimated to be around 40 feet in diameter and hovered for about 1/2 hour before dispersing and disappearing."
-    ],
-    "result": "unexplained",
-    "sighted object": "Multiple lights, alternating red and green",
-    "location": "Cape Wales, Alaska",
-    "witnesses": "Air Force personnel",
-    "photographs": "none"
+    "main event": "Multiple lights with alternating red and green colors were observed over Cape Wales, Alaska on February 2, 1951.",
+    "interesting points": "The lights were observed for a total of 2 hours and were reported to be on a bearing of 242 degrees from the observation station., No physical structure was visible with the lights., The lights disappeared for 1 hour before reappearing and could not be seen clearly due to fog., Sighting included reports of lights seen from a distance of about 1000 yards., A recent sighting on February 18 involved 14 lights moving at estimated speeds of 1000 mph.",
+    "sighted object": "Alternating red and green lights",
+    "location": "Cape Wales, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Officer in charge Powell of Weather Bureau Airways Station Wales",
+    "contains photographs": false
 }

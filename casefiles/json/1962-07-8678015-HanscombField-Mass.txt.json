@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two radar targets were observed at Hanscom Field, Massachusetts, following the movement of parallel lights in the sky.",
-    "interesting points": [
-        "The lights appeared to be the navigation lights of aircraft in formation.",
-        "Radar confirmed the presence of two targets under observation.",
-        "The sighting lasted approximately 3 minutes.",
-        "The observer used binoculars to observe the lights.",
-        "The weather conditions were clear, calm, and visibility was 15-20 miles."
-    ],
-    "result": "unexplained",
-    "sighted object": "two radar targets following parallel lights in the sky",
-    "location": "Hanscom Field, Massachusetts",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "main event": "Ground-radar observation of parallel lights at Hanscom Field, Massachusetts, suspected to be navigation lights of aircraft in formation.",
+    "interesting points": "The lights were observed for a duration of 3 minutes., Radar confirmed two targets under observation during the sighting., The observer used 7x50 binoculars for better visibility., Clear and calm weather conditions prevailed at the time of the sighting., There was no photograph taken or physical evidence found.",
+    "sighted object": "navigation lights of aircraft in formation",
+    "location": "Hanscom Field, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian or military observers, specific details were not provided.",
+    "contains photographs": false
 }

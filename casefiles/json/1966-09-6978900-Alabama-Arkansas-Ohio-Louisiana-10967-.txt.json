@@ -1,15 +1,9 @@
 {
-    "main event": "A series of sightings of unidentified flying objects were reported in Alabama, Arkansas, Ohio, and Louisiana in September 1966.",
-    "interesting points": [
-        "The sightings involved bright, glowing objects in the night sky, some resembling comets or celestial phenomena.",
-        "One object was described as a 'Martian cloud' released by a four-stage Javelin rocket launched from Wallops Island, Virginia on September 24, 1966.",
-        "Another object was estimated to be 150 to 300 feet in length, bright reddish-orange in color, and left a trail of reddish-orange sparks.",
-        "The objects were observed traversing the sky from southwest to northeast, and some were visible for several minutes.",
-        "The report includes photographs of the various unidentified objects and phenomena observed during these sightings."
-    ],
-    "result": "inconclusive",
-    "sighted object": "bright, glowing objects, some resembling comets or celestial phenomena",
+    "main event": "A series of UFO sightings and photographs related to a Javelin vehicle launch from Wallops Island, Virginia on September 24, 1966.",
+    "interesting points": "The report includes 5 photographs from different sightings,One photograph shows a bright, glowing object described as a Martian cloud released by a Javelin vehicle,Another sighting involved an object traversing from southwest to northeast,The object in the second sighting was estimated to be 150 to 300 feet long and left a trail of reddish-orange sparks,One of the photographs documents a test of the Javelin vehicle conducted prior to the main event.",
+    "sighted object": "glowing object, comet-like object, bright beam of light, elongated streak, bright object",
     "location": "Alabama, Arkansas, Ohio, Louisiana",
-    "witnesses": "multiple witnesses, including a farmer",
-    "photographs": "yes, the report includes 5 photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness interviewed by Lt. Loucks of the U.S. Air Force.",
+    "contains photographs": true
 }

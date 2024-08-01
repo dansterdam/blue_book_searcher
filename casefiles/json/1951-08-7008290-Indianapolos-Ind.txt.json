@@ -1,15 +1,9 @@
 {
-  "main event": "On 28 August 1951 in Indianapolis, Ind., a UFO sighting was reported as a light approaching from the west, hovering in the sky for 1 to 2 minutes, and then disappearing with intervals of what appeared to be flame showing and a purple color at 1500 ft.",
-  "interesting points": [
-    "The UFO sighting was reported by Cincinatti Flight 1900 Central Standard Time on 14 Aug 51.",
-    "The craft appeared to hover for 1 to 2 minutes before disappearing.",
-    "Intermittent flames were observed during the sighting, showing a purple color.",
-    "The message requested verification and additional information about the sighting.",
-    "The Department of the Air Force identified the observed object as a research balloon."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "unidentified object appearing as a light with intermittent flames and purple color",
-  "location": "Indianapolis, Ind.",
-  "witnesses": "Cincinatti Flight 1900",
-  "photographs": "no"
+    "main event": "A UFO sighting was reported in Indianapolis, Indiana, on 28 August 1951, identified initially as a balloon.",
+    "interesting points": "The sighting was reported at 19:11 UTC, The object was reported to have approached from the west, The object was described as hovering in the sky for 1 to 2 minutes, A flame was seen at intervals until the craft disappeared, The Air Force was involved in verifying the sighting.",
+    "sighted object": "a possibly unidentified balloon",
+    "location": "Indianapolis, Indiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Cincinnati Flight 1900 reported the sighting.",
+    "contains photographs": false
 }

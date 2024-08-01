@@ -1,15 +1,9 @@
 {
-    "main event": "A citizen in Colonia, New Jersey reported seeing a UFO on March 26, 1968 at 9:45 PM.",
-    "interesting points": [
-        "The witness was 'cercely Radiant' after seeing the UFO.",
-        "The next day, the witness could not understand the meaning of what occurred.",
-        "The witness could not recall the calling time or those days.",
-        "The report indicates 'insufficient data' to draw a conclusion.",
-        "A follow-up AF Form 117 was sent to the witness on April 24, 1969 but had not been returned yet."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian reported a sighting of an unidentified flying object in Colonia, New Jersey on March 26, 1969.",
+    "interesting points": "The report lacks detailed information regarding the number of objects or lengths of observation., The sighting report was acknowledged by the Aerial Phenomena Office of Project Blue Book., No photographs or physical evidence were provided with the report., The witness expressed confusion about the experience in the handwritten statement., The conclusion of the report stated 'INSUFFICIENT DATA'.",
     "sighted object": "unidentified flying object",
-    "location": "Colonia, New Jersey",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Colonia, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian individual who reported the sighting.",
+    "contains photographs": false
 }

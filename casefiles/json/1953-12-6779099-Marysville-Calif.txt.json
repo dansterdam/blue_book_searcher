@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report text provided:
-
 {
-    "main event": "A bright, bluish object was observed hovering over an airstrip in Marysville, California for 1-2 minutes on December 23, 1953.",
-    "interesting points": [
-        "The object accelerated to 140-150 mph before disappearing into the night.",
-        "The object was observed through the reflection of light on the overcast sky, not directly.",
-        "The object was initially at an altitude of 300 feet before dropping to 100-150 feet and hovering over the airstrip.",
-        "A jet with an afterburner was ruled out as the source since the observer was too close to hear any sound from the object.",
-        "The object did not rotate and made no sound during the 1-2 minute observation."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, bluish light",
-    "location": "Marysville, CA",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A civilian observer reported seeing a single unidentified object with a sharp, brilliant bluish light hovering over an airstrip in Marysville, California, on December 6, 1953.",
+    "interesting points": "The object was observed hovering at an altitude of 300 feet before dropping to 100-150 feet., The object was described as having a bluish light that did not rotate and accelerated to speeds of 140-150 mph., The sighting lasted for about 1-2 minutes as the object disappeared into the night., The conclusion stated that a jet with afterburner was ruled out because the observer was too close to not hear sound., The report was tied to historical context as part of Project Blue Book investigations.",
+    "sighted object": "one unidentified object with a brilliant bluish light",
+    "location": "Marysville, California, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

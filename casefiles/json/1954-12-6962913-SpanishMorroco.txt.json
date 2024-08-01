@@ -1,15 +1,9 @@
 {
-    "main event": "A military radar tracked an unidentified object in Spanish Morocco on December 2, 1954.",
-    "interesting points": [
-        "The object was initially observed as a bright light that rapidly increased in size to a very bright, large shape and then decreased in size to a small bright light.",
-        "The object remained stationary for about 60 seconds and then sped off at high speed.",
-        "The object was observed visually and on radar for a total time of about 3 minutes.",
-        "The object appeared to be pale blue and yellow, slightly elongated, with a tendency to flutter.",
-        "The object accelerated to a speed of 1430 knots and then slowed down to 95-92 knots before descending and disappearing."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light that rapidly changed in size and speed",
+    "main event": "A bright light was observed rapidly changing size and then accelerating at high speed in Spanish Morocco.",
+    "interesting points": "The sighting lasted approximately 5 minutes, with visual and radar confirmation., The object initially appeared small like a star, then grew to a very large size., The light changed from a small point to a large object and back to a small point., The object had a white or yellow color and remained stationary for about 60 seconds before speeding off., The direction of flight was initially stationary before moving westward at high speed.",
+    "sighted object": "a bright light that changed size",
     "location": "Spanish Morocco",
-    "witnesses": "military radar operators",
-    "photographs": "no photographs present in the document"
+    "number of confirmed witnesses": 0,
+    "witness description": "observed visually and on radar by military personnel",
+    "contains photographs": false
 }

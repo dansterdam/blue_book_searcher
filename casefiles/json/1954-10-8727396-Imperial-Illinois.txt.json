@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object with a protuberance on the left side was sighted for 3 seconds in the sky over Imperial, Illinois on October 6, 1954.",
-    "interesting points": [
-        "The object was approximately the size of a half dollar.",
-        "The observer was color blind.",
-        "The object appeared to have a tail that was moving from side to side as if wind-lashed.",
-        "The brightness of the object caught the observer's eye.",
-        "The object appeared to travel in an arc toward the ground and then disappeared behind trees."
-    ],
-    "result": "unknown",
-    "sighted object": "round object with a protuberance on the left side",
-    "location": "Imperial, Illinois",
-    "witnesses": "civilian", 
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed traveling in an arc for about 3 seconds in Imperial, Illinois on 6 October 1954.",
+    "interesting points": "The observation lasted only 3 seconds., The object was reported to have traveled in an arc., The observation was made from the ground., There was no physical evidence or photographs associated with the sighting., The observer was a civilian.",
+    "sighted object": "one unidentified flying object",
+    "location": "Imperial, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

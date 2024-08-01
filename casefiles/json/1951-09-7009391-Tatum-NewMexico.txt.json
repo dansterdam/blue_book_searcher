@@ -1,15 +1,9 @@
 {
-    "main event": "A mysterious object was sighted in the sky over Tatum, New Mexico on September 17, 1951.",
-    "interesting points": [
-        "The object was orange-red in color and larger than a B-29 aircraft.",
-        "The object moved slowly and changed direction.",
-        "The object reappeared three times, each time for a period of 10 to 15 seconds.",
-        "The sighting lasted for a total of 10 to 15 seconds.",
-        "The investigating officer could not explain the strange observations."
-    ],
-    "result": "unexplained",
-    "sighted object": "an orange-red ball-shaped object",
-    "location": "Tatum, New Mexico",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "An orange-red, ball-shaped UFO was observed in Tatum, New Mexico on 17 September 1951.",
+    "interesting points": "The UFO's speed was slow and it appeared larger than a B-29 aircraft., The object changed direction and reappeared three times during the sighting., Each appearance lasted for about 10 to 15 seconds., The sighting was recorded using ground radar and air visual methods., The case remains unexplained according to the investigating officer.",
+    "sighted object": "one orange-red ball-shaped object",
+    "location": "Tatum, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

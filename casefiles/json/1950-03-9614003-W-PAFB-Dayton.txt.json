@@ -1,15 +1,9 @@
 {
-  "main event": "The report contains multiple incidents of UFO sightings and investigations, including visual sightings, radar detections, and pursuit attempts by pilots. The incidents took place around Wright-Patterson Air Force Base in March 1950.",
-  "interesting points": [
-    "A TWA plane crew, air traffic controllers, and military pilots observed an unidentified object that eluded pursuit, disappeared and was later identified as Venus",
-    "A National Guard pilot pursued a UFO displaying speeds and maneuvers beyond any known aircraft",
-    "Two phenomena, ice-crystal clouds reflecting sunlight and the visibility of Venus, were responsible for some of the reported sightings",
-    "One pilot initially thought the UFO was a star or celestial body and felt foolish for chasing it later",
-    "Witnesses observed the UFO making erratic movements at high speeds and altitude, and one encounter involved unknown radar targets moving at 700-800mph"
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying objects (UFOs)",
-  "location": "Wright-Patterson Air Force Base, Dayton, Ohio",
-  "witnesses": "airline pilots, air traffic controllers, military pilots, investigative personnel",
-  "photographs": "no photographs available in the document"
+    "main event": "A visual sighting of an unidentified object was reported near Wright-Patterson Air Force Base on 8 March 1950.",
+    "interesting points": "The object was described as large and gaining altitude while traveling towards the northeast,The sighting lasted for approximately one minute before the object disappeared,Weather conditions during the sighting were clear,Multiple investigations suggested that the reports may have been due to ice-crystal clouds and planetary reflections,One witness described a significant conflict in sound reports: while some heard noise, others did not.",
+    "sighted object": "an unidentified object gaining altitude",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "air traffic controllers and military personnel",
+    "contains photographs": false
 }

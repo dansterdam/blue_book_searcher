@@ -1,15 +1,9 @@
 {
-  "main event": "A military ground radar/visual observation reported an unidentified flying object at North Truro, Massachusetts on December 23, 1957, lasting 5 minutes with no physical evidence or photographs.",
-  "interesting points": [
-    "The UFO sighting was observed by both ground radar and a visual sighting from an aircraft, a B-25, estimating the object's speed to be in excess of 700 mph at an altitude of 12,322 feet.",
-    "The shape and size of the UFO were undetermined, and it exhibited erratic changes in altitude and speed.",
-    "The observation suggested the UFO was traveling at a speed estimated to be between 500 - 900 mph at 10,000 feet and heading on a course of 030 degrees.",
-    "The report indicates a request for interrogation of witnesses and specific information about the altitude in the area of the sighting.",
-    "The conclusion stated that no data were presented to indicate that this sighting was evaluated as an actual visual or electronic observation."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying object",
-  "location": "North Truro, Massachusetts",
-  "witnesses": "Military personnel",
-  "photographs": "no"
+    "main event": "A military report details an unidentified flying object observed on December 23, 1957, using both ground radar and visual observation.",
+    "interesting points": "The sighting involved one object with erratic changes in return shape and size,Estimated speed of the object was between 500 to 900 mph at an altitude of 10,000 feet,The observation lasted for approximately 5 minutes,There was no physical evidence confirmed from the sighting,The report suggests the observation may be a possible visual/electronic observation.",
+    "sighted object": "unidentified flying object",
+    "location": "North Truro, Massachusetts, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military personnel involved in the observation and reporting.",
+    "contains photographs": false
 }

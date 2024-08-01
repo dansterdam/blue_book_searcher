@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report text:
-
 {
-    "main event": "A Swedish pilot and his mechanic observed a mysterious metallic, silvery object in the sky near Hassleholm, Sweden on December 17, 1953.",
-    "interesting points": [
-        "The object was observed for about 9 seconds and flew at a very high speed below the pilot's aircraft.",
-        "The object had a shining metallic, silvery appearance and was described as shaped like a sphere or ellipse.",
-        "The object descended rapidly and did not leave any exhaust or condensation trail.",
-        "The Swedish Air Force investigated the sighting and considered the possibility it was a Soviet missile or radio-guided aircraft.",
-        "The pilot and mechanic were described as reliable witnesses with good aviation experience."
-    ],
-    "result": "unexplained",
-    "sighted object": "a metallic, silvery object",
+    "main event": "A Swedish pilot observed a shining metallic object in the sky near Hassleholm, Sweden on December 17, 1953.",
+    "interesting points": "The pilot described the object as a silvery round or oblong celestial body that appeared and disappeared rapidly., The sighting lasted a total of nine seconds., The object was observed at a height of about 1,600 meters and was approximately 60 to 70 meters below the aircraft., Multiple witnesses, including the pilot's mechanic, corroborated the sighting., The object did not leave any trace of gas or condensation behind.",
+    "sighted object": "shining metallic object",
     "location": "Hassleholm, Sweden",
-    "witnesses": "a Swedish pilot and his mechanic",
-    "photographs": "none"
+    "number of confirmed witnesses": 2,
+    "witness description": "Pilot and mechanic, both from the Trans Air Sweden Company",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Bright steady lights were observed moving erratically and changing direction abruptly at Bunker Hill AFB, Indiana.",
-    "interesting points": [
-        "The lights would dim and regain brightness.",
-        "The lights were observed by approximately 20 persons, including officers and airmen, at Bunker Hill AFB.",
-        "The observers could not determine the nature or origin of the lights.",
-        "The command believed the sighting merited further investigation.",
-        "The object(s) moved extremely fast and had a definite straight flight path with no maneuvers."
-    ],
-    "result": "unexplained",
-    "sighted object": "6-8 bright lights",
-    "location": "Bunker Hill AFB, Indiana",
-    "witnesses": "officers and airmen",
-    "photographs": "no"
+    "main event": "Bright steady lights were observed moving erratically and changing direction abruptly over Bunker Hill AFB, Indiana.",
+    "interesting points": "Approximately 20 military personnel witnessed the lights,The lights dimmed and regained brightness during the observation,Observers reported the lights moved extremely fast,The command believed the sighting warranted further investigation, The sighting lasted for about 2 hours.",
+    "sighted object": "6-8 bright lights in the sky",
+    "location": "Bunker Hill, Indiana, USA",
+    "number of confirmed witnesses": 20,
+    "witness description": "officers and airmen",
+    "contains photographs": false
 }

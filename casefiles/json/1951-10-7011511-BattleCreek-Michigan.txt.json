@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian pilot spotted a disk-shaped object near Battle Creek, Michigan on October 27, 1950.",
-    "interesting points": [
-        "The object was described as being 30-40 feet in diameter, with a highly polished surface.",
-        "The object was observed for several seconds and was estimated to be flying at an altitude of 20,000 feet and a speed of 13,500 mph.",
-        "The pilot had 14 years of experience and stated that the object did not make any sound.",
-        "A separate sighting of a similar disk-shaped object was reported in the same area on October 3, 1951.",
-        "The report indicates that no conclusions were drawn regarding the identity of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "Disk-shaped object",
-    "location": "Battle Creek, Michigan",
-    "witnesses": "Civilian pilot",
-    "photographs": "no"
+    "main event": "A civilian pilot observed a highly polished silver oval UFO over Battle Creek, Michigan, on October 21, 1951.",
+    "interesting points": "The object was at an altitude of about 3,000 feet and appeared to dive sharply before measurements could be taken., The pilot reported no sound or vapor trail accompanying the object., The UFO passed overhead at approximately 1,000 feet., The object's course was described as straight, and it was observed for about 3.5 seconds., Radar installations did not detect the object, possibly due to its high speed.",
+    "sighted object": "one highly polished silver oval object",
+    "location": "Battle Creek, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian pilot with experience",
+    "contains photographs": false
 }

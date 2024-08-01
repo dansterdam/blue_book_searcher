@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light was observed in the sky over Ellington AFB, Texas on March 10, 1952.",
-    "interesting points": [
-        "The object was observed for only 3 seconds, suggesting it was a probable meteor observation.",
-        "The object was observed at 200 degrees azimuth and 20 degrees elevation, traveling in a straight flight path.",
-        "There was no radar confirmation of the object.",
-        "The observer was a military officer with 14 years of service and 552 hours of flight time as a bombardier.",
-        "The officer's observation may have been affected by fatigue, as he had been driving for approximately 10 hours prior to the sighting."
-    ],
-    "result": "probable meteor",
-    "sighted object": "a bright light",
-    "location": "Ellington AFB, Texas",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A military observation reported seeing one object at Ellington AFB, Texas, on 3/10/52.",
+    "interesting points": "The observation lasted for only 3 seconds., The object was observed with a straight flight path., The observation was made from the ground and was visual only., No radar confirmation was obtained for the sighting., The report speculated that it was a probable meteor.",
+    "sighted object": "one object, likely a meteor",
+    "location": "Ellington AFB, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain Joseph H. Girard, an experienced military officer with 14 years of service.",
+    "contains photographs": false
 }

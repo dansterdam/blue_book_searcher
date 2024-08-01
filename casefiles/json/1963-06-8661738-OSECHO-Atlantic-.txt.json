@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the JSON summary:
-
 {
-    "main event": "A military observer spotted an apparent satellite transit in the sky over the Atlantic Ocean on June 14, 1963.",
-    "interesting points": [
-        "The object was observed crossing the equator at 2235Z at 74.11'W and reached peak activity at 2356Z.",
-        "The object was estimated to have reached a maximum height of 75 degrees 30 minutes.",
-        "The report states the object was 'first magnitude', likely referring to its brightness.",
-        "The report indicates the object was observed as a 'probable satellite' but there was 'insufficient data for evaluation'.",
-        "The report was distributed to various military and intelligence agencies, including the Army, Navy, and Defense Intelligence Agency."
-    ],
-    "result": "probable satellite, insufficient data",
+    "main event": "A military observation recorded a possible satellite transit over the Atlantic Ocean on 14 June 1963.",
+    "interesting points": "The observation was categorized as a ground-visual type,One object was reported during the observation,The object was tracked crossing the equator and reached peak activity at a specific time,The observation noted a course direction of NE,The conclusion made from the data indicated the object was probably a satellite.",
     "sighted object": "one apparent satellite",
-    "location": "OS ECHO (Atlantic)",
-    "witnesses": "military",
-    "photographs": "none"
+    "location": "OS ECHO, Atlantic, None",
+    "number of confirmed witnesses": 0,
+    "witness description": "military observation",
+    "contains photographs": false
 }

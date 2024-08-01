@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report text provided:
-
 {
-    "main event": "A photograph was taken of an unidentified object near Acton, Texas on November 19, 1968.",
-    "interesting points": [
-        "The photographer did not actually see the object in the photograph.",
-        "The object appears in only one of the eight photographs taken, suggesting it may be a result of physical phenomena within the camera.",
-        "Analysis of the photograph and negative indicates no obvious signs of retouching or manipulation, but the cause of the image is unclear.",
-        "The Air Force requested the return of the original negative for further analysis by their photo lab.",
-        "The Air Force indicated the analysis may take several months due to higher priority work."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object in a photograph",
-    "location": "Acton, Texas",
-    "witnesses": "photographer",
-    "photographs": "yes, one photograph was taken"
+    "main event": "An unidentified flying object (UFO) was observed near Acton, Texas on November 7, 1968, with various analyses and documentation provided regarding a photograph of the event.",
+    "interesting points": "The photograph of the UFO analyzed was determined to potentially be a result of film processing defects., The object was reported to have a bright light pulsating rhythmically in the sky., Observations included that the object hovered without sudden movements for the duration of the sighting., A civilian engineer from the FAA took the photographs and was unaware of the object at the time., Multiple letters and documents reflect ongoing communications between the FAA and Air Force regarding the analysis of the photograph.",
+    "sighted object": "one unidentified flying object",
+    "location": "Acton, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Director of Internal Revenue in Acton, Texas",
+    "contains photographs": true
 }

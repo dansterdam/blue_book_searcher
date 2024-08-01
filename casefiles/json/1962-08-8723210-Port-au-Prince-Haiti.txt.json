@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "An unidentified object was sighted in the sky over Port-au-Prince, Haiti in 1962.",
-    "interesting points": [
-        "The object was described as circular or elliptical in shape, approximately 25-30 feet in diameter, and grayish in color.",
-        "The object moved in a straight line at a constant speed, made no sound, and left no trails.",
-        "The object was observed for approximately 3 minutes before disappearing.",
-        "The witness stated the object appeared to be under intelligent control.",
-        "Another sighting in the same area described the object as elliptical in shape with an orange glow, traveling at an estimated speed of 1,700 mph."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular or elliptical-shaped craft",
+    "main event": "A resident of Port-au-Prince, Haiti observed an unidentified flying object in the night sky on August 8, 1962.",
+    "interesting points": "The object was circular in shape, approximately 75 feet in diameter, emitting a bright light from its underside., The object hovered for several minutes before rapidly accelerating and disappearing from view., The object was described to have no sound and was visible against a clear sky., Two other witnesses were present during the sighting., The case was classified as unresolved by Project Blue Book.",
+    "sighted object": "a circular object emitting a bright light",
     "location": "Port-au-Prince, Haiti",
-    "witnesses": "local resident, U.S. Embassy staff",
-    "photographs": "none"
+    "number of confirmed witnesses": 3,
+    "witness description": "a resident of Port-au-Prince and two other individuals",
+    "contains photographs": false
 }

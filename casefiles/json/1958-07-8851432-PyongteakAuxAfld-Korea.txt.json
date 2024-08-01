@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, white object the size of a baseball, as bright as the planet Jupiter, was spotted in the sky over Pyongteak Aux Afld, Korea.",
-    "interesting points": [
-        "The object was moving at an estimated speed of 600-800 miles per hour.",
-        "The duration of the sighting was inconsistent with the distance the object traveled and its reported speed, indicating it was likely a meteor, though not all characteristics of a meteor were present.",
-        "The case was listed as having insufficient data for evaluation.",
-        "The object was observed for approximately 15-20 seconds before fading to the northeast.",
-        "The witness was a medic from the SPS 119 Medical Detachment, standing behind quarters and looking at the sky."
-    ],
-    "result": "unknown",
-    "sighted object": "round, white object the size of a baseball, as bright as the planet Jupiter",
+    "main event": "A witness observed a round, white object, the size of a baseball, moving at an estimated speed of 600-800 miles per hour on 14 Jul 1958.",
+    "interesting points": "The object was bright as the planet Jupiter.,The sighting lasted approximately 15-20 seconds.,The object was observed using both visual and radar methods.,The trajectory of the object was towards the northeast.,The case is listed as having insufficient data for evaluation.",
+    "sighted object": "one round white object",
     "location": "Pyongteak Aux Afld, Korea",
-    "witnesses": "medic from the SPS 119 Medical Detachment",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Standing behind quarters looking at the sky, with good visibility.",
+    "contains photographs": false
 }

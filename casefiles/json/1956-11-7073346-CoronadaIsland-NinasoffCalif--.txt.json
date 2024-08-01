@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground-based radar technician spotted a round, white and red object on Coronado Island, California in November 1956.",
-    "interesting points": [
-        "The object appeared to be intercepted by 2 aircraft.",
-        "The object was observed for 28 minutes.",
-        "The report concludes the object was a possible weather balloon.",
-        "The report includes some encoded or redacted text that is difficult to decipher.",
-        "There are no photographs included with the report."
-    ],
-    "result": "possible weather balloon",
-    "sighted object": "round, white and red object",
-    "location": "Coronado Island, California",
-    "witnesses": "GCA Technician",
-    "photographs": "no"
+    "main event": "A GCA Technician spotted a round object while working on an antenna on Coronado Island, California, in November 1956.",
+    "interesting points": "The object was white and red,The observation lasted for 28 minutes,The technician reported that the object seemed to be intercepted by 2 aircraft,The object was initially spotted while working on ground radar,The conclusion suggested it might be a weather balloon.",
+    "sighted object": "one round white and red object",
+    "location": "Coronado Island, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "GCA Technician",
+    "contains photographs": false
 }

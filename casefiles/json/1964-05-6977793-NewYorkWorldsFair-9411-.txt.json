@@ -1,15 +1,9 @@
 {
-    "main event": "John Doe reported observing an unidentified flying object over the New York World's Fair in New York City on May 6, 1964.",
-    "interesting points": [
-        "The object was round in shape and silver in color.",
-        "The object hovered silently above the fairgrounds for several minutes.",
-        "The object accelerated rapidly and disappeared from view.",
-        "The object was estimated to be approximately 50 feet in diameter.",
-        "Project Blue Book investigators were unable to locate any evidence or witnesses to corroborate Doe's account."
-    ],
-    "result": "unidentified",
-    "sighted object": "round, silver-colored object",
-    "location": "New York World's Fair, New York City",
-    "witnesses": "John Doe",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "John Doe observed an unidentified flying object over the New York World's Fair in New York City on May 6, 1964.",
+    "interesting points": "The object was described as round, silver, and hovering silently above the fairgrounds., John Doe estimated the object to be approximately 50 feet in diameter., The sighting lasted for several minutes before the object accelerated rapidly and disappeared from view., Project Blue Book investigators interviewed John Doe but found no corroborating evidence., The sighting remains classified as 'unidentified' in Project Blue Book records.",
+    "sighted object": "a round, silver UFO",
+    "location": "New York City, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "John Doe",
+    "contains photographs": false
 }

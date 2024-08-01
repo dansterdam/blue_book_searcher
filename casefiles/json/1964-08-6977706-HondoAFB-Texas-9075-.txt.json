@@ -1,15 +1,9 @@
 {
-    "main event": "Unidentified aerial objects were photographed at Hondo Air Force Base in Texas on August 27, 1964.",
-    "interesting points": [
-        "The objects appear to have a triangular or pyramidal shape based on the blurry photographs.",
-        "The photographs were part of a report from the Foreign Technology Division of the Air Force Systems Command (AFSC).",
-        "The report and photographs are marked as 'UNCLASSIFIED'.",
-        "There are a total of 10 photographs included in the report, all of which show blurry and indistinct objects in the sky.",
-        "The photographs suggest the presence of unidentified aerial phenomena, though the objects are difficult to clearly identify."
-    ],
-    "result": "unexplained",
-    "sighted object": "blurry, indistinct objects with possible triangular or pyramidal shapes",
-    "location": "Hondo AFB, Texas",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes 10 photographs"
+    "main event": "Report from Project Blue Book includes two photographs of unidentified objects observed at Hondo AFB, Texas on August 27, 1964.",
+    "interesting points": "The report contains 2 photographs that are described as blurry and indistinct,The objects in the photographs appear to have a triangular or pyramidal shape,The photographs are noted to be part of a technical report from the Foreign Technology Division,The report is marked as UNCLASSIFIED,The sighting took place at a known military airbase.",
+    "sighted object": "blurry unidentified flying objects",
+    "location": "Hondo AFB, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses mentioned in the report",
+    "contains photographs": true
 }

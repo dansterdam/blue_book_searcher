@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A civilian witness spotted a fast-moving, glowing object in the sky over Dover, New Jersey on November 11, 1966.",
-    "interesting points": [
-        "The object appeared to be round or triangular in shape, about 30-40 feet in diameter, and was moving at an estimated speed of 500-1,000 miles per hour.",
-        "The object was silent and moving smoothly, traveling at an altitude of around 1,000 feet.",
-        "The witness watched the object for about 35 seconds before it disappeared from view.",
-        "The witness did not hear any sound associated with the object and did not attempt to contact any authorities about the sighting at the time.",
-        "The witness was alone and there were no other reported witnesses."
-    ],
-    "result": "unexplained",
-    "sighted object": "A fast-moving, glowing, silent object",
-    "location": "Dover, New Jersey",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A civilian reported an unidentified flying object in Dover, New Jersey on November 11, 1966.",
+    "interesting points": "The object was reported to have stopped abruptly and moved extremely fast,The observer described the object as a small, fast-moving glowing object about the size of a grapefruit,The object was seen for about 35 seconds and appeared to disappear while a plane passed by,The witness did not attempt to report the incident as it was not deemed significant at the time,The questionnaire includes detailed questions regarding the object's behavior, speed, and visual characteristics.",
+    "sighted object": "a small, fast-moving glowing object",
+    "location": "Dover, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "16-year-old male, student",
+    "contains photographs": false
 }

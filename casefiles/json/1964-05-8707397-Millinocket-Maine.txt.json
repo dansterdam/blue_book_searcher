@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A group of people in a car spotted a ball of fire near the road in Millinocket, Maine on May 21, 1964.",
-    "interesting points": [
-        "The ball of fire was estimated to be about 3 feet in diameter and had a bouncing, flowing motion.",
-        "The ball of fire came within 50 feet of the car and the people inside were frightened, almost jumping out of the car.",
-        "The ball of fire seemed to follow the car as they tried to leave the area.",
-        "The car would not start after the encounter with the ball of fire.",
-        "Other similar sightings of unidentified objects were reported in the Millinocket area."
-    ],
-    "result": "unexplained",
+    "main event": "Witnesses observed a ball of fire near their car in Millinocket, Maine, on May 21, 1964.",
+    "interesting points": "The ball of fire was estimated to be 3 feet in diameter and bounced around,The witnesses described the ball as being about the size of a bowling ball,One witness reported that when the ball seemed to fly off, it appeared much larger, like a small house,The witnesses felt frightened and initially returned to their car for safety,The ball of fire came within 6 feet of their car.",
     "sighted object": "a ball of fire",
-    "location": "Millinocket, Maine",
-    "witnesses": "group of people in a car",
-    "photographs": "no"
+    "location": "Millinocket, Maine, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "two individuals driving in a car",
+    "contains photographs": false
 }

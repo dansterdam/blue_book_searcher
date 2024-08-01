@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting occurred in Whittier, Alaska on 12/7/53 at 20:00. One reddish-orange, flame-like object with a pulsating or oscillating motion was observed for several minutes before disappearing behind the surrounding mountains.",
-  "interesting points": [
-    "The UFO was observed to be completely silent.",
-    "The object had characteristics similar to that of a meteor.",
-    "The report contains handwritten and typed text, possibly related to Project Blue Book or Sputnik III carrier rocket tracking.",
-    "The sighting was reported to have occurred at 60 degrees 52' N 148 degrees 33' W in Whittier, Alaska.",
-    "The report requested details of findings from a reconnaissance mission scheduled for 12/4/58."
-  ],
-  "result": "prozaic explanation e.g. 'it was a meteor'",
-  "sighted object": "one reddish-orange, flame-like object with a pulsating or oscillating motion",
-  "location": "Whittier, Alaska",
-  "witnesses": "unknown",
-  "photographs": "yes"
+    "main event": "One reddish-orange, flame-like object was observed for several minutes in Whittier, Alaska.",
+    "interesting points": "The object had a pulsating or oscillating motion.,The object appeared to be completely silent.,It disappeared directly behind the surrounding mountains.,The sighting was consistent with characteristics of a meteor.,The report was part of the U.S. Air Force's Project Blue Book.",
+    "sighted object": "one reddish-orange flame-like object",
+    "location": "Whittier, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "unknown",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed a bright white light in the sky over Colorado Springs, Colorado for approximately 5 minutes on November 8, 1966.",
-    "interesting points": [
-        "The light appeared to be larger and brighter than any of the stars in the sky.",
-        "Occasionally, the light would dim slightly and then return to its normal brightness.",
-        "The light remained visible for approximately 10 to 15 minutes, at which time it suddenly disappeared from view.",
-        "There were no clouds in the sky at the time of the observation, and the visibility was excellent.",
-        "The object did not resemble any known aircraft or celestial body, and was classified as an unidentified flying object."
-    ],
-    "result": "unexplained",
+    "main event": "On 8 November 1966, a witness observed a bright white light moving in the sky over Colorado Springs, Colorado.",
+    "interesting points": "The object was observed for approximately 5 minutes,It appeared stationary and larger than any stars in the sky,The witness reported the light would dim and return to brightness,No known aircraft or celestial body matched the description of the object,The investigation concluded it as unidentified due to lack of sufficient data.",
     "sighted object": "bright white light in the sky",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "1",
-    "photographs": "none"
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness observed the object from his home during clear weather.",
+    "contains photographs": false
 }

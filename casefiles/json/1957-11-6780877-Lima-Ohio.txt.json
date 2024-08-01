@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, red object was observed at a very high altitude by a number of people in Lima, Ohio on November 6-7, 1957.",
-    "interesting points": [
-        "The object was observed to the northeast and was visible for about seven minutes.",
-        "A check showed that weather balloons had been released by a unit approximately 52 miles south of Lima at 6:30 PM and 12:30 AM, with winds from the SSW at about 55 mph, which would have put the balloons over the sighting area at the reported times.",
-        "The report concludes that the sighting was likely due to the weather balloons.",
-        "No photographs of the object were taken.",
-        "Multiple citizens in the Lima area reported seeing the object."
-    ],
-    "result": "was Balloon",
-    "sighted object": "a round, red object at high altitude",
-    "location": "Lima, Ohio",
-    "witnesses": "local citizens",
-    "photographs": "no"
+    "main event": "A round, red object was observed at a very high altitude by several local citizens in Lima, Ohio.",
+    "interesting points": "The sighting occurred over several minutes between 8:00 PM and 2:00 AM local time., The object was spotted to the northeast., Local weather conditions included winds from the south-southwest at 30 knots., Lighted balloons were released in the area around the same time, which could explain the sighting., The report concluded that the object was likely a balloon.",
+    "sighted object": "a round, red object",
+    "location": "Lima, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "local citizens",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details found in the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a brightly luminous object moving rapidly through the sky at a high altitude near Andrews Air Force Base in Clinton, Maryland on September 10, 1952.",
-    "interesting points": [
-        "The object was described as glistening and similar in appearance to a half dollar.",
-        "The object was observed to be stationary at times before disappearing from view.",
-        "The sighting was independent of and disconnected from previous sightings in the immediate vicinity of Andrews AFB.",
-        "Prior to the sighting, a check with radar operators at Andrews AFB reported negative results.",
-        "The sighting was investigated but no further evidence was found to warrant continued interest, and the case was closed."
-    ],
-    "result": "unknown",
-    "sighted object": "a brightly luminous, glistening object similar in appearance to a half dollar",
-    "location": "Clinton, Maryland, near Andrews Air Force Base",
-    "witnesses": "a civilian observer who was a former Air Intelligence Officer",
-    "photographs": "no photographs were present in the report"
+    "main event": "An unidentified flying object was observed in Clinton, MD on 5-3-52 for a duration of 0-3 minutes.",
+    "interesting points": "The object was reported as stationary and glistening, similar in appearance to a half dollar,The sighting was made by a civilian observer who was an Air Intelligence Officer during WWII,Possibly the same object had been observed in the same area on several previous occasions,Weather conditions were adequate for visibility during the sighting,The assessment of the sighting eventually led to a recommendation to cancel further investigation due to insufficient evidence.",
+    "sighted object": "an unidentified flying object",
+    "location": "Clinton, MD, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, former Air Intelligence Officer",
+    "contains photographs": false
 }

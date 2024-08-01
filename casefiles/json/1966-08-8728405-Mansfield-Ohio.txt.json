@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A 'moon-like' object was spotted by three independent observers in Mansfield, Ohio on August 16, 1966.",
-    "interesting points": [
-        "The object was described as 'moon-like' and was spotted by three independent observers.",
-        "The object was seen climbing to 2,500 feet and appeared to be about 30 miles away.",
-        "One witness reported the object was 'fuzzy' and they could not determine any details about it.",
-        "The witnesses reported the sighting to the Rochester Flight Service Station.",
-        "The Air Force concluded there was 'insufficient data for evaluation' regarding the UFO incident."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a 'moon-like' object",
-    "location": "Mansfield, Ohio",
-    "witnesses": "three independent observers",
-    "photographs": "no"
+    "main event": "An unidentified flying object was reported in Mansfield, Ohio on August 16, 1966, showing erratic movements and luminous characteristics.",
+    "interesting points": "The object was observed moving rapidly from south-west to north-east and sometimes hovered in place., Observers included Dan R. Haber and his two daughters., Witnesses described the object as a brilliant yellow light with self-luminescence., The Air Force concluded that there was insufficient data for evaluation., The sightings corresponded with a barium cloud release experiment conducted by German and American scientists.",
+    "sighted object": "brilliant yellow light",
+    "location": "Mansfield, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Dan R. Haber and his two daughters",
+    "contains photographs": false
 }

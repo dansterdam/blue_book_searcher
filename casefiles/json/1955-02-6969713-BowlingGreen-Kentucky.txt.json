@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three circular, orange-colored objects in a V-formation were observed over Bowling Green, Kentucky on February 16, 1955.",
-    "interesting points": [
-        "The objects were described as circular in shape and orange in color.",
-        "The objects were observed in a V-formation, with 6 to 8 objects followed by 1 to 3 objects.",
-        "The objects were observed to have vapor trails.",
-        "The objects were observed for a total of 15 minutes.",
-        "The objects were observed by civilian witnesses Joe Henry and Lynn, who were college students in Bowling Green, Kentucky."
-    ],
-    "result": "inconclusive",
-    "sighted object": "three circular, orange-colored objects in a V-formation",
-    "location": "Bowling Green, Kentucky",
-    "witnesses": "Joe Henry and Lynn, college students",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A UFO sighting involving three circular orange objects in a 'V' formation over Bowling Green, Kentucky on 16 February 1955.",
+    "interesting points": "The objects were observed for 15 minutes with vapor trails visible., The sighting involved 3 to 8 objects in a V formation., The course of the objects was to the south., The report suggests possible explanations including balloons or aircraft., The sighting took place at night on the campus of Western Kentucky State Teachers College.",
+    "sighted object": "three circular orange objects in a V formation",
+    "location": "Bowling Green, Kentucky, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Joe Henry Cha Potter, a 31-year-old college student",
+    "contains photographs": false
 }

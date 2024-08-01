@@ -1,15 +1,9 @@
 {
-    "main event": "A possible satellite was observed overhead at 35N 174W in the Pacific on March 6, 1964.",
-    "interesting points": [
-        "The object was sighted from a military source at 07:55Z GMT.",
-        "The object was observed traveling from north to south.",
-        "The altitude and speed of the object were unknown.",
-        "The case was reported as a probable satellite observation.",
-        "The report indicates that no EPIC (Electronic Processing of Information Center) data was available."
-    ],
-    "result": "probable satellite",
-    "sighted object": "one unidentified object",
-    "location": "35N 174W (Pacific)",
-    "witnesses": "military",
-    "photographs": "yes, according to the report"
+    "main event": "A possible satellite was observed overhead on March 6, 1964.",
+    "interesting points": "The observation took place over coordinates 35N 174W in the Pacific., The sighting was reported by military air personnel., Details such as altitude and speed of the object were unknown., The object was observed moving from North to South., The case was carried as a probable satellite observation.",
+    "sighted object": "one possible satellite",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel observing from the air",
+    "contains photographs": false
 }

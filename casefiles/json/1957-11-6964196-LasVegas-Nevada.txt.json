@@ -1,15 +1,9 @@
 {
-    "main event": "A radar operator detected a single oval-shaped object over Las Vegas, Nevada in 1957.",
-    "interesting points": [
-        "The object was the size of a half-dollar and had a yellowish-orange color.",
-        "The object was only observed for 6-10 seconds.",
-        "The object's course was unknown.",
-        "The sighting was initially classified as a possible meteor.",
-        "The report comes from a Project Blue Book record card, which was a form used to document UFO sightings."
-    ],
-    "result": "possibly a meteor",
-    "sighted object": "one oval-shaped object",
-    "location": "Las Vegas, Nevada",
-    "witnesses": "radar operator",
-    "photographs": "no"
+    "main event": "A yellowish-orange oval object was observed, identified as a meteor, in Las Vegas on 28 November 1957.",
+    "interesting points": "The observation lasted for 6-10 seconds.,The object was the size of a half-dollar.,The sighting was recorded via Ground-Radar.,The object was moving undown.,The sighting was concluded to possibly be a meteor.",
+    "sighted object": "one yellowish-orange oval object",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

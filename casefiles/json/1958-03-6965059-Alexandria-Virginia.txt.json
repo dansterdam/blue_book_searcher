@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright object was seen in the sky for 10-12 seconds, varying in its movement and seeming to be stationary.",
-    "interesting points": [
-        "The object was described as being as bright as a first magnitude star.",
-        "The object made no noise and was estimated to be at a high altitude.",
-        "A separate letter describes an object passing overhead at an estimated altitude of 25,000-50,000 feet, with an apparent diameter of 40-50 feet, and traveling at an estimated speed of 1,500 miles per hour.",
-        "The Air Force's analysis indicated the object was likely a meteor, though it was not conclusively identified.",
-        "The reports were to be used as part of the continuous study and investigation of aerial phenomena."
-    ],
-    "result": "inconclusive",
-    "sighted object": "A bright, stationary object in the sky",
-    "location": "Alexandria, Virginia",
-    "witnesses": "one witness",
-    "photographs": "none"
+    "main event": "A witness reported observing a small bright object in the sky for 10-12 seconds over Alexandria, Virginia.",
+    "interesting points": "The object was described as bright and varied in the sky, seeming stationary,The witness had a clear view of the object as it passed overhead,There were no wings or propeller visible,The object was internally lit and made no noise during its flight,The estimated speed of the object was around 1,500 miles per hour.",
+    "sighted object": "a small bright object in the sky",
+    "location": "Alexandria, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A person who observed the object around 11:30 P.M.",
+    "contains photographs": false
 }

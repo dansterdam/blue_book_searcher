@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed in Nakajori Village, Japan between 1946 and 1950. The object was pale white to yellow red in color and disappeared 1-3 minutes after observation, accompanied by a sound like thunder.",
-    "interesting points": [
-        "The duration of the observation was 2-3/4 seconds.",
-        "The UFO was observed from the ground.",
-        "The altitude of the object was between 350-600 meters.",
-        "The report mentions that the case was not in [sic].",
-        "The sound heard after the object disappeared was described as similar to thunder."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object",
+    "main event": "A UFO was observed in Nakajori Village, Japan between 1946 and 1950.",
+    "interesting points": "The UFO changed color from pale white to yellow red,The observation lasted only 2-3/4 seconds, It was seen at an altitude of 350-600 meters, The site reported a sound like thunder 1-3 minutes after the object disappeared, The report indicates that the case is not in sic.",
+    "sighted object": "UFO changing colors",
     "location": "Nakajori Village, Japan",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

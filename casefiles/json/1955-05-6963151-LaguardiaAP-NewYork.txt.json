@@ -1,15 +1,9 @@
 {
-    "main event": "A single round, white object was observed to move toward the East and then return.",
-    "interesting points": [
-        "The object was observed at dusk near the vicinity of LaGuardia and Idlewild airports.",
-        "The observer used binoculars to view the object.",
-        "The report states the sighting was very scant.",
-        "Due to the location and course of the object, it was evaluated as a probable aircraft landing at one of the nearby airports.",
-        "No investigation was authorized."
-    ],
-    "result": "probably aircraft",
+    "main event": "One round, white object was observed moving toward the East and then returning near LaGuardia Airport.",
+    "interesting points": "The sighting occurred at dusk, The observer utilized binoculars for a better view, The evaluation considered the possibility of it being an aircraft due to its location, The sighting was reported as scant, No investigation was authorized after the report.",
     "sighted object": "one round, white object",
-    "location": "vicinity of LaGuardia AP, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "LaGuardia Airport, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer used binoculars",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Pilot Officer Haring witnessed a steady light, with no definite outline, that appeared blush white and comparable to a Yatchern-ola, moving across the sky near Klamath Falls, California.",
-    "interesting points": [
-        "The object left a trail similar to the wake of a boat, covering an estimated 30 miles of skyline.",
-        "The object was observed by both a pilot officer during a runway check and a control tower operator at Kingsley Field.",
-        "The object was tracked moving from 40 degrees above the horizon in the northwest quadrant, fading out of sight at 42 degrees above the horizon.",
-        "Two additional civilian and military sightings of a similar object were reported in the Arcata, California area, approximately 52 miles south of Klamath, California.",
-        "The object was observed for 3-4 minutes by the civilian witnesses and 1-2 minutes by the military witness."
-    ],
-    "result": "unexplained",
-    "sighted object": "Elliptical object with no definite outline, blush white in color",
-    "location": "Near Klamath Falls, California",
-    "witnesses": "Pilot Officer, Control Tower Operator, Civilian Witnesses",
-    "photographs": "No photographs available"
+    "main event": "A steady light was observed moving south near Klamath Falls, California for 3 minutes.",
+    "interesting points": "The object was described as elliptical with no definite outline., It was reported to be blush white and emitted a steady light without flashing., The observation included a trail similar to the wake of a boat, estimated to cover 30 miles of skyline., A pilot officer sighted the object at 40 degrees above the horizon in the northwest quadrant., Additional civilian witnesses observed a bright light with a tail for 3-4 minutes.",
+    "sighted object": "steady light in the sky",
+    "location": "Klamath Falls, Oregon, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilian and military personnel including a control tower operator and pilot.",
+    "contains photographs": false
 }

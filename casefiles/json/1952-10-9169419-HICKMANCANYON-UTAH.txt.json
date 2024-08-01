@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "An unidentified flying object, described as a saucer-shaped object with a dark area in the middle and two 'appendages' in the forward section, was observed crashing into a mountain in Hickman Canyon, Utah on October 27, 1952.",
-    "interesting points": [
-        "The object made a sound like an automobile as it crashed into the mountain.",
-        "An extensive search of the area by the military could find nothing.",
-        "The sighting occurred near the Display Proving Grounds, and an air search by a course and intelligence officer from Dugway Proving Ground was unsuccessful.",
-        "The weather at the time was very bad, with gale force winds and heavy snow.",
-        "No photographs of the object were included in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a saucer-shaped object with a dark area in the middle and two 'appendages' in the forward section",
-    "location": "Hickman Canyon, Utah",
-    "witnesses": "a couple doing hunting in an isolated part of the mountains",
-    "photographs": "no"
+    "main event": "A couple observed a saucer-shaped object with a dark area in the middle crashing into a mountain while deer hunting in Hickman Canyon, Utah on October 27, 1952.",
+    "interesting points": "The object made a sound similar to an automobile., Extensive search of the area by air and ground found nothing., The sighting took place during severe weather conditions with gale force winds and heavy snow., Witnesses described the object as having two appendages in the forward section., The object was initially seen flying at an altitude of around 3,000 feet before crashing.",
+    "sighted object": "saucer-shaped object",
+    "location": "Hickman Canyon, Utah, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A couple engaged in deer hunting",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A woman spotted a large, glowing, round, whitish object hovering and moving slowly southeastward over Lima, Ohio in 1952.",
-    "interesting points": [
-        "The object was observed for about 10 minutes, from 9:25 PM to 9:35 PM.",
-        "The object appeared to be about 30 feet in diameter.",
-        "The observer initially thought it was a shooting star, but then became convinced it was an unidentified flying object.",
-        "Another unidentified object was sighted in the area around 11:00 PM, but this was not confirmed.",
-        "The report states that there was insufficient data to evaluate the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, glowing, round, whitish object",
-    "location": "Lima, Ohio",
-    "witnesses": "1 observer",
-    "photographs": "none"
+    "main event": "An unidentified flying object was sighted in Lima, Ohio on multiple occasions from 1952 to 1965.",
+    "interesting points": "The first sighting on 20 November 1952 lasted for about 10-15 minutes, with the observer initially mistaking the object for a shooting star., The object was believed to be about 30 feet in diameter and glowed white while moving slowly southeast., Another sighting reported on 19 July 1963 described a bright light with spinning amber lights that emitted a slight whirr and was observed moving overhead., There were no confirmed photographs or physical evidence documented in the reports., The Lima Police Department had no record of unidentified flying objects reported during the period surrounding the sightings.",
+    "sighted object": "large, glowing, round whitish object",
+    "location": "Lima, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an observer who reported seeing the object",
+    "contains photographs": false
 }

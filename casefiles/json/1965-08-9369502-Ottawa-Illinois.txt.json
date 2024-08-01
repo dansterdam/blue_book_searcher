@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness sighted a round, glowing unidentified object over Ottawa, Illinois on August 9, 1965.",
-    "interesting points": [
-        "The object hovered for several minutes before accelerating and disappearing.",
-        "Another witness had reported seeing a similar object in the past.",
-        "An investigation found no mechanical or natural explanation for a 6-foot tall, grey figure that approached and frightened two witnesses on August 18th.",
-        "The object was described as circular in shape and metallic in color, traveling in a northerly direction.",
-        "The object was observed for around 15 seconds, covering a large portion of the sky and moving faster than a typical satellite."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, glowing unidentified object",
-    "location": "Ottawa, Illinois",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in the sky in Ottawa, Illinois on August 17, 1965.",
+    "interesting points": "The object was observed for a total of 15 seconds,It had a horizontal flight path from SE to NW and disappeared beyond trees,It was brighter than the North Star and covered the width of a thumb at arm's length in 1 second,The observation was evaluated and concluded to be a satellite, not a meteor as initially suggested,Two witnesses reported seeing a figure described as approximately 6 ft. tall, grey in color, floating a few feet above the ground.",
+    "sighted object": "unidentified aerial object",
+    "location": "Ottawa, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "two adult males described as having seen a grey floating figure and other witnesses observing a circular metallic object.",
+    "contains photographs": false
 }

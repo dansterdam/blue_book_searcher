@@ -1,15 +1,9 @@
 {
-  "main event": "A bright orange, circular object was observed moving erratically in the sky over Rockville, Maryland on June 12, 1954. It made several stops along its flight path during the 5-minute observation.",
-  "interesting points": [
-    "The object was observed by a civilian and was reported to have no discernible size.",
-    "Observational data such as exact time, duration, altitude, and direction were not included in the report.",
-    "Radar scope observation at Washington National Tower was negative, and aircraft observation in the vicinity also yielded negative results.",
-    "The object's behavior was described as erratic, with maneuvers resembling that of a bouncing ball at times and stationary at other times.",
-    "The object was sighted for two hours between 21:24 and 23:23 EST by a civilian employed at Command Post USA."
-  ],
-  "result": "Unknown",
-  "sighted object": "A bright orange, circular object",
-  "location": "Rockville, Maryland",
-  "witnesses": "Civilian",
-  "photographs": "No"
+    "main event": "A civilian observer reported seeing a bright orange circular object in the sky in Rockville, Maryland on June 12, 1954.",
+    "interesting points": "The object was described as bright orange and circular with no discernible size., The object moved rapidly but made several stops during its flight., The observation lasted for approximately 5 minutes., Four other individuals also witnessed the object with binoculars., Weather conditions were clear with scattered clouds.",
+    "sighted object": "bright orange circular object",
+    "location": "Rockville, Maryland, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

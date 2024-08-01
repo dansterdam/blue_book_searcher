@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A large, bright white object was sighted low on the horizon for 30 minutes by children in Egg Harbor, Wisconsin on September 24, 1957.",
-    "interesting points": [
-        "The object was described as round, white in color, and brighter than the surrounding stars.",
-        "The sighting was first reported by children.",
-        "An astro plot for the time, place, and date of the sighting showed nothing specially identifiable or explainable in the exact spot described.",
-        "The report concludes that there was 'Insufficient Data for Evaluation'.",
-        "The report contains details such as the location, time, duration of the sighting, and the appearance of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, bright white object",
-    "location": "Egg Harbor, Wisconsin",
-    "witnesses": "children",
-    "photographs": "no"
+    "main event": "A large round object brighter than surrounding stars was sighted low on the horizon for 30 minutes by children.",
+    "interesting points": "The sighting occurred on 24 September 1957,The object appeared white in color and was described as star-like,The observation lasted for 30 minutes at 2010 hours,The position of the object did not match any identifiable astronomy data at the time,The report originates from the Project Blue Book archives which investigated UFO sightings.",
+    "sighted object": "a large round white object",
+    "location": "Egg Harbor, Wisconsin, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "children who first sighted the object",
+    "contains photographs": false
 }

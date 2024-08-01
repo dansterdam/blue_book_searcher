@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A saucer-shaped object was observed in the western sky over Springhill, Kansas.",
-    "interesting points": [
-        "The object was white in color and had a bright orange glow around the bottom.",
-        "The object appeared to be stationary and did not look like it was floating or dipping.",
-        "The observation was consistent with the identified astronomical object Venus, which would have been bright in the western sky at that time.",
-        "The observer used binoculars to observe the object.",
-        "The weather in the Springhill, Kansas area was reported as calm."
-    ],
-    "result": "identified as the planet Venus",
-    "sighted object": "a saucer-shaped white object with a bright orange glow",
-    "location": "Springhill, Kansas",
-    "witnesses": "a civilian observer",
-    "photographs": "none"
+    "main event": "An observer reported seeing a stationary saucer-shaped object in the western sky of Springhill, Kansas on March 5, 1967.",
+    "interesting points": "The object was white with a bright orange glow around the bottom., The observation lasted for 15 minutes., The object did not float or dip but remained stationary., It was concluded that the object was likely the planet Venus based on its location in the sky., There was no physical evidence gathered during the sighting.",
+    "sighted object": "saucer-shaped object",
+    "location": "Springhill, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an unnamed observer",
+    "contains photographs": false
 }

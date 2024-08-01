@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Tokyo radar picked up 16 unidentified objects in 1955. Ground radar and air visual confirmed the sightings, but intercept results were negative.",
-    "interesting points": [
-        "The unidentified objects were tracked on radar for about 13 minutes, traveling at a speed of approximately 1,230 knots (around 1,400 mph).",
-        "The objects made abrupt turns and were observed to be alternately tracking southwest and northeast with no apparent pattern.",
-        "A Tokyo Tower watch operator also visually observed a very bright white light in the vicinity of Mount Fuji for 10-15 minutes, which was confirmed to be the same object tracked on radar.",
-        "The radar operators stated the objects showed no signs of engine exhaust or any other visible means of propulsion.",
-        "The report concluded that the sighting could not be satisfactorily explained and remained unidentified."
-    ],
-    "result": "unexplained",
-    "sighted object": "16 unidentified objects tracked on radar, a bright white light observed visually",
+    "main event": "On 20 March 1955, ground radar and air visuals confirmed the sighting of 16 unidentified flying objects over Tokyo, Japan.",
+    "interesting points": "The radar detected 16 unidentified objects, but intercept results were negative., The objects were tracked at an average speed of 500 mph at an altitude of 25,000 feet., Visual confirmation of one object was made by multiple witnesses, including civilians and military personnel., A civilian observed a luminous white object approximately 200 yards in diameter moving at about 1,000 mph., The report documented concludes that the sightings remain unexplained.",
+    "sighted object": "unidentified aerial objects",
     "location": "Tokyo, Japan",
-    "witnesses": "military radar operators, Tokyo Tower watch operator",
-    "photographs": "yes, the report includes radar data and visual observations"
+    "number of confirmed witnesses": 4,
+    "witness description": "1 American civilian and 3 Japanese civilians",
+    "contains photographs": true
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "In August 1957, in Wichita, Kansas, a military ground-radar observation reported a UFO at an estimated 23,000 ft. with a speed of about 500 knots. The sighting lasted for 2 minutes and involved one object exhibiting erratic changes in position.",
-  "interesting points": [
-    "The UFO was estimated at a high altitude of 23,000 ft. and a speed of 500 knots.",
-    "The observation lasted for 2 minutes and was reported by military personnel.",
-    "The UFO's behavior included erratic changes in position, resembling characteristics of a balloon.",
-    "The report suggests that the UFO could have been a balloon or possibly an aircraft.",
-    "The document also includes a separate report from an aircraft sighting the UFO on the same day at 25,000 ft. with a speed of about 220 knots, further validating the sighting."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "Unidentified Flying Object (UFO)",
-  "location": "Wichita, Kansas",
-  "witnesses": "Military personnel, pilots",
-  "photographs": "no"
+    "main event": "An unidentified flying object was reported at an altitude of 23,000 ft with a speed of about 500 knots based on ground radar observation.",
+    "interesting points": "The sighting lasted for about 2 minutes., The object exhibited erratic changes in position., Initial evaluation suggested it could be a balloon or possibly an aircraft., An additional sighting was reported by Braniff 42 on August 30, 1957., The UFO was lost from sight when it went behind a cloud.",
+    "sighted object": "one unidentified flying object",
+    "location": "Wichita, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military observation",
+    "contains photographs": false
 }

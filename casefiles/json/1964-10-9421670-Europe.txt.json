@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the provided UFO report:
-
 {
-    "main event": "A suspected meteorite sample was analyzed and found to be primarily composed of quartz, rather than a meteorite.",
-    "interesting points": [
-        "The sample was originally thought to be a meteorite and submitted for analysis.",
-        "X-ray diffraction analysis showed no crystalline pattern, indicating it was not a true meteorite.",
-        "Infrared spectroscopy showed the sample had a spectrum similar to an inorganic silicate, rather than organic material.",
-        "Spectrographic analysis found the sample was primarily composed of silica (42%), with smaller amounts of other elements like aluminum, iron, and magnesium.",
-        "The final conclusion was that the sample was a form of inorganic silicate, and not a meteorite as originally suspected."
-    ],
-    "result": "The sample was determined to be an inorganic silicate, not a meteorite.",
-    "sighted object": "A suspected meteorite sample",
-    "location": "Europe",
-    "witnesses": "Military personnel",
-    "photographs": "Yes, the report includes photographs of the sample"
+    "main event": "A bright round light was observed in the sky over Ludwigshafen, Germany on 15 May 1964, moving in a zigzag pattern.",
+    "interesting points": "The light was estimated to be about 10-15 meters in diameter.,The object was observed for approximately 2-3 minutes before disappearing.,Several reliable witnesses, including a police officer and a railway worker, provided consistent accounts.,The estimated speed of the object was 100-150 knots.,This sighting was being forwarded for further investigation to higher headquarters.",
+    "sighted object": "a bright round light in the sky",
+    "location": "Ludwigshafen, Germany, Europe",
+    "number of confirmed witnesses": 4,
+    "witness description": "reliable witnesses including a police officer, a railway worker, and two private citizens",
+    "contains photographs": false
 }

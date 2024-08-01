@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A glowing, circular object about 30-50 feet in diameter was sighted hovering silently over Kettering, Ohio for about 30 minutes.",
-    "interesting points": [
-        "The object was initially detected as an aircraft approaching at high speed, but then it leveled off and remained stationary.",
-        "The object had a bluish-white glow around it.",
-        "The object was completely silent in operation.",
-        "The witness was a 12-year-old boy who had an interest in astronomy and stargazing.",
-        "The witness reported the sighting to authorities in March 1965 and again in January 1966."
-    ],
-    "result": "unexplained",
-    "sighted object": "a glowing, circular object about 30-50 feet in diameter",
-    "location": "Kettering, Ohio",
-    "witnesses": "1 civilian witness (12-year-old boy)",
-    "photographs": "no"
+    "main event": "A civilian reported witnessing an unidentified object in Kettering, Ohio on August 23, 1965, for a duration of 3 minutes.",
+    "interesting points": "The object was visible for a total duration of 3 minutes,The source of the report is from a civilian witness,The course of the object was noted as moving northeast,The report concluded that the sighting was possibly a satellite,There were no photographs or physical evidence presented in the report.",
+    "sighted object": "unidentified object",
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 12-year-old male with an interest in astronomy",
+    "contains photographs": false
 }

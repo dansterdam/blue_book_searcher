@@ -1,15 +1,9 @@
 {
-    "main event": "Two star-like objects were observed in 2D ground-visual sighting over Rivera, California on 15th May 1954. The objects climbed steadily, accelerated rapidly, and flew side by side for several minutes. Two B-26s were in the area at the same time.",
-    "interesting points": [
-        "The objects were described as star-like and made no sound.",
-        "They climbed steadily and then accelerated rapidly, flying side by side for several minutes.",
-        "Two B-26s were in the area at the same time, indicating potential military interest or investigation.",
-        "The conclusion of the observation was 'Unknown' as it was not confirmed to be a balloon, aircraft, or astronomical object.",
-        "Observers were star gazing at the time of the sighting, providing credibility to the report."
-    ],
-    "result": "Unknown",
-    "sighted object": "Two star-like objects",
+    "main event": "Two star-like objects were observed climbing steadily and accelerating rapidly in Rivera, California on 15 May 1954.",
+    "interesting points": "The objects were reported to have no sound., The observed objects flew in a formation, with one slightly ahead of the other., The sighting lasted for several minutes., Two B-26 aircraft were in the area during the sightings., The objects disappeared in the vicinity of Mt. Wilson.",
+    "sighted object": "two star-like objects",
     "location": "Rivera, California",
-    "witnesses": "Observers who were star gazing",
-    "photographs": "No"
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers were star gazing.",
+    "contains photographs": false
 }

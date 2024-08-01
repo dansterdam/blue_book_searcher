@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "A round, shiny object the size of a baseball at arm's length was observed drifting slowly over Spokane, Washington.",
-    "interesting points": [
-        "The object was observed for 15 minutes.",
-        "The object appeared to be drifting in the sky.",
-        "Weather balloon data suggests the object was likely a weather balloon released from Spokane at 0315Z on July 31.",
-        "The weather conditions at the time of the sighting were clear.",
-        "The object was tracked at various altitudes from 6,000 feet to 50,000 feet, with speeds ranging from 8 knots to 60 knots."
-    ],
-    "result": "was balloon",
-    "sighted object": "round, shiny object",
-    "location": "Spokane, WA",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A shiny round object, the size of a baseball held at arm's length, was observed drifting slowly over Spokane, Washington.",
+    "interesting points": "The sighting lasted for fifteen minutes., The observation was confirmed by a report stating that a weather balloon was released around the same time., The object was noted as being shiny and round., The report was generated from a civilian source., The conclusion of the report was that the observed object was a weather balloon.",
+    "sighted object": "one round, shiny object",
+    "location": "Spokane, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian source",
+    "contains photographs": false
 }

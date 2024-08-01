@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, luminous object appeared to the observer, hovered for about 5 minutes, and then suddenly shot straight up and disappeared.",
-    "interesting points": [
-        "The object appeared to be oval in shape and was luminous or light in color.",
-        "The object made no sound as it hovered or shot up.",
-        "The observer had never seen a phenomenon like this before and wondered if it could be a UFO.",
-        "The observer wanted to know if any other sightings had been recorded in the vicinity around the same time.",
-        "An ATIC-PMO Technical Install team visited the observer on July 14-15 to investigate the UFO sighting reports in the area."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright, luminous oval-shaped object",
-    "location": "Metuchen, New Jersey",
-    "witnesses": "1 observer",
-    "photographs": "none"
+    "main event": "On July 8, 1961, a bright luminous object hovered over Metuchen, New Jersey, for approximately five minutes before shooting straight up and disappearing.",
+    "interesting points": "The object was observed through binoculars and appeared to be bright and golden in color., The observer reported the object made no sound., The sighting lasted about three minutes., This report was part of the Project Blue Book documentation., The investigator concluded it might have been a high flying jet reflecting sunlight.",
+    "sighted object": "a bright luminous object",
+    "location": "Metuchen, New Jersey, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "An observer who observed the object through binoculars.",
+    "contains photographs": false
 }

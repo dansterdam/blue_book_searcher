@@ -1,15 +1,9 @@
 {
-    "main event": "A USAFR 2nd Lieutenant reported seeing three unknown objects in the sky near Lakeland, Florida on November 7, 1955",
-    "interesting points": [
-        "The objects were observed for 15 minutes.",
-        "The observer was a 2nd Lieutenant in the US Air Force Reserve.",
-        "The objects were described as probable B-47 aircraft in the area at the time.",
-        "The report mentions previous UFO sightings in the area during reconnaissance flights by capable observers.",
-        "The report states that the pilot signed the report, and the flight reports were completed through the chain of command."
-    ],
-    "result": "probable aircraft",
-    "sighted object": "three unknown objects",
-    "location": "Lakeland, Florida",
-    "witnesses": "2nd Lieutenant, USAFR",
-    "photographs": "no"
+    "main event": "A 2nd Lieutenant reported observing three unidentified objects in Lakeland, Florida on November 7, 1955.",
+    "interesting points": "The observation lasted 15 minutes at 2315Z,Objects were likely associated with a B-47 aircraft in the area at the time,This report corroborates previous sightings in the region during reconnaissance flights,The lieutenant noted that visual contact with the objects was intermittently lost and regained,The report was sent to various defense and intelligence commands for further analysis.",
+    "sighted object": "three unidentified flying objects",
+    "location": "Lakeland, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "2nd Lieutenant, USAFR",
+    "contains photographs": false
 }

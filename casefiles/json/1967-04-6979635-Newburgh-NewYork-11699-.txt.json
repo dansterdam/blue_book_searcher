@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Two residents of Newburgh, New York observed a bright red light in the sky on April 6, 1967 that moved slowly and erratically before suddenly disappearing.",
-    "interesting points": [
-        "The object was reported to the local police department, who then notified the Federal Aviation Administration (FAA) and the Air Force.",
-        "An Air Force investigator was dispatched to interview the witnesses, who determined that the object was most likely a weather balloon.",
-        "However, the witnesses felt certain that the object they observed was not a weather balloon, as it did not behave like one.",
-        "The Air Force investigation was closed with the conclusion that the sighting was of a weather balloon, despite the witnesses' disagreement.",
-        "A separate UFO sighting report was also filed on April 11, 1967 in Newburgh, New York, describing a bright white object that moved rapidly, stopped suddenly, changed direction 90 degrees, and then disappeared."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Bright red light, bright white object",
-    "location": "Newburgh, New York",
-    "witnesses": "Mr. Jack Bailie and Mr. Joseph Waskiewicz, unspecified witness for separate sighting",
-    "photographs": "No photographs provided"
+    "main event": "On April 6, 1967, Mr. Jack Bailie and Mr. Joseph Waskiewicz observed a bright red light in the sky south of Newburgh, New York.",
+    "interesting points": "The light moved slowly and erratically for about 5 minutes before disappearing., The witnesses reported the sighting to the local police, who notified the FAA and the Air Force., An Air Force investigator concluded the sighting was likely a weather balloon, but witnesses disagreed., The object was described as round, about 100 feet in diameter, and bright white., The behavior of the object included rapid movement, sudden stops, and 90-degree turns.",
+    "sighted object": "a bright red light in the sky",
+    "location": "Newburgh, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. Jack Bailie and Mr. Joseph Waskiewicz, both residents of Newburgh",
+    "contains photographs": false
 }

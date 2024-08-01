@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Two bright objects were observed hovering over a home in North Highlands, California on August 5, 1965.",
-    "interesting points": [
-        "The objects were described as circular in shape and very bright.",
-        "The objects remained in sight for a few seconds, then came back.",
-        "The objects were observed by the witness, his sister, and three neighbors.",
-        "The objects were described as being the size of a planet and changing color from brilliant red to bluish green to white.",
-        "The objects hovered for about 1 minute and took a northwesterly and northeasterly path before disappearing behind trees."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright, circular objects",
-    "location": "North Highlands, California",
-    "witnesses": "civilian (38 years old), civilian (11 years old), civilian (28 years old)",
-    "photographs": "no"
+    "main event": "Two bright circular objects were observed hovering over North Highlands, California on 5 August 1965.",
+    "interesting points": "The objects appeared to be the size of a planet and changed color from brilliant red to bluish green to white., Observers included a civilian, his sister, and 3 neighbors., The duration of observation was approximately 2 hours., The objects moved slowly to rapidly at a very low altitude., The objects were visible for a short time, hovered for about 1 minute, and then disappeared behind trees.",
+    "sighted object": "two bright circular objects in the sky",
+    "location": "North Highland, California, U.S.A.",
+    "number of confirmed witnesses": 5,
+    "witness description": "civilians of varying ages, including 38 years, 11 years, and 28 years old",
+    "contains photographs": false
 }

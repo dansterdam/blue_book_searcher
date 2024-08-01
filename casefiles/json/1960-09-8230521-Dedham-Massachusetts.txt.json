@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A small, silent object about the size of a Polaris was sighted moving quickly to the east in Dedham, Massachusetts on September 22, 1960.",
-    "interesting points": [
-        "The object was a silvery white color with a shape similar to a teardrop.",
-        "The object was observed for about 10 minutes, moving quickly and then appearing to hover and drift slightly upward.",
-        "The object did not seem to be an aircraft and did not make any sound.",
-        "The witness observed the object for approximately 30-35 minutes, with it hovering and drifting slightly upward at times.",
-        "The object moved in a descending straight line at a slow speed for about 4 minutes before just disappearing, with no sound or association with any optical instrument."
-    ],
-    "result": "unexplained",
-    "sighted object": "a small, silent, silvery white object with a teardrop shape",
-    "location": "Dedham, Massachusetts",
-    "witnesses": "civilian",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A silver teardrop-shaped object was sighted moving quickly to the east in Dedham, Massachusetts on 22 September 1960.",
+    "interesting points": "The object was small and silent, estimated to be about the size of a Polaris., The sighting lasted for approximately 10 minutes., Witness observes the object moving quickly without any significant sound., The object appeared to be metallic and hovered for a duration of 30-35 minutes during another separate observation., Weather conditions were clear and calm at the time.",
+    "sighted object": "small, teardrop-shaped silvery object",
+    "location": "Dedham, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnesses located on the edge of Boston, observing a metallic object in the sky.",
+    "contains photographs": false
 }

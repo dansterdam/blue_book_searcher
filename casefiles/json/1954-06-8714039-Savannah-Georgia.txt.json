@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A disc-shaped, metallic object was sighted over Savannah, Georgia on June 8, 1954.",
-  "interesting points": [
-    "The object was brightly illuminated and maneuvered in an erratic fashion at high altitudes.",
-    "The object was described as being round or disc-shaped in appearance, with a metallic sheen.",
-    "The object appeared to be traveling at a high rate of speed, making sudden changes in direction and altitude.",
-    "The witness, Mr. John Doe, reported the sighting to local authorities, who then notified the nearest Air Force base.",
-    "An investigation was immediately initiated by the Air Force to determine the nature and origin of the unidentified flying object."
-  ],
-  "result": "unexplained",
-  "sighted object": "a disc-shaped, metallic object",
-  "location": "Savannah, Georgia",
-  "witnesses": "a local resident named Mr. John Doe",
-  "photographs": "no"
+    "main event": "An unidentified flying object was reported sighted over Cleveland, Ohio, on 22 June 1954, with witnesses observing it for approximately 10-15 minutes.",
+    "interesting points": "The object was described as silvered, disc-shaped or elliptical, pointed at both ends and hovered before moving out rapidly., The object appeared to be the size of two C-47 houses combined and was gray in color., Witnesses reported no sound during the sighting., The sighting duration was approximately 10-15 minutes, and the object disappeared rapidly., The sighting was investigated by the Cleveland Field Office of the Air Force.",
+    "sighted object": "unidentified flying object",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a Cleveland citizen who reported the sighting to the Field Office",
+    "contains photographs": false
 }

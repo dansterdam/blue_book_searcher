@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One missile-shaped object with a silvery body was observed for three minutes in Ventura, California on November 1, 1956.",
-    "interesting points": [
-        "The object had a tail and was very short in duration.",
-        "The sighting was reported to ATIC (Air Technical Intelligence Center) for further analysis.",
-        "The report indicated that the sighting was made by a ground visual observation, and optical aids were not used.",
-        "The report stated that there was no unusual activity in the area, and no aircraft were under their control at the time.",
-        "No photographs were taken of the object, as the observers could not spot anything in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "one missile-shaped object with a silvery body",
-    "location": "Ventura, California",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "One missile shaped object with a silvery body was observed in Ventura, California on November 1, 1956.",
+    "interesting points": "The observation lasted for three minutes,The object was reported to have a tail and a silvery body,Initial report indicated insufficient data for further analysis,There was no sound reported from the object,No photographs were taken during the sighting.",
+    "sighted object": "missile shaped object",
+    "location": "Ventura, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Insufficient Data",
+    "contains photographs": false
 }

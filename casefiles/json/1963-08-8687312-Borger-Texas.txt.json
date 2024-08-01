@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A sheriff's report described an object about 11 ft across, glowing reddish-purple, that passed over a field in Borger, Texas on August 27, 1963.",
-    "interesting points": [
-        "The object left a 3-inch wide mark all around on the ground, but the grass and bushes did not seem to be lighted except when the object passed over.",
-        "The object moved slowly and silently.",
-        "The sheriff took several witnesses to the site two days later, but the object had disappeared and they found nothing.",
-        "A deputy sheriff later reported taking colored photographs of a ground area with a 'heart-shaped' marking, but the report does not indicate if those photos were included.",
-        "The report mentions an investigation by the U.S. Air Force's Foreign Technology Division in response to the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "Reddish-purple glowing object about 11 ft across",
-    "location": "Borger, Texas",
-    "witnesses": "Sheriff and several other witnesses",
-    "photographs": "None included, but a deputy sheriff may have taken colored photos of a ground marking"
+    "main event": "A sheriff reported observing a glowing reddish-purple object about 11 feet across in Borger, Texas, on August 8, 1963.",
+    "interesting points": "The object was silent and moved slowly,The object left a 3-inch wide mark on the ground without lighting the surrounding grass and bushes,The sighting lasted for approximately 30 minutes,The sheriff took several witnesses to the site two days later but found nothing,Correspondence regarding the sighting involved letters to Project Blue Book and mentions of substance samples.",
+    "sighted object": "a glowing reddish-purple object",
+    "location": "Borger, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Sheriff and other individuals involved in the reports",
+    "contains photographs": false
 }

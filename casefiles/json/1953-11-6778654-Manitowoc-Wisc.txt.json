@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "A witness observed an unidentified flying object near Manitowoc, Wisconsin on November 18, 1953.",
-    "interesting points": [
-        "The object was silver in color and shaped like a sphere or disk, appearing the size of a lead pencil eraser when viewed from the ground.",
-        "The object was observed four times between 12:45 PM and 5:40 PM, remaining in the same position for over 5 hours.",
-        "The witness could not identify the object and believed it was not a star or balloon due to its stationary position over an extended period of time.",
-        "The witness reported the sighting to the U.S. Air Force's Project Blue Book, which investigated UFO reports.",
-        "The report includes sketches showing the object's position and motion relative to the horizon."
-    ],
-    "result": "Insufficient identifying data, unidentified",
-    "sighted object": "A silver, spherical or disk-shaped object",
-    "location": "Manitowoc, Wisconsin",
-    "witnesses": "1 witness, a private pilot and member of the Civil Air Patrol",
-    "photographs": "No photographs included in the report"
+    "main event": "A witness reported observing a silver spherical or disk-shaped object in the sky over Manitowoc, Wisconsin on November 6, 1953.",
+    "interesting points": "The object was observed for approximately 1.5 minutes,It descended from the sky at high speed and made a sudden 90 degree turn,The observer described the object as appearing the size of a lead pencil eraser when viewed from the ground,The witness reported that the object remained in the same position for an extended period,The conclusion of the report noted insufficient identifying data to determine the object's nature.",
+    "sighted object": "a silver spherical or disk-shaped object",
+    "location": "Manitowoc, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness from the Major Civil Air Patrol with a private pilot license",
+    "contains photographs": false
 }

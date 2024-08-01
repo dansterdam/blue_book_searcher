@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian reported seeing two bright lights that circled in the sky over Colorado Springs, Colorado on May 30, 1966.",
-    "interesting points": [
-        "The objects were described as a bright light and a 'wash tub' shaped object, both with a greenish color.",
-        "One object circled in an easterly direction while the other circled in a southeasterly direction.",
-        "The objects faded after about 30-40 minutes of observation.",
-        "The observer was a minister of a Baptist church, who was considered a reliable witness.",
-        "The preliminary analysis by the Air Force suggested the objects were likely reflections of commercial searchlights on a haze layer or clouds."
-    ],
-    "result": "Other (SEARCH LIGHTS)",
-    "sighted object": "two bright, greenish lights",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "civilian, minister of a Baptist church",
-    "photographs": "no"
+    "main event": "A civilian reported observing two unidentified flying objects in Colorado Springs, Colorado on May 29, 1966.",
+    "interesting points": "The objects were visible for approximately 30-40 minutes., The observation was made using ground visual methods., The objects were reported to have a red, orange, and green flashing light., The conclusion drawn was that the objects were likely reflections from commercial searchlights., The report is part of the Project Blue Book documentation from the U.S. Air Force.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian with questionable reliability (college student)",
+    "contains photographs": false
 }

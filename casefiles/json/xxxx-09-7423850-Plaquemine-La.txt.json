@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An observer sighted a funnel-shaped object that was reddish in color and traveling west or northwest.",
-    "interesting points": [
-        "The object appeared to be glowing as it traveled.",
-        "The observer described the object as having a strange forward speed.",
-        "The observer had previously seen a similar object about 2 years earlier over Plaquemine, Louisiana.",
-        "The observer is an electronic engineer with training in electronics, radio theory, and radar technology.",
-        "The observer reported the sighting to the Department of the Air Force."
-    ],
-    "result": "Probable processing blemish",
-    "sighted object": "a funnel-shaped glowing object",
-    "location": "Plaquemine, Louisiana",
-    "witnesses": "1 electronic engineer",
-    "photographs": "yes, but the photo analysis indicated it was likely a processing blemish"
+    "main event": "An observer reported sighting a glowing red funnel-shaped object traveling across the sky on September 3, 1967.",
+    "interesting points": "The object was observed traveling at a fast speed with an estimated speed of 800 miles per hour,The observer noted that it moved in a northwesterly direction,Analysis of the photograph indicated it had a blinking or pulsating motion attributed to camera movement,Despite initial observations matching a photograph, it was later determined to be a probable processing blemish,The witness has a background as a professional electronic engineer with relevant training.",
+    "sighted object": "a glowing red funnel-shaped object",
+    "location": "Plaquemine, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a 30-year-old male, professional electronic engineer.",
+    "contains photographs": false
 }

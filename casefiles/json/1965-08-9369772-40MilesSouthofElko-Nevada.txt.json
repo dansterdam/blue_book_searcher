@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "A commercial airline pilot spotted a bright white object with a blue or green tint in the sky over Nevada.",
-    "interesting points": [
-        "The object was brilliant white in color and had a blurred edge, like an arc-welder.",
-        "The object disappeared suddenly, like a light being turned off.",
-        "The object moved much faster than the aircraft, covering 10-15 miles in 10-15 seconds.",
-        "The pilot estimated the object was traveling 7-10 times faster than the aircraft, which was making around 700 mph.",
-        "The pilot could not provide an accurate speed or distance estimate for the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white object with a blue or green tint",
-    "location": "40 miles south of Elko, Nevada",
-    "witnesses": "commercial airline pilot",
-    "photographs": "yes, the report includes a sketch"
+    "main event": "An airline pilot reported seeing a brilliant white object flying at high speed about 40 miles south of Elko, Nevada on August 20, 1965.",
+    "interesting points": "The object had a blurred edge similar to an arc welder,The pilot believed the object was moving much faster than their aircraft,The object lasted in sight for about 10 to 15 seconds,The object disappeared suddenly as if the light was turned off,The sighting was reported to Salt Lake City air traffic control.",
+    "sighted object": "a brilliant white object",
+    "location": "Elko, Nevada, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "airline pilot and a flight engineer",
+    "contains photographs": true
 }

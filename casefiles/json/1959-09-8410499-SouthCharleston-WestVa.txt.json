@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright green object was observed to turn with a bright glow, then explode.",
-    "interesting points": [
-        "The object was evaluated as a meteor based on the characteristics of a ballistic observation.",
-        "The witness was a 14-year-old male who was watching the stars with a neighbor when he suddenly noticed the bright light.",
-        "The object shot forward, then stopped, before shooting forward again and disappearing behind the horizon.",
-        "The witness provided a hand-drawn diagram depicting a circular, bright green object with a bright yellow exhaust tail.",
-        "The witness estimated the object's size as being about the size of a 50-cent piece held at arm's length and described it as burning very bright green."
-    ],
-    "result": "unknown",
+    "main event": "A bright green object was observed turning with a bright glow, then exploded in South Charleston, West Virginia on September 25, 1952.",
+    "interesting points": "The object was reported to turn and glow brightly before exploding., The witness suspected the object might be a balloon based on its behavior., The weather during the observation was clear., The object was estimated to be about 10,000 feet away., The main witness was a 14-year-old male.",
     "sighted object": "bright green object",
-    "location": "South Charleston, West Virginia",
-    "witnesses": "1 witness, a 14-year-old male",
-    "photographs": "no"
+    "location": "South Charleston, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "14-year-old male",
+    "contains photographs": false
 }

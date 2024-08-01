@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian witness observed a low-altitude unidentified object over Dayton, Ohio on May 9, 1967.",
-    "interesting points": [
-        "The object was observed for 16 minutes.",
-        "The witness did not provide any details about the shape, size, color, or behavior of the object.",
-        "No photographs were taken of the object.",
-        "The report concludes with the note 'Nil', suggesting there was no further information or analysis provided.",
-        "The case was assigned the reference number 9077475 in the Project Blue Book records."
-    ],
-    "result": "unexplained",
-    "sighted object": "low-altitude unidentified object",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A witness observed a bright orange object in the sky for about 40 minutes, initially mistaking it for a star.",
+    "interesting points": "The object was very bright and orange in color,It did not disappear but was visible the entire observation time,The object was identified as possibly being Venus,The sighting lasted for approximately 40 minutes,There were multiple reports of UFOs from different witnesses in Dayton, Ohio.",
+    "sighted object": "a bright orange object in the sky",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Civilians who observed the object and reported it to the Air Force",
+    "contains photographs": false
 }

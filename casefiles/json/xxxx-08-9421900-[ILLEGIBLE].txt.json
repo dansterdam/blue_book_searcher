@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The report describes an unidentified aerial object observed by multiple witnesses.",
-    "interesting points": [
-        "The object was round, appeared to be about 25 feet in diameter, and had lights around the edge and a light in the center.",
-        "The object hovered about 50 feet above the ground before shooting straight up and disappearing.",
-        "The sighting was observed by approximately 15-20 people, both children and adults.",
-        "The object flashed for several seconds before disappearing.",
-        "No other details were provided about the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "round object with lights",
-    "location": "San Antonio City, Mexico",
-    "witnesses": "15-20 people, children and adults",
-    "photographs": "none"
+    "main event": "An unidentified flying object was reported on August 16, 1961, observed by a witness from a car who described it as a large plane-sized object with no visible wings or tail fins that emitted intense flashes of light.",
+    "interesting points": "The observer described a brilliant green flash and two smaller flashes from the object,The object was observed for about a minute before it sped off at incredible speed,The object was lit up from underneath, indicating some form of illumination,The witness found the object's movements and characteristics to be unordinary compared to known aircraft,The sighting occurred late at night around 11:00 p.m.",
+    "sighted object": "a large, plane-sized object with no visible wings or tail fins, emitting bright light",
+    "location": "unknown, possibly in a car near a populated area",
+    "number of confirmed witnesses": 2,
+    "witness description": "young individuals (specific details redacted)",
+    "contains photographs": false
 }

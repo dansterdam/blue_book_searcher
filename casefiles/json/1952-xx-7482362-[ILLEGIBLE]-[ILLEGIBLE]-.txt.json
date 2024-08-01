@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Project Blue Book investigations regarding unidentified aerial phenomena and sightings from various witnesses, compiled into reports for review.",
+    "interesting points": "The Air Material Command intends to close Project Blue Book as no further useful purpose can be served by investigations,The documents contain questionnaires aimed at standardizing reports of UFO sightings,There were mentions of unidentified objects changing speed, color, and direction during observations,Reports included descriptions of UFOs that were disc-shaped, luminous, and capable of rapid maneuvers,Several eyewitness accounts were noted where civilians reported objects with various shapes and colors observed in different locations.",
+    "sighted object": "unidentified flying objects",
+    "location": "various locations across the United States",
+    "number of confirmed witnesses": 6,
+    "witness description": "civilians, including at least one woman and several men",
+    "contains photographs": false
 }

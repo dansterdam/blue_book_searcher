@@ -1,15 +1,9 @@
 {
-    "main event": "A military radar detected an unidentified object over the Pacific Ocean on May 8, 1963.",
-    "interesting points": [
-        "The object was detected on radar moving at speeds up to 1,800 knots (over 2,000 mph) and between altitudes of 2,000 to 60,000 feet.",
-        "The radar track was established from coordinates 30-50N 169-00W to 34-20N 175-10W over a 25-minute period.",
-        "A visual sighting of the object was not obtained.",
-        "The radar contact was lost at 1955Z and no other reports were received.",
-        "The case was classified as Insufficient data to identify or classify after the investigation was completed."
-    ],
-    "result": "unidentified",
-    "sighted object": "unidentified object detected on radar",
-    "location": "Pacific Ocean, 30-50N 169-00W to 34-20N 175-10W",
-    "witnesses": "military radar operators",
-    "photographs": "no photographs included"
+    "main event": "A military report of a UFO sighting at high altitude over the Pacific Ocean on 29 May 1963.",
+    "interesting points": "The sighting lasted for 3 minutes and involved one object,The object was initially sighted at a high elevation and moved during the observation,The object faded and reappeared twice while it was being observed,It reached a maximum brightness equivalent to a second magnitude star,Weather conditions were noted as clear with no unusual phenomena.",
+    "sighted object": "one unidentified flying object",
+    "location": "Pacific Ocean, Unknown Region, Unknown Country",
+    "number of confirmed witnesses": 0,
+    "witness description": "military observers",
+    "contains photographs": false
 }

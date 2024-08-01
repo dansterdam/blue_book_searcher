@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot saw a brilliant flash of light that lit up the cockpit, then it disappeared.",
-    "interesting points": [
-        "The sighting was reported to be momentary.",
-        "The object was described as a single, very large, white light.",
-        "The report indicates the object was likely a meteor or shooting star.",
-        "The pilot was located about 20 nautical miles east of Tosi, New Mexico.",
-        "The weather conditions at the time were clear with calm surface winds."
-    ],
-    "result": "Possibly Astronomical",
-    "sighted object": "A brilliant flash of light",
-    "location": "20 nautical miles east of Tosi, New Mexico",
-    "witnesses": "Pilot",
-    "photographs": "No"
+    "main event": "A brilliant flash of light lit up the cockpit of an aircraft, then disappeared momentarily.",
+    "interesting points": "The sighting occurred on November 23, 1954,The event was momentary with one object observed,The report comments indicate the sighting may have been a meteor,The object's brightness was described as blinding,There were no photographs included in the report.",
+    "sighted object": "a brilliant flash of light",
+    "location": "Toexa, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "pilot or observers in the cockpit",
+    "contains photographs": false
 }

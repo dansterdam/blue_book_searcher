@@ -1,15 +1,9 @@
 {
-  "main event": "On November 23, 1949, a UFO report was filed for an incident on Santa Rosa Island, Florida. The report includes 2 photos.",
-  "interesting points": [
-    "The report includes photographic evidence of the UFO sighting.",
-    "Santa Rosa Island, Florida, was the location of the UFO incident.",
-    "The report is dated November 23, 1949, indicating an early documented UFO sighting.",
-    "The fact that 2 photos were included suggests a more detailed record of the sighting.",
-    "The specific location of Santa Rosa Island provides a geographical context for the UFO incident."
-  ],
-  "result": "unexplained",
-  "sighted object": "Unidentified Flying Object",
-  "location": "Santa Rosa Island, Florida",
-  "witnesses": "Not specified",
-  "photographs": "yes"
+    "main event": "A UFO report from Santa Rosa Island, Florida dated November 23, 1949.",
+    "interesting points": "The report was filed on November 23, 1949., The location of the sighting was Santa Rosa Island, Florida., There are 2 photos mentioned in the report., The context of the sighting is not detailed in the provided text., The report does not include any witnesses or descriptions aside from the location and date.",
+    "sighted object": "UFO",
+    "location": "Santa Rosa Island, Florida, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses or descriptions provided.",
+    "contains photographs": true
 }

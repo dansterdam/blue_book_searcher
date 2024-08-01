@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observations of reddish-orange objects with silvery surfaces that were hovering and moving erratically at high speeds in a West Virginia area.",
-    "interesting points": [
-        "The objects were reported to be typical of a series of UFOs observed in the area.",
-        "The objects were described as reddish-orange in color with silvery surfaces.",
-        "The objects were observed hovering and moving erratically at high speeds.",
-        "In 1961, a friend of the witness received a letter describing a sighting from 1957 of a metallic object about one mile in diameter that was circular in shape and made a high-pitched whining sound.",
-        "In June 1961, silver-colored, silvery discs of tin foil-like material were found in the woods in West Virginia."
-    ],
-    "result": "unclassified",
-    "sighted object": "reddish-orange objects with silvery surfaces",
-    "location": "West Virginia",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "yes"
+    "main event": "A report detailing sightings of unidentified flying objects over Mount Zion, West Virginia, in November 1957 and June 1961.",
+    "interesting points": "Reddish-orange objects with silvery surfaces observed hovering and moving erratically at high speeds., The object in November 1957 was reported to be about one mile in diameter and circular in shape., The objects were speculated to be training materials dropped by the Air Force., The behavoir of the objects included a high-pitched whining sound during the observation., The report involved correspondence with an Astro Intelligence Officer regarding the sightings.",
+    "sighted object": "reddish-orange objects and a metallic object",
+    "location": "Mount Zion, West Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Several civilian witnesses noted in the report.",
+    "contains photographs": false
 }

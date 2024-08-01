@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A captain reported seeing a single object that appeared to be a balloon for about 12 minutes over Norfolk, Virginia in 1952.",
-    "interesting points": [
-        "The object was initially traveling on a 270-degree course, then made a 90-degree turn.",
-        "The object was estimated to be at an altitude of 35,000 feet.",
-        "The report notes that the object was 'apparently a balloon' and the sighting was concluded as such.",
-        "The second page of the report contains coded text that appears to be related to another UFO sighting, but no additional details are provided.",
-        "The report is marked as 'UNCLASSIFIED' and indicates it was 'DOWNGRADED AT 3 YEAR INTERVAL; DECLASSIFIED AFTER 12 YEARS.'"
-    ],
-    "result": "balloon",
-    "sighted object": "single object that appeared to be a balloon",
-    "location": "Norfolk, VA",
-    "witnesses": "Capt. Thomas W. Robertson",
-    "photographs": "none"
+    "main event": "A UFO sighting report from Project Blue Book detailing a visual observation of a balloon on September 22, 1952.",
+    "interesting points": "The observation lasted for 12 minutes,The object changed course from 270 degrees to 90 degrees,The sighting was reported by Captain Thomas W. Robertson,The estimated altitude of the object was 35,000 feet,No photographs were included in the report.",
+    "sighted object": "one balloon",
+    "location": "Norfolk, VA, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain Thomas W. Robertson",
+    "contains photographs": false
 }

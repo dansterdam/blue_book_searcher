@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three witnesses, including two high school students, reported seeing a metallic, cigar-shaped object in the sky in Mt. Clemens, Michigan on January 11, 1967.",
-    "interesting points": [
-        "The object was described as hovering and later accelerating rapidly and disappearing from sight.",
-        "The report includes 14 photos, but the majority of them are blurry or abstract patterns without any clear identifiable objects.",
-        "The report was filed as part of Project Blue Book, the US Air Force's investigation into unidentified flying objects.",
-        "The report indicates the sighting occurred on a clear day at 4:30 PM.",
-        "While the report mentions three witnesses, no further details about them are provided."
-    ],
-    "result": "unexplained",
+    "main event": "Three witnesses reported seeing a metallic, cigar-shaped object in the sky in Mt. Clemens, Michigan.",
+    "interesting points": "The object was described as hovering and later accelerated rapidly,The sighting occurred on January 11, 1967, at 1630,Weather conditions were clear during the sighting,The witnesses included two high school students,No further details about the object were provided in the report.",
     "sighted object": "metallic, cigar-shaped object",
-    "location": "Mt. Clemens, Michigan",
-    "witnesses": "three, including two high school students",
-    "photographs": "yes, 14 photos included, but majority are blurry or abstract"
+    "location": "Mt. Clemens, Michigan, USA",
+    "number of confirmed witnesses": 3,
+    "witnesses": "two high school students and one additional witness",
+    "photographs": false
 }

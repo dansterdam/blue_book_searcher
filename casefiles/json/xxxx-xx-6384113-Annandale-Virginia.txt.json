@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A spherical shaped unidentified object was observed flying above and beyond a commercial aircraft headed in a westerly direction in the vicinity of Annandale, Virginia.",
-    "interesting points": [
-        "The object appeared to be smaller than a dime and was observed for 30 to 45 seconds.",
-        "No aerodynamic features or trail/exhaust were noticed on the object.",
-        "The object appeared to move somewhat faster than the aircraft at a fairly high altitude.",
-        "No maneuvers were observed with the object.",
-        "The sighting was made by a clergy employee at the Department of Labor."
-    ],
-    "result": "possibly astronomical",
+    "main event": "A spherical shaped unidentified object was observed flying above and beyond commercial aircraft near Annandale, Virginia.",
+    "interesting points": "The object was observed for thirty to forty-five seconds,The object appeared to be smaller than a dime,No aerodynamic features or exhaust trails were noted,The object seemed to move somewhat faster than the aircraft at a fairly high altitude,Witnessing occurred from the left front window of an automobile traveling south on Columbia Pike.",
     "sighted object": "spherical shaped unidentified object",
-    "location": "Annandale, Virginia",
-    "witnesses": "clergy employee at the Department of Labor",
-    "photographs": "no"
+    "location": "Annandale, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an assistant director at the Department of Labor",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observed light green object which approached and disappeared at Tyndall AFB, Florida on October 5, 1962.",
-    "interesting points": [
-        "The object was described as a light green object that approached and then disappeared.",
-        "The brightness of the object decreased as it climbed steeply and descended to a low altitude, before disappearing behind cloud coverage.",
-        "The report concluded that the sighting was likely a meteor based on the description and characteristics of the object.",
-        "The object was tracked to be due north of the two observers, indicating it was likely at a considerable distance.",
-        "The sighting occurred at 23:23:57Z during dusk conditions."
-    ],
-    "result": "Possible meteor sighting",
-    "sighted object": "Light green object",
-    "location": "Tyndall AFB, Florida",
-    "witnesses": "SSgt Charles Tolton, AIC James A. Steele, Capt (pilot)",
-    "photographs": "No"
+    "main event": "A light green object was observed descending and then disappeared, likely a meteor sighting.",
+    "interesting points": "The object approached and its brightness decreased as it climbed steeply,The sighting is attributed to cloud coverage causing the object's disappearance,Military personnel reported the sighting,The report suggests it was likely a meteor based on the object's characteristics,The observation lasted approximately five seconds.",
+    "sighted object": "light green object",
+    "location": "Tyndall AFB, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Charles Toltron, SSgt, USAF and James A. Steele, AIC, both described as very reliable",
+    "contains photographs": false
 }

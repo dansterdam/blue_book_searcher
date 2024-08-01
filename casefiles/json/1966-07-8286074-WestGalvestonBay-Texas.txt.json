@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A strange, brightly lit object was observed in the sky over West Galveston Bay, Texas on July 5-6, 1966.",
-    "interesting points": [
-        "The object moved at varying speeds, from 15-20 knots initially down to around 5 knots near the southwest horizon.",
-        "The object was accompanied by a smaller companion object that appeared and disappeared intermittently, indicating a flashing or intermittent light.",
-        "The observer noted that the light from the object washed out the surrounding stars, creating a dome-like effect.",
-        "A second, conglomerate of light was observed in the northern sky, which the observer determined was likely a star based on its behavior relative to other celestial objects.",
-        "The observer described the object as silent and exhibiting no trail or exhaust."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a large, brightly lit object in the sky, accompanied by a smaller companion object",
-    "location": "West Galveston Bay, Texas",
-    "witnesses": "civilian observers, including the observer's sons",
-    "photographs": "no"
+    "main event": "A civilian sighting of a large, brightly lit object in West Galveston Bay for about 60 minutes on July 5-6, 1966.",
+    "interesting points": "The object exhibited no sound and had no visible trail or exhaust., It appeared to wash out nearby stars, creating a dome-like effect around it., A smaller companion object appeared intermittently, emitting a flashing light., The observation took place under clear skies with thin scattered clouds., The sighting was reported to the authorities, leading to further investigation by Project Blue Book.",
+    "sighted object": "a large, brilliantly lighted object",
+    "location": "West Galveston Bay, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "the observer and their sons",
+    "contains photographs": false
 }

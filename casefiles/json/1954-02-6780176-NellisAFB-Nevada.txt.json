@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observed several bright stationary or tumbling silver or translucent objects at Nellis AFB, Nevada on February 23, 1954.",
-    "interesting points": [
-        "The objects were observed at an elevation of about 30 degrees in the east, and disappeared at an elevation of 22 to 25 degrees.",
-        "The objects could not be described as anything other than unidentified flying objects.",
-        "The report mentions that a scrambled M/C (military aircraft) could not close in on the objects.",
-        "The report states that there was insufficient data to evaluate the nature of the objects.",
-        "The report includes detailed wind and weather conditions at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "Several bright, stationary or tumbling silver/translucent objects",
-    "location": "Nellis AFB, Nevada",
-    "witnesses": "Military personnel",
-    "photographs": "no"
+    "main event": "Several bright stationary or tumbling silver or translucent objects were observed on February 23, 1954.",
+    "interesting points": "The sighting lasted for 7 minutes,The objects were at an elevation of about 30 degrees,There were multiple parts to the report detailing the characteristics and trajectory of the objects,The sighting included radar reports confirming the observation,The observer could not close in on the objects as they scrambled a military aircraft.",
+    "sighted object": "bright stationary or tumbling silver or translucent objects",
+    "location": "Nellis AFB, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "USAF personnel observing from Nellis AFB",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report provided:
-
 {
-    "main event": "A GOC observer reported seeing an object with the appearance of an elongated star, flat on top, changing from red to green, in Crivits, Wisconsin on November 23, 1957.",
-    "interesting points": [
-        "The object was stationary.",
-        "The report notes that when stars or astronomical bodies are observed through haze, fog, clouds, or mist, they can appear to move, scintillate, and change color.",
-        "The report concludes that the sighting was probably of an astronomical object.",
-        "The sighting lasted for 5 minutes.",
-        "The report mentions that an F-87S aircraft was in the area at 28,000 feet at the time of the sighting."
-    ],
-    "result": "probably astronomical",
-    "sighted object": "an elongated star-like object, flat on top, changing from red to green",
-    "location": "Crivits, Wisconsin",
-    "witnesses": "GOC observer",
-    "photographs": "no"
+    "main event": "On 23 November 1957, an observer reported seeing a stationary object in Crivits, Wisconsin, which appeared to have the shape of an elongated star and changed colors from red to green.",
+    "interesting points": "The observation lasted for 5 minutes., The object was described as flat on top and elongated in shape., The changing colors of the object were noted as red to green., Visibility conditions included haze, which may have affected the appearance of the object., The conclusion reached was that the sighting was probably astronomical.",
+    "sighted object": "elongated star-like object changing colors",
+    "location": "Crivits, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "S/SGT Bresnahan, GOC observer",
+    "contains photographs": false
 }

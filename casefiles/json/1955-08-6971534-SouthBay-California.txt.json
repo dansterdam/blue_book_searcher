@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A silver, disc-shaped object, the size of a grapefruit held at arm's length, was observed hovering in the sky for about 30 seconds in South Bay, California on August 9, 1955.",
-    "interesting points": [
-        "The object did not make any noise.",
-        "The observer's age may have limited their knowledge of readily identifiable objects.",
-        "The observed object gave the appearance of a disc-shaped jet, leading to the conclusion that it was a conventional aircraft.",
-        "The report mentions heavy traffic in the San Diego area at the time of the sighting.",
-        "The report was reviewed by a senior director, 1st Lt. James D. Bunch, who noted the age of the observer as a factor."
-    ],
-    "result": "unexplained",
-    "sighted object": "silver, disc-shaped object",
-    "location": "South Bay, California",
-    "witnesses": "one observer, a student",
-    "photographs": "no"
+    "main event": "On August 9, 1955, an observer spotted a silver disc-shaped object hovering in the sky for about 30 seconds.",
+    "interesting points": "The object was the size of a grapefruit held at arm's length., The observer described the object as making no noise., The object appeared to have a disc-shaped appearance similar to a jet., The sighting lasted approximately 30 seconds before the object flew out of sight., Heavy traffic was noted in the San Diego area at the time of the sighting.",
+    "sighted object": "a silver disc-shaped object",
+    "location": "South Bay, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 12-year-old student",
+    "contains photographs": false
 }

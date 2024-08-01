@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, glowing, disc-shaped object was observed by multiple witnesses near Pacific Grove, California on October 6, 1962.",
-    "interesting points": [
-        "The object was approximately 30 feet in diameter and glowing white.",
-        "The object moved at an estimated speed of 1200 mph with no sound.",
-        "The object was observed pacing an aircraft for a short time before accelerating and disappearing.",
-        "The witness had observed similar objects in the same area in June and August of the same year.",
-        "The report states the object was unlike anything the witness had ever seen before and was not an aircraft, satellite, or any other known object."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright, glowing, disc-shaped object",
-    "location": "Near Pacific Grove, California",
-    "witnesses": "Multiple witnesses, including the reporting officer",
-    "photographs": "No photographs included in the report"
+    "main event": "Multiple sightings of unidentified flying objects were reported in Pacific Grove, California, on various occasions in October 1962.",
+    "interesting points": "A lighted object was observed at about 1000 ft moving at an estimated speed of 200 mph,The object was approximately 40 to 50 ft in diameter and circular in shape, emitting a bright glow,The sighting occurred under similar circumstances on at least two previous occasions,One report involved about 30 witnesses who confirmed the sighting of a glowing white disc-shaped object,The object's speed was estimated at 1200 mph, significantly surpassing that of conventional aircraft.",
+    "sighted object": "glowing disc-shaped object",
+    "location": "Pacific Grove, California, USA",
+    "number of confirmed witnesses": 30,
+    "witness description": "witnesses included a captain of firemen and civilians during different sightings",
+    "contains photographs": false
 }

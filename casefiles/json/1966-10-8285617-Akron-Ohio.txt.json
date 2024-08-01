@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observer noted a moon-like object in the sky in mid-October 1966. The object did not display any motion while it was observed, and the observer assumed it to be the moon.",
-    "interesting points": [
-        "The observer noted the object for around 5 minutes.",
-        "The observer filled out a detailed questionnaire about the sighting, including questions about the object's appearance, movement, and location.",
-        "The Air Force was unable to reach a valid conclusion about the sighting and requested the observer provide more data, such as the object's altitude, azimuth, and flight characteristics.",
-        "The report indicates this was part of Project Blue Book, the Air Force's official investigation into UFO sightings.",
-        "The report includes extensive questions about the sighting, suggesting the Air Force was taking these reports seriously and trying to gather as much information as possible."
-    ],
-    "result": "inconclusive",
+    "main event": "A civilian observed a stationary object in the sky which was assumed to be the moon, lasting for about 5 minutes.",
+    "interesting points": "The observation took place in mid-October 1966, The object did not move during the observation period, No physical evidence was reported, The observer noted a moon-like appearance but there was uncertainty, The report was submitted to Project Blue Book for further evaluation.",
     "sighted object": "a moon-like object",
-    "location": "unknown",
-    "witnesses": "a civilian observer",
-    "photographs": "no"
+    "location": "Akron, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

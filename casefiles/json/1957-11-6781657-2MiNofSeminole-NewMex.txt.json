@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report text provided:
-
 {
-    "main event": "Two police officers in Seminole, New Mexico observed an unknown object in the sky for 20-25 minutes in November 1957.",
-    "interesting points": [
-        "The object was described as a pulsating red light, suggesting it may have been an aircraft.",
-        "The object was observed at various altitudes ranging from 5,000 feet to 52,000 feet, traveling at speeds up to 43 knots.",
-        "The object made a straight course and disappeared all at once.",
-        "The observers were members of the Seminole, New Mexico police department.",
-        "No photographs were taken of the object."
-    ],
-    "result": "unexplained",
+    "main event": "A pulsating red light was observed over Seminole, New Mexico in November 1957.",
+    "interesting points": "The sighting lasted for about 20.25 minutes,The reported object was described as very fast and pulsating in nature,Observers later sighted 4 or 5 aircraft in the westerly direction,The sighting was conducted at night with clear visibility conditions,The report suggested that the observed object might have been an aircraft.",
     "sighted object": "pulsating red light",
-    "location": "Seminole, New Mexico",
-    "witnesses": "two police officers",
-    "photographs": "none"
+    "location": "Seminole, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "connected with the police department of Seminole, N MEX",
+    "contains photographs": false
 }

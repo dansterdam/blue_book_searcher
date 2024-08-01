@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single white object was observed in the sky near Kettering, Ohio on July 15, 1965 for about 0.75 minutes.",
-    "interesting points": [
-        "The object appeared solid and was brighter than the background stars.",
-        "The object moved in a straight course and did not appear to change brightness, color, or make any sudden movements.",
-        "The observer was unsure about the exact speed and distance of the object.",
-        "The observer did not hear any sound coming from the object.",
-        "There were no photographs taken of the object."
-    ],
-    "result": "Probable (Ohio To)",
-    "sighted object": "A single white object in the sky",
-    "location": "Kettering, Ohio",
-    "witnesses": "1 observer",
-    "photographs": "None"
+    "main event": "An unidentified object was observed in Kettering, Ohio on July 15, 1965 at 2030/32 hours.",
+    "interesting points": "The sighting lasted approximately 45 seconds, The object was reported to move in a straight course, No photograph was taken, The report is from a Project Blue Book questionnaire, Physical evidence was noted but details were not specified.",
+    "sighted object": "Unidentified object",
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer No. 1 provided a visual observation.",
+    "contains photographs": false
 }

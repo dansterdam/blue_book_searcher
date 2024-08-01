@@ -1,15 +1,9 @@
 {
-    "main event": "On 13 March 1955, military pilots observed a silvery object the size of a weather balloon at an altitude of 20,000 feet over Salton Sea, California. The object seemed to accelerate and disappeared from sight in about 3 minutes, with an estimated speed of 251 knots at 43,000 feet.",
-    "interesting points": [
-        "The sighting was reported by military pilots of a DC-7 airliner flying at 20,000 feet.",
-        "The object was initially compared to the size of a weather balloon.",
-        "The estimated speed of the object was 251 knots at 43,000 feet.",
-        "The sighting lasted for about 3 minutes before the object disappeared from sight.",
-        "The report lists possible conclusions including 'was aircraft', 'probably balloon', and 'possibly aircraft'."
-    ],
-    "result": "Possibly Aircraft",
-    "sighted object": "One silvery object the size of a weather balloon",
-    "location": "Salton Sea, California",
-    "witnesses": "Military pilots",
-    "photographs": "No"
+    "main event": "On 13 March 1955, pilots observed a silvery object resembling a weather balloon while flying over Salton Sea, California.",
+    "interesting points": "The object was seen at an altitude of 20,000 feet,The pilots estimated the object's speed to be around 251 knots at 43,000 feet,The sighting lasted approximately 3 minutes before the object disappeared,The source of the report was from military pilots,Several possible explanations were given for the sighting including balloon or aircraft.",
+    "sighted object": "one silvery object the size of a weather balloon",
+    "location": "Salton Sea, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military pilots of a DC-7 airliner",
+    "contains photographs": false
 }

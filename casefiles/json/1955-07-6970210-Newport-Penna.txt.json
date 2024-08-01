@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A flash of light was observed off and on for 15-20 minutes in Lees, Pennsylvania.",
-    "interesting points": [
-        "The Air Technical Intelligence Center (ATIC) investigated the sighting and found two possible causes, but could not locate the objects after an extensive search.",
-        "The report indicates that the sighting was classified as 'Unknown' due to insufficient data for evaluation.",
-        "The sighting was recorded on a Project Blue Book Record Card, part of the United States Air Force's systematic study of unidentified flying objects.",
-        "The report mentions a reference to a previous incident from June 3, 1953 (Ref: 3Prjun-3-53; ATIC #22397).",
-        "The report does not mention any photographs being taken, despite the 'Yes' box being checked on the form."
-    ],
-    "result": "unknown",
-    "sighted object": "a flash of light",
-    "location": "Lees, PA",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported on July 20, 1955, which involved a flash that turned off and on.",
+    "interesting points": "The sighting lasted 15-20 minutes., There were multiple conclusions drawn about the sighting including balloon, aircraft, and astronomical explanations., The objects could not be located after an extensive search., The investigation was conducted by ATIC (Air Technical Intelligence Center)., There is reference documentation on file related to the case.",
+    "sighted object": "unknown flash in the sky",
+    "location": "Lees, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified in the document",
+    "contains photographs": false
 }

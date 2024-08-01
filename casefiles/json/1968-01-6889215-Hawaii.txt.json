@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "A military air traffic controller spotted a bright, round white object in the sky over Hawaii on January 8, 1968.",
-    "interesting points": [
-        "The object appeared to be the size of a dime and was similar in brightness to a penlight held at arm's length.",
-        "The object climbed rapidly, varied in intensity from bright to dim, and zig-zagged from side to side like a helicopter.",
-        "The object was observed through a theodolite by multiple weather personnel, who confirmed it was not a star.",
-        "The object was first spotted at 15 degrees above the horizon at 090 degrees from Johnston Island, and climbed to 45 degrees above the horizon.",
-        "The sighting lasted for over 2 hours, with the object periodically disappearing and reappearing."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round white object",
-    "location": "Johnston Island, Hawaii",
-    "witnesses": "military air traffic controllers",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in Hawaii on January 5, 1969, resembling a landing light at around 10 miles in altitude, rising vertically before disappearing.",
+    "interesting points": "The observation lasted for 2 hours and 25 minutes., The object changed in brightness, appearing to glow and then fade., The observer was an Air Traffic Controller., The conclusion drawn from the sighting was that the object was likely planet Jupiter., The sighting involved only one confirmed witness.",
+    "sighted object": "a bright round object resembling a landing light",
+    "location": "Hawaii, Hawaii, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Air Traffic Controller for five and a half years, identified as SSgt Donald E. Ellis.",
+    "contains photographs": false
 }

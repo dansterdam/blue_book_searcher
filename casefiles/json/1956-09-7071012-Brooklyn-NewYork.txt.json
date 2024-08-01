@@ -1,15 +1,9 @@
 {
-	"main event": "Multiple civilian observers reported three separate sightings of bright round yellow objects in the night sky in Brooklyn, New York on 30 September 1956.",
-	"interesting points": [
-		"The objects were described as round, larger than a half dollar, with one white and one red, and two ran with one slightly larger.",
-		"The objects appeared to move, stop, and then speed away, with a high-pitched hiss sound reported by the observers.",
-		"The sightings lasted for about one minute, with the first sighting being at 21:30:52 and the following sightings occurring within seconds of each other.",
-		"The observers included a salesman and a student with a camera, and the report was received at Wright Patterson AFB in Ohio.",
-		"Witnesses reported a similar sighting the night before, and it was mentioned that other kids in the neighborhood had seen similar sightings."
-	],
-	"result": "Possibly Aircraft",
-	"sighted object": "three bright round yellow objects in the night sky",
-	"location": "Brooklyn, New York",
-	"witnesses": "Civilians, including a salesman and a student with a camera",
-	"photographs": "Yes"
+    "main event": "Civilians reported seeing two objects in the sky over Brooklyn, New York on September 30, 1956, but insufficient data indicates they were likely aircraft.",
+    "interesting points": "The sighting lasted approximately 1 minute,The observer described one object larger than the size of Mars and another the size of a pinhead,One object was bluish white and the other was yellowish white,The first sighting was heading SW, followed by a NE trajectory for the second sighting,The report concludes there was insufficient data to classify the objects definitively.",
+    "sighted object": "two objects in the sky",
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "salesman and student",
+    "contains photographs": false
 }

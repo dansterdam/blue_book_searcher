@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "One ball-shaped, bright silvery-white object was observed descending in Tullahoma, Tennessee in 1952.",
-    "interesting points": [
-        "The object appeared to be descending.",
-        "The length of the observation was unknown.",
-        "No report was found in the file.",
-        "The conclusions listed multiple possibilities such as balloon, aircraft, or astronomical object.",
-        "The report was a Project 10073 record card with various fields filled out."
-    ],
-    "result": "inconclusive",
-    "sighted object": "one ball-shaped, bright silvery-white object",
-    "location": "Tullahoma, Tennessee",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "One bright silvery white ball shaped object was observed descending in Tullahoma, Tennessee.",
+    "interesting points": "The sighting occurred on 9 November 1957,The observation was categorized as Ground-Visual,The number of objects sighted was one,The source of the observation was civilian,The conclusions suggest the object could be a balloon, aircraft, or astronomical phenomenon.",
+    "sighted object": "one ball shaped object",
+    "location": "Tullahoma, Tennessee, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian",
+    "contains photographs": false
 }

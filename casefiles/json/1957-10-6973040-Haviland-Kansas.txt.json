@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Crew of missile support objects, 3 red objects, due west, reddish, lights, no exhaust, no sound were observed for 30 minutes.",
-    "interesting points": [
-        "The objects appeared to 'motion irregular and dance' as they moved north and disappeared over the horizon.",
-        "The objects were described as half moon round, with a bright light on the east edge.",
-        "The report includes information about the time, location, duration, and number of objects observed.",
-        "The report provides a detailed description of the objects' appearance and movement.",
-        "The conclusions section lists various possible explanations for the sighting, including balloon, astronomical, and aircraft."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Three red, reddish objects with lights and no exhaust or sound",
-    "location": "Haviland, Kansas",
-    "witnesses": "Civilian crew",
-    "photographs": "None"
+    "main event": "Crew of missile support objects observed 3 reddish lights in the sky over Haviland, Kansas.",
+    "interesting points": "The objects were described as having no exhaust and making no sound., They appeared to move irregularly and danced as they moved., The observation lasted for approximately 30 minutes., The objects were described as half-moon shaped with a bright light on the east edge., The report concluded the sightings were insufficient for further evaluation.",
+    "sighted object": "three reddish lights in the sky",
+    "location": "Haviland, Kansas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Farmers in the area",
+    "contains photographs": false
 }

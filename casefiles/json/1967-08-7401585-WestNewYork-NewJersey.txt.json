@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was observed over West New York, New Jersey on August 7, 1967.",
-    "interesting points": [
-        "The object was described as a bright light or a 'red object resembling a balloon' that was observed crossing the sky from the northwest to the northeast.",
-        "The object was reportedly seen for about 1 minute and estimated to be at an altitude of 5,000 feet.",
-        "Multiple witnesses reported seeing the object, including civilians and the West New York Police Department.",
-        "Photographs were taken of the object, but the copies provided were of poor quality and could not be properly analyzed.",
-        "After investigation, the sighting was eventually classified as a hoax or prank."
-    ],
-    "result": "hoax/prank",
-    "sighted object": "bright light, red object resembling a balloon",
-    "location": "West New York, New Jersey",
-    "witnesses": "civilians, West New York Police Department",
-    "photographs": "yes, but poor quality"
+    "main event": "An unidentified object was sighted and photographed in West New York, New Jersey on August 7, 1967.",
+    "interesting points": "The object was described as green and classified as 'Other (UNAY)',The sighting lasted approximately 5-9 minutes,The observer reported photographing the object but the photographic quality was deemed poor,The object was described as having erratic and zigzag movements,Additional reports indicated multiple witnesses saw a very bright object with a reddish glow on the same night.",
+    "sighted object": "one unidentified object",
+    "location": "West New York, New Jersey, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "The witnesses reported seeing a very bright object with a reddish glow, and included at least one police officer's observation.",
+    "contains photographs": true
 }

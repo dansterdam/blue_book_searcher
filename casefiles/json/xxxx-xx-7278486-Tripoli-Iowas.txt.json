@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness reported observing a bright light in the sky over Tripoli, Iowa that seemed to be the size of a football and changed colors between yellow, blue, and white.",
-    "interesting points": [
-        "The witness used binoculars to observe the object, which seemed to move away and then closer several times, with the light alternating between dim and bright.",
-        "The object was observed for about 20 minutes before disappearing in the distance.",
-        "The witness was a 63-year-old Justice of the Peace who had some knowledge of meteorology and astronomy.",
-        "Weather conditions at the time were fair with many stars visible, and nearby weather observations showed no unusual aerial phenomena.",
-        "The report concludes that the object was likely a star and the color changes were due to a prismatic effect caused by the binocular lenses."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright light in the sky, the size of a football, that changed colors between yellow, blue, and white",
-    "location": "Tripoli, Iowa",
-    "witnesses": "a 63-year-old Justice of the Peace",
-    "photographs": "none"
+    "main event": "An observer in Tripoli, Iowa reported seeing a bright object resembling a football, accompanied by the sound of an idling plane.",
+    "interesting points": "The object appeared to change colors between yellow and white,The observation was made under clear night conditions with many stars visible,The observer used binoculars to view the object,The sighting lasted for approximately twenty minutes,The object was thought to have no distinguishing features or exhaust.",
+    "sighted object": "a bright object resembling a football",
+    "location": "Tripoli, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "J.N. Hayden, 63, Justice of the Peace with knowledge of meteorology and astronomy",
+    "contains photographs": false
 }

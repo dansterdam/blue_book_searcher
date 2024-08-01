@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, white circular object was observed over Bunker Hill AFB, Indiana for approximately 3 hours on October 8, 1959.",
-    "interesting points": [
-        "The object was observed by both military and civilian personnel at the base.",
-        "The object appeared to move slightly from east to west and rise in altitude over the course of the observation.",
-        "An F-89 aircraft from the 319th FIS was scrambled to investigate the object, but was unable to locate it.",
-        "The object was initially estimated to be between the size of a pea and a dime held at arm's length.",
-        "The object was reported to change color from bright white to light blue-green at times."
-    ],
-    "result": "Possibly Balloon, Possibly Astronomical",
-    "sighted object": "A bright, white, circular object",
-    "location": "Bunker Hill AFB, Indiana",
-    "witnesses": "Military and civilian personnel at the base",
-    "photographs": "None"
+    "main event": "A bright object, possibly a balloon or a star, was observed at Bunker Hill AFB, Indiana on October 8 and 10, 1959.",
+    "interesting points": "The observation was made from the Bunker Hill AFB control tower and involved multiple military personnel., Observers described the object as a bright light that changed colors and was moving in an erratic manner., One of the F-102 pilots reported that the object looked like a star due to atmospheric conditions., Another witness observed a formation of 9 pinpoint lights traveling at high speed across the horizon., The investigation concluded the object was likely a star or balloon based on analysis from various observers.",
+    "sighted object": "a bright white light of circular shape",
+    "location": "Bunker Hill AFB, Indiana, USA",
+    "number of confirmed witnesses": 8,
+    "witness description": "military personnel including Major Frank S Kerchner, Captain John D Shoffstall and T/SGT Lee E Collins",
+    "contains photographs": false
 }

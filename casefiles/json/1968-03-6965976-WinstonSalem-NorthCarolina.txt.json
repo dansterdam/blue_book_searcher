@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A disc-shaped object about 20 ft by 30 ft was sighted near Winston-Salem, North Carolina, that glowed and changed colors between red, white, and green.",
-    "interesting points": [
-        "The object had no windows but was glowing.",
-        "The object was sighted repeatedly over a 3-month period.",
-        "Sixth-grade students in a school class also reported seeing similar objects in the sky.",
-        "The sightings were widely reported in the local media, including interviews with the observers.",
-        "Radar operators and military personnel were involved in investigating the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped object about 20 ft by 30 ft that glowed and changed colors",
-    "location": "Winston-Salem, North Carolina",
-    "witnesses": "observer, sixth-grade students, radar operators, military personnel",
-    "photographs": "none"
+    "main event": "An observer in Winston Salem, North Carolina reported repeated sightings of a glowing disc-shaped object measuring about 20 ft by 30 ft, which changed colors and had no windows.",
+    "interesting points": "The glowing object changed colors between red, white, and green., The observer noted repeated sightings over the last three months., The sightings occurred just before dawn with a duration of around 15 seconds., The observers were 6th grade students who had been discussing UFOs in class., A local TV interviewed the observers and teachers about the sightings.",
+    "sighted object": "glowing disc-shaped object without windows",
+    "location": "Winston Salem, North Carolina, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "6th grade students in a classroom setting",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a white hot light traveling at a high rate of speed from northeast to southwest in West Virginia in 1966.",
-    "interesting points": [
-        "The object was described as being saucer-shaped and very large, like the size of a house.",
-        "The object had a small dome visible on the top portion and emitted a bright beam of white light from the bottom that illuminated the ground beneath it.",
-        "The object appeared to be turning counter-clockwise.",
-        "The witness was able to observe the object for less than one minute.",
-        "The witness's description of the object may match reports of a high-performance aircraft with landing or taxi lights illuminated."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, saucer-shaped object emitting a bright light",
-    "location": "Lewisburg, West Virginia",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no"
+    "main event": "Observers reported seeing a blue-white light traveling at a high speed leaving a blue-white trail, initially thought to be a meteor.",
+    "interesting points": "The sighting lasted between 3 to 10 seconds., One observer heard a hissing sound associated with the object., A small-like mass was reportedly detached from the main object during the sighting., The Quadrantid meteor shower coincided with the sighting date., The object was observed moving without any air or engine noise.",
+    "sighted object": "blue-white light",
+    "location": "Pennsylvania, Virginia and New York",
+    "number of confirmed witnesses": 0,
+    "witness description": "Observers were likely civilians.",
+    "contains photographs": false
 }

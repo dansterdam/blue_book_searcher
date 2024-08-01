@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright star-like object, yellow-blue in color, with a long trail that of a shooting star was observed in the sky over Concord, Vermont.",
-    "interesting points": [
-        "The object burned out before 20 seconds had elapsed.",
-        "The object fell in a north to south elliptic path.",
-        "The weather was clear at the time of the sighting.",
-        "The sighting was made by a ground-visual observer.",
-        "The sighting was concluded to be a meteor or possibly a balloon."
-    ],
-    "result": "Possibly Meteor; Possibly Balloon",
-    "sighted object": "one bright star-like object",
-    "location": "Concord, Vermont",
-    "witnesses": "ground-visual observer",
-    "photographs": "no photographs included"
+    "main event": "On 9 November 1962, a bright star-like object was observed in Concord, Vermont, with a long trail resembling a shooting star.",
+    "interesting points": "The object was yellow-blue in color and observed for 10 seconds,The object fell from North to South in an elliptic path,The weather was clear during the sighting,There was speculation about the nature of the object being a meteor or a balloon,The observation was made via ground radar and visually confirmed.",
+    "sighted object": "one very bright star-like object",
+    "location": "Concord, Vermont, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. George A. from Concord, Mass",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A yellow or orange object the size of a basketball was observed traveling in a straight line from NW to SE in Buffalo, New York on 6-30-57.",
-  "interesting points": [
-    "The object was observed for approximately 30 seconds.",
-    "The observation was made by a civilian source.",
-    "The object's speed was too fast for instrumentation data to provide conclusive evidence.",
-    "The sighting was categorized as a Ground-Radar observation.",
-    "The object was later identified as an ATIC P2P T64 and sent to Eglin AFB for further analysis."
-  ],
-  "result": "unexplained",
-  "sighted object": "yellow or orange object the size of a basketball",
-  "location": "Buffalo, New York",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "One yellow or orange object the size of a basketball was observed traveling in a straight line from NW to SE.",
+    "interesting points": "The observation lasted for about 5 seconds., The object was identified as a potential ATIC P2P T64., The speed of the object was too fast for instrumentation data., The observation was made using multiple types of radar and visual methods., There is no photographic evidence present in the report.",
+    "sighted object": "one yellow or orange object",
+    "location": "Buffalo, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

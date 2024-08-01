@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report text:
-
 {
-    "main event": "A bright, white object was sighted in the sky, appearing to fall vertically with a bright streak trailing behind it.",
-    "interesting points": [
-        "The object appeared distinctly bright, but not brightly colored.",
-        "The edges of the streak appeared fuzzy, and it seemed like some substance could be seen boiling off.",
-        "The shape of the object was a bright fireball tailed by a bright streak extending approximately 2 lengths of arc.",
-        "The object did not disappear behind surface obstructions, but apparently burned out.",
-        "The sighting lasted for 2 to 3 minutes."
-    ],
-    "result": "Meteor",
-    "sighted object": "A bright, white object with a bright streak trailing behind it",
-    "location": "Illinois, Ohio",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "A witness reported seeing a bright white object with an orange tail, identified as a fireball (meteor), for approximately 2-3 seconds.",
+    "interesting points": "The sighting occurred on March 14, 1965, in Illinois,Ohio.,The object was observed visually from the ground.,The witness described the object as having an orange tail.,The object was classified as a meteor after analysis.,No photographs were included with the report.",
+    "sighted object": "one bright white object with an orange tail",
+    "location": "Gibson City, Illinois, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "John Diet, who observed the object while driving.",
+    "contains photographs": false
 }

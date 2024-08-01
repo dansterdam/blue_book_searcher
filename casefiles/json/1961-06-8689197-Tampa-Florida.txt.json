@@ -1,15 +1,9 @@
 {
-    "main event": "Several civilian witnesses and military radar operators sighted a bright, maneuverable object on June 3, 1961 over the Tampa, Florida area.",
-    "interesting points": [
-        "The object was described as a star-like object, blueish-red in color changing to white, and about the size of a star but much brighter.",
-        "The object was observed on a southeast course at a very high altitude and was seen nightly in the same general area.",
-        "Radar tracked the object at an altitude of around 30,000 feet, with the object appearing to move up and down.",
-        "An F-102 fighter was scrambled to intercept the object, but experienced electronic countermeasures (ECM) interference and was unable to visually identify the target.",
-        "Multiple witnesses, including USAF personnel, reported sighting the bright, maneuverable object in the sky."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, maneuverable star-like object",
-    "location": "Tampa, Florida",
-    "witnesses": "civilian witnesses and military radar operators",
-    "photographs": "no photographs provided"
+    "main event": "Multiple witnesses observed a bright object in the sky on June 3, 1961, which was tracked by radar.",
+    "interesting points": "The object was observed as a source of aircraft lights on a 100-degree course., The object was tracked on ground radar at around 30,000 ft., Witnesses described the object as slightly oval-shaped with extremely bright lights., The radar station reported a target moving up and down at an altitude of 34,400 feet., Pilots scrambled to intercept but could not visually recognize the object due to electronic countermeasure interference.",
+    "sighted object": "a bright oval-shaped object emitting bright lights",
+    "location": "Tampa, Florida, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "civilian witnesses and personnel from the 663rd Radar Station",
+    "contains photographs": false
 }

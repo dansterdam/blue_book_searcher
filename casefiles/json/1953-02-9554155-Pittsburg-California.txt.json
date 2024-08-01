@@ -1,15 +1,9 @@
 {
-  "main event": "On February 21, 1953, a UFO sighting was reported in Pittsburg, California. The conclusion of the investigation was marked as unknown.",
-  "interesting points": [
-    "The report indicates the presence of physical evidence related to the UFO sighting.",
-    "There were stars observed during the sighting, indicating that it occurred at night.",
-    "The movement of the first light sighted was approximately noted, suggesting a detailed observation.",
-    "The direction in which the object departed the area was recorded in the report.",
-    "The UFO was noted to hover beyond a certain point, indicating a sustained observation."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying object (UFO)",
-  "location": "Pittsburg, California",
-  "witnesses": "unknown",
-  "photographs": "yes the report includes photographs"
+    "main event": "A UFO sighting was reported in Pittsburg, California on February 21, 1953.",
+    "interesting points": "The observation was visual with an unknown conclusion,The report contained a filled-out Project 10073 Record form,The document referenced markings for stars observed and approximate movements of lights,No photographs or visual images were included in the document,There was an indication of a direction the light departed from.",
+    "sighted object": "unknown light source",
+    "location": "Pittsburg, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses mentioned in the document",
+    "contains photographs": false
 }

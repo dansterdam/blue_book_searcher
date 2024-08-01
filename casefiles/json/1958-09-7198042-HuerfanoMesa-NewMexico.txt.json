@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on 1 September 1955 at Huerfano Mesa, New Mexico. The observation lasted 2-3 minutes, and one photo was taken of an object resembling a rainbow at a vertical angle.",
-    "interesting points": [
-        "The sighting location was Huerfano Mesa, New Mexico, a known area for UFO activity.",
-        "The observation included a photo of an object that appeared like a rainbow at a vertical angle, but the pilots suspected it to be a parachute.",
-        "Despite the suspicion, the source requested urgent analysis of the object in the photos.",
-        "The report also mentions multiple images of the sun known as parhelia on slide #4 but no discernible image on slide #5.",
-        "The document was forwarded for necessary action, indicating the seriousness with which the report was treated."
-    ],
-    "result": "unexplained",
-    "sighted object": "object resembling a rainbow at a vertical angle",
-    "location": "Huerfano Mesa, New Mexico",
-    "witnesses": "Pilots",
-    "photographs": "yes, one photo was taken"
+    "main event": "A visual observation of an unidentified object during a brief sighting on September 1, 1955.",
+    "interesting points": "The sighting was reported to have lasted 2-3 minutes., The observer saw the object at about the vertical position of a rainbow-like object., The pilots suspected the object to be a parachute., The report mentioned that a camera was used to capture the observation., Multiple images included reflections of the sun known as parhelia.",
+    "sighted object": "unknown object possibly resembling a parachute",
+    "location": "Huerfano Mesa, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "pilot",
+    "contains photographs": false
 }

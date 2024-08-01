@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-  "main event": "A woman and her friend saw a shiny metallic object that took the shape of a saucer and hovered in the sky near Burgoon, Ohio on December 19.",
-  "interesting points": [
-    "The object initially appeared to be a jet making a vapor trail, but then came straight down and took the shape of a saucer.",
-    "The saucer-shaped object did not have a vertical rotation, but was somewhat tilted.",
-    "The object hovered in mid-air, and when a plane flew by, the object was much smaller and in a different direction.",
-    "The woman could not describe the color of the object, but said it was very brilliant.",
-    "The woman thought the object might have been some sort of a drilling rig."
-  ],
-  "result": "unexplained",
-  "sighted object": "a shiny metallic object that took the shape of a saucer",
-  "location": "Burgoon, Ohio",
-  "witnesses": "a woman and her friend",
-  "photographs": "no"
+    "main event": "A shiny metallic object was observed near Burgoon, Ohio, which appeared to change shape from a jet trail to a saucer.",
+    "interesting points": "The sighting occurred in freezing weather at around 5:15 p.m.,The object was initially thought to be a vapor trail from a jet,It took the shape of a saucer as it descended,The object hovered in mid-air before disappearing, A plane flew by during the sighting, which helped distinguish the object as being smaller and moving in a different direction.",
+    "sighted object": "a shiny metallic saucer-shaped object",
+    "location": "Burgoon, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two girls walking in the country",
+    "contains photographs": false
 }

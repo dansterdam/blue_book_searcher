@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "Two objects were spotted moving rapidly across the sky in North Platte, Nebraska.",
-    "interesting points": [
-        "One object was traveling too fast to follow with the naked eye and left trailing lines.",
-        "The object appeared to be glowing with a bluish-white light.",
-        "The object first traveled from east to west, and then about 15 minutes later it was seen traveling from east to west again.",
-        "The witness, a 12-year-old, had trouble tracking the object with a telescope due to its high speed.",
-        "The witness was interested in learning more about the incident in New Mexico where a 'fatal man' claimed to see a flying saucer."
-    ],
-    "result": "Probable Meteor",
-    "sighted object": "Two circular, glowing objects",
-    "location": "North Platte, Nebraska",
-    "witnesses": "A 12-year-old and their friend",
-    "photographs": "No"
+    "main event": "Two objects were observed in the night sky, one traveling northeast and the other southeast, appearing to be a meteor or comet.",
+    "interesting points": "The objects were moving too fast to follow with the naked eye, trailing with lines as they moved across the sky., One of the objects was assumed to reappear heading southeast about 15 minutes later., The sighting took place in North Platte, Nebraska at night., The observer reported the object appearing to glow with a bluish-white light., A handwritten letter from a twelve-year-old interested in UFOs was included, inquiring about similar sightings.",
+    "sighted object": "two fast-moving objects in the night sky",
+    "location": "North Platte, Nebraska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a twelve-year-old civilian who observed the objects through a telescope",
+    "contains photographs": false
 }

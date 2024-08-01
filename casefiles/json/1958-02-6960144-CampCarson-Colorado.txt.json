@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Four distinct parallel lines burning without flickering, pointing down, the size of a pencil, color red-orange, were observed at Camp Carson, Colorado.",
-    "interesting points": [
-        "The lines were extremely far away and faded from a bright fiery color to pink then out.",
-        "The sighting lasted for 4 minutes.",
-        "The observer has seen contrails before and noted that this was smaller than a contrail.",
-        "The weather officer said there was less than a 50% chance of contrails at any altitude.",
-        "The report concludes that this is a typical characteristic of the description of contrails seen near or at sunset as emanating from either multi-engine aircraft or aircraft in formation."
-    ],
-    "result": "identified as contrails",
-    "sighted object": "four parallel burning lines",
-    "location": "Camp Carson, Colorado",
-    "witnesses": "a civilian and a major from the First Battle Group, 39th Infantry",
-    "photographs": "no"
+    "main event": "Four distinct parallel lines burning without flickering, pointing down, were observed in the sky.",
+    "interesting points": "The lines were the size of a pencil and colored red-orange,The sighting lasted for 4 minutes,The observer commented that this is a typical characteristic of contrails seen at sunset,The lines faded from a bright fiery color to pink before disappearing,The observation was made near Camp Carson, Colorado.",
+    "sighted object": "four distinct parallel lines of red-orange light",
+    "location": "Camp Carson, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "AGE 33, HOUSEWIFE",
+    "contains photographs": false
 }

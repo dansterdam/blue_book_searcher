@@ -1,15 +1,9 @@
 {
-    "main event": "Observation of an unidentified object near Jacksonville, Florida in 1950",
-    "interesting points": [
-        "The object was observed for several hours and was likely the planet Venus seen during daylight hours.",
-        "Two jet planes passed well beneath the object.",
-        "No noise was detected during the observation.",
-        "The object was concluded to likely be a large weather observation balloon.",
-        "The report includes newspaper clippings about 'flying saucer' sightings over Jacksonville, Florida."
-    ],
-    "result": "Likely a weather balloon or observation of the planet Venus",
-    "sighted object": "A stationary, unidentified object",
-    "location": "Jacksonville, Florida",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "An observation of the planet Venus in Jacksonville, Florida, was reported on July 29, 1950, with the conclusion that it might have been a large weather observation balloon.",
+    "interesting points": "The observation lasted several hours during daylight hours., The object was described as stationary and silent., Two jet planes passed underneath the observed object without incident., The investigation suggested that excessive time was spent without physical evidence., Multiple newspaper clippings regarding flying saucers over Jacksonville were included in the report.",
+    "sighted object": "Venus or a weather observation balloon",
+    "location": "Jacksonville, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observation of an object in the sky",
+    "contains photographs": false
 }

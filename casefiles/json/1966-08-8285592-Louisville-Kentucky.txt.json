@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "Observers in Louisville, Kentucky reported seeing various objects in the sky over several occasions in August 1966.",
-  "interesting points": [
-    "The objects appeared to be stars or planets at first glance, but were observed to be moving slowly, though not as fast as stars or planets.",
-    "Some objects appeared to change directions and move up and down.",
-    "Red, green, and white flashing lights were observed on the objects.",
-    "Due to the various descriptions and time of observation, it is possible the witnesses observed natural occurrences such as satellites, planets, or other astronomical phenomena.",
-    "The Air Force requested the witness complete a questionnaire to provide more details about the sighting for further evaluation."
-  ],
-  "result": "Inconclusive, likely astronomical phenomena",
-  "sighted object": "Various unidentified objects in the sky, described as appearing similar to stars or planets but exhibiting unusual movements",
-  "location": "Louisville, Kentucky",
-  "witnesses": "Multiple civilian observers",
-  "photographs": "No"
+    "main event": "Observers reported seeing several unidentified objects in the sky over Louisville, Kentucky during the period of October 22 to August 1966.",
+    "interesting points": "The objects appeared to change directions, moving slowly and not at the speed of stars or planets., Red, green, and white flashing lights were observed., Observers used telescopes to view the objects carefully., The objects were possibly misidentified natural occurrences like satellites or planets., The sighting lasted for several hours.",
+    "sighted object": "several unidentified flying objects",
+    "location": "Louisville, Kentucky, USA",
+    "number of confirmed witnesses": 0,
+    "witnesses": "not specified in the document",
+    "photographs": false
 }

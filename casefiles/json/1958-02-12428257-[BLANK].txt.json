@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "The Air Force was in discussions with the McClellan Subcommittee regarding the handling of UFO reports and the potential for public hearings on the topic.",
-    "interesting points": [
-        "The McClellan Subcommittee had concerns about the alleged withholding of information on UFOs by the Air Force, but the Air Force was able to convince them that this was not the case.",
-        "The Air Force stated that it has a definite public information plan in effect concerning unidentified flying objects.",
-        "The Air Force was willing to cooperate with the McClellan Subcommittee if they insisted on holding public hearings, but the subcommittee decided to wait before making a decision.",
-        "The Air Force's Office of Information Services was providing publicity on the UFO subject at the request of the Air Force Office of Information.",
-        "The Air Force would continue to discuss and provide information to the congressional committee if hearings were held."
-    ],
-    "result": "The Air Force was able to convince the McClellan Subcommittee that it was not withholding information on UFOs, and the subcommittee decided not to hold public hearings on the matter at that time.",
-    "sighted object": "No sightings of unidentified flying objects were reported in the document.",
-    "location": "Not specified",
-    "witnesses": "No specific witnesses were mentioned.",
-    "photographs": "No photographs were included in the document."
+    "main event": "A memorandum discussing the handling of UFO reports by the Air Force in response to inquiries from the McClellan Subcommittee.",
+    "interesting points": "The McClellan Subcommittee conducted informal discussions about Air Force handling of UFO reports in January 1958., The Committee expressed concerns about alleged withholding of information by the Air Force., The Air Force reassured the Committee that they do not withhold information and have a public information plan regarding UFOs., Major Donald Keyhoe suggested potential Congressional hearings on UFO operations., Various Air Force officials and FBI investigators participated in discussions regarding the necessity of these hearings.",
+    "sighted object": "none",
+    "location": "Washington, D.C., USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Air Force officials and Committee investigators",
+    "contains photographs": false
 }

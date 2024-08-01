@@ -1,15 +1,9 @@
 {
-  "main event": "Multiple radar sightings of unidentified flying objects (UFOs) were reported near Keflavik, Iceland, on 25th February and 13th March 1952. The objects exhibited unusual behavior and high speeds, and poor weather conditions hindered visual confirmation.",
-  "interesting points": [
-    "The radar targets were observed during Ground Control Approach (GCA) runs with a local C-47 aircraft.",
-    "The objects' speed was reported to be much faster than known aircraft, such as the F-86, and their altitude was estimated to be above 50,000 feet, indicating capabilities beyond conventional aircraft of the time.",
-    "The radarscope targets, known as 'ghosts or angels,' displayed consistent speed and track, often appearing and disappearing, posing challenges in identification.",
-    "Efforts to intercept or visually confirm the targets were impeded by poor weather conditions, contributing to the overall mystery of the sightings.",
-    "The objects were tracked for approximately 10 minutes during the observation period, raising questions about the nature and origin of the unidentified targets."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying objects (UFOs) exhibiting high speeds and unconventional behavior",
-  "location": "Keflavik, Iceland",
-  "witnesses": "USAF personnel and GCA crew chief",
-  "photographs": "no photographs in the report"
+    "main event": "Unidentified flying object observed on radar at Keflavik, Iceland in March 1952.",
+    "interesting points": "The object exhibited high angular velocity,The object was tracked on radar but no visual contact was made due to poor weather conditions,The object was reported to have passed at a speed much faster than F-86s,The incident involved multiple USAF personnel making observations,The radar readings indicated the object had an estimated altitude of 2,500 feet.",
+    "sighted object": "unidentified flying object on radar",
+    "location": "Keflavik, Iceland",
+    "number of confirmed witnesses": 2,
+    "witness description": "U.S. Air Force personnel including Captain Frank Schreiber and Master Sergeant John W. Kelly",
+    "contains photographs": false
 }

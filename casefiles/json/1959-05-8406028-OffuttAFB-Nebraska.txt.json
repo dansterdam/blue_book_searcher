@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A blue-white oval-shaped object was observed traveling without a tail for over 2 minutes, then emitting intermittent bursts lasting 10 seconds.",
-    "interesting points": [
-        "The object changed course several times, going from 215 degrees to 125 degrees, then curving to 110 degrees and 320 degrees.",
-        "The object was initially seen by an intelligence specialist with 14 years of aircraft reconnaissance experience.",
-        "Pilots of Braniff Flight 402 approaching Omaha airport also reported seeing the same object, and Des Moines tower operators made similar sightings.",
-        "The object appeared to be slightly descending and then turned a glowing green color as it disappeared.",
-        "No photographs were included in the report."
-    ],
-    "result": "unknown",
-    "sighted object": "blue-white oval-shaped object",
-    "location": "Offutt AFB, Nebraska",
-    "witnesses": "intelligence specialist, Braniff Flight 402 pilots, Des Moines tower operators",
-    "photographs": "no"
+    "main event": "Multiple sightings of a glowing white object recorded from Offutt AFB, Nebraska on May 15, 1959.",
+    "interesting points": "The object changed course multiple times during the observation,The observers included military personnel with considerable experience in aircraft reconnaissance,The sighting included calls from multiple eyewitnesses, including flight crew of a commercial airline,The object was described as glowing white and then turned to a glowing green color before disappearing,Three Des Moines tower operators reported similar sightings around the same time.",
+    "sighted object": "glowing white object",
+    "location": "Offutt AFB, Nebraska, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "military personnel and airline pilots",
+    "contains photographs": false
 }

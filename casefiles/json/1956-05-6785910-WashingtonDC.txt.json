@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting of a submarine-shaped object, silver in color, near Washington, D.C. on 14th May 1956, which appeared to remain stationary.",
-    "interesting points": [
-        "The object was described as submarine-shaped and silver in color, unusual for conventional aircraft.",
-        "The sighting lasted for one hour, providing a significant duration for observation.",
-        "Radar data from the report indicates a round white light silently traversing the sky at a speed of 1200 MPH in about 12 seconds.",
-        "Visual observation and radar confirmation of the UFO were reported at Andrews AFB.",
-        "The lack of details in the report precluded further evaluation of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "submarine-shaped UFO",
+    "main event": "A UFO sighting reported in Washington, D.C. involving a silver object shaped like a submarine on 14 May 1956.",
+    "interesting points": "The sighting lasted for one hour,The object was described as silver and submarine-shaped,The object's appearance was noted to be stationary,The report includes a commentary on an error in the timing of the sighting,Another associated sighting described a round white light traveling at 1200 MPH.",
+    "sighted object": "silver object shaped like a submarine",
     "location": "Washington, D.C.",
-    "witnesses": "USAF personnel",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "Insufficient data for analysis",
+    "contains photographs": false
 }

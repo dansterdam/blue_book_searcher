@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An intense bluish-white, unidentified flying object that emitted fire and smoke as though from an exhaust was observed around 2200 hours CST on December 27, 1952, flying approximately 30 miles south of Canadian, Texas.",
-    "interesting points": [
-        "The object appeared to be round, about the size of a baseball, and emitted a bluish-white light.",
-        "A trail or exhaust which consisted of fire and yellow fumes being emitted from the rear of the object was the only visible means of propulsion.",
-        "The object's speed was estimated to be around 300 mph when first sighted, and increased to around 1000 mph when last seen.",
-        "The object disappeared by moving past and out of the range of vision, rather than losing velocity or light.",
-        "The witnesses included a B-29 crew chief during WWII who was familiar with conventional aircraft, and could not identify the object."
-    ],
-    "result": "possibly an unidentified aircraft",
-    "sighted object": "a round, bluish-white light object emitting fire and smoke",
-    "location": "30 miles south of Canadian, Texas",
-    "witnesses": "a B-29 crew chief and 4 other occupants of a car",
-    "photographs": "no photographs present"
+    "main event": "Several civilian eye-witnesses observed an intense bluish-white light traveling at high speed in Canadian, Texas on the night of December 27, 1952.",
+    "interesting points": "The object emitted a tail of fire exhaust while traveling at an estimated speed of 300 to 1000 mph., Witnesses described the light as comparable to that of a blue light bulb and noted that it did not resemble any known aircraft., The object was seen for approximately 2 to 3 minutes and climbed to an altitude of about 1.5 miles., Witnesses reported that no sound was heard during the observation despite the object's high speed., It was observed by five individuals, all of whom confirmed the sighting.",
+    "sighted object": "intense bluish-white light with a tail of fire",
+    "location": "Canadian, Texas, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "civilians in a moving car",
+    "contains photographs": false
 }

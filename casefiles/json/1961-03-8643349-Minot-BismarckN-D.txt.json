@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
     "main event": "An unidentified light was observed near Minot, Bismarck, North Dakota on March 10, 1961.",
-    "interesting points": [
-        "The light was observed from the ground and detected on radar.",
-        "The light changed colors from white to yellow, green, and red.",
-        "The light remained fairly stationary for about 15 minutes before disappearing into the horizon.",
-        "Sheriffs in North Dakota had been reporting and tracking the light from Bismarck.",
-        "An aircraft landed around the time the light disappeared but did not observe it."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "an unknown light",
+    "interesting points": "The light changed colors from white, yellow, green, and red, The object was stationary for a period of fifteen minutes, The report indicated that the light was observed approximately three to four miles off the northwest radar at one thousand feet, Local sheriffs in North Dakota were tracking the light from Bismarck, The investigation concluded there was insufficient data for evaluation.",
+    "sighted object": "unknown light",
     "location": "Minot, Bismarck, North Dakota",
-    "witnesses": "ground observers, radar operators",
-    "photographs": "none"
+    "number of confirmed witnesses": 0,
+    "witness description": "sheriffs in North Dakota tracking the light",
+    "contains photographs": false
 }

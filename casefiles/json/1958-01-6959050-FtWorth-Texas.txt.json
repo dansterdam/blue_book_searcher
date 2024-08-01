@@ -1,15 +1,9 @@
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The image does not contain any photographs. It appears to be a Project 10073 record card that describes an unidentified flying object sighting.",
-        "The report describes a bright star-like object moving in and out of clouds at high altitude, suspected to be part of the F-100 series at high altitude.",
-        "The report includes a handwritten letter discussing a UFO sighting that had strange features like the objects' size, color, and movement.",
-        "The report includes a typed letter discussing various UFO sightings, including one near Fort Worth, Texas that was likely a jet aircraft.",
-        "The report includes numerous observational details from various locations about an object seen near Gamma Geminorum on January 23, 1958."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright star-like object, three flying blue orbs, various unidentified objects",
-    "location": "Rural Area, ST; Fort Worth, Texas; various locations",
-    "witnesses": "farmer, multiple observers",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed in Fort Worth, Texas on January 23, 1958, described as a bright star-like object moving in and out of clouds at high altitude.",
+    "interesting points": "The sighting lasted less than 1 minute., The object was suspected to be part of the F-100 series at high altitude., The object made sharp turns and appeared to change speed., It was reported by various witnesses from different locations., The object was noted to be traveling in a northwest to southeast direction.",
+    "sighted object": "a bright star-like object",
+    "location": "Fort Worth, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An attorney observing the sky with his daughter.",
+    "contains photographs": false
 }

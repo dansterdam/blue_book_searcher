@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A British vessel employed by the United Fruit Co. reported seeing a satellite-like object with unusual characteristics in the Gulf of Mexico on June 11, 1963.",
-    "interesting points": [
-        "The object had a reddish glow and appeared to be stationary for several minutes before moving rapidly and changing direction several times.",
-        "The object did not resemble any known satellite or aircraft, suggesting it was not of conventional origin.",
-        "The sighting lasted for 15 minutes.",
-        "The weather was clear and visibility was unlimited.",
-        "The object was described as being 20-30 feet in diameter."
-    ],
-    "result": "unexplained",
-    "sighted object": "a satellite-like object with unusual characteristics",
+    "main event": "Report of a satellite sighting from a British vessel employed by the United Fruit Company in the Gulf of Mexico.",
+    "interesting points": "The sighting lasted for approximately 20 minutes., The object displayed unusual characteristics, including a reddish glow., It appeared stationary for several minutes before making rapid, erratic movements., The object reached an altitude of approximately 50,000 feet before disappearing., The witnesses noted that the object did not resemble any known satellite or aircraft.",
+    "sighted object": "a strange object observed in the sky, appeared to be a satellite",
     "location": "Gulf of Mexico",
-    "witnesses": "crew of a British vessel employed by the United Fruit Co.",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "crew aboard the M.V. British vessel employed by the United Fruit Company",
+    "contains photographs": false
 }

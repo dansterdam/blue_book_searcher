@@ -1,15 +1,9 @@
 {
-    "main event": "A ground-radar observation was reported by a civilian in Madras, Oregon on 17 August 1958. The sighting lasted for 2 minutes and involved the observation of a single object moving in a southwest direction, leaving a bright trail and fading away.",
-    "interesting points": [
-        "The observation was made using ground-radar by a civilian source.",
-        "The object was seen leaving a bright trail and fading while moving southwest after a large explosion.",
-        "The conclusion stated that the earth was passing through periodic meteoric showers, suggesting a prosaic explanation for the sighting.",
-        "Three civilians reported the sighting to a Redmond city patrolman, who then reported it to the ACTS operator at Redmond, Oregon.",
-        "The report was supported by clear visibility and calm weather conditions in the area."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "single object leaving a bright trail",
-    "location": "Madras, Oregon",
-    "witnesses": "civilian source, three civilians, Redmond city patrolman, ACTS operator",
-    "photographs": "no"
+    "main event": "A ground-radar observation of one object with a bright light trail was reported in Madras, Oregon on 17 August 1958.",
+    "interesting points": "The object was observed for 2 minutes,The object fell southwest after an explosion,Three civilians reported the sighting to a patrolman,The light trail from the object faded after the event,The sighting coincides with periodic meteoric showers.",
+    "sighted object": "one object with a bright light trail",
+    "location": "Madras, Oregon, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians, identity unknown",
+    "contains photographs": false
 }

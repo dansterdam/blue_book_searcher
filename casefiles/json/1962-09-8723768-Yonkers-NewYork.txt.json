@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright, solid-colored object was observed moving swiftly up, down, and sideways over Yonkers, New York. The object showed no trail and was estimated to be moving at 150 mph.",
-    "interesting points": [
-        "The object was observed by a young witness for about 2 minutes.",
-        "The object had a bright, solid color and showed no trail.",
-        "The object moved swiftly up and down, as well as sideways.",
-        "The witness estimated the object's speed to be around 150 mph.",
-        "The report concludes that the observed object was not an aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, solid-colored object",
-    "location": "Yonkers, New York",
-    "witnesses": "a young witness",
-    "photographs": "No"
+    "main event": "A youth reported observing a bright object moving swiftly up and down and sideways in Yonkers, New York.",
+    "interesting points": "The object was observed for approximately 2 minutes., The object was described as having a solid color and showed no trail., It was estimated to be moving at speeds of 150 mph., Observers included at least one confirmed witness, a youth., The conclusion stated that the object is not an aircraft.",
+    "sighted object": "a bright, solid colored object",
+    "location": "Yonkers, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a youth who made the report",
+    "contains photographs": false
 }

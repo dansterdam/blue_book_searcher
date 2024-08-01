@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report:
-
 {
-    "main event": "Two flashing objects at 4X rate of Major flashing about once per second were observed. Objects appeared to be satellites.",
-    "interesting points": [
-        "The objects appeared to be satellites.",
-        "The objects were observed for 10 minutes.",
-        "The objects were observed in Kettering, Ohio.",
-        "The report concludes the objects were possibly satellites, balloons, or radar targets.",
-        "No photographs were included with the report."
-    ],
-    "result": "possibly satellites, balloons, or radar targets",
+    "main event": "Two flashing objects observed in Kettering, Ohio on October 31, 1962, thought to be satellites.",
+    "interesting points": "The objects flashed at a rate 4 times faster than a major flashing light,The duration of the observation was 10 minutes,The objects were noted to possibly be satellites or balloons,The observation was made at night, and no sound was reported from the objects,The sighting was documented in Project Blue Book as part of UFO research.",
     "sighted object": "two flashing objects",
-    "location": "Kettering, Ohio",
-    "witnesses": "not specified",
-    "photographs": "no"
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was likely an individual observer; specific details about the witness were not provided.",
+    "contains photographs": false
 }

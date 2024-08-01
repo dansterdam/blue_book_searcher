@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "Several residents of Gainesville, Georgia reported seeing a UFO on July 15, 1964. A neighbor also found a circular pattern of impressions in his flower bed.",
-    "interesting points": [
-        "The object was described as a normal size circular object with a definite outline and color similar to a flashlight, very bright and brilliant, with four lamps on it.",
-        "The object was silent and motionless during the entire 15-minute observation.",
-        "The Air Force evaluated the object as not attributable to ball lightning, but the cause remained unknown.",
-        "A grass sample submitted was found to contain nothing unusual.",
-        "No previous official reports on similar sightings in the area had been made to the Air Force."
-    ],
-    "result": "unexplained",
-    "sighted object": "a normal size circular object with four lamps",
-    "location": "Gainesville, Georgia",
-    "witnesses": "several residents",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Gainesville, Georgia on July 4, 1964, involving a bright circular object.",
+    "interesting points": "The object was described as very bright and brilliant, illuminating the area., The object was silent and motionless during the entire observation which lasted for about 15 minutes., No previous reports had been made to the Air Force regarding this sighting., The physical evidence submitted (grass sample) was found to be normal., The July 15th incident involved unusual indentations in a flower bed which could not be explained.",
+    "sighted object": "a normal size circular object",
+    "location": "Gainesville, Georgia, USA",
+    "number of confirmed witnesses": 9,
+    "witness description": "local residents of Gainesville",
+    "contains photographs": false
 }

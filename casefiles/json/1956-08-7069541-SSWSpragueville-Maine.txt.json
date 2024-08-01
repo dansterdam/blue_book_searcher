@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Radar indicated an object approximately 3 to 4,000 yards south and 1 to 1.5 miles altitude, but the object was not observed visually.",
-    "interesting points": [
-        "The object was estimated to be the size of 2 1/2 or 1 large 3/4.",
-        "The sighting occurred in daylight with no restrictions on visibility.",
-        "The sighting lasted for 3 minutes.",
-        "The report includes a case file and analysis by Lt. Stiels.",
-        "The conclusions suggest the object could have been a balloon, aircraft, or astronomical phenomenon."
-    ],
-    "result": "unexplained",
-    "sighted object": "radar target",
-    "location": "SW Spragueville, Maine",
-    "witnesses": "unknown",
-    "photographs": "yes, but not included in the report"
+    "main event": "On 17 August 1956, a radar detected an object in the skies over Spragueville, Maine, although it was not visually observed.",
+    "interesting points": "The radar indicated an object 3 to 4,000 yards south and at an altitude of 1 to 1.5 miles., The observation lasted for 3 minutes., The sighting occurred in daylight with no visibility restrictions., The object was estimated to be the size of 2 1/2 or 1 large 3/4., Multiple possibilities for the object's identity included balloon, aircraft, and astronomical phenomena.",
+    "sighted object": "radar-detected object",
+    "location": "Spragueville, Maine, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no visual witnesses",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, circular, white object was observed by ground and air radar in Littleton, New Hampshire on December 27, 1957.",
-    "interesting points": [
-        "The object was described as being the size of a pea and brighter than the planet Venus.",
-        "The object remained stationary in the sky and appeared to periodically brighten and dim.",
-        "The object was observed for approximately 5 minutes and did not make any sound.",
-        "The Air Force considered the object to be an unidentified aerial phenomenon, possibly a celestial object, but could not definitively identify it.",
-        "There was no physical evidence such as photographs or materials recovered from the sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "A bright, circular, white object",
-    "location": "Littleton, New Hampshire",
-    "witnesses": "Military personnel and civilian observers",
-    "photographs": "No photographs were taken"
+    "main event": "An unidentified flying object was reported in Littleton, New Hampshire on December 27, 1957.",
+    "interesting points": "The object was described as circular and the size of a pea,The color of the object was reported as white and emitted no sound,It appeared brighter than Venus but was significantly smaller,The sighting lasted for about 5 minutes and showed a steady course without any maneuvers,The report was from a recognized military officer, increasing its validity.",
+    "sighted object": "one circular white object in the sky",
+    "location": "Littleton, New Hampshire, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Dr. Roy H. Hailing and Dr. Warrington, Vermont",
+    "contains photographs": false
 }

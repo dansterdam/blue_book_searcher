@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unusual, faint, darting object with high velocity appeared to come from a distance and go behind trees.",
-    "interesting points": [
-        "The object was observed both visually and on radar.",
-        "The sighting only lasted for 3 seconds.",
-        "The object appeared as a faint, elongated band of light that was brightest in the center.",
-        "The observer could not determine the object's color through binoculars.",
-        "The observer was unsure if the sighting had been reported by any other observers."
-    ],
-    "result": "unexplained",
-    "sighted object": "faint, darting object with high velocity",
+    "main event": "An unusual faint object was observed darting in the sky with high velocity on 2 October 1962.",
+    "interesting points": "The object appeared to be coming from a distance and vanished behind trees,The observation lasted 3 seconds,The observer initially thought it was a satellite but it displayed distinct characteristics,The sighting took place when the sky was very clear,There was a suggestion that the object could be a paint meteor.",
+    "sighted object": "darting object in the sky",
     "location": "Norton, Connecticut, USA",
-    "witnesses": "one observer",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Edgerton Memorial Plane, Stamford Museum",
+    "contains photographs": false
 }

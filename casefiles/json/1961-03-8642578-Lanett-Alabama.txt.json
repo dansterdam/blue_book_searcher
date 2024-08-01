@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A private pilot spotted a high-speed, silent, silvery object in the sky over Lanett, Alabama on March 5, 1961.",
-    "interesting points": [
-        "The object was about the size of a medium passenger plane but was moving at a terrific speed and made no noise.",
-        "The object left no vapor trail, indicating it was not an airplane.",
-        "The witness estimated the object could have been at least 12 to 15 miles high, or around 60,000 feet.",
-        "A little boy in the area had heard a thunder sound around 7:00 pm, around the same time as the sighting.",
-        "The witness identified himself as a private pilot and member of the LaGrange, Georgia Civil Air Patrol."
-    ],
-    "result": "unexplained",
-    "sighted object": "a high-speed, silent, silvery object",
-    "location": "Lanett, Alabama",
-    "witnesses": "a private pilot",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A UFO was observed in Lanett, Alabama, on March 5, 1961, described as a silvery object traveling at high speed with no noise.",
+    "interesting points": "Witness estimated the object's altitude to be around 60,000 feet., The object was about the size of a medium passenger plane., It was noted for its lack of contrail and noise, distinguishing it from an airplane., The object was seen by a private pilot, providing credibility to the observation., An orange-colored object was reported with a smaller dark orb orbiting it.",
+    "sighted object": "silvery object moving at high speed",
+    "location": "Lanett, Alabama, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "one witness was a private pilot",
+    "contains photographs": false
 }

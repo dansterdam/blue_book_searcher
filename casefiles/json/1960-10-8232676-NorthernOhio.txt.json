@@ -1,15 +1,9 @@
 {
-    "main event": "The report details several records related to Project 10073, which appeared to be a government investigation into unidentified flying objects (UFOs).",
-    "interesting points": [
-        "The report includes a Project 10073 record card that describes a ground-radar sighting of three objects over Northern Ohio in October 1960. The witness submitted photographs, but they were determined to be insufficient for analysis.",
-        "The report includes a memo routing slip with handwritten text, indicating some internal handling of the UFO case.",
-        "The report includes a letter from the Director of Intelligence and Reconnaissance confirming a report concerning Air Force Project Blue Book, and requesting that all information be given personal attention.",
-        "The report includes a letter from a private individual who had a strange object sighting and had taken photographs, which were analyzed by experts who could not determine what the objects were.",
-        "The report includes a request for photographic analysis of images of an unidentified object, with details about the camera and film used. The analysis found the images could be of a daytime object, possibly a balloon or reflection, but the report was inconclusive."
-    ],
-    "result": "inconclusive",
-    "sighted object": "three objects detected by ground radar, unidentified objects in photographs",
+    "main event": "A report from Project 10073 detailing a sighting of three objects over Northern Ohio observed through ground radar.",
+    "interesting points": "The report indicates that witness submitted photographs of lights seen over the lake,The photographs were found insufficient for analysis,The objects were identified by radar but their nature remained inconclusive,The request for photographic analysis highlighted concerns about potential distortion,No clear conclusions could be drawn from the provided images.",
+    "sighted object": "three unidentified objects",
     "location": "Northern Ohio",
-    "witnesses": "civilian, private individual",
-    "photographs": "yes, but determined to be insufficient for analysis"
+    "number of confirmed witnesses": 0,
+    "witnesses": "No confirmed witnesses mentioned",
+    "photographs": false
 }

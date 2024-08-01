@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot and navigator of a United States Navy patrol aircraft observed a bright light moving at a very high rate of speed over the Atlantic Ocean on January 8, 1966.",
-    "interesting points": [
-        "The light appeared to be at an estimated altitude of 10,000-15,000 feet and was moving at a speed which was estimated to be in excess of 1,500 knots.",
-        "The light was described as being very intense and was observed to move at a downward angle and then accelerate rapidly and disappear from view.",
-        "No further information or evidence was obtained regarding this sighting.",
-        "The sighting was made by experienced military personnel during a routine patrol flight.",
-        "The report states that the light could not be identified as any known type of aircraft or phenomenon."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light",
-    "location": "Atlantic Ocean, approximately 200 miles east of the Florida coast",
-    "witnesses": "pilot and navigator of a United States Navy patrol aircraft",
-    "photographs": "no"
+    "main event": "A pilot and navigator of a United States Navy patrol aircraft observed a bright light moving at a high speed over the Atlantic Ocean on January 8, 1966.",
+    "interesting points": "The object was estimated to be at an altitude of 10,000-15,000 feet and moving in excess of 1,500 knots., The sighting lasted approximately 30 seconds before the light disappeared., The light appeared very intense and moved at a downward angle., Witnesses described the light as bright and dazzling to the eye., The report contains various analyses and conclusions regarding other sightings that were deemed credible.",
+    "sighted object": "bright light",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 2,
+    "witness description": "Pilot and navigator of a United States Navy patrol aircraft",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A round, very small, green object with a red flashing light was observed by naval personnel at Oceana NAS, Virginia on December 5, 1957.",
-    "interesting points": [
-        "The object first appeared to be stationary and turning counter-clockwise, but later appeared to be slowly moving away from the observers.",
-        "The object was visible for 8 hours and 20 minutes, disappearing with the coming of dawn.",
-        "An F-102A aircraft from Langley AFB was vectored to the area and reported seeing flares and shell bursts from naval vessels, but did not sight the object.",
-        "A naval aircraft (Beechcraft) from Oceana NAS was also vectored to the approximate position but reported no sightings.",
-        "The intelligence section concluded that the sighting was likely of a planet or star, based on the observations and the relatively close position of the unit from the point of observation."
-    ],
-    "result": "Possibly Astronomical",
-    "sighted object": "a round, very small, green object with a red flashing light",
-    "location": "Oceana NAS, Virginia",
-    "witnesses": "naval personnel",
-    "photographs": "no"
+    "main event": "A small green object with a red flashing light was observed at Oceana NAS, Virginia on December 5, 1957.",
+    "interesting points": "The object was observed for 8 hours and 20 minutes,The object first appeared to be stationary and turning counter-clockwise, Later, it appeared to move slowly away from the observer, The object disappeared from view with the coming of dawn, Observers suggested that the object was likely a star or planet.",
+    "sighted object": "small green object with red flashing light",
+    "location": "Oceana NAS, Virginia, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "control tower operators at Oceana NAS",
+    "contains photographs": false
 }

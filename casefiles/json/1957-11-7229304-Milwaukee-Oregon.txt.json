@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large, glowing, bright, orange-colored object mixed with white, pulsed over the horizon in Milwaukee, Oregon on November 7, 1957 at 0222 hours.",
-    "interesting points": [
-        "The object was observed for 6 minutes.",
-        "The object did not exhibit any noticeable motion.",
-        "The report concluded there was insufficient data to evaluate the sighting.",
-        "The sighting was reported to the Air Force and NORAD, indicating its potential significance.",
-        "The report mentions comparing the sighting to a 25 card attachment, suggesting other similar cases were documented."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, glowing, bright, orange-colored object mixed with white",
-    "location": "Milwaukee, Oregon",
-    "witnesses": "Ground observer",
-    "photographs": "No, the report does not contain any photographs."
+    "main event": "A large, glowing, bright, orange-colored object mixed with white was observed pulsing over the horizon.",
+    "interesting points": "The sighting occurred on November 7, 1957, at 2:22 AM,The observation lasted for 6 minutes,The object was reported to have been pulsing over the horizon,The report states that there was insufficient data for a proper evaluation, The object was noted to be at a certain angle from the horizon and traveled from southwest to northeast.",
+    "sighted object": "large orange-colored glowing object",
+    "location": "Milwaukee, Oregon, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no direct witnesses mentioned in the provided text",
+    "contains photographs": false
 }

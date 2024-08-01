@@ -1,15 +1,9 @@
 {
-    "main event": "A possible satellite sighting was reported on March 16, 1963 in the Pacific Ocean.",
-    "interesting points": [
-        "The object was described as a 'space born object, small and circular, resembling bright star'.",
-        "The object was tracked through 30 degrees of arc from 192 degrees true to 132 degrees true.",
-        "The reporting aircraft's position was 36.32N 174.02W in the Pacific Ocean.",
-        "The object was reported to be at an unknown altitude, about 35 degrees above the horizon.",
-        "The report mentions details about the time, latitude, and longitude of the object's northbound and southbound positions."
-    ],
-    "result": "unexplained",
-    "sighted object": "small, circular object resembling a bright star",
-    "location": "Pacific Ocean, 36.32N 174.02W",
-    "witnesses": "pilot of aircraft",
-    "photographs": "no"
+    "main event": "A possible satellite sighting was reported in the Pacific Ocean on 15 March 1963.",
+    "interesting points": "The object was described as small and circular, resembling a bright star., The sighting was tracked through 30 degrees of arc from 192 degrees true to 132 degrees true., The object was reported at an altitude of 35 degrees above the horizon., The weather conditions were noted as having vast visibility., The report involved multiple branches of the military and intelligence agencies, indicating its seriousness.",
+    "sighted object": "small circular object resembling a bright star",
+    "location": "Pacific Ocean,,",
+    "number of confirmed witnesses": 1,
+    "witness description": "The reporting aircraft at Pilio heading 193 true.",
+    "contains photographs": false
 }

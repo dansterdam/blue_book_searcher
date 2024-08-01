@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A woman named Mary Elizabeth Willis claimed to have seen a 'flying saucer' hovering over her neighborhood in Cleveland, Ohio on August 30, 1960.",
-    "interesting points": [
-        "The object was described as a 'round, dish-shaped' craft that dropped from the sky and hovered over the trees before shooting straight up and disappearing.",
-        "Mrs. Willis said the object moved at the speed of a 'missile' and made no sound.",
-        "Mrs. Willis called the police to report the sighting, but they said no one else had called about it.",
-        "The Air Force stated they had no knowledge of the incident.",
-        "The report mentions previous unidentified flying object sightings in the Cleveland area dating back to 1949."
-    ],
-    "result": "Insufficient data to determine nature of object",
-    "sighted object": "A round, dish-shaped flying craft",
-    "location": "Cleveland, Ohio",
-    "witnesses": "Mary Elizabeth Willis",
-    "photographs": "no photographs"
+    "main event": "Mary Elizabeth Willis reported seeing a round, dish-shaped object hovering over her home in Cleveland, Ohio on 30 August 1960.",
+    "interesting points": "The sighting lasted approximately 5 minutes, Mary described the object as a 'flying saucer' and claimed it was moving at the speed of a missile, Mrs. Willis reported the incident to the police, but they had not received any other calls, The object suddenly shot straight up and disappeared into the clouds after hovering for several minutes, The Air Force had no knowledge of the sighting.",
+    "sighted object": "a round, dish-shaped object",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mary Elizabeth Willis, 57, a member of the Second Mile Baptist Church and church clerk.",
+    "contains photographs": false
 }

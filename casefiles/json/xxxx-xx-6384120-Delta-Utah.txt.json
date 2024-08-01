@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian reported sighting an unidentified silver object flying over his farm near Delta, Utah.",
-    "interesting points": [
-        "The object passed over a trail and seemed to erase the trail, causing a formation of dust.",
-        "A jet aircraft was reported passing over around the same time as the sighting.",
-        "The object was described as a silver, high-flying object, about the size of baseballs.",
-        "The object was initially considered unidentified, but was later identified as a fuel tank from a jet aircraft.",
-        "The sighting was reported to have lasted less than 10 seconds."
-    ],
-    "result": "identified as a jet fuel tank",
-    "sighted object": "a silver, high-flying object about the size of baseballs",
-    "location": "Delta, Utah",
-    "witnesses": "a civilian named Mr. Robert D. Davis",
-    "photographs": "no photographs included in the report"
+    "main event": "Local citizen reported sighting of two round, white objects moving together about four miles south of Delta Utah Airport in 1952.",
+    "interesting points": "The objects were described as the size of baseballs, one on top of the other., The witness believed the sighting could have been a reflection of lights due to weather conditions., The sighting lasted for less than 10 seconds., An aircraft was reported to have passed over at the same time, which caused confusion., The area was difficult to search due to heavy sagebrush.",
+    "sighted object": "two round, white objects",
+    "location": "Delta, Utah, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Local citizen, Robert D. Davis, and a partner of Robert Miller.",
+    "contains photographs": false
 }

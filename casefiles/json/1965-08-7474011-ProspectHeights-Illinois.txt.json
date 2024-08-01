@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "An unidentified flying object was sighted by a civilian couple in Prospect Heights, Illinois on August 11, 1965.",
-    "interesting points": [
-        "The object was described as long and slim, with flashing red, green, and white lights.",
-        "The object was first spotted at around 30 degrees above the horizon, moving from northeast to east-northeast over the course of about 2 hours.",
-        "The object appeared to be far away, smaller than a pea or dime at arm's length, and did not make any sound.",
-        "The sighting was reported to a nearby Air Force unit at O'Hare International Airport.",
-        "The observers stated they could not determine the object's exact shape or size due to the distance, but it appeared to be an aircraft-like object."
-    ],
-    "result": "unexplained",
-    "sighted object": "long, slim object with flashing red, green, and white lights",
-    "location": "Prospect Heights, Illinois",
-    "witnesses": "civilian couple",
-    "photographs": "no"
+    "main event": "On August 11, 1965, a UFO was observed in Prospect Heights, Illinois, described as a distant object with flashing red and white lights.",
+    "interesting points": "The object appeared similar to the star Capella,Flashing lights in red, green, and white were reported,The sighting lasted for about two hours,The observers described the object moving in a straight line and not changing position,The conclusion from the investigation was that the object could not be identified.",
+    "sighted object": "unidentified flying object resembling a star",
+    "location": "Prospect Heights, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. Christiansen, who reported seeing the object at a significant distance with binoculars.",
+    "contains photographs": false
 }

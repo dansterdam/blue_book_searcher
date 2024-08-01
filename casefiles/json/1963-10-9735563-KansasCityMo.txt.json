@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A telephone lineman in Kansas City, Missouri observed a bright white light in the sky on October 23, 1962.",
-  "interesting points": [
-    "The light appeared to be drifting slowly and then disappeared when houses blocked the view.",
-    "The witness had previously reported seeing a 'flying saucer' while working as a telephone lineman in Kansas in 1949.",
-    "The witness was considered a reliable observer.",
-    "The speed of the object ruled out any known aircraft.",
-    "The witness gave a very conservative description of the sighting and was very cooperative."
-  ],
-  "result": "Insufficient data for evaluation",
-  "sighted object": "A bright white light approximately 12-15 minutes in arc size of a star",
-  "location": "Kansas City, Missouri",
-  "witnesses": "A telephone lineman",
-  "photographs": "No photographs present"
+    "main event": "A witness observed a bright white light in the night sky over Kansas City on 9 October 1963.",
+    "interesting points": "The light appeared to be the size of a bright star and drifted slowly before disappearing when obstructed by houses., The sighting lasted between 8 to 10 minutes., The witness is described as a reliable telephone lineman., The report indicates that no known aircraft were in the area at the time., Previous sighting reported by the same witness in 1949.",
+    "sighted object": "a bright white light in the night sky",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a reliable telephone lineman",
+    "contains photographs": false
 }

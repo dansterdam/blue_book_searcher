@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An observer reported seeing two unidentified flying objects moving in a straight course, slowing down, hovering, and then going out of sight in the west.",
-    "interesting points": [
-        "The objects were observed moving at a distance of about 1.5 miles and were visible for about 30 seconds.",
-        "The objects did not make any sound.",
-        "The observer described the objects as star-like in shape, with one appearing larger and brighter than the other.",
-        "The objects were visible during daylight conditions.",
-        "The observer filled out a detailed questionnaire about the sighting, providing information on the time, location, and other details."
-    ],
-    "result": "Unidentified",
-    "sighted object": "Two unidentified flying objects",
-    "location": "Morgantown, West Virginia",
-    "witnesses": "One civilian observer",
-    "photographs": "No photographs present in the report"
+    "main event": "A civilian reported sighting a bright orange-yellow light in the sky on 27 September 1968.",
+    "interesting points": "The observer experienced a conflicting perspective on the object's location, seeing it as WNW but later indicating it was NE from their position,The object was described as brighter than other stars,The sighting lasted for around 45 minutes,The object was in continuous motion and did not change speed or direction,The report indicates the absence of physical evidence and photographs.",
+    "sighted object": "a bright orange-yellow light",
+    "location": "Morgantown, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian resident",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two witnesses spotted a bright, disc-shaped object over Potsdam, New York on May 10, 1966.",
-    "interesting points": [
-        "The object was reddish in color and emitting a bright light.",
-        "It appeared to hover near a factory before accelerating and quickly leaving the area.",
-        "The witness had a clear sighting of the object for about 1.5 minutes, during which he could see its oval shape and lighting.",
-        "No noise was heard by the witness during the sighting.",
-        "The Air Force attributed the sighting to the planet Venus due to its changing color and apparent up-and-down movement, which could have been caused by atmospheric refraction."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Bright, disc-shaped object",
-    "location": "Potsdam, New York",
-    "witnesses": "2 civilian witnesses",
-    "photographs": "None"
+    "main event": "Two witnesses observed a disc-shaped UFO that emitted red and white lights for 4.5 minutes in Potsdam, NY, on 10 May 1966.",
+    "interesting points": "The sighting lasted approximately 4.5 minutes.,The UFO changed colors from red to white.,Witnesses reported seeing the object hovering near a factory.,The object was described as emitting a bright light and traveling at a high speed.,The report included notes on conflicting and questionable details about the sighting.",
+    "sighted object": "disc-shaped light",
+    "location": "Potsdam, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnesses reported seeing a bright object that was reddish in color and oval in shape.",
+    "contains photographs": false
 }

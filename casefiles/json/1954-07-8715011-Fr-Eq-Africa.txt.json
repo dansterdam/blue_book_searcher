@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A report of unidentified flying objects observed during observation of the northern lights in various locations in Europe and Africa in 1954",
-    "interesting points": [
-        "The report includes sightings from 5 July 1954 to 30 September 1954 in locations such as Borris(?) Dalbion, Ostravar (Czechoslovakia), Weathery (Czechoslovakia), Wittisland (Germany), Westphalia (Germany), Lyon (France), and the Near East in Africa.",
-        "The sightings were reported to AFNIC (Air Force's Air Force's Air Technical Intelligence Center) and compiled in AFNIC Rep no. 99971.",
-        "Many of the cases are listed as 'unknown' and awaiting further information.",
-        "The report indicates these sightings were observed during observation of the northern lights.",
-        "The report does not provide any further details about the specific nature or characteristics of the unidentified flying objects observed."
-    ],
-    "result": "unknown",
+    "main event": "Reports of unidentified flying objects observed during the northern lights phenomenon across various locations in July and August 1954.",
+    "interesting points": "The sightings included reports from multiple locations such as Finland, Germany, and France., A total of 7 different sightings were reported during this period., The objects were noted during observations of the northern lights., No photographs were present in the report., Insufficient data was noted for the summaries provided.",
     "sighted object": "unidentified flying objects",
-    "location": "Various locations in Europe and Africa",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Fr. Eq. Africa",
+    "number of confirmed witnesses": 0,
+    "witness description": "Various observers during the northern lights events.",
+    "contains photographs": false
 }

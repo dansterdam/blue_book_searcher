@@ -1,15 +1,9 @@
 {
-  "main event": "A flashing yellow light, the size of an automobile, was seen over Rochester, New York in August 1955.",
-  "interesting points": [
-    "The object was observed for a period of 5 minutes.",
-    "The report states that there was insufficient data for evaluation.",
-    "The sighting was reported by civilian witnesses.",
-    "The object was described as a single flashing yellow light.",
-    "The sighting occurred at 2302Z (11:02 PM local time) on August 6, 1955."
-  ],
-  "result": "unexplained",
-  "sighted object": "flashing yellow light, size of an automobile",
-  "location": "Rochester, New York",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A flashing yellow light, size of an automobile, was observed in Rochester, New York for five minutes.",
+    "interesting points": "The sighting lasted for a duration of five minutes., The object was described as a flashing yellow light., The size of the object was comparable to that of an automobile., The report mentioned that the data available was insufficient for evaluation., The sighting was recorded in a Project Blue Book documentation.",
+    "sighted object": "one flashing yellow light",
+    "location": "Rochester, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. Rochester",
+    "contains photographs": false
 }

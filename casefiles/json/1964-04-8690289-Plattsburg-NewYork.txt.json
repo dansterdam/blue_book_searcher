@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A brief sighting of an unidentified object near Plattsburg Air Force Base in New York on April 1, 1964.",
-  "interesting points": [
-    "The object was observed for 15 seconds and described as a bright star-like object that moved slowly at first, then accelerated and exhibited erratic motion.",
-    "The object changed direction, making a very rapid turn.",
-    "The object eventually went out of sight, with no sound or trail of light observed.",
-    "The observer estimated the object's speed to be at least 2,000 miles per hour, much faster than any known aircraft at the time.",
-    "The Air Force compared the sighting to the passage of the ECHO II satellite and provided the witness with the satellite's schedule to compare."
-  ],
-  "result": "The Air Force considered this case as an observation of the ECHO II satellite.",
-  "sighted object": "A bright, star-like object",
-  "location": "Near Plattsburg Air Force Base, New York",
-  "witnesses": "One witness, a member of the Air Force",
-  "photographs": "No photographs included in the report"
+    "main event": "A UFO was observed in Plattsburg, New York on April 1, 1964.",
+    "interesting points": "The observation lasted for about 15 seconds,The object was described as black with a definite shape like a bright star,The object was seen to move in a straight line until it curved south east,The witnesses reported that it exhibited erratic motion and could stand still,The sighting was considered to correlate with the passage of a satellite (ECHO II).",
+    "sighted object": "one unidentified flying object",
+    "location": "Plattsburg, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as black and brighter than the North Star, exhibiting very fast erratic motion.",
+    "contains photographs": false
 }

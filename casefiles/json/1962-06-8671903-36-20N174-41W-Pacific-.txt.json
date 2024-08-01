@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright object similar to a star was sighted glowing intermittently at 36-26N 174-41W at 0823Z.",
-    "interesting points": [
-        "The object was observed to be moving very high and very fast.",
-        "The report indicates the sighting could not be evaluated.",
-        "An advance copy of the report was delivered to the Commander-in-Chief, Operations and Plans, and the Defense Intelligence Agency.",
-        "The report appears to be part of Project Blue Book, a United States Air Force program to investigate unidentified flying objects.",
-        "The report was distributed to various military and intelligence agencies."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright object similar to a star, glowing intermittently",
-    "location": "36-26N 174-41W (Pacific)",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A visual sighting of an unidentified object resembling a distant satellite reported on 8 June 1962.",
+    "interesting points": "The sighting occurred in the Pacific at coordinates 20 20N 174 41W., The report classifies the object as similar to a distant satellite., No photographs are included with the report., The duration of the sighting is unknown., Conclusions indicate that there is insufficient data for evaluation.",
+    "sighted object": "one glowing object appearing like a distant satellite",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "not provided",
+    "contains photographs": false
 }

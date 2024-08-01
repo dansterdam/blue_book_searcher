@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO was observed by two airmen at Whiteman AFB in Missouri on September 24, 1965.",
-    "interesting points": [
-        "The object was round in shape and compared in size to a quarter held at arm's length.",
-        "The object was reported to be metallic in color, with green and red hues.",
-        "The object moved from south to north and slowly faded from sight, with no observed trail, trail or exhaust.",
-        "The object was observed for a period of approximately 15 minutes.",
-        "Weather conditions at the time included clouds covering 1/8 of the sky, visibility greater than 15 miles, and surface winds of 300° at 02 knots."
-    ],
-    "result": "concluded to be a satellite",
-    "sighted object": "a round, metallic object with green and red hues",
-    "location": "Whiteman AFB, Missouri",
-    "witnesses": "A2C Charles McBrayer and A3C John L. Bolding, both from the 351st Combat Defense Squadron",
-    "photographs": "no photographs included in the report"
+    "main event": "An object observed at Whiteman AFB, Missouri on 24 September 1965 is concluded to be a satellite.",
+    "interesting points": "The object was observed as a very bright, white light in the sky for approximately 15 minutes,The object's movement was initially erratic before it proceeded in a smooth, steady course,It was round in shape and approximately the size of a quarter at arm's length,No audible sound was detected during the sighting,The observers included two airmen from the 351st Combat Defense Squadron, considered reliable.",
+    "sighted object": "a bright white light in the sky",
+    "location": "Whiteman AFB, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A2C Charles McBrayer and A3C John L. Bolding from the 351st Combat Defense Squadron",
+    "contains photographs": false
 }

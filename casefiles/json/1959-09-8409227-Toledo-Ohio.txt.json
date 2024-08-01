@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A light was observed, quite bright, for several seconds. It appeared to be rotating or drifting, and was not in flight.",
-    "interesting points": [
-        "The case has been analyzed, but there is insufficient data to complete an adequate analysis.",
-        "The light may have been astronomical in nature.",
-        "A photograph was taken of an unidentified object, but the Air Force requested the original negative in order to conduct a complete analysis.",
-        "The Air Force was unable to evaluate the photographic print and needed the original negative.",
-        "The Air Force agreed to inform the witness of the results of the evaluation once they received the original negative."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright light",
-    "location": "Unknown",
-    "witnesses": "Unknown",
-    "photographs": "Yes, but the Air Force requested the original negative"
+    "main event": "A bright light was observed for several seconds; it appeared to be rotating or drifting and was not in flight.",
+    "interesting points": "The sighting was witnessed by 6 or 7 individuals,There was a definite shape to the light observed by all witnesses,Efforts to obtain a copy of the photograph taken were unsuccessful,The light's color changed from year to year around the same time each night,Analysis concluded insufficient data for complete evaluation; object may have been astronomical in nature.",
+    "sighted object": "a bright light with a definite shape",
+    "location": "Not specified, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "Group of individuals who observed the light",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A military radar operator and pilot observed an unidentified object moving at high speeds and greater altitude than their aircraft in 1952.",
-    "interesting points": [
-        "The object was observed both on radar and visually by the pilot and radar operator.",
-        "The object's speed and altitude exceeded that of the observing aircraft.",
-        "The object's maneuvers were not consistent with known aircraft.",
-        "The report concluded that the object was unknown with no explanation.",
-        "No physical evidence or photographs of the object were obtained."
-    ],
-    "result": "unexplained",
+    "main event": "A radar operator and a pilot observed an unidentified object on radar and visually on 30 October 1952.",
+    "interesting points": "The observation lasted for 5-6 minutes.,The object was moving much faster than the aircraft.,The object was at a greater altitude than the aircraft.,The object's maneuvers were inconsistent with known aircraft.,The conclusion drawn was unknown with no explanation.",
     "sighted object": "unidentified object",
-    "location": "122-23 24°45'N (1°02' E of OCEAN)",
-    "witnesses": "military radar operator and pilot",
-    "photographs": "no"
+    "location": "122-23 24°45'N (1°02' E of OCEAN), Unknown Region, Unknown Country",
+    "number of confirmed witnesses": 2,
+    "witness description": "radar operator and pilot of the aircraft",
+    "contains photographs": false
 }

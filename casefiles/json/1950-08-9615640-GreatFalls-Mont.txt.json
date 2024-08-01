@@ -1,13 +1,9 @@
 {
-  "main event": "The document contains various text and information related to an unidentified conventional aircraft sighting in Great Falls, Mont. on August 15, 1950.",
-  "interesting points": [
-    "The report includes four grainy black-and-white photographs depicting unusual markings or patterns in the landscape, possibly related to the sighting.",
-    "The witness reported observing a bright, saucer-shaped object hovering and maneuvering for several minutes before accelerating and disappearing from view.",
-    "The incident has been classified as an 'unresolved' incident in the Project Blue Book archives, and the investigation is ongoing."
-  ],
-  "result": "unresolved",
-  "sighted object": "bright, saucer-shaped object",
-  "location": "Great Falls, Mont.",
-  "witnesses": "XXXX XXXX (name withheld for privacy)",
-  "photographs": "yes, four grainy black-and-white photographs"
+    "main event": "A report detailing the sighting of an unidentified flying object over Great Falls, Montana on August 15, 1950, which was photographed and analyzed by the Air Force.",
+    "interesting points": "The sighting lasted approximately 20 minutes,The object was bright in color and appeared to be cylindrical,Three military witnesses were present at the scene,The original film was analyzed by the U.S. Air Force and the U.S. Navy,The film included around 335 frames documenting the object's movement.",
+    "sighted object": "a cylindrical bright object in the sky",
+    "location": "Great Falls, Montana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "military personnel in the area",
+    "contains photographs": true
 }

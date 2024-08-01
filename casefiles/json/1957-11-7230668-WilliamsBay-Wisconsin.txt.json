@@ -1,15 +1,9 @@
 {
-	"main event": "The document contains information related to UFO sightings in different locations and dates, with some suggestions about the nature of the unidentified objects observed.",
-	"interesting points": [
-		"The document mentions an oval-shaped object with a bright metal shine observed in Williams Bay, Wisconsin in 1957 for 15 minutes.",
-		"There is a reference to observations of two flights of three aircraft heading west in the vicinity of O'Hare, suggesting possible air traffic in the area.",
-		"The report also includes details about physical evidence related to an event in November 1943 and describes unusual activity in the area.",
-		"There is a mention of the observer's description of a round to oval-shaped object moving west into the setting sun.",
-		"The conclusion of the observation suggests that the object was probably a satellite or a balloon, possibly an aircraft, or astronomical in nature."
-	],
-	"result": "potentially explained by natural or man-made phenomena",
-	"sighted object": "unidentified round to oval-shaped object with a bright metal shine",
-	"location": "Williams Bay, Wisconsin and other unspecified areas",
-	"witnesses": "civilian observers and unnamed military personnel",
-	"photographs": "no photographs available"
+    "main event": "Observation of a round to oval shaped object with a bright metal shine in Williams Bay, Wisconsin on 2 November 1957.",
+    "interesting points": "The object was observed for 15 minutes,The object was moving west,Conclusions suggest it could have been a satellite, balloon, aircraft, or astronomical phenomenon, Venus was noted to be in the position of observation, The report was part of Project Blue Book documenting unidentified flying objects.",
+    "sighted object": "round to oval shaped object with bright metal shine",
+    "location": "Williams Bay, Wisconsin, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

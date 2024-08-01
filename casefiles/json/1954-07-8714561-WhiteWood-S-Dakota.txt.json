@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A large object was reported over the city of White Wood, South Dakota around 1300 hours on July 5, 1954.",
-    "interesting points": [
-        "The object was reported to be moving very fast and erratic.",
-        "The object was observed with intensity using field glasses.",
-        "The object did not land, but was reported to hover for a period of time.",
-        "Fighter pilots were scrambled but could not make contact with the object.",
-        "Passengers also reported seeing the object fly very fast and then hover."
-    ],
-    "result": "unknown",
-    "sighted object": "a large object",
-    "location": "White Wood, South Dakota",
-    "witnesses": "civilian observers, fighter pilots",
-    "photographs": "no"
+    "main event": "An object was reported hovering and disappearing over White Wood, South Dakota on July 5, 1954.",
+    "interesting points": "The sighting lasted for about 2 hours., The object was reported as moving very fast and erratic., A scramble was ordered but fighter pilots could not make contact with the object., The object was observed using field glasses., The object appeared to hover like a star.",
+    "sighted object": "one huge object in the sky",
+    "location": "White Wood, South Dakota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "general public and possibly military personnel",
+    "contains photographs": false
 }

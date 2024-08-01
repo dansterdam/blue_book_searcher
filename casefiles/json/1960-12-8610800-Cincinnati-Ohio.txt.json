@@ -1,17 +1,9 @@
-Here is a JSON summary of the key points from the UFO report:
-
 {
-    "main event": "Two objects described as 'yellow lights' were observed moving very fast from southeast to northwest over Cincinnati, Ohio on December 18, 1960 around 5:25 PM.",
-    "interesting points": [
-        "The objects were described as being the 'octic length of 2-3', ruling out a jet aircraft.",
-        "The sighting lasted for approximately 2 minutes.",
-        "The Air Force requested additional details from the witnesses to assist in evaluating the report.",
-        "The Air Force sent questionnaires to the witnesses to gather more information about the sighting.",
-        "The report states the objects were 'brilliant' and 'not ordinary aircraft'."
-    ],
-    "result": "unexplained",
-    "sighted object": "two yellow lights moving quickly",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "none"
+    "main event": "Two objects moving very fast from southeast to northwest were observed in Cincinnati, Ohio on December 18, 1960.",
+    "interesting points": "The objects were described as yellow lights with an optical length of 2-3 feet., The sighting lasted for about 2 minutes., The observation occurred toward the setting sun, which ruled out a jet aircraft., The sightings were reported in an old document related to Project Blue Book., The report includes a request for additional information from witnesses to evaluate the sightings.",
+    "sighted object": "two yellow lights in the sky",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "witnesses described the lights as moving very fast",
+    "contains photographs": false
 }

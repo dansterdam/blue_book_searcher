@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observer in Norwood, Ohio reported seeing an unusual, well-lit object the size of the moon with a dark center on June 6, 1953 around 4:50 AM.",
-    "interesting points": [
-        "The observer, Arthur F. Norton, was somewhat confused and did not fully understand the incident.",
-        "The object did not leave a vapor trail and the conclusion was listed as 'Unknown'.",
-        "The observer reported the object varied in its course and was observed for 10-15 minutes.",
-        "Photographs were taken but not included in the report.",
-        "The report indicates that only the single observer saw the object and no other witnesses came forward."
-    ],
-    "result": "unknown",
-    "sighted object": "unusual, well-lit object the size of the moon with a dark center",
-    "location": "Norwood, Ohio",
-    "witnesses": "single civilian observer, Arthur F. Norton",
-    "photographs": "yes, but not included in the report"
+    "main event": "Arthur F. Norton observed an unusual well-lighted object in Norwood, Ohio on June 6, 1953, around 4:50 a.m.",
+    "interesting points": "The object was reported to be the size of the moon with a dark center., The observation lasted for about 10-15 minutes., The object did not leave a vapor trail upon disappearance., The observer was somewhat confused and did not fully understand the incident., Only the observer witnessed the event; no other confirmations were noted.",
+    "sighted object": "unusual well-lighted object",
+    "location": "Norwood, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Arthur F. Norton, a civilian.",
+    "contains photographs": false
 }

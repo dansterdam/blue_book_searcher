@@ -1,15 +1,9 @@
 {
-    "main event": "The report describes a sighting of a bluish-white irregular round object with two small satellites, observed briefly through binoculars by Air Force personnel at Chanute AFB, Illinois in September 1952.",
-    "interesting points": [
-        "The object was approximately 10 times the diameter of neighboring stars and moved in a straight path before ascending and disappearing as if going behind a cloud.",
-        "It was seen for a duration of about 25 minutes, during which it disappeared and reappeared multiple times, with a decrease in brightness over time.",
-        "A local flying B-25 was requested to attempt interception, but the pilot dismissed the object as a reflection of a star on the clouds.",
-        "The weather consisted of thunderstorms in the west and light cirrus clouds in the east, and it was noted that clouds passed between the object and the observers on several occasions.",
-        "The report includes sketches depicting the flight path and position of the sighting relative to the horizon."
-    ],
-    "result": "Probably Balloon",
-    "sighted object": "bluish-white irregular round object with two small satellites",
-    "location": "Chanute AFB, Illinois",
-    "witnesses": "Air Force personnel",
-    "photographs": "no the report does not include photographs"
+    "main event": "Three control tower operators at Chanute AFB observed a bright bluish-white object with two small satellites moving in the sky on September 16, 1952.",
+    "interesting points": "The object was visible through binoculars and was about ten times larger than nearby stars., The object moved in a straight path, ascending and changing its heading several times., Observers noted that the object disappeared behind clouds several times during the sighting., A request was made for an aircraft interception, but the pilot did not see the object clearly., The sighting lasted from approximately 2210 hrs to 2235 hrs CDT.",
+    "sighted object": "a bright bluish-white irregular round object with two small satellites",
+    "location": "Chanute AFB, Illinois, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "control tower operators, one of whom was a former pilot with combat experience",
+    "contains photographs": false
 }

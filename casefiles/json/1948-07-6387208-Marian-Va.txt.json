@@ -1,15 +1,9 @@
 {
-  "main event": "A private pilot reported a sighting of an unidentified flying object while flying in July or August 1948 between Wytheville and Marion, Virginia.",
-  "interesting points": [
-    "The pilot initially mistook the UFO for the headlight of a locomotive due to its brightness and movement, but soon realized it was a separate object.",
-    "The UFO was described as a brilliant light, larger than a typical aircraft light, and seemed to move at a speed slower than the pilot's plane in the same direction.",
-    "After observing the UFO for some time, it appeared to suddenly accelerate at a speed much faster than the pilot's aircraft before disappearing from view.",
-    "The pilot was puzzled by the behavior of the light and felt there was no reasonable explanation for its movement and characteristics.",
-    "The report was acknowledged by the U.S. Army Air Force and the sighting was incorporated into their study of unidentified aerial phenomena."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified brilliant light in the sky",
-  "location": "between Wytheville and Marion, Virginia",
-  "witnesses": "private pilot",
-  "photographs": "no"
+    "main event": "A private pilot observed a mysterious light while flying alone between Wytheville and Marion, Virginia in July or August 1948.",
+    "interesting points": "The pilot initially thought the light was from a locomotive but realized it was moving and brighter than a typical aircraft's light., The light maintained a constant position relative to the pilot's aircraft, giving the impression of curiosity., The pilot described the light's brilliance as greater than that of a standard tail light., After a short period, the light accelerated away at high speed, exceeding 300 MPH., No other witnesses reported seeing the light in the area.",
+    "sighted object": "a brilliant light in the sky",
+    "location": "Marion, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a private pilot from Buffalo, New York",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A resident of Fairborn, Ohio reported seeing a white, medium-sized object moving in an orbiting path from northwest to southeast at an altitude of approximately 70-90 feet above the horizon in July 1963.",
-    "interesting points": [
-        "The object appeared to hover, then suddenly darted upward at a very fast speed.",
-        "The witness described the object's size and movement as similar to the appearance and movement of the moon or sun in daylight.",
-        "The witness could not explain the purpose or reason for the object's activity.",
-        "The object was observed for about 3-5 minutes before moving rapidly to the east.",
-        "Other witnesses, including the witness's wife and son, also observed the object."
-    ],
-    "result": "Unknown",
-    "sighted object": "A white, medium-sized object",
-    "location": "Fairborn, Ohio",
-    "witnesses": "A resident and their family",
-    "photographs": "No photographs were included in the report"
+    "main event": "On July 20, 1963, a witness in Fairborn, Ohio, observed an unidentified flying object that hovered and suddenly darted upward at high speed.",
+    "interesting points": "The object appeared to hover for about 3-5 minutes before moving rapidly towards the east., The report noted that this was either early warning or intelligence activity., The witness's wife and son also reported seeing the object., The object was compared to the echo and movement of the moon or sun seen in daylight., The sighting lasted for approximately 3 minutes.",
+    "sighted object": "one unidentified flying object",
+    "location": "Fairborn, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "the witness's wife, son, and a friend across the way",
+    "contains photographs": false
 }

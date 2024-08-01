@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object like a ball of light, silvery in color, with a long vapor trail, was observed at an altitude of around 5,000-6,000 feet for approximately 14 minutes.",
-    "interesting points": [
-        "The object was described as a large ball of fire moving in a northwesterly direction.",
-        "The object was first observed directly overhead and then gradually disappeared over the horizon.",
-        "The sighting was made visually by a civilian male observer who was 27 years old.",
-        "The weather conditions were clear with a wind speed of 12-15 knots and a temperature of 68 degrees Fahrenheit.",
-        "No photographs or physical evidence were available, but the sighting was reported to the authorities."
-    ],
-    "result": "unexplained",
-    "sighted object": "a ball of light, silvery in color, with a long vapor trail",
+    "main event": "On 4 August 1965, a civilian observed a silver ball of light with a long vapor trail in Sacramento, California.",
+    "interesting points": "The object was observed for approximately 5-6 minutes.,The object was at an estimated altitude of 5,000-6,000 feet.,The sighting occurred from the lobby of the 605 K St. Claire Hotel.,Witness description indicates that the object was the size of a dime and emitted an intense light.,The observation was made in clear skies with a slight wind.",
+    "sighted object": "a silver ball of light",
     "location": "Sacramento, California",
-    "witnesses": "civilian male",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian male, 27 years of age, observed from hotel lobby",
+    "contains photographs": false
 }

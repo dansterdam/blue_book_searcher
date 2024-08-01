@@ -1,15 +1,9 @@
 {
-    "main event": "On October 23, 1949, a UFO sighting was reported in Cincinnati, Ohio, with one photo included in the file.",
-    "interesting points": [
-        "The sighting took place in Cincinnati, Ohio.",
-        "The report includes one photo related to the UFO sighting.",
-        "The document indicates that it was filed on October 23, 1949.",
-        "The report suggests that there was at least one witness to the event.",
-        "The location and date provide specific details for further investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "unspecified UFO",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "at least one witness",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Document contains a UFO report dated October 23, 1949, from Cincinnati, Ohio.",
+    "interesting points": "The report is labeled as File 579., The document is dated October 23, 1949., The location of the report is Cincinnati, Ohio., There is mention of 1 photo, although it is unclear in quality., The image provided is mostly dark with markings and no discernible details.",
+    "sighted object": "not specified",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not available",
+    "contains photographs": false
 }

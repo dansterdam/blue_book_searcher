@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four amateur astronomers observed a diamond formation of four oval-shaped objects in the sky over Greenville, South Carolina on May 13, 1952.",
-    "interesting points": [
-        "The objects were described as being relatively stationary and overhead, disappearing at an angle of about 12 degrees in three seconds.",
-        "The observers were uncertain if the objects were geese or something else, with one observer believing they were geese and the other three believing they were not.",
-        "The report mentions that the incident was similar to other sightings from drive-in theaters and one from Fargo, North Dakota on April 22, 1952.",
-        "The possibility of the objects being aircraft was ruled out since they passed directly overhead with no sound.",
-        "The conclusion of the report was 'Unknown'."
-    ],
-    "result": "unknown",
-    "sighted object": "four oval-shaped objects in a diamond formation",
-    "location": "Greenville, South Carolina",
-    "witnesses": "four amateur astronomers",
-    "photographs": "no"
+    "main event": "On May 13, 1952, four amateur astronomers in Greenville, South Carolina observed four oval-shaped unidentified flying objects in a diamond formation.",
+    "interesting points": "The objects were described as emitting a bright brown or orange glow and were relative in size to a half dollar held at arm's length,The sighting lasted about 5 to 10 seconds,The objects oscillated and wobbled during flight,Two observers believed the objects could be geese, while two others were certain they were not,The sighting occurred on a clear night with excellent visibility.",
+    "sighted object": "four oval-shaped unidentified flying objects",
+    "location": "Greenville, South Carolina, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "amateur astronomers",
+    "contains photographs": false
 }

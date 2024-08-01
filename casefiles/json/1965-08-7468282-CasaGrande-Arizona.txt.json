@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian witness observed two white, round objects in the sky over Casa Grande, Arizona in August 1965.",
-    "interesting points": [
-        "The objects initially appeared as one white light, which then split into two separate objects.",
-        "The objects were approximately 1/8 to 3/8 inch in size as they traversed the sky.",
-        "The objects were observed to be in a formation after splitting apart.",
-        "The objects made a 'rolling thunder' noise similar to a distant locomotive.",
-        "The objects climbed rapidly to the northwest and disappeared from view within 7 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "two white, round objects",
-    "location": "Casa Grande, Arizona",
-    "witnesses": "1 civilian witness (Mr. Bill, a member of the Civil Air Patrol)",
-    "photographs": "none"
+    "main event": "A civilian observed a white light split into two objects over Casa Grande, Arizona in August 1965.",
+    "interesting points": "The sighting lasted approximately 7 seconds., The objects were initially seen as one white light which then divided into two objects., The objects were approximately 1/4 inch in size and appeared to climb rapidly after splitting., The witness described a rolling thunder sound associated with the objects., The observer is a 56-year-old civilian, involved with the Chamber of Commerce and considered a reliable individual.",
+    "sighted object": "one white light that split into two objects",
+    "location": "Casa Grande, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian male, age 56, member of the Chamber of Commerce and Civil Air Patrol",
+    "contains photographs": false
 }

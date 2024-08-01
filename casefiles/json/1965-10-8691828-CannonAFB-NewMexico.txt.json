@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified aerial object was observed at Cannon AFB in New Mexico on October 3, 1965.",
-    "interesting points": [
-        "The object varied in size from the size of a dime to a quarter at arm's length.",
-        "The object had a brilliant white to orange color and emitted bright flashes of white.",
-        "The object performed a figure-8 pattern and spiral maneuver in the sky.",
-        "The object was tracked on the scope of a radar camera but could not be faded out into the horizon.",
-        "The observer stated the sighting lasted for 25 minutes, but there were no other reported sightings despite the object's brightness and strange behavior."
-    ],
-    "result": "Identified as the star Arcturus, but the report notes there was no physical evidence to account for the observed phenomena.",
-    "sighted object": "A circular, bright white to orange object",
-    "location": "Cannon AFB, New Mexico",
-    "witnesses": "1 military observer, Sergeant Henry S. Hadley",
-    "photographs": "No photographs were included in the report"
+    "main event": "An unidentified aerial object was observed at Cannon AFB in New Mexico on 3 October 1965, described as an 'Astro (Arcturus)'.",
+    "interesting points": "The object was visible for 25 minutes,The object's size was noted to vary from that of a dime to a quarter at arm's length,It was reported that the object attracted the attention of observers due to its brilliance,The object performed a figure 8 pattern and spiraled in one area,No physical evidence of the phenomenon was recorded.",
+    "sighted object": "an unidentified aerial object described as 'Astro (Arcturus)'",
+    "location": "Cannon AFB, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Henry S. Hadley, MSGT, Supply SQ, NCDIC, with an average reliability estimate",
+    "contains photographs": false
 }

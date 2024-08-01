@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A dark gray, disk-shaped object hovered at a low altitude and then moved off very fast to the southeast.",
-    "interesting points": [
-        "The original photographs were not received for evaluation by the Air Force.",
-        "The Air Force was unable to determine the size of the object based on the available information.",
-        "Witnesses reported that the object appeared further away than a nearby helicopter, but the measurements did not conclusively rule out the helicopter being closer.",
-        "Dr. J. Allen Hynek stated that the photographs appeared to be authentic.",
-        "Major Nylls tried unsuccessfully to obtain the original photographs from the witnesses."
-    ],
-    "result": "unexplained",
-    "sighted object": "a dark gray, disk-shaped object",
-    "location": "Mt. Clemens, Michigan",
-    "witnesses": "civilian",
-    "photographs": "yes, but not received by the Air Force"
+    "main event": "A visual observation of a dark gray colored, disk-shaped object hovering at low altitude in Mt. Clemens, Michigan on January 9, 1967.",
+    "interesting points": "The object was reported to move very fast to the southeast after hovering., The Air Force was unable to analyze original photographs because they were not received., Witnesses included civilians, specifically children who reported seeing the object., The object appeared to be further away than a nearby helicopter but was reported to be smaller., A family was reluctant to share their photographs despite the object being captured in images.",
+    "sighted object": "dark gray disk-shaped object",
+    "location": "Mt. Clemens, Michigan, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians, specifically children from the local area.",
+    "contains photographs": false
 }

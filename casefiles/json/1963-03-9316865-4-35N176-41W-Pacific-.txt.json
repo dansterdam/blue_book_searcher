@@ -1,15 +1,9 @@
 {
-    "main event": "A visible trail of propulsion was seen in the sky for about 5 minutes.",
-    "interesting points": [
-        "The object appeared to be ground radar or air-visual.",
-        "The object disappeared during the last 2 seconds of the sighting.",
-        "The report states there was insufficient data for evaluation.",
-        "The sighting occurred on March 13, 1963 at 16:45Z.",
-        "The sighting lasted for 5 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a visible trail of propulsion",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A visible trail of propulsion was seen in the sky for about 5 minutes, disappearing during the last 2 seconds of the sighting.",
+    "interesting points": "The observation lasted for 5 minutes.,The trail appeared to be possibly from a satellite, aircraft, balloon, or astronomical event.,No definitive conclusion was reached due to insufficient data.,The sighting involved a numerical evaluation and data reporting from various military and intelligence agencies.,The data includes coordinates and specifics on the object's trajectory and speed.",
+    "sighted object": "On object with a visible trail of propulsion",
+    "location": "Hawaii",
+    "number of confirmed witnesses": 1,
+    "witness description": "reporting entity from the Kunia Facility, Hawaii",
+    "contains photographs": false
 }

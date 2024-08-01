@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple unidentified aerial objects were observed on radar at El Toro MCAS, California on November 7, 1956, traveling at high speeds and exhibiting radical changes in direction.",
-    "interesting points": [
-        "The radar operator reported several unidentified targets flying at an estimated altitude of 3,000 feet and at a speed of approximately 600 mph.",
-        "The targets were confirmed by tower operators and observed to be traveling at high speed and making radical changes in direction.",
-        "Aircraft were scrambled to investigate the targets but were unable to make visual contact, and the radar contact was lost after approximately 15 minutes.",
-        "Radar returns from an unidentified object were tracked over the area and radar scope photographs were taken during the tracking period.",
-        "No visual sightings of the objects were made by control tower personnel, yet the incident was reported to higher headquarters and the Air Force was notified."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified aerial objects",
-    "location": "El Toro MCAS, California",
-    "witnesses": "radar operators, tower operators, and military personnel",
-    "photographs": "yes, radar scope photographs were taken"
+    "main event": "Radar operators at El Toro MCAS reported several unidentified aerial objects detected on radar on November 7, 1956.",
+    "interesting points": "The unidentified targets were flying at an estimated altitude of 3,000 feet and at a speed of approximately 600 mph., They were confirmed by tower operators who observed their rapid changes in direction., Aircraft from El Toro were scrambled but could not make visual contact with the targets., The radar contact lasted for approximately 15 minutes before it was lost., Four radar scope photographs were taken during the tracking of the unidentified object.",
+    "sighted object": "unidentified aerial objects",
+    "location": "El Toro MCAS, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "radar operator at El Toro MCAS",
+    "contains photographs": false
 }

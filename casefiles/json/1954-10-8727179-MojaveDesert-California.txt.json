@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "A man and 3 children found multiple strips of silvery colored metal in the Mojave Desert, California.",
-    "interesting points": [
-        "The objects were approximately 1 to 1 1/2 inches long with a diameter of 1/16 of an inch.",
-        "The objects had a shiny, silver color and appeared to be covered with a glittery, metallic material.",
-        "The location was about 15 miles southwest of Edwards Air Force Base.",
-        "The author had no idea as to the nature of the objects and wondered if they were from some experiment by the Air Force.",
-        "The author stated that the objects do not appear to be any known type of radar reflector."
-    ],
-    "result": "CHAFF",
-    "sighted object": "multiple strips of silvery colored metal",
-    "location": "Mojave Desert, California",
-    "witnesses": "a man and 3 children",
-    "photographs": "no"
+    "main event": "A man and 3 children found multiple silvery objects in the Mojave Desert, believed to be a new type of chaff.",
+    "interesting points": "The objects were shiny and metallic in appearance., The discovered items were approximately 1 to 1.5 inches long and 1/16 of an inch wide., The incident took place about 15 miles southwest of Edwards Air Force Base., The report suggests the objects were not recognized as a known type of radar reflector., Samples of the objects were not forwarded for analysis.",
+    "sighted object": "multiple silvery colored objects",
+    "location": "Mojave Desert, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "a man and 3 children",
+    "contains photographs": false
 }

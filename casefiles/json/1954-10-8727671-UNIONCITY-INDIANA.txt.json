@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A sighting of strange objects falling slowly from the sky near Union City, Indiana.",
-    "interesting points": [
-        "The objects appeared to be thin, shiny threads and some were pink colored plastic bags.",
-        "The objects seemed to float towards the ground, with no observed control or guidance.",
-        "Some of the objects floated directly overhead.",
-        "The sighting lasted for only a minute or two.",
-        "The report indicates this was a 'past sighting' of 'Object 33' in the direction of Dayton, Ohio."
-    ],
-    "result": "Other: Chaff drop",
-    "sighted object": "thin, shiny threads and pink colored plastic bags",
-    "location": "Union City, Indiana",
-    "witnesses": "multiple persons",
-    "photographs": "yes"
+    "main event": "On October 8, 1954, several witnesses, including a businessman and his wife, observed an elongated, color-changing object in the sky near Union City, Indiana.",
+    "interesting points": "The object changed color from bright white to bright red during the sighting,The object appeared to float toward the ground and was described as oval-shaped and dark in color,It was observed in the sky for approximately 10-15 minutes,The report concluded that the object was likely a meteor or known astronomical phenomenon,There were no corroborating reports or physical evidence to confirm the sighting.",
+    "sighted object": "an elongated, oval-shaped object that changed colors",
+    "location": "Union City, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a businessman and his wife driving along a highway",
+    "contains photographs": false
 }

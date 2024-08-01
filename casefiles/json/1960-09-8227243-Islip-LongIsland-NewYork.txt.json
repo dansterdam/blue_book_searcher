@@ -1,15 +1,9 @@
 {
-    "main event": "Four bright bluish-white lights were seen flaming over Islip, Long Island, New York, and then moving toward an easterly direction at high speed before disappearing.",
-    "interesting points": [
-        "The sighting lasted for 40 minutes.",
-        "Interceptor pilots reported seeing the Aurora Borealis in the area of the reported sighting.",
-        "The Air Defense Sector was experiencing some radar jamming at various sites during the incident.",
-        "Two F-101A aircraft were scrambled to the area but could not locate any target, only the "very pretty Aurora Borealis".",
-        "It was determined that a weather balloon was launched from Idlewild Airport around the time of the sighting."
-    ],
-    "result": "Probable cause was that the observed Aurora Borealis was mistaken by the observers as a manmade weather balloon which drifted away before the interceptors could reach the area.",
-    "sighted object": "four bright bluish-white lights",
+    "main event": "Four bright bluish-white lights were observed flaming over Islip and then disappeared at high speed.",
+    "interesting points": "The sighting lasted for 40 minutes., The observers reported seeing the lights move towards an easterly direction., Pilot reports indicated similar observations in the area., Weather conditions were clear with a bright moon., Interceptor pilots reported seeing the aurora borealis in the area at the time of the sighting.",
+    "sighted object": "one bright bluish-white light",
     "location": "Islip, Long Island, New York",
-    "witnesses": "civilian - Long Island, reliability unknown",
-    "photographs": "no photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian from Long Island, reliability unknown",
+    "contains photographs": false
 }

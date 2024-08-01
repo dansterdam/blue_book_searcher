@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a UFO visually and on radar near Los Angeles, California in 1965.",
-    "interesting points": [
-        "The object was observed to move steadily upward for 2 minutes.",
-        "The object was about the size of a baseball at arm's length and was clear and distinct, not believed to be a meteor or star.",
-        "Several residents in the Silver Lake district of Hollywood observed the UFO, which was about the size of a football, for 15-20 minutes before it suddenly disappeared.",
-        "A blue object was also observed with the UFO, but it was not known what happened to it.",
-        "Weather conditions at the time, including cooler temperatures, light precipitation, and gusty winds, may have contributed to the visual phenomenon."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a single, unidentified object",
-    "location": "On Highway 110 near Los Angeles, California",
-    "witnesses": "civilian, several residents in the Silver Lake district of Hollywood",
-    "photographs": "none"
+    "main event": "Several residents in the Silver Lake district of Hollywood observed a UFO for about 15 to 20 minutes on 10 August 1965.",
+    "interesting points": "The UFO was reported to be about the size of a football,The blue object accompanying the UFO was about the size of a baseball,The UFO maneuvered and then suddenly disappeared, The sighting occurred during cooler temperatures with light precipitation,The case was considered closed by the USAF with no further action necessary.",
+    "sighted object": "UFO and a blue object",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "residents in the Silver Lake district",
+    "contains photographs": false
 }

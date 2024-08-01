@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An observer in Ft. Stockton, Texas photographed a bright, circular unidentified object in the sky on March 7, 1952 around 7:15 PM.",
-    "interesting points": [
-        "The object appeared as a bright circular shape against a dark background.",
-        "The image also shows a clock or dial with the text 'Circ' written below it.",
-        "The observer was able to photograph the object as it moved across the sky.",
-        "This photograph is one of multiple taken of the unidentified object.",
-        "The sighting occurred in Ft. Stockton, Texas."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, circular unidentified object",
-    "location": "Ft. Stockton, Texas",
-    "witnesses": "1 observer",
-    "photographs": "yes, the report includes 1 photograph"
+    "main event": "An observer photographed a bright circular object in the sky at Ft. Stockton, Texas on March 26, 1952.",
+    "interesting points": "The observation occurred at approximately 7:15 P.M.,The object was described as bright and circular against a dark background,There is a clock or dial visible in the image, with the text 'Circ' below it, The photograph taken is one of several captured during the observation, The object was moving across the sky when it was photographed.",
+    "sighted object": "a bright circular object in the sky",
+    "location": "Ft. Stockton, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "not specified",
+    "contains photographs": true
 }

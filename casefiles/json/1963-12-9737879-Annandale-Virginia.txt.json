@@ -1,15 +1,9 @@
 {
-    "main event": "A bright flash was observed in the sky near Annandale, Virginia on December 14, 1962 at 5:22 PM.",
-    "interesting points": [
-        "The object appeared to be two objects converging into one.",
-        "The brightness of the object decreased after the initial bright flash.",
-        "The witness observed the object at the time of the sighting.",
-        "The sighting was estimated to last for 2 seconds.",
-        "The Air Force's analysis concluded that the sighting was probably a meteor, balloon, aircraft, or space debris, possibly an astronomical phenomenon."
-    ],
-    "result": "Probable Astronomical Phenomenon",
-    "sighted object": "A single bright object in the sky",
-    "location": "Annandale, Virginia",
-    "witnesses": "1 witness",
-    "photographs": "No photographs"
+    "main event": "On December 14, 1962, a witness observed a bright flash in the sky which appeared to be an object moving through the air, possibly caused by a meteor.",
+    "interesting points": "The object appeared to be two objects converging into one., The observation lasted for 2 seconds., It was noted that the object's intensity decreased after the flash., The sighting involved a single object and was categorized under ground-visual observation., Dr. J. Allen Hynek, an astronomer, suggested the sighting was likely an astronomical phenomenon.",
+    "sighted object": "a bright flash in the sky",
+    "location": "Annandale, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness observed a flash in the sky and described the object as potentially being a meteor.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An Embassy official in Cyprus spotted a single unidentified metallic silver object in the sky on October 20, 1954.",
-    "interesting points": [
-        "The object had a 'hot glare' and a 'bright metallic silver' color.",
-        "The object was observed to be moving at a high speed with no sound or trail.",
-        "The report concluded the object was 'probably aircraft', possibly British.",
-        "The Embassy official who reported the sighting was located in Cyprus, in the Mediterranean region.",
-        "The sighting was documented in a Project Blue Book report (IR-132-54, ATIC 205361 (U))."
-    ],
-    "result": "probably aircraft",
-    "sighted object": "a single metallic silver object",
+    "main event": "An embassy official reported a sighting of a bright metallic silver object over Cyprus on October 20, 1954.",
+    "interesting points": "The object was described as having the shape of a hot glare and was metallic silver in color., The sighting was done through ground visual observation., The object made no sound and left no trail., The conclusion of the report suggested it was probably an aircraft., The sighting was documented in a follow-up report dated December 5, 1954.",
+    "sighted object": "one bright metallic silver object",
     "location": "Cyprus, Mediterranean",
-    "witnesses": "Embassy official",
-    "photographs": "no, the report does not include any photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "embassy official",
+    "contains photographs": false
 }

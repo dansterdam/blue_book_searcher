@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Three bright white and red lights were observed at Condon AFS, Oregon on May 21, 1966.",
-    "interesting points": [
-        "The lights appeared to be about 10 degrees above the normal horizon in a northerly direction from the observation point.",
-        "The lights appeared to turn on and off in an irregular pattern, but showed no apparent movement when viewed through binoculars or the naked eye.",
-        "A reference line was drawn on the window to check for parallax, and the lights reappeared and coincided with the reference line, indicating they were a distant object and not vehicles in the area.",
-        "It was determined the lights were likely from vehicle headlights and taillights on a newly opened road across the mountains.",
-        "The observer, Lt Col Albert G. Anderson, was on extended leave shortly after the sighting, causing a delay in the report."
-    ],
-    "result": "Likely vehicle lights on a new road",
-    "sighted object": "Three bright white and red lights",
-    "location": "Condon AFS, Oregon",
-    "witnesses": "Lt Col Albert G. Anderson",
-    "photographs": "No"
+    "main event": "An unidentified aerial phenomenon was observed at Condon AFS, Oregon on 20 May 1966.",
+    "interesting points": "The sighting lasted for one hour,Three objects were observed,The observation was conducted using ground visual means,The objects changed color from white to red,The conclusion suggested that the objects were likely ground lights.",
+    "sighted object": "three bright lights in the sky",
+    "location": "Condon AFS, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major Slaughter, 636th Radar Squadron, commander",
+    "contains photographs": false
 }

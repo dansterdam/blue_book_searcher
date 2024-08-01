@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Several unidentified flying objects were sighted in the Bellevue, Ohio area over multiple days in September 1961.",
-    "interesting points": [
-        "The objects were described as bright, glowing, and saucer-shaped, some with a small dome on top.",
-        "The objects were observed to move rapidly, stop suddenly, and make sharp turns.",
-        "One object was said to have a ring of lights around the outside and was about 6 feet high.",
-        "The witness reported seeing a total of 5 similar objects over the course of several sightings.",
-        "The Air Force was unable to definitively identify the objects, though they suggested they could be natural phenomena like phosphorescent meteors."
-    ],
-    "result": "unexplained",
-    "sighted object": "saucer-shaped, glowing objects",
-    "location": "Bellevue, Ohio",
-    "witnesses": "Civilian witness, unidentified",
-    "photographs": "none"
+    "main event": "A radar contact was tracked for 10 minutes on September 2, 1961, over Bellevue, Ohio, suggesting an unidentified flying object.",
+    "interesting points": "The object was tracked on radar at a speed of up to 600 mph., It was approximately 60 feet in diameter and irregular in shape., Initial thoughts proposed it could be a meteor or aircraft., The source of the information was an unidentified civilian associated with a school in Bucyrus, Ohio., Multiple sightings reported in the area on preceding nights.",
+    "sighted object": "irregular-shaped object approximately 60 feet in diameter",
+    "location": "Bellevue, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian associated with the school system in Bucyrus, Ohio",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A flickering light was observed in Gambell, St. Lawrence Island, Alaska on March 24-26, 1953.",
-    "interesting points": [
-        "The light initially appeared bright white and then changed to various shades of red and orange.",
-        "The light was observed at a true bearing of 323 degrees from the observer and at an initial altitude of 5 degrees above the horizon.",
-        "The duration of the sighting was 45 minutes, after which the light faded below the horizon.",
-        "The light was observed on two other occasions, on March 25 and 26, in the same location.",
-        "The ATIC (Air Technical Intelligence Center) concluded that the light was most likely the astronomical body Venus, based on its bearing, gradual fade-out, and repeated observations."
-    ],
-    "result": "Astronomical (Venus)",
-    "sighted object": "a flickering light",
+    "main event": "Observers reported a flickering light that appeared bright white and changed to red and orange over Gambell, St. Lawrence Island, on multiple nights in March 1953.",
+    "interesting points": "The light changed colors from bright white to shades of red and orange., It was observed at a true bearing of 323° from the observer., The initial altitude of the light was about 5° above the horizon., The duration of the sighting was 15 minutes, with similar lights observed on subsequent nights., The conclusion drawn was that the observed light was likely the astronomical body Venus.",
+    "sighted object": "flickering light changing from white to red and orange",
     "location": "Gambell, St. Lawrence Island, Alaska",
-    "witnesses": "two unnamed sources",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "Observers located approximately 1 mile East of the village of Gambell.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A cluster of 12-15 unidentified objects were observed in the sky over Sawyer AFB, Michigan.",
-    "interesting points": [
-        "The objects appeared as a cluster of stars that changed to a red color.",
-        "The objects were enclosed in a teardrop-shaped light formation with a fan-shaped tail of light coming from each object.",
-        "The objects were observed moving in a straight path with no maneuvers.",
-        "The objects were observed at an altitude of approximately 12 degrees and a direction of 25 degrees.",
-        "No sound or smell was associated with the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "cluster of 12-15 unidentified red objects",
-    "location": "Sawyer AFB, Michigan",
-    "witnesses": "air police personnel",
-    "photographs": "no"
+    "main event": "A UFO was reported hovering and flashing lights in Quincy, Washington on September 9, 1962, with a piece of metal found the following day potentially associated with the sighting.",
+    "interesting points": "The caller described the object as flashing lights and hovering for 3-4 seconds, there was a physical piece of metal found that was analyzed, the material was identified as type 3003, the sighting was corroborated by local media reports and other witnesses, weather conditions were reported as scattered clouds.",
+    "sighted object": "a bright light object hovering and flashing",
+    "location": "Quincy, Washington, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "various personnel including local radio reporters and civilians",
+    "contains photographs": false
 }

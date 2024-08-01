@@ -1,17 +1,9 @@
-Here is the JSON summary based on the text provided:
-
 {
-    "main event": "A Trans Texas Airways pilot sighted a UFO near Houston, Texas on July 20, 1961.",
-    "interesting points": [
-        "The pilot reported seeing a bright light while taking off from Houston Airport that appeared to be hovering between 6,000 and 7,000 feet over Baytown, Texas.",
-        "The UFO followed an erratic flight path, varying in altitude from 12,000 down to 6,000 feet before disappearing to the east.",
-        "The sighting lasted for about 30 minutes, with the UFO appearing and disappearing intermittently.",
-        "Small, vague, non-persistent blips were detected on weather radar in the general area of the sighting, but they were not strong enough for analysis.",
-        "No physical evidence such as photography was obtained, but an audio recording of the pilot's report was made and retained at the Jefferson County Airport."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright light/object that appeared to be hovering and maneuvering",
-    "location": "near Houston, Texas",
-    "witnesses": "Trans Texas Airways pilot",
-    "photographs": "no, but an audio recording was made"
+    "main event": "On July 20, 1961, Trans Texas Airlines flight 110 reported a sighting of a brilliant military installation and a similar object hovering above at approximately 30,000 feet.",
+    "interesting points": "The pilots observed a glowing object hovering several thousand feet above them., The object was stationary for about 2 minutes before disappearing at a high rate of speed., The sighting was documented in a conversation with Beaumont Approach Control., There were no incidents during the flight after the sighting., The sighting lasted for a brief period but was taken seriously by air traffic control.",
+    "sighted object": "brilliant military installation and hovering object",
+    "location": "Beaumont, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "pilots of Trans Texas Airlines flight 110",
+    "contains photographs": false
 }

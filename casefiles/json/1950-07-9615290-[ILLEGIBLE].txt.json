@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "Unconventional aircraft sighted over Redstone Arsenal, Alabama on July 15, 1950",
-    "interesting points": [
-        "The object appeared to be constructed of some shiny, polished material that reflected the sun's rays, and was circular in shape, perhaps slightly larger with a tapered effect.",
-        "The object followed a parallel line for approximately 5 to 8 miles, before appearing to be in some type of flight trouble, with the leading and rear sections turning in opposite directions.",
-        "After this brief 'fluttering' motion, the object resumed its level flight, then abruptly made a sharp 75 to 90 degree turn to the right and accelerated away at high speed.",
-        "The weather at the time was very overcast, with a slight thunderstorm behind the object, indicating no direct sunlight was present.",
-        "Two witnesses observed the incident - an employee of the Chief Signal Office in Washington, and a Fire Engineering Aide at the Ordnance Rocket Center at Redstone Arsenal."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, shiny, polished object with tapered effect",
-    "location": "Redstone Arsenal, Alabama",
-    "witnesses": "two employees at Redstone Arsenal",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An unconventional aircraft was observed near Redstone Arsenal, Alabama on July 15, 1950.",
+    "interesting points": "The object was flying at approximately 1,000 feet elevation with an air speed of 100-125 miles per hour., The object was described as circular and constructed of shiny polished material that reflected sunlight., Witnesses noted the aircraft experienced flight trouble, with its triangular sections moving in opposite directions., The sighting occurred under overcast weather with a slight thunderstorm behind the object., The object made a sharp 75 to 90 degree turn and accelerated out of view in less than 5 seconds.",
+    "sighted object": "unconventional aircraft",
+    "location": "Redstone Arsenal, Alabama, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "employees of the Chief Signal Office and the Ordnance Rocket Center",
+    "contains photographs": false
 }

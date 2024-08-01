@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A group of students in Bristol, Vermont observed a red, glowing round object in the sky for about 10 minutes on April 1, 1966.",
-    "interesting points": [
-        "The object was approximately the size of a silver dollar held at arm's length.",
-        "The object seemed to be at 100 feet, then lowered to tree-top level before fading away.",
-        "The weather conditions were clear and dark, with winds at various altitudes.",
-        "The local air traffic control reported no unusual activity or adverse weather in the area.",
-        "The report concludes that the students possibly observed a visual and unusual phenomenon, but there was no physical evidence."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red, glowing round object",
-    "location": "Bristol, Vermont",
-    "witnesses": "3 students, ages 15 and 16",
-    "photographs": "no"
+    "main event": "A civilian reported observing a stationary round red glowing object in Bristol, Vermont on April 4, 1966.",
+    "interesting points": "The object was observed for approximately 10 minutes,The witness described the object as being about the size of a silver dollar held at arm's length and glowing red,The observation was made from a bedroom window using binoculars,Weather conditions during the sighting were reported as clear and dark,The object seemed to fade away after being observed at a low altitude.",
+    "sighted object": "a round red glowing object",
+    "location": "Bristol, Vermont, USA",
+    "number of confirmed witnesses": 2,
+    "witnesses": "students aged 15 and 16",
+    "photographs": false
 }

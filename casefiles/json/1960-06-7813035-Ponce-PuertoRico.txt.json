@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was observed in the sky west of the sun for about 45 minutes by personnel at the Hotel Ponce Intercontinental in Ponce, Puerto Rico on June 1, 1960.",
-    "interesting points": [
-        "The object was glittering and appeared very close to the sun, though it was actually far away.",
-        "The object moved away from the sun over the 45 minute observation period.",
-        "The witnesses were unable to obtain any photographs of the object.",
-        "An analysis by the U.S. Air Force determined the object was likely the planet Venus, which can be visible during the day when close to the sun.",
-        "Many people are not aware that planets can be seen in the daytime without a telescope."
-    ],
-    "result": "Identified as the planet Venus",
-    "sighted object": "A bright, glittering object in the sky",
+    "main event": "Multiple witnesses reported sighting a bright object in the sky near the sun on June 1, 1960, in Ponce, Puerto Rico.",
+    "interesting points": "The object was observed for about 45 minutes and was seen reflecting sunlight., The object appeared to be very close to the sun, laying parallel to it., An initial misidentification arose, believing it to be a UFO, whereas it was later concluded to be the planet Venus., Witnesses described a sudden disappearance of the object after a brief duration., The sighting occurred in broad daylight, making it a novel experience for the observers.",
+    "sighted object": "an unidentified bright object, later identified as Venus",
     "location": "Ponce, Puerto Rico",
-    "witnesses": "Personnel at the Hotel Ponce Intercontinental",
-    "photographs": "None"
+    "number of confirmed witnesses": 3,
+    "witness description": "hotel personnel and guests",
+    "contains photographs": false
 }

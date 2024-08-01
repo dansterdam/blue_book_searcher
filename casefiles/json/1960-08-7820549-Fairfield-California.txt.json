@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A circular, glowing object was observed by the volunteer fire department in Fairfield, California on August 6, 1960.",
-    "interesting points": [
-        "The object was approximately 40 to 45 feet in diameter according to witness reports.",
-        "The object stood very bright in the sky for at least two minutes before rapidly climbing upward and disappearing from view.",
-        "The object had a tail or trail, like a comet, and flames could be seen during its climb.",
-        "The witness stated he would not have seen the object earlier as he was too busy fighting a fire and did not notice it until it began to climb up rapidly.",
-        "The object was described as luminous and circular in shape."
-    ],
-    "result": "unexplained",
-    "sighted object": "a circular, glowing object",
-    "location": "Fairfield, California",
-    "witnesses": "volunteer fire department",
-    "photographs": "no"
+    "main event": "On August 18, 1960, a football-shaped object was observed in Fairfield, California.",
+    "interesting points": "The object was solid reddish-white in color and its flight path was described as erratic with very high speed,The object was reported by both civilian and military observers,Descriptions in the reports suggest the object might have been a meteor,Observation included a detailed assessment of its speed and altitude,Additional reports mentioned a circular object emitting soft white light, observed hovering.",
+    "sighted object": "football-shaped object",
+    "location": "Fairfield, California, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "A military captain and two witnesses who were present on base at that time",
+    "contains photographs": false
 }

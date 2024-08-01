@@ -1,15 +1,9 @@
 {
-    "main event": "Several jet pilots, air traffic control tower operators, and technicians observed unusual objects in the sky over Teheran, Iran on September 7, 1955.",
-    "interesting points": [
-        "The objects took up stationary positions and then moved at high speeds in various directions.",
-        "Ground radar also tracked the objects, but pilots scrambled were unable to make visual contact or get near them.",
-        "On May 6, 1959, two Iranian Air Force F-86 Sabre jet interceptors were scrambled to investigate four unidentified objects detected on radar over the Tehran area.",
-        "The objects were tracked on radar at speeds up to 600-700 mph and altitudes up to 60,000 ft. When the interceptors closed in, the objects changed direction and outran the jets.",
-        "During the second intercept attempt, the lead pilot's instruments went off and his aircraft's lights went out, causing him to abort the mission."
-    ],
-    "result": "unknown",
+    "main event": "On 7 Sep 55, several jet pilots and air traffic control operators observed unusual stationary objects in the sky over Teheran, which then moved in various directions at high speed.",
+    "interesting points": "The objects were tracked by ground radar and were observed simultaneously by multiple pilots and technicians., Two Iranian AF F-86 Sabre jets were scrambled on 6 May 1959 to investigate four unidentified objects detected on radar., The objects were tracked at speeds up to 600-700 mph and altitudes up to 60,000 ft., During the interception attempts, the lead pilot's instruments failed and lights went out, causing him to abort the mission., Observers reported feeling strong static electricity sensations before and after sightings.",
     "sighted object": "unidentified flying objects",
     "location": "Teheran, Iran",
-    "witnesses": "jet pilots, air traffic control tower operators, technicians",
-    "photographs": "no"
+    "number of confirmed witnesses": 6,
+    "witness description": "jet pilots, air traffic control tower operators, and technicians",
+    "contains photographs": false
 }

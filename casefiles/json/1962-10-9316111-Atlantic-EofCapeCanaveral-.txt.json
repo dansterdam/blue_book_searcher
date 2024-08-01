@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A vessel observed what appeared to be a rocket satellite taking off with a bright blasting off rocket booster, followed by a red, white, and blue light trail.",
-    "interesting points": [
-        "The initial bright blasting off rocket booster was observed.",
-        "The rocket satellite was later observed at an altitude of about 15 degrees, with a tail of light in different colors, with red being the leading color.",
-        "The observer was fortunate to be in the vicinity to witness this incident.",
-        "The weather conditions at the time were recorded (barometer, air temperature, wind).",
-        "The report indicates that this was a very lucky chance to witness this event."
-    ],
-    "result": "Likely a rocket/satellite launch event",
-    "sighted object": "Rocket satellite with a bright blasting off booster and a multi-colored light trail",
-    "location": "Atlantic, east of Cape Canaveral",
-    "witnesses": "Vessel crew",
-    "photographs": "Yes, the report indicates that photos were taken"
+    "main event": "A bright ball of orange light was observed during the ascent of a rocket booster launched from Cape Canaveral.",
+    "interesting points": "The observation lasted for 20 minutes,The object was noted to be red, white, and blue with red leading during its ascent,The event was visually confirmed by multiple observations around the same date,Similar bright lights were reported in different instances east of Cape Canaveral,The sighting was formally recorded in a Project Blue Book document that includes marine data from the U.S. Navy.",
+    "sighted object": "a rocket booster",
+    "location": "Atlantic, E of Cape Canaveral, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observation documented in a Project Blue Book record card.",
+    "contains photographs": true
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A round object, size of a head of a pin, was observed in the sky over Overland, Missouri on October 7, 1957.",
-    "interesting points": [
-        "The object was reddish orange in color, turning to white as it disappeared.",
-        "The object moved overhead, climbing straight up and passing over the horizon to the east.",
-        "The sighting lasted for approximately one minute.",
-        "The witness was a fireman from Overland, Missouri.",
-        "Weather conditions included clear skies with surface winds from 124 degrees at 5 knots, and higher altitude winds up to 30 knots from various directions."
-    ],
-    "result": "unknown",
-    "sighted object": "a round object, size of a head of a pin",
-    "location": "Overland, Missouri",
-    "witnesses": "fireman",
-    "photographs": "no"
+    "main event": "A round object the size of a pinhead was observed over Overland, Missouri on 7 October 1957.",
+    "interesting points": "The object changed color from reddish orange to white as it disappeared., The sighting lasted for about one minute., The object was reported to likely be an aircraft or a balloon reflecting the sun's rays., The observer was a fireman named Mr. ---- who had a clear view of the event., The object moved in a straight path to the east before disappearing over the horizon.",
+    "sighted object": "round object changing color",
+    "location": "Overland, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "fireman from Overland, Missouri",
+    "contains photographs": false
 }

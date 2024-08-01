@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the reports:
-
 {
-    "main event": "Radar tracked several unidentified fast-moving objects over the Fort Monmouth, New Jersey area on September 10-11, 1951.",
-    "interesting points": [
-        "Radar tracked an object moving at an estimated speed of 1,800 to 2,400 miles per hour at an altitude of 35,000 to 40,000 feet.",
-        "Radar operators were unable to track the objects with their radar systems due to the extreme speed of the objects.",
-        "Visual observations were made of the objects, which were described as circular in shape and maneuvering in ways that could not be attributed to any known aircraft.",
-        "An F-47 aircraft was scrambled to attempt to intercept the objects, but they disappeared before the aircraft could make contact.",
-        "Subsequent investigation could not conclusively identify the objects, and the case was left as unresolved."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple fast-moving unidentified objects tracked on radar",
-    "location": "Fort Monmouth, New Jersey",
-    "witnesses": "radar operators, pilots",
-    "photographs": "no"
+    "main event": "A series of unidentified aerial phenomena were reported near Fort Monmouth, New Jersey on September 10-11, 1951, with multiple eyewitness accounts and radar tracking.",
+    "interesting points": "The radar detected high-speed objects moving at estimated speeds of up to 8,100 mph., Eyewitness accounts described the objects as bright, silvery, and circular in shape., Despite extensive investigations, definitive identification of the objects remains elusive., There were multiple radar anomalies attributed to the same event, raising questions about possible balloon activity., The investigation concluded that while some sightings could be attributed to balloons, others could not be definitively explained.",
+    "sighted object": "Unidentified flying objects tracked by radar and observed visually",
+    "location": "Fort Monmouth, New Jersey, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Army officers and civilian observers, including radar operators and pilots",
+    "contains photographs": false
 }

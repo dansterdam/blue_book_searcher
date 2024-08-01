@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot spotted a bright green, meteor-like object in the sky over Salinas, California on May 15, 1954.",
-    "interesting points": [
-        "The object had a variable tail-like appearance, similar to a missile but also relative to an aircraft.",
-        "The object's movement was described as a long, drawing trail, with the object moving westward.",
-        "The object was observed for about 8 seconds before disappearing.",
-        "There were reports of similar sightings of bright lights and objects in the sky over Idaho, Wyoming, Utah, Colorado, Arizona, and New Mexico.",
-        "Some of the previously reported sightings had the objects disappearing without a trace, such as on September 28, 1954 and October 4, 1952."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright green, meteor-like object",
-    "location": "Salinas, California",
-    "witnesses": "pilots",
-    "photographs": "none"
+    "main event": "Pilots observed a bright green object in the sky while flying over Salinas, California on May 15, 1954.",
+    "interesting points": "The object was described as having a variable tail resembling a missile., The pilots estimated the number of objects to be 2., The sighting lasted for approximately 8 seconds., The conclusion classified the object as an astronomical meteor, specifically a fireball meteor., The object was descending on a straight path and then disappeared and reappeared within 1-2 seconds.",
+    "sighted object": "bright green object with a variable tail",
+    "location": "Salinas, California, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "military pilots and officers from the Air Force",
+    "contains photographs": false
 }

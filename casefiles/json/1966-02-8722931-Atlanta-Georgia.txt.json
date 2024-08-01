@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The observer saw a blue object, slightly larger than a full moon, that moved downwards and turned its edges slowly. The object glowed red at one point and drew the observer in to look at it.",
-    "interesting points": [
-        "The observer said the object seemed to 'call' them to come investigate.",
-        "The observer nearly fainted and had to sit down after looking at the object.",
-        "Other family members saw the object but did not have the same reaction as the observer.",
-        "The observer reported the sighting to Dobbins Air Force Base, but they said they had no record of it.",
-        "The observer also contacted local radio and TV stations, but they had no information about the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a blue, glowing object that was slightly larger than a full moon",
-    "location": "Atlanta, Georgia",
-    "witnesses": "1 witness (the observer)",
-    "photographs": "none"
+    "main event": "A witness observed a blue object in the sky from their apartment in Atlanta, Georgia, on 4 February 1966.",
+    "interesting points": "The object was described as slightly larger than a full moon and blue in color,The witness reported that the object moved downwards and then glowed red,The observer felt drawn to the object and nearly fainted from the experience,The witness's brother-in-law contacted Dobbins Air Force Base, but they had no record of the sighting,The report concludes that there was insufficient data for evaluation.",
+    "sighted object": "a blue object in the sky",
+    "location": "Atlanta, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "17-year-old female resident who observed the object from her apartment.",
+    "contains photographs": false
 }

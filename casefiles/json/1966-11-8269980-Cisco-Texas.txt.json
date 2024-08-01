@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A large, illuminating object was sighted moving slowly and silently at low altitude over Cisco, Texas on August 14, 1966.",
-    "interesting points": [
-        "The object appeared to be saucer-shaped with lights along the edges and a bright light blinking on and off from the bottom.",
-        "The object lit up the surrounding area like an airborne searchlight.",
-        "The object was under observation for approximately 10 minutes before moving out of sight.",
-        "Other observers in the area reported similar sightings at the same time.",
-        "The witness was amazed and scared while watching the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, saucer-shaped object with lights",
-    "location": "Cisco, Texas",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "Civilian observers reported seeing a large, silent object illuminating the area like an airborne searchlight in Cisco, Texas on August 14, 1966.",
+    "interesting points": "The object was observed for approximately 10 minutes before moving out of sight to the northwest., The sighting occurred at a low altitude of about 1000 feet., Witnesses noted that the object had lights along its edges which blinked brightly., Similar sightings were reported by other observers in the area at the same time., The reporting observer was left both amazed and scared by the sighting.",
+    "sighted object": "a large, saucer-shaped object emitting bright lights",
+    "location": "Cisco, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observers including a college student",
+    "contains photographs": false
 }

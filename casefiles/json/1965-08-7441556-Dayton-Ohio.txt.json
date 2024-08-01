@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian observed two objects with bright lights over Dayton, Ohio for 2-3 minutes on August 2, 1963.",
-    "interesting points": [
-        "The objects were stationary and one appeared sharply outlined and seemed to sway.",
-        "One object was a definite red color.",
-        "The objects disappeared and reappeared, indicating a reflective and bright nature.",
-        "The witness evaluated the objects to be the planet Mars and the star SPICA.",
-        "No sound was reported from the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright lights in the sky",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Multiple unidentified flying object sightings reported in Dayton, Ohio, in August 1963, with various conclusions drawn about their nature, including potential reflections of stars and the satellite Pegasus I.",
+    "interesting points": "There were several reports of sightings in August 1963 lasting between 2-10 minutes., Observers described the objects as bright lights that moved erratically and sometimes appeared to disappear and reappear., The presumed objects were thought to be Venus, Spica or satellites instead of actual UFOs., Witnesses reported that one object was distinctively red while others were identified as white., No photographs or physical evidence were documented for these sightings.",
+    "sighted object": "Bright lights, potentially satellites or reflections",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Multiple civilian witnesses reported the sightings.",
+    "contains photographs": false
 }

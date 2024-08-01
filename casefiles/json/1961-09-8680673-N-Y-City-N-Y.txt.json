@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A long orange cloud was observed trailing an object with a slight yellow light traveling from southeast to northeast near Columbus Ave, NYC.",
-    "interesting points": [
-        "The object was observed for 30 seconds before being obscured by surrounding buildings.",
-        "The estimated altitude of the object was 70 to 80 miles.",
-        "No sound was heard from the object.",
-        "This was a Ground-Radar observation reported by a US Air Force source.",
-        "The object was concluded to be an aircraft, but the report indicates 'Insufficient Data for Evaluation'."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a long orange cloud trailing an object with a slight yellow light",
-    "location": "Near Columbus Ave, NYC",
-    "witnesses": "NY Tech observer",
-    "photographs": "no"
+    "main event": "A UFO was observed trailing a slight yellow light over Columbus Ave, NYC.",
+    "interesting points": "The object was observed for 30 seconds before being obscured by surrounding buildings.,The estimated altitude of the object was between 70 to 80 miles.,There was no sound associated with the object.,The sighting occurred at 230952 hours on 27 Sep 61.,The report contains multiple conclusions indicating the object could be various things including aircraft, astronomical phenomena, or balloons.",
+    "sighted object": "one object with slight yellow light",
+    "location": "New York City, NY, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer from NY Tech",
+    "contains photographs": false
 }

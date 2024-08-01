@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A round, yellowish object spiraling down and then flying straight into a cloud was observed.",
-  "interesting points": [
-    "The object was approximately 1/2 to 2 feet long.",
-    "The object had the appearance of a ball jet engine with a bluish flame.",
-    "The object had a tail 1/2 to 2 feet long.",
-    "The sighting lasted for about 6 seconds.",
-    "Two Navy A3D aircraft were also observed in the area at 36,000 feet."
-  ],
-  "result": "unexplained",
-  "sighted object": "round, yellowish object",
-  "location": "60 miles north of Newport, Oregon",
-  "witnesses": "military personnel",
-  "photographs": "no"
+    "main event": "A round yellowish object was observed spiraling down near Newport, Oregon.",
+    "interesting points": "The sighting lasted for 1-2 minutes., The object was described as 1/2 to 2 feet long., The object descended straight into a cloud., The sighting was at an altitude of 20 degrees above the horizon., A military pilot reported the sighting.",
+    "sighted object": "round yellowish object",
+    "location": "Newport, Oregon, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "military pilot and senior director",
+    "contains photographs": false
 }

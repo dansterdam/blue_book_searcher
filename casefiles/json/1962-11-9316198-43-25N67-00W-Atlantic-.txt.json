@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A very bright spherical object was observed descending from 45 degrees elevation off the coast of St. John, New Brunswick, Canada on November 2, 1962.",
-    "interesting points": [
-        "The object was greenish in color and about half the size of the moon.",
-        "The object was traveling from NNW to SSE and descended straight downward to an altitude of 3 degrees.",
-        "When the object disappeared, it was about the size of an orange.",
-        "The object was visible for about 5 seconds.",
-        "The weather conditions were clear, with no wind and a calm sea, and the barometer was 1031 and the air temperature was 52°F."
-    ],
-    "result": "unexplained",
-    "sighted object": "a very bright spherical object",
-    "location": "Atlantic Ocean, off the coast of St. John, New Brunswick, Canada",
+    "main event": "A very bright spherical object was observed descending off the coast of St. John, New Brunswick, Canada on November 2, 1962.",
+    "interesting points": "The object was greenish and about half the size of the moon,The sighting lasted approximately 5 seconds,The object was observed to travel from NNW to SSE at a 45° angle,It disappeared behind hazy clouds before reappearing and then descending straight downward,The weather was clear with calm seas and a barometer reading of 1031.",
+    "sighted object": "bright spherical object",
+    "location": "St. John, New Brunswick, CA",
+    "number of confirmed witnesses": 1,
     "witnesses": "T.M.S. Irving Glen, Warrant Officer R.C.N.",
-    "photographs": "no"
+    "photographs": false
 }

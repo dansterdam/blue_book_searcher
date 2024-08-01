@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A flashing, pulsating light was observed descending to around 5,000 feet and then rapidly accelerating away in Bedford, Massachusetts in 1961.",
-    "interesting points": [
-        "The object appeared to be about 50 feet in diameter and had a reddish glow.",
-        "The object was observed for about 5 minutes before rapidly accelerating and disappearing.",
-        "The witness could not determine the exact distance but estimated the object was fairly close.",
-        "Other similar sightings were reported in the area around the same time.",
-        "The Air Force investigated the sighting but could not determine the nature of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a flashing, pulsating light that descended and then rapidly accelerated away",
-    "location": "Bedford, Massachusetts",
-    "witnesses": "a single witness",
-    "photographs": "no photographs present"
+    "main event": "A flashing light was observed in the sky over Bedford, Massachusetts at 10:25 P.M. on August 6, 1961.",
+    "interesting points": "The object appeared to have a reddish glow and was approximately 50 feet in diameter., The object descended to about 5000 feet altitude and then rapidly flew away., No sound was heard during the observation., The observation lasted for about 5 minutes., The weather conditions were clear with a full moon.",
+    "sighted object": "flashing light with a reddish glow",
+    "location": "Bedford, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer provided an estimated size for the object and noted its altitude and behavior.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report text, here is the JSON summary:
-
 {
-    "main event": "A single, metallic-appearing object was observed in the sky for about 45 minutes, emitting a red flame at the middle.",
-    "interesting points": [
-        "The object exhibited erratic movements, at times growing stronger and then vanishing.",
-        "The object appeared to move along the horizon for a few seconds.",
-        "The object was estimated to be the size of the moon at the last observation, at an average distance of 333 miles.",
-        "A second object was also observed, which moved across the sky and made a few maneuvers before vanishing.",
-        "The sighting occurred on September 25, 1964 at around 8:00 PM EDT."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single metallic-appearing object, with a red flame in the middle",
-    "location": "Centerville, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A witness observed an object with erratic movements in Centerville, Ohio, suspected to be Venus, but displaying characteristics unlike the planet.",
+    "interesting points": "The object changed colors between white and yellow and was as bright as a planet., The sighting lasted for 1 hour and 10 minutes., A second object was reported to move across and then vanish., Witness reported a red flame appeared in the middle of the object., The object was described as metallic in appearance.",
+    "sighted object": "one or two erratically moving objects with changing colors",
+    "location": "Centerville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as metallic and bright, similar to the appearance of Venus but located to the north.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported on 23 January 1957 in Glenwood, Iowa. The object, which was observed for 40 seconds, moved from West to Northwest and turned to red flame before disappearing from sight.",
-  "interesting points": [
-    "The sighting was witnessed by both civilians and military personnel.",
-    "The object was visually observed for 30 seconds before disappearing.",
-    "Despite the length of the observation and the presence of both civilian and military witnesses, the conclusion was marked as 'Unidentified'.",
-    "The report mentions a balloon as a possible explanation, but the conclusion remained 'Unidentified'.",
-    "There was no photograph included in the report, and the document contains handwritten notes and annotations."
-  ],
-  "result": "unexplained",
-  "sighted object": "an unidentified flying object that turned to red flame",
-  "location": "Glenwood, Iowa",
-  "witnesses": "Civilian (GOC) and Military",
-  "photographs": "no"
+    "main event": "An unidentified object was observed moving from West to Northwest, turning red, for a duration of 40 seconds on 23 January 1957.",
+    "interesting points": "The object was visually tracked for 30 seconds,The sighting lasted a total of 40 seconds,The object changed color to red during its movement,The source of observation included both civilian and military,The report concluded the object was unidentified.",
+    "sighted object": "one unidentified flying object",
+    "location": "Glenwood, Iowa, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

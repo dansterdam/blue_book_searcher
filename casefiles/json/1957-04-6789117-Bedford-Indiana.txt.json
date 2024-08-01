@@ -1,15 +1,9 @@
 {
-    "main event": "Two star-shaped silver, green, and yellow objects were observed in the sky over Bedford, Indiana.",
-    "interesting points": [
-        "The objects were observed for approximately two hours.",
-        "The objects were seen at 100 to 125 degrees azimuth and 18 degrees elevation, and 110 degrees azimuth and 50 degrees elevation.",
-        "The reporting officer concurred that the sighting was likely an astronomical phenomenon.",
-        "No photographs were available in the provided report.",
-        "The report concluded that the sighting was likely an astronomical phenomenon, but did not have sufficient data for a definitive evaluation."
-    ],
-    "result": "astronomical phenomenon",
+    "main event": "Two star-shaped silver, green, and yellow objects were observed in the sky.",
+    "interesting points": "The observation occurred on April 24, 1957, in Bedford, Indiana.,The sighting lasted for two hours.,The objects were seen at different azimuths and elevations.,The reporting officer believes it was probably an astronomical phenomenon.,There are no reports on file regarding this sighting.",
     "sighted object": "two star-shaped silver, green, and yellow objects",
-    "location": "Bedford, Indiana",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "location": "Bedford, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "reporting officer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a single, unidentified, luminous object that exhibited erratic flight behavior over Springfield, Ohio on March 27, 1965.",
-    "interesting points": [
-        "The object appeared as a light or light source, moving at high speed and altitude.",
-        "The object suddenly stopped, hovered for a period, then continued in an erratic flight pattern.",
-        "The witness was unable to conclusively identify the object based on the description provided.",
-        "The sighting lasted for 5-10 minutes.",
-        "The witness took their children out to observe the object, which they described as a solid, round-shaped object with a glowing light on top."
-    ],
-    "result": "unidentified",
-    "sighted object": "a luminous, indistinct object",
-    "location": "Springfield, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in the sky over Springfield, Ohio, on March 27, 1965, and was seen moving in an erratic manner.",
+    "interesting points": "The object appeared as a luminescent light moving at high speed and altitude,The sighting lasted between 5-10 minutes,The object stopped and hovered before moving erratically again,There were no other objects reported in the vicinity,The observer described it as a solid object that seemed bright but did not resemble a star or planet.",
+    "sighted object": "a luminous, indistinct object in the sky",
+    "location": "Springfield, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness, a civilian, reported observing the object with children, who were initially scared but later excited.",
+    "contains photographs": false
 }

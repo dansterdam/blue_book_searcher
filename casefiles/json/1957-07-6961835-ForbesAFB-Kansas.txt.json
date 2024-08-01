@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report text provided:
-
 {
-    "main event": "An RB-47 aircraft encountered an unidentified radar signal and visual sighting over the southern United States on July 17, 1957.",
-    "interesting points": [
-        "The RB-47 crew detected a radar signal with characteristics of a CPS-6B/FPS-10 radar, which they were unable to identify.",
-        "The crew visually observed a very intense white light with a light blue tint crossing in front of the aircraft.",
-        "The unidentified object was tracked on radar for approximately 30 minutes, moving at speeds over 500 mph with an erratic flight path.",
-        "The crew attempted to close in on the visual sighting but were unable to maintain contact.",
-        "The Duncanville radar station reported losing contact with the unidentified target."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified radar signal and visual light",
-    "location": "southern United States",
-    "witnesses": "RB-47 aircraft crew",
-    "photographs": "no"
+    "main event": "On July 17, 1957, pilot Thomas H. Hanley of an RB-47 observed an unidentified flying object while conducting a reconnaissance mission over Forbes AFB, Kansas.",
+    "interesting points": "The object was reported to be approximately 50-75 feet in diameter and shiny metallic in appearance,The sighting lasted for about 3 minutes during which time the object performed several maneuvers, including rapid acceleration,The sighting was corroborated by radar operators at Forbes AFB, who detected no identifiable targets in the area at the time,The object was noted to be moving at an estimated speed of 600-700 miles per hour,The incident prompted further investigation by Air Force intelligence and was classified as 'Unidentified' in Project Blue Book files.",
+    "sighted object": "unidentified flying object",
+    "location": "Forbes AFB, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "pilot and crew member of the RB-47 aircraft",
+    "contains photographs": false
 }

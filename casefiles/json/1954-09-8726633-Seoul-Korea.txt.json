@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Pilots scrambled to intercept unidentified aircraft over Seoul, Korea on September 8, 1954.",
-    "interesting points": [
-        "The unidentified objects were described as metallic, oval-shaped, and approximately 50 feet in diameter.",
-        "The objects were observed to make rapid changes in direction and speed, and to disappear and reappear at intervals.",
-        "The pilots reported that the objects were much larger than a B-29 bomber and traveled at an estimated speed of around 600 knots (690 mph).",
-        "Poor visibility and the failure of the initial pilots to obtain precise navigational information hampered the interception efforts.",
-        "The unidentified aircraft was not picked up on radar and there were no reports of any civilian air activity in the area at the time."
-    ],
-    "result": "unknown",
-    "sighted object": "metallic, oval-shaped objects",
+    "main event": "Several unidentified flying objects were reported over Seoul, Korea on multiple occasions in September 1954.",
+    "interesting points": "The objects appeared metallic and were reported by multiple military personnel,Three different sightings involved varying numbers of objects estimated to be about 25-50 feet in diameter,The objects exhibited maneuvers inconsistent with known aircraft capabilities,Reports included claims of the objects accelerating to speeds of 500-600 miles per hour,One pilot described objects that followed their aircraft for several minutes before disappearing at high speed.",
+    "sighted object": "metallic objects, possibly UFOs",
     "location": "Seoul, Korea",
-    "witnesses": "military pilots",
-    "photographs": "none"
+    "number of confirmed witnesses": 6,
+    "witness description": "military pilots and observers from the U.S. Air Force",
+    "contains photographs": false
 }

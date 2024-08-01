@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "A witness reported seeing a strange light that grew brighter and became disc-shaped and reddish in color. Additional smaller objects appeared and the objects moved and maneuvered in the sky.",
-    "interesting points": [
-        "The witness thought the initial object might have been a 'second coming' or a star shining through the clouds.",
-        "The larger object appeared to be making a pass or approach towards the witness's car before backing up.",
-        "Smaller objects appeared and the larger object backed up again before all the objects faded away.",
-        "The witness took three photographs, one without flash and two with flash, but it's not clear if the photos were received.",
-        "The sighting lasted from approximately 7:15 PM to 8:45 PM on March 26, 1967."
-    ],
-    "result": "inconclusive",
-    "sighted object": "disc-shaped reddish light and additional smaller objects",
-    "location": "Northampton, Massachusetts",
-    "witnesses": "one witness",
-    "photographs": "yes, the witness took photographs, but it's unclear if they were received"
+    "main event": "A witness reported observing a strange light that transformed into a disc-shaped object on March 26, 1967.",
+    "interesting points": "The light was initially thought to be a star shining through the clouds., The object appeared reddish in color and changed shape during the sighting., A second smaller light appeared during the observation., The witness mentioned taking three photographs of the objects., The objects appeared to maneuver in the sky before disappearing.",
+    "sighted object": "disc-shaped light",
+    "location": "Northampton, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness described the object as bright and reddish, and thought it might signify something significant.",
+    "contains photographs": false
 }

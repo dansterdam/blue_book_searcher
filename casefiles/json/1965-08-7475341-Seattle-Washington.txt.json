@@ -1,15 +1,9 @@
 {
-    "main event": "A bright white light was observed circling the moon for 15 minutes in Seattle, Washington on August 13, 1965.",
-    "interesting points": [
-        "The object was initially observed as another planet before it was seen circling the moon.",
-        "The object was described as a solid, white light that did not exhibit any characteristics of another planet.",
-        "The observer stated the object did not appear to be an aircraft.",
-        "The sighting lasted for approximately 15 minutes.",
-        "The sky was clear during the sighting."
-    ],
-    "result": "inconclusive",
+    "main event": "A bright white light was observed circling the moon in Seattle, Washington on August 13, 1965.",
+    "interesting points": "The object was initially mistaken for a planet before being identified as a U.F.O.,The sighting lasted for approximately 15 minutes,The sky conditions were described as clear,The observer noted that the object appeared as a solid, bright white light,The sighting was classified as inconclusive by Project Blue Book.",
     "sighted object": "bright white light",
-    "location": "Seattle, Washington",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the object was initially thought to be a planet and was described as solid and white",
+    "contains photographs": false
 }

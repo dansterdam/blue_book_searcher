@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Witnesses observed a round, white object that increased and decreased in size as it moved overhead at an estimated speed of 1500-2000 mph near Sayre, Oklahoma on July 23-24, 1964.",
-    "interesting points": [
-        "The object was observed for approximately 3 hours and changed direction slightly at one point, but the motion was very rapid and stopped immediately.",
-        "The object gave off a steady light and did not blink or leave any trail.",
-        "The witnesses estimated the object's altitude to be around one-half mile.",
-        "The size of the object appeared to vary from about the size of a quarter to that of a half-dollar as it moved away.",
-        "The Air Force concluded the sighting was likely of a natural object such as a meteor, satellite, or aircraft, and that the apparent breaking up of visibility was an optical illusion."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, white object",
-    "location": "Sayre, Oklahoma",
-    "witnesses": "two unnamed individuals",
-    "photographs": "no photographs were obtained"
+    "main event": "An unidentified flying object was reported sighted on July 13 and July 23-24, 1964, near Sayre, Oklahoma.",
+    "interesting points": "The object was observed to increase and decrease in size while pacing a car for about a mile., The object moved overhead at an estimated speed of 1500-2000 mph., The sighting lasted approximately 3 hours on July 23-24., Two people reported the sighting from a friend's porch., The object appeared round, white, and emitted a steady light without leaving a trail.",
+    "sighted object": "a round, white unidentified flying object",
+    "location": "Sayre, Oklahoma, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "individuals standing on the porch of a friend's home",
+    "contains photographs": false
 }

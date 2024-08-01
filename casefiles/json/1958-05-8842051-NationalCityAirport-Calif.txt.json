@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified flying object sighting at National City Airport, California on May 23-24, 1958",
-    "interesting points": [
-        "The object exhibited circular flight patterns and disappeared in the same spot where it was initially sighted, which rules out a balloon or aircraft.",
-        "The report notes that the amount of cloud cover was omitted, making it difficult to properly evaluate the sighting.",
-        "Multiple radar units in the area were checked for results, but none were reported.",
-        "The object was described as silver-white in color and exhibited random movements before leaving to the west.",
-        "A civilian patrolman and another witness also reported seeing a similar object the previous night."
-    ],
-    "result": "Unknown",
-    "sighted object": "One silver-white unidentified flying object",
-    "location": "National City Airport, California",
-    "witnesses": "Military personnel, civilian patrolman",
-    "photographs": "No photographs present"
+    "main event": "A UFO sighting report was gathered at National City Airport, California on May 23-24, 1958.",
+    "interesting points": "The sighting lasted approximately 10 minutes,The object was observed making circular maneuvers,The possibility of the object being a balloon, aircraft, or astronomical event was suggested,No size or cloud cover details were provided to assist with evaluation,One confirmed witness was associated with the report.",
+    "sighted object": "one unidentified flying object",
+    "location": "National City, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian patrolman Leonard E. Wade, age 23, and a 21-year-old employed by the Crawford Detective Agency.",
+    "contains photographs": false
 }

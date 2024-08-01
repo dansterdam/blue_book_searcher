@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was observed traveling in a Northeasterly direction in Columbus, Ohio on September 19, 1962 around 2:50 AM.",
-    "interesting points": [
-        "The object was traveling on an Easterly course.",
-        "There is insufficient data for analysis of the object, as it could have been an aircraft or an ECHO satellite.",
-        "The report includes a handwritten sketch or drawing of the observed object, which appears to be an elongated, elliptical shape.",
-        "The report was filed on September 14, 1962, which is a few days after the sighting.",
-        "The report indicates that no photographs were taken of the observed object."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified elongated, elliptical-shaped object",
-    "location": "Columbus, Ohio",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "An unidentified object was observed traveling on an easterly course in Columbus, Ohio.",
+    "interesting points": "The report was filed on 19 Sep 62,There was no investigation reported for the sighting,The object was traveling in a direction described as NE, Possible identification as an aircraft or ECHO I was considered, The report indicates there was insufficient data for analysis of the object.",
+    "sighted object": "unidentified object traveling NE",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses reported or documented.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, unidentified flying object was sighted near Moses Lake, Washington. The object appeared to be meteoric in nature.",
-    "interesting points": [
-        "The object appeared to be bell-shaped, silvery, and moving west.",
-        "The object was distant and did not show up on radar.",
-        "The weather at the time was clear with unlimited visibility.",
-        "Winds aloft were recorded at various altitudes.",
-        "The reporting officer, Captain Leo Falkensak, could not identify the object."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, unidentified flying object",
-    "location": "Near Moses Lake, Washington",
-    "witnesses": "Captain Leo Falkensak",
-    "photographs": "no"
+    "main event": "A verified sighting of a bright object, larger than a star, reported in October 1957 in the United States.",
+    "interesting points": "The object was described as white or amber and very bright, The sighting lasted for approximately 53 minutes, The object's movement was seen as unusual and not easily explained, There were multiple witnesses including a housewife from Hicksville, NY, Reports suggested that the object might have been a weather balloon, but this was eliminated as no balloons were in the area.",
+    "sighted object": "a bright object bigger than a star",
+    "location": "United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. from Hicksville, NY, housewife",
+    "contains photographs": false
 }

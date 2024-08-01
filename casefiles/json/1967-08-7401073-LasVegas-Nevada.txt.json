@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A UFO was observed in the sky over Las Vegas, Nevada on August 2, 1967.",
-    "interesting points": [
-        "The report states that there was 'INSUFFICIENT DATA FOR EVALUATION' regarding the number of objects observed.",
-        "The observation lasted for 30 minutes.",
-        "The object was observed visually from the ground.",
-        "The object was ascending in the sky.",
-        "No physical evidence was reported."
-    ],
-    "result": "INSUFFICIENT DATA FOR EVALUATION",
-    "sighted object": "unspecified UFO",
-    "location": "Las Vegas, Nevada",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian observed a UFO in Las Vegas, Nevada on 2 August 1967.",
+    "interesting points": "The sighting lasted for 30 minutes and was categorized as a ground visual observation,The course of the object was ascending,There was insufficient data for evaluation of the sighting,No physical evidence was found,The report was processed under Project Blue Book.",
+    "sighted object": "UFO",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian",
+    "contains photographs": false
 }

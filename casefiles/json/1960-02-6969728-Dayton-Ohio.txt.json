@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report text provided:
-
 {
-    "main event": "A bright, pinkish white object about the size of a basketball was observed disappearing behind clouds for 10-15 minutes.",
-    "interesting points": [
-        "The object was very bright and pinkish white in color.",
-        "The object was about the size of a basketball.",
-        "The object disappeared behind clouds.",
-        "The sighting lasted 10-15 minutes.",
-        "The report states there is insufficient information to properly evaluate the sighting."
-    ],
-    "result": "unexplained",
+    "main event": "A witness observed a very bright, pinkish white object about the size of a basketball which disappeared behind clouds.",
+    "interesting points": "The sighting lasted for 10-15 minutes,The object was described as being very bright,There was insufficient information for a proper evaluation,The report selected various potential classifications for the object such as balloon or aircraft,There was only one confirmed witness to the sighting.",
     "sighted object": "bright, pinkish white object",
-    "location": "Dayton, Ohio",
-    "witnesses": "one witness, Raymond Stebbins",
-    "photographs": "no photographs"
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Details are too meager to permit a proper evaluation.",
+    "contains photographs": false
 }

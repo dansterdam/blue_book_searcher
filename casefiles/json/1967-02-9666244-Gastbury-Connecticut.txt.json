@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "A person spotted a round, white unidentified flying object hovering around 1800 and 1900 ft on February 19, 1967.",
-    "interesting points": [
-        "The witness was shooting with their cousin when they spotted the UFO.",
-        "The witness reported the incident to the nearest police.",
-        "The witness requested an investigation and publication of the information.",
-        "The report is from a Project Blue Book document, specifically a 'Project 10073 Record' form.",
-        "The Air Force's conclusion was 'INSUFFICIENT DATA FOR EVALUATION'."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, white unidentified flying object",
-    "location": "Gastbury, Connecticut",
-    "witnesses": "witness and their cousin",
-    "photographs": "no"
+    "main event": "An unidentified flying object was spotted on February 19, 1967, while shooting with a cousin.",
+    "interesting points": "The UFO was described as round and white., The object was hovering at an altitude between 1800 and 1900 feet., The observers reported the incident to the nearest police., The document is part of Project Blue Book's records., The official response concluded that there was insufficient data for evaluation.",
+    "sighted object": "a round and white unidentified flying object",
+    "location": "Gastbury, Connecticut, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "individuals shooting together",
+    "contains photographs": false
 }

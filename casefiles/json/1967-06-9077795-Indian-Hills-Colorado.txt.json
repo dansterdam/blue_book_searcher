@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A single unidentified object was observed for 20 minutes over Indian Hills, Colorado on June 4, 1967.",
-    "interesting points": [
-        "The object was described as being the size of a silver dollar to a small orange held at arm's length, with a blue-ish white color that cast a reflection on the mountains.",
-        "The object's brightness increased from 'dim' to 'very bright' during the observation.",
-        "The object moved slowly from south to north with a gradual descent towards the horizon.",
-        "The observation was made from 15 miles west of Centennial Race Track at Littleton, Colorado and approximately 4-5 miles southwest of Morrison, Colorado.",
-        "No physical evidence such as photographs was obtained."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "single unidentified object",
-    "location": "Indian Hills, Colorado",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported an unidentified flying object in Indian Hills, Colorado on 4 June 1967.",
+    "interesting points": "The observation lasted for 20 minutes., There was only one object reported., The observer described the object as a blue-ish white color that cast reflections on the mountains., The conclusion of the report stated there was insufficient data for evaluation., The Air Force requested additional information from the observer to assess the sighting.",
+    "sighted object": "unidentified flying object",
+    "location": "Indian Hills, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

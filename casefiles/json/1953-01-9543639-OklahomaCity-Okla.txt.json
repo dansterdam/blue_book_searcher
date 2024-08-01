@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a luminous sphere-shaped object, about the size of a washbasin, moving at high speed from southeast to northwest in Oklahoma City, Oklahoma.",
-    "interesting points": [
-        "The object was reddish-orange in color and was observed to be higher than the top of the witness's automobile.",
-        "The sighting lasted for approximately 10 seconds.",
-        "The weather conditions were clear with no clouds.",
-        "The reliability of the witness, a Lt Col, was reported as good.",
-        "The investigation was conducted by a 1st Lt, USAF."
-    ],
-    "result": "insufficient data",
-    "sighted object": "a luminous sphere-shaped object",
-    "location": "Oklahoma City, Oklahoma",
-    "witnesses": "a Lt Col",
-    "photographs": "no"
+    "main event": "A witness reported seeing an unidentified object in Oklahoma City, estimated to be 6 to 8 feet in diameter and moving at approximately 300 mph.",
+    "interesting points": "The sighting duration was around 5 seconds before the object disappeared., The object exhibited a speed consistent with other unidentified aerial object reports., No additional details were obtained regarding the object's shape or specific characteristics., The conclusion of the report was deemed insufficient due to lack of data., This report is part of a broader investigation under Project Blue Book.",
+    "sighted object": "unidentified object",
+    "location": "Oklahoma City, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

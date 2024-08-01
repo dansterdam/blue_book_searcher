@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "Two stationary white lights were observed near George Field, Illinois on September 9, 1960.",
-    "interesting points": [
-        "The sighting lasted for up to 5 minutes.",
-        "One of the objects moved into a 'gain' during the observation.",
-        "The case was listed as a 'Probable Astronomical' sighting, indicating it could not be definitively explained.",
-        "A separate sighting of a large single light was reported by a witness, but no other details were provided.",
-        "The Air Technical Intelligence Center (ATIC) had not received any other reports of this sighting."
-    ],
-    "result": "probable astronomical",
+    "main event": "A UFO sighting was reported near George Field, Illinois on September 9, 1960, involving two stationary objects with white lights.",
+    "interesting points": "The sighting lasted up to 5 minutes., The objects were described as having white lights., The case is classified as a Probable Astronomical sighting., A call was received from a witness who observed a light the night before., There were no other detailed reports associated with this sighting.",
     "sighted object": "two stationary white lights",
-    "location": "Near George Field, Illinois",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "location": "George Field, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian witness reported the sighting.",
+    "contains photographs": false
 }

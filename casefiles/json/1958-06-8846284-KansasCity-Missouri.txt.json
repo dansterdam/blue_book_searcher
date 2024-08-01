@@ -1,15 +1,9 @@
 {
-  "main event": "A ground-visual UFO observation was reported in Kansas City, Missouri on June 4th, 1958, lasting for 3 minutes. The object was described as small to large circular, the size of a pea to a dime, with erratic movement, and it appeared and disappeared behind trees.",
-  "interesting points": [
-    "The observed object was described as having a size ranging from a pea to a dime, indicating its small and variable appearance.",
-    "The report mentions the presence of Spica and Jupiter at specific azimuth and elevation, suggesting a possible astronomical explanation for the sighting.",
-    "The object's erratic movement and ability to appear and disappear behind trees add to the mysterious nature of the observation.",
-    "The conclusion listed in the report includes possibilities such as balloon, aircraft, astronomical objects, and insufficient data for evaluation, highlighting the difficulty in explaining the sighting.",
-    "The observation took place in Kansas City, Missouri, involving a civilian source and lasting for 3 minutes, with no photographs available."
-  ],
-  "result": "unknown",
-  "sighted object": "small to large circular object, pea to dime in size",
-  "location": "Kansas City, Missouri",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A civilian in Kansas City observed a small to large circular object moving erratically on June 4, 1958.",
+    "interesting points": "The object varied in size from a pea to a dime., It appeared and disappeared behind trees., The observation lasted for approximately 3 minutes., The object was observed at an elevation of about 30 degrees., The report suggests possible explanations including a balloon, aircraft, or astronomical objects.",
+    "sighted object": "small to large circular object",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Two observers watched star-like objects travel across the sky at different times in Austin, Texas.",
-    "interesting points": [
-        "The objects were described as similar to satellites, moving and then fading out of sight.",
-        "The report mentions the passage of the Echo I and Echo II satellites over the observation area at the approximate times of the sightings.",
-        "The report notes a time discrepancy in the sightings that could potentially be explained by the objects being satellites.",
-        "The analysis indicates that meteorological conditions, including temperature inversions, were investigated but could not account for the reported sightings.",
-        "The conclusion is that the sightings were likely of astronomical objects, possibly satellites."
-    ],
-    "result": "likely astronomical/satellite",
-    "sighted object": "star-like objects",
-    "location": "Austin, Texas",
-    "witnesses": "two civilian observers",
-    "photographs": "none"
+    "main event": "Two observers watched star-like objects travel across the sky at different times on April 10, 1967.",
+    "interesting points": "The objects were reported to fade out of sight after about 15 minutes of observation., Both observers noted that the objects moved similarly across the sky., The sightings occurred shortly after two satellites, Echo I and Echo II, were recorded in the area., The sighting location had high clouds reportedly affecting visibility., No photographs or physical evidence were collected during the observation.",
+    "sighted object": "star-like objects in the sky",
+    "location": "Austin, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

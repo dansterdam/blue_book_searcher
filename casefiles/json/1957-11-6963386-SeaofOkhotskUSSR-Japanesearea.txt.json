@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "While flying at 15,000 feet, an air crew observed a red object with a bluish-green trail flash by from right to left in a flat downward trajectory, then arch down and explode with a greenish-white flash.",
-    "interesting points": [
-        "The object was observed for 2-3 seconds.",
-        "The object's trajectory was from southwest to northeast.",
-        "The object appeared to be a bolide (fireball).",
-        "Numerous meteors were observed on the same flight, though this incident was different in direction and termination by explosion.",
-        "The size of the object appeared comparable to the light of the planet Venus when viewed at night."
-    ],
-    "result": "Astronomical",
-    "sighted object": "A red object with a bluish-green trail",
-    "location": "Sea of Okhotsk, USSR-Japanese area",
-    "witnesses": "RB-50 (USAF Crew)",
-    "photographs": "No"
+    "main event": "While flying at 15,000 feet, an air crew observed a red object with a bluish green trail flash by from their right to left in a flat downward trajectory. It arched down and exploded with a greenish white flash.",
+    "interesting points": "The sighting lasted for only 2 to 3 seconds., The object was reportedly traveling from southwest to northeast., The object produced a bright bluish white explosion upon termination., Air crew noted the object's appearance was comparable to the light of planet Venus when viewed at night., The air crew believed the object to be a meteor, different from other meteors observed during the flight.",
+    "sighted object": "red object with a bluish green trail",
+    "location": "Sea of Okhotsk, USSR - Japanese area",
+    "number of confirmed witnesses": 1,
+    "witness description": "RB-50 crew from USAF",
+    "contains photographs": false
 }

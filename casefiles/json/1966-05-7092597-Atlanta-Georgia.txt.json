@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a strange object in the sky on May 29, 1966.",
-    "interesting points": [
-        "The object appeared as a light in the northeast sky, moving in various directions.",
-        "The object was observed through binoculars and was described as whitish in color with a little yellow, and brighter than a star.",
-        "The object moved in many directions over the course of 3 minutes and 30 seconds.",
-        "The observer requested another form to provide more details about the sighting.",
-        "The observer compared the size of the object to covering about 10% of a match stick held at arm's length."
-    ],
-    "result": "Possible Astro (ALTAIR)",
-    "sighted object": "One unidentified aerial object",
-    "location": "[REDACTED], Georgia",
-    "witnesses": "One civilian observer",
-    "photographs": "No"
+    "main event": "A civilian observed a light in the NE sky that moved in various directions for 3 minutes and 30 seconds on May 29, 1966.",
+    "interesting points": "The object appeared whitish with a hint of yellow, brighter than a star., The observer used binoculars to watch the object., The object was seen moving continuously and reportedly appeared to dim or fade away slowly., After the sighting, the observer felt it might have been moving at a tremendous speed before slowing down., The observer reported that the object had north-south wings about 20 feet long.",
+    "sighted object": "a bright light in the sky",
+    "location": "Atlanta, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 19-year-old female who had an interest in UFOs.",
+    "contains photographs": false
 }

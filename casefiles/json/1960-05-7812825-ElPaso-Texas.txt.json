@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "Multiple witnesses, including military personnel and civilians, observed various unidentified flying objects over El Paso, Texas on several occasions in 1950 and 1960.",
-    "interesting points": [
-        "The objects were described as having various shapes, including round, oblong, and half-circle with a tail.",
-        "The objects were reported to have bright, brilliant colors like red, white, orange, and reddish-white.",
-        "The objects were observed to perform unusual maneuvers, such as breaking apart, falling towards the ground, and disappearing.",
-        "The objects were estimated to be of various sizes, ranging from the size of a pea to the size of a basketball at arm's length.",
-        "The objects were reported to make no sound or a sound like a sonic boom."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying objects, described as bright, colored orbs and objects with tails",
-    "location": "El Paso, Texas",
-    "witnesses": "military personnel, including control tower operators, and civilian witnesses",
-    "photographs": "no photographs present in the report"
+    "main event": "Various witnesses reported seeing a bright object in the sky over El Paso, Texas on May 28, 1950, which appeared to break into two pieces and then reunite before falling towards the Earth.",
+    "interesting points": "Witnesses described the object as having a bright trail and compared its size to that of a pea or dime at arm's length., The object was seen traveling at a steep angle and was visible for only a few seconds., Observations were made from different viewpoints including control tower operators and civilians., Witnesses noted the object's bright colors such as reddish-white and orange., There were multiple witnesses including air force personnel and local residents.",
+    "sighted object": "one bright object with a trail",
+    "location": "El Paso, Texas, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "control tower operators and local residents",
+    "contains photographs": false
 }

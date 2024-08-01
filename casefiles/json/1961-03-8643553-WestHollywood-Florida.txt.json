@@ -1,15 +1,9 @@
 {
-    "main event": "A military radar detected an unidentified object moving rapidly in the sky near West Hollywood, Florida in 1961.",
-    "interesting points": [
-        "The object was located 30 degrees southeast of the observer's location and was moving from north to south-southeast.",
-        "The object was observed for approximately 10 minutes by a Florida Highway Patrol Captain.",
-        "The object was moving very rapidly.",
-        "The Air Force investigated the sighting and concluded that the object was likely a weather balloon.",
-        "The Air Force reported the results of the investigation in a message to the Air Technical Intelligence Center."
-    ],
-    "result": "likely a weather balloon",
-    "sighted object": "unidentified rapidly moving object",
-    "location": "West Hollywood, Florida",
-    "witnesses": "1 (Florida Highway Patrol Captain)",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported by a Florida Highway Patrol officer in West Hollywood, Florida on March 16, 1961.",
+    "interesting points": "The object was located 30° SE of the observation point and moved rapidly,The sighting lasted for approximately 10 minutes,The report concluded the object could potentially be a balloon, The sighting was documented in a Project Blue Book Record Card, The sighting was reported by a single witness, Capt. Gagliani.",
+    "sighted object": "unidentified flying object moving rapidly",
+    "location": "West Hollywood, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Capt. Gagliani from the Florida Highway Patrol",
+    "contains photographs": false
 }

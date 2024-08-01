@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observed a bright, star-like object moving from west to east overhead in Reno, Nevada on September 7, 1962.",
-    "interesting points": [
-        "The object was described as looking like a star with a tail.",
-        "The object was so bright that it obscured the stars.",
-        "The object faded out at an elevation of 30 degrees.",
-        "The report states that the State Police could have been informed to observe the object as it was moving.",
-        "The report mentions that no other observers at local ranches were known to have been in a position to observe the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, star-like object",
-    "location": "Reno, Nevada",
-    "witnesses": "one civilian",
-    "photographs": "no"
+    "main event": "An object was observed directly overhead moving from west to east in Reno, Nevada, appearing very bright and obscuring the stars.",
+    "interesting points": "The object was described as looking like a star with a tail., The observation lasted for approximately 5 minutes., The object faded out at about 30 degrees., The observer initially thought it was a satellite until it stopped., The report notes that local ranches had no other known observers of the object.",
+    "sighted object": "one bright object in the sky",
+    "location": "Reno, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "One individual observed the object.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Two men reported seeing a rectangular-shaped, bright white object that hovered over gas pumps in Canton, Austinburg, Ohio for several minutes before suddenly shooting upwards at high speed.",
-    "interesting points": [
-        "The object was observed to be about 25 feet long and 10 feet high.",
-        "The witnesses stated the object was the size of a 'small house trailer' and was observed at a distance of about 150 yards.",
-        "The object made no sound and did not move until it suddenly shot upwards at a high rate of speed and disappeared from sight.",
-        "The witnesses' accounts were consistent when interviewed separately.",
-        "The final ATIC evaluation was that the object was likely a satellite or some other natural phenomenon, and did not represent an actual 'flying saucer'."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Rectangular-shaped, bright white object",
-    "location": "Canton, Austinburg, Ohio",
-    "witnesses": "Two men, 66 and 30 years old",
-    "photographs": "None"
+    "main event": "An object described as oblong fell from the sky, hitting tall trees before landing in a swamp in Canton, Austinburg, Ohio.",
+    "interesting points": "The object was observed for 15-20 seconds before disappearing into the trees,The observers were unable to locate the object due to darkness,Two men reported seeing a rectangular-shaped, bright white object hovering over gas pumps shortly after,The object was described as being the size of a small house trailer,Investigations did not find any physical evidence of the objects.",
+    "sighted object": "oblong object and rectangular-shaped object",
+    "location": "Canton, Austinburg, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two men, aged 66 and 30, observed the object.",
+    "contains photographs": false
 }

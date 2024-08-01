@@ -1,15 +1,9 @@
 {
-  "main event": "There were multiple UFO sightings in Madison, Virginia, in December 1954. The sightings involved various objects, including an elongated oval-shaped object and four round blue-gray objects flying in a straight line.",
-  "interesting points": [
-    "The sightings involved multiple witnesses, including civilians and a motor cop.",
-    "One of the objects was observed to change altitude and speed.",
-    "Three photographs were taken of the objects observed.",
-    "The sightings lasted for durations ranging from 1 to 15 minutes.",
-    "The report indicates that there were conflicting conclusions about the nature of the observed objects, including possibilities such as aircraft, astronomical objects, and insufficient data for evaluation."
-  ],
-  "result": "unknown",
-  "sighted object": "various UFOs, including an elongated oval-shaped object and four round blue-gray objects",
-  "location": "Madison, Virginia",
-  "witnesses": "civilian, motor cop",
-  "photographs": "yes, three photographs were taken"
+    "main event": "A UFO was observed over Madison, Virginia, on December 6, 1954.",
+    "interesting points": "The object was described as blue-gray and elongated oval in shape., The sighting lasted approximately 15 minutes., The object was estimated to be at an altitude of about 5,000 feet., The observers reported clear weather conditions during the sighting., Photographs were said to have been taken but were not received.",
+    "sighted object": "one elongated oval blue-gray object",
+    "location": "Madison, Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "All observers unidentified.",
+    "contains photographs": false
 }

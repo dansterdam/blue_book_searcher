@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A reddish-orange light was observed in the sky near St. George, Bermuda, moving up and down slowly and sometimes stationary.",
-    "interesting points": [
-        "The object was the size and color of a grapefruit.",
-        "The object was observed moving at a speed faster than Mach 1.",
-        "There were many intermittent jet streams of vapor with a faint contrail moving nearly north.",
-        "The Bermuda Air Traffic Control Tower and the U.S. Navy Control Tower both reported receiving a Category 1 report of an unidentified flying object.",
-        "A similar reddish-orange light tinged with blue was observed by a resident of Kuckers Town in the Bermuda Islands."
-    ],
-    "result": "unexplained",
+    "main event": "An airman and his wife, along with neighbors, observed a reddish-orange light in the sky over St. George, Bermuda, on September 18, 1958.",
+    "interesting points": "The object moved slowly up and down and was stationary at times,The size of the object was compared to that of a grapefruit,The color of the object faded at times,The airman reported the sighting to Bermuda Air Traffic Control, which had no records of any aircraft in the area at that time,Another observer from the Kindley Control Tower reported seeing the same phenomenon shortly after.",
     "sighted object": "reddish-orange light in the sky",
     "location": "St. George, Bermuda",
-    "witnesses": "Airman First Class, his wife, and neighbors",
-    "photographs": "no"
+    "number of confirmed witnesses": 4,
+    "witnesses": "an airman, his wife, neighbors, and a staff sergeant",
+    "photographs": false
 }

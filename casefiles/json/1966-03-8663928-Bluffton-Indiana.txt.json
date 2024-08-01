@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A 12-year-old girl spotted a red and silver object with red and green lights moving from south to north over Bluffton, Indiana on March 4, 1966.",
-    "interesting points": [
-        "The object was described as a crescent-shaped craft with a dotted trail.",
-        "The object was only visible for about 1 second.",
-        "The witness said the object was about the size of a star in the sky.",
-        "The witness reported the sighting to her mother on March 19, 1966.",
-        "The Air Force requested the witness complete a detailed questionnaire about the sighting."
-    ],
-    "result": "Aircraft",
-    "sighted object": "a red and silver object with red and green lights",
-    "location": "Bluffton, Indiana",
-    "witnesses": "1 witness, a 12-year-old girl",
-    "photographs": "no photographs"
+    "main event": "A UFO was observed over Bluffton, Indiana on March 4, 1966, with one witness reporting a red and silver object with green lights.",
+    "interesting points": "The object was described as having a red top and a silvery bottom,The sighting lasted for approximately 3 minutes,The object moved steadily from South to North without making any sound,It had a light pattern consistent with an aircraft,The observer reported the object disappearing after circling the moon.",
+    "sighted object": "a red and silver UFO with green flashing lights",
+    "location": "Bluffton, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 12-year-old girl",
+    "contains photographs": false
 }

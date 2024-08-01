@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report text:
-
 {
-    "main event": "A bright object was observed that appeared to zigzag and move towards the east over Centerville, Ohio on October 25, 1966.",
-    "interesting points": [
-        "The object appeared to move in and out of view, obscured by trees, which puzzled the observers.",
-        "The object was described as having orange, red, and white colors, and sometimes appeared to change brightness.",
-        "The object was observed for about 30 minutes.",
-        "The observers initially thought the object was a known star, Capella, but it exhibited unusual movement.",
-        "The Air Force concluded the sighting was likely an astrological observation of the bright star Capella."
-    ],
-    "result": "Astronomical (Capella)",
-    "sighted object": "A bright, colored object that exhibited unusual movement",
-    "location": "Centerville, Ohio",
-    "witnesses": "Multiple civilian observers",
-    "photographs": "No"
+    "main event": "On October 25, 1966, a bright object was observed in the sky moving eastward in Centerville, Ohio for 30 minutes.",
+    "interesting points": "The object appeared to zigzag and was reported by civilian witnesses,The object was compared to the star Capella, but the witnesses were puzzled by its movement and disappearance behind trees,One witness had previously seen a similar object on August 2, 1966, in the same area,The object was described as having colors of orange, red, and white, and was said to emit no sound,The sighting was analyzed and concluded to likely be an astronomical observation.",
+    "sighted object": "a bright object in the sky",
+    "location": "Centerville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A female aged 46, who experienced the sighting while riding her bike.",
+    "contains photographs": false
 }

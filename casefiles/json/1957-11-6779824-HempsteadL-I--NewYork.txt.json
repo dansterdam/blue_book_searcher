@@ -1,15 +1,9 @@
 {
-    "main event": "A pilot observed a small, bright object that appeared to come from the south, pass overhead, and then disappear to the north.",
-    "interesting points": [
-        "The object was below the overcast and gave the impression of being a very small aircraft.",
-        "The observer was a pilot and was confident it was not an aircraft.",
-        "A separate report described a disc-shaped object with a brilliant light that appeared to be moving very rapidly and was in view for approximately 3 to 5 minutes before disappearing.",
-        "The document contains handwritten notes and numerical data, but no photographs.",
-        "The document appears to be related to Project Blue Book, a United States Air Force program that investigated unidentified flying objects (UFOs)."
-    ],
-    "result": "unexplained",
-    "sighted object": "a small, bright object that appeared to be a very small aircraft",
+    "main event": "A pilot observed a small, bright object passing overhead in Hempstead, New York on November 6, 1957.",
+    "interesting points": "The observation lasted about 10 minutes and the object traveled from south to north,The observer was under his own aircraft during the sighting,The object was described as giving the impression of being very small,The pilot was confident that it was not a conventional aircraft,The weather was clear and dark at the time of observation.",
+    "sighted object": "a small, bright object appearing like a miniature aircraft",
     "location": "Hempstead, L.I., New York",
-    "witnesses": "a pilot",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "a pilot under his own aircraft",
+    "contains photographs": false
 }

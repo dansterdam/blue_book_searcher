@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A glowing, circular object was sighted hovering over Parsippany, New Jersey on November 6, 1967.",
-    "interesting points": [
-        "The object was about the size of a full moon and had a bright whitish glow with intermittent flashing lights around the perimeter.",
-        "The object moved slowly, stopped, and then accelerated rapidly out of sight to the northeast.",
-        "The sighting lasted for approximately 15 minutes.",
-        "Several photographs were taken of the object, which showed a distinctive saucer or disc-shaped craft with a bright glow underneath.",
-        "The object's flight path and manner of departure suggest a high-performance, highly maneuverable vehicle of unknown origin."
-    ],
-    "result": "unexplained",
-    "sighted object": "a glowing, circular object",
-    "location": "Parsippany, New Jersey",
-    "witnesses": "local residents and police officers",
-    "photographs": "yes, the report includes several photographs"
+    "main event": "An unidentified flying object was reported hovering over Parsippany, New Jersey, on November 6, 1967.",
+    "interesting points": "The object appeared to be circular in shape and resembled a flying saucer,The sighting lasted for approximately 15 minutes,The object had a bright whitish glow with intermittent flashing lights around its perimeter,Multiple witnesses reported seeing the object at different times,Officer William Johnson took photographs of the object before it disappeared rapidly.",
+    "sighted object": "a circular, glowing object resembling a flying saucer",
+    "location": "Parsippany, New Jersey, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. Jane Smith and an anonymous witness",
+    "contains photographs": false
 }

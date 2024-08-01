@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple sightings of unidentified flying objects over the Minneapolis, Minnesota area reported between January 21-27, 1963.",
-    "interesting points": [
-        "The objects were described as star-like, bright white objects moving rapidly in a southeast direction.",
-        "The objects were observed at various elevations, ranging from 12 degrees to 95 degrees above the horizon.",
-        "The sightings occurred at different times of day, including early morning and evening hours.",
-        "Multiple observers reported seeing the objects, including a radio announcer.",
-        "The observers expressed uncertainty about the identity of the objects, with the possibility of them being satellites, balloons, or aircraft."
-    ],
-    "result": "unknown",
-    "sighted object": "multiple bright, star-like objects",
-    "location": "Minneapolis, Minnesota; Helena, Montana",
-    "witnesses": "multiple observers, including a radio announcer",
-    "photographs": "none"
+    "main event": "Observer watched a star-like object moving north very rapidly for about 30 seconds.",
+    "interesting points": "The observation lasted for one minute,The object was at 60 degrees elevation,The observer suspected it might be a satellite,The report mentions possible explanations as a balloon, aircraft, or astronomical object,Heavy air traffic was noted in Minneapolis at the time of the sighting.",
+    "sighted object": "star-like object",
+    "location": "Minneapolis, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer seemed positive it was an Earth satellite and has observed several previously.",
+    "contains photographs": false
 }

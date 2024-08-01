@@ -1,15 +1,9 @@
 {
-    "main event": "Three disc-like objects appeared at one mile intervals, one seemed to move from the ground. They appeared as bright flashes.",
-    "interesting points": [
-        "The objects were described as disc-like and appeared at one-minute intervals.",
-        "One of the objects seemed to come up from the ground.",
-        "The objects appeared as bright flashes.",
-        "The flight path of the objects was just below the horizon, possibly brought into view by refraction.",
-        "The objects were likely identified as the planet Mars."
-    ],
-    "result": "likely identified as the planet Mars",
+    "main event": "Three disc-like objects were sighted in Charleston, Maine on 29 May 1960, appearing as bright flashes at one-mile intervals.",
+    "interesting points": "The objects were described as round and basketball-sized and emitted bright flashes upon appearance., One object seemed to move from the ground, while the others appeared at one-minute intervals., The sighting lasted for 3 minutes and involved three objects moving south., The source of the report was military, and the observer was Richard Hawkins, a reliable witness., The report speculated that the sighted objects were probably the planet Mars, influenced by refraction.",
     "sighted object": "three disc-like objects",
-    "location": "Charleston, Maine",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "location": "Charleston, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Richard Hawkins, A/3C, Air Police, reliable",
+    "contains photographs": false
 }

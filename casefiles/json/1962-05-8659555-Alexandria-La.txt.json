@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A series of bright lights were observed maneuvering in the sky over west central Louisiana, including bright lights that hovered and displayed flashing red and green lights.",
-    "interesting points": [
-        "The lights were observed moving at high speeds and making abrupt changes in direction.",
-        "When the lights were hovering, flashing red and green lights were observed.",
-        "The witness described the lights as similar to aircraft running lights, but they moved rapidly in a straight line and disappeared with distance.",
-        "A separate report describes a cylindrical object hovering above an airport light and moving laterally for about 15 seconds.",
-        "The reports indicate the observed objects were unidentified and did not appear to be conventional aircraft or natural phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright lights, cylindrical object",
-    "location": "West central Louisiana, near Alexandria, LA",
-    "witnesses": "civilian pilot, radar control operator, unidentified witness",
-    "photographs": "none"
+    "main event": "A series of bright lights were observed maneuvering in the sky over Alexandria, Louisiana on 2 May 1962.",
+    "interesting points": "The witness observed as many as 3 bright lights moving at high speeds and making abrupt changes in direction., When the lights were hovering, they flashed red and green., The large light observed on 1 May 1962 was similar to aircraft running lights and moved rapidly in a straight line., The observer described one of the objects as having a white center surrounded by reddish-orange., The cylindrical object observed on 6 May 1962 hovered above an airport light and moved laterally for about 15 seconds.",
+    "sighted object": "bright lights and a cylindrical object",
+    "location": "Alexandria, La.",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilian pilot and radar control operator, and one witness for the 1 May observation",
+    "contains photographs": false
 }

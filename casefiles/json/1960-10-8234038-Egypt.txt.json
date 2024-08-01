@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "Three military officers sighted an unidentified object moving rapidly across the sky from east to southwest, accelerating and ascending.",
-    "interesting points": [
-        "The object's initial brilliant white light was slightly brighter than first magnitude and then steadily diminished.",
-        "The object was definitely not an aircraft or shooting star.",
-        "The object was sighted at two different locations, bearing 123 position angle and then lost at bearing 123 position angle 45.",
-        "The sighting occurred during a time when a possible Russian Mars shot was reported in the newspaper.",
-        "The report is from credible and reliable military observers."
-    ],
-    "result": "unexplained",
-    "sighted object": "a rapidly moving unidentified object with an initial brilliant white light",
-    "location": "Locations between 23-30N 30-23/2E",
-    "witnesses": "three military officers",
-    "photographs": "no"
+    "main event": "Three officers sighted an unidentified object moving rapidly across the sky from east to southwest.",
+    "interesting points": "The object was observed at a bearing of 123 position angle and was accelerating and ascending,The initial brightness of the object was slightly brighter than first magnitude and then steadily diminishing,The sighting involved credible military observers,The object was definitely not an aircraft or shooting star,There was speculation the object could be a Russian Mars shot due to favorable conditions reported in the news.",
+    "sighted object": "unidentified object or light in the sky",
+    "location": "Not specified",
+    "number of confirmed witnesses": 3,
+    "witness description": "military officers",
+    "contains photographs": false
 }

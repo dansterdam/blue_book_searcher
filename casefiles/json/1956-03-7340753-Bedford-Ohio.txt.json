@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, yellow object the size of a basketball was observed in the sky over Bedford, Ohio on March 4, 1956.",
-    "interesting points": [
-        "The object spread out slowly and then another object moved back and forth from the initial sighting.",
-        "The object was observed at an altitude of 1 to 1.5 miles and moved back and forth in the sky for a distance of about 1 mile.",
-        "The object was observed with binoculars.",
-        "The observation occurred at 9:22 PM on March 5, 1956.",
-        "The weather was beginning to cloud up, but winds aloft were not available."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, yellow object the size of a basketball",
-    "location": "Bedford, Ohio",
-    "witnesses": "a file clerk",
-    "photographs": "yes"
+    "main event": "A round yellow object, the size of a basketball, was observed moving slowly back and forth in Bedford, Ohio on March 4, 1956.",
+    "interesting points": "The observation lasted an unknown length of time., The object moved 1 mile back and forth from the initial sighting., The object revolved, with one side appearing dimmer than the other., The sighting involved binoculars for better visibility., Insufficient data prevented a conclusive analysis.",
+    "sighted object": "a round yellow object the size of a basketball",
+    "location": "Bedford, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "George Wagasky Jr, Operations and Intelligence Officer",
+    "contains photographs": false
 }

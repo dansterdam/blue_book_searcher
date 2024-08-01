@@ -1,15 +1,9 @@
 {
-    "main event": "A pilot reported seeing a 'fiery light' that turned on and off in the sky over Dallas, Texas on April 22, 1950.",
-    "interesting points": [
-        "The object was described as a 'fiery light' that turned on and off.",
-        "The object did not have a definite formation and was seen for 3-5 minutes.",
-        "The pilot initially thought it was an ordinary aircraft, but it was later determined that no aircraft was in the area at the time.",
-        "Weather conditions were clear, and the object's movements were recorded, including its changes in elevation, azimuth, and speed.",
-        "The report mentions a news article about a meteor that fell near Fresno, California around the same time, but it's unclear if the two incidents are related."
-    ],
-    "result": "probably an ordinary aircraft",
-    "sighted object": "a 'fiery light' that turned on and off",
-    "location": "Dallas, Texas",
-    "witnesses": "a pilot",
-    "photographs": "no"
+    "main event": "A sighting of a fiery light in the sky was reported in Dallas, Texas on April 22, 1950.",
+    "interesting points": "The sighting lasted between 3 to 5 minutes,The object was described as a 'fiery light' that turned on and off,It was observed that the light had no definite formation,The possibility of the sighting being an ordinary aircraft was suggested, and it was identified later that no aircraft were in the area during the time of the sighting.",
+    "sighted object": "a fiery light",
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 4,
+    "witnesses": "a residential building construction worker, a housewife, and two students",
+    "contains photographs": false
 }

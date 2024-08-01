@@ -1,15 +1,9 @@
 {
-    "main event": "A large, luminous mass was observed falling from the sky in Schlanders, Tirol, Italy on the evening of December 18, 1962.",
-    "interesting points": [
-        "The observer, a Red Cross nurse at the Schlanders hospital, was unable to see the object hit the ground because a balcony wall obstructed the view from her window.",
-        "The observer asked the local forest ranger to keep an eye out during patrols in case the object landed in the mountains or woods.",
-        "Newspaper clippings were enclosed that reported a 24-hour watch being kept at the site where the luminous object fell to earth.",
-        "The observer was prompted to report the incident after reading the newspaper articles, wondering if there could be a connection.",
-        "The case was referred to the Office of the Assistant Secretary of Defense for consideration and appropriate action."
-    ],
-    "result": "Unexplained",
-    "sighted object": "A large, luminous mass",
+    "main event": "A luminous mass was reported falling from the sky in Schlanders, Tirol, Italy on December 18, 1962.",
+    "interesting points": "The sighting occurred from a hospital window at around 7 to 7:30 PM., The object was described as a large, luminous mass., The observer was unable to see the object hit the ground due to obstruction from a balcony wall., The observer notified a local forest ranger to monitor the area for any remnants., Local newspapers reported that a watch was kept at the site where the luminous object was believed to have fallen.",
+    "sighted object": "a large, luminous mass",
     "location": "Schlanders, Tirol, Italy",
-    "witnesses": "Red Cross nurse at the Schlanders hospital",
-    "photographs": "None"
+    "number of confirmed witnesses": 1,
+    "witness description": "a nurse from the Red Cross",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report text:
-
 {
-    "main event": "A meteorological balloon-shaped object was observed over Port Harrison, Canada on July 21, 1966.",
-    "interesting points": [
-        "The object was balloon-shaped with a dome-shaped blue top and white bottom.",
-        "The object appeared to have cords hanging down from it with a small object attached.",
-        "The object was observed moving at approximately 3 miles per hour at an altitude of 16,000 feet for about 15 minutes.",
-        "Efforts to identify the specific balloon responsible were unsuccessful, as no balloon launches from nearby stations could be confirmed to match the description.",
-        "The report concluded that since no national threat was indicated and no scientific benefit could be gained, further investigation was not justified."
-    ],
-    "result": "Identified as a likely weather balloon, though the specific balloon could not be confirmed.",
-    "sighted object": "Balloon-shaped object with dome and attached object",
+    "main event": "A civilian reported observing a balloon-shaped object moving toward the northwest at approximately 200,000 feet on July 21, 1966.",
+    "interesting points": "The object was seen for about 2 hours and described as having a small object attached to it., The object's motion was consistent with a balloon observation., There was no evidence found of a balloon launch related to this observation., The Canadian Meteorological Service reported the sighting and requested assistance in identifying the object., No national threat was indicated and the case was closed due to lack of scientific benefit.",
+    "sighted object": "balloon-shaped object",
     "location": "Port Harrison, Canada",
-    "witnesses": "RCAF personnel",
-    "photographs": "No photographs available"
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A military aircraft visually sighted a single grayish, spherical object the brightness of a first magnitude star moving through the stars towards the east.",
-    "interesting points": [
-        "The object was estimated to be at an altitude of 31-40,000 feet.",
-        "The object was tracked for 10 minutes as it moved rapidly through the star Polaris.",
-        "The sighting was confirmed at 31 degrees 23 minutes north latitude and 177 degrees 20 minutes west longitude.",
-        "No sound or trail was observed from the object.",
-        "The object was not detected on radar, but the sighting was reported to CINCPAC and HAPD VOICA."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single grayish, spherical object the brightness of a first magnitude star",
+    "main event": "A grayish, spherical object was observed moving through the star Polaris in an easterly direction.",
+    "interesting points": "The sighting lasted for approximately 10 minutes,The object had brightness comparable to a first magnitude star,The object was moving quickly without making any sound or leaving a trail,It was not detected on radar,The sighting was reported by a military source.",
+    "sighted object": "grayish spherical object",
     "location": "31.10N 177.20W",
-    "witnesses": "military",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "military source",
+    "contains photographs": false
 }

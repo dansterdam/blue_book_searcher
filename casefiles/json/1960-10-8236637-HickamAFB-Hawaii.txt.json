@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light was observed in the sky at Hickam Air Force Base in Hawaii on July 1, 1960.",
-    "interesting points": [
-        "The light appeared as a comet and then increased in size 7 to 8 times before decreasing in size and disappearing suddenly.",
-        "The light did not make any sound and appeared to be emitting its own light rather than turning on and off.",
-        "The object was estimated to be at a high altitude and moving at a high rate of speed.",
-        "The sighting lasted for about 3 minutes.",
-        "The description of the sighting was typical of a meteor, according to the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light in the sky",
-    "location": "Hickam Air Force Base, Hawaii",
-    "witnesses": "military personnel",
-    "photographs": "no photographs present"
+    "main event": "A bright white light resembling a comet was observed at Hickam AFB, Hawaii on July 1, 1960.",
+    "interesting points": "The light increased in size by 7 to 8 times before suddenly disappearing,The object was silent during the observation,The sighting lasted for 3 minutes and was recorded by military personnel,The object was described as having a tail and was bluish-white in color,The description of the sighting is typical of a meteor.",
+    "sighted object": "a bright white light with a tail",
+    "location": "Hickam A.F.B., Hawaii, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Colonel Leonard J. Parson and Lieutenant Colonel Richard D. Riddle, reliable observers",
+    "contains photographs": false
 }

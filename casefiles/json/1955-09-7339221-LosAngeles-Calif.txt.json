@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian spotted an unidentified object that faded out of sight in Los Angeles, California on September 4, 1955.",
-    "interesting points": [
-        "The object was observed by a civilian.",
-        "The duration of the sighting was not reported.",
-        "The report concludes that there was insufficient data to evaluate the sighting, and it is classified as 'UNKNOWN'.",
-        "The report includes various technical codes and abbreviations, indicating it was part of the Project Blue Book documentation.",
-        "There are no photographs or other visual evidence included in the report."
-    ],
-    "result": "unknown",
+    "main event": "A civilian observed an unidentified object that faded out of sight in Los Angeles on September 4, 1955.",
+    "interesting points": "The sighting was reported as a single object observed in the air,The length of the observation was not reported,The conclusions drawn were insufficient data for evaluation,There were no photographs taken according to the report,The report is part of Project Blue Book's records.",
     "sighted object": "one unidentified object",
-    "location": "Los Angeles, California",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

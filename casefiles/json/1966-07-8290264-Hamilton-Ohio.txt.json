@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported seeing a bright white, disc-shaped object moving rapidly in the sky over Hamilton, Ohio on July 9, 1966.",
-    "interesting points": [
-        "The object appeared to be slightly flattened and was reflecting sunlight.",
-        "The object was moving at an unusual speed, passing at around 20 per minute.",
-        "The observer tried to estimate the size of the object by holding a match stick at arm's length, and the object covered about two-thirds of the match head.",
-        "The object was observed for 15-20 minutes and at times moved behind trees.",
-        "The observer had not seen a similar object before."
-    ],
-    "result": "INSUFFICIENT DATA FOR EVALUATION",
-    "sighted object": "bright white, disc-shaped object",
-    "location": "Hamilton, Ohio",
-    "witnesses": "1 civilian",
-    "photographs": "no"
+    "main event": "An unidentified object was reported sighted in Hamilton, Ohio on 9 July 1966.",
+    "interesting points": "The report indicates that there is insufficient data for evaluation., The observation was classified as Ground-Visual., The object was reported to be one in number., The object was seen moving in a northeast course., The observer described the object as a slightly flattened disc-shaped object reflecting sunlight, passing rapidly at unusual speed.",
+    "sighted object": "one unidentified object",
+    "location": "Hamilton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 27-year-old male resident of Hamilton, OH",
+    "contains photographs": false
 }

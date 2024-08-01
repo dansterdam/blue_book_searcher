@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified object was observed in the sky near Bloom, Kansas on August 3, 1956.",
-    "interesting points": [
-        "The object appeared suddenly and had an erratic course.",
-        "The observation lasted for 10.5 minutes.",
-        "The object was observed both visually and on ground-based radar.",
-        "The report concluded that the object was 'Unidentified' and that there was 'Insufficient data for analysis'.",
-        "Weather conditions at the time included clear skies and moderate winds."
-    ],
-    "result": "unidentified",
-    "sighted object": "unidentified aerial object",
-    "location": "8 miles west of Bloom, Kansas",
-    "witnesses": "civilian observer(s)",
-    "photographs": "no"
+    "main event": "An unidentified object was observed visually and by ground radar on August 3, 1956, 8 miles west of Bloom, Kansas.",
+    "interesting points": "The sighting lasted for about 10.5 minutes., The course of the object was described as erratic., The object appeared suddenly., The report concluded that the object was probably unidentified., The observation included visual and ground-radar methods.",
+    "sighted object": "unidentified object",
+    "location": "Bloom, Kansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. [REDACTED], age approximately 35",
+    "contains photographs": false
 }

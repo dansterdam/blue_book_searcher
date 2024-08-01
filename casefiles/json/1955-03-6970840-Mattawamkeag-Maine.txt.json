@@ -1,15 +1,9 @@
 {
-  "main event": "A bright falling object was observed by a commercial pilot and a GOC observer in Mattawamkeag, Maine in 1955, falling toward the horizon for a period of 3-4 seconds.",
-  "interesting points": [
-    "The GOC observer described the object as red, yellow, and green.",
-    "No axial activity was reported in the area at that time.",
-    "The delay in receiving the initial report and the lack of further investigation led to the conclusion that the sighting was likely a meteor.",
-    "The report indicates that no photographs were taken of the observed object.",
-    "The conclusion notes that the data received seems to follow that of some astronomical phenomena, i.e., a meteor."
-  ],
-  "result": "Probably Meteor",
-  "sighted object": "A bright falling object",
-  "location": "Mattawamkeag, Maine",
-  "witnesses": "Commercial pilot and GOC observer",
-  "photographs": "No"
+    "main event": "A commercial pilot and a GOC observer spotted an extremely bright falling object for a period of 3-4 seconds.",
+    "interesting points": "The object was observed at night under clear conditions., The GOC observer described the object as having red, yellow, and green colors., There was no aerial activity reported in the area at the time of the sighting., The initial report was delayed by 10 days., The report speculates that the object might be associated with astronomical phenomena, likely a meteor.",
+    "sighted object": "one bright falling object",
+    "location": "Mattawamkeag, Maine, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a commercial pilot and a GOC observer",
+    "contains photographs": false
 }

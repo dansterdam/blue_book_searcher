@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian spotted a bright, star-like object in the sky over Miamisburg, Ohio on October 28, 1965.",
-    "interesting points": [
-        "The object appeared as a bright light, brighter than a bright star when viewed through binoculars.",
-        "The object had a round, ball-like appearance when viewed through binoculars and a telescope.",
-        "Without binoculars, the object had dazzled edges.",
-        "The object appeared to shine and then go out of sight.",
-        "A similar object had been seen in the same area two weeks prior, also viewed through binoculars."
-    ],
-    "result": "Identified as the planet Venus",
-    "sighted object": "Bright light, round object",
-    "location": "Miamisburg, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A witness reported observing an unidentified object in Miamisburg, Ohio on 10 October 1965.",
+    "interesting points": "The object was reported to have moved from east to west over a period of 4 minutes., The observation was made from a hillside., The description of the object included characteristics of brightness and shape resembling a large star., The weather conditions were bright during the sighting., This sighting is part of a series documented by Project Blue Book.",
+    "sighted object": "unidentified aerial phenomenon",
+    "location": "Miamisburg, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer who reported the observation in a UFO questionnaire.",
+    "contains photographs": false
 }

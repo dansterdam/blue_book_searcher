@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An F-94 interceptor attempted to make visual and radar contact with an unidentified object near Beluga Lake, Alaska on July 21, 1952.",
-    "interesting points": [
-        "The object was detected on radar at a distance of 18,000 yards, and the interceptor was able to get a lock-on at 12,000 yards.",
-        "The object was detected traveling at a speed greater than 100 knots.",
-        "At a distance of 6,600 yards, the object suddenly disappeared and could not be re-acquired on radar.",
-        "A second attempt was made to contact the object, with the interceptor getting a lock-on at 12,000 yards and closing in at 50-60 knots.",
-        "At 1,500 yards, the object's maneuver resembled a normal break-look, and the target was lost."
-    ],
-    "result": "unidentified",
-    "sighted object": "unidentified aerial object",
-    "location": "Beluga Lake, Alaska",
-    "witnesses": "F-94 interceptor pilot and radar observer",
-    "photographs": "none"
+    "main event": "Multiple sightings of unusual objects were reported over Rapid City, South Dakota, on various dates in July and August 1952, with descriptions varying from a round, silvery object to multiple bright lights moving at high speeds.",
+    "interesting points": "Mrs. X described seeing a silvery object the size of a dime at arm's length moving rapidly in a southerly direction., Several reports indicated that unidentified flying objects traveled at different altitudes and speeds, with some sightings lasting 10-15 minutes., Witnesses described various shapes, including round and disc-like objects, along with the sound and color descriptions of the lights they saw., The sighting on July 25, 1952, involved five objects seen traveling in different directions., Observational conditions were described as generally clear, with no distinct sounds associated with the sighting of the objects.",
+    "sighted object": "A round, silvery object and five unidentified flying objects observed in the sky",
+    "location": "Rapid City, South Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. X, female, stenographer, aged 27, reported initial sighting on August 23, 1952; further reports involve other civilians during the same timeframe.",
+    "contains photographs": false
 }

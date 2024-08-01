@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
     "main event": "A metallic fragment was found in a burned pit in Newark, Ohio on September 13, 1962.",
-    "interesting points": [
-        "The object was found in a burned pit, but no other similar objects were found in the area.",
-        "Physical analysis showed the object to be related to the local topography and considered to be of little significance.",
-        "The object was never in the upper atmosphere and was considered to be of limited processing.",
-        "The report included handwritten notes at the bottom with a case number.",
-        "The report was part of Project Blue Book, a United States Air Force program to investigate unidentified flying objects (UFOs)."
-    ],
-    "result": "explained",
+    "interesting points": "The object was analyzed and considered to be related to local topography., No other similar objects were found in the area., The object was assessed to be of little significance., The sample showed unusual readings for surface radioactivity during analysis., The analysis indicated that the sample was likely a water material such as iron-containing slag.",
     "sighted object": "metallic fragment",
-    "location": "Newark, Ohio",
-    "witnesses": "Robert Harris",
-    "photographs": "no"
+    "location": "Newark, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Robert Harris, residing at 213 South 9th Street, Newark, Ohio",
+    "contains photographs": false
 }

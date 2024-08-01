@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A civilian reported seeing a bright light passing across the sky at a high rate of speed in Norland, Florida on January 15, 1958.",
-    "interesting points": [
-        "The object was described as a bright light moving rapidly across the sky.",
-        "The report was investigated as part of the U.S. Air Force's Project Blue Book program.",
-        "The case was accepted for further study and evaluation by the National Investigations Committee on Aerial Phenomena (NICAP).",
-        "The Air Force indicated that the information provided was not sufficient for a full scientific investigation.",
-        "The report was handled by the Aerial Phenomena and Systems Branch of the Directorate of Scientific and Technical Intelligence."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light",
-    "location": "Norland, Florida",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A civilian reported observing a UFO in the Gulf of Mexico with an approximate diameter of 15 ft, featuring a shaped nose and a transparent window containing wiring and electrical coils.",
+    "interesting points": "The object was painted red and had a silver-colored top approximately 3 ft long., The observant believed it to be a new type of weather reporting buoy that had broken free from its moorings., It was described as having an unusual design with discernible features through the transparent window., The sighting was recorded as ground-visual without any optical aids., The investigation concluded that the object could potentially be a weather balloon illuminated by the full moon.",
+    "sighted object": "a red UFO with a shaped nose and transparent window",
+    "location": "Gulf of Mexico",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

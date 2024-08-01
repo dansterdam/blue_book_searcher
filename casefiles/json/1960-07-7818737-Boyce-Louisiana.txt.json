@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A round, bright white object was observed hovering motionless over Boyce, Louisiana for 3 hours on July 27, 1960.",
-    "interesting points": [
-        "The object changed color several times, from bright white to red and light green.",
-        "The object appeared to be surrounded by a haze or mist.",
-        "The object remained stationary throughout the 3-hour sighting.",
-        "The description fits that of a star or planet (Venus) when refracted by the atmosphere.",
-        "Despite efforts to determine the cause, the sighting could not be conclusively explained."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, bright white object",
-    "location": "Boyce, Louisiana",
-    "witnesses": "student, 13 years old; student, 45 years old",
-    "photographs": "no"
+    "main event": "A round, oval object was observed hovering motionless in Boyce, Louisiana on July 27, 1960.",
+    "interesting points": "The object changed colors several times, including bright white, red, and light green., No sound was reported during the sighting., The object remained stationary for the entire duration of the observation., The sighting lasted for three hours with two witnesses, a student and a visitor., The object was described as the size of an airplane, surrounded by a haze or mist.",
+    "sighted object": "an oval, round object changing colors",
+    "location": "Boyce, Louisiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a 13-year-old student and a 45-year-old visiting woman",
+    "contains photographs": false
 }

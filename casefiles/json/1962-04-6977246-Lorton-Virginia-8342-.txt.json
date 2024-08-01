@@ -1,15 +1,9 @@
 {
-    "main event": "A report from Lorton, Virginia on April 26, 1962 mentions Kodachrome slides but no photographs are included.",
-    "interesting points": [
-        "The report mentions the presence of Kodachrome slides, but no actual photographs are provided.",
-        "The report is part of the Project Blue Book archives, which was a US government program that investigated UFO sightings.",
-        "The location of the sighting is Lorton, Virginia.",
-        "The date of the report is April 26, 1962.",
-        "The lack of photographs or additional details in the report makes it difficult to determine the nature of the sighting."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unknown",
-    "location": "Lorton, Virginia",
-    "witnesses": "unknown",
-    "photographs": "no, the report mentions Kodachrome slides but no photographs are included"
+    "main event": "A report from April 26, 1962, regarding a UFO sighting in Lorton, Virginia, mentions slides labeled 'Kodachrome'.",
+    "interesting points": "The report consists of repeated mentions of 'Kodachrome', indicative of photographic evidence or slides., The document does not contain any actual photographs, only references to Kodachrome slides., The repeated mention of 'Kodachrome' suggests an emphasis on visual documentation., The report is part of Project Blue Book, which investigated UFO sightings., The specific details of the sighting itself are not provided in the text.",
+    "sighted object": "UFO (details not provided)",
+    "location": "Lorton, Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not provided in the report",
+    "contains photographs": false
 }

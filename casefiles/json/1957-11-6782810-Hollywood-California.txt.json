@@ -1,13 +1,9 @@
 {
-    "main event": "A bright white object with a reddish tail was observed in the sky for 5 minutes.",
-    "interesting points": [
-        "The object was the size of a dime.",
-        "The object was observed moving from Hollywood to the Northeast.",
-        "The report comments that the description, duration, and flight path indicate the object was probably an aircraft."
-    ],
-    "result": "Possibly Aircraft",
-    "sighted object": "A bright white object with a reddish tail",
-    "location": "Hollywood, California",
-    "witnesses": "Not specified",
-    "photographs": "Yes"
+    "main event": "A round bright white object with a reddish tail was observed in the sky for 5 minutes.",
+    "interesting points": "The object was the size of a dime,It was observed moving from west to northeast,The sighting lasted for about 5 minutes,The document concluded that it was probably an aircraft,The sighting occurred on 15 February 1957.",
+    "sighted object": "one round bright white object with a reddish tail",
+    "location": "Hollywood, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "not specified",
+    "contains photographs": true
 }

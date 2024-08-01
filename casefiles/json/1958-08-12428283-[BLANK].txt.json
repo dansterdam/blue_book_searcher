@@ -1,16 +1,9 @@
 {
-  "main event": "The document provides a comprehensive overview of the history and findings of the UFO program from 1947 to 1958, including the significant increase in UFO sightings in 1952. It also discusses the establishment of Project GRUDGE and Project BLUE BOOK to handle UFO reports.",
-  "interesting points": [
-    "The peak year of the UFO program was 1952, with an average of over 100 reports per month received, compared to 10 per month in 1951.",
-    "General Samford held a nationally televised press conference to explain the Washington Flying Saucer sightings in 1952, but his explanations were received with skepticism.",
-    "A panel of sixteen distinguished scientists concluded that UFOs held no direct physical threat, were not foreign developments capable of hostile acts, and did not constitute unknown phenomena requiring the revision of current scientific concepts.",
-    "Efforts were made to emphasize the importance of cooperation by all Air Force units in improving reporting, investigation, and analysis procedures under Project BLUE BOOK to decrease the percentage of unsolved sightings.",
-    "The percentage of 'unknowns' decreased steadily from 16% to 3% through the implementation of various investigative and reporting procedures.",
-    "Increase in UFO reports paralleled an increase in private UFO organizations, books, motion pictures, and TV presentations, with an advent of Sputnik undoubtedly contributing to the rise."
-  ],
-  "result": "prozaic explanation",
-  "sighted object": "Unidentified Flying Objects (UFOs)",
-  "location": "United States",
-  "witnesses": "Various Air Force officials, Subcommittee on Atmospheric Phenomena, private civilian flyer Kenneth Arnold",
-  "photographs": "The report does not mention the presence of photographs"
+    "main event": "A briefing was held by the Air Force on 8 August 1958 regarding the Unidentified Flying Object program.",
+    "interesting points": "The peak year for UFO reports was 1952, with an average of over 100 reports per month., General Samford addressed the public's skepticism about UFOs following high-profile sightings., A panel of sixteen distinguished scientists concluded that UFOs held no direct physical threat and were not interplanetary in origin., Project BLUE BOOK resulted in a significant reduction of unidentified cases from 10% to around 2.5%. , An increase in private UFO organizations has accompanied a rise in reported sightings, with over fifty such groups existing as of 1958.",
+    "sighted object": "Unidentified Flying Objects (UFOs)",
+    "location": "Maxwell AFB, Alabama, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Participants in the briefing included military personnel and members of the House Select Committee on Astronautics and Space Exploration.",
+    "contains photographs": false
 }

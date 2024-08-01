@@ -1,15 +1,9 @@
 {
-    "main event": "A military observer reported sighting a circular-shaped bright object descending through a twisting course over Klamath Falls, Oregon.",
-    "interesting points": [
-        "The object was observed for about 2 seconds and had a small trail.",
-        "The description is consistent with that of a meteor.",
-        "The weather was clear with visible stars at the time of the sighting.",
-        "There were no known objects in the area that could explain the sighting.",
-        "The staff intelligence officer concluded the sighting was likely a natural phenomenon or departing space debris."
-    ],
-    "result": "natural phenomenon",
-    "sighted object": "circular-shaped bright object",
-    "location": "Klamath Falls, Oregon",
-    "witnesses": "military observer",
-    "photographs": "no"
+    "main event": "Observer reported sighting a circular shaped bright object descending through a twisting course for about 2 seconds.",
+    "interesting points": "The sighting occurred on 22 DEC 66 at 0045Z,The object left a small trail,The observer concluded it looked like a falling star, The weather was clear at the time of the sighting, The observation was categorized as a natural phenomena potentially as space debris.",
+    "sighted object": "circular shaped bright object",
+    "location": "Klamath Falls, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "1LT Joseph A. Schleff from military",
+    "contains photographs": false
 }

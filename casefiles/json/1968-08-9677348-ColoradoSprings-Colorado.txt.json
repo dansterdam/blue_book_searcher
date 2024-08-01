@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four flaming balls were sighted in the sky over Colorado Springs, Colorado on August 26, 1966.",
-    "interesting points": [
-        "The objects were traveling in a straight line at first, then seemed to lose altitude and disappear after about 10-12 seconds.",
-        "A strange and unusual light was observed to the north by the witness and their wife for approximately one and a half hours. It appeared to be hovering, descending, and ascending.",
-        "The light was elongated in shape, bright and luminous, and silent.",
-        "The Air Force requested more information from the witness to complete their investigation, but the information provided was not sufficient.",
-        "The Air Force concluded the initial sighting was possibly a balloon with flares attached."
-    ],
-    "result": "Possible (Balloon)",
-    "sighted object": "Four flaming balls in the sky, and a strange, elongated, bright light",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "Civilians",
-    "photographs": "No"
+    "main event": "Civilians reported sighting four flaming balls in the sky over Colorado Springs for approximately 10 to 12 seconds.",
+    "interesting points": "The objects were initially traveling in a straight line before they seemed to lose altitude and disappear., Observers felt the objects resembled balloons with flares attached., A wife and husband duo observed a strange light to the north that changed in size and position for about one and a half hours., Multiple light sources were observed, appearing hazy at times due to cloud cover., Police and local authorities received reports but found no additional sightings at that time.",
+    "sighted object": "four flaming balls in the sky",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians",
+    "contains photographs": false
 }

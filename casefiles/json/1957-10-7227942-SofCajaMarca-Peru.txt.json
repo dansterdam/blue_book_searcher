@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed in the vicinity of Caja de Marca, Peru on multiple occasions in October 1957.",
-    "interesting points": [
-        "The object was described as white-steel-gleaming and appeared to move at a fast rate of speed, as well as slowly climb or descend.",
-        "The object was observed on three different days - October 26, October 27, and November 8, 1957.",
-        "The object was observed by an Airman using a theodolite, and its position and flight pattern were carefully tracked and recorded.",
-        "The object's flight characteristics, such as varying speed and altitude, indicated it was under intelligent control and not a natural phenomenon.",
-        "Despite careful observation, no radar track of the object was obtained."
-    ],
-    "result": "unexplained",
-    "sighted object": "A white, steel-colored, luminous, spherical object",
-    "location": "Caja de Marca, Peru",
-    "witnesses": "Two non-commissioned officers, U.S. Air Force",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed over Caja Marca, Peru on multiple occasions, with a distinct white-steel color, erratic movements, and varying visibility.",
+    "interesting points": "The object was reported on three separate days: October 26, October 29, and November 8, 1957., The object appeared to move at varying speeds, sometimes climbing or descending., Witnesses described it as gleaming and spherical in shape., Observations included specific azimuth and elevation angles recorded during sightings., The object was concluded to be probably astronomical based on the report.",
+    "sighted object": "one white-steel gleaming object",
+    "location": "Caja Marca, Peru",
+    "number of confirmed witnesses": 2,
+    "witness description": "non-commissioned officers of the U.S. Air Force",
+    "contains photographs": false
 }

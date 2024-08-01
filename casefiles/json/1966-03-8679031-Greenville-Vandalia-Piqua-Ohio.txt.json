@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "A bright object was observed in the sky over Greenville, Vandalia, and Piqua, Ohio.",
-    "interesting points": [
-        "The object was first sighted by a state highway patrolman from the Greeneville post.",
-        "The object was then spotted at an altitude of 500-600 feet, traveling at a speed of approximately 60 mph.",
-        "The object was tracked moving south towards Cedarville and was also sighted by a cadet.",
-        "No final sighting of the object was made, with the last observation by Patrolman Landversight of the Morton State Highway Patrol post.",
-        "The patrolman who initially sighted the object took photographs, but believed they would not turn out."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright light, UFO",
-    "location": "Greenville, Vandalia, Piqua, Ohio",
-    "witnesses": "state highway patrolmen, cadet",
-    "photographs": "yes, but believed they would not turn out"
+    "main event": "Witnesses observed a bright object in the sky, later identified as Venus, during the morning of March 27, 1966.",
+    "interesting points": "The sighting lasted for about 15 minutes and was reported by multiple witnesses, including law enforcement officers., One witness self-identified the object as Venus based on its brightness and position., A dispatcher noted that the object had a red tint and was bright white., The object appeared to sway and stop due to atmospheric illusions., The object was estimated to be about 2 miles away and observed at an altitude of 500-600 feet.",
+    "sighted object": "a bright light identified as Venus",
+    "location": "Greenville, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "highway patrolmen and civilian observers",
+    "contains photographs": false
 }

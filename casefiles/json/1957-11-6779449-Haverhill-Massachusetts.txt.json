@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A triangular object was spotted at low altitude in Haverhill, Massachusetts in 1957.",
-    "interesting points": [
-        "The object was triangular in shape.",
-        "The object was spotted at a low altitude.",
-        "The object disappeared behind trees after being observed for about 0.5 minutes.",
-        "The report includes a Project Blue Book record card which was used to document UFO sightings.",
-        "The report concludes the sighting was a 'Possible Aircraft' or 'Insufficient Data for Evaluation', classifying it as 'Unknown'."
-    ],
-    "result": "unknown",
-    "sighted object": "a triangular object",
-    "location": "Haverhill, Massachusetts",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "A triangular object was observed at a low altitude in Haverhill, Massachusetts on July 2, 1957.",
+    "interesting points": "The sighting lasted approximately 30 seconds.,The object had a triangular shape.,The object was observed at low altitude before disappearing behind trees.,The course of the object was recorded as 270 degrees.,The report concluded insufficient data for a definitive evaluation.",
+    "sighted object": "triangular object",
+    "location": "Haverhill, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Group visual observation",
+    "contains photographs": false
 }

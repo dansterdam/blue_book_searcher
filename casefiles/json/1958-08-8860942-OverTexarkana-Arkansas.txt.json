@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot in a T-33A jet aircraft saw a glowing green and white object over Texarkana, Arkansas in August 1958.",
-    "interesting points": [
-        "The object appeared to execute a maneuver, passing through the pilot's course and causing the lights to go out as it passed through the pilot's altitude.",
-        "The object was described as the size of an aircraft.",
-        "The sighting was also detected by ground radar.",
-        "The duration of the sighting was 10 seconds.",
-        "The report was inconclusive, suggesting the object could have been a balloon, astronomical phenomenon, aircraft, or missile."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a glowing green and white object",
-    "location": "Over Texarkana, Arkansas",
-    "witnesses": "1 pilot in a T-33A jet aircraft",
-    "photographs": "none"
+    "main event": "A UFO sighting occurred over Texarkana, Arkansas on 6 August 1958, involving one object that executed a maneuver and passed through radar.",
+    "interesting points": "The sighting lasted for about 10 seconds,The object was reported to be the size of an aircraft,Military personnel were involved in the observation,The object was described as possibly a balloon or an astronomical phenomenon,The lights on the object went out as it passed through the observer's altitude.",
+    "sighted object": "one unidentified flying object",
+    "location": "Texarkana, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain J.S. Morrison, pilot from Shaw AFB, S.C.",
+    "contains photographs": false
 }

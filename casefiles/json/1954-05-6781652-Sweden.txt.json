@@ -1,15 +1,9 @@
 {
-    "main event": "General (ret.) reported sighting of UFOs on 17 May 1954 in Sweden.",
-    "interesting points": [
-        "The sighting was evaluated as probably meteors.",
-        "The report was received by the Air Technical Intelligence Center (ATIC) on 27 July 1954.",
-        "The report was assigned Project No. DEACT 2B.S.0.55.",
-        "The document appears to be a page from a Project Blue Book record, which was a project by the United States Air Force to investigate unidentified flying objects (UFOs).",
-        "There is no photograph present in the image."
-    ],
-    "result": "evaluated as probable meteors",
-    "sighted object": "UFOs",
+    "main event": "A report from Project Blue Book documenting a sighting of rapidly moving objects evaluated as probably meteors in Sweden on 17 May 1954.",
+    "interesting points": "The sighting was reported by a general (ret.) without a copy of the original report., The analysis concluded the objects were astronomical phenomena., The observation was made visually from the ground., The report is linked to CIA ATIC documentation., The objects were observed recently prior to the report date of 27 July 1954.",
+    "sighted object": "rapidly moving objects",
     "location": "Sweden",
-    "witnesses": "General (ret.)",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "General (ret.) who reported the sighting",
+    "contains photographs": false
 }

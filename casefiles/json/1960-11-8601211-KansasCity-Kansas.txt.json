@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Radar operator observed an object moving at extremely high speeds, 3000-4000 mph, at about 45,000 ft altitude. The object disappeared from the scope, reappeared, moved very rapidly, disappeared, and reappeared at different locations, exhibiting quite erratic movement.",
-    "interesting points": [
-        "The object was observed for 15-20 minutes, but there was no visual sighting.",
-        "A witness, a 22-year-old student, reported seeing a strange light in the sky that appeared to be hovering and flickering, then made a quick dive and ascent.",
-        "Several witnesses reported observing a circular object about 40-50 ft in diameter, which was pendient and gave off flashes of red and green light. It went through the clouds and shot up into the sky where it disappeared.",
-        "An object was sighted by two people in Independence, Missouri, that was described as bright white and stationary. It moved slowly at first, then accelerated rapidly and disappeared towards the northeast, being sighted for approximately 2-3 minutes.",
-        "An object was reported as being bright white in color and approximately the size of a star, moving in an erratic manner and observed for about 10-15 minutes, with no unusual sound associated with it."
-    ],
-    "result": "unexplained",
-    "sighted object": "high-speed unidentified objects, bright lights, and circular craft",
-    "location": "Kansas City, Kansas; Independence, Missouri",
-    "witnesses": "radar operator, student, multiple witnesses",
-    "photographs": "none"
+    "main event": "Radar operator observed an object moving very rapidly at speeds of 3000-4000 mph at around 45,000 ft altitude on 8 Nov 59, Kansas City, Kansas.",
+    "interesting points": "The object displayed erratic movement, disappearing and reappearing on radar,The sighting lasted for 15-20 minutes with no visual confirmation, A witness reported a strange flickering light hovering 4 miles west of Kansas City on 8 Nov 56,The object was described as circular and 40-50 ft in diameter with red and green lights by another witness in 1961, There are various reports of bright white objects observed in the Kansas City area across different dates.",
+    "sighted object": "unknown flying object",
+    "location": "Kansas City, Kansas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "B.W., a 22-year-old student",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian in Cincinnati, Ohio reported seeing a fast-moving object in the sky on July 8, 1965.",
-    "interesting points": [
-        "The object appeared as a 'round ball' with a 'fuzzy trailing' behind it, and was moving much faster than any known aircraft.",
-        "The witness described the object as looking 'almost like a star' and moving from southwest to northeast.",
-        "The sighting lasted for about 15 minutes as the object passed over the Big Dipper constellation.",
-        "The witness was unsure if the object was a weather balloon or something else, and reported the sighting to Major Quintanilla of Project Blue Book.",
-        "The report includes handwritten correspondence from the witness to the Air Force regarding the sighting."
-    ],
-    "result": "Satellite",
-    "sighted object": "a fast-moving object with a 'round ball' appearance and a 'fuzzy trailing'",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "a civilian witness",
-    "photographs": "No"
+    "main event": "On July 8, 1965, a civilian reported sighting a strange object that appeared like a star moving quickly in a northeasterly direction in Cincinnati, Ohio.",
+    "interesting points": "The object was described as looking like a round ball with a fuzzy trail behind it,The sighting lasted approximately 15 minutes as the object passed over the Big Dipper,The observer noted that the object was flying at a tremendous speed, much faster than any known aircraft,The report includes both a formal submission and a personal letter to Major Quintanilla,The conclusion of the report suggests the object was a satellite.",
+    "sighted object": "a strange object resembling a star",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who observed the event",
+    "contains photographs": false
 }

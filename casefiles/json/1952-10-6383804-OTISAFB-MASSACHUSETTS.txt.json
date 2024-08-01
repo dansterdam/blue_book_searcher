@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed at Otis AFB in Massachusetts on October 10, 1952.",
-    "interesting points": [
-        "The object appeared as a blinking white light that flew upward and then started a pendulum-like action for approximately 20 minutes.",
-        "The object then shot straight up at a terrific rate of speed, making no noise and showing no means of propulsion.",
-        "The sighting lasted from 2352 to 0320 on October 16, 1952.",
-        "The object was observed visually from the porch of the airmen's barracks at Otis AFB for approximately 15-20 minutes.",
-        "The sky was clear and visibility was unlimited during the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "a blinking white light that displayed pendulum-like motion",
-    "location": "Otis AFB, Massachusetts",
-    "witnesses": "3 airmen: S/Sgt. Richard W. County, A/1C James M. Barren, and A/2C Edward P. Robinson",
-    "photographs": "no"
+    "main event": "An observation of an object displaying a pendant-like motion for approximately 20 minutes before shooting straight up at a terrific rate of speed.",
+    "interesting points": "The object was observed for about 20 minutes,The object displayed a pendulum-like action,The object made no noise and showed no means of propulsion,The sighting was reported by three military personnel,The sky was clear with unlimited visibility during the observation.",
+    "sighted object": "a blinking white light",
+    "location": "Otis AFB, Massachusetts, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three military personnel: S/SGT Richard W County, A/1C James M Barren, and A/2C Edward P Robinson",
+    "contains photographs": false
 }

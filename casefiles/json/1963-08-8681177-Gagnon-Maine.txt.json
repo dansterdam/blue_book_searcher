@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "Observation of an elongated (2ft x 10 inch) red flashing object near Caribou, Maine",
-    "interesting points": [
-        "The object was observed in level flight from East to West during the day.",
-        "The object was reported to have exploded and fallen.",
-        "13 persons happened to witness the sighting.",
-        "The sighting lasted for about 2 minutes.",
-        "The report states that insufficient data is available for further evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "Elongated (2ft x 10 inch) red flashing object",
-    "location": "Caribou, Maine",
-    "witnesses": "13 persons",
-    "photographs": "One photograph, not included in the provided image"
+    "main event": "An observation of an elongated red flashing object near Caribou, Maine, on August 1, 1963.",
+    "interesting points": "The object was described as elongated (2ft x 10 inch) and red with flashing lights., It was observed flying in level flight from East to West during the day., The object reportedly exploded and fell after one minute of observation., Thirteen persons happened to look at the object simultaneously., Insufficient data was available for further evaluation.",
+    "sighted object": "an elongated red flashing object",
+    "location": "Caribou, Maine, USA",
+    "number of confirmed witnesses": 13,
+    "witness description": "Civilian, Supervisor of Maintenance at Sanatorio",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "Nine spherical objects were seen on ground radar traveling at approximately 6,000 mph for about 9.5 minutes on 28/05/1957.",
-  "interesting points": [
-    "Objects were traveling at an incredibly high speed of 6,000 mph.",
-    "The observation lasted for exactly nine and a half minutes.",
-    "The objects were initially thought to be caused by atmospheric conditions.",
-    "The sighting was associated with possible meteor activity.",
-    "The report was sent for analysis but was deemed to add little or nothing to the current knowledge of UFOs."
-  ],
-  "result": "unknown",
-  "sighted object": "nine spherical objects",
-  "location": "Castle AFB, California",
-  "witnesses": "personnel at the 2035th AACS and 93D AREFS",
-  "photographs": "no"
+    "main event": "Nine spherical objects were observed on ground radar traveling at a high speed.",
+    "interesting points": "The objects were seen traveling at approximately 6,000 mph for about 9.5 minutes., The sighting coincided with atmospheric conditions that may have affected radar returns., Only one radio operator aboard a nearby aircraft reported seeing shooting stars but did not identify the radar targets as unusual., The radar observers experienced similar returns at different installations before., The radar targets were lost in ground clutter after being tracked for about 24 seconds.",
+    "sighted object": "nine spherical objects on ground radar",
+    "location": "Castle AFB, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "staff from Castle AFB including radar operators and approach control personnel",
+    "contains photographs": false
 }

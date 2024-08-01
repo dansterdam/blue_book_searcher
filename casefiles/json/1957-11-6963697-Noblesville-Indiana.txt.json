@@ -1,15 +1,9 @@
 {
-    "main event": "The radar at Noblesville, Indiana detected 8 metallic, shiny objects on November 7, 1957.",
-    "interesting points": [
-        "The objects were detected by ground radar and were observed for 2 hours.",
-        "The objects were described as round and shiny, appearing motionless at times.",
-        "The radar contact was intermittent, with the objects appearing to vanish and reappear.",
-        "The report was unable to conclusively identify the objects, listing them as possibly aircraft, balloons, or astronomical in nature.",
-        "The report includes details about the altitude and heading of the detected objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "8 metallic, shiny objects detected on radar",
-    "location": "Noblesville, Indiana",
-    "witnesses": "Ground radar operators",
-    "photographs": "no"
+    "main event": "Radar detection of 8 shiny metallic objects observed intermittently over a period of 2 hours in Noblesville, Indiana.",
+    "interesting points": "The objects were detected on ground radar,The observation lasted for about 2 hours,The objects appeared shiny and metallic,Initial conclusions suggested they could have been aircraft, balloons, or astronomical phenomena,There was insufficient data for a definitive evaluation.",
+    "sighted object": "eight shiny metallic objects",
+    "location": "Noblesville, Indiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The report is based on radar data; no confirmed witnesses mentioned.",
+    "contains photographs": false
 }

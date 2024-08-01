@@ -1,17 +1,9 @@
-Based on the provided UFO report text, here is the summary in the requested JSON format:
-
 {
-    "main event": "One object with a shape varying from triangle to umbrella, the size of a baseball, and green in color, was observed in Flint, Michigan on September 5, 1956.",
-    "interesting points": [
-        "The object had a tail.",
-        "The observation lasted for one hour.",
-        "The object moved from north to south.",
-        "The report was considered to have insufficient data for evaluation.",
-        "Wind data was not included in the report."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "one green object with a triangular to umbrella shape and a tail",
-    "location": "Flint, Michigan",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "One object was observed in Flint, Michigan on 5 September 1956, with a shape transitioning from triangle to umbrella and a size comparable to a baseball.",
+    "interesting points": "The object was green in color and had a tail., The observation lasted for one hour., The object's course was from north to south., There are no photographs available in the report., The report indicates that the data is insufficient for a definitive evaluation.",
+    "sighted object": "one object with shape from triangle to umbrella",
+    "location": "Flint, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian source",
+    "contains photographs": false
 }

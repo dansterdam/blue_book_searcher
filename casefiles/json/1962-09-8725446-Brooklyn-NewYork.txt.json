@@ -1,15 +1,9 @@
 {
-    "main event": "A cylindrical object with flashing lights was observed by a civilian in Brooklyn, New York in September 1962.",
-    "interesting points": [
-        "The object was the same size as a large plane, but had no wings, exhaust, or sound.",
-        "The object had flashing red and white lights on the end, but no tail.",
-        "The object was observed moving horizontally at a speed of 3-13 mph.",
-        "The object was observed at an altitude of 5,202 feet.",
-        "The observation was reported to the Department of the Air Force and the Defense Intelligence Agency."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian reported a large cylindrical object with flashing lights in Brooklyn, New York, in September 1962.",
+    "interesting points": "The object was wingless and made no exhaust or sound,The object had two white exhaust panels emitting pulsating lights,The sighting occurred at night,The object was described to be the same size as a large plane,The duration of the observation was not fully reported.",
     "sighted object": "large cylindrical object with flashing lights",
-    "location": "Brooklyn, New York",
-    "witnesses": "one civilian aged 17",
-    "photographs": "none"
+    "location": "Brooklyn, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, age 17",
+    "contains photographs": false
 }

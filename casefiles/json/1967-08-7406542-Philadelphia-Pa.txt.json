@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A man reported seeing a round, hovering object about the size of a small plane that disappeared right next to him and then shot away.",
-    "interesting points": [
-        "The object was about 2 feet away from the observer.",
-        "The observer stated he is a good observer of objects in the sky and this was not a known aircraft.",
-        "The object was much larger than a small plane or helicopter.",
-        "The observer saw the object for a short amount of time, only a couple nights.",
-        "The Air Force requested additional information from the observer to further evaluate the report."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "round, hovering object",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "1 civilian observer",
-    "photographs": "none"
+    "main event": "A civilian reported observing a round object hovering near his house on August 29, 1967.",
+    "interesting points": "The object was about the size of a small airplane and hovered close to the observer,The observer described the object as not being a known aircraft and ruled out small planes or helicopters,The object disappeared before suddenly shooting away,The observer stated he is a very good observer of objects in the sky,The case was reevaluated due to insufficient data as the observer's report was not returned in 60 days.",
+    "sighted object": "a round object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, claims to be a very good observer of objects in the sky",
+    "contains photographs": false
 }

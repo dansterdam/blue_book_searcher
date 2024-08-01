@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light was reported to be stationary for a few seconds, then accelerated and disappeared.",
-    "interesting points": [
-        "The reported object was described as a luminous, disc-shaped object that hovered and maneuvered for about 20 minutes.",
-        "One witness, a well-respected businessman, claims to have observed the object through binoculars and seen 'portholes' on its surface.",
-        "The sighting caused considerable excitement in the community, with a number of people going out to try and see the object.",
-        "The report was received on April 23, 1964 about a sighting that occurred on April 8, 1964 at 10:00 PM EST in Frankfort, Indiana.",
-        "The object was described as a hovering light that was round in shape, bluish-white in color, and appeared to shine downward. It was observed for 3-5 minutes before moving away rapidly."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white light, a luminous disc-shaped object",
-    "location": "Frankfort, Indiana",
-    "witnesses": "multiple residents, a well-respected businessman",
-    "photographs": "none"
+    "main event": "On the evening of July 12, 1964, several residents of Frankfort, Indiana, reported seeing a bright white light that was stationary for a few seconds, then accelerated and disappeared.",
+    "interesting points": "The sighting involved a luminous, disc-shaped object that hovered and maneuvered for about 20 minutes in the sky., One witness, a well-respected businessman, claimed to see 'portholes' on the object's surface through binoculars., There was considerable excitement in the community with many residents hoping to see the object., The report indicated that the object made no sound during the observation., The light was described as bluish-white and was observed for 3-5 minutes before it moved rapidly away.",
+    "sighted object": "a luminous, disc-shaped object",
+    "location": "Frankfort, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a well-respected businessman",
+    "contains photographs": false
 }

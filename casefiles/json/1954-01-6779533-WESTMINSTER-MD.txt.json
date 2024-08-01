@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A strange, brilliant green, triangular object was sighted and observed from a witness's home in January 1954.",
-    "interesting points": [
-        "The object was described as some distance away, maneuvering erratically, and emitting pulsating rays of light.",
-        "The witness observed the object for several minutes before it disappeared.",
-        "The witness expressed that the experience was strange and unexplained.",
-        "The report contains a handwritten description of an unidentified aerial object that was observed for about 15 minutes, moving slowly and drifting from east to west.",
-        "The object was described as a weird, oval-shaped, grey object that stayed in the same general area without drifting up or down."
-    ],
-    "result": "unexplained",
-    "sighted object": "A strange, brilliant green, triangular object; an oval-shaped, grey object",
-    "location": "Unspecified",
-    "witnesses": "A witness from their home; an unspecified number of witnesses",
-    "photographs": "No photographs included"
+    "main event": "On January 10, 1954, a witness observed a ball-shaped object during a 3-5 minute sighting, described as having a straight flight before exploding.",
+    "interesting points": "The object was seen moving across a red fire for about 30 seconds before it exploded., The visibility was reported as poor due to haze and mist during the sighting., The witness described the object as round and bigger than a basketball., The sighting was part of the Project Blue Book investigation into unidentified flying objects., Investigations suggested it might have been navigational lights from routine air traffic.",
+    "sighted object": "a ball-shaped object",
+    "location": "Westminster, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a housewife, and reliability cannot be judged.",
+    "contains photographs": false
 }

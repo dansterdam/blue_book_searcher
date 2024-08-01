@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian observer reported seeing an exceptionally large and bright star-like object moving in a straight line from north to south over Kansas City, Missouri on March 10, 1965.",
-    "interesting points": [
-        "The object was described as being white in color and much larger and brighter than a normal star.",
-        "The object was observed for approximately 10 minutes before the observer lost sight of it.",
-        "Several other observers in the Kansas City area reported seeing similar objects moving across the sky on the same dates in March 1965.",
-        "Weather conditions at the time were clear, with winds from the surface up to 32,000 feet reported.",
-        "The Air Force concluded that the sighting was likely of a known satellite (DSII) based on the reported movement and characteristics of the observed object."
-    ],
-    "result": "Satellite (DSII)",
-    "sighted object": "An exceptionally large and bright white star-like object",
-    "location": "Kansas City, Missouri",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "A civilian reported a sighting of a bright object in the sky over Kansas City, Missouri on March 1, 1965.",
+    "interesting points": "The sighting lasted approximately 10 minutes., The object was observed moving south at 25 degrees elevation., The conclusion suggested it was a known satellite in the vicinity., Witnesses described the object as much larger and brighter than a star., Multiple reports indicated sightings of objects moving southeast around the same time.",
+    "sighted object": "One bright object resembling a very large star",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A couple involved in delivering literature for a dairy council, noted for their sincerity and reliability",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report describes a sighting of unidentified flying objects, with the observer requesting information from the Air Force.",
-    "interesting points": [
-        "The observer reported seeing clear indications of something passing by, though they could not clearly identify the objects.",
-        "The observer stated that this information was very important and they would appreciate any information the Air Force could provide.",
-        "The report was sent from Houston, Texas.",
-        "The report includes a Project Blue Book record card, indicating it was part of the Air Force's investigation into UFO sightings.",
-        "The record card states that the sighting was concluded to be 'Probably Balloon' or 'Insufficient Data for Evaluation'."
-    ],
-    "result": "inconclusive",
+    "main event": "A report to the United States Air Force regarding unidentified flying objects was submitted on July 30, 1963.",
+    "interesting points": "The report does not specifically identify the observed objects as airplanes or jets., The conclusions suggest it was probably a balloon but lacked sufficient data for evaluation., The request for information was sent to the Air Force regarding UFOs seen specifically in Houston., The communication emphasizes the importance of the information sought by the requester., The request was conducted under the Project Blue Book record card system.",
     "sighted object": "unidentified flying objects",
-    "location": "Houston, Texas",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "location": "Houston, Texas, United States",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses mentioned in the report",
+    "contains photographs": false
 }

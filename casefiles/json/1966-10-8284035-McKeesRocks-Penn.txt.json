@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three silver objects were observed in the sky near McKees Rocks, Pennsylvania on October 14, 1966.",
-    "interesting points": [
-        "The objects were observed for 30 minutes.",
-        "The objects were traveling in an easterly direction.",
-        "The report states that there were 3 photographs taken, but they are not included in the document.",
-        "The conclusion of the report was that there was 'INSUFFICIENT DATA FOR EVALUATION'.",
-        "The report was followed up by a request for the observer to complete an additional form (AFD Form 154) to provide more details."
-    ],
-    "result": "unexplained",
-    "sighted object": "three silver objects",
-    "location": "McKees Rocks, Pennsylvania",
-    "witnesses": "civilian",
-    "photographs": "yes, but not included"
+    "main event": "On 14 October 1966, three unidentified objects were observed in McKees Rocks, Pennsylvania for approximately 30 minutes.",
+    "interesting points": "The sighting was made by a civilian,The objects were moving east,No photographs of the sighting were included,The conclusion stated that there was insufficient data for evaluation,There were conflicting reports of other sightings in the area following the initial observation.",
+    "sighted object": "three unidentified flying objects",
+    "location": "McKees Rocks, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

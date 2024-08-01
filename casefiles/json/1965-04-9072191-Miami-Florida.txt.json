@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "A civilian in Miami, Florida reported seeing a white, oval-shaped object in the sky on April 25, 1965.",
-    "interesting points": [
-        "The object appeared to be about 4 miles away and the size of a man's thumb held at arm's length.",
-        "The object came to a standstill and gradually disappeared out of sight.",
-        "The sighting lasted for approximately 5 minutes.",
-        "The observer reported the sighting to the president of the Miami UFO Study Group on the same day.",
-        "The observer was writing a research paper on unidentified flying objects for a high school English class."
-    ],
-    "result": "insufficient information",
-    "sighted object": "a white, oval-shaped object",
-    "location": "Miami, Florida",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a white oval object in the sky in Miami, Florida, on May 13, 1965.",
+    "interesting points": "The object was observed for approximately 3 minutes,The course of the object was reported to be straight and level,The observation was made without any physical evidence or photographs,The report concluded that there was insufficient information,The report includes a questionnaire specifically designed for UFO sightings.",
+    "sighted object": "one white oval object",
+    "location": "Miami, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 33-year-old male who reported the sighting to the President of the Miami UFO Study Group",
+    "contains photographs": false
 }

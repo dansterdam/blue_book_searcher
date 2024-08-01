@@ -1,17 +1,9 @@
-Here is the JSON summary of the report:
-
 {
-    "main event": "The document discusses the U.S. Air Force's Project Blue Book, which investigated reports of unidentified flying objects (UFOs).",
-    "interesting points": [
-        "Over 12,000 UFO cases have been reported to the Air Force since 1947, with over 7,500 investigated.",
-        "The vast majority of reported UFO sightings have been attributed to the misidentification of known objects like balloons, aircraft, and satellites, as well as natural phenomena like parhelia and mirages.",
-        "A small percentage of cases remain unidentified, but the Air Force has found no evidence that these unidentified objects are extraterrestrial spacecraft.",
-        "There are over 50 private UFO organizations in the U.S. with over 500,000 members, some of which have tried to influence Congress to investigate the Air Force's UFO program.",
-        "The Air Force's main interest in UFO reports is determining if they pose a threat to national security or could provide new scientific or technical information."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Unidentified aerial phenomena",
-    "location": "United States",
-    "witnesses": "Civilian pilots, passengers, and other members of the public",
-    "photographs": "None provided in the document"
+    "main event": "The document discusses various aspects of the Air Force's handling of UFO investigations and correspondence related to public inquiries about unidentified aerial phenomena.",
+    "interesting points": "Mr. Speights, a young man, has written to the Air Force multiple times about UFOs, his recent letter shows he might have received assistance from NICAP, NICAP is highly active in pressing Congress for hearings on UFO matters, The Air Force maintains that most UFO sightings have been attributed to misidentified objects, A significant percentage of sightings remain unexplained but are not necessarily linked to extraterrestrial origin.",
+    "sighted object": "unidentified aerial phenomena",
+    "location": "Maxwell AFB, Alabama, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "There are no direct witnesses cited in the document as it primarily discusses correspondence and Air Force positions.",
+    "contains photographs": false
 }

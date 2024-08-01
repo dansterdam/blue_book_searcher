@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A single unidentified object was observed for 1.5 seconds in Waldport, Oregon on August 4, 1965.",
-    "interesting points": [
-        "The object's direction was not reported.",
-        "No photographs were taken of the object.",
-        "The report concluded there was insufficient data to evaluate the event as a possible phenomenon or natural occurrence.",
-        "The case was to be reclassified if additional data was received.",
-        "The document appears to be a page from a Project Blue Book file, a U.S. Air Force program that investigated UFOs."
-    ],
-    "result": "insufficient data",
-    "sighted object": "one unidentified object",
-    "location": "Waldport, Oregon",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A civilian reported seeing one unidentified object in the sky over Waldport, Oregon on August 4, 1965.",
+    "interesting points": "The observation lasted only 1.5 seconds,The document is a part of Project Blue Book, which investigated UFO sightings,The report concluded there was insufficient data to classify the sighting,The object was not visually followed, indicating a sudden appearance,The report contained a request for additional information to assist in evaluation.",
+    "sighted object": "one unidentified flying object",
+    "location": "Waldport, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

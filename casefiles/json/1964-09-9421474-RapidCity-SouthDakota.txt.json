@@ -1,15 +1,9 @@
 {
-    "main event": "A witness reported seeing a fiery object that almost hit the ground near Ellsworth Air Force Base in South Dakota on September 21, 1964.",
-    "interesting points": [
-        "The object was brighter than a meteor and had a long trail.",
-        "The witness reported seeing the object at around 8:00 PM local time.",
-        "The report was filed by the Deputy Director of Information at Ellsworth Air Force Base.",
-        "The report was sent to the Air Force Systems Command's Foreign Technology Division at Wright-Patterson Air Force Base.",
-        "The report states that the information given was not sufficient to determine exactly what the object was, and that there were no other reports of this incident."
-    ],
-    "result": "unknown",
-    "sighted object": "a fiery object",
-    "location": "Ellsworth Air Force Base, South Dakota",
-    "witnesses": "one civilian witness",
-    "photographs": "no"
+    "main event": "A witness reported seeing a fiery object near the horizon that almost hit the ground.",
+    "interesting points": "The sighting was reported on 21 Sept at 2008 MST.,The object was described as brighter than a meteor and had a long trail.,The object stopped in course during the observation.,The duration of the observation was 25 minutes.,The report concluded with insufficient data and no other reports of the incident.",
+    "sighted object": "a fiery object in the sky",
+    "location": "Rapid City, South Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object to Base Operations at Ellsworth AFB.",
+    "contains photographs": false
 }

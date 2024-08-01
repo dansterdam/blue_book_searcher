@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A naval officer observed three unidentified silver-colored objects flying over Miramar Naval Air Station in California on February 2, 1955.",
-    "interesting points": [
-        "The objects maintained a straight course, constant speed, and constant altitude.",
-        "The officer was unable to determine the exact size, speed, or altitude of the objects.",
-        "The officer reported the sighting to the appropriate authorities immediately after observing the objects.",
-        "The report was comprehensive but lacked some desired information, so the officer was requested to complete an additional questionnaire.",
-        "The sighting lasted for approximately 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three unidentified silver-colored objects",
-    "location": "Miramar Naval Air Station, California",
-    "witnesses": "naval officer",
-    "photographs": "none"
+    "main event": "A Navy pilot tracked an unidentified object below an aircraft while observing radar data at Miramar NAS, California on February 2, 1955.",
+    "interesting points": "The object was blinding and accelerated intermittently,It descended steadily changing color from white to reddish-brown,The object reached tremendous speeds and left a short vapor trail,The pilot was unable to identify the object due to its swift departure and large size perception,The report concluded insufficient data for proper evaluation.",
+    "sighted object": "unidentified aerial object",
+    "location": "Miramar, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Navy pilot with 25 years of experience in Naval Aviation",
+    "contains photographs": false
 }

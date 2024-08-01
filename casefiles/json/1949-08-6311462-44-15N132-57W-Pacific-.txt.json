@@ -1,15 +1,9 @@
 {
-  "main event": "On 2 Aug 1949, military observers sighted an unusual cloud formation in the eastern sky at approximately 75 miles distant. The formation appeared to be made up of streaks which were white in color and about 1500 feet above the undercast, ascending to an altitude of 17,000 feet.",
-  "interesting points": [
-    "The formation was observed for 15 minutes and appeared to have no identifying information or sound associated with it.",
-    "Observers did not see the streaks form and heard no unusual sounds.",
-    "No object was observed in the air or on the sea, and no unusual noises were heard on radio reception.",
-    "Photographs were taken by the aircraft commander at the time of sighting.",
-    "The intense trail was observed to be broken in several areas, and it did not disappear through evaporation."
-  ],
-  "result": "prosaic explanation (CLOUD/CONTRAIL)",
-  "sighted object": "unusual cloud formation",
-  "location": "Pacific (4°.15N 132.57W)",
-  "witnesses": "military observers",
-  "photographs": "yes, the report includes photographs"
+    "main event": "Three crew members of the 'Lark Dog' weather mission observed an unusual cloud-like formation while flying at approximately 15,000 feet on 2 August 1949.",
+    "interesting points": "The formation was composed of streaks that appeared to be clouds and was visible for about 15 minutes., The unusual formation was approximately 75 miles away from the observing aircraft., No unusual sounds were reported during the sighting., The pilots attempted to take photographs of the formation, although actual photographs were not included in the report., The investigation concluded that the formation could be attributed to a cloud or contrail, but no identifiable object was sighted.",
+    "sighted object": "unusual cloud-like formation",
+    "location": "Pacific Ocean, Pacific",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members of the 'Lark Dog' weather mission, including the Aircraft Commander 1st Lt. Glenn D. Mill and others",
+    "contains photographs": false
 }

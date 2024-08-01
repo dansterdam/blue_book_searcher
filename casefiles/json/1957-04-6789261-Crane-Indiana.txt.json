@@ -1,15 +1,9 @@
 {
-    "main event": "Two objects traveling in a southwest-northeast direction were observed for several minutes.",
-    "interesting points": [
-        "The objects were observed to be high in the sky.",
-        "The reporting officer concurred that the sighting was caused by a balloon.",
-        "The conclusion was that the objects were most likely a balloon.",
-        "The report mentions that the sighting was possibly caused by a meteor or an aircraft.",
-        "There is no additional report file available."
-    ],
-    "result": "Probable balloon",
+    "main event": "Two objects were observed traveling in a southwest-northeast direction for several minutes.",
+    "interesting points": "The observation was visual and lasted for several minutes.,The sighting involved two objects.,The objects were reported to be high in the sky.,The reporting officer concurred with the sighting being caused.,The conclusions included possibilities like a balloon, meteor, or aircraft.",
     "sighted object": "two high-altitude objects",
-    "location": "unknown",
-    "witnesses": "reporting officer",
-    "photographs": "no"
+    "location": "Not specified",
+    "number of confirmed witnesses": 1,
+    "witness description": "reporting officer",
+    "contains photographs": false
 }

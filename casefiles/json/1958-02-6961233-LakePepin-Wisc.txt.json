@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An object with the shape of a boomerang, described as glowing with an intensely bright light, was observed over Lake Pepin, Wisconsin.",
-    "interesting points": [
-        "The object came from over Lake Pepin and traveled near the observer's house, making sharp turns.",
-        "The object then shot straight up with a thump and a stream of smoke or vapor cloud.",
-        "The object was compared in size to a baseball.",
-        "Two paintings were made of the object, 170 minutes apart.",
-        "Both observers saw the unidentified object, unless they were wrong in the location and it was some other object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a boomerang-shaped object with an intensely bright light",
-    "location": "Lake Pepin, Wisconsin",
-    "witnesses": "two observers",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "On February 22, 1953, observers reported a boomerang-shaped object glowing with an intensely bright light over Lake Pepin, Wisconsin.",
+    "interesting points": "The object was observed making sharp turns and then shot straight up into the sky with a thump and a vapor cloud., The observer compared the size of the object to a baseball., The sighting lasted for approximately 2 hours., The investigation indicated potential witnesses from a local Astronomy Club., The weather conditions were reported as clear with a quarter moon present.",
+    "sighted object": "one glowing boomerang-shaped object",
+    "location": "Lake Pepin, Wisconsin, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "local civilians, one a member of the Astronomy Club",
+    "contains photographs": false
 }

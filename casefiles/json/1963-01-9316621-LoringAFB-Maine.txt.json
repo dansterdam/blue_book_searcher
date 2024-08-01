@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Military air fighting of a small white object resembling searchlights for about 2 minutes.",
-    "interesting points": [
-        "The sighting occurred on January 29, 1963 at Loring AFB in Maine.",
-        "The object was observed by military personnel and reported via radio.",
-        "The object was described as a small white object resembling searchlights.",
-        "The observation lasted for approximately 2 minutes.",
-        "No other information was provided after the crew was debriefed upon landing."
-    ],
-    "result": "unknown",
-    "sighted object": "small white object resembling searchlights",
-    "location": "Loring AFB, Maine",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "main event": "Military personnel observed a small white object resembling search lights for about 2 minutes.",
+    "interesting points": "The sighting lasted for 2 minutes and was classified as a ground-visual observation., The object was reported to resemble search lights., There were no photographs submitted with the report., Conclusions ranged from insufficient data to a potential aircraft or astronomical object., The report was part of Project Blue Book, a historical U.S. Air Force investigation into UFOs.",
+    "sighted object": "small white object",
+    "location": "Loring AFB, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel who reported the sighting",
+    "contains photographs": false
 }

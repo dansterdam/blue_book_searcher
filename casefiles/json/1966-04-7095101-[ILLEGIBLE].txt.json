@@ -1,15 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "Two unidentified objects were spotted over Scranton, Massachusetts on April 26, 1965 at 3:08 AM.",
-    "interesting points": [
-        "The objects were first spotted by a civilian observer.",
-        "There were two objects observed.",
-        "The report does not provide any additional details about the appearance or behavior of the objects."
-    ],
-    "result": "unknown",
-    "sighted object": "two unidentified objects",
-    "location": "Scranton, Massachusetts",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "On April 11, 1965, a civilian witnessed an unidentified flying object in Corpus Christi, Texas, for approximately fifteen minutes.",
+    "interesting points": "The object was observed flying from northwest to northeast,The conclusion of the sighting suggested it was likely a satellite sighting,The document dated May 5, 1967, mentioned that photographs submitted appeared genuine but could not be conclusively identified,The report included different forms of communication regarding the same sighting,Some communications emphasized the need for further information to evaluate the sightings.",
+    "sighted object": "unidentified flying object",
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

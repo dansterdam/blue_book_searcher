@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A large red object was observed in the southeast sky for 30 minutes near Corpus Christi, Texas.",
-    "interesting points": [
-        "The object appeared to be bright and then dimmer and larger.",
-        "Several people in a group saw the object.",
-        "The object appeared to show high broken clouds that night, which could have accounted for the light disappearance.",
-        "The description is consistent with that of an astronomical object, most likely a bright star.",
-        "The object was larger than an airplane, red in the middle and silver around the sides."
-    ],
-    "result": "astronomical object, likely a bright star",
-    "sighted object": "a large red object",
-    "location": "Corpus Christi, Texas",
-    "witnesses": "a group of people, including 2 adults and 11 children",
-    "photographs": "no"
+    "main event": "A civilian observer watched a large red colored object in the southeast sky for 30 minutes on February 28, 1967.",
+    "interesting points": "The object appeared bright then dimmer and larger over time,Several people in a group witnessed the object,The sighting occurred at night under conditions of broken high clouds,The description of the object is consistent with that of a bright astronomical object,The object was reported to be larger than an airplane.",
+    "sighted object": "a large red oblong object",
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 13,
+    "witness description": "2 adults and 11 children",
+    "contains photographs": false
 }

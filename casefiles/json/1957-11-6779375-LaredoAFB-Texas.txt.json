@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified object was observed on the ground-radar scope at Laredo AFB, Texas, on November 6, 1957, moving in an easterly direction at an undetermined speed for 5-10 minutes. No visual sighting was made.",
-  "interesting points": [
-    "The observation was made using a ground-radar scope at Laredo AFB, Texas.",
-    "The object appeared as a single bright track and remained on the scope for 5-10 minutes, with no visual sighting.",
-    "The observation should have been reported as a probable aircraft or at least identified as a track on the radar scope, indicating a discrepancy in the classification of the object as 'unidentified'.",
-    "Another sighting involved large to small (size of C-47 to test color unit) unidentified flying objects with an irregular path of flight and speed of approximately 400-600 knots.",
-    "The duration of one sighting was approximately 1 hour, with the objects located 1-1/2 to 3-3/4 miles from the observer at a height of approximately 5,000-6,000 feet above the ground."
-  ],
-  "result": "prozaic explanation",
-  "sighted object": "unidentified object on ground-radar scope, large to small unidentified flying objects",
-  "location": "Laredo AFB, Texas",
-  "witnesses": "radar operators, GCA Surveillance Scopes, AACS personnel, and a civilian technical representative",
-  "photographs": "no"
+    "main event": "An object was observed on the ground-radar scope of the ADCC at Laredo AFB, Texas, on November 6, 1957.",
+    "interesting points": "The observation lasted for 5 to 10 minutes.,The object appeared as a single bright track on the radar scope.,The object was moving in an easterly direction at an undetermined speed.,No visual sighting was made of the object.,There is debate regarding the classification of the object as unidentified.",
+    "sighted object": "1 bright track on ground-radar",
+    "location": "Laredo, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "SSGT, A/3C, Civilian Tech Rep",
+    "contains photographs": false
 }

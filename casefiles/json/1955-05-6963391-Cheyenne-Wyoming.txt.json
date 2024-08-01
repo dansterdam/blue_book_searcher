@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple sightings of unidentified flying objects (UFOs) over Cheyenne, Wyoming in May 1955, including visual, ground-radar, and eyewitness observations.",
-    "interesting points": [
-        "The UFOs were described as having a silver-like color and an erratic movement, with no sound or trail, making them unusual for conventional objects like balloons.",
-        "The radar tracking of the UFOs was unable to produce efficient tracking and identification, leading to an unresolved conclusion.",
-        "Eyewitness accounts described the UFOs as slender, rectangular, and oval-shaped objects with white and dark colors, some with intermittent bright-purple illumination.",
-        "No physical evidence such as materials or photographs of the UFOs was obtained, contributing to the mysterious nature of the sightings.",
-        "One witness reported seeing a pencil-shaped object with white lights that disappeared and reappeared, followed by the appearance of moving lights that seemed to go up and then drop almost straight down before flying south."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying objects (UFOs)",
-    "location": "Cheyenne, Wyoming",
-    "witnesses": "Military personnel, radar operators, and eyewitnesses",
-    "photographs": "no photographs were obtained"
+    "main event": "On 22 May 1955, multiple airmen observed unusual flying objects near Cheyenne, Wyoming.",
+    "interesting points": "The objects displayed erratic movement not typical of balloons,The sighting duration varied from 10 seconds to 5 minutes,Objects were described as having white light and a dark purplish center,Four objects were consistently observed during the incident,The report was deemed 'unresolved' due to difficulty in radar tracking.",
+    "sighted object": "Unidentified flying objects (two silver-like objects, 4 objects including slender rectangular and oval shapes)",
+    "location": "Cheyenne, Wyoming, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Airmen from Francis E. Warren Air Force Base",
+    "contains photographs": false
 }

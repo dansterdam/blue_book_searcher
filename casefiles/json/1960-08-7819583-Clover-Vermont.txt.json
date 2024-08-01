@@ -1,15 +1,9 @@
 {
-    "main event": "A stationary object was detected on ground radar, but not picked up on air-intercept radar. The object remained stationary for about 40-45 minutes before disappearing from radar. There was no visual confirmation.",
-    "interesting points": [
-        "The ground-radar operator noted the detection of the object, but it could not be tracked on the air-intercept radar.",
-        "The object remained stationary and then disappeared from the radar.",
-        "No further details were available about the sighting.",
-        "The report contains two hand-drawn sketches, one depicting an object in the sky and another showing a person on a road with hills in the background.",
-        "The report includes a questionnaire with various questions about the sighting, but no photographs are present."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified stationary object detected on ground radar",
-    "location": "Clover, Vermont",
-    "witnesses": "ground-radar operator",
-    "photographs": "no"
+    "main event": "A stationary object was detected on ground radar in Clover, Vermont, on 16 August 1956.",
+    "interesting points": "The object was not picked up on air-intercept radar., It hovered for about 40-45 minutes before disappearing from radar., A ground-radar operator detected the object but could not visually confirm it., There were no photos present in the report, only sketches and written descriptions., The object was described as a bright light about the size of a fist at arm's length, bluish-white in color.",
+    "sighted object": "a stationary object detected by ground radar",
+    "location": "Clover, Vermont, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A retired teacher and former high school principal.",
+    "contains photographs": false
 }

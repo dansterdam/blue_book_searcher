@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A bright object that appeared much larger than a star was seen in the sky over Adona, Arkansas on August 28, 1956.",
-  "interesting points": [
-    "The object appeared to give off rays and was much larger than a star.",
-    "The object was stationary at first, then moved slightly to the southeast around 11:00 AM GMT.",
-    "The observer and her mother had seen similar objects on three different occasions, though this one was brighter and gave off more light.",
-    "At one point, the observers noticed some rays of light coming directly at them, lighting up the area around the tree limbs above their heads.",
-    "The report indicates that the manner of the object's disappearance was not given in the original report."
-  ],
-  "result": "probably astronomical (Venus)",
-  "sighted object": "a bright object that appeared much larger than a star",
-  "location": "Adona, Arkansas",
-  "witnesses": "a woman and her mother",
-  "photographs": "no"
+    "main event": "A bright object was observed in the sky over Adona, Arkansas, on 28 August 1956, initially thought to be a star but appeared much larger and gave off rays of light.",
+    "interesting points": "The object was stationary but later moved slightly to the Southeast,The observation lasted for at least one hour,The sighting was noted to have occurred around 4 AM and persisted until approximately 5 AM,The object was described as much brighter than a star,The witness indicated this was the third similar sighting, although previous sightings did not exhibit the same brightness or rays.",
+    "sighted object": "a bright object resembling a star",
+    "location": "Adona, Arkansas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Miss [REDACTED] and her mother",
+    "contains photographs": false
 }

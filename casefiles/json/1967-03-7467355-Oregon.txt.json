@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Three lights, one red, one white, and a green strobing light, were observed over Creswell, Oregon in 1967.",
-    "interesting points": [
-        "The object appeared to land in front of the Hillsboro Air Force-well Airport.",
-        "The object exhibited erratic movement, including hovering, tilting, swaying, and rapidly accelerating and disappearing.",
-        "The object was witnessed by two people driving on Interstate 5 near Goshen, Oregon.",
-        "The witnesses went to the Creswell Airport to inquire about the object, but the proprietor claimed to know nothing about it.",
-        "An officer was dispatched to the Creswell Airport to investigate, but found no evidence and took no further action."
-    ],
-    "result": "unexplained",
-    "sighted object": "three lights, one red, one white, and a green strobing light",
-    "location": "Creswell, Oregon",
-    "witnesses": "two people driving on Interstate 5",
-    "photographs": "no"
+    "main event": "Witnesses observed three ground lights near Creswell Airport in Oregon on March 24, 1967, for a duration of about 10 minutes.",
+    "interesting points": "The object had three lights, red, white, and green, and emitted a brightness comparable to a high-intensity city light,The lights were observed to be stationary before moving away quickly,The witness reported the lights landed in front of the airport,The observation took place at 7:45 PM,The witnesses included Errol Pratchard and one other individual, who both noted the peculiar movement and brightness of the lights.",
+    "sighted object": "three ground lights with red, white, and green colors",
+    "location": "Creswell, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnesses included Errol Pratchard and one additional individual, both stated they had not seen a similar object before.",
+    "contains photographs": false
 }

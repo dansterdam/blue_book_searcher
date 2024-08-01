@@ -1,15 +1,9 @@
 {
-  "main event": "A stationary, white, round object was observed on radar and visually in North Vassalboro, Maine in November 1957. The object suddenly disappeared.",
-  "interesting points": [
-    "The object was observed both on radar and visually, indicating a tangible presence.",
-    "It was classified as unidentified with a possible explanation of a balloon, but there was not enough data for evaluation.",
-    "The report mentions consultation of photographs indicating a search for additional evidence.",
-    "The observer's location and identifying information are provided, adding credibility to the report.",
-    "Weather and visibility details are included, providing context for the sighting."
-  ],
-  "result": "unexplained",
-  "sighted object": "stationary, white, round object",
-  "location": "North Vassalboro, Maine",
-  "witnesses": "S/SGT Jack Gent, S/SGT R.A.",
-  "photographs": "no"
+    "main event": "A stationary, white, round object was observed on radar and visually in North Vassalboro, Maine.",
+    "interesting points": "The observation lasted for about 10 minutes,The object was recorded as being stationary before it suddenly disappeared,It was the only object detected in the area,The report suggests the object could possibly be a balloon,There was not enough data available for a full evaluation.",
+    "sighted object": "a white round object",
+    "location": "North Vassalboro, Maine, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified in the report.",
+    "contains photographs": false
 }

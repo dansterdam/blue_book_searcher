@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A woman reported seeing two interconnected oval-shaped lights moving in the sky over Elk Grove Village, Illinois on February 8, 1965.",
-    "interesting points": [
-        "The woman was coming home around midnight and stopped her car to observe the strange lights, which were about 20-30 feet above her house.",
-        "The woman was terrified but did not hear any sound from the object.",
-        "The woman ran inside, got her husband, and they went to the window to look for the object, but it had disappeared.",
-        "NICAP members were present during the filming of the woman's account for an NBC documentary and made some questionable claims about restricted areas at the Museum of Science and Industry.",
-        "Investigator J. Allen Hynek determined the object was likely the first quarter moon, with refraction and cloud cover causing it to appear as two interconnected ovals of light."
-    ],
-    "result": "Astronomical (moon)",
-    "sighted object": "two interconnected oval-shaped lights",
-    "location": "Elk Grove Village, Illinois",
-    "witnesses": "woman, her husband",
-    "photographs": "none"
+    "main event": "A physicist reported seeing two interconnecting ovals of light in the sky while driving home in Elk Grove Village, Illinois on February 8, 1965.",
+    "interesting points": "The sighting occurred around midnight after a doctor's appointment,The object appeared stationary and emitted a dazzling light with no sound,The witness was terrified and believed the object could affect her car,The case was investigated by Dr. J. Allen Hynek and used in an NBC documentary,The conclusion suggested the sighting was likely caused by the moon and atmospheric conditions.",
+    "sighted object": "two interconnecting ovals of light",
+    "location": "Elk Grove, Village, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 26-year-old woman, physicist, self-possessed",
+    "contains photographs": false
 }

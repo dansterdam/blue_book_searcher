@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One object light observed at 20,000+ elevation from an aircraft. Course 330 deg true.",
-    "interesting points": [
-        "The sighting lasted for 10 minutes.",
-        "The object was visually observed, not detected by radar.",
-        "The location of the sighting was 31 45' N 176 25' W in the Pacific Ocean.",
-        "The report does not provide any further details about the appearance or behavior of the observed object.",
-        "The conclusion from the report is that there is insufficient data to evaluate the sighting."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "One light object",
-    "location": "31 45' N 176 25' W (Pacific)",
-    "witnesses": "Aircraft crew",
-    "photographs": "no"
+    "main event": "A UFO was visually observed at an elevation of 20,000+ feet from an aircraft on June 8, 1963.",
+    "interesting points": "The object was observed for a total of 10 minutes,The sighting was documented as part of Project Blue Book,The UFO was reported to be headed on a course of 330 degrees true,The report concluded with insufficient data for evaluation, and no specific identification of the object was made.",
+    "sighted object": "one light object",
+    "location": "Pacific Ocean, Pacific",
+    "number of confirmed witnesses": 0,
+    "witness description": "The sighting was reported from an aircraft but no witnesses are specifically confirmed.",
+    "contains photographs": false
 }

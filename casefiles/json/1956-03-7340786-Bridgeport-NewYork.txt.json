@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, yellow object was spotted swinging back and forth and up and down in the sky near Bridgeport, New York on March 6, 1956.",
-    "interesting points": [
-        "The object was the size of a quarter when viewed from the ground.",
-        "The object increased in altitude during the sighting.",
-        "The sighting lasted for 25 minutes.",
-        "The report suggests the object was likely a weather balloon, although the position of the planet Jupiter was also considered as a possible explanation.",
-        "No other reports of the sighting were received by the local observatory."
-    ],
-    "result": "Probably Balloon",
-    "sighted object": "round, yellow object",
-    "location": "Bridgeport, New York",
-    "witnesses": "1 witness",
-    "photographs": "yes, the report includes a sketch"
+    "main event": "A mechanic reported observing a round yellow object, estimated to be the size of a quarter, swinging back and forth and increasing altitude for a duration of 25 minutes in Bridgeport, New York on March 6, 1956.",
+    "interesting points": "The object was observed moving up and down while increasing altitude,The sighting lasted for 25 minutes without any sound from the object,There was speculation it might be a balloon, although the position of the planet Jupiter was also considered as a possible explanation,No other reports were made to the Syracuse University Observatory around the time of the sighting,The observer was a reliable source with experience as an Air Force radar technician during World War II.",
+    "sighted object": "a round yellow object",
+    "location": "Bridgeport, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A middle-aged mechanic with past experience in the Air Force as a radar technician.",
+    "contains photographs": false
 }

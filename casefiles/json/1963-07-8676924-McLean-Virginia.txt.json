@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person observed an object in the sky that was copper-colored with a green light, moving across the sky and then going out of sight quickly.",
-    "interesting points": [
-        "The object was going down as the sun was setting.",
-        "The object appeared to be copper-colored.",
-        "The object had a green light on it.",
-        "The sighting was brief as the object went out of sight quickly.",
-        "The witness was 11 years old at the time of the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "copper-colored object with a green light",
-    "location": "Mclean, Virginia",
-    "witnesses": "1 witness, an 11 year old male",
-    "photographs": "no photographs present"
+    "main event": "An object was observed splitting into two portions and moving apart in McLean, Virginia on 13 July 1963.",
+    "interesting points": "The sighting lasted for 40 seconds,The object was stationary at the time of the sighting,One part of the object was rising while the other was falling,The object made a sound like a bird,The color of the object was described as grayish white.",
+    "sighted object": "an object that split into two portions",
+    "location": "McLean, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an 11-year-old male",
+    "contains photographs": false
 }

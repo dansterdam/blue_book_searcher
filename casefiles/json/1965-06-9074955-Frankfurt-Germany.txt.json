@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round white object was observed in the clouds, descending and then turning in front of the observers at an angle. The speed of the object was much greater than known transportation used in Germany.",
-    "interesting points": [
-        "The object appeared only in the clouds and no features were noted.",
-        "The observer indicated the reflection observed was likely from the sun, suggesting the object was a probable natural phenomenon.",
-        "The object maintained its altitude within the top of the haze layer, making it difficult to discern its exact shape or substance.",
-        "The object left no trail and blended well with the existing weather phenomena.",
-        "All the clouds in the general area maintained their relative positions during the sighting, allowing the observer to track the object's movements."
-    ],
-    "result": "reflection",
-    "sighted object": "round white object",
+    "main event": "A round white object was observed in the clouds in Frankfurt, Germany on June 29, 1965.",
+    "interesting points": "The object was seen descending and then turning at an angle in front of the observers., The observed speed was much greater than known transportation used in the area., The object appeared only in the clouds with no distinguishable features., The reflection observed may have come from the observers, suggesting a probable natural phenomenon., The total observation duration was noted to be about 3 minutes.",
+    "sighted object": "a round white object in the clouds",
     "location": "Frankfurt, Germany",
-    "witnesses": "Military personnel",
-    "photographs": "None"
+    "number of confirmed witnesses": 1,
+    "witness description": "A Federal Aviation Agency flight inspector who could not identify the object.",
+    "contains photographs": false
 }

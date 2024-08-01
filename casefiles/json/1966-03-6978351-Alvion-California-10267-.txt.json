@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be a cover page or header for a document from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).",
-    "interesting points": [
-        "The report provides the file number, date, location, and number of pages for the document.",
-        "The document is marked as 'UNCLASSIFIED' and appears to be from the 'FOREIGN TECHNOLOGY DIVISION AFSC'.",
-        "The report does not contain any photographs or illustrations, only text.",
-        "The report appears to be a scanned document with headers and page numbers.",
-        "There is no further information about a UFO sighting or event described in the provided text."
-    ],
-    "result": "unknown",
-    "sighted object": "None described",
+    "main event": "A report from Project Blue Book relating to unidentified flying objects dated March 29, 1966.",
+    "interesting points": "The report is marked UNCLASSIFIED, The document comes from the FOREIGN TECHNOLOGY DIVISION AFSC, The report contains 6 pages, There are no photographs included in the document, The report does not contain visible text on some pages.",
+    "sighted object": "not specified",
     "location": "Alvion, California",
-    "witnesses": "None described",
-    "photographs": "No photographs included"
+    "number of confirmed witnesses": 0,
+    "witness description": "not applicable",
+    "contains photographs": false
 }

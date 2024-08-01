@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on November 12, 1957 at 1921 hours.",
-    "interesting points": [
-        "The sighting was recorded on a Project Blue Book Project 10073 Record Card.",
-        "The sighting duration was unknown.",
-        "No photographs were available.",
-        "The conclusion was 'Insufficient data for evaluation'.",
-        "The case number was 12-4557."
-    ],
-    "result": "unexplained",
-    "sighted object": "unknown",
+    "main event": "A sighting report from Project Blue Book dated 12 November 1957.",
+    "interesting points": "The sighting was recorded at 1921 hours,The object was assessed with several conclusions including 'Was Balloon', 'Probably Balloon', 'Was Aircraft', and 'Probably Aircraft',The record card indicates that there was insufficient data for a definitive conclusion,The length of observation is unknown,Despite various assessments, the final conclusion was that there was insufficient data for evaluation.",
+    "sighted object": "unknown aerial object",
     "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data",
+    "contains photographs": true
 }

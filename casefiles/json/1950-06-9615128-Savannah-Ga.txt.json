@@ -1,15 +1,9 @@
 {
-  "main event": "Between 0415 and 0500 EDT on 28 June 1950, an unidentified aerial object was observed in Savannah, Georgia. The object was described as round and moved in an erratic manner vertically and horizontally over an area northeast of the city and Chatham Air Force Base.",
-  "interesting points": [
-    "The sighting lasted for 45 minutes before the object disappeared, climbing swiftly to the northeast.",
-    "The object was observed to have a bright color and was approximately 2 feet in diameter.",
-    "It displayed rapid and erratic movements both vertically and horizontally, indicating a high level of maneuverability.",
-    "No balloons were recorded to have been released by weather detachments or municipal airport weather offices on the nights of the sighting.",
-    "The document contains altitude, direction, and velocity data for the observed object, as well as administrative notes on declassification."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified aerial object",
-  "location": "Savannah, Georgia",
-  "witnesses": "AF Ltc & wife",
-  "photographs": "no"
+    "main event": "An unidentified aerial object was observed over Savannah, Georgia, between 0415 and 0500 EDT on 28 June 1950.",
+    "interesting points": "The object was described as round and bright in color,The object exhibited erratic movements in both vertical and horizontal directions,It was observed for approximately 45 minutes before disappearing towards the northeast,The sighting occurred near Chatham Air Force Base,No balloons were reported released by local weather offices during the sighting period.",
+    "sighted object": "a round, bright aerial object",
+    "location": "Savannah, Georgia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnessed by an Air Force Lieutenant Colonel and his wife.",
+    "contains photographs": false
 }

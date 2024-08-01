@@ -1,11 +1,9 @@
 {
-    "main event": "One object seen on ground radar for 14 minutes.",
-    "interesting points": [
-        "Radar analysis indicates atmospheric propagation as most likely cause."
-    ],
-    "result": "unknown",
-    "sighted object": "one object",
-    "location": "Houma, Louisiana",
-    "witnesses": "Military",
-    "photographs": "no"
+    "main event": "One object was detected on ground radar for 14 minutes in Houma, Louisiana.",
+    "interesting points": "The observation took place on 24 May 1957., The object was tracked using ground radar., The radar analysis suggested atmospheric propagation as the most likely cause of the sighting., The sighting was classified as 'unknown' pending further analysis., The reporting source was military.",
+    "sighted object": "one unidentified object on radar",
+    "location": "Houma, Louisiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "military radar observation",
+    "contains photographs": false
 }

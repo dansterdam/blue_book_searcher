@@ -1,15 +1,9 @@
 {
-    "main event": "A detailed report on an unidentified flying object as reported in Sioux City, Iowa on 2nd January 1954, described as 1/3 the size of the moon with a green/orange tail observed at 30-50 feet elevation while the car was moving at 50 mph for 5-10 seconds.",
-    "interesting points": [
-        "The object was described as having a 1/3 size of the moon with a green/orange tail and observed at a low elevation while the car was in motion.",
-        "The report concluded it to be an astronomical meteor, possibly astronomical, despite the description differing from a typical meteor.",
-        "The sighting lasted for about 24 seconds with a velocity estimated to be 1,500 MPH.",
-        "The report mentioned multiple sightings by four separated observers at different altitudes ranging from 10,000' to 50,000' and the reports show that objects were in the sight for about four hours.",
-        "The report also includes a letter from the President of 'Flying Saucers International' to the Director of Ground Observer Corps/Air Filter Center, requesting information about unidentified objects seen over Sioux City, Iowa."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "unidentified flying object (UFO)",
-    "location": "Sioux City, Iowa",
-    "witnesses": "four separated observers, army member",
-    "photographs": "no"
+    "main event": "A UFO observation was recorded on January 2, 1954 in Sioux City, Iowa, involving a meteor sighting.",
+    "interesting points": "The observed object was reported to be 1/3 the size of the moon with a green/orange tail,The observation occurred while the observer was driving at 50 mph,The observation lasted approximately 5-10 seconds, There was confusion over the classification of the object as a meteor,The incident includes assertions about the object being at a low elevation (30-50 feet).",
+    "sighted object": "a meteor with a green/orange tail",
+    "location": "Sioux City, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An observer driving a car",
+    "contains photographs": false
 }

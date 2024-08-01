@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A military observer spotted an object similar to a satellite passing through the sky at a high speed.",
-    "interesting points": [
-        "The object traversed 62 degrees of bearing in 8 seconds.",
-        "The object was observed at an elevation of 30 degrees.",
-        "The object's course was 030 degrees.",
-        "The sighting occurred in the open sea with moderate swell and 3-5 cloud coverage.",
-        "The report was forwarded to various military and intelligence agencies."
-    ],
-    "result": "astronomical (meteor)",
-    "sighted object": "an object similar to a satellite",
-    "location": "31.59N 173.00E",
-    "witnesses": "military observer",
-    "photographs": "no"
+    "main event": "A military sighting of an object similar to a satellite on November 14.",
+    "interesting points": "The object traversed 62 degrees of bearing in 8 seconds,The observation was made from the ground with a 50-degree elevation,The sighting was attributed to a very high meteor,The weather conditions were clear with 3-5 cloud coverage,No photographs or physical evidence were collected.",
+    "sighted object": "object similar in appearance to a satellite",
+    "location": "31.50N 173.00E",
+    "number of confirmed witnesses": 1,
+    "witness description": "military source",
+    "contains photographs": false
 }

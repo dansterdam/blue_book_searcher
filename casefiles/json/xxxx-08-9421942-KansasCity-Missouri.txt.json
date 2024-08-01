@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, white object with a blue halo was observed moving erratically in the sky over Richards Gebaur AFB, Missouri.",
-    "interesting points": [
-        "The object appeared to move away and dim, then turn and become brighter again.",
-        "A vapor trail similar to a jet was seen protruding from the back of the object.",
-        "The same object had been observed the previous night above the airbase.",
-        "The object's movement was described as arcing, circling, and erratic.",
-        "An airplane was observed passing under the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, white object with a blue halo",
-    "location": "Richards Gebaur AFB, Missouri",
-    "witnesses": "civilian contractors with some flying experience",
-    "photographs": "none"
+    "main event": "A bright star-like object with a blue halo was observed moving erratically in the sky.",
+    "interesting points": "The object was seen by two persons with the naked eye., The object had a vapor trail that was more visible with binoculars., It displayed erratic movements and changed brightness., The same object was observed the night before above the airbase., An airplane passed beneath the object during the observation.",
+    "sighted object": "a star-like object with a blue halo and vapor trail",
+    "location": "Richards Gebaur AFB, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian, contractor with some flying experience",
+    "contains photographs": false
 }

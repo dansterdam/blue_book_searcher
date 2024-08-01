@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "An unidentified metallic silver, circular object about the size of an F-80 fighter aircraft was observed by three military officers on the USNS General A.W. Brewster northwest of the Hawaiian Islands on April 29, 1953.",
-    "interesting points": [
-        "The object appeared to remain stationary for a few seconds, then turned at a right angle towards the ship, gained altitude, and traveled in an arc before disappearing through the clouds.",
-        "The object's controlled actions were erratic, with some turns at 90-degree angles and near vertical climbs.",
-        "The estimated speed of the object was in excess of a jet fighter aircraft.",
-        "The object did not perform with the smooth control movements of any known aircraft.",
-        "The sighting lasted for approximately 60 seconds."
-    ],
-    "result": "unidentified",
-    "sighted object": "a metallic silver, circular object",
-    "location": "northwest of the Hawaiian Islands",
-    "witnesses": "three military officers",
-    "photographs": "yes, the report includes a photograph of the object"
+    "main event": "An unidentified flying object was observed on April 29, 1953, over the North Pacific, northwest of the Hawaiian Islands.",
+    "interesting points": "The object was traveling at a speed estimated to be faster than a jet aircraft., The object appeared to be metallic silver in color and circular in shape., Witnesses noted that the object's movements were erratic, making sharp turns at right angles and near vertical climbs., One eyewitness described the object as being approximately the size of an F-80 fighter aircraft., No photographs or physical evidence were recovered from the sighting.",
+    "sighted object": "an unidentified flying object",
+    "location": "North Pacific, Hawaiian Islands, US",
+    "number of confirmed witnesses": 3,
+    "witness description": "armed forces officers aboard the USNS General A. W. Brewster",
+    "contains photographs": false
 }

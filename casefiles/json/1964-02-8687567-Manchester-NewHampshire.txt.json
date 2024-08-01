@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Two bright unidentified flying objects, described as similar to \"flying saucers,\" were reported seen over the Manchester, New Hampshire area late Saturday night.",
-    "interesting points": [
-        "The objects were reportedly observed by several persons, including at least one member of the New Hampshire State Police.",
-        "The flying objects were said to have been sighted near Derry, N.H., and continued northwest toward Concord, N.H.",
-        "Authorities said they received several telephone calls reporting the incident.",
-        "The report includes a photograph of some indistinct objects or anomalies in the night sky or ambient light.",
-        "The report mentions that other students also saw the objects but did not show much interest in investigating further."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright unidentified flying objects, similar to \"flying saucers\"",
-    "location": "Manchester, New Hampshire",
-    "witnesses": "several persons, including a New Hampshire State Police member",
-    "photographs": "yes, the report includes a photograph"
+    "main event": "Two objects were observed moving in the eastern sky for approximately 2 hours and 45 minutes on February 23, 1964, in Manchester, New Hampshire.",
+    "interesting points": "The sighting lasted longer than 2 hours, possibly indicating something of significance,The witness believed that the objects were not typical aircraft or celestial bodies such as Venus or Jupiter,The sighting generated multiple calls to the police from concerned citizens,At least one member of the New Hampshire State Police reported seeing the objects,The objects were potentially mistaken for large balloons or astronomical phenomena but were described as unusually large.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Manchester, New Hampshire, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "students at St. Anselm's College",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on 7 Feb 1951 at Holloman AFB, N. Mex. by an MP Officer and airman. The object was observed for approximately 3 minutes as it hovered, changed shape, and moved in various directions before disappearing as it got lighter.",
-    "interesting points": [
-        "The object was initially described as having a visible shape, then appearing conical, and eventually resembling the size of a coffee cup at arm's length.",
-        "It was constantly observed during a trip from Holloman AFB to Oscura Mts, initially on the horizon and then ascending to about 45 degrees before disappearing.",
-        "The conclusion drawn was that the object was likely a balloon, with the possibility of it being an astronomical object, satellite, or planet.",
-        "The sighting lasted for a considerable duration of about 3 minutes, allowing for detailed observation of the object.",
-        "The report suggests that it was probably not a star or planet, contrary to an initial comment, but potentially a balloon or astronomical object."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "unidentified object",
-    "location": "Holloman AFB, N. Mex.",
-    "witnesses": "MP Officer and airman",
-    "photographs": "no"
+    "main event": "An MP officer and airman observed an object at Holloman AFB that they concluded was probably a balloon.",
+    "interesting points": "The sighting lasted for approximately 3 minutes., The object had a visible shape and was conical., It hovered and ascended to about 45 degrees in the sky., The size was described as that of a coffee cup at arm's length., The object disappeared as it got lighter, leading to the conclusion that it was likely a balloon.",
+    "sighted object": "one conical object",
+    "location": "Holloman AFB, New Mexico, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "MP officer and airman",
+    "contains photographs": false
 }

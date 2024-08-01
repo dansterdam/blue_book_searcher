@@ -1,15 +1,9 @@
 {
-    "main event": "Observers at Point Barrow, Alaska, spotted a light in the sky while tracking a balloon. The light, identified as the planet Jupiter, moved from East to West at a rate of 3-4 degrees per minute and was in view for approximately six hours.",
-    "interesting points": [
-        "The observation lasted for an unusually long duration, lasting approximately six hours.",
-        "The light was moving at a slow rate, approximately 3-4 degrees per minute from East to West.",
-        "Astronomer Dr. Sibley stated an opinion that the light was definitely a planet, likely Venus, while AMC plotted the object as Jupiter.",
-        "The observation was made through a 20-power theodolite, indicating a ground-visual type of observation.",
-        "The document included a request for a detailed report of the sighting and theodolite readings taken during the observation."
-    ],
-    "result": "prosaic explanation (Jupiter)",
+    "main event": "Weather Station personnel at Point Barrow, Alaska, observed a light in the sky while tracking a balloon, which moved from East to West for approximately six hours.",
+    "interesting points": "The light was observed at a speed of 3-4 degrees per minute., The object was plotted as the planet Jupiter by AMC., Dr. Sibley, an astronomer, opined the light was a planet, likely Venus., The observation took place on 27 July 1949., The altitude of the observed light was between 50,000 and 60,000 feet.",
     "sighted object": "a light in the sky",
-    "location": "Point Barrow, Alaska",
-    "witnesses": "Civilian weather station personnel",
-    "photographs": "no"
+    "location": "Point Barrow, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Weather Station personnel",
+    "contains photographs": false
 }

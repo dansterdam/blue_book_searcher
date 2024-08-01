@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "A witness observed a bright light in the sky over Kettering, Ohio on March 30, 1957 for about 20 minutes.",
-    "interesting points": [
-        "The object changed colors from red, green to white with periodic changes.",
-        "The object appeared as a star, but was brighter than the brightest stars.",
-        "The witness estimated the object was approximately the size of a small aircraft, located about 600-700 feet away.",
-        "The object seemed to have a form, but no discernible details.",
-        "The object was reported to military authorities and investigated, but was concluded to be correlated with military maneuvers, not an actual flight vehicle."
-    ],
-    "result": "explained",
-    "sighted object": "a bright light in the sky",
-    "location": "Kettering, Ohio",
-    "witnesses": "2 civilian witnesses",
-    "photographs": "no"
+    "main event": "Two witnesses observed a light in the sky over Kettering, Ohio, which changed colors and had no discernible shape.",
+    "interesting points": "The sighting lasted for 20 minutes,The object appeared as a star but was brighter,It changed colors between red, green, and white,The object moved suddenly, accelerated, and then appeared to break apart,No physical evidence was found, confirming authorities noted the object was likely related to military maneuvers.",
+    "sighted object": "a light changing colors in the sky",
+    "location": "Kettering, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One witness was a private pilot and another witness is named Rob Hettinger.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pilot on a Pacific Northwest Airlines flight spotted a bright yellow-white light, larger than a star, with a slightly erratic trajectory that disappeared after 3-7 seconds.",
-    "interesting points": [
-        "The object appeared to the pilot from the left side of the windshield.",
-        "The pilot described the object as brighter than a meteorite previously observed.",
-        "The object's appearance and behavior were characteristic of a meteorite or object burning up in the Earth's atmosphere.",
-        "The sighting occurred at an altitude of approximately 30 miles south of Ketchikan, Alaska.",
-        "The report was part of a special investigation of an alleged UFO sighting."
-    ],
-    "result": "probable meteorite or object burning up in the atmosphere",
-    "sighted object": "a bright yellow-white light, larger than a star",
-    "location": "Approximately 30 miles south of Ketchikan, Alaska",
-    "witnesses": "pilot of a Pacific Northwest Airlines flight",
-    "photographs": "none"
+    "main event": "A pilot observed a very bright yellow-white light larger than stars, with an erratic trajectory, disappearing after a short time.",
+    "interesting points": "The sighting lasted approximately 3-7 seconds,The object appeared from the left side of the cockpit,The observer was flying at high altitude in a DC-3 aircraft,The light was described as brighter than a meteorite,The observation occurred 30 miles south of Ketchikan, Alaska.",
+    "sighted object": "a very bright yellow-white light",
+    "location": "Ketchikan, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a pilot from Pacific Northwest Airlines",
+    "contains photographs": false
 }

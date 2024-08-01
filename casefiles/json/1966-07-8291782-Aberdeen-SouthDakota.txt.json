@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several strange objects were observed in the sky, appearing to be numerous aircraft following each other and maneuvering in an unusual manner.",
-    "interesting points": [
-        "Multiple powerful lights were observed, maneuvering in the sky and apparently coming from the ground.",
-        "The sighting lasted for approximately 10 minutes.",
-        "The observer reported the sighting to the Aberdeen Weather Bureau, who then told the observer to call the Werks Air Force Base for information.",
-        "Captain Robert M. Clark, from the 319 Bomb Wing (SAC) Intelligence Division, was involved in the investigation and stated that the sighting was likely caused by several aircraft in the area.",
-        "The Air Force cited a lack of personnel and resources as the reason they were unable to fully investigate the sighting."
-    ],
-    "result": "Insufficient data to confirm or deny (Possible)",
-    "sighted object": "Numerous unidentified lights and objects in the sky, some appearing to be aircraft",
-    "location": "Aberdeen, South Dakota",
-    "witnesses": "Civilian, teenager",
-    "photographs": "No photographs present in the report"
+    "main event": "Several strange objects were observed in the sky in Aberdeen, South Dakota on June 16, 1966, appearing to maneuver in a manner not typical for normal aircraft.",
+    "interesting points": "Numerous aircraft were seen following each other,There were powerful lights maneuvering in the sky,Objects appeared larger than a basketball at their closest range,The sighting lasted approximately 10 minutes,The local Weather Bureau was also contacted regarding the sighting.",
+    "sighted object": "numerous unidentified flying objects",
+    "location": "Aberdeen, South Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian teenager",
+    "contains photographs": false
 }

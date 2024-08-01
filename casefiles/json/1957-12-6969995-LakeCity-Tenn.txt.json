@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "One object, plotted on radar, seen gradually descending for 41 minutes.",
-    "interesting points": [
-        "The object was a bright light, moving slowly from northwest to southeast.",
-        "The sighting lasted for 3 minutes.",
-        "The object was observed from the ground visually.",
-        "The sighting occurred at Eureke Rd and Telegraph Rd, 3 miles east of Wayne Major Airport and 2 miles south on Telegraph Rd.",
-        "The weather conditions at the time of the sighting included clear skies, winds from the WNW at 12 knots, and scattered high overcast at 12,000 feet."
-    ],
-    "result": "the object was likely a balloon",
-    "sighted object": "One bright light",
-    "location": "Lake City, Tennessee",
-    "witnesses": "Military",
-    "photographs": "no"
+    "main event": "One object was plotted on radar and seen gradually descending for 41 minutes.",
+    "interesting points": "The sighting lasted for forty-one minutes,The object was reported by military sources,The report suggests that the object was probably a balloon,Only one object was observed,The sighting occurred on December 15, 1957.",
+    "sighted object": "one descending object",
+    "location": "Lake City, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

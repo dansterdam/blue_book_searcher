@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported a UFO sighting on April 4, 1967 in St. Joseph, Michigan.",
-    "interesting points": [
-        "The case was not submitted until January 19, 1968, which was too late for the Air Force to investigate.",
-        "The Air Force explained that it is important for witnesses to report observations as soon as possible to enable investigators to gather pertinent data before it becomes obscured.",
-        "The report does not provide any details about the sighting itself, such as the number of objects, their behavior, or the duration of the observation.",
-        "The Air Force concluded that there was 'INSUFFICIENT DATA FOR EVALUATION' due to the late reporting of the incident.",
-        "The witness was a club member and leader from St. Joseph, Michigan."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "unknown",
-    "location": "St. Joseph, Michigan",
-    "witnesses": "a civilian club member and leader",
-    "photographs": "no"
+    "main event": "A civilian reported a UFO sighting in St. Joseph, Michigan on April 4, 1967.",
+    "interesting points": "The report was submitted late on January 19, 1968, making timely investigation impossible., The observation included insufficient data for evaluation., It was emphasized that witnesses should report observations as soon as possible for effective investigation., The case was filed for information purposes only., There was no physical evidence or photographs associated with the report.",
+    "sighted object": "unknown objects",
+    "location": "St. Joseph, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who reported to the Air Force",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting in Elba, New York on 19th September 1950 witnessed by a couple at their home on Main Street. The object appeared like a star but moved rapidly, changed direction quickly, and vanished after about 30 minutes.",
-  "interesting points": [
-    "The sighting occurred on September 19, 1950, and the object was observed for about 30 minutes before disappearing.",
-    "The object was initially mistaken for a star but was noted to move rapidly, change direction quickly, and unlike any known aircraft.",
-    "The witnesses, Mr. and Mrs. Wagner, described the object as moving very fast and unlike any aircraft they had ever seen.",
-    "The report suggests that the object did not exhibit blinking lights and followed an airline path.",
-    "The Inspector General USAF 13th District Office of Special Investigation acknowledged the letter from Mrs. Elizabeth Wagner and thanked her for reporting the observations."
-  ],
-  "result": "Unexplained",
-  "sighted object": "Unidentified flying object",
-  "location": "Elba, New York",
-  "witnesses": "Civilian couple, Mr. and Mrs. Wagner",
-  "photographs": "No"
+    "main event": "Mrs. Elizabeth Wagner reported a fast-moving object in the sky that resembled a star but behaved unlike any known aircraft on September 19, 1950.",
+    "interesting points": "The object was observed for about 30 minutes and exhibited rapid directional changes, Mrs. Wagner initially believed it to be a celestial body, The sighting was reported to the USAF, It was noted that the object followed an airline path without blinking lights, The report suggested it could have been a probable aircraft sighting, but no conclusive evidence was found.",
+    "sighted object": "fast-moving object resembling a star",
+    "location": "Elba, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a couple living in Elba, New York",
+    "contains photographs": false
 }

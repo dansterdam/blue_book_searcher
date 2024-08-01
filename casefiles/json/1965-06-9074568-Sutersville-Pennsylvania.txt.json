@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A possible sighting of a satellite or other unidentified object in the sky on June 5, 1965.",
-    "interesting points": [
-        "The object was observed traveling in a northeasterly direction at an estimated speed of 15-20 minutes per degree.",
-        "The object appeared to be brightly lit.",
-        "The object disappeared into the haze after several minutes of observation.",
-        "The observer had no explanation for what the object might have been.",
-        "The sighting was reported to the Manned Spacecraft Center's Procurement & Contracts Division."
-    ],
-    "result": "unexplained",
-    "sighted object": "a brightly lit object in the sky",
-    "location": "Sutersville, Pennsylvania",
-    "witnesses": "a civilian observer",
-    "photographs": "no photographs available"
+    "main event": "A UFO sighting was reported in Sutersville, Pennsylvania on June 5, 1965, describing a round, silver object with three small antennas that glowed and was assumed to be a balloon.",
+    "interesting points": "The object was visible for about 20 minutes and was observed hovering in the sky., An instrument was used but could not determine the exact altitude of the object., The sighting was initially considered to potentially be a satellite., The object's trajectory was towards the northwest., The document is part of Project Blue Book and contains multiple redactions.",
+    "sighted object": "a round, silver object with three small antennas",
+    "location": "Sutersville, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian who observed the object visually",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-  "main event": "A patrolman in Craig, Colorado observed an unidentified bright object in the sky on July 29, 1963.",
-  "interesting points": [
-    "The object appeared to be reddish in color and seemed to burn up as it entered the atmosphere.",
-    "The object made no sound and was only visible for about 2 seconds.",
-    "The patrolman believed the object to be a satellite in orbit, as it flashed and broke the darkness every 5 seconds.",
-    "The patrolman did not want the report to be mistaken for a 'flying saucer or hoax report'.",
-    "The patrolman continued to watch for the object and made note of the time it was seen."
-  ],
-  "result": "unexplained",
-  "sighted object": "a reddish, bright object that seemed to burn up on entering the atmosphere",
-  "location": "Craig, Colorado",
-  "witnesses": "a city patrolman",
-  "photographs": "no"
+    "main event": "On July 29, 1963, a city patrolman in Craig, Colorado observed a bright object resembling a star with flashing colors in the night sky.",
+    "interesting points": "The object changed colors from red to white-blue and back to red., It was visible for a duration of 3 minutes., The observer reported no accompanying sound., The sighting was described as not astronomical and categorized as unidentified., The observer mentioned a prior sighting on May 29, 1963, of a similar object.",
+    "sighted object": "A bright, flashing object in the sky",
+    "location": "Craig, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "City patrolman, age 28, male",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "An object at approximately 25,000 feet was observed on radar performing unusual aerobatic maneuvers over Bakersfield, California for 1 1/2 hours.",
-    "interesting points": [
-        "The object was approximately 20 miles away and appeared to be performing aerobatic maneuvers not typical of a standard aircraft.",
-        "The object was described as a bright, round grapefruit shape with red, white, and yellow colors.",
-        "Military personnel observed the object for approximately 4 1/2 hours, noting that it remained in the same position with no movement.",
-        "There were no visual observations from the ground, and the senior director suggested that the object was a star blinking through cirrus clouds.",
-        "The report suggests a prozaic explanation for the sighting, hypothesizing that the object was a star visible through thin cirrus clouds."
-    ],
-    "result": "prozaic explanation",
-    "sighted object": "round grapefruit-shaped object with red, white, and yellow colors",
-    "location": "Bakersfield, California",
-    "witnesses": "Military personnel",
-    "photographs": "no"
+    "main event": "An object was observed on radar performing unusual aerobatic maneuvers over Bakersfield, California.",
+    "interesting points": "The object was tracked at an altitude of approximately 25,000 feet for 1 1/2 hours,The maneuvers performed by the object were not typical for a standard military aircraft,The observation was made at approximately 20 miles away from the radar site,The object was described as a round grapefruit shape and was bright in color,The weather conditions were clear with no cloud cover.",
+    "sighted object": "one unidentified object on radar",
+    "location": "Bakersfield, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no eyewitnesses reported; observation was made via radar",
+    "contains photographs": false
 }

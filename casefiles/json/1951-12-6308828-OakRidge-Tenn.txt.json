@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian observer at Oak Ridge, Tennessee, reported sighting a round, disc-like object, approximately twenty (20) feet in diameter.",
-    "interesting points": [
-        "The object was first observed at 3:30 p.m. on November 28, 1951, when it was noticed coming from the northeast.",
-        "The object appeared to be traveling at a speed estimated at between 400-500 m.p.h. and made no sound.",
-        "The object was an extremely bright, metallic-appearing, disc-like craft, with no protrusions or appendages, and appeared to be rotating slowly as it traveled.",
-        "The object was estimated to be at an altitude of about 3,000 feet and was observed by the witness and a co-worker.",
-        "No radar tracking or other official confirmation of this sighting is available, but the report indicates the sighting was made by a responsible, reliable observer."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, disc-like object, approximately twenty (20) feet in diameter",
-    "location": "Oak Ridge, Tennessee",
-    "witnesses": "a civilian observer and a co-worker",
-    "photographs": "no"
+    "main event": "A civilian observer at Oak Ridge, Tennessee, reported sighting a round, disc-like object approximately twenty feet in diameter on 28 November 1951.",
+    "interesting points": "The object was first observed coming from the northeast and appeared to be traveling at a speed estimated between 400-500 m.p.h.,The observer noted that the object made no sound and was in sight for about 1 minute and 30 seconds before disappearing in the northwest.,The object was extremely bright and metallic-appearing, with no protrusions or appendages observed.,The object was estimated to be at an altitude of about 3,000 feet and appeared to be rotating slowly as it traveled.,No radar tracking or other official confirmation of the sighting was available, even though it was made by a responsible observer.",
+    "sighted object": "round, disc-like object",
+    "location": "Oak Ridge, Tennessee, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a civilian observer and a co-worker, both reliable",
+    "contains photographs": false
 }

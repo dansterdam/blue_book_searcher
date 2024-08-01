@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pin point of white light was observed above the horizon, traveling from north to south.",
-    "interesting points": [
-        "The object appeared 32 degrees above the horizon and was lost from visual contact at 60 degrees above the horizon.",
-        "The speed of the object was unknown.",
-        "The object was concluded to be a possible polar orbiting satellite.",
-        "The report was retransmitted to the CIA per HQ Form 1392 # 548.",
-        "The report was also advised to Military Intelligence and COPX."
-    ],
-    "result": "Satellite",
+    "main event": "A pin point of white light was observed above the horizon on 25 Oct 63.",
+    "interesting points": "The white light was seen traveling from north to south., Visual contact was lost when the object reached 60 degrees above the horizon., The observation was at a location with coordinates 42°35'N 174°50'W in the Pacific., The report concluded that the sighted object was likely a satellite., The information was retransmitted to the CIA.",
     "sighted object": "a pin point of white light",
-    "location": "42°35'N 174°50'W, Pacific",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "unknown",
+    "contains photographs": false
 }

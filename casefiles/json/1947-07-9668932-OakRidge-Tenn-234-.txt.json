@@ -1,15 +1,9 @@
 {
-  "main event": "The document contains a series of partially preserved and unclear photographs of a possible UFO sighting dated back to July 1947 in Oak Ridge, Tennessee. The images are of poor quality, making it difficult to discern specific details or objects within them. The accompanying text discusses the classification status of the document and includes letters, correspondence, and evaluations related to the photographs.",
-  "interesting points": [
-    "The photographs are faded and unclear, making it challenging to identify the alleged UFO or any specific details within the images.",
-    "The document includes a letter from the Chief of Investigation Section reporting the receipt of photographs of an unknown object taken in July 1947, as well as negatives and news articles.",
-    "An analysis of the negatives in the document revealed raised emulsion, indicating possible damage or irregularities, which led to the conclusion that the negatives contain no information pertinent to Project 'Sign'.",
-    "Dr. Hynek's evaluations extracted from Project Grudge report provide incident index categorizations based on probabilities and explanations for UFO sightings.",
-    "Independent analysis concluded that the object in the photographs was determined to be a flaw, and it was never seen visually, leading to the determination that there is no need for further investigation."
-  ],
-  "result": "unexplained",
-  "sighted object": "partially preserved and unclear photographs of a possible UFO",
-  "location": "Oak Ridge, Tennessee",
-  "witnesses": "The report does not specify the witnesses, but the photographs were received from a person mentioned in the enclosed letter from the Chief of the Investigation Section, AEC, ORO.",
-  "photographs": "The document includes a series of partially preserved and low-quality photographs."
+    "main event": "A report discusses a faded photograph of a potential UFO captured in Oak Ridge, Tennessee in July 1947.",
+    "interesting points": "The photograph has very low quality and detail due to overexposure and degradation., The document mentions a central object that could be saucer-shaped but lacks clear features., Analysis revealed that the object's appearance was likely due to flaws in the photographic process., The report states that the object was never seen visually and suggests no further investigation is necessary., The image contains the term 'UNCLASSIFIED' indicating its classification status.",
+    "sighted object": "anomaly in the sky possibly resembling a saucer",
+    "location": "Oak Ridge, Tennessee, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "A person who photographed the unknown object from their home in July 1947.",
+    "contains photographs": true
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Radar detection of unidentified objects over Ohio and Pennsylvania",
-    "interesting points": [
-        "The radar tracked one to two objects that were hovering, changing altitude, and moving at speeds between 40-60 knots.",
-        "The objects were detected at extremely high altitudes, up to 95,800 feet, which is above normal aircraft flight levels.",
-        "The radar operators were highly experienced and considered reliable observers.",
-        "The objects were detected on multiple radar systems, including FPS-26A and FPS-6 height finder radars.",
-        "Two F-102 interceptor aircraft were scrambled to investigate but were unable to visually or radar-lock on the objects."
-    ],
-    "result": "undetermined",
-    "sighted object": "1-2 unidentified radar targets",
-    "location": "Eastmont, PA; Oakdale, PA; Bellefontaine, Findlay, and Stubenville, Ohio",
-    "witnesses": "Military radar operators",
-    "photographs": "none"
+    "main event": "Radar tracking and visual observation of unidentified objects over multiple locations in July 1965.",
+    "interesting points": "The objects were tracked on radar for 27 minutes and involved military personnel., The sighting involved 1-2 objects that were possibly high-altitude balloons., There were reports of visual sightings aligning with radar targets., Military aircraft were vectored in to intercept the radar targets, but no visual contact was made., The analysis concluded that the objects seen were likely balloons launched prior to the radar sightings.",
+    "sighted object": "Unidentified flying objects detected on radar",
+    "location": "Eastmont, Oakdale, Bellefontaine, Findlay, Stubenville, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mrs. [redacted], a 35-year-old housewife from Pittsburgh, observed along with her two children.",
+    "contains photographs": false
 }

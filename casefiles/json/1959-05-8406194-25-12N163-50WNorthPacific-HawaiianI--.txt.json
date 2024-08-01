@@ -1,15 +1,9 @@
 {
-    "main event": "The USS Newell observed 5 unlit objects from a position approximately 25-12 North 163-50 West while on course 123. The objects fell ahead of the ship from an elevation of about 45 degrees to 10 degrees.",
-    "interesting points": [
-        "The objects were observed from the USS Newell while the ship was at sea.",
-        "The objects were unlit and fell ahead of the ship's course.",
-        "The objects were observed at an elevation range of about 45 degrees to 10 degrees.",
-        "The sighting occurred at a position approximately 25-12 North 163-50 West.",
-        "The report appears to be from Project Blue Book, a U.S. Air Force program that investigated UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "five unlit objects",
-    "location": "Approximately 25-12 North 163-50 West",
-    "witnesses": "crew of the USS Newell",
-    "photographs": "none"
+    "main event": "Five unlighted objects were observed from a ship while on course.",
+    "interesting points": "The sighting occurred over the geographical coordinates of approximately 25-12 North and 163-50 West., The objects were seen while the ship was at an elevation of about 10 degrees., The sighting was reported on July 25, 1959., The report is part of Project Blue Book, which investigated UFOs., The objects were described as unlighted.",
+    "sighted object": "five unlighted objects",
+    "location": "USS Newell, Unknown Region, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "crew members on the ship",
+    "contains photographs": false
 }

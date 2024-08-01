@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified aerial object was sighted near Melville, Labrador, Canada on August 6, 1963.",
-    "interesting points": [
-        "The object was described as a bright, luminous shape that hovered over the military installation for approximately 45 minutes.",
-        "The object emitted a beam of light that illuminated the area around it.",
-        "Attempts to detect the object on radar were unsuccessful.",
-        "Photographs of the object were taken and are being forwarded for evaluation.",
-        "The report states that the sighting will be carried in the Project Blue Book files as Case No. 8489."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, luminous object that hovered and emitted a beam of light",
+    "main event": "An unidentified flying object was sighted over Melville A.S. Labrador, Canada, on August 6, 1963.",
+    "interesting points": "The sighting lasted for approximately 10-15 minutes., The object was described as a bright, elliptical shape half the size of the full moon., The object hovered in the sky for part of the observation., It then accelerated to a tremendous speed before disappearing., No sound was heard during the entire observation.",
+    "sighted object": "a bright, illuminated object in the sky",
     "location": "Melville, Labrador, Canada",
-    "witnesses": "military personnel and a civilian resident",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Jack A. Ames from the Canadian Government Meteorological Station observed the object and reported his sighting.",
+    "contains photographs": true
 }

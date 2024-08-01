@@ -1,15 +1,9 @@
 {
-    "main event": "The document contains a photograph of a cluster of five balloons in the sky, titled 'BALLOON CLUSTER.'",
-    "interesting points": [
-        "The photograph shows a cluster of balloons in the sky with individuals standing on the ground below.",
-        "The report is from December 1, 1957, in Montebello, California.",
-        "The document is titled 'File 5448' and contains one photo.",
-        "The location of the sighting is Montebello, California.",
-        "The report is of a cluster of balloons, not unidentified flying objects."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "cluster of balloons",
-    "location": "Montebello, California",
-    "witnesses": "individuals present at the location",
-    "photographs": "yes the report includes a photograph"
+    "main event": "A report describes a sighting of a cluster of five balloons in the sky in Montebello, California.",
+    "interesting points": "The sighting occurred on December 1, 1957., The photograph shows individuals standing on open, barren ground., The balloons were captured in a titled photo called 'BALLOON CLUSTER.', The event was documented in File 5448., The sighting involved a total of one photo.",
+    "sighted object": "a cluster of five balloons",
+    "location": "Montebello, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses mentioned",
+    "contains photographs": true
 }

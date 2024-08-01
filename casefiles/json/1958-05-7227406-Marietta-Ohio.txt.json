@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information found in the UFO report:
-
 {
-    "main event": "A bright white, cigar-shaped object, covering an area of 10-15 degrees, was observed by ground-radar in Marietta, Ohio on May 9, 1958.",
-    "interesting points": [
-        "The object was traveling at a speed of about 50 mph and appeared to be dwindling.",
-        "The source claimed to have seen the object 3 times previously, with the only difference being the rear light changing from white to reddish-white.",
-        "The source was determined to be an unreliable witness, as his story was inconsistent and he had no visible means of support.",
-        "Investigators were unable to corroborate the sighting with any other witnesses or radar data in the area.",
-        "The investigators concluded that the source's report was a complete fabrication or figment of his imagination."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white, cigar-shaped object",
-    "location": "Marietta, Ohio",
-    "witnesses": "ground-radar",
-    "photographs": "none"
+    "main event": "On 9 May 1958, a bright white cigar-shaped object was observed by a witness in Marietta, Ohio, traveling at approximately 50 mph.",
+    "interesting points": "The object was noted to be cigar-shaped covering 10-15 degrees of the sky., The witness described seeing four lights in color at the front and a bright white light at the rear., The witness reported observing this object multiple times before, with variations in colors of the lights., Investigators found no corroborating evidence of a UFO in the area during the time of the sighting., The source of the report was deemed unreliable, with indications of a fabricated story.",
+    "sighted object": "a bright white cigar-shaped object with lights",
+    "location": "Marietta, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The source was described as having no visible means of support, living a strange lifestyle with nocturnal habits.",
+    "contains photographs": false
 }

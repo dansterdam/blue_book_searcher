@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A group of 5 civilian witnesses observed a bright, fast-moving object in the sky over Sandyhook, Connecticut on February 22-23, 1966.",
-    "interesting points": [
-        "The object was observed for 1.5 hours, moving upward and eastward.",
-        "The object appeared to be a bright, silver-colored object.",
-        "The object made no sound and did not emit any smoke or flashes.",
-        "The witnesses were not sure of the object's exact distance or speed.",
-        "A separate newspaper clipping mentions a local resident, Mrs. Dammar, who observed a similar object on February 8-9, 1966 and was not fully convinced it was a 'saucer' or UFO."
-    ],
-    "result": "unexplained", 
-    "sighted object": "a bright, silver-colored object",
-    "location": "Sandyhook, Connecticut",
-    "witnesses": "5 civilian witnesses",
-    "photographs": "no photographs present"
+    "main event": "Multiple witnesses observed an unidentified object in the sky over Sandy Hook, Connecticut, in February 1966.",
+    "interesting points": "The sighting lasted approximately 1.5 hours,The object appeared to rise in the eastern sky,The witness, Mrs. Dammar, described the object as much brighter than any star and moving faster than any plane she had seen,5 witnesses confirmed seeing the object,There were no photographs taken during the sighting.",
+    "sighted object": "unidentified bright object in the sky",
+    "location": "Sandyhook, Connecticut, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Mrs. Alma Dammar and her neighbors who observed the object",
+    "contains photographs": false
 }

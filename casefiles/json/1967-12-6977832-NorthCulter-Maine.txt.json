@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observers sighted a reddish-orange object that made a humming or whining sound and drifted down in North Culter, Maine on December 16, 1967.",
-    "interesting points": [
-        "The sighting was not investigated in accordance with regulations and was returned to the local Air Force Base for re-investigation.",
-        "No additional information has been submitted as of the date of the report.",
-        "The object was described as a metallic, irregular object that caused radio interference and was detected on radar.",
-        "The weather conditions at the time were cloudy with some wind, but no other unusual conditions.",
-        "The observers happened to look up and notice the lights drifting down."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "An observer reported sighting a reddish-orange object making a humming or whining sound in North Culter, Maine on 16 Dec 67.",
+    "interesting points": "The object was luminous orange in color., The sighting occurred during cloudy weather., The initial report indicated insufficient data for evaluation., The sighting was not investigated according to regulations., The report was sent back to a local Air Force Base for further investigation but no additional information was submitted.",
     "sighted object": "reddish-orange object",
-    "location": "North Culter, Maine",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "North Culter, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

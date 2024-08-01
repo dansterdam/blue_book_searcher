@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An unidentified object was found in a yard, crashed to the ground, and left residue.",
-    "interesting points": [
-        "The object was found to be a bottle or container composed of a metallic white material containing a gel-like substance.",
-        "The object was wrapped in burlap cloth and had a broken fin, and it was found to have radar residue due to its composition.",
-        "Emission spectrographic analysis and infrared absorption analysis were conducted on various parts of the object and surrounding debris.",
-        "The analyses indicated the object was primarily made of polystyrene plastic, with some cotton cloth and hydrocarbon materials.",
-        "Radioactivity checks showed little to no radiation above normal background levels."
-    ],
-    "result": "Inconclusive, object under further study",
-    "sighted object": "a metallic white bottle or container with a gel-like substance",
-    "location": "Paducah, Kentucky",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "An unidentified object was found in a yard after crashing to the ground, leaving residual materials.",
+    "interesting points": "The sighting lasted for 15 minutes,The object was described as having a green plastic exterior and being filled with a gel-like substance,Infrared analysis revealed the object was primarily composed of polystyrene,The object appeared to be charred and distorted, possible indications of it being covered in cloth saturated with fuel oil.",
+    "sighted object": "greenish object with a possibly cotton covering",
+    "location": "Paducah, Kentucky, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. Frank Wood and Hugh Wood found the object in their backyard.",
+    "contains photographs": false
 }

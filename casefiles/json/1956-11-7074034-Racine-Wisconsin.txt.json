@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A red square object, 1-2 feet in diameter, was observed moving across the sky in Racine, Wisconsin on November 17, 1956.",
-    "interesting points": [
-        "The object moved from south to west, slowed, expanded, and then faded from view.",
-        "The observation lasted for 10 seconds and was made both visually and through binoculars.",
-        "The report concludes the object was likely a meteor based on the duration and distance of its flight.",
-        "The report includes details such as the date, time, location, and a description of the observed object.",
-        "The report was submitted to various military commands, including the 7357th ACRCH and the Air Defense Command."
-    ],
-    "result": "probable meteor",
-    "sighted object": "red square object, 1-2 feet in diameter",
-    "location": "Racine, Wisconsin",
-    "witnesses": "civilian, age 14",
-    "photographs": "no"
+    "main event": "A red square object, 1-2 feet in diameter, moved across the sky and disappeared from view after being observed for 50 seconds.",
+    "interesting points": "The sighting lasted for only 50 seconds., The object was initially seen moving south to west., It was observed with binoculars for 10 seconds., The report suggests that the object could be a meteor, based on its flight duration and distance., The object expanded before fading from view.",
+    "sighted object": "one red square object",
+    "location": "Racine, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian age 14 years from Racine, Wisconsin",
+    "contains photographs": false
 }

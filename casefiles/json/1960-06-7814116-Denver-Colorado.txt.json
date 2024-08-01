@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "Several bright objects in a straight line were viewed by ground-based radar and visually from the air, disappearing over the horizon in Denver, Colorado in 1960.",
-    "interesting points": [
-        "The objects were described as annular discs, approximately half the diameter of the full moon.",
-        "There were initially 7 objects in formation, followed 20 minutes later by a single, larger object.",
-        "The objects moved in a straight line and did not change position.",
-        "One of the larger objects appeared to have a faint ghost image and rotate.",
-        "The sighting lasted approximately 15 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "several annular discs and a single, larger object",
-    "location": "Denver, Colorado",
-    "witnesses": "ground-based radar and air-based visual observers",
-    "photographs": "none"
+    "main event": "Several bright objects were observed in a straight line disappearing over the horizon.",
+    "interesting points": "The sighting lasted for about 7 seconds,Seven objects were noted during the observation,The witness described the objects as being similar to exploded balloons,The objects did not change positions while being observed,The sighting occurred in Denver, Colorado on June 22, 1960.",
+    "sighted object": "seven bright objects in a straight line",
+    "location": "Denver, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "College student from Denver University",
+    "contains photographs": false
 }

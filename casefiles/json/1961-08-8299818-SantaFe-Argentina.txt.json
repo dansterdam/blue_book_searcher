@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "On August 8, 1961, a 90-foot long, high-speed object was detected on radar and observed visually in Santa Fe, Argentina.",
-    "interesting points": [
-        "The object moved and maneuvered at high speed and flew without making any sound.",
-        "After about 10 minutes, the object descended and hovered, then ascended again at high speed.",
-        "Men who appeared to be from outer space and were wearing holsters were observed near the object.",
-        "After one of the men was captured, the object took off at high speed.",
-        "The report includes photographs of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a 90-foot long, high-speed object",
+    "main event": "On August 8, 1961, a high-speed, 90 ft long object with sharp edges was detected on radar and observed from the ground in Santa Fe, Argentina.",
+    "interesting points": "The object maneuvered at high speed and was silent during its flight., After 10 minutes, the object hovered briefly before ascending again., Witnesses described the object as being operated by beings in holstered attire who seemed to be observing the craft., A subsequent report detailed a witness encountering 15 beings surrounding a metallic object., The account mentioned descriptions of the beings and the craft's characteristics resembling popular depictions of UFOs.",
+    "sighted object": "a high-speed object approximately 90 ft long",
     "location": "Santa Fe, Argentina",
-    "witnesses": "ground radar and air visual",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness described encountering a group of beings around the object, resembling aliens depicted in media",
+    "contains photographs": false
 }

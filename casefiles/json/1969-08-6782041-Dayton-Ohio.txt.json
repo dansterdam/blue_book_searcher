@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed two bright lights that looked like fireworks, traveling northwest and visible for a very short time.",
-    "interesting points": [
-        "The lights traveled northwest and were visible for a very short time only.",
-        "The observation was classified as a 'Probable Astro (METEOR)'.",
-        "Another report from the same location described a white light overhead that was observed for 25 minutes, likely a weather balloon.",
-        "The Air Force requested the witness complete an AF Form 117 to provide more details about the sighting.",
-        "The witness was asked to draw a sketch or diagram showing the trajectory and location of the observed phenomenon."
-    ],
-    "result": "probable meteor",
-    "sighted object": "two bright lights",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Multiple observations of unidentified flying objects were reported in Dayton, Ohio, over a span of time, including sightings of bright lights and possible weather balloons.",
+    "interesting points": "One sighting involved two bright lights that resembled fireworks, moving northwest and lasting only a very short time., Another report involved a white light overhead observed for 25 minutes, speculated to be a weather balloon., Multiple letters from the Air Force requested more information from witnesses for follow-up investigations., Sightings from different dates in the 1960s indicated a repeated interest in aerial phenomena in the Dayton area., Witnesses often reported the phenomena fading in daylight or moving behind clouds, with no physical evidence confirmed.",
+    "sighted object": "bright lights and possibly weather balloons",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian observers in the area",
+    "contains photographs": false
 }

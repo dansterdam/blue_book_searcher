@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO sighting was reported in Collingdale, Pennsylvania in 1967.",
-    "interesting points": [
-        "The number of objects observed is unknown.",
-        "The duration of the observation is unknown.",
-        "The type of observation was a ground visual sighting.",
-        "The course of the object is unknown.",
-        "Photographs were taken, but not provided with the report."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "A UFO sighting was reported in Collingdale, Pennsylvania, but the analysis concluded that there was insufficient data for evaluation.",
+    "interesting points": "The sighting was recorded in a document from the Department of the Air Force., The report was conducted by the Headquarters Foreign Technology Division., The observation was made on a specific date, September 10, 1967, but details remain unclear., Photographs were mentioned, yet it was stated that no photograph is present in the document., The report elicited a request for additional information from the local observers.",
     "sighted object": "unidentified flying object",
-    "location": "Collingdale, Pennsylvania",
-    "witnesses": "unknown",
-    "photographs": "yes, but not provided"
+    "location": "Collingdale, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witness details provided.",
+    "contains photographs": false
 }

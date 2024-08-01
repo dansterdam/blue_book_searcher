@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Orangevale, California observed a bright white object traveling in a straight path below the stars for about 23 minutes on May 8, 1964.",
-    "interesting points": [
-        "The object had an exhaust trail of about 1 inch behind it.",
-        "The object's movement was described as traveling in 5-8 and 10-20 mile spurts.",
-        "The object faded out and disappeared in the direction of around 8 o'clock.",
-        "The weather conditions were clear with 7/10 cloud cover at 1500 feet, 20 knot northerly winds, and a temperature of 68 degrees.",
-        "There were no balloon or satellite releases reported in the area at the time."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright white object",
-    "location": "Orangevale, California",
-    "witnesses": "a civilian observer",
-    "photographs": "no photographs included in the report"
+    "main event": "A resident of Orangevale, California, observed a bright white object traveling in the night sky, which was reported as a UFO.",
+    "interesting points": "The object traveled from North to South in a straight flight below the stars,The total observation lasted for 23 minutes,The object appeared larger than an automobile and had no visible wings or propulsion, The officer observing the object reported it had an exhaust trail, and it faded out in approximately 2 1/2 minutes.",
+    "sighted object": "a bright white object resembling a star",
+    "location": "Orangevale, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

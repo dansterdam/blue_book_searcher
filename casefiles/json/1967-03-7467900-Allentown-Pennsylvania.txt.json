@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed in the sky over Willow Grove, Pennsylvania on March 26, 1967.",
-    "interesting points": [
-        "The object appeared brighter than a star and had a bright, fire engine red color all over.",
-        "The object was observed for approximately 2 minutes.",
-        "The witness described the object as appearing to be stationary in the sky.",
-        "The Air Force concluded that the sighting was likely a meteor observation.",
-        "The report includes a handwritten letter from a witness describing their previous UFO sighting report that they filed, but had not received a response about."
-    ],
-    "result": "Meteor",
-    "sighted object": "A bright, fire engine red object in the sky",
-    "location": "Willow Grove, Pennsylvania",
-    "witnesses": "1 witness",
-    "photographs": "No"
+    "main event": "A witness reported seeing a bright object in the sky, described as being brighter than a star, on the night of March 26, 1967 in Willow Grove, Pennsylvania.",
+    "interesting points": "The object was stationary and had no distinguishing features,It was described as bright fire engine red all over,The observation lasted for approximately 2 seconds,The Air Force indicated that it was likely a meteor based on the description,The report was filed under Project Blue Book, a U.S. Air Force investigation of UFO sightings.",
+    "sighted object": "a bright object in the sky",
+    "location": "Willow Grove, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 16-year-old male who reportedly studied UFOs.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian witness saw a large, white, cigar-shaped object pass overhead at a very fast rate of speed over Honolulu, Hawaii on January 7, 1951.",
-    "interesting points": [
-        "The object appeared suddenly, traveled at an extremely rapid speed, and left a large mass of muddy-orange colored flame at its trailing edge.",
-        "The object passed through three clouds and disappeared over the ocean, without making any sound.",
-        "The witness estimated the object to be around 40-50 feet long, with the flame trailing it being about 25 feet in length.",
-        "Other unidentified flying objects were reportedly observed over Oahu two days prior to this sighting.",
-        "The witness had some aviation training and experience, and reported the sighting to military intelligence."
-    ],
-    "result": "unknown",
-    "sighted object": "large, white, cigar-shaped object",
-    "location": "Honolulu, Hawaii",
-    "witnesses": "civilian witness",
-    "photographs": "no"
+    "main event": "On January 7, 1951, an unidentified aircraft was sighted over Honolulu, T.H. by Lt. H., who observed a large, cigar-shaped object with a trailing mass of muddy orange flame.",
+    "interesting points": "The sighting lasted approximately 88 seconds., The object was traveling at a high rate of speed and appeared to be motionless intermittently., The size of the object was estimated to be 40-50 feet long., The mass of flame trailing the object was about 25 feet in length., Two days prior to the sighting, other unidentified flying objects were reported over the island of Oahu.",
+    "sighted object": "a large, white, cigar-shaped object with a muddy orange colored flame trailing it",
+    "location": "Honolulu, T.H., USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt. H., a military officer with experience in observation and reporting.",
+    "contains photographs": false
 }

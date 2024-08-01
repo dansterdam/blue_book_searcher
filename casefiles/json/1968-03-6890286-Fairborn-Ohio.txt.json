@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A civilian in Fairborn, Ohio reported seeing a light that changed colors between red, yellow, white, and green for 45 minutes.",
-    "interesting points": [
-        "The observer called the duty officer to report the sighting while the light was still in sight.",
-        "The report suggests the object was a probable astro (star/planet).",
-        "The Air Force investigator stated the information provided was not sufficient for a scientific investigation.",
-        "The observer was asked to return an attached envelope, indicating the Air Force was collecting more information.",
-        "The report contains a detailed questionnaire for the witness to fill out about the sighting."
-    ],
-    "result": "probable astro (stars/planets)",
-    "sighted object": "a light that changed colors",
-    "location": "Fairborn, Ohio",
-    "witnesses": "1 civilian observer",
-    "photographs": "no"
+    "main event": "Observers reported seeing a light in the sky that changed colors between red, yellow, white, and green for approximately 45 minutes.",
+    "interesting points": "The observation was made by 2 civilians,The object appeared to change colors during the sighting,It was not confirmed whether the object moved behind or in front of clouds,The conclusion of the report suggested it was likely an astronomical phenomenon,There were no photographs or physical evidence included in the report.",
+    "sighted object": "one changing colored light in the sky",
+    "location": "Fairborn, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians",
+    "contains photographs": false
 }

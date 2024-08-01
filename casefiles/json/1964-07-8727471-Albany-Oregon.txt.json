@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unusually bright and long-lasting bolide (meteor) was sighted over the northwestern United States on July 19, 1964 around 9:44 PM PST.",
-    "interesting points": [
-        "Over 60 visual observations of the bolide were analyzed to determine its approximate trajectory.",
-        "The bolide was sighted moving in a general southeasterly direction, starting over southwestern Alberta and ending over western Missouri.",
-        "Observers in Canada, including at the Union River Logging camp, provided valuable data that helped determine the radiant and projected path of the bolide.",
-        "The final path was based mainly on reports from American observers, many of which were estimated.",
-        "There were great discrepancies in the reported angles and positions of the bolide, but the Canadian observations helped confirm the projected path."
-    ],
-    "result": "The object was determined to be a bolide (meteor) based on the analysis of the sighting reports.",
-    "sighted object": "An unusually bright and long-lasting bolide (meteor)",
-    "location": "Southwestern Alberta to western Missouri, United States",
-    "witnesses": "Over 60 observers, including in Canada and the United States",
-    "photographs": "No photographs are mentioned in the report"
+    "main event": "A very bright object was observed in the sky over Albany, Oregon on December 25, 1964.",
+    "interesting points": "The observation lasted for 15 minutes, The object was reported to be moving in a southwesterly direction, The observation was officially reported to the Albany police, The sighting was classified under Project Blue Book, The report consisted of a filled-out record card without any photographs.",
+    "sighted object": "one very bright object in the sky",
+    "location": "Albany, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Call to Albany police",
+    "contains photographs": false
 }

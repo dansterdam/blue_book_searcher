@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Five or six unidentified circular objects were sighted circling in a formation over Denver, Colorado on September 24, 1952.",
-    "interesting points": [
-        "The objects were circling in a trail, with the diameter of the formation being five or six times greater than the diameter of each single object.",
-        "The objects were reported to be a very bright white color and had no visible trails.",
-        "The sighting lasted for approximately five to six minutes.",
-        "The observer was standing in the business district of Aurora, Colorado, about eight miles east of Denver, with the objects located just north of Stapleton Airforce.",
-        "Two C-47 aircraft passed through the line of sight while the observation was being made."
-    ],
-    "result": "unknown",
+    "main event": "Tech. Sgt. Billy Ross Hughes observed five or six unidentified circular objects circling in the sky near Denver, Colorado on 24 September 1952.",
+    "interesting points": "The objects were reported to be very bright white in color and had no trails., The sighting lasted for approximately five to six minutes., The observer was located in the business district of Aurora, about eight miles east of Denver., The speed of the objects was compared to that of a jet passing 500 feet overhead., Two C-47 aircraft passed through the line of sight during the observation.",
     "sighted object": "five or six unidentified circular objects",
-    "location": "Denver, Colorado",
-    "witnesses": "Tech. Sgt. Billy Ross Hughes",
-    "photographs": "no"
+    "location": "Denver, Colorado, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "Tech. Sgt. Billy Ross Hughes from Lowry ATB",
+    "contains photographs": false
 }

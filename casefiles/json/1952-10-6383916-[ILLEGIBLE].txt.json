@@ -1,15 +1,9 @@
 {
-    "main event": "A CDC spotter saw a rocket-shaped object with flaming exhaust moving very fast over Hot Swell, VA on October 15, 1952.",
-    "interesting points": [
-        "The object was described as rocket-shaped with flaming exhaust, indicating it may have been a jet or other advanced aircraft.",
-        "The object was observed moving at a very high speed.",
-        "The sighting was made by a CDC (Civil Defense) spotter, suggesting it may have been a military or government-related observation.",
-        "The report includes conclusions that the object was likely an aircraft, possibly a jet, or potentially an astronomical phenomenon.",
-        "No photographs were included with this report."
-    ],
-    "result": "unexplained",
+    "main event": "A CDC spotter observed a rocket-shaped object with flaming exhaust moving very fast on October 15, 1952.",
+    "interesting points": "The object was reported to be rocket-shaped and emitted flaming exhaust., The sighting lasted for about 30 seconds., The object was moving very fast, estimated speed was between 600 to 800 miles an hour., There was no sound associated with the object during the sighting., The sighted object was speculated to possibly be a meteorite or related to satellites or rockets.",
     "sighted object": "rocket-shaped object with flaming exhaust",
-    "location": "Hot Swell, VA",
-    "witnesses": "CDC spotter",
-    "photographs": "no"
+    "location": "Hot Swell, VA, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "CDC spotter",
+    "contains photographs": false
 }

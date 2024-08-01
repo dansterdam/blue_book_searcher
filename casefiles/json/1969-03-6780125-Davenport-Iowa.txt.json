@@ -1,17 +1,9 @@
-Here is the JSON summary based on the case file:
-
 {
-    "main event": "A witness observed a bright, luminous, diamond-shaped object emitting a pulsating light in the sky over Davenport, Iowa on March 6, 1969.",
-    "interesting points": [
-        "The object appeared to be 40-60 feet in diameter and was traveling at an estimated speed of 200-300 mph.",
-        "The object suddenly accelerated and disappeared from view after being observed for several minutes.",
-        "The witness immediately reported the sighting to the local authorities, who then forwarded the report to Air Force Intelligence for investigation.",
-        "The witness provided a sketch depicting the diamond-shaped form and pulsating light of the observed object.",
-        "No sound was reported associated with the object, and it did not appear to be a conventional aircraft or other known type of flying vehicle."
-    ],
-    "result": "unidentified",
-    "sighted object": "bright, luminous, diamond-shaped object emitting a pulsating light",
-    "location": "Davenport, Iowa",
-    "witnesses": "Mr. James Davenport",
-    "photographs": "no"
+    "main event": "A witness observed a bright, diamond-shaped object emitting a pulsating light in the sky over Davenport, Iowa on March 6, 1969.",
+    "interesting points": "The object was estimated to be 30-40 feet in diameter and was described as bright and luminous.,The observation lasted approximately 5 minutes before the object accelerated and disappeared.,No sound was reported during the sighting.,The witness immediately contacted local authorities following the sighting.,This report has been forwarded to the Air Force Intelligence Team for further investigation.",
+    "sighted object": "diamond-shaped luminous object",
+    "location": "Davenport, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. James Davenport, resident of Davenport, Iowa",
+    "contains photographs": false
 }

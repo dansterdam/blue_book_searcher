@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian named Mr. [REDACTED] observed a glowing red object hovering over the Salt Springs Reservoir in California on August 3, 1965.",
-    "interesting points": [
-        "The object hovered about 75 feet above the ground for 2-3 minutes before suddenly becoming intensely bright and surrounded by a glowing red light.",
-        "The object accelerated and disappeared in about 30 seconds, leaving no trail.",
-        "The object was described as ball-shaped, larger than a car, and exhibiting a vapor trail.",
-        "The object changed direction from northeast to due east and back to northeast.",
-        "The sighting occurred at 2230 hours on a night with low clouds, 8 knot winds, and a temperature of 77 degrees Fahrenheit."
-    ],
-    "result": "astro (report)",
-    "sighted object": "a glowing red ball-shaped object",
+    "main event": "May Meislin, a carpenter, observed a glowing red object hover about 75 feet above the Salt Springs Reservoir before it suddenly accelerated and disappeared.",
+    "interesting points": "The object hovered for approximately 2-3 minutes before becoming intensely bright., The sighting lasted for about 30 seconds., The object was described as larger than a car and shaped like a ball., No other objects were observed in the area during the sighting., Weather conditions included wind at 8 knots and a temperature of 77F with low clouds.",
+    "sighted object": "a glowing red object",
     "location": "Salt Springs Reservoir, California",
-    "witnesses": "civilian, Mr. [REDACTED]",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. May Meislin, a carpenter from Sacramento, Calif.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-	"main event": "On 14 July 1953 in Opportunity, Montana, four unidentified flying objects were observed performing various maneuvers, including ascending and descending rapidly.",
-	"interesting points": [
-		"The observers reported the objects to be flying at a high altitude and performing maneuvers that seemed unconventional for known aircraft.",
-		"No physical evidence was found to indicate that the reported objects were anything other than conventional aircraft.",
-		"The reported objects fit the description of aircraft commonly seen in the area and the reported maneuvers are typical of such aircraft.",
-		"The investigation concluded that there was no evidence to suggest that the observed objects were anything other than conventional aircraft.",
-		"The report includes details about the witnesses, the weather conditions, and the evaluation of the incident."
-	],
-	"result": "prosaic explanation: the reported objects were likely conventional aircraft",
-	"sighted object": "four unidentified flying objects",
-	"location": "Opportunity, Montana",
-	"witnesses": "citizens",
-	"photographs": "no"
+    "main event": "Four unidentified objects were observed in the sky over Opportunity, Montana, on July 14, 1953.",
+    "interesting points": "The observation lasted for 1.5 hours,The objects were reported to be flying at high altitudes,The objects performed various maneuvers including ascending and descending rapidly,Investigation concluded that there was no evidence indicating the objects were anything other than conventional aircraft,The description of the objects fit common aircraft seen in the area.",
+    "sighted object": "four unidentified flying objects",
+    "location": "Opportunity, Montana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Citizens",
+    "contains photographs": false
 }

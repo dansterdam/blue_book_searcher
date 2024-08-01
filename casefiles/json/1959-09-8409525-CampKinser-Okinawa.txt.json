@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple point sources of bright white and yellow lights were sighted moving at high speeds and disappearing rapidly over Kadena Air Base in Okinawa, Japan.",
-    "interesting points": [
-        "The objects were described as behaving erratically, oscillating, rolling, and darting.",
-        "The objects were visible for approximately 35-42 seconds each.",
-        "The sighting occurred on a bright moonlit night with scattered low clouds.",
-        "The observers included several military personnel who appeared to be sincere in their reporting.",
-        "A weather balloon released from Kadena Air Base around the same time was considered as a possible explanation, but no definitive conclusion was reached."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple bright white and yellow lights",
-    "location": "Kadena Air Base, Okinawa, Japan",
-    "witnesses": "military personnel from the 3rd Marine Regiment",
-    "photographs": "no"
+    "main event": "Multiple military personnel observed unidentified flying objects described as point sources of white and yellow light moving at high speeds.",
+    "interesting points": "The sighting lasted for 3-5 minutes,Objects traveled at jet-like speeds and disappeared rapidly,Observers reported seeing six to eight objects in a star-like formation,Conditions were bright moonlight night with scattered low clouds,Possible explanation suggested a weather balloon release at a nearby air base.",
+    "sighted object": "six to eight point sources of white and yellow light",
+    "location": "Camp Kinser, Okinawa, Japan",
+    "number of confirmed witnesses": 4,
+    "witness description": "2LT J. Bowles, Acting SSGT R.G. Savell, along with other military personnel",
+    "contains photographs": false
 }

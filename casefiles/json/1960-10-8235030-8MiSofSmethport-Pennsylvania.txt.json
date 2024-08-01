@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A round object, the size of a basketball at arm's length, was observed moving at a high speed over 3,000 mph and then disappearing suddenly.",
-    "interesting points": [
-        "The object was described as a reddish-white 'ball of fire with a dark center'.",
-        "The observer saw a flash of bright light that reflected off their car.",
-        "The object was observed at a 15-degree angle, traveling north to northwest at a high rate of speed and would not have cleared a 200-foot hill in the area.",
-        "The sighting lasted less than one minute.",
-        "Local authorities investigated the sighting, but concluded it was likely a meteorite."
-    ],
-    "result": "inconclusive",
-    "sighted object": "round, basketball-sized object with reddish-white color",
-    "location": "5 miles south of Smethport, Pennsylvania",
-    "witnesses": "1 civilian observer",
-    "photographs": "none"
+    "main event": "A radar operator observed a small object, described as the size of a baseball, moving at a speed over 3000 mph, which disappeared suddenly.",
+    "interesting points": "The object's speed was estimated to be over 3000 mph,The appearance of the object was described as round and reddish,The sighting lasted less than 2 minutes, The observation was made using ground radar,There was speculation that the object was probably a meteor.",
+    "sighted object": "a small round object, reddish in color",
+    "location": "8 Mi S Smethport, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "G. Grant-Radar, human observer with good credibility",
+    "contains photographs": false
 }

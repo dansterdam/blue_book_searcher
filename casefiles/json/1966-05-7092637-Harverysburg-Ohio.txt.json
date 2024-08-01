@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two or three different glowing objects were observed traveling from west to east for about 5 minutes.",
-    "interesting points": [
-        "The objects made a high-pitched tone, similar to a jet but not as loud.",
-        "One of the objects went out of sight, while another appeared from a different direction and was traveling faster than a jet.",
-        "The main object was described as a large circular object with lights that changed color from red to blue to white, and it moved slowly at first before accelerating and going out of sight.",
-        "The sighting was observed by several people in the area and was considered extremely unusual and difficult to explain.",
-        "The observer was interested in hearing about other reports and findings related to this incident."
-    ],
-    "result": "unexplained",
-    "sighted object": "two or three different glowing objects",
-    "location": "Waynesville, Ohio",
-    "witnesses": "multiple people in the area",
-    "photographs": "yes, the report indicates there were photographs"
+    "main event": "Multiple sightings of unidentified flying objects occurred on May 30, 1966, with reports of bright lights traveling rapidly.",
+    "interesting points": "The objects changed in luminosity from white to greyish,The second object was observed to be moving faster than a jet,The sighting lasted approximately 5 minutes and was made during daytime,Several witnesses reported additional observations,One witness described two objects, one appearing to chase the other.",
+    "sighted object": "two or three bright flying objects",
+    "location": "Waynesville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness reported observing bright lights with no sound, utilizing colors like red and white.",
+    "contains photographs": false
 }

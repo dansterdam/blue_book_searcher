@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two objects were observed in the sky near Florence, Arizona on August 2, 1965.",
-    "interesting points": [
-        "The objects were described as round in appearance, like meteors, and about the size of a half dollar.",
-        "The first object was observed as white, resembling the sun on an Echo satellite. The second observation was of an orange object.",
-        "The objects moved in a straight line from northwest to southeast, disappearing below a mountain top.",
-        "The objects reappeared 40-50 seconds later, moving in the same direction and disappearing below the mountain top again.",
-        "The officer submitting the report believes the sighting was an honest report, unexplained by normal means, though the reappearance with different color and trails could be accounted for by changing aspects of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects",
-    "location": "Florence, Arizona",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "Two objects were observed in Florence, Arizona on August 2, 1965, appearing to be satellites or aircraft.",
+    "interesting points": "The objects were described as having a double trail and elongated shape., Observers reported the objects as white and moving rapidly., The sighting lasted approximately 2 minutes for each object., The observers were civilians with a credible background., The conclusion suggests they were likely satellites or aircraft.",
+    "sighted object": "two elongated objects with double trails",
+    "location": "Florence, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian test car driver for Gates Rubber Company, who appears reliable.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Two separate groups of personnel at Glasgow AFB, Montana observed an irregular, circular object similar to an automobile headlight on May 20, 1964.",
-    "interesting points": [
-        "The object was bright white in color and appeared to have a pulsing motion.",
-        "The object moved from southwest to northeast in an even, horizontal plane.",
-        "The second group of observers watched the object for over two hours, and noted it had a swishing, pendulum-like movement pattern when viewed through binoculars.",
-        "The object disappeared as if an electric light bulb had been switched off.",
-        "The sighting was initially attributed to the observation of the planets Venus and Regulus."
-    ],
-    "result": "unknown",
-    "sighted object": "irregular, circular object similar to an automobile headlight",
-    "location": "Glasgow AFB, Montana",
-    "witnesses": "two separate groups of military personnel",
-    "photographs": "no photographs included in the report"
+    "main event": "An irregular shaped light object, similar to an automobile headlight, was observed at Glasgow AFB, Montana on May 20, 1964, by two separate groups of witnesses.",
+    "interesting points": "The object was bright white in color and pulsing intermittently,The first group observed the object for about 40 minutes while the second group saw it for over two hours,The light varied in color from bright white to tarnish-orange,The object appeared to move from southwest to northeast across the sky,Comments from the base commander suggested it could be a natural phenomenon.",
+    "sighted object": "irregular shaped object resembling an automobile headlight",
+    "location": "Glasgow, Montana, USA",
+    "number of confirmed witnesses": 8,
+    "witness description": "two separate groups of USAF personnel, including a cook and a training office worker",
+    "contains photographs": false
 }

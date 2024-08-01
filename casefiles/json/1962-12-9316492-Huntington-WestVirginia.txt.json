@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object larger than Venus and Jupiter was observed to appear stationary for about 5 minutes, then start moving at a high rate of speed in Huntington, West Virginia on December 15, 1962.",
-    "interesting points": [
-        "The object was observed for 5-10 minutes.",
-        "The object appeared to be at an elevation of 91 degrees and was moving rapidly.",
-        "The object was initially mistaken for the ECHO I satellite, but was later considered unexplained.",
-        "Another witness reported seeing a bright, steady star-like object that suddenly started rapidly descending and following a zig-zag course in the early morning hours.",
-        "The witness observed the object disappear and reappear several times as it moved across the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, bright object in the sky that appeared stationary then moved rapidly",
-    "location": "Huntington, West Virginia",
-    "witnesses": "multiple witnesses",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported in Huntington, West Virginia, on December 15, 1962, where an object larger than Venus and Jupiter was observed appearing stationary for about 5 minutes before moving at a high rate of speed.",
+    "interesting points": "The object was visible for a duration of 5-10 minutes., The object was compared to ECHO I satellite., Witness described the object as bright and steady, following a zig-zag course., The sighting was made from the top floor of a building at H.K. Porter Co., Inc., The weather was clear with a half-moon and some haze during the observation.",
+    "sighted object": "an object larger than Venus and Jupiter",
+    "location": "Huntington, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the object as a bright point of light in the sky, which initially resembled a star and later exhibited rapid movement.",
+    "contains photographs": false
 }

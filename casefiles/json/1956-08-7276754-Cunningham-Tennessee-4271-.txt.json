@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A man named William Cunningham observed a bright, egg-shaped object moving slowly through the sky over Burlison, Tennessee on August 7, 1956.",
-    "interesting points": [
-        "The object was approximately 1500 feet in altitude and visible for about 10 minutes.",
-        "The object changed course several times during the observation.",
-        "The object was described as being about 50 feet in diameter and a bright orangish-white color.",
-        "No sound was heard from the object.",
-        "The sighting is considered significant due to the close range of the observation, the slow speed and maneuvering of the object, and the reliable, credible nature of the witness."
-    ],
-    "result": "unexplained",
+    "main event": "Mr. William Cunningham observed a bright, egg-shaped object moving slowly through the sky in Burlison, Tennessee on August 7, 1956.",
+    "interesting points": "The object was observed at approximately 8:20 PM and was visible for about 10 minutes., The object was about 1500 feet in altitude and 50 feet in diameter., The color of the object was bright orangish-white., The object changed course several times during the observation., No sound was reported during the sighting.",
     "sighted object": "a bright, egg-shaped object",
-    "location": "Burlison, Tennessee",
-    "witnesses": "William Cunningham",
-    "photographs": "1 photo is mentioned in the report, but not visible in the provided image"
+    "location": "Burlison, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. William Cunningham, a resident of Route 2, Burlison",
+    "contains photographs": true
 }

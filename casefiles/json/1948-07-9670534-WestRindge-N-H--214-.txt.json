@@ -1,17 +1,9 @@
 {
-"main event": "A black and white photograph of a long, dark object against a lighter background was captured during a sighting on 7 July 1948."
-
-,
-"interesting points": [
-	"The sighting occurred on 7 July 1948 by a male civilian.",
-	"The altitude of the sighting was 1500 feet.",
-	"The photograph is small and lacks detail, making it difficult to discern distinct features of the object.",
-	"The investigation into the sighting was not complete at the time of the report.",
-	"The report did not specify the color, shape, speed, course, or length of the observed object."
-],
-"result": "Unexplained",
-"sighted object": "Long, dark object in the sky",
-"location": "Unknown",
-"witnesses": "Male civilian",
-"photographs": "Yes, the report includes a photograph"
+    "main event": "A sighting report was created for an unidentified flying object noted on 7 July 1948.",
+    "interesting points": "The sighting involved a long, dark object observed against a lighter background., The photograph accompanying the report is black and white and lacks clarity., The altitude of the sighting was recorded at 1500 feet., The investigation into the sighting remains incomplete., The source of the report is a male civilian.",
+    "sighted object": "a long, dark object",
+    "location": "Not specified",
+    "number of confirmed witnesses": 1,
+    "witness description": "male civilian",
+    "contains photographs": true
 }

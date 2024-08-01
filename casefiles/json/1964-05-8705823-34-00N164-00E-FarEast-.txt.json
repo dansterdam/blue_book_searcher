@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A unidentified aircraft was detected on radar over the Far East region for 39 minutes.",
-    "interesting points": [
-        "The object was detected at ranges of 29-70 miles and azimuth of 280-330 degrees.",
-        "The object maneuvered and had a speed of around 150 knots.",
-        "The aircraft reported heavy radar interference.",
-        "The conclusion was that the object was possibly a balloon, aircraft, or insufficient data for evaluation (unknown).",
-        "Additional messages were sent to various military commands to report the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "unidentified aircraft",
-    "location": "Far East region, 34-00N 164-00E",
-    "witnesses": "ground radar",
-    "photographs": "no"
+    "main event": "One unidentified aircraft was detected on radar between 29 to 70 miles range with heavy radar interference.",
+    "interesting points": "The sighting lasted for 39 minutes.,The object maneuvered at a speed of about 150 knots.,The detection was at azimuth angles of 280-330 degrees.,The report notes possibly identifying the object as a balloon or aircraft but insufficient data was available for evaluation.,This report is classified as an A/C (Aircraft) report, not a UFO report.",
+    "sighted object": "one unidentified aircraft",
+    "location": "34-00N, 164-00E, Far East",
+    "number of confirmed witnesses": 0,
+    "witness description": "A/C report, no confirmed witnesses listed",
+    "contains photographs": false
 }

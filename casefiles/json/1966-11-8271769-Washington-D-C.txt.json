@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A meteorologist in Washington, D.C. spotted circular objects with two distinct lights that were moving at high speeds, zig-zagging and flying in a straight line.",
-  "interesting points": [
-    "The objects appeared to have a revolving light pattern.",
-    "The sighting was reported to the Air Force, but there was insufficient data to make a definitive evaluation.",
-    "The brief duration of the sighting and lack of physical evidence made it difficult to draw a conclusion.",
-    "The observer reported the sighting through a third party, as they had seen it while driving their car.",
-    "The weather conditions at the time included clear skies, calm winds, and a temperature inversion at 2,884 feet."
-  ],
-  "result": "unexplained",
-  "sighted object": "circular objects with two distinct lights",
-  "location": "Washington, D.C.",
-  "witnesses": "a meteorologist",
-  "photographs": "no"
+    "main event": "An observer reported seeing circular objects with two distinct lights moving at rapid speeds in Washington, D.C.",
+    "interesting points": "The circular objects were observed to zig-zag and at times move in a straight line., The observer reported the sighting to the Air Force., The duration of the sighting was brief and lacked physical evidence., The report suggests that the description is consistent with that of an aircraft observed at night., The information was relayed to the Air Force as third-hand account from an individual driving his automobile.",
+    "sighted object": "circular objects with distinct lights",
+    "location": "Washington, D.C.",
+    "number of confirmed witnesses": 1,
+    "witness description": "meteorologist who provided third-hand information",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright, reddish-brown object was sighted disappearing into the haze in a horizontal plane to the east.",
-    "interesting points": [
-        "The object exhibited rapid movement and instantaneous disappearance.",
-        "The object left a bright trail that lasted for approximately 5 seconds after it disappeared.",
-        "The observers heard an explosion sound, but were hesitant to associate it with the sighting.",
-        "Heavy meteorological activity was reported in the area at the time of the sighting, suggesting it may have been related to a low and bright meteor.",
-        "The observers were convinced the sighting was not of a meteorological nature, but the investigators concluded it was likely related to the heavy meteorological activity in the area that evening."
-    ],
-    "result": "possibly astronomical, possibly aircraft, insufficient data for evaluation",
-    "sighted object": "a bright, reddish-brown object",
-    "location": "North edge of Lake Charles, Louisiana",
-    "witnesses": "Mr. and Mrs., approximately 57 years old, retired and housewife, reliability good",
-    "photographs": "no"
+    "main event": "A sighting of a reddish-brown object disappearing into haze in the horizontal plane to the east on 17 Nov 1961.",
+    "interesting points": "The object exhibited rapid movement and instantaneous disappearance., The object was too bright to distinguish its shape., The object left a bright trail lasting approximately 5 seconds., There was no sound heard by the first observer, although a second observer reported an explosion sound., The sighting was observed by a married couple aged approximately 57 years.",
+    "sighted object": "reddish-brown object",
+    "location": "Lake Charles, Louisiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. & Mrs. aged approximately 57 years, good reliability.",
+    "contains photographs": false
 }

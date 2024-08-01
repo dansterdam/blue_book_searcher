@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Intermittent radar and visual contact with one object that passed overhead every few minutes, each time for about 3/4 minute.",
-    "interesting points": [
-        "The object had sharp outlines, but was not confirmed on radar and was seen only visually.",
-        "The object looked like an ECHO and had visible lights through the mist.",
-        "The object's speed and maneuverability were not specified, but it was assumed to be an astrograde aircraft or possibly a balloon.",
-        "The sighting occurred in Baltimore, Maryland and was reported by a civilian witness.",
-        "The witness observed the object for a total of 6-3/2 minutes, covering an area of approximately 50 degrees at a rate of 1/3 degree per second."
-    ],
-    "result": "Possibly Aircraft, Possibly Balloon, Insufficient Data for Evaluation",
-    "sighted object": "one object",
-    "location": "Baltimore, Maryland",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A witness observed an unidentified object passing overhead intermittently, initially thought to be aircraft or possibly a balloon, with sightings recorded between 11:10 PM and 11:23 PM on August 21, 1962.",
+    "interesting points": "The object appeared dull red during the second pass, The sightings occurred approximately 20 miles southwest of Baltimore, MD, and 5 miles north of Baltimore at different times, The brightness of the object was reported to be three times that of Venus, The object traveled in a direction opposite to that of a satellite, No sound was reported from the object despite its close proximity.",
+    "sighted object": "an unidentified object in the sky",
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the individual observing from their residence",
+    "contains photographs": false
 }

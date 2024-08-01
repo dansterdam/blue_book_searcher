@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "An unknown object was detected by ground radar in Greenwich, Connecticut on October 24, 1962.",
-  "interesting points": [
-    "The object exhibited unusual and irregular motion, unlike any known aircraft.",
-    "The object was detected by ground radar, but a visual contact could not be made.",
-    "The sighting lasted for 5-10 minutes.",
-    "The object was described as oblong, with a row of red lights across the front and a row of green lights across the back.",
-    "The object moved from east to west and was north of the observer."
-  ],
-  "result": "unexplained",
-  "sighted object": "an oblong-shaped object with rows of red and green lights",
-  "location": "Greenwich, Connecticut",
-  "witnesses": "Lt. Col. (Ret.) - Air Force, reliable witness",
-  "photographs": "no photographs provided"
+    "main event": "Unknown object detected by ground radar in Greenwich, Connecticut on 24 October 1962.",
+    "interesting points": "The sighting lasted between 5 to 10 minutes., The object exhibited unusual and irregular motion not resembling any known aircraft., The radar recording indicated a steady course of the object., Visual contact with the object was not established., The landing was attributed to an A/P at Westchester.",
+    "sighted object": "unknown object detected by ground radar",
+    "location": "Greenwich, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt. Colonel Joseph Lucey, Air Force",
+    "contains photographs": false
 }

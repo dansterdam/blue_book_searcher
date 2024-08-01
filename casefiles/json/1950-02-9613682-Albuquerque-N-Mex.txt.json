@@ -1,15 +1,9 @@
 {
-					"main event": "An unidentified aerial object was sighted in Albuquerque, New Mexico on 24th February 1950 at different times and locations by multiple witnesses.",
-					"interesting points": [
-						"The object was observed by experienced weather observers and was considered reliable by co-workers and colleagues.",
-						"The object appeared to be very far away at an elevation of about 20° to 25° and was observed for several minutes by the witnesses.",
-						"The object's characteristics included a round shape with no apparent means of support, no sound, no trail or exhaust, and no light or luminosity detected.",
-						"One observer described the object as being the size of the dark portion of the moon and having no apparent means of support or projections/indentations, while another observer described it as bright white with no reflections, sound, or trail.",
-						"All logical leads were exhausted, and the case was closed with the object remaining unidentified."
-					],
-                    "result": "unexplained",
-                    "sighted object": "unidentified aerial object",
-                    "location": "Albuquerque, New Mexico",
-                    "witnesses": "experienced weather observers, Mr. and Mrs. R. S. Prio, Jr., Mr. McDONALD, Mr. __________",
-                    "photographs": "no photographs included in the report"
-					}
+    "main event": "A fireball was sighted at approximately 1358 hours on 24 February 1950, in Albuquerque, New Mexico by multiple witnesses.",
+    "interesting points": "The object was reported to cross a field of a theodolite, indicating it was observed with careful measurement,It was described as having a color similar to the moon during the daytime,Two experienced weather observers were involved in the sighting,Details regarding the object's elevation and direction were meticulously documented,The case was ultimately closed after all logical leads were exhausted.",
+    "sighted object": "a round fireball",
+    "location": "Albuquerque, New Mexico, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "experienced weather observers",
+    "contains photographs": false
+}

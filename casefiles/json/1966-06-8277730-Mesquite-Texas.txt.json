@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A fast-moving, metallic, disc-shaped object was observed by multiple witnesses over a 10-minute period.",
-    "interesting points": [
-        "The object was larger than a passenger jet and had a banding or oscillating motion at the edge.",
-        "The object alternately appeared and disappeared from view during the sighting.",
-        "The object moved much faster than any conventional aircraft and appeared to be intelligently controlled.",
-        "The sighting was reported to the U.S. Air Force's Project Blue Book program for investigation.",
-        "The witness noted that it was a crystal clear night when the object was observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, metallic, disc-shaped object",
-    "location": "Mesquita, Texas",
-    "witnesses": "multiple civilian witnesses",
-    "photographs": "no"
+    "main event": "A civilian observed a metallic, disc-shaped object in Mesquita, Texas on June 11, 1966.",
+    "interesting points": "The sighting lasted approximately 10 minutes and was observed by at least four witnesses., The object was larger than a passenger jet and displayed an oscillating motion., The object appeared and disappeared from view during the observation., The object's movements suggested it was intelligently controlled and much faster than conventional aircraft., A letter from Project Blue Book indicated insufficient data for evaluation despite the detailed sighting report.",
+    "sighted object": "metallic, disc-shaped object",
+    "location": "Mesquita, Texas, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "civilians",
+    "contains photographs": false
 }

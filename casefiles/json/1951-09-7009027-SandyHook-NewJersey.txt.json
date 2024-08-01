@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-    "main event": "Two pilots in a T-33 jet aircraft reported seeing a fast-moving unidentified object over Sandy Hook, New Jersey on September 10, 1951.",
-    "interesting points": [
-        "The object was described as round, silver or metallic in color, about 30-50 feet in diameter, and moving at an estimated speed of over 900 mph.",
-        "The pilots attempted to chase the object but lost sight of it as it rapidly pulled away and disappeared out to sea.",
-        "The object was observed maneuvering and changing directions, making turns and oscillations.",
-        "A radar station in the area was unable to detect the object on their scopes.",
-        "The pilots were experienced fighter pilots and were convinced the object was not a known aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fast-moving round, metallic object",
-    "location": "Sandy Hook, New Jersey",
-    "witnesses": "two pilots in a T-33 jet aircraft",
-    "photographs": "none"
+    "main event": "On September 10, 1951, a T-33 jet fighter piloted by Maj. Ballard and Lt. Rogers reported seeing a round unidentified object moving at high speed over Sandy Hook, New Jersey.",
+    "interesting points": "The pilots estimated the object's speed to be above 600 mph, indicating it was unlike any known aircraft., The object was described as circular and metallic in appearance, approximately 30 to 50 feet in diameter., The sighting lasted about 2 minutes and the object disappeared over the sea., None of the tracking radar systems picked up the object, creating uncertainty about its nature., The sighting coincided with the release of balloons by the Evans Signal Laboratory, raising questions about the true identity of the object.",
+    "sighted object": "round unidentified flying object",
+    "location": "Sandy Hook, New Jersey, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilots of the T-33 jet fighter, Maj. Albert S. Ballard and Lt. Wilbert E. Rogers",
+    "contains photographs": false
 }

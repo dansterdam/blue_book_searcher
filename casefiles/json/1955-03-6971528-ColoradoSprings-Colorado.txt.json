@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright purple, circular object the size of a basketball rose from the ground and bounded back into the air before disappearing in Colorado Springs, Colorado in 1955.",
-    "interesting points": [
-        "The object appeared and reappeared during the sighting.",
-        "The ground where the object had been showed a burned condition, as if the object had been thrown to the ground.",
-        "The sighting coincided with a local power drop, which the control office assessed was likely caused by children playing near the site of the reported phenomenon, resulting in a short circuit.",
-        "There were 2 photographs taken of the object.",
-        "The sighting lasted for several seconds."
-    ],
-    "result": "Could Not Be Determined",
-    "sighted object": "a bright purple, circular object the size of a basketball",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "Civilian, including children",
-    "photographs": "yes, 2 photographs"
+    "main event": "On 5 March 1955, a circular, bright purple object was observed rising from the ground and disappearing in Colorado Springs.",
+    "interesting points": "The object was the size of a basketball when held at arm's length., The observation lasted for several seconds., Police investigation revealed a burned condition in the area where the object was seen., There were two observation attempts with some reports of appearances and disappearances., Conclusions varied with assessments of it possibly being a balloon or aircraft.",
+    "sighted object": "circular, bright purple object",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain ASML Rees, an active duty member of the U.S. Army.",
+    "contains photographs": false
 }

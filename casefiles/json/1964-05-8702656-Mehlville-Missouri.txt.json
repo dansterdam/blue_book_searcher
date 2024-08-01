@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unidentified lights, described as scintillating and emitting rays, were observed from a home in Mehlville, Missouri over the course of an hour.",
-    "interesting points": [
-        "The lights were observed to be larger and brighter than a star, with one witness reporting seeing only one light while another reported seeing two.",
-        "The lights appeared to be about 25 feet above the ground in the west and gradually faded as they moved westward.",
-        "The observers believed the lights were sufficiently unusual to report, despite a friend suggesting they were likely the planets Jupiter and Venus.",
-        "The Air Weather Service forecaster and solar branch at Scott Air Force Base felt the lights were more likely to be the planet Venus.",
-        "The report notes a temperature inversion due to rapid decrease in ground temperature, which may have contributed to the distortion and magnification of the lights."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "two scintillating lights, described as larger and brighter than a star, emitting rays",
-    "location": "Mehlville, Missouri",
-    "witnesses": "Mr. and Mrs. [redacted]",
-    "photographs": "yes, the report includes photographs"
+    "main event": "Multiple witnesses observed a scintillating object emitting rays larger and brighter than a star in Mehlville, Missouri.",
+    "interesting points": "The object appeared to hover 25 feet above the ground before fading gradually to the west,Two observers reported differing numbers of objects seen, with one seeing one light and the other seeing two,The object was visible for about one hour,Reports mentioned that Venus and Jupiter were in the vicinity,Weather conditions during the observation were clear with some atmospheric haze.",
+    "sighted object": "scintillating object emitting rays",
+    "location": "Mehlville, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. [redacted], Missouri residents",
+    "contains photographs": false
 }

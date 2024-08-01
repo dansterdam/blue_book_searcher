@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian jet spotted an unidentified object in downward vertical flight for 5 seconds.",
-    "interesting points": [
-        "The object was sighted at coordinates 149-49W 25-25N.",
-        "The sighting occurred at 05:52 UTC on 20 December 1963.",
-        "The report states there were 'insufficient data for evaluation'.",
-        "The report was filed as a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The report was retransmitted to the CIA per AFHO 1302 #433."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object in downward vertical flight",
-    "location": "149-49W 25-25N (Pacific Ocean)",
-    "witnesses": "civilian jet",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in downward vertical flight for 5 seconds.",
+    "interesting points": "The sighting lasted for only 5 seconds., The report concluded that there was insufficient data for evaluation., The location of the sighting was in the Pacific Ocean., There were multiple reporting groups involved in analyzing the sighting., No photographs were included in the document.",
+    "sighted object": "unidentified object",
+    "location": "Pacific, Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data available",
+    "contains photographs": false
 }

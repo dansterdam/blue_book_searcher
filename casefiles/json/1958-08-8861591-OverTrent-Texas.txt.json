@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light with a trail like a meteor was observed over Trent, Texas, bursting and fading.",
-    "interesting points": [
-        "The object had vertical motion and broke up into several smaller objects.",
-        "The sighting was observed by the pilot of an American Airlines flight at 15,000 feet.",
-        "The sighting occurred at around 3:58 AM local time.",
-        "The weather conditions were clear with some scattered clouds.",
-        "No known activities in the area could account for the sighting."
-    ],
-    "result": "undetermined",
+    "main event": "Several lights resembling a meteor were observed over Trent, Texas, on 10 August 1958.",
+    "interesting points": "The sighting involved a long streak of light followed by a bright burst., The object displayed vertical motion before bursting and fading away., The observation lasted for several seconds., The phenomenon was concluded to be a bolide., No other activities were noted in the area during the sighting.",
     "sighted object": "a bright light with a meteor-like trail",
-    "location": "Trent, Texas",
-    "witnesses": "American Airlines pilot",
-    "photographs": "yes, the report includes photographs"
+    "location": "Trent, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "American Airlines pilot",
+    "contains photographs": false
 }

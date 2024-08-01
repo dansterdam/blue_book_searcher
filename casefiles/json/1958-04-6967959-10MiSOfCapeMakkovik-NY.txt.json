@@ -1,15 +1,9 @@
 {
-    "main event": "A red blinking light, the size of a pea, was sighted visually and on radar.",
-    "interesting points": [
-        "The object was detected on radar by the 933rd ACGW at 2350.4.",
-        "The object was observed to make a detour around an iceberg, moving south.",
-        "The object was initially detected on radar and then gradually became visible to ground observers.",
-        "Observers used binoculars to observe the object.",
-        "The ATC comment suggests the sighting was an unexplained anomaly, possibly related to a plasma discharge or electrical disturbance, but no clear explanation could be determined."
-    ],
-    "result": "unexplained",
-    "sighted object": "red blinking light, size of a pea",
-    "location": "10 miles south of Cape Makkovik",
-    "witnesses": "radar operators and ground observers",
-    "photographs": "no"
+    "main event": "A red blinking light, the size of a pea, was sighted visually and on radar 10 miles south of Cape Makkovik.",
+    "interesting points": "The sighting lasted for about 10-15 seconds., The object was identified as possibly being a helicopter., The light was observed both visually and on radar., The radar indicated a southbound movement around an iceberg., The conditions were clear with a visibility of 15 miles.",
+    "sighted object": "red blinking light",
+    "location": "Cape Makkovik, Newfoundland and Labrador, CA",
+    "number of confirmed witnesses": 3,
+    "witness description": "A/2C members from the 933RD ACGW Operational and Maintenance team.",
+    "contains photographs": false
 }

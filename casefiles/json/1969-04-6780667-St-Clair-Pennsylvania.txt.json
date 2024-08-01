@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "The observer sighted an object that looked like two fiery tires when viewed through binoculars.",
-    "interesting points": [
-        "The object appeared to be a solid object, not an aircraft.",
-        "The object hovered silently for a few moments, then shot off at an incredible speed.",
-        "The whole incident lasted less than a minute.",
-        "The observer is not sure what they saw, but it did not seem to be any kind of conventional aircraft.",
-        "The report states the incident appeared to have been a genuine sighting, but it is difficult to determine exactly what the object was that was observed."
-    ],
-    "result": "probable (BALLOON)",
-    "sighted object": "an object that looked like two fiery tires",
-    "location": "St Clair, Pennsylvania",
-    "witnesses": "one observer",
-    "photographs": "no photographs"
+    "main event": "An observer reported sighting an object resembling two fiery tires while using binoculars on April 22, 1969.",
+    "interesting points": "The sighting lasted for approximately 10 minutes., The object appeared different when viewed through binoculars., The observer believed the object was a probable balloon., The observer had a brief period of memory loss after seeing a bright light., The report was filed under Project Blue Book, highlighting the military's interest in UFO phenomena.",
+    "sighted object": "an object resembling two fiery tires",
+    "location": "St Clair, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness provided a handwritten report with personal experiences related to the sighting.",
+    "contains photographs": false
 }

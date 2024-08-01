@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting occurred on December 6, 1954 in Baltimore, Maryland. The unidentified object moved erratically, changing from white to orange and appeared to stand still at times.",
-  "interesting points": [
-    "The UFO exhibited erratic flight patterns and changed color from white to orange.",
-    "At times, the object appeared to stand still, adding to the mysterious nature of the sighting.",
-    "The report concludes that the object was probably a balloon or possibly human-made, but it ultimately remained unidentified due to the lack of a flight path and electronic data.",
-    "The sighting took place in Baltimore, Maryland, adding to the documented UFO activity in the area.",
-    "The report is from a Project Blue Book UFO document, indicating official government investigation of the sighting."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified object exhibiting erratic movement and color change",
-  "location": "Baltimore, Maryland",
-  "witnesses": "ground-visual witness",
-  "photographs": "no"
+    "main event": "A UFO sighting occurred on December 6, 1954, in Baltimore, Maryland, where the object moved in an erratic flight and changed color from white to orange.",
+    "interesting points": "The UFO changed colors from white to orange during the sighting., The object appeared to stand still at times., The observation was classified as ground-visual., The report offers no electronic data or flight path information., The conclusion suggested that it was probably a balloon or possibly human.",
+    "sighted object": "UFO",
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "details not provided in the report",
+    "contains photographs": false
 }

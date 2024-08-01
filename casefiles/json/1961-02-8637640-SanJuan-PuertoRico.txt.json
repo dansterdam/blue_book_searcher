@@ -1,15 +1,9 @@
 {
-    "main event": "A radar/visual object was observed approaching at a much higher altitude in sight.",
-    "interesting points": [
-        "The object was observed for almost 30 minutes.",
-        "There was insufficient information about the object's color, elevation, and change of direction.",
-        "A message was received from a commercial aircraft pilot reporting a very bright object at a much higher altitude, moving towards the aircraft or standing still.",
-        "The commercial aircraft pilot reported the observation at 18:10Z on February 18, 1961.",
-        "The report was received by the Commander, Caribbean Sea Frontier (COMCARIBSEAFRON) and forwarded to various military commands."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified object",
-    "location": "Unknown",
-    "witnesses": "Radar and visual observation, commercial aircraft pilot",
-    "photographs": "No photographs present in the document"
+    "main event": "A radar/visual sighting of a very bright object at a high altitude on February 13, 1961.",
+    "interesting points": "The object was observed for almost 30 minutes, although insufficient information was available regarding its color, elevation, or direction change., The sighting was categorized as a radar/visual type., The report indicated that the object was much higher and appeared to be approaching., Communication about the sighting was relayed through multiple military channels., The object was moving toward an aircraft during the report.",
+    "sighted object": "a very bright object in the sky",
+    "location": "Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "pilot in flight near the object",
+    "contains photographs": false
 }

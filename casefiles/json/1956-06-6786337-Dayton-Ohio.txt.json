@@ -1,15 +1,9 @@
 {
-    "main event": "A ball of fire was sighted heading south over Dayton, Ohio on June 10, 1956 at 2155 EST.",
-    "interesting points": [
-        "The object was reported by an 11-year-old boy and investigated by the U.S. Air Force.",
-        "The Air Force concluded the object was likely an outdoor flare or overflying jet, but there was insufficient data for a definitive evaluation.",
-        "The witness had reported seeing a similar object in the area a few months earlier, in March or April 1956.",
-        "The report includes a detailed questionnaire about the witness's observations, including details about the sky conditions, brightness of the object, and its movements.",
-        "No photographs were included with the report."
-    ],
-    "result": "Unknown",
+    "main event": "A UFO sighting reported as a ball of fire observed in Dayton, Ohio on June 10, 1956.",
+    "interesting points": "The object was observed moving south at approximately 2155 EST,The sighting was reported by an 11-year-old boy,Concerns arose that the object might have been an outdoor flare,Military flight service could not confirm the object's identity,The report concluded that insufficient data was available for evaluation.",
     "sighted object": "ball of fire",
-    "location": "Dayton, Ohio",
-    "witnesses": "11-year-old boy",
-    "photographs": "none"
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an 11-year-old boy",
+    "contains photographs": false
 }

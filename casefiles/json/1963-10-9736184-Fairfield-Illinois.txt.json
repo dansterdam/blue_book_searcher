@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was reported near Fairfield, Illinois on October 9, 1963.",
-    "interesting points": [
-        "The object was a dark, elongated oval approximately 20-25 feet in length, with internal illumination and no audible sound.",
-        "The object hovered at an estimated altitude of 100-200 feet before accelerating rapidly and disappearing.",
-        "Photographic evidence was obtained and sent to the USAF for analysis.",
-        "A preliminary report described the object as a clay-limestone concretion, which is a common terrestrial object found in the Pennsylvanian strata of Illinois.",
-        "Further investigation and analysis of the photographic evidence was required to classify the sighting."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a dark, elongated oval object with internal illumination",
-    "location": "Near Fairfield, Illinois",
-    "witnesses": "Mr. and Mrs. John Doe",
-    "photographs": "yes, photographic evidence was obtained"
+    "main event": "An unidentified aerial object was reported over Fairfield, Illinois on October 9, 1963, observed by Mr. and Mrs. John Doe.",
+    "interesting points": "The object was described as dark and elongated, approximately 20 to 25 feet long., It hovered at an altitude of 100 to 200 feet and had internal light illumination., The witnesses saw the object for about 2 to 3 minutes before it rapidly accelerated away., The weather conditions during the sighting were clear with no wind., Photographic evidence was obtained and is being analyzed by the USAF.",
+    "sighted object": "dark elongated oval object",
+    "location": "Fairfield, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. John Doe",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-  "main event": "A civilian reported seeing a bright, circular object about 50 feet in diameter hovering 100-150 feet off the ground over Landover Hills, Maryland on June 27, 1965.",
-  "interesting points": [
-    "The object remained motionless for several minutes before suddenly accelerating and disappearing from sight.",
-    "The witness described the object as having the characteristics of an unidentified flying object (UFO).",
-    "The Air Force evaluation was that the object was possibly a UFO, as no satisfactory conventional explanation could be determined.",
-    "Another local resident later reported seeing a similar bright object in the same area around the same time.",
-    "The witness initially thought the object was a star or satellite, but later realized it was something unusual."
-  ],
-  "result": "unexplained",
-  "sighted object": "a bright, circular object about 50 feet in diameter",
-  "location": "Landover Hills, Maryland",
-  "witnesses": "a civilian couple",
-  "photographs": "none"
+    "main event": "A married couple observed a bright circular object in the sky over Landover Hills, Maryland, on 27 June 1965.",
+    "interesting points": "The object was circular in shape, approximately 50 feet in diameter, and hovered about 100-150 feet off the ground., The sighting lasted for about 15 seconds before the object suddenly accelerated and disappeared., The USAF evaluated the incident as a possible unidentified flying object (UFO)., The object appeared to have flashing lights and was moving steadily across the sky., A prior observation of a similar object was reported in the area.",
+    "sighted object": "a bright circular object",
+    "location": "Landover Hills, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a married couple",
+    "contains photographs": false
 }

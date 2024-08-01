@@ -1,15 +1,9 @@
 {
-   "main event": "A UFO sighting occurred on January 27, 1957 near San Antonio, Texas. The UFO was described as a large, bright, luminous object that turned pink as the sun went down. It was observed for 2 minutes and possible conclusions pointed to it being a balloon.",
-   "interesting points": [
-      "The object turned pink as the sun went down, indicating a change in color.",
-      "The object was observed for 2 minutes, giving ample time for detailed observation.",
-      "A previous report of this occurrence was received from San Angelo, Texas, indicating multiple witnesses of the event.",
-      "The US Weather Bureau had released a 'sky hook' type balloon from San Angelo, adding a potential explanation for the sighting.",
-      "The report was forwarded to Headquarters 33rd ADI V at the time of being received by telephone, indicating official handling of the UFO report."
-   ],
-   "result": "Possible Balloon",
-   "sighted object": "Large, bright, luminous object",
-   "location": "San Antonio, Texas",
-   "witnesses": "MR&MRS, a realestate developer",
-   "photographs": "no"
+    "main event": "A UFO sighting occurred on January 27, 1957, near San Antonio, Texas, involving a large, bright, luminous object that turned pink as the sun went down.",
+    "interesting points": "The sighting lasted for 2 minutes,The object was described as very large and bright,It was observed to stay stationary before moving up and disappearing,The weather was clear, and the sun was setting,An official conclusion suggested it was possibly a balloon reflecting sunlight.",
+    "sighted object": "a large, bright, luminous object",
+    "location": "San Antonio, Texas, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. and Mrs. (age 33), real estate developer",
+    "contains photographs": false
 }

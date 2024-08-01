@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two red sphere objects were observed from the ground at Kelly AFB, Texas on July 23, 1952.",
-    "interesting points": [
-        "One of the objects was also observed on ground radar.",
-        "The objects changed direction at some point during the sighting.",
-        "The objects appeared to arch downward and had a tail.",
-        "The sighting occurred at dusk.",
-        "The objects were observed above 3,000 feet in elevation."
-    ],
-    "result": "unexplained",
-    "sighted object": "two red sphere objects",
-    "location": "Kelly AFB, Texas",
-    "witnesses": "ground observers at the base",
-    "photographs": "none"
+    "main event": "Multiple reports of unidentified flying objects (UFOs) observed over Kelly AFB, Texas.",
+    "interesting points": "Spherical lights were observed exhibiting slow erratic motion at an altitude of 1,500 to 2,000 feet,No witnesses were able to describe the objects clearly,Some witnesses noted that the objects appeared to change direction and were observed for approximately 1 minute and 50 seconds,The objects were reported by both civilian and military personnel,The sighting from 14 August 1952 involved multiple witnesses observing a round object that executed a climbing turn before disappearing behind a cloud.",
+    "sighted object": "round unidentified objects or spherical lights",
+    "location": "Kelly AFB, Texas, USA",
+    "number of confirmed witnesses": 7,
+    "witness description": "civilian and military personnel at the Compass Rose location",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report provided:
-
 {
-    "main event": "A flying object was seen moving in a jagged path through the sky, very fast, and then disappeared in a white flash.",
-    "interesting points": [
-        "The object was seen moving in a jagged path through the sky, very fast.",
-        "When the observer came to a sudden stop, the object disappeared in a white flash.",
-        "The Albany Police Department was notified and two officers were dispatched to investigate, but they were unable to locate the object upon their arrival.",
-        "The Vice President of the Clark Motor Company also observed the object and felt that it was a flying saucer.",
-        "The object appeared to be approximately two miles in the distance and had no lights, but was illuminated in a peculiar manner."
-    ],
-    "result": "unexplained",
-    "sighted object": "a flying object",
-    "location": "Oneida, New York",
-    "witnesses": "a farmer, the farmer's wife, and the Vice President of the Clark Motor Company",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A citizen reported seeing a UFO hovering over Oneida, New York, on November 13, 1957.",
+    "interesting points": "The sighting lasted approximately 5 minutes,The object was described as illuminated in a peculiar manner but had no lights,The observer initially skeptical became convinced it was not a conventional aircraft,The Albany Police Department was informed but could not locate the object,The observer was accompanied by his wife who also witnessed the sighting.",
+    "sighted object": "a flying saucer hovering",
+    "location": "Oneida, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "FRED K. and his wife; FRED K. is employed by the Clark Motor Company.",
+    "contains photographs": false
 }

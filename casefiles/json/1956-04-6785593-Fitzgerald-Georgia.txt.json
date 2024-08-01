@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A county forest ranger in Fitzgerald, Georgia observed a round, oblong object in the sky for over 2 hours on April 16, 1956.",
-    "interesting points": [
-        "The object appeared to be motionless and hovering at first, then began moving west to east.",
-        "The object was visible to the naked eye and through binoculars, and appeared much higher than two aircraft observed in the area.",
-        "The object eventually appeared as a bright star in the night sky.",
-        "Investigators concluded the object was likely the planet Venus, which was visible during daylight hours at that time of year.",
-        "The report was found to be reliable, with a second witness, a National Guard administrator, corroborating the ranger's account."
-    ],
-    "result": "Possibly astronomical",
-    "sighted object": "round, oblong object",
-    "location": "Fitzgerald, Georgia",
-    "witnesses": "county forest ranger, National Guard administrator",
-    "photographs": "none"
+    "main event": "An object was observed in Fitzgerald, Georgia on 16 April 1956, believed to possibly be the planet Venus.",
+    "interesting points": "The object was initially reported to be silver-yellowish and round,The sighting lasted for 2 hours and 45 minutes,The object was visible both with the naked eye and through binoculars,Two aircraft were observed at high altitude during the sighting,Investigations concluded that the object was likely Venus based on its position and movement.",
+    "sighted object": "one silver-yellowish object",
+    "location": "Fitzgerald, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 33-year-old county forest ranger",
+    "contains photographs": false
 }

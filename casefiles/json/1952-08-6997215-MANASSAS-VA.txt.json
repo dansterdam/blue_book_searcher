@@ -1,15 +1,9 @@
 {
-    "main event": "A bright oval-shaped object was sighted by a group of civilians near Manassas, Virginia in 1952.",
-    "interesting points": [
-        "The object was observed using ground-radar.",
-        "It traveled in an erratic manner.",
-        "The sighting lasted for 15 minutes.",
-        "The object was described as bright and oval-shaped.",
-        "The sighting involved a group of civilians."
-    ],
-    "result": "unexplained",
+    "main event": "A group of civilians sighted a bright oval-shaped object near Manassas, Virginia.",
+    "interesting points": "The sighting occurred on August 5, 1952., The object was described as bright and oval-shaped., The object traveled in an erratic manner., The sighting lasted for approximately 15 minutes., The data is recorded in a document labeled 'PROJECT 10073 RECORD CARD'.",
     "sighted object": "bright oval-shaped object",
-    "location": "Manassas, VA",
-    "witnesses": "group of civilians",
-    "photographs": "no"
+    "location": "Manassas, Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilians in the area",
+    "contains photographs": true
 }

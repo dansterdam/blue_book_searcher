@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "Two lights were seen, described as being 12-15 feet long and 5 feet wide, with the leading portion being a bright light that changed to orange towards the rear.",
-    "interesting points": [
-        "The two lights appeared to be on the same horizontal plane with about 15 feet between them, and were either coming from or going towards the objects flying in a tight formation.",
-        "The observation was filed in a small newly constructed air traffic control tower, not under other services.",
-        "The accuracy of the descriptive data is somewhat questionable due to the unextensive nature of the object(s) and the short time observed.",
-        "Preliminary investigation with ATIC and Control Tower records gave no indication that the observation was caused by a misidentified aircraft or 'natural' phenomena.",
-        "The observer was described as a credible and reliable civilian employee."
-    ],
-    "result": "unknown",
-    "sighted object": "two lights of unknown origin",
-    "location": "Guam, Mariana Islands",
-    "witnesses": "civilian employees",
-    "photographs": "no"
+    "main event": "On 29 January 1955, two lights, rectangular and cylindrical in appearance, were observed in Guam.",
+    "interesting points": "The object was approximately 12-15 feet long and 5 feet wide., The leading portion of the object emitted a bright light that changed to orange at the rear., The lights were seen at an elevation of 50 degrees with no visible trail or identifiable object., The observation lasted for about 3-5 seconds., The sighting occurred during a good visibility period with intermittent clouds.",
+    "sighted object": "two lights appearing as a trail or exhaust",
+    "location": "Guam, Mariana Islands, Guam",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian employees with a credible and reliable evaluation",
+    "contains photographs": false
 }

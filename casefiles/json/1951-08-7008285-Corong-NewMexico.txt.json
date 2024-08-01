@@ -1,15 +1,9 @@
 {
-  "main event": "A military source observed a round object flying from southwest to southeast over Corong, New Mexico on 12 August 1951. The object appeared to change color from white to orange to green as it traveled at a speed of 700-1000 mph.",
-  "interesting points": [
-    "The object's speed was estimated to be 700-1000 mph.",
-    "It changed color from white to orange to green as it moved.",
-    "The object's shape was described as round, with an approximate size of 6\" diameter at arm's length.",
-    "The observation lasted for about 10 seconds, during which the object descended from 45 degrees above the horizon to just above the horizon.",
-    "The sighting was evaluated as a meteor, and there is no further case information in the file."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "round object changing color",
-  "location": "Corong, New Mexico",
-  "witnesses": "Military",
-  "photographs": "no"
+    "main event": "A military observer reported a sighting of a round object descending in Corong, New Mexico on August 12, 1951.",
+    "interesting points": "The object displayed speed between 700-1000 mph., The object changed colors from white to orange to green., The observed size was approximately 6 inches in diameter at arm's length., The object was first sighted 45 degrees above the horizon and descended at about 60 degrees., The case was evaluated as a meteor, despite the unusual observations.",
+    "sighted object": "one round object",
+    "location": "Corong, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military observer",
+    "contains photographs": false
 }

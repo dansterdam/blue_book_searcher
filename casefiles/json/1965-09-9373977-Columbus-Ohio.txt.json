@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A man in Columbus, Ohio reported seeing a silvery disc-shaped object moving quickly and smoothly across the sky on September 3, 1965.",
-    "interesting points": [
-        "The object was observed for 2 minutes.",
-        "The object was traveling from east to west at a 50 degree angle.",
-        "The object moved very fast and smoothly with no sound.",
-        "The witness did not provide their name or address.",
-        "The report is from a Project Blue Book document."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "silvery disc-shaped object",
-    "location": "Columbus, Ohio",
-    "witnesses": "one unnamed civilian",
-    "photographs": "no"
+    "main event": "A man reported seeing a silvery disc-shaped object over Columbus, Ohio on September 3, 1965.",
+    "interesting points": "The object was moving very fast and smoothly with no sound., The sighting lasted for 2 minutes., The object was observed traveling from east to west at a 50 degree angle., The witness did not provide his name or address., The report was documented by military personnel.",
+    "sighted object": "a silvery disc-shaped object",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a man who did not provide his name or address",
+    "contains photographs": false
 }

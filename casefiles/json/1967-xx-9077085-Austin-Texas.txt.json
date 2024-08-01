@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light object was observed through a telescope, appearing to move slightly from north to south and then become stationary.",
-    "interesting points": [
-        "The object appeared to have a capsule shape and was larger than a normal star.",
-        "The object showed a spectrum of colors that seemed to vary in brightness.",
-        "The object was observed for 40 minutes to 1 hour before becoming hidden by clouds.",
-        "The observer was a retired Air Force aircraft gunner with 12 years of experience.",
-        "Weather conditions at the time included high cloud cover, thunder storm activity, and a slight temperature inversion."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright light object",
-    "location": "Austin, Texas",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Austin, Texas, on January 3, 1960, initially perceived as a bright light and later identified as Venus.",
+    "interesting points": "The object was observed first through a telescope, which showed it as a bright light moving slightly before becoming stationary,The object had a capsule shape when viewed,It was described as larger than a normal star with a spectrum of colors varying in brightness,The observation lasted between 40 minutes to 1 hour,The report noted the object became hidden by clouds at one point.",
+    "sighted object": "bright light, later identified as Venus",
+    "location": "Austin, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian administrative supervisor for an electronic firm, 41 years old, retired Air Force aircraft gunner",
+    "contains photographs": false
 }

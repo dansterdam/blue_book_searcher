@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright yellowish-green object appeared as a ball of fire with a tail of fire four to five times its diameter, falling straight down.",
-    "interesting points": [
-        "The object was described as a 'bright yellowish-green obj. appeared as a ball of fire w/tail of fire 4 to 5 times diameter. Obj was falling straight down.'",
-        "The sighting lasted for about 10 seconds.",
-        "The object was observed by a pilot from the 461st Tactical Fighter Squadron at Hahn Air Base in Germany.",
-        "Another pilot from the same organization also observed the object, which first appeared as a small light that suddenly grew larger before dropping below the horizon.",
-        "The weather conditions were clear with a broken cloud layer at 8,000 feet."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright yellowish-green object appearing as a ball of fire with a tail of fire",
-    "location": "Karlsruhe, Germany",
-    "witnesses": "pilots from the 461st Tactical Fighter Squadron",
-    "photographs": "no"
+    "main event": "A bright yellowish-green object appeared as a ball of fire with a tail of fire, falling straight down in Karlsruhe, Germany.",
+    "interesting points": "The object was observed for about 10 seconds., The tail of fire was reported to be 4 to 5 times the diameter of the object., The reported course of the object was straight downward., Another pilot from the same organization also observed the phenomenon., The initial appearance was as a small light that suddenly grew larger before dropping below the horizon.",
+    "sighted object": "a bright yellowish-green ball of fire",
+    "location": "Karisruhe, Germany",
+    "number of confirmed witnesses": 2,
+    "witness description": "Capt William L. Mathews and Capt Glenn M. Johnson, both from the 461st Tacfitron",
+    "contains photographs": false
 }

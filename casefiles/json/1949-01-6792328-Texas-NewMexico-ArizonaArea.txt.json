@@ -1,15 +1,9 @@
 {
-	"main event": "A ground visual observation of a single unidentified object in the Texas, New Mexico, Arizona area in January 1949 by military and multiple civilian sources.",
-	"interesting points": [
-		"The observation lasted only a few seconds, indicating a brief but impactful encounter.",
-		"The source of the report includes both military and civilian witnesses, lending credibility to the sighting.",
-		"The conclusion classifies the object as an 'Astro (Green Fireball)', hinting at a potential natural or atmospheric explanation.",
-		"Physical evidence was not documented, despite the presence of photographs.",
-		"The report indicates that there may be a more detailed case file with additional information."
-	],
-	"result": "unexplained",
-	"sighted object": "single unidentified object",
-	"location": "Texas, New Mexico, Arizona area",
-	"witnesses": "military and multiple civilian sources",
-	"photographs": "no"
+    "main event": "Multiple witnesses, including military and civilian, observed a green fireball in the sky over the Texas, New Mexico, Arizona area on January 30, 1949.",
+    "interesting points": "The observation lasted only a few seconds., The object was seen moving in a southerly direction., There was a mixture of military and civilian reports regarding the sighting., Only one object was observed., The report mentions a brief summary and analysis in the case file.",
+    "sighted object": "a green fireball",
+    "location": "Texas, New Mexico, Arizona, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military personnel and civilians",
+    "contains photographs": false
 }

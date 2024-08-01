@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were observed over Tyler, Texas on June 6, 1966.",
-    "interesting points": [
-        "The objects were observed for 8 minutes.",
-        "The objects were seen from the ground.",
-        "The objects were traveling on a westerly course (270 degrees).",
-        "No photographs were taken of the objects.",
-        "The Air Force concluded the objects were 'probable aircraft.'"
-    ],
-    "result": "probable aircraft",
-    "sighted object": "two unidentified objects",
-    "location": "Tyler, Texas",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported seeing 18 to 20 objects drifting across the sky near Tyler, Texas in April 1966.",
+    "interesting points": "The objects were described as having a sharp angle bend in their movement., The sighting occurred around 8:00 AM., The number of objects observed was 18 to 20., The report was forwarded to the Air Force by Mrs. Ellen Smith., The military conclusion classified the sighting as 'probable aircraft'.",
+    "sighted object": "18 to 20 unidentified aerial objects",
+    "location": "Tyler, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A man and his wife observed the objects from their location.",
+    "contains photographs": false
 }

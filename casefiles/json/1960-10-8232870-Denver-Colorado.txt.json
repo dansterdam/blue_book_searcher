@@ -1,15 +1,9 @@
 {
-    "main event": "Radar detected a blip, the size of a quarter, that was labeled as a 'UFO'. The object moved with jerky movements and gradually diminished in size.",
-    "interesting points": [
-        "The radar blip was described as the size of a quarter.",
-        "The object moved with jerky movements.",
-        "The object gradually diminished in size.",
-        "The report mentions that the date-time group was lost.",
-        "The sighting lasted for approximately 5 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified radar blip",
-    "location": "Denver, Colorado",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "main event": "Radar detected a blip in Denver, Colorado, described as a UFO that exhibited jerky movements and gradually diminished in size.",
+    "interesting points": "The radar blip was the size of a quarter., The object moved in a jerky manner., The size of the object appeared to diminish during the observation., The sighting lasted approximately 5 minutes., The source of the observation was civilian with ground-radar.",
+    "sighted object": "blip on radar",
+    "location": "Denver, Colorado, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No formal witnesses confirmed but observed by radar.",
+    "contains photographs": false
 }

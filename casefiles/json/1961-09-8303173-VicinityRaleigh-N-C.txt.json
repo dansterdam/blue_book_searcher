@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person driving near Raleigh, North Carolina on September 17, 1961 observed a strange light in the sky that turned into a burning star-like object.",
-    "interesting points": [
-        "The object first appeared as a bright bluish-green light, then turned brilliant white, and finally a dry rust-brown color with a lot of smoke coming from the bottom.",
-        "The object descended rapidly, in less than a second, to near the treetops, then accelerated and disappeared from sight.",
-        "The witness was familiar with normal aircraft in the area and stated this sighting was quite different, with no sound and no running lights.",
-        "The witness made a detailed sketch of the object, which appeared to have two distinct shapes or forms, one larger than the other.",
-        "The witness described the object as a 'shiny bright star of silver' when comparing it to a common object in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a strange light that turned into a burning star-like object",
-    "location": "Vicinity Raleigh, North Carolina",
-    "witnesses": "a driver on U.S. Route 64",
-    "photographs": "no"
+    "main event": "Radar tracing of unidentified objects in Raleigh, North Carolina, in September 1961.",
+    "interesting points": "The observation was reported on 17 September 1961 at 11:00 PM., Radar data indicated objects conforming to balloons., The individual was in a car on U.S. Route 1 when the object was observed., The object descended rapidly with tremendous vertical speed., The witness described the object as silent and unlike normal aircraft.",
+    "sighted object": "unidentified aerial phenomena",
+    "location": "Raleigh, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A person driving on U.S. Route 1 who is familiar with normal aircraft activity in the area.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person spotted a bright light object moving westward around 7:40 pm in Pineville, Louisiana.",
-    "interesting points": [
-        "The object was observed for about 5 minutes and moved away at high speed, changing direction and finally disappearing.",
-        "The detailed description indicates the object may have been a satellite, meteor or aircraft light.",
-        "The object stood still for about 5 minutes above the treetops, then turned into a cluster of lights and made about a half circle, appearing to go faster the further it went.",
-        "The observer reported seeing a jet in the area at the time.",
-        "The distance of the object was estimated to be approximately 3 miles."
-    ],
-    "result": "unexplained",
-    "sighted object": "one small, bright light object",
-    "location": "Pineville, LA",
-    "witnesses": "one observer",
-    "photographs": "no photographs"
+    "main event": "A sighting of one small, bright light object was observed moving westward around 7:40 p.m.",
+    "interesting points": "The object was observed for about 5 minutes before it moved away at high speed, changing direction and disappearing., The distance of the object was estimated to be approximately 3 miles., The object showed characteristics that could indicate it was a satellite, meteor, or aircraft light., During the sighting, the object appeared to be stationary for about five minutes above the treetops., An observer reported seeing a jet in the area at the time of the sighting.",
+    "sighted object": "one small bright light",
+    "location": "Pineville, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer reported the sighting visually.",
+    "contains photographs": false
 }

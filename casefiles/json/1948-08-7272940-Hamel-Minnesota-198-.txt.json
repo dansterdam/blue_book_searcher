@@ -1,15 +1,9 @@
 {
-  "main event": "The document describes a UFO sighting in Hamel, Minnesota on August 11, 1948, along with two accompanying photographs of a metallic object and an outdoor scene.",
-  "interesting points": [
-    "The close-up photograph shows a detailed, metallic object resting on a surface of sand or light soil with visible vegetation at the edge.",
-    "The second photo depicts a rough, irregular outdoor scene with scattered objects that could be interpreted as stones or debris, but no clear main subject.",
-    "The third photo shows an area of ground with dirt, pebbles, and sparse vegetation, lacking distinctive features.",
-    "The document was declassified and downgraded at intervals, following the DOD directive 5200.10.",
-    "The handwritten text 'Top' in the upper right corner of the third photo likely indicates its orientation."
-  ],
-  "result": "unexplained",
-  "sighted object": "metallic object on the ground",
-  "location": "Hamel, Minnesota",
-  "witnesses": "unknown",
-  "photographs": "yes, the report includes photographs"
+    "main event": "A metallic object with ribbed or ridged details was photographed resting on sand or light soil in Hamel, Minnesota.",
+    "interesting points": "The object appears to be textured and is surrounded by vegetation., The photograph was taken from a close-up perspective emphasizing the object's surface., There are dark markings or artifacts obscuring part of the image., The document includes notes on classification, stating it was declassified after 12 years., Two photographs were mentioned in the report.",
+    "sighted object": "metallic object with ribbed or ridged details",
+    "location": "Hamel, Minnesota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none specified",
+    "contains photographs": true
 }

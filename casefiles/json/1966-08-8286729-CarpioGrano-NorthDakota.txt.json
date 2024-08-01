@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Two bright lights were observed in the sky over Carpio, North Dakota on August 26, 1966.",
-    "interesting points": [
-        "The lights were very bright, steady, and remained stationary for about 15 minutes.",
-        "The lights were seen both visually and on radar by personnel at the nearby Air Force base.",
-        "An aircraft was suspected to be responsible for the lights, but the investigating officers could not identify the object satisfactorily.",
-        "Radar tracked an unidentified object at an altitude of around 25 miles, which was described as large, flashing different colors, and appearing to move up and down and back and forth.",
-        "Multiple Air Force personnel visually observed the unidentified object, which appeared to be very large in size."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright lights, large unidentified object",
-    "location": "Carpio, North Dakota",
-    "witnesses": "Air Force personnel",
-    "photographs": "no"
+    "main event": "On August 26, 1966, two bright lights were observed in the sky near Carpio, North Dakota, which were stationary for about 15 minutes.",
+    "interesting points": "The observer reported the lights as very bright and steady,The objects were about 15 to 20 degrees above the horizon,Another UFO was visually identified and confirmed via radar during the same timeframe,The lights were suspected to be caused by an aircraft but the observer found them unusual and unexplained,Physical evidence was noted despite there being no photographs taken.",
+    "sighted object": "two bright lights in the sky",
+    "location": "Carpio, North Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer believed the lights to be unusual and unexplained based on personal experience",
+    "contains photographs": false
 }

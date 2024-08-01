@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A pale gold line object was observed appearing from haze, disappearing into haze, and reappearing over a period of 12-15 minutes at the Greater Pittsburgh Airport in Coraopolis, Pennsylvania on December 3, 1956.",
-    "interesting points": [
-        "The object was described as a straight line perpendicular to the earth, the size of a full length plate, and had intermittent intensities of brightness.",
-        "The object was observed traveling a slightly erratic path at an angle of 60 degrees from the ground.",
-        "The object was observed for 12-15 minutes, with it appearing and disappearing into the haze multiple times over that period.",
-        "The local GCA station and airport control tower were contacted but had no knowledge of the sighting.",
-        "The sighting was considered a qualified technical observation."
-    ],
-    "result": "unknown",
-    "sighted object": "a pale gold line object",
-    "location": "Greater Pittsburgh Airport, Coraopolis, Pennsylvania",
-    "witnesses": "Captain Harold M. Holloway, USAF",
-    "photographs": "no"
+    "main event": "Captain Harold M. Holloway observed an unidentified flying object at Greater Pittsburgh Airport on December 4, 1956.",
+    "interesting points": "The object was described as pale gold and was 3-5 feet in diameter,The sighting lasted for approximately 30 seconds,The local GCA station and airport control tower had no knowledge of the sighting,The object was observed at a speed of 200-300 knots,The sighting was considered a qualified technical observation.",
+    "sighted object": "an unidentified flying object with a pale gold glow",
+    "location": "Coraopolis, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain Harold M. Holloway, USAF",
+    "contains photographs": false
 }

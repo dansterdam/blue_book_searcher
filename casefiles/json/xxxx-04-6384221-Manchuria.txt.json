@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sightings of unidentified aerial objects over Manchuria and North Korea",
-    "interesting points": [
-        "A flight of 4 F-86 fighters spotted approximately 20-25 triangular-shaped objects traveling at speeds between 600-800 knots over North Korea.",
-        "The objects were described as large lights with dark-colored streamers trailing from the bottom portion.",
-        "Another incident involved an F-84 pilot observing 5-8 triangular-shaped objects, approximately 20-25 feet in diameter, moving at around 100 knots over North Korea.",
-        "The objects were described as bluish-yellow in color, with two objects connected by a thin cable or streamer.",
-        "Another sighting by an F-86 pilot over the mouth of the Yalu River described the objects as larger than the previous sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "triangular-shaped objects, large lights",
-    "location": "Manchuria, North Korea",
-    "witnesses": "military pilots",
-    "photographs": "no"
+    "main event": "On 23 April 1953, four F-86s sighted approximately 20 to 25 triangular shaped objects traveling at a speed of 600 to 800 knots over North Korea.",
+    "interesting points": "The objects were described as large lights with no visible cables or lines, about 10 objects were observed trailing dark colored streamers, The sighting occurred at approximately 3 miles distance from the aircraft, The flight was on a counter air mission over North Korea, Weather conditions during the sighting were clear with a wind speed of 2-3 MPH.",
+    "sighted object": "triangular shaped objects with dark colored streamers",
+    "location": "Manchuria",
+    "number of confirmed witnesses": 20,
+    "witness description": "Military personnel observing from F-86 aircraft",
+    "contains photographs": false
 }

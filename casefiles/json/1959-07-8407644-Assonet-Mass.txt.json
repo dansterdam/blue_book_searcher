@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "An object traveled toward the witness, initially yellow-white and then changing to a dull red. The object stopped directly over the witness.",
-    "interesting points": [
-        "The object traveled southward for 10 minutes.",
-        "The object changed color from yellow-white to dull red.",
-        "The object stopped directly over the witness.",
-        "There were insufficient data to provide a comprehensive evaluation of the case.",
-        "The case was filed as having insufficient data for evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified object that changed color",
-    "location": "unknown",
-    "witnesses": "one civilian witness",
-    "photographs": "none"
+    "main event": "An object was observed traveling toward the witness on July 30, 1959, described as initially yellow-white and changing to dull red before stopping directly overhead.",
+    "interesting points": "The observation lasted for 10 minutes., The observer was under a overhead at the time of the sighting., The UFO was reported to have stopped directly above the witness., The initial color of the object changed from yellow-white to dull red., The conclusion of the report was that there was insufficient data for evaluation.",
+    "sighted object": "one UFO",
+    "location": "Bristol, Unknown Region, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer provided a handwritten account of the observation.",
+    "contains photographs": false
 }

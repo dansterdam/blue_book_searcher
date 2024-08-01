@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright red, meteor-like object was observed in Dayton, Ohio in 1963.",
-    "interesting points": [
-        "The object was described as a bright red color, dropping or arking into the ground, and trailing a long tail.",
-        "The object was observed for 5 to 10 seconds and made no noise.",
-        "The observer stated that no one else in the Dayton area reported seeing a UFO, and the characteristics were consistent with a meteor observation.",
-        "The object was estimated to be somewhat smaller than the moon in apparent size.",
-        "The object moved behind something, possibly a cloud, during the observation."
-    ],
-    "result": "possible meteor",
-    "sighted object": "a bright red, meteor-like object",
-    "location": "Dayton, Ohio",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "An observer reported seeing a bright red object descending like a meteor, trailing a long tail, and lasting 5 to 10 seconds without making any noise.",
+    "interesting points": "The object was described as bright red in color,The flight path and duration were consistent with a meteor observation,No other reports of similar phenomena were noted in the area at the time,The observer did not report having seen a similar phenomenon before,According to Air Force analysis, the characteristics closely matched those of a meteor.",
+    "sighted object": "a bright red object with a long tail",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer did not have anyone else present at the time of sighting.",
+    "contains photographs": false
 }

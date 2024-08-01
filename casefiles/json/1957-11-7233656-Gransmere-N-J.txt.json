@@ -1,15 +1,9 @@
 {
-    "main event": "A radar object was tracked for 12 minutes over Gransmere, N.J. on November 6, 1957.",
-    "interesting points": [
-        "The object appeared as a vapor trail on the radar, with a size of a dime.",
-        "The object was lost on radar due to target fading, and its true nature remains unknown.",
-        "The report concludes that the object was possibly a balloon, but there was insufficient data for a full evaluation.",
-        "The sighting lasted for 12 minutes.",
-        "The sighting was a ground-radar observation, rather than a visual sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "radar object with a vapor trail",
-    "location": "Gransmere, N.J.",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "main event": "A single object was observed on radar leaving a white vapor trail in Gransmere, N.J.",
+    "interesting points": "The sighting occurred on 6 November 1957 at 0935,The observation lasted for 12 minutes,The object appeared to be the size of a dime,The object was possibly a balloon according to conclusions,The radar lost track of the object due to fading.",
+    "sighted object": "one object with a white vapor trail",
+    "location": "Gransmere, N.J., USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Radar observation",
+    "contains photographs": false
 }

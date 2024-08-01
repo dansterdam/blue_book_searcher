@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "On 15 August 1963, a ground-radar detection of a missile or rocket-like object with an intense white light was observed over St. Gallen, Switzerland.",
-    "interesting points": [
-        "The object was estimated to be at an altitude of 15-18,000 feet, glowing like an incandescent signal flare and climbing rapidly.",
-        "The object was followed for approximately 3.5 minutes, trailing a short orange tail.",
-        "The object passed over a mountain and was only intermittently seen due to the terrain.",
-        "The sighting was followed by a zig-zag movement, the object continued to glow for 18 seconds and then winked out.",
-        "A separate sighting on 13 August 1963 in the Bernasconi Hills, California described a similar unidentified aerial phenomenon that was observed for 35 seconds before disappearing."
-    ],
-    "result": "unknown",
-    "sighted object": "missile or rocket-like object with intense white light",
+    "main event": "A missile or rocket-like object was observed in St. Gallen, Switzerland, on August 15, 1963.",
+    "interesting points": "The object had an intense white light and climbed rapidly, estimated at 15-18,000 ft.,It left a short orange tail and was intermittently visible due to terrain,The object was tracked for approximately 3.5 minutes and made zig-zag movements before vanishing,Several other reports of unidentified aerial phenomena were made in the same time frame and location,There was speculation in local newspapers about flying saucers related to the sighting.",
+    "sighted object": "Missile or rocket-like object emitting intense white light",
     "location": "St. Gallen, Switzerland",
-    "witnesses": "ground-radar",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "Object observed by local residents; no confirmed witnesses provided in report.",
+    "contains photographs": false
 }

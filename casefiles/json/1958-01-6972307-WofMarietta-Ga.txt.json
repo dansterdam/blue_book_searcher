@@ -1,15 +1,9 @@
 {
-  "main event": "A sighting of a circular horizontal plane that appeared as a silvery white reflection of the sun, resembling a thin beam of light, and vanished without a trace after 90 seconds.",
-  "interesting points": [
-    "The object was initially observed as a bright reflection at one end, gradually appearing as a thin beam of light as the aspect changed.",
-    "The observer, a highly experienced pilot and controller, was familiar with the appearance of contrails and observed no unusual tracks.",
-    "The director of intelligence suggested that the object may have been a research balloon but the short duration of sighting and excellent weather conditions made this explanation unlikely.",
-    "The report indicates that there were numerous aircraft tracks in the vicinity of the sighting and a balloon launch schedule from a nearby location.",
-    "The sighting took place under clear, unlimited visibility, as documented in the report."
-  ],
-  "result": "Unknown",
-  "sighted object": "Circular horizontal plane",
-  "location": "Unknown",
-  "witnesses": "Highly experienced pilot and controller",
-  "photographs": "No"
+    "main event": "Sighting of a silvery white circular plane that reflected sunlight and vanished without a trace.",
+    "interesting points": "The object appeared as a thin beam of light before it faded from sight., The sighting lasted approximately 90 seconds., The observer was an experienced pilot and controller., The weather conditions during the sighting were clear with unlimited visibility., Comments from the Director of Intelligence suggested that the object may have been a research balloon or an unusual contrail.",
+    "sighted object": "circular horizontal plane, silvery white in color",
+    "location": "Not provided, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "CAPT S. USAF, OPS OFF, 325TH AIR DIVISION, highly experienced pilot",
+    "contains photographs": true
 }

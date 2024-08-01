@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light was observed in the sky between two trees in Westwood, Cincinnati, Ohio.",
-    "interesting points": [
-        "The light seemed to pulsate and move from left to right in a slow, horizontal motion.",
-        "The witness observed the light between the branches of two trees, and it appeared to move behind one of the trees.",
-        "The light had the color of an old-fashioned coal-oil lamp and was larger and brighter than the surrounding stars.",
-        "The sighting occurred around midnight on May 31, just before a storm.",
-        "The witness believed the light was neither a plane nor a star, and it was not identified as an astronomical object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, pulsating light in the sky",
-    "location": "Westwood, Cincinnati, Ohio",
-    "witnesses": "a civilian resident",
-    "photographs": "no"
+    "main event": "A resident of Westwood observed a bright light in the sky that appeared to pulsate and moved slowly behind trees.",
+    "interesting points": "The light was initially thought to be a star but was larger and seemed closer than others., The object moved horizontally between the branches of two tall trees., The light had the color reminiscent of an old-fashioned coal-oil lamp., The sighting occurred just prior to a storm, leading to visibility issues., The object was observed for an extended period, but its exact duration was not reported.",
+    "sighted object": "a bright star-like light",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a resident of Westwood who observed the light from their window",
+    "contains photographs": false
 }

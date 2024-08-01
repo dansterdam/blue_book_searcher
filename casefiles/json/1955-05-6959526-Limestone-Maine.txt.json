@@ -1,15 +1,9 @@
 {
-    "main event": "A pilot reported seeing a large, round, flashing white and blue object over his aircraft at an altitude of about 2 miles above the horizon.",
-    "interesting points": [
-        "The object appeared to be reflecting light and similar to a mass of burning gases.",
-        "The pilot estimated the object was 15 miles away in his 12 o'clock position.",
-        "The object was visible for over 5 minutes, from 0330Z to 0335Z.",
-        "The object was still visible when the pilot was approximately 100 miles away from the initial sighting location.",
-        "The report was filed by Lt. David Cleveland, the Senior Controller of the 32nd Air Division."
-    ],
-    "result": "unknown",
-    "sighted object": "a large, round, flashing white and blue object",
-    "location": "Near Harmon",
-    "witnesses": "pilot",
-    "photographs": "no"
+    "main event": "A pilot reported seeing a large round mass flashing white and blue light while flying near Harmon on 2 May 1955.",
+    "interesting points": "The object was observed for approximately 5 minutes,It appeared similar to a mass of burning gases,The pilot estimated the object to be about 15 miles away,It was not the sun or another aircraft,The object remained visible even at a distance of 100 miles from Harmon.",
+    "sighted object": "large round mass flashing white and blue light",
+    "location": "Harmon, CA, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Pilot of an aircraft",
+    "contains photographs": false
 }

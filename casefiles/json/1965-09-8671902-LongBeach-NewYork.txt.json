@@ -1,17 +1,9 @@
-Here is a summary of the UFO report in JSON format:
-
 {
-    "main event": "A bright light was observed moving across the sky for 3 minutes in Long Beach, New York on September 6, 1965.",
-    "interesting points": [
-        "The object was star-shaped and the size of the planet Venus, with a greenish-white color.",
-        "The object changed course, moving from southwest to northeast, then turning north before fading away.",
-        "Multiple observers, including children, noticed the object and were concerned by its erratic movements.",
-        "The object was observed at an angle of 45 degrees above the horizon before disappearing over the horizon.",
-        "Other simultaneous sightings were reported from the north and south shores of Long Island, lending credence to the presence of a high-altitude lighted object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, star-shaped light",
-    "location": "Long Beach, New York",
-    "witnesses": "multiple civilian observers, including children",
-    "photographs": "no"
+    "main event": "On September 6, 1965, an unidentified object was observed in Long Beach, New York, moving from southeast to northwest for roughly 3 minutes.",
+    "interesting points": "The observer described the object as a bright light that appeared similar to a star,The object had a constant horizontal motion and was captivating enough to draw attention,It was observed under clear skies, allowing for unobstructed visibility,The observer concluded that the object could be a satellite or an illumination flare,Despite the investigation, no physical evidence or photographs were available.",
+    "sighted object": "bright light in the sky",
+    "location": "Long Beach, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer with prior experience in the military.",
+    "contains photographs": false
 }

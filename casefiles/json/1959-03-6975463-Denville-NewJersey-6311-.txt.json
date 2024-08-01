@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO report from Denville, New Jersey on March 18, 1959 describes a dark, crescent-shaped object with a series of small, evenly spaced dots or specks arranged in a curved line above it.",
-  "interesting points": [
-    "The photograph shows a dark, crescent-shaped object with small, evenly spaced dots or specks above it.",
-    "The sighting occurred in Denville, New Jersey on March 18, 1959.",
-    "The object appeared to be situated towards the bottom of the frame.",
-    "The dots or specks were arranged in a curved line above the object.",
-    "The report indicates that no photograph was present on the first page, and a photograph was present on the second page."
-  ],
-  "result": "unexplained",
-  "sighted object": "dark, crescent-shaped object with small, evenly spaced dots or specks above it",
-  "location": "Denville, New Jersey",
-  "witnesses": "not specified",
-  "photographs": "yes, the report includes a photograph"
+    "main event": "A UFO report from March 18, 1959, describes a dark, crescent-shaped object with small dots arranged above it.",
+    "interesting points": "The report mentions the presence of a photograph showing the crescent-shaped object,The photograph has small, evenly spaced dots arranged in a curved line above the object,The sighting occurred in Denville, New Jersey,The report is dated from 1959,The document is classified as UNCLASSIFIED.",
+    "sighted object": "dark, crescent-shaped object with dots above it",
+    "location": "Denville, New Jersey, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses mentioned",
+    "contains photographs": true
 }

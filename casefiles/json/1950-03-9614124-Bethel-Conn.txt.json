@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "An unidentified flying object, described as a 'Wing-Saucer', was observed over Bethel, Connecticut on March 10, 1950.",
-    "interesting points": [
-        "The object circled over the center of Bethel four times, and on the fourth time around, it banked left at 45 degrees, at which point a 'brilliant white light' was seen on the bottom of the 'Wing-Saucer' and a dark object was seen revolving at a slow rate of speed.",
-        "The object disappeared in a northeasterly direction and was visible for three minutes.",
-        "The text includes a drawing of the 'bottom view of the Wing' seen at an altitude of 5,000 feet.",
-        "The object was described as having a 'jet black' color, moving at approximately 25 mph, and being about 50 feet long on the leading edge and 30 feet long on the trailing edge.",
-        "The object was observed in clear, cool weather conditions with no wind, and no sound of an engine was reported."
-    ],
-    "result": "unexplained",
-    "sighted object": "a 'Wing-Saucer' object",
-    "location": "Bethel, Connecticut",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "An observer reported seeing a large black 'wing-like' object flying slowly in circles over Bethel, Connecticut on March 10, 1950, which was initially thought to be a UFO.",
+    "interesting points": "The object circled the center of Bethel four times,On the fourth pass, a brilliant white light appeared at the bottom of the 'wing-like' object,The object disappeared in a northeasterly direction after being visible for three minutes,It was observed at an altitude of approximately 8,000 feet,The object was initially seen alongside three single-engine Navy bi-wing planes flying in formation.",
+    "sighted object": "large black 'wing-like' object",
+    "location": "Bethel, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An observer who described seeing the object alongside Navy planes.",
+    "contains photographs": false
 }

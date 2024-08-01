@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A police officer in Davenport, Iowa reported observing an unidentified bright, elliptical object that hovered and maneuvered in the sky for about 10 minutes on January 27, 1953.",
-    "interesting points": [
-        "The object appeared to be a bright light, elliptical in shape, and hovered and maneuvered for about 10 minutes.",
-        "The object was estimated to be several hundred feet in size and reached a near 100 MPH speed before disappearing.",
-        "The object was observed moving in a northerly direction, tilted at an angle, and with a rocking motion.",
-        "Two other police officers also observed the object as it traveled over the Mississippi River and hovered over Davenport before accelerating rapidly and disappearing.",
-        "No optical or electronic sighting equipment was used, and there was no physical evidence such as fragments or photographs."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, elliptical object",
-    "location": "Davenport, Iowa",
-    "witnesses": "police officers",
-    "photographs": "no"
+    "main event": "A patrolman in Davenport, Iowa observed an unidentified flying object on January 27, 1953, which appeared to be a bright elliptical light that hovered and then maneuvered for about 10 minutes.",
+    "interesting points": "The object was estimated to be several hundred feet in size and reached speeds of nearly 100 MPH before disappearing.,It was visible for about 10 minutes and moved in a northerly direction with a rocking motion.,The object was first seen at the horizon and was at an estimated height of several hundred feet.,No sound was reported from the object during the observation.,The object was not photographed, and there was no physical evidence collected.",
+    "sighted object": "bright elliptical light",
+    "location": "Davenport, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Patrolman from the Davenport Police Department",
+    "contains photographs": false
 }

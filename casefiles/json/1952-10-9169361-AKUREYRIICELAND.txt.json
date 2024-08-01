@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four or five spherical-shaped objects were seen flying at high speed over the northern coast of Iceland.",
-    "interesting points": [
-        "The objects were white in color and round in shape, moving much faster than any known aircraft.",
-        "No trails were observed from the objects.",
-        "The sightings lasted about 10-15 seconds.",
-        "The objects were observed from two separate locations.",
-        "The weather conditions included cloud bases at 6000-10,000 meters with no wind."
-    ],
-    "result": "unexplained",
-    "sighted object": "four or five spherical-shaped objects",
+    "main event": "Four to five spherical-shaped objects were seen flying at high speed over the northern coast of Iceland.",
+    "interesting points": "The objects were reported from two separate locations., They were white in color and moving faster than any known aircraft., No trails were observed from the objects., Sightings lasted about 10-15 seconds., The sighting was made by Lt. Jon Thorvaldsson and confirmed by other observers on the ground.",
+    "sighted object": "four to five spherical-shaped objects",
     "location": "Akureyri, Iceland",
-    "witnesses": "civilians, including Lt. Jon Thorvaldsson",
-    "photographs": "none"
+    "number of confirmed witnesses": 2,
+    "witness description": "Lt. Jon Thorvaldsson, Capt., USAFF and other observers on the ground",
+    "contains photographs": false
 }

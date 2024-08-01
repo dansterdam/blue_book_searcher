@@ -1,15 +1,9 @@
 {
-    "main event": "A spherical object was photographed in the sky over West Hyattsville, Maryland on October 31, 1966.",
-    "interesting points": [
-        "The object appears to be a UFO or unidentified aerial phenomenon.",
-        "The photographs show a blurry, circular shape in the sky.",
-        "The photographs are from a document labeled as Project Blue Book File 11110.",
-        "The images are classified as UNCLASSIFIED by the Foreign Technology Division, AFSC.",
-        "No clear details about the object can be discerned from the blurry photographs."
-    ],
-    "result": "unexplained",
-    "sighted object": "a spherical object in the sky",
-    "location": "West Hyattsville, Maryland",
-    "witnesses": "unknown",
-    "photographs": "yes, 3 photographs are included in the report"
+    "main event": "A report from Project Blue Book documented sightings of a spherical object in the sky.",
+    "interesting points": "The report consists of 3 photos of a blurry, circular shape in the sky., The object is mostly obscured by distortion or blur., No humans are visible in any of the images., The sightings occurred on October 31, 1966., The report is classified under the Foreign Technology Division, AFSC.",
+    "sighted object": "spherical object in the sky",
+    "location": "West Hyattsville, Maryland, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses identified in the report.",
+    "contains photographs": false
 }

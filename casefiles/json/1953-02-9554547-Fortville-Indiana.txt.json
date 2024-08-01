@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian woman sighted an unknown object resembling a balloon trailing a high altitude vapor trail in a northeasterly direction over Fortville, Indiana on February 23, 1953.",
-    "interesting points": [
-        "The sighting was confirmed by USAF air defense personnel, the Indiana Army National Guard, and the U.S. Air Force installation.",
-        "The object was seen approximately 15 minutes after the scheduled release of a pilot weather balloon by the Indianapolis U.S. Department of Agriculture Weather Station.",
-        "The weather balloon was carried in a northeasterly direction by the winds aloft, which were from 210 to 240 degrees at that time of day.",
-        "The location of the sighting, Fortville, was consistent with the expected location of the free-floating weather balloon.",
-        "The image contains a hand-drawn diagram or technical sketch related to the UFO report, but no photographs."
-    ],
-    "result": "identified as a weather balloon",
-    "sighted object": "an unknown object resembling a balloon trailing a high altitude vapor trail",
-    "location": "Fortville, Indiana",
-    "witnesses": "a civilian woman, USAF air defense personnel, Indiana Army National Guard, U.S. Air Force installation",
-    "photographs": "no, the report includes a hand-drawn diagram but no photographs"
+    "main event": "A civilian woman in Fortville, Indiana observed an unknown object on February 24, 1953, that resembled a balloon and was trailing a high altitude vapor trail.",
+    "interesting points": "The sighting was confirmed by USAF air defense personnel and the Indiana Army National Guard., The object was observed moving in a northeasterly direction for approximately five minutes., Clear weather conditions prevailed during the sighting., A pilot weather balloon was scheduled for release around the same time, potentially explaining the sighting., No photographs or physical evidence were obtained.",
+    "sighted object": "unknown object resembling a balloon with a vapor trail",
+    "location": "Fortville, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian woman",
+    "contains photographs": false
 }

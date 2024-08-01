@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report text:
-
 {
-    "main event": "A pilot spotted a bright light hovering over the ground near Ocala, Florida on September 13, 1968. As the pilot got closer, the object flew off to the west and appeared to start descending to the ground.",
-    "interesting points": [
-        "The object was a bright light that appeared to be hovering over the ground about 1 mile in front of the pilot.",
-        "When the pilot got closer, the object flew off to the west about 6 miles in front of him.",
-        "When last observed, the object appeared to start descending to the ground.",
-        "The police department was asked if they received any similar complaints for the night of September 13th.",
-        "The police department was asked for comments on a possible cause for this sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright light",
-    "location": "near Ocala, Florida",
-    "witnesses": "a pilot",
-    "photographs": "none"
+    "main event": "On September 10, 1968, two civilian pilots observed a bright light performing acrobatics near Ocala, Florida, for about 15 minutes before it rapidly disappeared.",
+    "interesting points": "The pilots described the object making sharp turns and climbing quickly, suggesting it exhibited unusual flight characteristics not typical of known aircraft., Jacksonville Center could not track the object on radar., At one point, the object appeared directly over Ocala before veering off quickly., Both pilots were initially unsure of what they saw but acknowledged it couldn't have been a conventional aircraft due to its maneuvers., The sighting included a near-collision course, causing significant alarm to the pilots.",
+    "sighted object": "a bright light performing aerial maneuvers",
+    "location": "Ocala, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian pilots, one of whom had over 8000 flying hours",
+    "contains photographs": false
 }

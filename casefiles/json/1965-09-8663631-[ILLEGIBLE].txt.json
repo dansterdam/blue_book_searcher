@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A resident of Sun Lake Town reported seeing an unidentified flying object for 3 hours on May 16, 1965.",
-    "interesting points": [
-        "The object appeared solid and was brighter than the brightest stars.",
-        "The edges of the object were sharply outlined.",
-        "The object appeared to stand still at times and suddenly speed up and rush away.",
-        "The object changed brightness and shape during the sighting.",
-        "The witness tried to take photographs of the object with a camera but the results are unknown."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, solid, sharply outlined object in the sky",
-    "location": "Sun Lake Town",
-    "witnesses": "1 civilian resident",
-    "photographs": "attempted, but results unknown"
+    "main event": "A witness observed a round, dull silver or grey object hovering above the trees, later moving slowly in a northeastern direction before rapidly disappearing from view.",
+    "interesting points": "The object was estimated to be 50 to 60 feet in diameter and hovered at about 100 feet above the ground., The object made no noise during observation and appeared to rotate slowly., The sighting lasted for about 10 minutes., The witness could not identify the object as any conventional aircraft., The object suddenly accelerated and disappeared at a high rate of speed.",
+    "sighted object": "round or circular object",
+    "location": "Edwardsville, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The individual who stopped his car to observe the object.",
+    "contains photographs": false
 }

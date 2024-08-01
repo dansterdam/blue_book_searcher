@@ -1,15 +1,9 @@
 {
-  "main event": "A reported UFO sighting took place in Elmira, N.Y. on 12-7-58 at 1830. It was observed as a round object leaving a long white trail near a missile pod, and the pilot believed it was a satellite moving. The sighting occurred on a hot day and was deemed as probably a mirage.",
-  "interesting points": [
-    "The object was described as larger than a meteor and left a long white trail.",
-    "The pilot initially believed it was a satellite moving.",
-    "The sighting was attributed to the hot day and possibly being a mirage.",
-    "The pilot stated he believed it was a rocket from Sputnik 2.",
-    "There were no photographs of the reported UFO."
-  ],
-  "result": "prozaic explanation",
-  "sighted object": "round object leaving a long white trail",
-  "location": "Elmira, N.Y.",
-  "witnesses": "pilot",
-  "photographs": "none"
+    "main event": "A pilot reported a round object leaving a long white trail near a missile pod, which he believed was a satellite or possibly a rocket.",
+    "interesting points": "The sighting occurred on December 7, 1958, at 6:30 PM., The pilot noted that the object was larger than a meteor., The observation indicated the object was maneuvering, possibly vertically., Weather conditions were noted as a 'hot day', suggesting a mirage might have affected the sighting., The pilot speculated it could have been related to Sputnik 2.",
+    "sighted object": "round object leaving a long white trail",
+    "location": "Elmira, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a pilot who observed the object",
+    "contains photographs": false
 }

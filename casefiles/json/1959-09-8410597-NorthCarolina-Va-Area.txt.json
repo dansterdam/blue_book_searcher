@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Six reports were received of an object burning with a tail, predominantly green or blue-green in color, moving generally west at a slow speed.",
-    "interesting points": [
-        "The object was described as cigar-shaped, about the size of nine rockets, with a green body, red nose, and white trail like fire or exhaust.",
-        "Multiple agencies, including civilian and military, reported seeing the object at the same time.",
-        "The sighting lasted for about 1.5 minutes.",
-        "Weather reports indicated the possibility of a large meteor in the area at the time of the sighting.",
-        "No physical evidence was available, but the timing of the sightings across multiple locations suggested the object was likely a meteor."
-    ],
-    "result": "possibly a meteor",
-    "sighted object": "a cigar-shaped object with a green body, red nose, and white trail",
-    "location": "Norfolk, Carolina, Virginia area",
-    "witnesses": "civilian and military",
-    "photographs": "no"
+    "main event": "Reports of six unidentified flying objects were observed in the Norfolk, Virginia area on September 8, 1959, showing burning trails and moving generally westward.",
+    "interesting points": "Witnesses described the objects as having a predominant color of green or blue-green., Observations lasted approximately 30 seconds each., The objects were reported to have tails resembling fire or exhaust., Witnesses included both civilians and military personnel., Similar sightings were reported around the same time by other agencies.",
+    "sighted object": "six unidentified flying objects with tails",
+    "location": "Norfolk, Virginia, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Civilians and military personnel in the area",
+    "contains photographs": false
 }

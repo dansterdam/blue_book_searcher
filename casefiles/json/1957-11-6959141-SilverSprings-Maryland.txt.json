@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A blue-white object larger than a star was seen traveling in a straight course for two seconds.",
-    "interesting points": [
-        "The object appeared in front of the observer and was 15 degrees above the horizon due north.",
-        "The object disappeared after two seconds of observation.",
-        "The sky was clear to the north, with clouds in the west, and the sun was behind and to the right of the observer.",
-        "The report was filed by a 31-year-old telephone company employee in Silver Springs, MD.",
-        "The USAF intelligence officer concluded that the sighting was most likely a natural phenomenon."
-    ],
-    "result": "probably balloon",
-    "sighted object": "one blue-white object larger than a star",
-    "location": "Silver Springs, MD",
-    "witnesses": "1 telephone company employee",
-    "photographs": "no"
+    "main event": "A blue-white object larger than a star was observed for two seconds while on a straight course in November 1957.",
+    "interesting points": "The sighting lasted only for two seconds., The object was reported to have appeared in front of the observer., It was indicated to be larger than a falling star., The observer described the sky as clear to the north with clouds to the west., The conclusion was that it was probably a balloon.",
+    "sighted object": "one blue-white object",
+    "location": "Silver Springs, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "31-year-old employed by a telephone company",
+    "contains photographs": false
 }

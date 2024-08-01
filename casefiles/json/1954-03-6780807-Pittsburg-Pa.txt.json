@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A radar operator at the South Park Military Reservation in Pittsburgh, Pennsylvania detected an unidentified flying object on the radar on March 11, 1954.",
-    "interesting points": [
-        "The object was moving at a very high speed, estimated around 1,000-1,500 mph.",
-        "The object made sudden stops, starts, and sharp changes in direction that exceeded the capabilities of any known aircraft at the time.",
-        "The object was tracked on radar for about 5-7 minutes before disappearing.",
-        "Several military personnel, including officers, visually observed the object as well and corroborated the radar observations.",
-        "Weather conditions were normal and could not account for the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fast-moving, maneuverable unidentified object detected on radar",
-    "location": "South Park Military Reservation, Pittsburgh, Pennsylvania",
-    "witnesses": "military radar operators and officers",
-    "photographs": "none"
+    "main event": "On 6 March 1954, an unusual bright object was observed in the sky over Pittsburgh, Pennsylvania, with various military personnel reporting multiple sightings.",
+    "interesting points": "The object was described as diamond-shaped with a bright glow,It was observed for several minutes before disappearing,Several witnesses included police officer C.H. Maier and citizens,The object appeared to change in size and intensity as it moved,No physical evidence was recovered.",
+    "sighted object": "bright diamond-shaped object",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "police officer and citizen",
+    "contains photographs": false
 }

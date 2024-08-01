@@ -1,15 +1,9 @@
 {
-	"main event": "A series of UFO sightings in Korea occurred between January and February 1952 involving various military observers, including a B-29 navigator and a pilot from the 4th Fighter Wing.",
-	"interesting points": [
-		"The observed objects displayed unusual characteristics, such as glowing colors, tail-like appendages, and rapid changes in altitude and speed.",
-		"In some cases, the objects were interpreted as surface-to-air guided missiles, potentially of Soviet or German origin, while in others, they were noted to exhibit electronic guiding devices.",
-		"The sightings prompted requests for more details and investigation by military and intelligence agencies, including the Air Force and FEAF.",
-		"Some witnesses, including the B-29 navigator and the pilot, were deemed as competent and reliable observers with military experience.",
-		"The incidents led to speculations about the nature and origin of the observed objects, with explanations ranging from missiles to meteor explosions."
-	],
-	"result": "unexplained",
-	"sighted object": "unidentified aerial objects displaying unusual characteristics",
-	"location": "Korea",
-	"witnesses": "military personnel including a B-29 navigator and a pilot from the 4th Fighter Wing",
-	"photographs": "no"
+    "main event": "An Air Force officer observed an unidentified flying object near Seoul, South Korea on 24 February 1952.",
+    "interesting points": "The object was described as elongated and glowing, measuring about 45 feet in length,The object hovered before accelerating steeply and disappearing within 2 to 3 seconds,Weak electronic signals were detected during the incident,The sighting was made at an altitude of around 2000 feet and heading 270 degrees,The object might resemble a surface-to-air guided missile.",
+    "sighted object": "an elongated, glowing object",
+    "location": "Seoul, South Korea",
+    "number of confirmed witnesses": 1,
+    "witness description": "An Air Force officer",
+    "contains photographs": false
 }

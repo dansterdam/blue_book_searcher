@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A circular yellow and red light was sighted near Hebron, Newfoundland, moving slowly from south to northwest and disappearing and reappearing through the haze.",
-    "interesting points": [
-        "The light seemed to be circular and solid, with the yellow part above and the red part below.",
-        "The light moved slowly to the west, and it was impossible to judge the distance.",
-        "The light seemed to drop suddenly behind a mountain, then came down slightly and then shot up quickly.",
-        "When first sighted, the tail part of the object was blurry.",
-        "The object disappeared extremely quickly while being observed with a telescope."
-    ],
-    "result": "unknown",
-    "sighted object": "a circular yellow and red light",
-    "location": "Hebron, Newfoundland",
-    "witnesses": "a radio missionary",
-    "photographs": "no"
+    "main event": "A circular yellow and red light was observed in Hebron, Newfoundland on July 7, 1954.",
+    "interesting points": "The light slowly moved from south to northwest, disappearing through haze and reappearing.,The observation lasted for 5 hours.,Initial evaluations concluded it was unidentifiable.,Reports suggested it could possibly be a balloon or aircraft.,Witness reported the object had a solid appearance with red below and yellow above.",
+    "sighted object": "circular yellow and red light",
+    "location": "Hebron, Newfoundland, CA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A reliable radio missionary who observed the light in the sky.",
+    "contains photographs": false
 }

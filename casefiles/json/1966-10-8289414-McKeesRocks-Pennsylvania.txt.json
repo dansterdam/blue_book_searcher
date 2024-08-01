@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A resident of McKees Rocks, Pennsylvania reported seeing an unidentified flying object in the sky on October 8, 1966 around 11:30 PM.",
-    "interesting points": [
-        "The object was described as being about 30 feet in diameter, orange in color, and hovering about 100 feet above the ground.",
-        "The object remained stationary for about 5 minutes, then suddenly accelerated and disappeared to the east.",
-        "The observer stated that as the object passed overhead, he could hear a very faint humming sound.",
-        "During this incident, there was an apparent power failure in part of the area.",
-        "Another witness, a neighbor, also saw the same object and can verify the observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "an orange, 30-foot diameter object that hovered and then accelerated away",
-    "location": "McKees Rocks, Pennsylvania",
-    "witnesses": "a resident and a neighbor",
-    "photographs": "no"
+    "main event": "A resident of McKees Rocks, Pennsylvania reported seeing an unidentified flying object estimated to be 30 feet in diameter, orange in color, and hovering about 100 feet above the ground.",
+    "interesting points": "The object remained stationary for about 5 minutes before suddenly accelerating and disappearing to the east,The observer heard a very faint humming sound as the object passed overhead,There was an apparent power failure in part of the area during the sighting,Another witness, a neighbor, corroborated the observer's account of the sighting,The object appeared to hover and change directions while giving off varied colored lights.",
+    "sighted object": "an unidentified flying object described as being about 30 feet in diameter and orange in color",
+    "location": "McKees Rocks, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A resident of McKees Rocks and a neighbor who saw the same object",
+    "contains photographs": false
 }

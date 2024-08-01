@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided:
-
 {
-    "main event": "The image does not contain a photograph, but rather an envelope or document with text and stamps. The text reads 'Nat'l Investigations Committe on Aerial Phenomena (NICAP) Washington DC USA'. The envelope or document also contains a stamped image of a U.S. flag.",
-    "interesting points": [
-        "The image does not contain any photographs.",
-        "The text found in the document discusses UFO reports, including a sighting over a Massachusetts power plant on October 26, 1965 involving a cigar-shaped UFO.",
-        "The document also mentions a well-known UFO sighting that took place on July 19, 1952 at the same location.",
-        "The report includes a letter from a witness of the July 19, 1952 sighting, relating their observations of the creation of a new UFO object.",
-        "The report indicates that the investigators believe the October 26, 1965 sighting may be related to the previous 1952 incident."
-    ],
-    "result": "unexplained",
-    "sighted object": "cigar-shaped UFO",
-    "location": "Massachusetts Power Plant, Salem, Massachusetts",
-    "witnesses": "multiple witnesses",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Report of UFO sightings over the Massachusetts Power Plant in Salem, involving multiple witnesses and detailed observations of unidentified aerial phenomena.",
+    "interesting points": "The document contains a letter from the NICAP outlining various UFO reports including sightings from 1965,The object was described as cigar-shaped by one witness, and appeared to hover and move at high speed,There were numerous witnesses including private representatives from past sightings,Some reports indicated a UFO sighting was possibly misidentified as the planet Jupiter,The report alludes to influential events like the giant blackout on November 9, 1965, possibly linked to UFO activity.",
+    "sighted object": "Cigar-shaped UFO",
+    "location": "Salem, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two girls, Miss Linda Williams and Miss Laurie Guest, along with other witnesses including local residents.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A witness observed a silent, round object maneuvering and accelerating rapidly in the sky.",
-    "interesting points": [
-        "The object appeared to be hovering and then accelerated rapidly.",
-        "The witness stated they were an experienced observer of aircraft and felt the object was not an aircraft.",
-        "The object was observed for approximately 5-10 minutes.",
-        "The witness was unable to identify the object.",
-        "There were no engine or aircraft characteristics observed on the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, silent object",
-    "location": "County road, California",
-    "witnesses": "1 witness, a grade school teacher",
-    "photographs": "no"
+    "main event": "An observer in Central Valley, California, reported seeing a white star-like object on May 31, 1966.",
+    "interesting points": "The object appeared to climb and sometimes hovered in one spot., The observation lasted for about 2 minutes., The object disappeared while the observer was distracted and reappeared three times., Comparable to the brightness of a star, it was noted to be white in appearance., The observer had seen similar objects many times before.",
+    "sighted object": "white star-like object",
+    "location": "Central Valley, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer noted a white star-like object moving in the sky.",
+    "contains photographs": false
 }

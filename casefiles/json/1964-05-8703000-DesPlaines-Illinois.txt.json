@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A long object the size of a plane was observed in the sky over Des Plaines, Illinois on May 6, 1964.",
-    "interesting points": [
-        "The object appeared as a bright white light that revolved for about 10 seconds.",
-        "The object flew lower than a plane and at a speed of around 650 mph, similar to a plane.",
-        "The object was observed for about 4 minutes as it flew from east to west to the southwest.",
-        "The report states that the data provided could not have been from an aircraft.",
-        "The sighting occurred at around 8:30 pm on May 4, 1964."
-    ],
-    "result": "unexplained",
-    "sighted object": "a long object the size of a plane with a bright white revolving light",
-    "location": "Des Plaines, Illinois",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A long object the size of a plane was observed at night in Des Plaines, Illinois.",
+    "interesting points": "The object appeared as a bright white light and revolved for a period of 10 seconds., The object flew lower than a plane and descended to the West at 650 mph., The observation lasted for about 4 minutes., The witness stated that the data presented could not have been an aircraft., The event was documented by the 928th Troop Carrier Group, Medium (Reserve) of the United States Air Force.",
+    "sighted object": "a long object the size of a plane emitting a bright white light",
+    "location": "Des Plaines, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "documented by United States Air Force officials",
+    "contains photographs": false
 }

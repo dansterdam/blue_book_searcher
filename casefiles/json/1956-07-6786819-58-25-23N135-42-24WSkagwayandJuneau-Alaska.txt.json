@@ -1,15 +1,9 @@
 {
-"main event": "The UFO sighting occurred on 5 July 1956 between Skagway and Juneau, Alaska. The object was observed against a cirrus cloud background for approximately 1 minute, traveling at about 1,200 mph.",
-"interesting points": [
-	"The report describes the observed object as dark and without wings or a tail, with 5 bumps on its wings that looked like missiles.",
-	"Conflicting information is noted in the report regarding the bumps on the wings and the absence of wings observed.",
-	"A request for comments was made to determine the possibility of a military aircraft being involved or violating U.S. airspace in the Alaskan area.",
-	"The description of the UFO did not match any known aircraft, and there was no information about Soviet air activity in the area at the time.",
-	"The report mentioned the possibility that the UFO could have been a USAF aircraft from the 5th Fighter or tracking as air spare."
-	],
-"result": "insufficient data for evaluation",
-"sighted object": "unidentified flying object (UFO)",
-"location": "between Skagway and Juneau, Alaska",
-"witnesses": "USAF intelligence units",
-"photographs": "no"
+    "main event": "An unidentified object was observed between Skagway & Juneau, Alaska on 5 July 1956.",
+    "interesting points": "The object moved at an estimated speed of 1,200 mph., The object was observed for approximately 1 minute., Its silhouette resembled an aircraft but lacked visible wings or a tail., There were conflicting reports about bumps that looked like engines but no wings were discerned., The report concludes insufficient data for definitive classification.",
+    "sighted object": "silhouette of an unidentified flying object",
+    "location": "Skagway, Alaska, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Ground-Visual observation.",
+    "contains photographs": false
 }

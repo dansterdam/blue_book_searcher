@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A person in Plainfield, Indiana observed a bright, spinning, and rapidly moving object in the sky on multiple occasions in 1967.",
-    "interesting points": [
-        "The object came to a sudden, practically vertical stop and then quickly zoomed straight up and out of sight.",
-        "The object appeared to be metallic and approximately 50-75 feet in diameter, emitting a pulsating light.",
-        "The object made no sound that the witness could hear.",
-        "The witness observed the object following them while driving on a country road.",
-        "The witness observed the object hovering over a wooded area near their home before it suddenly accelerated and disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, spinning, and rapidly moving metallic object in the sky",
-    "location": "Plainfield, Indiana",
-    "witnesses": "civilian(s)",
-    "photographs": "no"
+    "main event": "An observer reported seeing a bright light in the sky while watching a baseball game, described as a flying object that quickly disappeared into the clouds.",
+    "interesting points": "The observer thought the object resembled a flying soccer ball over the clouds,The object was bright and moved rapidly before vanishing,The sighting occurred on July 14, 1967, at approximately 11:00 p.m.,The observer was puzzled and awed by the object's performance,The report concludes with a request for further information about the sightings.",
+    "sighted object": "a bright, pulsating object in the sky",
+    "location": "Plainfield, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "the observer and his wife",
+    "contains photographs": false
 }

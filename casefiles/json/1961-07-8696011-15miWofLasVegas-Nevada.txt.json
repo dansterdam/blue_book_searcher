@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright amber-colored light, circular in shape and 15-20 ft in diameter, was observed for 3 minutes moving in a straight line at a constant speed from north to south near Las Vegas, Nevada.",
-    "interesting points": [
-        "The object was visible about 1/2 hour after sunset, when the moon was not up.",
-        "The object made no sound as it moved.",
-        "A search of the suspected landing area found no evidence of a UFO landing, only a brush fire that was caused by lightning.",
-        "One witness was reportedly disturbed when recounting the events, but was considered a reliable observer.",
-        "No photographs or other materials were available to document the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright amber-colored, circular light",
-    "location": "15 mi W of Las Vegas, Nevada",
-    "witnesses": "one witness",
-    "photographs": "no"
+    "main event": "A witness observed a bright amber-colored light, circular in shape, moving in a straight line at a constant speed near Las Vegas, Nevada on July 8, 1961.",
+    "interesting points": "The object was approximately 15-20 ft in diameter and emitted no sound,The sighting lasted for 3 minutes and occurred about 1/2 hour after sunset,The object's movement was constant and straight from north to south before it vanished,No photograph was included in the report despite detailed observations,The report mentions a previous investigation related to a suspected landing area with no substantial evidence found.",
+    "sighted object": "bright amber-colored circular light",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness visually disturbed during reiteration of events and considered reliable",
+    "contains photographs": false
 }

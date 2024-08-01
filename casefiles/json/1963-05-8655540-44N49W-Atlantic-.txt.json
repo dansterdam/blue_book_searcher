@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Unidentified objects were observed on radar over the Atlantic Ocean on May 31, 1963.",
-    "interesting points": [
-        "The radar returns showed three tracks, with two following identical paths at 120 degrees from the aircraft.",
-        "All the objects were moving at the same speed of 1400 mph.",
-        "No visual sighting of the objects was made, although they were detected at ranges of 2, 3.5, and 5 miles.",
-        "The sighting was possibly caused by equipment malfunction or other electronic interference within the plane.",
-        "Four radar returns with a changeable flight path were submitted for analysis."
-    ],
-    "result": "unexplained",
-    "sighted object": "three unidentified radar returns",
-    "location": "44N 49W, Atlantic Ocean",
-    "witnesses": "radar operators",
-    "photographs": "yes, radar film submitted for analysis"
+    "main event": "An unidentified object was observed on radar over the Atlantic Ocean on May 31, 1963.",
+    "interesting points": "The radar detected four returns from an object with a flight path changeable, with speeds recorded at 1400 mph., No visual sightings were made despite the object appearing on radar at ranges of 2, 3.5, and 5 miles., The sighting lasted around three minutes., The possibility of equipment malfunction or electronic interference was mentioned., The report included radar film for analysis and was part of Project Blue Book.",
+    "sighted object": "unidentified aerial object",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members on the MSTS Ship Pvt. Joe E. Mann",
+    "contains photographs": false
 }

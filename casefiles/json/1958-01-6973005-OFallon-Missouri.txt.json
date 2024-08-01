@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian in O'Fallon, Missouri reported a bright, star-like object stationary in the sky, which was later identified as the planet Venus.",
-  "interesting points": [
-    "The object appeared to be round, white, and larger than the North Star.",
-    "The witness reported that the object appeared at the same time every evening.",
-    "Weather conditions at the time included clear skies with varying winds aloft.",
-    "The report provided detailed information about Venus and other celestial objects visible in the night sky.",
-    "It mentioned the upcoming Geminid meteor shower, which would also be visible in the evening sky."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "bright, star-like object",
-  "location": "O'Fallon, Missouri",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A civilian witnessed a bright, star-like object that appeared stationary in the sky.",
+    "interesting points": "The object was described as round and white,It was observed for about 1 minute,The sighting occurred in clear weather conditions,The object was noted to be in the same location as the planet Venus,The witness was a 34-year-old female housewife.",
+    "sighted object": "a bright, round, white object in the sky",
+    "location": "O'Fallon, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "34-year-old civilian housewife",
+    "contains photographs": false
 }

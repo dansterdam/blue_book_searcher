@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Saucer-like objects hovering and scintillating were observed over North Carolina in October 1962.",
-    "interesting points": [
-        "The objects were described as three saucer-like objects that were hovering and scintillating.",
-        "The objects changed color from bright white to red, blue, and finally green before disappearing.",
-        "The observer was considered a reliable and credible witness.",
-        "The attached photograph was blurred and did not show any unusual objects or lights.",
-        "No further investigation was planned."
-    ],
-    "result": "unexplained",
+    "main event": "An unidentified flying object sighted over North Carolina in October 1962.",
+    "interesting points": "The sighting involved 3 saucer-like objects that were hovering and scintillating., The analysis suggested the most probable cause could be play or spots on the negative., The sighting occurred between 1:00 and 4:00 PM along state route 10 in North Carolina., A letter from an individual in Asheville reported seeing a bright light changing colors before disappearing., The observer was considered a reliable and credible witness.",
     "sighted object": "three saucer-like objects",
     "location": "North Carolina",
-    "witnesses": "one adult male",
-    "photographs": "yes, but the photograph was blurred and did not show any unusual objects"
+    "number of confirmed witnesses": 1,
+    "witness description": "an adult male who observed a bright light in the sky",
+    "contains photographs": false
 }

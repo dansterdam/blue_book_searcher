@@ -1,15 +1,9 @@
 {
-    "main event": "A ground observer in Tallassee, Alabama reported a UFO sighting on November 5, 1957.",
-    "interesting points": [
-        "The object appeared approximately 210 about 10 degrees up and down direction, not touching the ground.",
-        "Very little information was provided to evaluate the significance of the observation.",
-        "The report does not contain any photographs of the sighting.",
-        "The lack of detailed information makes it difficult to determine the nature of the observed object.",
-        "The sighting was classified as a D Ground Visual observation."
-    ],
-    "result": "unexplained",
-    "sighted object": "unspecified object in the sky",
-    "location": "Tallassee, Alabama",
-    "witnesses": "ground observer",
-    "photographs": "no"
+    "main event": "A ground observer reported a UFO sighting in Tallassee, Alabama on November 5, 1957.",
+    "interesting points": "The object was observed approximately 210 degrees at an angle of 10 degrees up and down., The object did not touch the ground., There is very little information provided to evaluate the significance of the observation., The sighting was categorized as a ground visual observation., The report does not include photographs.",
+    "sighted object": "UFO observed in the sky",
+    "location": "Tallassee, Alabama, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "ground observer",
+    "contains photographs": false
 }

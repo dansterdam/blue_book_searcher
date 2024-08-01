@@ -1,15 +1,9 @@
 {
-    "main event": "A single orange object was observed for 20 seconds at 45 degrees elevation, moving at 38 degrees per minute in a northwest direction.",
-    "interesting points": [
-        "The object was observed at coordinates 32.02N 174.15W in the Pacific Ocean.",
-        "The sighting was reported via a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The report was transmitted to the CIA per Form 1392 #46.",
-        "The conclusion was that there was 'Insufficient data for evaluation' and the direction of the object was 'wrong for satellite'.",
-        "The report notes that objects at 45 degrees elevation for 20 seconds are 'not weather balloons'."
-    ],
-    "result": "unexplained",
-    "sighted object": "one orange object",
-    "location": "Pacific Ocean, 32.02N 174.15W",
-    "witnesses": "military",
-    "photographs": "none"
+    "main event": "A military report details an observation of one unidentified object in the Pacific on 02/13/63.",
+    "interesting points": "The object was observed at 45 degrees elevation for 20 seconds,The report concluded there was insufficient data for evaluation,The direction of the object was stated to be Northwest,No physical evidence or photographs were recorded,The object's course and characteristics did not align with known satellites.",
+    "sighted object": "one orange unidentified object",
+    "location": "Pacific",
+    "number of confirmed witnesses": 0,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

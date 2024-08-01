@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in the requested JSON format:
-
 {
-    "main event": "A luminous spherical shooting object was seen coming from the northeast in Andahuaylas, Peru on October 23, 1957. It made a zig-zag motion before it fell with no decrease of speed over the area where it fell with no success.",
-    "interesting points": [
-        "The object was described as a luminous spherical shooting object.",
-        "It made a zig-zag motion before it fell.",
-        "It fell with no decrease of speed over the area where it fell with no success.",
-        "Two different sightings of unidentified flying objects were reported in Peru within the last two weeks of the incident.",
-        "The unidentified flying object observed on October 29, 1957 in the vicinity of Andanguilas Province was seen for approximately twenty minutes, emitting red, green, and yellow lights, before it disappeared apparently in the Talaura district zone."
-    ],
-    "result": "Probable meteor sighting",
-    "sighted object": "Luminous spherical shooting object",
-    "location": "Andahuaylas, Peru",
-    "witnesses": "1",
-    "photographs": "no"
+    "main event": "A luminous spherical shooting object was observed in Andahuaylas, Peru on 23 October 1957.",
+    "interesting points": "The object was seen coming from the northeast and made a zig-zag motion before falling,The object was observed by one witness,There was a reported sighting of another unidentified flying object two weeks prior in the same region,This second object emitted red, green, and yellow lights and was seen over a mountainous area for about twenty minutes,The conclusion of the first sighting suggested it was a probable meteor.",
+    "sighted object": "luminous spherical shooting object",
+    "location": "Andahuaylas, Apurímac, Peru",
+    "number of confirmed witnesses": 1,
+    "witness description": "one witness",
+    "contains photographs": false
 }

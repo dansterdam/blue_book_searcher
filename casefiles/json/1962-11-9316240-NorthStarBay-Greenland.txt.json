@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A target was inbound at 06399* and was sent to the search area, but ground radar and F-102 aircraft searches did not find any results.",
-    "interesting points": [
-        "The object was detected by ground radar, indicating a 'ground-radar' type of sighting.",
-        "The object was inbound, suggesting it was approaching the location rather than just hovering or moving randomly.",
-        "The search efforts involving a L-20 search and F-102 aircraft were unable to locate the object visually.",
-        "The report mentions that the identification data provided was simply that a 'target was inbound', suggesting limited details were available.",
-        "The conclusion was that there was 'Insufficient data for evaluation', indicating the sighting could not be properly identified or explained."
-    ],
-    "result": "unidentified",
-    "sighted object": "unspecified target detected on radar",
+    "main event": "On November 10, 1962, a moving target was detected inbound by ground radar in North Star Bay, Greenland, with military searches conducted without results.",
+    "interesting points": "The sighting was reported as an inbound moving target at a specific time,The observation lasted for 106 minutes,Military aircraft conducted extensive searches over a large area (approximately 1000 square miles),The report concluded that the target might have been a balloon or aircraft but was classified as insufficient data for evaluation,No photographs were included in the report.",
+    "sighted object": "one unidentified moving target",
     "location": "North Star Bay, Greenland",
-    "witnesses": "ground radar operators",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "military ground radar operators",
+    "contains photographs": false
 }

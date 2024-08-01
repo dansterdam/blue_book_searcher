@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report text, here is the summary in JSON format:
-
 {
-    "main event": "A civilian in Cincinnati, Ohio observed an unidentified flying object on November 20, 1969 for about 30 minutes.",
-    "interesting points": [
-        "The observer requested to complete an Air Force Form 117 on August 13, 1969 but failed to do so as of December 1, 1969.",
-        "The object was described as appearing to be a solid, sharp-edged object with blue lights.",
-        "The observer was asked to complete a questionnaire with detailed questions about the sighting, including the direction, movement, and other characteristics of the object.",
-        "The questionnaire included detailed sketches for the observer to indicate the positions of the object when first and last seen.",
-        "The observer was asked about the lighting conditions, whether they were in a vehicle, and the duration of the sighting."
-    ],
-    "result": "INSUFFICIENT DATA",
-    "sighted object": "one unidentified flying object",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported a sighting of one unidentified flying object in Cincinnati, Ohio on 11/20/1969.",
+    "interesting points": "The observation lasted for 30 minutes,The object was last seen in the southwest direction,The observer failed to complete the required AF Form 117 after the sighting,There was no physical evidence or photographs of the sighting,The conclusion of the report indicated insufficient data for further investigation.",
+    "sighted object": "an unidentified flying object",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

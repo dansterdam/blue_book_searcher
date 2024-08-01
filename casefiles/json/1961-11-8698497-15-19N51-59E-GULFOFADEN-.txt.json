@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A very bright unidentified object was observed over the Gulf of Aden.",
-    "interesting points": [
-        "The object was initially sighted bearing 328 true at a position angle of 42 degrees.",
-        "The object appeared to hesitate and follow an erratic course directly overhead.",
-        "The object was observed for approximately 23 minutes before being lost from sight.",
-        "The object was last observed bearing 143 true at a position angle of 35 degrees.",
-        "The report attributes the erratic course and hesitation to atmospheric turbulence, suggesting a natural phenomenon."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A very bright unidentified object",
-    "location": "Gulf of Aden, 15.1°N 51.5°E",
-    "witnesses": "Military personnel",
-    "photographs": "No, the report does not include any photographs"
+    "main event": "A very bright unidentified object was observed over the Gulf of Aden on November 28, 1961.",
+    "interesting points": "The object was observed to rise with a white lightning appearance., The object was on a course of 140° and later appeared to hesitate overhead., The sighting lasted approximately 20 minutes., The observer believed it to be an optical illusion due to atmospheric turbulence., The object was initially sighted bearing 328 true and lost from sight at bearing 143 true.",
+    "sighted object": "one very bright unidentified object",
+    "location": "Gulf of Aden",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military observer",
+    "contains photographs": false
 }

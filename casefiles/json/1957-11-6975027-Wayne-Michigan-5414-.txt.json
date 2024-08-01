@@ -1,15 +1,9 @@
 {
-    "main event": "A blurry, indistinct photograph of a crumpled or distorted piece of paper or material was provided in a UFO report.",
-    "interesting points": [
-        "The image appears to show a chaotic, abstract pattern of light and dark areas.",
-        "The report is dated November 25, 1957 and is from Wayne, Michigan.",
-        "The report is labeled as 'File 9414' and '3 photo'.",
-        "The report number is '5414-1957 - 11 - 6975027'.",
-        "No other details about the sighting or event are provided in the information given."
-    ],
-    "result": "unexplained",
-    "sighted object": "Blurry, indistinct photograph of an unidentified object",
-    "location": "Wayne, Michigan",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes a blurry, indistinct photograph"
+    "main event": "A report was filed regarding a UFO sighting in Wayne, Michigan on November 25, 1957.",
+    "interesting points": "The report includes a black and white photograph of a crumpled or distorted piece of material,The image is blurry and has an abstract pattern of light and dark areas.,The report is cataloged as file number 9414.,The date of the incident is noted as November 25, 1957.,The report does not contain a detailed explanation of the sighting except for the image.",
+    "sighted object": "crumpled or distorted piece of material",
+    "location": "Wayne, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witness details provided",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported on 8-6-57 in Hollywood & Van Nuys, California at 1900 hrs. The object was described as bright pink, losing altitude, and eventually disappearing. The consensus was that it could possibly be a drone or small aircraft.",
-  "interesting points": [
-    "The UFO was described as having a stubby delta wing, smaller than a jet, and bright pink in color.",
-    "The observation was made using ground-radar and lasted approximately 3 minutes.",
-    "The sighting was reported by the Senior Director 1st LT House, who suggested that it could be a drone aircraft.",
-    "The object was seen over a mountain range, slowing its speed and losing altitude before disappearing.",
-    "The report suggests that the UFO might have been a possible drone or small aircraft, indicating a prosaic explanation for the sighting."
-  ],
-  "result": "prozaic explanation",
-  "sighted object": "bright pink UFO",
-  "location": "Hollywood & Van Nuys, Calif.",
-  "witnesses": "Senior Director 1st LT House",
-  "photographs": "no"
+    "main event": "A bright pink object was observed losing altitude and disappearing in the sky.",
+    "interesting points": "The sighting occurred near Hollywood and Van Nuys, California at 1900 hrs., The observation lasted approximately 3 minutes., The object was described as having a stubby delta wing and being smaller than a jet., The consensus among observers was that it could be a drone or a small ATV., No photographs were included with the report.",
+    "sighted object": "a bright pink object",
+    "location": "Hollywood, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "ground-based observation with radar and visual confirmation",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person in Laredo, Texas reported seeing a strange object with two blinking lights in the sky on October 19, 1965 around 7:15 PM.",
-    "interesting points": [
-        "The object had a glow about 4 feet long and 2 feet wide, and was about 200 yards away.",
-        "The object slowed down and seemed to fade into the distance as it got further away.",
-        "The object made no sound.",
-        "The person stopped their car to watch the object go further away.",
-        "The report was submitted to the Air Force's Project Blue Book investigation into UFOs."
-    ],
-    "result": "unexplained",
-    "sighted object": "an object with two blinking lights",
-    "location": "Laredo, Texas",
-    "witnesses": "one civilian",
-    "photographs": "none"
+    "main event": "A civilian observer reported seeing a small, bright light near Laredo, Texas, that resembled a jet but behaved unusually.",
+    "interesting points": "The observer stated that the light appeared stationary for about 15 minutes before moving rapidly out of sight,No sound was heard during the observation,The observer was unable to make a positive identification of the object,This report is part of the Project Blue Book investigation into UFO sightings,The report includes multiple references to other unidentified sighting reports.",
+    "sighted object": "small, bright light",
+    "location": "Laredo, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

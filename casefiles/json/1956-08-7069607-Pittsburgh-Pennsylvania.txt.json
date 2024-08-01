@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted in Pittsburgh, Pennsylvania on 18 August 1956 and observed for 2-3 minutes with a pendulum swinging motion at 10,000 feet altitude.",
-    "interesting points": [
-        "The object was observed visually for 1 hr 45 minutes, indicating a prolonged sighting.",
-        "The report suggests different possible explanations for the observed object: balloon, meteor, or possibly aircraft.",
-        "Although there were no photographs, the observation was categorized as a 2-Ground-Visual type.",
-        "The location of the sighting, Pittsburgh, Pennsylvania, is notable due to its urban nature.",
-        "The object's course was described as 'Condudum', which adds to the mystery of the sighting."
-    ],
-    "result": "possible explanations include balloon, meteor, or possibly aircraft",
-    "sighted object": "a UFO with pendulum swinging motion at 10,000 feet altitude",
-    "location": "Pittsburgh, Pennsylvania",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "An object was observed for 1 hour and 45 minutes with a pendulum swinging motion at an altitude of 10,000 feet.",
+    "interesting points": "The observation lasted for 2-3 minutes initially before extending to nearly 2 hours.,The object was sighted at arm's length.,The possible explanations include a balloon, meteor, or aircraft.,The report does not contain any photographs.,The observation type was categorized as Ground-Visual.",
+    "sighted object": "an unidentified object with a pendulum swinging motion",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observed the object visually",
+    "contains photographs": false
 }

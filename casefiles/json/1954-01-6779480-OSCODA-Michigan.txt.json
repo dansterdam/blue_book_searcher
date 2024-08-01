@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A single round, black object with a lighted rim was observed by an airman at Oscoda, Michigan on January 6, 1954.",
-    "interesting points": [
-        "The object was initially mistaken for the moon, but was clearly outlined and had no noise or exhaust.",
-        "The object remained stationary for approximately 15 minutes before making a 3-degree upward and 7-degree right turn, then continued straight away until it disappeared.",
-        "The object was observed at an angle of 25 degrees when first seen and upon disappearance.",
-        "The weather conditions at the time included heavy clouds, slight breeze, and dry and cold temperatures.",
-        "The report indicates there was no air traffic in the area at the time of the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "single round, black object with a lighted rim",
-    "location": "Oscoda, Michigan",
-    "witnesses": "A/2C Gordon E. Bruebach, 527th Air Police Squadron",
-    "photographs": "none"
+    "main event": "An observation of a ground radar sighting of a round black object with a lighted rim in Oscoda, Michigan on January 6, 1954.",
+    "interesting points": "The object was observed for 15 minutes and appeared stationary before moving slightly,The object had sharp edges and emitted no noise or exhaust,Initial impressions suggested it could be the moon but it was at a steep angle,No confirmed data identified it as a balloon or aircraft,The sighting occurred during nighttime with heavy cloud cover.",
+    "sighted object": "one round black object with a lighted rim",
+    "location": "Oscoda, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witnesses": "A/2C Gordon E. Bruebach from the 527th Air Police Squadron",
+    "photographs": false
 }

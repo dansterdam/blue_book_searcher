@@ -1,15 +1,9 @@
 {
-    "main event": "A possible meteor observation near Harrisburg, Pennsylvania on August 23, 1955.",
-    "interesting points": [
-        "The object was small, changing colors, and moving at high speed.",
-        "The object wobbled along its path from north to south.",
-        "The object disappeared in the city lights, and then disappeared instantly a second time.",
-        "The observation lasted approximately 16 seconds each time.",
-        "The report includes surface weather data and radar readings, but no photograph."
-    ],
-    "result": "inconclusive",
-    "sighted object": "small object changing colors and disappearing at high speed",
-    "location": "Near Harrisburg, Pennsylvania",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "On August 23, 1955, a potential UFO was observed near Harrisburg, Pennsylvania.",
+    "interesting points": "The observation lasted for about 10 seconds,The object was described as small, changing colors, and disappearing at high speed,The observer was watching stars at the time of the sighting,The object wobbled along its path from north to south,The sighting was classified as a possible meteor observation but lacked sufficient data for evaluation.",
+    "sighted object": "small object changing colors",
+    "location": "Harrisburg, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer watching stars",
+    "contains photographs": false
 }

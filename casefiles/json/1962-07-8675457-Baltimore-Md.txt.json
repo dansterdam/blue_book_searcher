@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Two circular objects were sighted, traveling at a high rate of speed, blinking on and off at irregular intervals, in a straight-line path, with no trail.",
-    "interesting points": [
-        "The objects appeared to be as large as a car and seemed to be about 5 miles away, at an altitude of around 10,000 feet.",
-        "The objects were observed visually and also tracked on ground radar, but no airplanes were found in the area.",
-        "The witnesses described the objects as round, white in color, and blinking on and off in an irregular manner.",
-        "The sighting lasted about 2 minutes.",
-        "There were also reports of a blue-green balloon-shaped object moving in a northeastern direction against the wind, as well as a large object approximately 300 feet in diameter observed near and around Andrews Air Force Base."
-    ],
-    "result": "unexplained",
-    "sighted object": "two circular objects and a blue-green balloon-shaped object",
-    "location": "near Friendship Airport, Baltimore, MD",
-    "witnesses": "civilian observers and military personnel",
-    "photographs": "no"
+    "main event": "Two circular objects were sighted in the sky traveling at a high speed, appearing to blink on and off at irregular intervals.",
+    "interesting points": "The objects were described as round and white in color, appearing to be as large as a car,The sighting lasted approximately 2 minutes and occurred at an altitude of about 10,000 feet,The objects were tracked visually as well as on ground radar,Airplanes in the area were checked, and no aircraft were found,The sighting took place near Friendship Airport in Baltimore, MD.",
+    "sighted object": "two circular, blinking objects",
+    "location": "Baltimore, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. Adult, housewife, fair complexion",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An unidentified object was observed over Barbados, West Indies on September 1, 1962.",
-    "interesting points": [
-        "The object was described as being approximately 30 feet in diameter and a vivid red-orange color.",
-        "The object was observed for a period of 3 to 5 minutes before disappearing from view.",
-        "The object displayed erratic maneuvering characteristics and appeared to be under intelligent control.",
-        "The witness was on vacation in Barbados at the time and several neighbors and friends in the area also observed the object.",
-        "The object appeared to approach from the south at a rapid rate, then abruptly changed direction to the west and accelerated rapidly, disappearing from view in seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, red-orange object approximately 30 feet in diameter",
-    "location": "Barbados, West Indies",
-    "witnesses": "multiple witnesses, including the report filer",
-    "photographs": "no"
+    "main event": "An unidentified flying object that was described as a vivid red-orange sphere was observed over Barbados, BWI on 7 March 1962.",
+    "interesting points": "The object was about 30 feet in diameter and displayed erratic maneuvering, appearing to be under intelligent control., The object was observed for 3 to 5 minutes before disappearing from view., The witness reported a rapid approach at an estimated speed of 600-800 mph., This sighting was shared by several neighbors and friends who discussed it afterwards., Telephonic information was received from an unnamed source regarding the sighting the same evening.",
+    "sighted object": "one vivid red-orange sphere",
+    "location": "Barbados, BWI",
+    "number of confirmed witnesses": 5,
+    "witness description": "a vacationer in Barbados, along with several neighbors and friends",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A sighting of a fast-moving white object traveling from south to north in Berlin, Germany on 23rd September 1948.",
-  "interesting points": [
-    "The sighting was reported to have occurred at 1630 hours.",
-    "The object was described as white and moving rather fast.",
-    "There were no photographs or sketches included with the report.",
-    "The report is labeled as 'Temporary ATIC Form 329' from 2nd June 1952, indicating it was part of the Air Technical Intelligence Center's records.",
-    "The report indicates that the sighting occurred during the post-World War II era in a location of historical significance."
-  ],
-  "result": "unexplained",
-  "sighted object": "fast-moving white object",
-  "location": "Berlin, Germany",
-  "witnesses": "unknown",
-  "photographs": "no"
+    "main event": "A sighting of a fast-moving white object occurred in Berlin, Germany on 23 September 1948.",
+    "interesting points": "The sighting took place at 1630., The object was reported to be a single white point., The course of the object was from south to north., The object's speed was described as rather fast., No photographs or sketches were included in the report.",
+    "sighted object": "a white point",
+    "location": "Berlin, Germany",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A naval ship spotted an unidentified flying object in the sky in 1962.",
-    "interesting points": [
-        "The object was described as a first magnitude star-like object that was white in color.",
-        "The object moved in relation to the stars, with a 33-degree course change and a 25-degree elevation change.",
-        "The object disappeared into low clouds near the horizon after being observed for 25 minutes.",
-        "The sighting was confirmed by multiple crew members, including the commanding officer, who were described as reliable witnesses.",
-        "No radar tracking of the object was reported."
-    ],
-    "result": "unexplained",
-    "sighted object": "a first magnitude star-like object",
-    "location": "Bridge of a ship at 18-25N, 155-47W",
-    "witnesses": "Lieutenant, Chief Warrant Officer, and Commanding Officer",
-    "photographs": "none"
+    "main event": "A naval message reported the sighting of an unidentified flying object resembling a first magnitude star on July 23, 1962.",
+    "interesting points": "The sighting lasted for twenty-five minutes., The object was observed by the bridge crew of USS Falgout and confirmed by the commanding officer., The object disappeared into low clouds near the horizon., The sighting occurred on a bright moonlit night with seven tenths cloud coverage., The course of the object was east-northeast.",
+    "sighted object": "object resembling a first magnitude star",
+    "location": "USS Falgout, at sea",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members including 1LT and CWO",
+    "contains photographs": false
 }

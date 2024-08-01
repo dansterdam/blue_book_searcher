@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A pilot at Shaw AFB spotted a round, silver object moving at a high rate of speed in a northwesterly direction on July 13, 1953 around 10:10 PM.",
-    "interesting points": [
-        "The object was observed through a telescopic sight on an M-1 Gun Sight for approximately one minute.",
-        "The object appeared to be larger than a star and was estimated to be at an altitude of 35,000 feet.",
-        "The object moved at a high rate of speed and disappeared from view after about one minute.",
-        "No trail or exhaust was observed, and the weather was clear with no other aircraft or objects in the vicinity.",
-        "The pilot had a significant amount of night flying experience but had never seen anything like this object before."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, silver object",
-    "location": "Shaw AFB, South Carolina",
-    "witnesses": "pilot",
-    "photographs": "none"
+    "main event": "On 13 July 1953, an unidentified circular object was observed at Shaw AFB, South Carolina, for approximately 7 seconds.",
+    "interesting points": "The object was described as circular with an estimated diameter of 15 to 20 feet,The object appeared to travel at a high rate of speed and was at an altitude of approximately 1000 to 2000 feet,No sound was heard during the observation.,The sighting occurred at around 2100 EST,No physical evidence was found following the sighting.",
+    "sighted object": "one circular object",
+    "location": "Shaw AFB, South Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a jet pilot instructor with considerable flight experience",
+    "contains photographs": false
 }

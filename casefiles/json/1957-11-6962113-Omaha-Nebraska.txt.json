@@ -1,15 +1,9 @@
 {
-    "main event": "A round, blue flash of light that seemed to get brighter was observed in Omaha, Nebraska on November 23, 1957.",
-    "interesting points": [
-        "The object was stationary in the sky.",
-        "The observer was coming home from the store when they saw the object.",
-        "The object was observed for an unknown duration, but it was still in sight.",
-        "The report indicates the sighting was checked against Omaha Tower, which believed the object was likely the planet Venus.",
-        "An astro plot confirmed Venus was in the southwest sky at the time of the sighting, approximately 30 degrees above the horizon."
-    ],
-    "result": "Possibly Astronomical (Venus)",
-    "sighted object": "round, blue flash of light",
-    "location": "Omaha, Nebraska",
-    "witnesses": "civilian, unspecified",
-    "photographs": "no"
+    "main event": "A civilian observed a round, blue flash of light that seemed to get brighter in Omaha, Nebraska on November 23, 1957.",
+    "interesting points": "The sighting lasted for an extended period and the object was stationary., The observer was returning home from the store when the sighting occurred., The report identified the object as a single round blue light., An astro plot shows Venus was in the southwest at the time of the sighting and approximately 30° above the horizon., Military communication noted that the object was possibly astronomical and referenced Venus.",
+    "sighted object": "a round blue flash of light",
+    "location": "Omaha, Nebraska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. ███████████, a 34-year-old housewife from Omaha",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A metallic, reflecting object of indefinite shape, size, or apparent size was observed for approximately 5 seconds at a very high altitude near Milan, Missouri.",
-    "interesting points": [
-        "The object was observed by Lt Col. [REDACTED] and three enlisted men while they were driving from Milan, Missouri to Fort Leonard Wood, Missouri.",
-        "The object was described as disc-shaped, estimated to be 40-50 feet in diameter, and was observed to be hovering or stationary at an estimated altitude of 1,000 to 1,500 feet.",
-        "The object remained in view for approximately 2 to 3 minutes, then accelerated at a very high rate of speed and disappeared from sight.",
-        "The weather was clear and the visibility was excellent, but the object emitted no sound and left no vapor trail.",
-        "Lt Col. [REDACTED] stated that the object was not an aircraft, weather balloon, or any other known aerial object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a metallic, reflecting object of indefinite shape, size, or apparent size",
-    "location": "Near Milan, Missouri",
-    "witnesses": "Lt Col. [REDACTED] and three enlisted men",
-    "photographs": "no"
+    "main event": "Lt Col and three enlisted men observed a disc-shaped unidentified flying object near Milan, Missouri on 6 January 1955.",
+    "interesting points": "The object was estimated to be about 40-50 feet in diameter,The object was hovering at an altitude of 1,000 to 1,500 feet,The sighting lasted for approximately 2 to 3 minutes,The object accelerated at a very high rate of speed and disappeared from sight,The object emitted no sound and left no vapor trail.",
+    "sighted object": "disc-shaped flying object",
+    "location": "Milan, Missouri, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Lt Col and three enlisted men",
+    "contains photographs": false
 }

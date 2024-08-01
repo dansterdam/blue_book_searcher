@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A star-like object was observed changing colors over a 10-15 minute period in Center Moriches, Long Island, New York on October 27, 1966.",
-    "interesting points": [
-        "The object kept changing colors every 15-20 seconds.",
-        "The witnesses initially thought the object was a bright star, but then noticed it was changing colors.",
-        "One of the witnesses compared the object to the star Capella, and said that was what he had seen.",
-        "The object was stationary and did not move during the observation.",
-        "There was no physical evidence or photographs taken of the object."
-    ],
-    "result": "Identified as the star Capella",
-    "sighted object": "A star-like object that kept changing colors",
+    "main event": "Observers reported seeing a star-like object that changed colors over 10-15 minutes.",
+    "interesting points": "The object was observed for about 10-15 minutes,The object changed colors every 15-20 seconds,One witness compared the object to the star Capella,The object remained stationary during the observation, The sky was clear at the time of the sighting.",
+    "sighted object": "star-like object changing colors",
     "location": "Center Moriches, Long Island, New York",
-    "witnesses": "Two civilian observers",
-    "photographs": "No photographs were taken"
+    "number of confirmed witnesses": 1,
+    "witness description": "A 20-year-old college student.",
+    "contains photographs": false
 }

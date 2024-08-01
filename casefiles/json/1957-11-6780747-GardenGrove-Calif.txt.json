@@ -1,15 +1,9 @@
 {
-    "main event": "A round object was seen moving rapidly towards a balloon in Garden Grove, California.",
-    "interesting points": [
-        "The object was observed for 15 minutes.",
-        "The report comes from a Project Blue Book UFO Index Card.",
-        "The report contains limited details, with most fields left blank.",
-        "There are no photographs included with the report.",
-        "The final classification is listed as 'UNKNOWN'."
-    ],
-    "result": "unknown",
-    "sighted object": "round object",
-    "location": "Garden Grove, California",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "A round object was observed moving rapidly toward a balloon in Garden Grove, California.",
+    "interesting points": "The sighting lasted for 15 minutes,The object was described as round,There was no mention of any additional witnesses,The object was observed in clear weather,The report comes from Project Blue Book archives.",
+    "sighted object": "one round object",
+    "location": "Garden Grove, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "unknown",
+    "contains photographs": false
 }

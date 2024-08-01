@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A dark, top-shaped object was sighted in the sky near Leonape, Pennsylvania on September 23, 1955.",
-    "interesting points": [
-        "The object was described as being the size of a baseball.",
-        "The object was observed for 3-5 minutes and then disappeared.",
-        "The observer used binoculars to view the object.",
-        "Weather balloons released in the area around the time of the sighting were considered as a possible explanation for the object.",
-        "The report includes a hand-drawn sketch of the object's formation."
-    ],
-    "result": "Unknown",
-    "sighted object": "A dark, top-shaped object",
-    "location": "Leonape, Pennsylvania",
-    "witnesses": "1 civilian observer",
-    "photographs": "No"
+    "main event": "On 23 September 1955, a sighting of a dark object, shaped like a toy top, was reported in Leonape, Pennsylvania for a duration of 3-5 minutes.",
+    "interesting points": "The object was described as dark and resembling a toy top with something underneath it,The sighting lasted between 3 to 5 minutes,No photographs were taken of the object, The object was suspected to possibly be a balloon due to its characteristics and the observations made, The report concludes that the object was likely caused by a weather balloon released earlier that day.",
+    "sighted object": "dark object shaped like a toy top",
+    "location": "Leonape, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. Leonape Road, RFD 2, West Chester, Pennsylvania, age 33, housewife with good vision",
+    "contains photographs": false
 }

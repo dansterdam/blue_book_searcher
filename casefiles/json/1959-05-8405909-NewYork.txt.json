@@ -1,15 +1,9 @@
 {
-    "main event": "Three objects were observed in the sky over New York on May 2, 1959, including a tear-drop shaped shining object, a squarish/round bluish-white object, and an object tracked on radar.",
-    "interesting points": [
-        "The tear-drop shaped object disappeared with darkness and was observed for 45 minutes.",
-        "The squarish/round bluish-white object was the size of a silver dollar and moved in a southwesterly direction, observed for 30 minutes.",
-        "The radar tracked an object with no logical sequence of movement, but mostly within a 35 nautical mile radius of Bradley Field, with a permanent fade-out after 1 hour and 8 minutes.",
-        "The pilot indicated the object was moving generally southeast.",
-        "The ATIC concluded the object was probably a balloon, based on the reported wind velocity and the object's movement further east over time."
-    ],
-    "result": "Probably a balloon",
-    "sighted object": "Three objects - a tear-drop shaped shining object, a squarish/round bluish-white object, and an object tracked on radar",
-    "location": "New York",
-    "witnesses": "Civilian, FAA controller, and radar operators",
-    "photographs": "No"
+    "main event": "A civilian reported observing a teardrop-shaped, shining object disappearing and appearing in the sky, with a duration of sighting approximately 45 minutes.",
+    "interesting points": "The object was described as shining and tear-drop shaped., The object initially appeared squarish and then became round., The object was the size of a silver dollar and bluish-white., The congressional report speculates the object was probably a balloon., There were multiple reports indicating various shapes and durations of sighting.",
+    "sighted object": "teardrop-shaped shining object",
+    "location": "Poughkeepsie, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, First Officer on a Trans-Canada Airlines flight",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Three objects with a slightly red cast were seen moving from west to east and were in sight for 5 minutes.",
-    "interesting points": [
-        "The objects were seen moving in a west to east direction.",
-        "The objects had a slightly red cast.",
-        "The sighting lasted for 5 minutes.",
-        "No report is available in the file.",
-        "The sighting was concluded to be possibly an aircraft."
-    ],
-    "result": "possibly aircraft",
+    "main event": "Three objects with a slightly red cast were seen moving West to East in Paris, Illinois in November 1957.",
+    "interesting points": "The sighting lasted for five minutes.,The objects were observed moving in a consistent direction.,Three objects were reported in total.,There is a probability that the objects were aircraft based on the observations.,No photographs were available for this sighting.",
     "sighted object": "three objects with a slightly red cast",
-    "location": "Paris, Illinois",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Paris, Illinois, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

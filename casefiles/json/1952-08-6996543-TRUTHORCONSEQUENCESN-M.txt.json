@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A man observed a formation of strange lights in the sky near Truth or Consequences, New Mexico on August 3, 1952.",
-    "interesting points": [
-        "The objects were greenish-white in color and did not glow.",
-        "The objects made an intricate change in formation, with one object turning 180 degrees on its axis and moving over the other two objects.",
-        "The objects then ascended rapidly, with the first object ascending and the other two following in a similar manner.",
-        "The observer counted to 29 seconds during the time the first object ascended and the last one moved to follow.",
-        "Only one side of each object seemed to be luminous."
-    ],
-    "result": "unexplained",
-    "sighted object": "three greenish-white elliptical objects",
-    "location": "Truth or Consequences, New Mexico",
-    "witnesses": "one civilian man",
-    "photographs": "no"
+    "main event": "A civilian man observed a formation of strange orange lights hovering in the sky over Truth or Consequences, New Mexico on August 3, 1952.",
+    "interesting points": "The lights hovered and made formation changes before ascending at rapid speed., The observer estimated the objects were about the size of a jet fighter and located approximately 6 or 7 miles away., The observation lasted for about 9 minutes., The reliability of the observer is considered good., The lights were seen in the vicinity of an airport which has a rotating light beacon.",
+    "sighted object": "formation of orange lights in the sky",
+    "location": "Truth or Consequences, New Mexico, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian man who is also the airport director",
+    "contains photographs": false
 }

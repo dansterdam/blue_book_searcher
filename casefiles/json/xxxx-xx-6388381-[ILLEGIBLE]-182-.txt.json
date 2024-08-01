@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the report text:
-
 {
-    "main event": "An unidentified flying object was observed in the sky over Crescent City, California on October 17, 1944.",
-    "interesting points": [
-        "The object was in sight for several minutes, too long to be a meteor.",
-        "The object made a banking turn of 45 degrees and appeared to reflect sunlight very strongly.",
-        "The speed of the object was great but not excessive.",
-        "The object could have been an advertising balloon, a regular balloon, or an aircraft, but the banking turn seems to rule out a balloon.",
-        "The observers had no technical training but their reports were remarkably consistent."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified flying object",
-    "location": "Crescent City, California",
-    "witnesses": "four observers",
-    "photographs": "no photographs included in the report"
+    "main event": "An unidentified flying object (UFO) was reported in Crescent City, California on October 17, 1944, observed by four witnesses.",
+    "interesting points": "The object made a 45° banking turn and reflected sunlight strongly,The witnesses had no technical training but provided consistent reports,The sighting lasted several minutes, ruling out meteor identification,The object could have been a balloon or aircraft, but its maneuver did not fully support this theory,No photographs were included in the reports.",
+    "sighted object": "one oval object",
+    "location": "Crescent City, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Observers included locals with varying backgrounds and occupations.",
+    "contains photographs": false
 }

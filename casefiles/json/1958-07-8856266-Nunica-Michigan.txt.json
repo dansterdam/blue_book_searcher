@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A resident of Crockery Township, Nunica, Michigan observed an unidentified flying object on July 25, 1958.",
-    "interesting points": [
-        "The object was round, apparently solid, and colored white and red, the size of a small automobile.",
-        "The object was first spotted at an altitude of about 500 feet above the trees, moving in a straight line at a high speed.",
-        "The observer watched the object for about six minutes as it flew over her home and disappeared over the tree line.",
-        "The observer is reported to have many hours as an observer for the Ground Observer Corps.",
-        "The incident is considered to be of sufficient interest to warrant an official report."
-    ],
-    "result": "Unidentified",
-    "sighted object": "Round, apparently solid object, colored white and red, the size of a small automobile",
-    "location": "Crockery Township, Nunica, Michigan",
-    "witnesses": "Civilian resident",
-    "photographs": "None"
+    "main event": "A resident of Crockery Township, Nunica, Michigan, observed an unidentified flying object on the evening of 25 July 1958.",
+    "interesting points": "The object was round, solid, and appeared to be white and red,The size of the object was comparable to that of a small automobile,The observer saw the object at an altitude of about 500 feet and watched it for approximately six minutes,The object flew in a straight line at high speed before disappearing over the tree line,The weather conditions were clear during the sighting.",
+    "sighted object": "a round, solid object, white and red in color",
+    "location": "Nunica, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a resident of Crockery Township with many hours as an observer for the GOC",
+    "contains photographs": false
 }

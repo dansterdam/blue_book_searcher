@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Civilians observed several orange and white-colored objects flying in the sky near Mt. Airy, North Carolina.",
-    "interesting points": [
-        "The objects were observed moving at a rapid rate, traveling in formation, and making sudden turns and maneuvers.",
-        "The witnesses described the objects as having a slight white 'wing' or appendage.",
-        "The report suggests the objects could have been jet aircraft conducting night training flights in the area.",
-        "Another sighting was reported a few days later, involving a large, hovering blue-white object that suddenly started moving and disappeared into the night sky.",
-        "Attempts were made to photograph the objects, but the pictures did not turn out clearly due to the high speed of the objects."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Orange and white-colored objects, as well as a large blue-white hovering object",
+    "main event": "Observers reported seeing two orange colored objects with white wings flying side by side, and a third object joined them while moving in formation.",
+    "interesting points": "The objects were observed traveling at a rapid rate and maintained a horizontal plane before turning south,The weather conditions were clear with no clouds and no moon during the observation,It is possible that the witnesses observed jet aircraft during night training flights,The witness described the objects as being bright orange and resembling aircraft,No photographs were taken during the sightings.",
+    "sighted object": "two orange colored objects with slight white wings",
     "location": "Mt. Airy, North Carolina",
-    "witnesses": "Civilians",
-    "photographs": "Yes, but the photographs were blurred due to the high speed of the objects"
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians, including a son and a night operator at a telephone office",
+    "contains photographs": false
 }

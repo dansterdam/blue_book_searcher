@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A military observer spotted a comet-like object with a yellowish tail over Ft. Bliss, Texas on May 19, 1961.",
-    "interesting points": [
-        "The object was observed for approximately 2-3 seconds before disappearing behind rolling hills.",
-        "The object appeared to be grayish-white in color, turning khaki brown when in a hover, with a forked trail that was 10-12 inches long.",
-        "The diameter of the object appeared to be equal to half the moon's diameter.",
-        "No sound was heard from the object.",
-        "The observer followed the object through a newly purchased 6x telescope, but the rapid movement and immediate disappearance behind the skyline made it impossible to follow with the telescope."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "comet-like object with yellowish tail",
-    "location": "Ft. Bliss, Texas",
-    "witnesses": "military observer, Specialist 5 (E-5) Donald R. Whaley",
-    "photographs": "no"
+    "main event": "A comet-like object with a yellowish tail was observed for about 2-3 seconds before disappearing behind rolling hills.",
+    "interesting points": "The object had a diameter appearing equal to that of a half moon.,The object's color changed from grayish-white to khaki brown when hovering.,The object displayed a forked appearance in its trail.,The observer was military personnel and considered highly reliable by superiors.,No sound was heard during the sighting.",
+    "sighted object": "comet-like object with a yellowish tail",
+    "location": "Ft. Bliss, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military specialist, highly reliable",
+    "contains photographs": false
 }

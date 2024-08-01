@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "An unidentified flying object (UFO) was sighted over Clarkston, Michigan on December 6, 1959.",
-    "interesting points": [
-        "The object was described as a white, egg-shaped object the size of a grapefruit, and four times brighter than city lights.",
-        "The object was observed for 3-4 hours, moving from north to south.",
-        "The report was not submitted until 6-7 months after the incident, and the information was considered very sketchy.",
-        "The investigators concluded the object was most likely a weather balloon, based on the weather conditions and balloon trajectory data.",
-        "The report included a 35mm color slide photograph of the UFO, which was copied and the original returned to the observers."
-    ],
-    "result": "Likely a weather balloon",
-    "sighted object": "White, egg-shaped object the size of a grapefruit",
-    "location": "Clarkston, Michigan",
-    "witnesses": "Mr. and Mrs. (redacted)",
-    "photographs": "Yes, a 35mm color slide photograph was taken"
+    "main event": "A UFO sighting involving a white, egg-shaped object reported on December 6, 1959, in Clarkston, Michigan.",
+    "interesting points": "The object was described as being the size of a grapefruit and four times brighter than city lights., The sighting lasted for approximately 3-4 hours., The reported course of the object was from north to south., The conclusion suggests the object was probably a weather balloon., Observers included Mr. and Mrs. (name redacted), identified as a drug-store clerk and housewife.",
+    "sighted object": "white, egg-shaped object",
+    "location": "Clarkston, Michigan, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. (name redacted), a drug-store clerk and housewife",
+    "contains photographs": false
 }

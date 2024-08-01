@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Residents of Oxford County, Maine reported unidentified flying objects and physical traces on September 6, 1963.",
-    "interesting points": [
-        "Multiple witnesses reported observing a bright, pulsating light in the sky that changed colors and suddenly accelerated and disappeared.",
-        "One witness, Mr. William Jones, described an oval-shaped object approximately 30-40 feet in diameter at an altitude of 2,000 feet.",
-        "Investigators found no evidence to contradict the witnesses' reports, stating the descriptions were consistent with other UFO sightings in the area.",
-        "One report described a tunnel-like depression in the ground, approximately 20 feet deep and 6 feet in diameter, with a smooth, glassy interior.",
-        "The Air Force was notified and dispatched personnel to investigate the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "Bright lights, oval-shaped object, physical trace",
-    "location": "Oxford County, Maine",
-    "witnesses": "Multiple residents, including Mr. William Jones",
-    "photographs": "Yes, the report includes several black and white photographs"
+    "main event": "Witnesses reported observing unidentified flying objects in Oxford County, Maine, on September 6, 1963.",
+    "interesting points": "Multiple witnesses described seeing a bright light in the sky that changed colors and accelerated quickly., Mr. William Jones estimated the object's altitude to be around 2,000 feet with no sound associated., The object was described as oval and approximately 30-40 feet in diameter., Sightings in the area are consistent with similar reports from the past., Physical traces included a tunnel-like depression in the ground that measured approximately 20 feet in depth.",
+    "sighted object": "bright light in the sky",
+    "location": "Oxford County, Maine, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mr. William Knox and Mr. William Jones, among others",
+    "contains photographs": true
 }

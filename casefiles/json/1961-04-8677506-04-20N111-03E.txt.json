@@ -1,15 +1,9 @@
 {
-    "main event": "The report describes a sighting of an unidentified object emitting a yellowish-white light and making sweeps southward along the southern constellation at USAF Clark AFB.",
-    "interesting points": [
-        "The object was observed to be of the second magnitude, meaning it was relatively bright.",
-        "The object was observed for about 12 minutes before it was no longer visible.",
-        "The sighting occurred on a clear, bright night with third moonlight, and the visibility was unlimited.",
-        "There was no unusual activity or known air traffic reported.",
-        "No further evidence was delivered to the CIN (Central Intelligence Network) at the time of the report."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "an unidentified object emitting a yellowish-white light",
-    "location": "USAF Clark AFB",
-    "witnesses": "CO (Commanding Officer), lookout, and CAPT CLOVIS crew",
-    "photographs": "no photograph present in the image"
+    "main event": "An observer reported seeing a second magnitude object emitting yellowish-white light moving southward at Clark Air Force Base.",
+    "interesting points": "The sighting lasted for about 12 minutes,The object was seen at 2345 LST on a clear bright night with third moonlight,No unusual activity or air traffic was reported during the sighting,The object made sweeps along the southern constellation down to 5 degrees elevation,Reported by F.J. Everson and other military personnel.",
+    "sighted object": "an object of second magnitude emitting yellowish-white light",
+    "location": "Clark Air Force Base, USAF Philippines",
+    "number of confirmed witnesses": 3,
+    "witness description": "Captain Clovis and lookout personnel",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-  "main event": "A bright white light, the size of an auto headlight, was seen at an altitude of 9,000 feet several blocks away at Pennerlil AFB, N.F. on June 1, 1957.",
-  "interesting points": [
-    "The sighting lasted approximately 180 seconds.",
-    "The object was described as a bright white light, the size of an auto headlight.",
-    "The object's course was undetermined.",
-    "The report notes the object was 'not ground-controlled but possibly a balloon'.",
-    "The report includes information about additional sightings, including a 'bright, starlike UFO' flying around a 'dark, elongated, cigar-shaped object' near Harlingen, Texas on June 22, 1957."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright white light, size of auto headlight",
-  "location": "Pennerlil AFB, N.F.",
-  "witnesses": "military personnel",
-  "photographs": "yes, the report includes photographs"
+    "main event": "A bright white light, resembling the size of an auto headlight, was observed at Pennerlil AFB, N.F. on June 1, 1957.",
+    "interesting points": "The object was seen at an altitude of 9,000 feet, The sighting lasted approximately 180 seconds, The source of the observation was military, The object was initially thought to be not ground-controlled but possibly a balloon, The sighting was recorded in Project Blue Book.",
+    "sighted object": "a bright white light",
+    "location": "Pennerlil AFB, N.F., Canada",
+    "number of confirmed witnesses": 0,
+    "witness description": "military personnel",
+    "contains photographs": true
 }

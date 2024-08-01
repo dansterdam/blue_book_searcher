@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Observation of a satellite (ECHO II) made in Ohio on March 28, 1966",
-    "interesting points": [
-        "The object appeared as a white light, traveling northerly and southeast.",
-        "The observer stated that it looked like a satellite, and another satellite was also observed.",
-        "The sighting lasted for 5 minutes.",
-        "The observer used a watch to determine the duration of the sighting.",
-        "The sighting was a ground-visual observation."
-    ],
-    "result": "Satellite (ECHO II)",
-    "sighted object": "two white lights",
-    "location": "Eastmont, Ohio",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "Observation of a satellite (ECHO II) in Eastmont, Ohio on March 28, 1966.",
+    "interesting points": "The observation lasted for 5 minutes,The object appeared as a white light,The observer mentioned that it looked like a satellite,Two objects were observed,The course of the objects was both Northerly and Southeastern.",
+    "sighted object": "a white light resembling a satellite",
+    "location": "Eastmont, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer",
+    "contains photographs": false
 }

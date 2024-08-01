@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A luminous disc was observed in the Indian Ocean on June 15, 1963.",
-    "interesting points": [
-        "The disc was observed at an elevation of 30 degrees, bearing 325 degrees in an easterly direction.",
-        "The disc appeared to be moving faster than the ECHO 1 satellite.",
-        "The disc passed through the area without any change in appearance.",
-        "The ECHO 1 satellite was observed 30 minutes later in the same area.",
-        "The sighting lasted for 3-4 minutes."
-    ],
-    "result": "UNIDENTIFIED",
-    "sighted object": "luminous disc",
-    "location": "14-27N 69-57E (Indian Ocean)",
-    "witnesses": "crew of a U.S. Navy aircraft",
-    "photographs": "0"
+    "main event": "A U.S. Navy aircraft reported a sighting of an unidentified flying object over the Indian Ocean on 8 June 1963.",
+    "interesting points": "The object was initially thought to resemble a large high-altitude weather balloon but was later observed to be a metallic disk about 50-60 feet in diameter., The disk hovered at an altitude of approximately 5000 feet before accelerating at a high speed and disappearing in 2-3 seconds., The object emitted no sound, vapor trail, or exhaust., Witnesses included the pilot, co-pilot, and navigator of the aircraft, all of whom agreed it was not any known type of aerial vehicle., The sighting lasted approximately 3-4 minutes and included visual confirmation of a luminous disc.",
+    "sighted object": "metallic disc",
+    "location": "Indian Ocean",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members of a U.S. Navy aircraft",
+    "contains photographs": false
 }

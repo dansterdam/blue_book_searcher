@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An unidentified object was observed in the sky over Chicago, Illinois on May 6, 1954.",
-    "interesting points": [
-        "The object was first noticed as a stationary light in the sky, then began to move, having an elongated shape and bluish color.",
-        "The object seemed to be oscillating or rocking back and forth as it moved from a stationary position to the northeast, then to the northwest, before disappearing from sight.",
-        "The object was observed for approximately 4 minutes through 7x50 binoculars by the reporting officer.",
-        "The sky was clear with only a few scattered clouds, and the object was observed against a dark background.",
-        "The reporting officer was unable to identify the object, stating that it did not appear to be an aircraft, balloon, or any other known object."
-    ],
-    "result": "unexplained",
-    "sighted object": "an elongated, bluish object that oscillated and moved in the sky",
-    "location": "Chicago, Illinois",
-    "witnesses": "reporting officer",
-    "photographs": "yes, the report includes 2 photographs"
+    "main event": "A report on an unidentified flying object sighted in Chicago over a span of several minutes on May 6, 1954.",
+    "interesting points": "The object was first noticed as a stationary light in the sky before moving in various directions., The object had an elongated shape and a bluish color., The sighting lasted for approximately 4 minutes., The reporting officer used binoculars for observation., The conditions during the sighting were clear with few clouds.",
+    "sighted object": "a stationary light that changed into a bluish elongated object",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The reporting officer who observed the object through binoculars.",
+    "contains photographs": false
 }

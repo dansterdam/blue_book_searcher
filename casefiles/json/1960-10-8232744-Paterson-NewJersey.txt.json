@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "The witness observed three different lights in the sky over Paterson, New Jersey in October 1960.",
-    "interesting points": [
-        "The first light was orange in color, the size of a silver dollar, and remained stationary for about 1 minute before traveling in a straight line at high speed and disappearing.",
-        "The second light was a steady, bright light that moved rapidly from the northeast to the southwest and then disappeared.",
-        "The third light was also high in the sky, moving steadily from the northeast to the southwest, but winked out rather than disappearing.",
-        "The witness could not determine the size, distance, or altitude of the lights.",
-        "The report was received by the Air Force Office of Scientific Research in January 1961."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "Three unidentified lights in the sky",
-    "location": "Paterson, New Jersey",
-    "witnesses": "Civilian",
-    "photographs": "None"
+    "main event": "Multiple witnesses observed unusual lights in the sky over Paterson, NJ in October 1960.",
+    "interesting points": "The first light appeared as a steady glow across the horizon lasting about 10 minutes and seemed to descend slowly,Second light was a rapid moving light observed shortly after the first,Third light moved steadily and appeared to wink out rather than disappear,Report suggests that the object could be a meteor, balloon or other unidentified aerial phenomena.",
+    "sighted object": "lights in the sky",
+    "location": "Paterson, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A person who saw multiple lights in the sky and described their movements and characteristics.",
+    "contains photographs": false
 }

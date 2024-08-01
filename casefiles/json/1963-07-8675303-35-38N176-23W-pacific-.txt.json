@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light, the same size as a first magnitude star, was observed moving steadily in the sky.",
-    "interesting points": [
-        "The object was observed for 5 minutes before fading on the horizon.",
-        "The object's location was 35.30N 176.23W in the Pacific Ocean.",
-        "The object was tracked moving in a SSE (south-southeast) direction.",
-        "The object was initially observed to the west and was at an altitude of 45 degrees above the horizon.",
-        "The report evaluated the sighting as potentially being the ECHO I satellite, which was in the position of the observation at the time."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright light, the same size as a first magnitude star",
-    "location": "35.30N 176.23W (Pacific Ocean)",
-    "witnesses": "military",
-    "photographs": "no"
+    "main event": "A bright light, comparable in size to the first magnitude star, was observed moving steadily in the Pacific Ocean on July 16, 1963.",
+    "interesting points": "The sighting lasted for 5 minutes before the object faded at the horizon., The object was observed traveling on a southerly course., The sighting was categorized as a visual observation., The report was sourced from military communications., The satellite ECHO I was evaluated to be the probable cause of the sighting.",
+    "sighted object": "a bright light in the sky",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

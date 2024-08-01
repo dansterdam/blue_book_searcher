@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A person in Aberdean, South Dakota saw a UFO in 1965.",
-    "interesting points": [
-        "The UFO was described as three glowing orbs that were continuously visible for around 2 hours.",
-        "The UFO was brighter than the brightest stars and was described as having a yellow-blue-green color.",
-        "The UFO appeared to stand still at times and then suddenly speed up and rush away.",
-        "The witness, along with their wife, called the nearby Air Base to report the sighting, but they were told they had been seeing things.",
-        "The witness included a rough sketch of the UFO, which showed a crescent or arc shape with an arrow indicating the direction of movement."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Aberdean, South Dakota",
-    "witnesses": "a person and their wife",
-    "photographs": "no"
+    "main event": "A witness reported seeing an unidentified flying object in Aberdean, South Dakota, on April 8, 1965.",
+    "interesting points": "The witness was accompanied by their wife, who also saw the object,The object was in sight for approximately 2 hours and 5 seconds,The object reportedly changed position and went back up after being observed,The witness had a professional background in insurance, contributing credibility to the report,The report was sent to the Air Police Base at Minot, N.D., but was initially dismissed.",
+    "sighted object": "unidentified flying object",
+    "location": "Aberdeen, South Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A 23-year-old male with a B.A. degree, working in an insurance company.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A MAPS C-124 aircraft crew sighted a yellow or amber colored object shaped like a Jack-O-lantern at 25,000 feet near Okinawa, Ryuku Island on February 11, 1955.",
-    "interesting points": [
-        "The object was estimated to be traveling at a speed of 1000 MPH.",
-        "No maneuver was observed by the crew.",
-        "The report considered the sighting as 'unknown' due to the reliability of the crew and good weather conditions, but the data was considered insufficient for a definitive evaluation.",
-        "The case was carried as 'insufficient data' in the Project Blue Book records.",
-        "No further report was found in the FILI (presumably the USAF file) regarding this sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "yellow or amber colored object shaped like a Jack-O-lantern",
+    "main event": "A USAF aircraft crew sighted a yellow or amber colored object shaped like a Jack-O-lantern flying at 25,000 feet on February 11, 1955.",
+    "interesting points": "The object was estimated to be flying at a speed of 1000 MPH,No maneuvering of the object was observed, The weather conditions were reported as good, The sighting was documented by an ex-military sergeant, The case was deemed to have insufficient data for evaluation.",
+    "sighted object": "yellow or amber colored object shaped like Jack-O-lantern",
     "location": "Near Okinawa, Ryuku Island",
-    "witnesses": "MAPS C-124 aircraft crew",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "USAF aircraft crew",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-  "main event": "A small object was sighted in the sky at Ridgefield, New Jersey on August 9, 1964.",
-  "interesting points": [
-    "The case was under investigation by Project Blue Book, a U.S. Air Force program that investigated UFO sightings.",
-    "The report indicates that the investigators were not yet able to provide any details about the sighting.",
-    "The investigators promised to advise the requester of the results of their inquiry as soon as they were available.",
-    "A follow-up letter dated August 13, 1964 stated that the investigators could not find any further information on the sighting.",
-    "The investigator, Major Milton W. Jacke, was from the Ohio Admiration Division of Project Blue Book at Wright-Patterson A.F.B."
-  ],
-  "result": "under investigation, no conclusion provided",
-  "sighted object": "a small object in the sky",
-  "location": "Ridgefield, New Jersey",
-  "witnesses": "unspecified",
-  "photographs": "no photographs present"
+    "main event": "A UFO sighting report from Ridgefield, New Jersey on August 9, 1964 regarding a small object sighted in the sky.",
+    "interesting points": "The sighting report is linked to Project Blue Book, which investigated UFOs,The case is under investigation, but details are not yet available, The response from Major Milton W. Jacke indicates no additional information could be found, The report references a sighting on July 13, 1964 that may be related, The image shows a standard form used for UFO reports.",
+    "sighted object": "small object in the sky",
+    "location": "Ridgefield, New Jersey, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

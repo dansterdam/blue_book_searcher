@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A ring-shaped object, the size of a pea, with short trails on the ends was observed in the sky near Colorado Springs, Colorado.",
-  "interesting points": [
-    "The object had characteristics of a 'halo'.",
-    "The report states there was 'insufficient data' to evaluate the sighting.",
-    "The sighting was reported to have lasted 1-2 minutes.",
-    "The object was observed moving in a northeast direction.",
-    "The sighting was reported by a civilian witness."
-  ],
-  "result": "unknown",
-  "sighted object": "a ring-shaped object with short trails on the ends",
-  "location": "Colorado Springs, Colorado",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A civilian reported observing a ring-shaped object about the size of a pea, displaying short trails on its ends, near Colorado Springs.",
+    "interesting points": "The object was observed for 1-2 minutes,The object was reported to be moving northeast,The observer described the object as having characteristics similar to a halo,Multiple potential explanations were noted: balloon, aircraft, or astronomical phenomenon,The report was deemed to have insufficient data for a proper evaluation.",
+    "sighted object": "ring-shaped object with short trails",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

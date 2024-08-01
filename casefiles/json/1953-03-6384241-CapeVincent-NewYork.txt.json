@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified flying objects were observed over Cape Vincent, New York on multiple occasions in March 1953.",
-    "interesting points": [
-        "The objects were described as low-flying, blue-white discs that moved at a low altitude.",
-        "The objects were visible for approximately 15-30 minutes each time and could be seen through the clouds.",
-        "Four people observed the objects, lending reliability to the report.",
-        "Weather conditions at the time included 8/10 overcast with southwest winds at 11 mph.",
-        "Similar objects had been sighted in the area previously but had not been reported."
-    ],
-    "result": "unexplained",
-    "sighted object": "blue-white disc-shaped objects",
-    "location": "Cape Vincent, New York",
-    "witnesses": "Four civilian observers",
-    "photographs": "None"
+    "main event": "A UFO was observed in the sky over Cape Vincent, New York for approximately 4 hours on March 23, 1953.",
+    "interesting points": "The object was described as a ball of fire with an orange border,The object appeared to hang in the sky at a low altitude,Observers reported seeing the object move towards the north,It was confirmed by at least three people,Visual observations were made during overcast weather conditions.",
+    "sighted object": "unidentified flying object resembling a ball of fire",
+    "location": "Cape Vincent, New York, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Civilians, including at least one U.S. Air Force Officer",
+    "contains photographs": false
 }

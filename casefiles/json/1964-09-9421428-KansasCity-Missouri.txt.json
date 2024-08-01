@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "A witness sighted a satellite descending and slowing to appear stationary in the sky over Kansas City, Missouri.",
-    "interesting points": [
-        "The object's course, lighting, and behavior were consistent with an artificial satellite re-entering the atmosphere.",
-        "The object was described as green and silver, turning to orange.",
-        "The sighting lasted for about 1 minute.",
-        "The observer's reliability was not given.",
-        "No photographs were taken of the object."
-    ],
-    "result": "Astronomical (Satellite)",
-    "sighted object": "one green and silver object that turned orange",
-    "location": "Kansas City, Missouri",
-    "witnesses": "one witness",
-    "photographs": "no"
+    "main event": "A witness observed a satellite descending and slowing to appear stationary in the night sky.",
+    "interesting points": "The observation lasted for about 2 minutes.,The satellite's course was described as straight.,Lighting and behavior were consistent with an artificial satellite re-entering the atmosphere.,The object changed colors from green and silver to orange during the sighting.,The report concluded the sighting to be astronomical in nature.",
+    "sighted object": "one satellite",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a witness observing from the ground",
+    "contains photographs": false
 }

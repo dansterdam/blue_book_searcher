@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was detected by radar and visually observed flying over Des Moines, Iowa in 1957.",
-    "interesting points": [
-        "The object was the size of a basketball at arm's length.",
-        "The object was seen flying from northwest to southwest for one minute.",
-        "The object was either a balloon or an aircraft, according to the conclusions.",
-        "The object was tracked on radar and visually observed.",
-        "The report includes details on the object's altitude, speed, and direction of travel."
-    ],
-    "result": "possibly a balloon or aircraft",
-    "sighted object": "one unidentified object",
-    "location": "Des Moines, Iowa",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A radar and visual observation of a flying object reported in Des Moines, Iowa on October 6, 1957.",
+    "interesting points": "The object was described as being the size of a basketball at arm's length., It was seen flying from the northwest to the southwest for one minute., The observation lasted for a total of 9 minutes., There were no sounds associated with the object., The potential explanations included it being a balloon or possibly an aircraft.",
+    "sighted object": "a round, silvered object",
+    "location": "Des Moines, Iowa, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

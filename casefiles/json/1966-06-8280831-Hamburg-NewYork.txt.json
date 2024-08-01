@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A red colored object was observed coming from the western sky, hovering, and then appearing to turn and back up.",
-    "interesting points": [
-        "The object was described as being the size of an automobile tail light.",
-        "The witnesses compared the object to an automobile tail light in appearance.",
-        "The description is consistent with an aircraft observation.",
-        "The Air Force requested the witness complete a questionnaire to provide more information for evaluation.",
-        "The report includes a hand-drawn sketch or diagram, but no photograph."
-    ],
-    "result": "unexplained",
+    "main event": "On June 23, 1966, a red colored object was observed in the sky over Hamburg, New York for about 3-4 minutes.",
+    "interesting points": "The object hovered in the sky and appeared to back up,The witnesses compared the object to an automobile tail light,There was a notation that no physical evidence was found,The report stated that the description was consistent with that of an aircraft, The sighting was documented in a Project Blue Book Record form.",
     "sighted object": "a red colored object",
-    "location": "Hamburg, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Hamburg, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian observers noted the object",
+    "contains photographs": false
 }

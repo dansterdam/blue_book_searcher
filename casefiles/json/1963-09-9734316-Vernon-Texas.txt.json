@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A witness observed an object in the sky over their ranch in Vernon, Texas on September 23, 1963.",
-    "interesting points": [
-        "The object appeared to be hovering 300-500 feet above the ground for over 7-8 minutes.",
-        "The object had a red light that blinked on and off, giving the impression of rotating on its vertical axis.",
-        "The object made no sound that the witness could hear from their position.",
-        "The object then took off toward the northeast at a high rate of speed and disappeared from sight in a matter of just a few seconds.",
-        "The Air Force's analysis concluded the sighting was likely of a conventional aircraft, despite the witness's description of the object's characteristics."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A hovering object with a blinking red light",
-    "location": "Vernon, Texas",
-    "witnesses": "Witness on a ranch",
-    "photographs": "No photographs present in the report"
+    "main event": "Witness observed a strange object hovering over their ranch near Vernon, Texas, on September 23, 1963.",
+    "interesting points": "The object was seen hovering 300-500 feet above the ground for 7-8 minutes., It appeared to have a bright red light that blinked on and off., The object made no sound that could be heard., It took off at a high rate of speed and disappeared in a matter of seconds., Check with DRAGNET revealed no aircraft or missile in the area at the time.",
+    "sighted object": "a strange hovering object with a bright red light",
+    "location": "Vernon, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the ranch owner observed the object",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A resident of Dalton, Massachusetts reported sighting an unidentified flying object over his home on February 23, 1960.",
-    "interesting points": [
-        "The object appeared to be elliptical in shape and was emitting a bright, pulsating light.",
-        "The object was at an altitude of approximately 1,000 feet and moving at a high rate of speed.",
-        "The sighting was reported to the Pittsfield, Massachusetts, Police Department, who then notified the Air Force through proper channels.",
-        "The report was forwarded to Project Blue Book for further investigation.",
-        "The report includes a black and white photograph of a snowy residential area and a separate photograph of a wooden building exterior."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified flying object",
-    "location": "Dalton, Massachusetts",
-    "witnesses": "Mr. John Doe, a resident of Dalton, Massachusetts",
-    "photographs": "yes, the report includes two black and white photographs"
+    "main event": "Mr. John Doe reported sighting an unidentified flying object over his home in Dalton, Massachusetts on the evening of February 23, 1960.",
+    "interesting points": "The object was reported to be elliptical in shape and emitting a bright, pulsating light., Mr. Doe observed the object as it moved in a westerly direction., The object was at an altitude of approximately 1,000 feet and moving at a high rate of speed., The sighting was reported to the Pittsfield Police Department, who notified the Air Force., The report has been forwarded to Project Blue Book for further investigation.",
+    "sighted object": "unidentified flying object emitting a bright, pulsating light",
+    "location": "Dalton, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. John Doe, a resident of Dalton, Massachusetts",
+    "contains photographs": true
 }

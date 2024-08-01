@@ -1,14 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on December 6, 1957, in Wayne, Michigan. The observation lasted for about 15 minutes, and the object was described as a round, white object the size of a light bulb, moving up and down.",
-    "interesting points": [
-        "The document is a Project 10073 record card from the Project Blue Book archive, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs).",
-        "The report suggests that the object was probably a balloon, based on its description, duration, and flight path.",
-        "There were no photographs present in the report, and the observer was a civilian.",
-        "The observer was asked to estimate the speed and distance of the object, and they were a 15-year-old student at the time of the sighting.",
-        "Another sighting in December 1957 reported a round, white object with the appearance of a ball of fire, moving slowly from northwest to southeast."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "round, white object",
-    "location": "Wayne, Michigan",
-    "witnesses": "civilian"
+    "main event": "A civilian reported a sighting of a round white object in Wayne, Michigan on December 6, 1957.",
+    "interesting points": "The object was described as the size of a light bulb., The sighting lasted approximately 15 minutes., The object's movement was observed going up and down., The conclusion suggested it was probably a balloon., The observer was a 15-year-old student from Ypsilanti, Michigan.",
+    "sighted object": "one round white object",
+    "location": "Wayne, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "15-year-old student",
+    "contains photographs": false
 }

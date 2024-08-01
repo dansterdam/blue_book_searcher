@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A dark, disc-shaped object was observed moving very fast over Sacramento, California on September 2, 1952.",
-    "interesting points": [
-        "The object was observed visually from the ground for about 4 minutes.",
-        "An airplane passed over shortly before the object was observed.",
-        "The object was reported to have made a distinct change in direction at one point.",
-        "The object was described as being dark in color and making no sound.",
-        "The observers were at a Ground Observer Corps post when they spotted the object."
-    ],
-    "result": "unknown",
-    "sighted object": "a dark, disc-shaped object",
-    "location": "Sacramento, California",
-    "witnesses": "Irene Carlson and others at a Ground Observer Corps post",
-    "photographs": "no"
+    "main event": "Observers reported a dark, disc-shaped object moving very fast in Sacramento, California on July 2, 1952.",
+    "interesting points": "The object was reported as having no sound., The object was visually observed from the ground with binoculars., At least one airplane passed over shortly before the object was observed., Observers reported seeing the object for a total of around 4 minutes., The object was described as being at an altitude of 5000 to 10,000 feet.",
+    "sighted object": "dark disc-shaped object",
+    "location": "Sacramento, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Irene Carlson, a housewife, age 41.",
+    "contains photographs": false
 }

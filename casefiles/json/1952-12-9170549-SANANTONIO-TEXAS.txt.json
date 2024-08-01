@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian man driving his car in San Antonio, Texas observed a round, unidentified object that emitted an intense green light on December 21, 1952.",
-    "interesting points": [
-        "The object silently passed overhead and quickly disappeared in the distance.",
-        "The object was described as being of undetermined size.",
-        "The sighting was investigated and reported by the civilian observer.",
-        "The report concludes that the object was likely a common atmospheric phenomenon, such as a meteor.",
-        "The reliability of the source was unknown."
-    ],
-    "result": "probable meteor",
-    "sighted object": "round, unidentified object emitting intense green light",
-    "location": "San Antonio, Texas",
-    "witnesses": "civilian man driving his car",
-    "photographs": "no"
+    "main event": "A civilian observed a bright green light in the sky over San Antonio, Texas, on December 9, 1952.",
+    "interesting points": "The light appeared to travel at a high rate of speed and made no sound., The observer noted it changed direction and speed abruptly., The shape of the object was described as pointed or wedge-shaped., The sighting lasted only 5 to 10 seconds before the object disappeared., Multiple reliable witnesses observed the event and reported similar descriptions.",
+    "sighted object": "a bright green light in the sky",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Reliable civilian and public officials, including a county sheriff and a city police officer.",
+    "contains photographs": false
 }

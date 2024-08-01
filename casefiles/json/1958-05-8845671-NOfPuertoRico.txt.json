@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A yellow trail of light, appearing as a meteoric object, was observed descending rapidly southeast near Puerto Rico.",
-    "interesting points": [
-        "The object was observed by multiple aircraft, including Clipper 257 and Eastern 530.",
-        "The object was reportedly descending at a very rapid rate for 13 to 14 seconds.",
-        "The course of the object was determined to be from 243°N 68°35'W to 262°N 68°22'W, descending rapidly in a southeast direction.",
-        "The weather conditions at the time included varying wind speeds and directions at different altitudes.",
-        "The conclusion of the report was that the object was most likely a meteor."
-    ],
-    "result": "Probably Meteor",
-    "sighted object": "A yellow trail of light, appearing meteoric",
-    "location": "North of Puerto Rico",
-    "witnesses": "Multiple aircraft crew members",
-    "photographs": "None"
+    "main event": "A yellow trail of light was observed descending rapidly over Puerto Rico.",
+    "interesting points": "The sighting lasted between 13 to 17 seconds., The object was described as appearing meteoric., The descent direction was noted as ESE., Conclusion identifies the object as probably a meteor or possibly a balloon., Multiple air units were involved in the observation.",
+    "sighted object": "yellow trail of light",
+    "location": "Puerto Rico",
+    "number of confirmed witnesses": 4,
+    "witness description": "air traffic controllers and pilots from separate aircraft",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four bright lights were observed in the sky over Pine City, Minnesota on August 23, 1965.",
-    "interesting points": [
-        "The lights appeared to be brighter than the brightest stars, changing color from green to white repeatedly.",
-        "The lights displayed erratic motion, moving horizontally and vertically in a sporadic fashion without a set pattern.",
-        "The lights hovered in place for most of the observation period.",
-        "The witness was unable to estimate the speed or distance of the lights.",
-        "The lights were observed for over 2 hours, from around 10:50 PM to 1:10 AM."
-    ],
-    "result": "identified as astronomical objects (Capella, Gaia Auriga, Jupiter, Aldebaran)",
+    "main event": "Four bright lights were observed in the sky over Pine City, Minnesota, on the night of August 23, 1965.",
+    "interesting points": "The objects changed color from vivid red to green to white repeatedly., The lights were observed for a total duration of approximately 2 hours and 20 minutes., Witnesses described the lights as moving erratically while also hovering for extended periods., The observation was made during a bright night, making the lights appear more prominent than regular stars., The report concluded that the objects were identified as astronomical bodies, specifically the stars Capella, Gaia Auriga, Jupiter, and Aldebaran.",
     "sighted object": "four bright lights in the sky",
-    "location": "Pine City, Minnesota",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Pine City, Minnesota, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "A family of four, including parents and a wife, observing the lights from a cabin near Cross Lake.",
+    "contains photographs": false
 }

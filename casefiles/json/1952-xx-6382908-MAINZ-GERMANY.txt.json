@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A French naval officer observed a bright, luminescent object with a blue spot in the center, moving in a zig-zag pattern at high speed over Mainz, Germany in 1952.",
-    "interesting points": [
-        "The object was estimated to be approximately 10 km in diameter.",
-        "The object appeared to be stationary and then accelerated away at a speed estimated to be 500 km per hour.",
-        "The observer, Capt. Durusseau, is an experienced naval officer very familiar with all types of aircraft.",
-        "Capt. Durusseau described the object as very intelligent and maneuverable.",
-        "The report includes a sketch of the disk-shaped object with some markings or patterns."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, luminescent object with a blue spot in the center",
-    "location": "Mainz, Germany",
-    "witnesses": "French naval officer Capt. Durusseau",
-    "photographs": "no, the report includes a sketch of the object"
+    "main event": "A French Naval Officer observed a luminous unidentified flying object in Mainz, Germany on September 27, 1952.",
+    "interesting points": "The object was described as bright and luminescent with a blue spot in the center,The estimated size of the object ranged from 200 to 500 meters in diameter,The object was seen moving in a zig-zag pattern at a speed between 500 and 600 km per hour,The officer had 19 years of experience and was familiar with all types of aircraft,The sighting lasted for about 30 minutes from 1730 to 1800 hours.",
+    "sighted object": "a luminous unidentified flying object",
+    "location": "Mainz, Rheinland-Pfalz, Germany",
+    "number of confirmed witnesses": 1,
+    "witness description": "French Naval Officer Capt. Durusseau",
+    "contains photographs": false
 }

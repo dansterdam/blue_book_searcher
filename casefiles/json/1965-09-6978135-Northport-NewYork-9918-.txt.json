@@ -1,15 +1,9 @@
 {
-    "main event": "The report contains several black-and-white photographs of unidentified aerial or atmospheric phenomena, which were part of a Project Blue Book UFO report document.",
-    "interesting points": [
-        "The photographs are labeled 'FOREIGN TECHNOLOGY DIVISION, AFSC' and 'UNCLASSIFIED'.",
-        "The photographs show blurry, indistinct objects in the sky.",
-        "There are no human faces or identities visible in the images.",
-        "The report does not provide any additional details about the sighting or the circumstances surrounding the photographs.",
-        "The report is dated September 5, 1965, and comes from Northport, New York."
-    ],
-    "result": "unexplained",
+    "main event": "Two black-and-white photographs were taken showing blurry, indistinct aerial or atmospheric phenomena as part of a UFO report.",
+    "interesting points": "The photographs are labeled 'FOREIGN TECHNOLOGY DIVISION, AFSC' and 'UNCLASSIFIED'.,There are no human faces or identifiable individuals present in the images.,The objects in the photographs appear to be part of a Project Blue Book UFO report.,The images show shapes or objects that are not clearly defined.,The report includes a total of six photographs.",
     "sighted object": "blurry, indistinct objects in the sky",
-    "location": "Northport, New York",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes several black-and-white photographs"
+    "location": "Northport, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses were mentioned in the document.",
+    "contains photographs": true
 }

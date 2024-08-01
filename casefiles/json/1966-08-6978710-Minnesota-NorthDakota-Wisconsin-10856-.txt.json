@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large, oval-shaped object was observed over Minnesota, North Dakota, and Wisconsin on August 6, 1966.",
-    "interesting points": [
-        "The object was sighted by commercial and private pilots, as well as numerous ground observers.",
-        "Witnesses reported the object could hover, then suddenly accelerate and dart across the sky at speeds over 3,000 miles per hour.",
-        "The object was tracked on radar by both civilian and military installations.",
-        "The Air Force investigated the sightings, but was unable to determine the nature or origin of the mysterious craft.",
-        "The case remains unexplained in Project Blue Book, the official U.S. government program for investigating unidentified flying objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, oval-shaped object",
-    "location": "Minnesota, North Dakota, Wisconsin",
-    "witnesses": "commercial and private pilots, ground observers",
-    "photographs": "yes, the report includes 4 photographs"
+    "main event": "On August 6, 1966, a strange disc-shaped object was observed over the states of Minnesota, North Dakota, and Wisconsin by many witnesses.",
+    "interesting points": "The object was tracked on radar and could reach speeds of over 3,000 miles per hour., The sighting lasted for about 10-15 minutes., Multiple civilian witnesses reported the sighting from various locations., The Air Force investigated the sightings but could not determine the object's nature or origin., Numerous reports described the object as a large, silvery, disc-shaped craft performing abrupt maneuvers.",
+    "sighted object": "large, disc-shaped object",
+    "location": "Minneapolis, Minnesota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "multiple civilian witnesses, including commercial and private pilots",
+    "contains photographs": false
 }

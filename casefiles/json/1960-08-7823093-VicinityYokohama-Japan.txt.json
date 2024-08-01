@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A bright rectangular-shaped object was observed over Japan on August 31, 1960.",
-    "interesting points": [
-        "The object appeared as bright as a first magnitude star and had an erratic course.",
-        "The object was initially seen at a bearing of 350 degrees true and an elevation of 25 degrees.",
-        "The object descended to a bearing of 250 degrees true before suddenly disappearing at a bearing of 055 degrees true and an elevation of 10 degrees.",
-        "Several similar reports were received from the same area.",
-        "The object was concluded to be possibly a military flare, unknown balloon, or an unidentified object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright rectangular-shaped object",
-    "location": "Vicinity Yokohama, Japan",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A bright object, as bright as a first magnitude star, was observed in the vicinity of Yokohama, Japan, on August 31, 1960.",
+    "interesting points": "The object had an erratic course, leading to speculation that it might be a balloon or unidentified object., Several reports were received from the area, indicating possible widespread sightings., The weather conditions were clear at the time of the sighting., The object appeared rectangular in shape during part of the observation., The conclusion of the report indicated the possibility of it being a military flare or an unknown balloon.",
+    "sighted object": "one bright object in the sky",
+    "location": "Yokohama, Kanagawa, Japan",
+    "number of confirmed witnesses": 1,
+    "witness description": "Not provided.",
+    "contains photographs": false
 }

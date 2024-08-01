@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light moving fast was observed for about 20 seconds in Tonawanda, New York on September 19, 1965.",
-    "interesting points": [
-        "The object appeared to be longer than it was wide.",
-        "The witness was distracted and may have overestimated the duration of the sighting.",
-        "The object moved very fast, appearing to cross the whole town in 20 seconds.",
-        "The object went straight up and partially transparent on takeoff.",
-        "The observation was confirmed by one other witness."
-    ],
-    "result": "Astro (METEORS)",
-    "sighted object": "a very brilliant white light",
-    "location": "Tonawanda, New York",
-    "witnesses": "1",
-    "photographs": "yes"
+    "main event": "A witness observed a brilliant white light moving very fast in the sky over Tonawanda, New York on September 7-29, 1965.",
+    "interesting points": "The object was described as longer than it was wide,It was observed for about 20 seconds, though the duration may have been overestimated by the witness,The object moved straight up without any lights showing after initially hovering,There was no discernible noise during the sighting,The object was estimated to be at an altitude of approximately 325-350 feet.",
+    "sighted object": "a brilliant white light",
+    "location": "Tonawanda, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian witness who observed the object in clear sky conditions.",
+    "contains photographs": false
 }

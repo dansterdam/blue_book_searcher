@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple UFO sightings over Reno, Nevada on September 30, 1964 between 11:35 PM and 1:40 AM.",
-    "interesting points": [
-        "The objects were described as large, white, and brighter than Venus, with no sound.",
-        "Smaller objects were reported that were yellower, greener, and blinked from time to time.",
-        "The objects were between 15-25 degrees apart, north of Jupiter and Venus, and were almost stationary, changing elevation and azimuth degrees only slightly.",
-        "The objects were reported at different altitudes, ranging from 1,500 feet to 11,000 feet.",
-        "The objects were observed for a total of over 4 hours."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple UFOs of varying sizes and colors",
-    "location": "Reno, Nevada",
-    "witnesses": "civilian observer",
-    "photographs": "none"
+    "main event": "An unidentified flying object was reported in Reno, Nevada, observed over several hours with varied characteristics.",
+    "interesting points": "The sighting included objects that were described to be like the moon and exhibited unusual motion., One object was observed for 4 hours while the other was considered a meteor passing quickly., The objects were observed moving west and had no sound associated with them., Observers considered natural and man-made explanations for the sightings., Multiple observations noted differences in color and behavior of the objects, with one brighter than Venus.",
+    "sighted object": "various unidentified flying objects",
+    "location": "Reno, Nevada, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian observers with varying evaluations of the objects.",
+    "contains photographs": false
 }

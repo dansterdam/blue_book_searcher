@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted over Opa-Locka, Florida on March 16, 1963.",
-    "interesting points": [
-        "The object was described as a couple of lights that were bigger and brighter than stars or planets, with the color being orange and whitish or reddish-orange.",
-        "The lights were widely spaced and the object was stationary, hovering at an altitude of 1000-2000 feet.",
-        "The sighting was reported to the Air Force and investigated under Project Blue Book.",
-        "The observer was a private citizen who wrote to the President about multiple sightings of objects that could change speed, position and direction in ways unlike any known aircraft.",
-        "The observer did not have a camera to take photographs of the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright, hovering lights",
-    "location": "Opa-Locka, Florida",
-    "witnesses": "private citizen, FAA ground radar",
-    "photographs": "none"
+    "main event": "An unidentified flying object sighting occurred on March 16, 1963, in Opa-Locka, Florida.",
+    "interesting points": "The sighting involved two objects that were stationary at an altitude of 1000-2000 feet., The objects were described as bigger and brighter than stars or planets., The lights were orange, whitish, or reddish-orange and widely spaced apart., The observer concluded it was a definite unidentified flying object, possibly a balloon or aircraft., There was a follow-up by Air Force personnel, indicating some interest in the sighting.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Opa-Locka, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the objects as brighter than stars and capable of changing pace and position, noting they were not planes or known craft.",
+    "contains photographs": false
 }

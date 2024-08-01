@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A glowing, yellow-colored object with a long, glaring tail of descending particles was observed by aircraft near Williams, California on October 7, 1960.",
-    "interesting points": [
-        "The object appeared to be much larger than an aircraft and disappeared into the main body of the object.",
-        "The object had a long, glowing tail made up primarily of particles descending with the main body.",
-        "The object was sighted by multiple aircraft, including Ethan 44 and an aircraft from Nather AFB.",
-        "The object was described as a 'ball of fire' and was seen to be descending in a slight, straight down direction.",
-        "The tail of the object was blueish-white, with the end being more red-orange in color."
-    ],
-    "result": "Meteoric event (bolide)",
-    "sighted object": "A large, glowing yellow object with a long, glaring tail",
-    "location": "250 miles west of San Francisco, California",
-    "witnesses": "Pilots of multiple aircraft",
-    "photographs": "No photographs present in the report"
+    "main event": "A UFO sighting report indicated the observation of a bolide over California on October 7, 1960.",
+    "interesting points": "The object was observed using ground-radar.,The observation lasted for 4 seconds.,The object was descending and appeared much larger than an aircraft.,It was described as a yellowish ball with a long glaring tail.,The report suggests that the sighting is characteristic of a meteoric bolide.",
+    "sighted object": "a large yellowish ball with a long glaring tail",
+    "location": "250 Mi W of San Francisco, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Radar observation",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-	"main event": "A sighting occurred on 9 November 1957 in Makanda, Illinois, where a round, bright white, and red to blue object was observed. The object had no tail or exhaust, made no sound, and zigzagged out of sight over a period of 15 minutes.",
-	"interesting points": [
-		"The observer classified the object as a balloon, satellite, aircraft, or astronomical, leaving the nature of the object inconclusive.",
-		"The sighting lasted for 13 minutes and was a visual sighting only, with no additional information available.",
-		"No photographs were taken during the observation.",
-		"The report was submitted in accordance with JCADF INTERIM VANGE 1 COMMAND 55-1.",
-		"The observer, Mr. J, was 39 years old and the sighting was considered normal for the division by the USAF duty director at Belleville, Ill. APS."
-	],
-	"result": "unknown",
-	"sighted object": "round, bright white, and red to blue object with no tail or exhaust",
-	"location": "Makanda, Illinois",
-	"witnesses": "Mr. J, 39 years old",
-	"photographs": "no"
+    "main event": "A round, bright blue object was observed zigzagging out of sight in Makanda, Illinois on 9 November 1957.",
+    "interesting points": "The object was classified as possibly a balloon or satellite by the observer., The sighting lasted for 13 minutes., The observer noted that the object had no tail or appurtenances., The object zigzagged before disappearing from view., The report emphasizes that additional information is very limited and only a visual sighting was made.",
+    "sighted object": "a round, blue object",
+    "location": "Makanda, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 39-year-old male resident of Makanda",
+    "contains photographs": false
 }

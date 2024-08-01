@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A stationary object with red and green lights was observed for over an hour in the sky over Austin, Texas on March 16, 1967.",
-    "interesting points": [
-        "The object appeared round or top-shaped and had a swinging motion of the lights.",
-        "Similar small, rapidly moving phenomena had been observed in the area before.",
-        "The object was observed to be stationary or hovering, about 3/4 to 1 degree above the horizon to the south.",
-        "Checks with nearby military and aviation agencies revealed no unusual activity in the area during the observation.",
-        "The report was filed by a civilian hydro electric mechanic who was a high school graduate."
-    ],
-    "result": "possible",
-    "sighted object": "a stationary object with red and green lights",
-    "location": "Austin, Texas",
-    "witnesses": "a civilian hydro electric mechanic",
-    "photographs": "none"
+    "main event": "A civilian observed a round object with red and green lights swinging back and forth in Austin, Texas for over an hour.",
+    "interesting points": "The object appeared stationary or hovered at about 3/4-1 degree above the horizon to the south., The lights on the object swang back and forth., Previous observations of the phenomenon noted rapid west to east movement., The object was still apparent at the time of the report., There were no other aircraft or balloon activities reported in the area during the observation.",
+    "sighted object": "a round object with red and green lights",
+    "location": "Austin, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian, 49 years old, high school graduate, hydro electric mechanic",
+    "contains photographs": false
 }

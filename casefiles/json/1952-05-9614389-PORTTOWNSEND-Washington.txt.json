@@ -1,15 +1,9 @@
 {
-    "main event": "A ball of fire exploded over Washington state at 0030 PST on May 30, 1952.",
-    "interesting points": [
-        "The object was bright white and similar to a meteor that exploded on May 11.",
-        "The object was seen by a state policeman who said it seemed to be over Port Townsend.",
-        "The report was recorded as part of Project Blue Book, the U.S. Air Force's official study of UFOs.",
-        "The observation was classified as a 'vague' report, likely a large meteor.",
-        "The report includes 6 photographs of the event, though no photographs are present in the provided image."
-    ],
-    "result": "Likely a meteor",
-    "sighted object": "A bright white ball of fire",
-    "location": "Port Townsend, Washington",
-    "witnesses": "A state policeman",
-    "photographs": "Yes, 6 photographs were taken"
+    "main event": "A bluish white meteoritic object was observed and reported over Port Townsend, Washington on 30 May 1952.",
+    "interesting points": "The observation was made at 12:30 a.m. PST,The object was described as a ball of fire that exploded,This sighting is similar to another meteor explosion reported on 11 May,The object was seen by a state cop over Fort Townsend,The report indicates that astronomers classified it as a meteor.",
+    "sighted object": "bluish white meteoritic object",
+    "location": "Port Townsend, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "State Cop",
+    "contains photographs": false
 }

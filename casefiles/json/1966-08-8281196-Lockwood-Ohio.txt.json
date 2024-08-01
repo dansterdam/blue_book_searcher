@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A single unidentified object was observed for 3 minutes, changing in color from reddish to bluish as it moved across the sky.",
-    "interesting points": [
-        "The object's behavior was described as consistent with an aircraft.",
-        "The Air Force responded to the report, thanking the observer for reporting the observation.",
-        "Several other similar sightings were reported in the Lockwood, Ohio area around this time.",
-        "One witness described seeing a 'very bright light like a star' that moved swiftly across the sky for about 50 miles, appearing solid with no exhaust or trail.",
-        "Another witness reported seeing a large, bright triangular-shaped object with a reddish-orange glow and white streaming lights, which banked and then moved out of sight."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified object that changed color",
-    "location": "Lockwood, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "no photographs included"
+    "main event": "A single object was observed changing color from reddish to bluish while moving across the sky for 3 minutes.",
+    "interesting points": "The observer concluded that the object behaved like an aircraft.,The object was seen moving west.,The duration of observation was 3 minutes., Witness reported the object appeared to be solid and emitted no exhaust., The sighting was detailed in correspondence to Project Blue Book.",
+    "sighted object": "a single unidentified flying object",
+    "location": "Lockwood, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer who reported the sighting to the Air Force.",
+    "contains photographs": false
 }

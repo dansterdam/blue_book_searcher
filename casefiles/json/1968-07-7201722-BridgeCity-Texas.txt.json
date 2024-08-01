@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a self-luminous object that was 6-12 inches in diameter in Bridge City, Texas on July 31, 1968.",
-    "interesting points": [
-        "The object gave off a whitish-blue light and was as bright as a first magnitude star.",
-        "The object was observed moving in a north or south-southeast direction, but the witness could not estimate its speed.",
-        "The witness lost sight of the object after a few minutes.",
-        "The witness had previously reported a similar sighting about 2 years prior in the same area.",
-        "The Air Force investigated the sighting but could not offer an explanation."
-    ],
-    "result": "unexplained",
-    "sighted object": "self-luminous object",
-    "location": "Bridge City, Texas",
-    "witnesses": "Mr. G arly and his father",
-    "photographs": "no"
+    "main event": "A group of approximately 4 people reported seeing a glowing object in Bridge City, Texas, on July 22, 1968.",
+    "interesting points": "The object emitted no sound and did not light up the surrounding area., The object was described as glowing and was observed for a length of time of about 3 minutes., The witness has experience as an amateur astronomer, which adds credibility to their observation., Multiple reports from Bridge City in 1968 indicate a pattern of UFO sightings., The sighting was reported to NASA and the U.S. Air Force for further investigation.",
+    "sighted object": "a glowing unidentified flying object",
+    "location": "Bridge City, Texas, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "the witness is an amateur astronomer",
+    "contains photographs": false
 }

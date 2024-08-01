@@ -1,15 +1,9 @@
 {
-	"main event": "A spherical UFO was sighted in St. Paul, Minnesota on 14th August 1955, traveling on a straight path at an even speed.",
-	"interesting points": [
-		"The UFO was described as spherical in shape, with an orange to red-orange color.",
-		"It traveled through a hazy area and was estimated to be larger than a pinhead but smaller than a pea when seen at arm's length.",
-		"The UFO disappeared at an angle of 45 to 52 degrees from the horizon, after traveling on a straight path for 5 to 12 seconds.",
-		"The report concluded that the UFO was possibly a balloon, aircraft, or astronomical object due to insufficient data for evaluation.",
-		"The investigation revealed no confirmation of the sighting and deemed the data insufficient to reveal any possibilities."
-	],
-	"result": "unexplained",
-	"sighted object": "spherical UFO",
-	"location": "St. Paul, Minnesota",
-	"witnesses": "civilian",
-	"photographs": "no"
+    "main event": "A spherical object, orange to red orange, was sighted traveling in a straight path over St. Paul, Minnesota.",
+    "interesting points": "The object was observed for a duration of 5 to 10 seconds., The sighting was classified with insufficient data for evaluation., The object was initially suspected to be a balloon or possibly an aircraft., The object traveled straight at an even speed., The object disappeared from view after passing through a hazy area.",
+    "sighted object": "spherical shape, orange to red orange object",
+    "location": "St. Paul, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian witness",
+    "contains photographs": false
 }

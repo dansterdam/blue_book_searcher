@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the provided UFO report:
-
 {
-    "main event": "Pilot saw two white objects moving in a straight line and then suddenly making a 90 degree turn in opposite directions.",
-    "interesting points": [
-        "The sighting lasted for approximately 45 minutes.",
-        "There were multiple sightings reported over the course of the day, with the first at 2:33 PM and the last at 4:15 PM.",
-        "The intelligence officer's preliminary analysis indicated the case probably had a natural explanation.",
-        "Radar contact was confirmed, and the report was sent to the GCDR (Ground Control Division Radar).",
-        "The objects were described as craft-like, with two small craft between them and two larger objects below that seemed to be the usual features."
-    ],
-    "result": "unexplained",
+    "main event": "A pilot observed two white objects moving in a straight line before suddenly making a 90-degree turn in opposite directions.",
+    "interesting points": "The sighting occurred under bright, clear weather with no clouds., The observation lasted approximately 45 minutes., There was radar confirmation of contact related to the sighting., Analysis suggested the case probably has a natural flight explanation., This report is part of the Project Blue Book records indicating military interest in the sighting.",
     "sighted object": "two white objects",
-    "location": "New York, New York",
-    "witnesses": "pilot",
-    "photographs": "no"
+    "location": "New York, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a pilot",
+    "contains photographs": false
 }

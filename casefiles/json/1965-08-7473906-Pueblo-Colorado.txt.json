@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A civilian in Pueblo, Colorado observed a small, reddish-brown/blue, round object in the sky in August 1965.",
-    "interesting points": [
-        "The object was the size of a marble and appeared to be blinking, but not in a definite pattern or sequence.",
-        "The object was observed in the northwest near the horizon, and appeared to be moving northeast.",
-        "The witness could not determine if the light was going up or across the sky.",
-        "The object was observed for about 20 minutes.",
-        "The Air Force's preliminary analysis was that the object was likely the star Arcturus, due to its position and movement."
-    ],
-    "result": "Identified as a star (Arcturus)",
-    "sighted object": "small, round object with reddish-brown/blue color",
-    "location": "Pueblo, Colorado",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A civilian observed three hovering objects in Pueblo, Colorado on 11 August 1965.",
+    "interesting points": "The objects were described as round, with one larger object emitting red, green, and white lights., The observation lasted approximately 20 minutes, and the objects appeared to be stationary at times., The conclusion suggested that the sighting likely corresponded to known astronomical phenomena, particularly a bright star., The witness's reliability was noted as fair, raising questions about the accuracy of the report., The sighting was investigated by Air Force officials who found no conclusive evidence supporting the presence of physical objects.",
+    "sighted object": "one large and two smaller round objects",
+    "location": "Pueblo, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, age 35",
+    "contains photographs": false
 }

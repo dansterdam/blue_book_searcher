@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted near Richmond, Virginia on August 7, 1952.",
-    "interesting points": [
-        "The UFO was described as three circular brilliant white lights, about the size of a dime at arm's length, that moved at a high rate of speed in a westerly direction.",
-        "The objects were sighted for approximately 25 minutes before heading towards the horizon.",
-        "The observers, Lt. David M. Groner and 2nd Lt. Donald H. Ware, stated the only visible object was the distant planet Venus.",
-        "No jet trails or other aircraft were visible in the sky at the time of the sighting.",
-        "The case remained unresolved and the identity of the objects could not be explained in terms of known aircraft or astronomical phenomena."
-    ],
-    "result": "unexplained",
-    "sighted object": "three circular brilliant white lights",
-    "location": "Near Richmond, Virginia",
-    "witnesses": "Lt. David M. Groner and 2nd Lt. Donald H. Ware",
-    "photographs": "no"
+    "main event": "Multiple sightings of unidentified aerial objects were reported in Richmond, Virginia on August 7, 1952.",
+    "interesting points": "Observations were made by multiple Air Force personnel including Lt. David M. Groner and 2d Lt. Donald H. Ware., Objects were circular and white, traveling at high speeds., The sightings lasted around 25 minutes with objects moving towards the horizon., Observers concluded that one object visible was likely the distant planet Venus., No other aircraft or jet trails were observed during the sightings.",
+    "sighted object": "three circular lights in the sky",
+    "location": "Richmond, Virginia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Air Force personnel",
+    "contains photographs": false
 }

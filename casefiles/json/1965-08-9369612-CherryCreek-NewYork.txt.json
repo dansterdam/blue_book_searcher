@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several teenagers spotted a silver, saucer-shaped object over Cherry Creek, New York on August 19, 1965.",
-    "interesting points": [
-        "The object appeared to be 50 feet in diameter and 20 feet thick, with red glowing streamers projecting downward from the entire perimeter.",
-        "The object caused unusual interference on AM radio and a beeping sound.",
-        "The presence of the object caused a reduction in the farmer's cow milk production and disturbed a bull in the field.",
-        "A dog was observed barking due to the presence of the object.",
-        "An oily purple substance was found, but it was not believed to be connected to the sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "a silver, saucer-shaped object",
-    "location": "Cherry Creek, New York",
-    "witnesses": "several teenagers",
-    "photographs": "no"
+    "main event": "A silver saucer-shaped object was observed intermittently in the clouds by multiple witnesses in Cherry Creek, New York on August 19, 1965.",
+    "interesting points": "The object was described as 25-30 ft long and 20 ft thick, emitting red glowing streamers and causing unusual AM radio interference., Several youths, aged 13-16, witnessed the sighting and reported their observations remained consistent upon cross-examination., The sighting resulted in a noticeable reduction in milk production from cows, and disturbances among local livestock., An oily purple substance was found at the site, though it is not believed to be connected to the sighting., The sighting's conclusion was classified as unidentified by the Air Force, with no physical evidence or conventional explanation found.",
+    "sighted object": "a silver saucer-shaped object emitting red glowing streamers",
+    "location": "Cherry Creek, New York, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "youths aged 13-16, with their parents also interviewed regarding their credibility",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the provided UFO report:
-
 {
-  "main event": "A person driving near Kahoka, Missouri on October 7, 1964 at 6:30 PM CST witnessed an unusual, large, and very bright object traveling at a high rate of speed.",
-  "interesting points": [
-    "The object was approximately twice as large as a usual aircraft light and was reflecting a pulsating brilliant light.",
-    "The object was traveling at a speed similar to a jet fighter, at an altitude well over 1,000 feet.",
-    "The object suddenly became dark, and the sky looked normal again.",
-    "The witness went to the nearest airport the next day and discussed the sighting with employees, who had also seen the object.",
-    "The airport staff indicated that no planes were in the air at that time."
-  ],
-  "result": "unexplained",
-  "sighted object": "large, bright, pulsating object",
-  "location": "Kahoka, Missouri",
-  "witnesses": "one driver, airport staff",
-  "photographs": "none"
+    "main event": "A witness reported sighting a bright, large object traveling at high speed in Kahoka, Missouri on October 7, 1964.",
+    "interesting points": "The object was described as being twice as large as a usual aircraft light., The witness stated the object was pulsating and traveling from northeast to southwest., A nearby airport staff confirmed they also saw the object., The witness noted that the object was not a balloon or shooting star., The object suddenly became dark while the sky remained lit.",
+    "sighted object": "a large, bright, pulsating object in the sky",
+    "location": "Kahoka, Missouri, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "The primary witness was driving home when they saw the object, and employees at a nearby airport also reported seeing it.",
+    "contains photographs": false
 }

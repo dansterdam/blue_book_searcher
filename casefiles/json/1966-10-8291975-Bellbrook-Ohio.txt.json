@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a red, blue, and green lighted object that traveled around the sky and appeared to be surveying the ground below in Bellbrook, Ohio on October 25, 1966.",
-    "interesting points": [
-        "The object moved in an erratic, zig-zag pattern and appeared to be trying to avoid detection.",
-        "The object changed color from reddish-white to clear during the sighting.",
-        "The object made a humming sound.",
-        "The observer estimated the object's speed to be between 50-100 mph.",
-        "The sighting lasted for approximately 10 minutes."
-    ],
-    "result": "Insufficient data",
-    "sighted object": "one red, blue, and green lighted object",
-    "location": "Bellbrook, Ohio",
-    "witnesses": "2 civilian observers",
-    "photographs": "no"
+    "main event": "Two witnesses observed a UFO with red, blue, and green lights flying around the sky in Bellbrook, Ohio for about 10 minutes on October 25, 1966.",
+    "interesting points": "The object moved in a zig-zag pattern as if surveying the ground below., The object's color changed from red to white to blue to green., One of the witnesses thought they were observing a satellite., The observers described the object's motion as erratic and noteworthy., The observation was made on a clear night.",
+    "sighted object": "UFO with multi-colored lights in the sky",
+    "location": "Bellbrook, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two civilians in the area",
+    "contains photographs": false
 }

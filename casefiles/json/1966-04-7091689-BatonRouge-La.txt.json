@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a single unidentified object with multicolored lights over Baton Rouge, Louisiana on April 26, 1966.",
-    "interesting points": [
-        "The object moved 10-15 degrees towards the east, with a bluish glow and flashing multicolored lights.",
-        "The object moved at variable speeds, without any sound, and eventually disappeared in the distance.",
-        "The witness used binoculars to get a better view of the object, which he described as just lights rather than a definite shape.",
-        "The witness believes the object may have been picked up on radar at a nearby airport, but no other reports were made.",
-        "The witness reported the sighting to a local radio station, but they likely thought it was a joke."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified object with multicolored lights",
-    "location": "Baton Rouge, Louisiana",
-    "witnesses": "a civilian witness",
-    "photographs": "none"
+    "main event": "A witness observed a UFO with multiple lights moving in a V-shape over Baton Rouge, Louisiana on June 27, 1966.",
+    "interesting points": "The object was described as having a bluish glow and multicolored lights that flashed on and off., The object moved silently at variable speeds, making it difficult to describe., The sighting lasted for approximately 5-10 minutes before the object vanished into the distance., The witness was able to observe the object clearly with binoculars, which enhanced their view., No other reports were found in the area despite the proximity to an airport.",
+    "sighted object": "a UFO with multicolored lights",
+    "location": "Baton Rouge, East Baton Rouge Parish, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An 18-year-old male who was in his backyard at the time of the sighting.",
+    "contains photographs": false
 }

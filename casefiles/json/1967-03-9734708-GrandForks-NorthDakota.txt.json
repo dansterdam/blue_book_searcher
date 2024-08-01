@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A North Dakota Highway Patrolman and other witnesses observed an unidentified aerial object in the sky over North Dakota on March 3, 1967.",
-    "interesting points": [
-        "The object was described as a flat, white light that would change from a flat-white light to a tinted pink and then to a dull white light as it approached.",
-        "The object remained stationary for about 50 minutes before disappearing.",
-        "One witness, a weather observer for the Air Force, stated he had never seen anything like this object in his 12 years of night observations.",
-        "The object was sighted by multiple witnesses, including a county sheriff and two North Dakota highway patrolmen.",
-        "The report includes a hand-drawn sketch or map showing the geographic area where the sighting occurred."
-    ],
-    "result": "unexplained",
-    "sighted object": "Flat, white light that changed color",
-    "location": "North Dakota",
-    "witnesses": "North Dakota Highway Patrolmen, county sheriff",
-    "photographs": "none"
+    "main event": "A witness reported observing an object in the sky, concluded to be Venus due to its pinkish cast and movement.",
+    "interesting points": "The sighting lasted for about 15 minutes,The object was observed moving from west to east at approximately 30 degrees above the horizon,The witness indicated the object was initially seen at a distance of 4 miles and estimated its speed to be 6.8 miles per minute,The report included statements that the observer, an Air Force Weather Observer, had never seen anything like it in 12 years of observation,The sighting was reported on 3 March 1967, and there were no photographs taken.",
+    "sighted object": "an object resembling the planet Venus",
+    "location": "Grand Forks, North Dakota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 29-year-old male, Air Force Weather Observer, familiar with sky observations.",
+    "contains photographs": false
 }

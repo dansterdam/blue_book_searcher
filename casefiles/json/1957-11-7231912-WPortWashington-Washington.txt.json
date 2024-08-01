@@ -1,15 +1,9 @@
 {
-    "main event": "A round, white, medium-sized object was sighted over Port Washington, Washington for 15 minutes.",
-    "interesting points": [
-        "The object was stationary and faded from view.",
-        "The object 'winked' its 'eye'.",
-        "The sighting occurred at night.",
-        "The object was seen at various elevations and speeds, including 220 knots.",
-        "The report concludes that the sighting was likely the planet Venus."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, white, medium-sized object",
-    "location": "Port Washington, Washington",
-    "witnesses": "civilian",
-    "photographs": "yes"
+    "main event": "A sighting of a round, white medium-sized object over Port Washington in 1957.",
+    "interesting points": "The sighting lasted for 18 minutes., The object was reported as stationary and faded over time., The report concludes that it was likely Venus, positioned about 20 degrees above the horizon., The object winked during the sighting., There were 11 confirmed witnesses to the event.",
+    "sighted object": "one round, white medium-sized object",
+    "location": "Port Washington, Washington, USA",
+    "number of confirmed witnesses": 11,
+    "witness description": "Civilian observers",
+    "contains photographs": true
 }

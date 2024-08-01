@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person in Passaic, New Jersey saw a bright white, sharply outlined object in the sky on April 7, 1956.",
-    "interesting points": [
-        "The object was visible for about 1 minute and 3 seconds.",
-        "The object was brighter than the stars and hovered below the horizon.",
-        "The witness was looking at the stars and two planes when they noticed the object.",
-        "The witness estimated the object was at an altitude of about 1,000 feet.",
-        "The witness was not able to determine the object's speed or direction of flight."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright white, sharply outlined object",
-    "location": "Passaic, New Jersey",
-    "witnesses": "1 person",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported on April 11, 1956, in Passaic, New Jersey, observed for approximately 1 minute and 3 seconds.",
+    "interesting points": "The UFO had sharply outlined edges but disappeared below the horizon., The exact direction of the flight path was not provided., There were attempts by the author to seek information from the Air Force about the UFO., A questioner related to the UFO sighting had missing questions that could not be written on., The report contained a technical information sheet referencing a very bright white object in the sky.",
+    "sighted object": "one unidentified flying object",
+    "location": "Passaic, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a male student with 8 years of grade school education.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A civilian woman reported seeing a round, orange-colored object in front of her car for about 3 minutes while driving in Winter Park, Florida.",
-    "interesting points": [
-        "The object went down and then up during the observation.",
-        "The investigating officer found it impossible for the witness to have maintained control of her car without watching the road, suggesting the sighting may have been a reflection in the windshield.",
-        "The witness made it clear she did not believe in flying saucers and was convinced of what she observed.",
-        "The investigating officer drove down the same route and found that the large overhanging trees could have obscured the witness's vision at times.",
-        "The investigating officer concluded the sighting was either exaggerated or fictitious and did not recommend further investigation."
-    ],
-    "result": "Reflection",
-    "sighted object": "Round, orange-colored object",
-    "location": "Winter Park, Florida",
-    "witnesses": "Civilian woman",
-    "photographs": "none"
+    "main event": "A civilian observed a round-shaped orange colored object while driving in Winter Park, Florida, on November 16, 1966.",
+    "interesting points": "The object was observed for 3 minutes and moved down then up,The investigator believed it was a reflection in the witness's windshield,The witness was nervous during questioning and had detailed observations,The witness did not believe in flying saucers,The sighting occurred at approximately 2:30 AM.",
+    "sighted object": "round-shaped orange colored object",
+    "location": "Winter Park, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted], returning home in her car.",
+    "contains photographs": false
 }

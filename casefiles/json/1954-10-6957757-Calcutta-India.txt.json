@@ -1,15 +1,9 @@
 {
-    "main event": "A flying saucer was reportedly seen over Calcutta, India on October 31, 1954.",
-    "interesting points": [
-        "The report is based on an article from the 'Hindustan Standard' newspaper.",
-        "The sighting was reported to have occurred in Calcutta, India.",
-        "The sighting was reported on November 28, 1954.",
-        "The duration of the observation is unknown.",
-        "There are no photographs included with the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "a flying saucer",
+    "main event": "A report of a flying saucer observation over Calcutta, India on October 31, 1954.",
+    "interesting points": "The sighting was reported to be of one object,The observation was noted as a meteor observation,The report was derived from an article in the 'Hindustan Standard' newspaper,The date of the report is November 28, 1954, The source of the report was civilian.",
+    "sighted object": "one flying saucer",
     "location": "Calcutta, India",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian source",
+    "contains photographs": false
 }

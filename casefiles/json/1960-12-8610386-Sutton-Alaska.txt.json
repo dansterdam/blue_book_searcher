@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A yellow glowing object was observed by a ground-based radar station in Sutton, Alaska.",
-    "interesting points": [
-        "The object was found with no tail or trail.",
-        "The object appeared slightly above the horizon and rose to over 60 degrees above the horizon.",
-        "The observation lasted for over 3 minutes.",
-        "The object appeared to have a straight flight path slightly north of north across the two dippers.",
-        "The object disappeared into the trees to the east at around 30 degrees above the horizon."
-    ],
-    "result": "likely Sputnik IV",
+    "main event": "A yellow glowing object was observed by a father and son near Sutton, Alaska.",
+    "interesting points": "The object had no tail or trail, The observer noted the object was slightly above the horizon, The object was visible for over 3 minutes, The sighting occurred at night under clear skies, The observation aligns with recent reports from Project Blue Book.",
     "sighted object": "yellow glowing object",
-    "location": "Sutton, Alaska",
-    "witnesses": "observer at radar station",
-    "photographs": "no photographs included"
+    "location": "Sutton, Alaska, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "a father and his sixth-grade son studying stars",
+    "contains photographs": false
 }

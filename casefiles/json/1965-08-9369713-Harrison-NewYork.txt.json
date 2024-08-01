@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian reported seeing a fast-moving object with bright navigation lights and a glowing center over Harrison, New York on August 19, 1965.",
-    "interesting points": [
-        "The object was moving from north to south at a high rate of speed.",
-        "The observer could not detect any sound from the object.",
-        "The object was estimated to be about 300 yards away, 4 feet wide, and 30 feet long.",
-        "The observer had previously reported the sighting to the authorities.",
-        "The Air Force responded by sending the observer a DD Form 1396 to report the unidentified flying object."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a fast-moving object with bright navigation lights and a glowing center",
-    "location": "Harrison, New York",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An observer sighted an unidentified object moving from north to south in Harrison, New York on August 19, 1965.",
+    "interesting points": "The observation took place at 2:00 A.M., The object was traveling at a high rate of speed, The observer detected no sound from the object, The object had bright navigation lights and glowed from the center, The conclusion drawn was that it was a satellite.",
+    "sighted object": "one unidentified object",
+    "location": "Harrison, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer reported seeing the object while looking south.",
+    "contains photographs": false
 }

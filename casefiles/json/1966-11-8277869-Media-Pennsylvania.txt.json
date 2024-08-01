@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A driver spotted a bright, oval-shaped, silvery object moving at a high rate of speed across the sky near Media, PA.",
-    "interesting points": [
-        "The object was estimated to be approximately 40-50 feet in diameter.",
-        "The object was traveling silently and changed direction suddenly, accelerating away at a very high speed.",
-        "The driver called the Blue Book project to report the sighting, as he thought it was worthy of investigation.",
-        "The report includes a handwritten description of the sighting, as well as a possible photograph showing a long, dark object or shape against a snowy or white background.",
-        "The document is stamped with the date 'MEDIA DEC 23 1966', suggesting it is part of the Project Blue Book records."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, oval-shaped, silvery object",
-    "location": "Route 1, near Media, PA",
-    "witnesses": "civilian driver",
-    "photographs": "yes, the report includes a possible photograph"
+    "main event": "Civilians driving along Route 1 near Media, Pennsylvania, observed a bright light moving rapidly across the sky on November 8, 1966.",
+    "interesting points": "The object was described as very bright, resembling a star., It was moving at approximately 5-20 times the speed of ordinary aircraft., The observers noted the object was at a very high altitude., A report from a witness named Raymond Reber detailed an oval-shaped, silvery object moving silently., The object changed direction and accelerated away quickly.",
+    "sighted object": "bright light in the sky",
+    "location": "Media, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians driving along Route 1",
+    "contains photographs": false
 }

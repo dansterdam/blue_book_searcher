@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A UFO with a long blue-green flame entered the area at a 30-degree angle on a heading of 180 degrees.",
-    "interesting points": [
-        "The UFO passed rapidly through the air as a blue-green flame.",
-        "The sighting was observed by a barrier aircraft (N43218, WV-2) at the position 42-23N 174-44W.",
-        "The UFO entered the undercast with a cloud deck at 4000 feet.",
-        "The sighting lasted for 10-15 seconds.",
-        "The report does not contain any photographs, only a Project 10073 Record Card."
-    ],
-    "result": "unexplained",
-    "sighted object": "a UFO with a long blue-green flame",
-    "location": "10°03N 174°44W (Pacific)",
-    "witnesses": "barrier aircraft N43218, WV-2",
-    "photographs": "no"
+    "main event": "A UFO was observed as a long blue-green flame entering the atmosphere at a 30-degree angle on a heading of 180 degrees.",
+    "interesting points": "The sighting lasted for 10-15 seconds.,The UFO was observed to pass rapidly through the air.,The observation was made from a military project perspective.,Only one military project was noted in relation to the sighting.,No photographs were included in the report.",
+    "sighted object": "long blue-green flame",
+    "location": "10°03N 174°44W, Pacific",
+    "number of confirmed witnesses": 0,
+    "witness description": "military personnel from various branches",
+    "contains photographs": false
 }

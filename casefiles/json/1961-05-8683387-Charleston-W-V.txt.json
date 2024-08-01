@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A circular, disc-shaped object was observed by ground radar in Charleston, West Virginia on May 6, 1961.",
-    "interesting points": [
-        "The object exhibited erratic, lateral motion.",
-        "The object faded out towards the south.",
-        "It was possible that the sighting could have been caused by a weather balloon, as weather balloons were reported to be continuing in the general area and the pulsating motion could have been caused by varying wind velocities.",
-        "A 1325 gram weather balloon was launched from Kanawha County Airport by the U.S. Weather Bureau at 15:23 EST on the day of the sighting.",
-        "The balloon reached a maximum altitude of 23,300 feet and remained overhead in the Charleston area for some time."
-    ],
-    "result": "inconclusive",
-    "sighted object": "circular, disc-shaped object",
-    "location": "Charleston, West Virginia",
-    "witnesses": "ground radar",
-    "photographs": "none"
+    "main event": "A circular object was observed exhibiting erratic lateral motion in Charleston, West Virginia, on May 6, 1961.",
+    "interesting points": "The observation lasted for 5 minutes,The object faded out in the southern direction,There was a discussion on the possibility that weather balloons could account for the sighting,The observer noted a pulsating forward motion of the object,The report indicated a good reliability of the observer who was a sales engineer.",
+    "sighted object": "circular disc",
+    "location": "Charleston, W. V., USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "sales engineer with good reliability",
+    "contains photographs": false
 }

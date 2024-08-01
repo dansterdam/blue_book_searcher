@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unknown observers called a UFO report to Air Force authorities. They requested radar confirmation, but radar did not pick up the object. The radar operators were outside and observed what they felt to be the planet Venus.",
-    "interesting points": [
-        "The object was described as white, star-like, and made no noise.",
-        "The radar operators were able to visually confirm the object as the planet Venus.",
-        "The report was made due to previous unconfirmed sightings and publicity in the media.",
-        "The conclusion was that this was a natural phenomenon, likely the planet Venus, and no further investigation was required.",
-        "The document appears to be an old UFO report from Project Blue Book, a U.S. Air Force program that investigated UFOs from 1952 to 1969."
-    ],
-    "result": "natural phenomenon",
-    "sighted object": "white, star-like object",
-    "location": "unknown",
-    "witnesses": "two unknown observers, radar operators",
-    "photographs": "no"
+    "main event": "Two unknown observers reported a UFO sighting to Air Force authorities, which was later identified as likely being the planet Venus.",
+    "interesting points": "The sighting lasted for several minutes,The observers described the object as white and star-like,The object made no noise during the observation,Radar confirmation was requested but did not detect the object,The conclusion stated that it was probably a natural phenomenon, specifically a star.",
+    "sighted object": "one white, star-like object",
+    "location": "Aiken, South Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "unknown observers",
+    "contains photographs": false
 }

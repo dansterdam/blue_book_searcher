@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A large, bright white light resembling a meteor or missile was observed traveling across the sky in Cape Prince of Wales, Alaska.",
-    "interesting points": [
-        "The object was described as having the characteristics of a meteor, with a tail similar to a large meteor.",
-        "The object was observed to be traveling at a medium course with no vertical motion, and it disappeared instantaneously.",
-        "The sighting lasted for approximately 35 seconds.",
-        "The weather observer who reported the sighting was deemed to be reliable.",
-        "No high-speed objects were observed on radar by nearby ACAW (Aircraft Control and Warning) stations at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, bright white light resembling a meteor or missile",
-    "location": "Cape Prince of Wales, Alaska",
-    "witnesses": "weather observer",
-    "photographs": "no"
+    "main event": "A very large white light resembling a star was observed traveling at a medium course for 35 seconds before disappearing instantaneously.",
+    "interesting points": "The observation lasted for 35 seconds,The object resembled a meteor,The sighting occurred on 5 February 1961,The object was reported to have a tail similar to a large meteor,There was no vertical motion observed in the object's trajectory.",
+    "sighted object": "a large white light resembling a star",
+    "location": "Cape Prince of Wales, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "weather observer/reliable",
+    "contains photographs": false
 }

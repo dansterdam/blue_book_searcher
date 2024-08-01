@@ -1,15 +1,9 @@
 {
-    "main event": "A circular-shaped object, the size and shape of a light bulb, was observed emitting sparks and blinking as it moved rapidly across the sky over the Portland, Salem, Corvallis, and Oregon area.",
-    "interesting points": [
-        "The object was observed to be moving back and forth as a blinking light with 'spaces'.",
-        "The object rapidly faded from view after several minutes of observation.",
-        "The sighting occurred during a dark night with smoke and fog in the Portland area.",
-        "Wind conditions were recorded, with varying direction and velocity at different altitudes.",
-        "A newspaper article reported that a large meteor was seen from multiple locations in the same general area and around the same time as the sighting."
-    ],
-    "result": "resolved",
+    "main event": "A circular-shaped object was observed in the Portland area on September 23, 1965.",
+    "interesting points": "The object emitted sparks and was observed blinking., It was seen under conditions of darkness with smoke and fog., The observer used binoculars to observe the object., The object's speed was noted to be faster than a jet aircraft., The incident was later thought to be a meteor sighting based on similar reports from other locations.",
     "sighted object": "circular-shaped object emitting sparks",
-    "location": "Portland, Salem, Corvallis, OR",
-    "witnesses": "multiple, unspecified",
-    "photographs": "no"
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Blank from Portland, Oregon",
+    "contains photographs": false
 }

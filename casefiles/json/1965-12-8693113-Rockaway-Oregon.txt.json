@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report provided:
-
 {
-    "main event": "A reddish-like object was observed floating slowly at about 75-100 feet above the ground for 5 minutes in Rockaway, Oregon.",
-    "interesting points": [
-        "The object was round and reddish-like in color.",
-        "The object was observed creeping along very slowly and did not disappear.",
-        "No attempt was made to disturb the object.",
-        "The report was submitted to Project Blue Book for evaluation.",
-        "Meteorological data was provided, including cloud cover, wind speed, and temperature gradient."
-    ],
-    "result": "unexplained",
-    "sighted object": "a reddish-like round object",
-    "location": "Rockaway, Oregon",
-    "witnesses": "a civilian",
-    "photographs": "none"
+    "main event": "A civilian reported seeing a reddish-like round object floating slowly in Rockaway, Oregon on December 7, 1955.",
+    "interesting points": "The object was observed creeping along at a height of approximately 75 to 100 feet above the ground., The observation lasted for about 5 minutes., The object did not disappear during the sighting., The course of the object was approximately 350-4 north., There were no photographs or physical evidence documented.",
+    "sighted object": "a round reddish-like object",
+    "location": "Rockaway, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian who reported the sighting",
+    "contains photographs": false
 }

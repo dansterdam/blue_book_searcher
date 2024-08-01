@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A red, oval-shaped object appeared to be tumbling end over end in a straight line flight at a 30-degree elevation in the southwest sky.",
-    "interesting points": [
-        "The object was described as shaped like a frankfurter.",
-        "The observer attempted to make a phone call but could not.",
-        "The sighting occurred in the late afternoon.",
-        "The object disappeared behind trees after approximately 5 minutes.",
-        "There was no sound associated with the object."
-    ],
-    "result": "Probable High-Flying Jet",
-    "sighted object": "Red, oval-shaped object",
-    "location": "Arlington, Massachusetts",
-    "witnesses": "Civilian observer",
-    "photographs": "None"
+    "main event": "A civilian observed an object shaped like a frankfurter, tumbling end over end in the sky, in Arlington, Massachusetts on December 1, 1962.",
+    "interesting points": "The object was red in color and appeared to be flying at a 30-degree elevation in the southwest., The sighting lasted approximately 3-5 minutes., The observer attempted to call for help but was unable to get through., The object was described as tumbling end over end during its flight., It was concluded that the sighting probably involved a high-flying jet due to unobserved sun caused by clouds.",
+    "sighted object": "one red frankfurter-shaped object",
+    "location": "Arlington, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian from Arlington, Massachusetts",
+    "contains photographs": false
 }

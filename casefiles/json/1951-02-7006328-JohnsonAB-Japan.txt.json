@@ -1,15 +1,9 @@
 {
-  "main event": "An F-82 aircraft observed an unidentified object traveling at high speed, making multiple turns, and changing altitude in Japan on 1 February 1951.",
-  "interesting points": [
-    "The object was silvery in color, circular in shape, and approximately the size of a C-47 airplane.",
-    "Weather conditions were clear with no unusual phenomena reported at the time of the sighting.",
-    "The tactical control center had good contact with the F-82 but did not detect another blip on the scope.",
-    "A weather balloon release was suggested as a possible explanation for the sighting.",
-    "The headquarter concurred with the evaluation that exercised sound and ensured judgment in the handling of the matter."
-  ],
-  "result": "Unexplained",
-  "sighted object": "Unidentified silvery, circular object",
-  "location": "Johnson AB, Japan",
-  "witnesses": "Military personnel (pilot and radar observer)",
-  "photographs": "No photographs included in the report"
+    "main event": "An unidentified aerial object was observed by an F-82 aircraft from the 339th Fighter Squadron at Misawa Air Base, Japan, on February 1, 1951.",
+    "interesting points": "The object was silvery, circular, and approximately the size of a C-47 airplane.,The object performed several 360-degree turns at high speed.,The pilot reported the object after leveling off at 6000 feet.,Weather conditions were clear with no unusual phenomena reported before the sighting.,No positive identification of the object was ever established, and radar did not detect it.",
+    "sighted object": "unidentified circular object",
+    "location": "Johnson AB, Japan",
+    "number of confirmed witnesses": 2,
+    "witness description": "F-82 aircraft pilot and radar observer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Several military aircraft reported sightings of an unidentified object, with radar confirmation, in Newfoundland in July 1955. The object demonstrated erratic movement, rapid speed, and altitude changes.",
-    "interesting points": [
-        "Military aircraft, including KC-97s, sighted the object and attempted to close in on it, but it moved very fast and evasively, ultimately disappearing from view.",
-        "The object remained visible to radar for an extended period and was also visually confirmed by multiple credible witnesses, including pilots and crew members.",
-        "At the same time, radar sites were also picking up smaller objects below the KC-97s at altitudes of 5-10,000 feet, adding complexity to the sighting.",
-        "The object's behavior included hovering, climbing to an estimated altitude of 40-50,000 feet, and making sharp turns, forming circular and line abreast patterns.",
-        "The sighting prompted military personnel to scramble fighters and investigate the object, but no conclusive explanation was reached."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified bright light or object moving erratically",
-    "location": "Newfoundland",
-    "witnesses": "multiple military personnel including pilots and radar operators",
-    "photographs": "no, the report does not include photographs"
+    "main event": "A military refueling mission involving KC-97 aircraft reported sightings of an unidentified object over Newfoundland on July 5, 1955.",
+    "interesting points": "The object was initially sighted at 0705Z, hovered at a 10 o'clock position, and climbed to an estimated altitude of 40-50,000 feet, The object exhibited rapid directional changes and was lost on radar after moving fast, A fighter jet was scrambled but obtained negative results, While one object was reported on radar, five smaller objects were simultaneously detected below the KC-97, The object demonstrated erratic movement and was described as resembling a bright light before disappearing.",
+    "sighted object": "unidentified object (bright light)",
+    "location": "Newfoundland, NL, CA",
+    "number of confirmed witnesses": 5,
+    "witness description": "military personnel including pilots and radar operators",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A silver, round object was observed over Portland, Oregon for 3 minutes on July 30, 1955.",
-    "interesting points": [
-        "The object was seen by both civilian and military (GOC) witnesses.",
-        "The object was described as standing still and not maneuvering.",
-        "The report suggests the object may have been a balloon.",
-        "No recommendation was authorized in the conclusion.",
-        "The sighting lasted for 3 minutes."
-    ],
-    "result": "possibly a balloon",
-    "sighted object": "one silver, round object",
-    "location": "Portland, Oregon",
-    "witnesses": "civilian and military (GOC)",
-    "photographs": "no"
+    "main event": "A round, silver object was observed in Portland, Oregon on July 30, 1955, for a duration of three minutes.",
+    "interesting points": "The object was described as round and silver and made no sound., It appeared to be stationary and did not maneuver., The object disappeared over a hill after the observation., The sighting lasted for about three minutes., The object is suspected to be a balloon based on the report.",
+    "sighted object": "one round silver object",
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A housewife and a military personnel",
+    "contains photographs": false
 }

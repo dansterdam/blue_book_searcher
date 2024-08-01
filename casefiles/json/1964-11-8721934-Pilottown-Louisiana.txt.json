@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An aerial explosion was observed over the Mississippi River near Pilottown, Louisiana at an estimated altitude of 30-35,000 feet.",
-    "interesting points": [
-        "The explosion was observed from the Mississippi Bar Pilot Station at Pilottown, Louisiana as well as from the SS Polarlacht, a vessel proceeding up the river in the vicinity of Pilottown.",
-        "Air Traffic Control in New Orleans reported no aircraft in the area at the time of the sighting.",
-        "The report notes that the observation was submitted to CTA per AFHO 12-392 and that advisory copies were sent to DIA, NIN and XOFX.",
-        "The report characterizes the event as an 'aerial explosion' but provides no further details about the nature or cause of the explosion.",
-        "There are no photographs or other physical evidence associated with this report."
-    ],
-    "result": "unexplained",
+    "main event": "An aerial explosion was reported over the Mississippi River near Pilottown on November 18, 1964.",
+    "interesting points": "The explosion was estimated to occur at an altitude of 30,000 to 35,000 feet., The sighting was reported by the Mississippi Bar Pilot Station and also observed from the SS PolarLacht., No aircraft were reported in the area by Air Traffic Control in New Orleans., The report was filed under Project Blue Book, which investigated UFO sightings., There is insufficient data for a definitive explanation of the event.",
     "sighted object": "aerial explosion",
-    "location": "Over the Mississippi River near Pilottown, Louisiana",
-    "witnesses": "Mississippi Bar Pilot Station at Pilottown, Louisiana and the crew of the SS Polarlacht",
-    "photographs": "no"
+    "location": "Pilottown, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mississippi Bar Pilot Station, also observed from a vessel.",
+    "contains photographs": false
 }

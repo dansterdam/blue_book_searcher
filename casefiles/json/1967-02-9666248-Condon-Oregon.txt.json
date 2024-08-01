@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the provided UFO report:
-
 {
-    "main event": "An unidentified circular object was observed changing colors from white to red to blue over Condon, Oregon on February 18, 1967.",
-    "interesting points": [
-        "The object was unable to be obtained due to high winds.",
-        "The object disappeared while the sighting was being reported.",
-        "The sighting was reported to Gordon Air Forces Base, which was close to the witness's location.",
-        "The witness, Gordon Jr., was 19 years old at the time and was with another witness, Carvin D. Standley.",
-        "The report includes detailed information about the weather conditions and the object's motion, including its apparent speed of 75-90 mph and distance of 2-3 miles."
-    ],
-    "result": "unexplained (CONFLICTING DATA)",
-    "sighted object": "circular object changing colors from white to red to blue",
-    "location": "Condon, Oregon",
-    "witnesses": "Gordon Jr. and Carvin D. Standley",
-    "photographs": "no photographs included"
+    "main event": "On February 18, 1967, a circular object was observed in Condon, Oregon, that changed colors from white to red to blue and disappeared during the reporting process.",
+    "interesting points": "The object changed colors while in view., The sighting occurred in high winds, which made it difficult to obtain clear observations., The object was reported to Gordon Air Forces Base., There were two witnesses who confirmed the sighting., The reporting individual indicated that the object was about 2 to 3 miles away and estimated its speed at 75 to 90 MPH.",
+    "sighted object": "circular UFO changing colors",
+    "location": "Condon, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Gordon, a 19-year-old male, and another individual named Carvin D. Standley.",
+    "contains photographs": false
 }

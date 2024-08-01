@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report provided:
-
 {
-    "main event": "A witness reported seeing a bright, circular object with unusual motions in the sky over Greenville, Ohio in 1955.",
-    "interesting points": [
-        "The object was described as a round red object with a large tail or what appeared to be fire.",
-        "The object was first seen in the south and disappeared in the southeast.",
-        "The object appeared to move in a roughly northeast direction.",
-        "The report indicates the object exhibited unusual motions, including hovering, sudden acceleration, and disappearing from sight.",
-        "The observer felt the object was possibly a solid object rather than just a light phenomenon."
-    ],
-    "result": "probable (satellites decay)",
-    "sighted object": "a bright, circular object",
-    "location": "Greenville, Ohio",
-    "witnesses": "a single observer",
-    "photographs": "no photographs included in the report"
+    "main event": "An observer sighted a round red object with a large tail, which was likely the result of satellite debris decaying in the atmosphere on March 15, 1955.",
+    "interesting points": "The object was first seen in the south and disappeared in the southeast,The observer reported the object had a large fiery tail,The event was likely due to the decay of satellites according to Project Blue Book,The observer witnessed this phenomenon unaided and through binoculars,The report includes a follow-up from the Air Force confirming the object's probable identification as satellite debris.",
+    "sighted object": "a round red object with a fiery tail",
+    "location": "Greenville, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "real estate broker, male",
+    "contains photographs": false
 }

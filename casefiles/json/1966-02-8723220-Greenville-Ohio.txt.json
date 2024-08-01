@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A resident of Greenville, Ohio reported seeing a bright, red light hovering and moving slowly above the horizon in the evening of February 15, 1966.",
-    "interesting points": [
-        "The object was hovering and moving up and down vertically for about 3 minutes.",
-        "The object seemed to sway from side to side before disappearing from view.",
-        "The witness stated they had never seen anything like it before.",
-        "The sighting occurred around 10:00 PM, which was outside the normal time period for seeing aircraft in the area.",
-        "The witness was driving home when they noticed the object in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, red hovering light",
-    "location": "Greenville, Ohio",
-    "witnesses": "1 civilian witness",
-    "photographs": "none"
+    "main event": "A witness reported seeing a bright red light hovering over Greenville, Ohio, on February 15-16, 1966.",
+    "interesting points": "The object was observed for about 5 minutes and appeared to move slowly in a vertical motion., The witness described it as very bright and colorful, unlike anything they had seen before., The object was located approximately 35 degrees above the horizon in the west., The observer was located inside their house but could see the object clearly., The conclusion drawn was that the object was the moon, however, the witness disputed this based on their observations.",
+    "sighted object": "a bright red light",
+    "location": "Greenville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness observed the object from their house and was familiar with planes, indicating this was not a routine flight.",
+    "contains photographs": false
 }

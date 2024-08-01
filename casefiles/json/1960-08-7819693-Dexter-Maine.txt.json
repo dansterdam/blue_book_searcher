@@ -1,15 +1,9 @@
 {
-  "main event": "A bright, elongated light was observed by a civilian in Dexter, Maine on August 3, 1956. The object did not conform to the characteristics of a normal aircraft.",
-  "interesting points": [
-    "The object was described as a single, bright, elongated light.",
-    "The object appeared to be an aircraft but did not behave like a normal aircraft.",
-    "The sighting lasted for 2-3 minutes.",
-    "The Air Force concluded the sighting was possibly a balloon, astronomical meteor, aircraft, or astronomical star/planet, but the cause was unknown.",
-    "The Air Force requested a complete report be submitted in accordance with Air Force regulations and that the University of Maine Observatory be checked to determine if they saw the object and if it was of astronomical origin."
-  ],
-  "result": "unknown",
-  "sighted object": "a bright, elongated light",
-  "location": "Dexter, Maine",
-  "witnesses": "a civilian",
-  "photographs": "no"
+    "main event": "A civilian observed a single, bright, elongated light in the sky, suspected to be an aircraft but not conforming to typical characteristics.",
+    "interesting points": "The sighting lasted for about 2-3 minutes., The object was observed at approximately 2242Z on August 3, 1956., The object was described as an elongated bright light., The witness reported it did not conform to standard aircraft characteristics., Various conclusions suggested the object could be a balloon, meteor, or an astronomical star or planet.",
+    "sighted object": "a bright elongated light",
+    "location": "Dexter, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian",
+    "contains photographs": false
 }

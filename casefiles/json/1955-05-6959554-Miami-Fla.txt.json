@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sighting of an unidentified aerial object years ago. Exact data unknown. Thirteen objects with various motions, main body came and went over observers. Remained motionless for 13 minutes. Twelve of the objects moved too fast for detail. Main object had a dome.",
-    "interesting points": [
-        "Thirteen objects were observed, with the main body coming and going over the observers.",
-        "The objects remained motionless for 13 minutes.",
-        "Twelve of the objects moved too fast for detail, but the main object had a dome.",
-        "The sighting occurred in Miami, Florida in May 1955.",
-        "Another sighting was reported of a cigar-shaped, rotating object that traveled rapidly in a southwesterly direction and was observed for about 30 seconds."
-    ],
-    "result": "unexplained",
-    "sighted object": "13 unidentified aerial objects, including a main object with a dome",
-    "location": "Miami, Florida",
-    "witnesses": "multiple observers",
-    "photographs": "none"
+    "main event": "Sighting of thirteen unidentified aerial objects over Miami, Florida on May 19, 1955.",
+    "interesting points": "The main object had a dome and remained motionless for 13 minutes., Twelve of the objects moved too fast for detail., The total sighting duration was about 15 minutes., The witness reported that the object disappeared and reappeared at times., The witness had previously seen similar objects several times in the past two years.",
+    "sighted object": "thirteen unidentified aerial objects",
+    "location": "Miami, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Male, 26 years old, with a history of interest in unidentified objects.",
+    "contains photographs": false
 }

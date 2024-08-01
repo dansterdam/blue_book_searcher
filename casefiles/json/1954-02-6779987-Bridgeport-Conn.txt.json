@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Bright silvery, spherical object sighting at 20 deg elevation for 21 minutes.",
-    "interesting points": [
-        "The object was approximately 30 feet in diameter.",
-        "The object's shape was cylindrical and it moved at a very rapid speed.",
-        "The sighting was observed visually and lasted for 24 minutes.",
-        "The sighting was reported by the control tower at Bridgeport Airport in Connecticut.",
-        "The object could not be identified and the UFO report could not be released."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright silvery, spherical object",
-    "location": "Bridgeport, Connecticut",
-    "witnesses": "control tower at Bridgeport Airport",
-    "photographs": "none"
+    "main event": "Bright silvery spherical object sighted at a 20-degree elevation on February 9, 1954.",
+    "interesting points": "The object was approximately 30 feet in diameter., The observe time lasted for 21 minutes., The shape of the object was cylindrical., The object exhibited very rapid speed., The observation was conducted visually and with binoculars.",
+    "sighted object": "bright silvery spherical object",
+    "location": "Bridgeport, Connecticut, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "control tower personnel at Bridgeport Airport",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A report of a brief flash observed by a witness on the ground and detected by radar.",
-    "interesting points": [
-        "The sighting lasted for less than 3 seconds.",
-        "The report indicates it was a single object.",
-        "The report suggests it was a possible meteor, but lacks sufficient data.",
-        "This was a report with no prior correspondence from the witness.",
-        "The sighting was detected by both ground-based observation and radar."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a brief flash",
-    "location": "Lincoln Park, Michigan",
-    "witnesses": "a witness on the ground and radar detection",
-    "photographs": "no"
+    "main event": "A witness reported seeing a flash in the sky, potentially a meteor, in Lincoln Park, Michigan on 29 Oct 1963.",
+    "interesting points": "The sighting lasted less than 3 seconds., It was observed using ground radar., Only one object was reported., The witness had no previous correspondence about similar sightings., Insufficient data available for further analysis.",
+    "sighted object": "a flash in the sky",
+    "location": "Lincoln Park, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "witness with no previous correspondence",
+    "contains photographs": false
 }

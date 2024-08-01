@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A dazzling white light was observed changing in altitude over Pueblo, Colorado for 7-8 minutes.",
-    "interesting points": [
-        "The light appeared to pulsate and change in altitude during the observation.",
-        "The witness stated it was a strange observation that they could not identify.",
-        "The light was observed as it moved to the south and appeared to be a definite solid object rather than a celestial phenomenon.",
-        "Another report describes a bright light moving from west to east that made a sharp 90-degree turn and quickly accelerated before disappearing from sight.",
-        "A third report describes saucer-shaped, silver objects that moved at a high rate of speed, making a swishing sound, and were observed for 2-3 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "dazzling white light, bright light, saucer-shaped silver objects",
-    "location": "Pueblo, Colorado",
-    "witnesses": "multiple",
-    "photographs": "none"
+    "main event": "A bright pulsating white light was observed changing altitude and direction over Pueblo, Colorado, on January 6, 1952.",
+    "interesting points": "The light was noted to be a solid object rather than a celestial phenomenon., The observation lasted for about 7-8 minutes without any sound., A later interview with witnesses confirmed they were credible and saw objects with a swishing sound., Three observers reported seeing the objects, which were saucer-shaped and silver in color., The objects were estimated to be about 100 feet in diameter and moved at a high rate of speed.",
+    "sighted object": "a dazzling white light",
+    "location": "Pueblo, Colorado, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "The observers described the objects' shape, color, size, and movement indicating they believed it to be under intelligent control.",
+    "contains photographs": false
 }

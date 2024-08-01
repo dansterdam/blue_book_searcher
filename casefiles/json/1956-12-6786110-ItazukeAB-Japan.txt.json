@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two USAF jet pilots chased a large, round unidentified object near Itazuke AB, Japan in December 1956.",
-    "interesting points": [
-        "The object was estimated to be at least 200 feet in diameter, and possibly closer to 350 feet.",
-        "The object's radar image was much larger than a normal aircraft return.",
-        "The object accelerated to an estimated speed of 1,800 to 2,160 mph when the jet tried to close in on it.",
-        "The jet's radar was jammed by a strong interference signal when it approached the object, but the pilots were able to regain the lock-on.",
-        "All equipment on the jet, including the radar, was tested and found to be functioning normally after the incident."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, circular unidentified object",
+    "main event": "On December 6, 1956, an unidentified flying object was observed over Itazuke Air Base, Japan by several military personnel.",
+    "interesting points": "The object was described as circular and saucer-shaped, hovering for approximately 10 minutes before accelerating away at a high speed., Radar indicated a strange blip from the object which presented difficulties in tracking due to interference., The object was estimated to be at least 200 feet in diameter and displayed unusual speed capabilities., The incident remains classified as an unidentified flying object despite attempts to categorize it as a weather balloon., This case is noteworthy as it involved both visual and radar observations simultaneously.",
+    "sighted object": "circular, saucer-shaped craft",
     "location": "Itazuke AB, Japan",
-    "witnesses": "two USAF jet pilots",
-    "photographs": "none"
+    "number of confirmed witnesses": 10,
+    "witness description": "military personnel at Itazuke Air Base",
+    "contains photographs": false
 }

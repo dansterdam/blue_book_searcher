@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A civilian in Malden, Massachusetts reported seeing a large bright light in the sky that would disappear and reappear over the Atlantic Ocean for about an hour.",
-    "interesting points": [
-        "The object was seen by the witness and two of their roommates from the fourth floor of their apartment building.",
-        "The object would occasionally disappear and then reappear.",
-        "The object moved in a southerly direction, getting smaller and smaller until it became just a point and was lost from sight.",
-        "The witness contacted the Smithsonian Astrophysical Observatory about the sighting and was advised to report it to the Technical Intelligence Division at Wright-Patterson Air Force Base.",
-        "The witness noted that the object was not seen by the Logan International Airport Observatory, which they found strange since the object was emitting rays."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large bright light in the sky",
-    "location": "Malden, Massachusetts",
-    "witnesses": "the witness and two roommates",
-    "photographs": "none"
+    "main event": "A civilian reported seeing a bright light in the sky from Malden, Massachusetts, on March 28, 1966.",
+    "interesting points": "The object was observed for about one hour and was identified as the planet Venus,The object appeared as a bright white light that moved higher in the sky until it faded out at daylight,The sighting involved three witnesses,The report included a detailed questionnaire that sought extensive information from the observer,No physical evidence or photographs were documented.",
+    "sighted object": "a bright white light in the sky",
+    "location": "Malden, Massachusetts, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilian observers living in an apartment",
+    "contains photographs": false
 }

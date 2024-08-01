@@ -1,15 +1,9 @@
 {
-    "main event": "A blank page with no textual content or photographs was provided as a UFO report.",
-    "interesting points": [
-        "The report states that it includes a photograph, but the provided image does not contain any visible photographs.",
-        "The report is dated September 20, 1952, and was recorded at sea on the USS Franklin D. Roosevelt.",
-        "The report is labeled as 'File 2110', indicating it is part of a larger collection of UFO documents.",
-        "The report is only 2 pages long, with the first page stating that a photograph is included, but the second page is completely blank.",
-        "The lack of any substantive information or visual evidence in the report makes it difficult to draw any conclusions about the reported UFO sighting."
-    ],
-    "result": "inconclusive",
-    "sighted object": "No object was described in the report.",
-    "location": "At sea on USS Franklin D. Roosevelt",
-    "witnesses": "Unknown",
-    "photographs": "No photographs were provided, despite the report stating that a photo was included."
+    "main event": "A UFO report was filed on September 20, 1952, aboard the USS Franklin D. Roosevelt.",
+    "interesting points": "The report was filed at sea,The document mentions the presence of a photo but it is a blank black page,The absence of visible photographs raises questions,The report was created aboard a naval vessel,The specific nature of the UFO sighting remains unknown.",
+    "sighted object": "UFO",
+    "location": "at sea, USS Franklin D. Roosevelt",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

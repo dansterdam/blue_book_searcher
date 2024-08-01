@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A single unidentified bluish-white object appearing as a pinpoint of light was sighted passing over East Springfield, Massachusetts at 22/0230Z.",
-    "interesting points": [
-        "The object was observed for approximately three seconds as it traveled in a flat trajectory, appearing to 'skip' from 89 degrees elevation in the west to 92 degrees, then to 39 degrees in the east before gradually disappearing.",
-        "No noise was heard, and the weather was clear with unknown winds aloft.",
-        "The observer, a gas station attendant, is considered reliable by a lieutenant pilot from the same organization.",
-        "Another unidentified customer at the gas station was also a witness to the sighting.",
-        "No physical evidence of the sighting was available, and no interception or identification action was taken."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified bluish-white object appearing as a pinpoint of light",
-    "location": "East Springfield, Massachusetts",
-    "witnesses": "a gas station attendant and an unidentified customer",
-    "photographs": "no photographs present in the document"
+    "main event": "A bluish white object resembling a pinpoint of light was sighted passing over East Springfield, Massachusetts.",
+    "interesting points": "The sighting occurred on January 22, 1952, at approximately 5:30 AM UTC,The object was observed for about three seconds as it traveled in a flat trajectory,The object was estimated to be at an altitude of 49,203 feet,No noise was heard during the sighting and the weather was clear,Only one confirmed reliable witness was present, who was a gas station attendant.",
+    "sighted object": "bluish white object appearing as a pinpoint of light",
+    "location": "East Springfield, Massachusetts, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A gas station attendant and an unidentified customer",
+    "contains photographs": false
 }

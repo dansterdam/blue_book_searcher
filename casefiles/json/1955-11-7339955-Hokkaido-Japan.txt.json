@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A pilot in an F-86 fighter jet spotted a large, glowing, circular or spherical object over Hokkaido, Japan on November 24, 1955.",
-    "interesting points": [
-        "The object appeared to be about 3 miles in diameter and was a deep red color with an orange tint.",
-        "The object was observed for about 5 minutes and then made a sharp turn and disappeared within 2 minutes.",
-        "The pilot initially thought the object could be an aircraft on fire or a nuclear explosion, but ruled those out after further observation.",
-        "An elongated dark object appeared to be blocking about one-fifth of the sphere.",
-        "The sighting occurred around the time the moon was setting, but evaluations indicate the object was not a reflection of the moon."
-    ],
-    "result": "unknown",
-    "sighted object": "a large, glowing, circular or spherical object",
+    "main event": "An F-86 pilot reported seeing a high-intensity red glow in the sky over Hokkaido, Japan on November 24, 1955.",
+    "interesting points": "The object was initially seen as spherical but changed to an oblong shape while retaining brightness., The glow was stationary and disappeared gradually over a 5-minute observation period., The pilot reported the sighting at an altitude of 25,000 feet., The sighting was evaluated as possibly being a reflection of the moon through clouds., The object was visible for approximately 5 minutes, and the report contained no photographs.",
+    "sighted object": "a high-intensity red glow in the sky",
     "location": "Hokkaido, Japan",
-    "witnesses": "F-86 fighter jet pilot",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "F-86 pilot",
+    "contains photographs": false
 }

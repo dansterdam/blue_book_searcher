@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed two amber colored objects ascend and descend on a vertical plane in Griffithville, Arkansas on January 16, 1967.",
-    "interesting points": [
-        "The objects were going on and off like a light being turned off, ascending and descending rapidly.",
-        "The investigating officer concluded that the sighting was caused by various astronomical phenomena.",
-        "The report includes details such as the time, location, duration, and type of observation (ground visual).",
-        "There were no photographs or physical evidence associated with the sighting.",
-        "The conclusion was that the sighting was likely an astronomical observation."
-    ],
-    "result": "Astro (5/7)",
+    "main event": "Two amber colored objects were observed extending and descending on a vertical plane over Griffithville, Arkansas.",
+    "interesting points": "The objects exhibited zig-zag movements,The objects appeared to turn on and off like a light,The duration of the observation was between 5 to 15 minutes,The investigation concluded the sighting was likely caused by astronomical phenomena,No physical evidence was found to support the sighting.",
     "sighted object": "two amber colored objects",
-    "location": "Griffithville, Arkansas",
-    "witnesses": "civilian",
-    "photographs": "No"
+    "location": "Griffithville, Arkansas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer with an interest in aerial phenomena",
+    "contains photographs": false
 }

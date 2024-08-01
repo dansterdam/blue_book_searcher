@@ -1,15 +1,9 @@
 {
-    "main event": "Two glowing red objects were detected on radar for approximately 2 minutes.",
-    "interesting points": [
-        "The objects were described as 'clipping' and glowing red.",
-        "The report includes wind speed and direction data at various altitudes.",
-        "The sighting was reported to multiple military commands, including the Deputy Director of Air Technical Intelligence Center and the Director of Intelligence at USAF Headquarters.",
-        "The report uses military shorthand and codes, indicating it was part of an official investigation.",
-        "The conclusion states that the sighting was 'Possibly Balloon', 'Was Accidentally Caused', or 'Probably Astronomical', but also notes 'Insufficient Data for Evaluation'."
-    ],
-    "result": "inconclusive",
-    "sighted object": "two glowing red objects detected on radar",
-    "location": "Eugene, OR",
-    "witnesses": "radar operators",
-    "photographs": "no photographs included"
+    "main event": "Two objects were spotted on radar, described as clipping and glowing red.",
+    "interesting points": "The sighting lasted for 2 minutes., The objects were detected via ground radar., The report indicated the possibility of the objects being balloons., Various conclusions were drawn regarding the nature of the objects including astronomical explanations., Insufficient data was available for a comprehensive evaluation.",
+    "sighted object": "two glowing red objects",
+    "location": "Eugene, Oregon, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian report from Eugene",
+    "contains photographs": false
 }

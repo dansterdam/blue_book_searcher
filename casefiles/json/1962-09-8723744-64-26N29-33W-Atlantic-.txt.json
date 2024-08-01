@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
     "main event": "An unknown object was observed moving at a high rate of speed from west to east over the Atlantic Ocean on September 3, 1962.",
-    "interesting points": [
-        "The object was detected on both ground-radar and air-intercept radar.",
-        "The sighting lasted for approximately 1-2 minutes.",
-        "The object was evaluated to be a possible satellite.",
-        "The object was described as a single light, white in color, and of the largest size of a first magnitude star.",
-        "The object was observed by the crew of an aircraft and was tracked for 33 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unknown object",
-    "location": "Atlantic Ocean, 26.39N",
-    "witnesses": "crew of an aircraft, ground-radar and air-intercept radar operators",
-    "photographs": "none"
+    "interesting points": "The object was tracked for approximately 1-2 minutes,The sighting was recorded via both ground-radar and air-intercept radar,The object was classified by the case as a satellite,No photographs are included in the report,The case was part of Project 10073.",
+    "sighted object": "unknown object moving at high speed",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "Observation was made via radar, no eyewitness accounts reported.",
+    "contains photographs": false
 }

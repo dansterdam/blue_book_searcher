@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a starlike object that seemed to pulsate or flash on and off as it passed by and went over the horizon. The observer claimed to see this object every clear night.",
-    "interesting points": [
-        "The observer has reported this object before and claims to see it every clear night.",
-        "The object was described as a starlike object that seemed to pulsate or flash on and off as it passed by.",
-        "The object was observed going over the horizon.",
-        "The report states that the conclusion is that this sighting is astronomical in nature, likely a star or reflection from sundown.",
-        "The object was observed from a GOG (Ground Observer Corps) post."
-    ],
-    "result": "astronomical in nature, likely a star or reflection",
-    "sighted object": "a starlike object that seemed to pulsate or flash on and off",
-    "location": "Belleview, Florida",
-    "witnesses": "a civilian observer",
-    "photographs": "none"
+    "main event": "An observer reported seeing a pulsating starlike object over Belleview, Florida on clear nights.",
+    "interesting points": "The object is described as pulsating or flashing on and off as it moved over the horizon., The observer claims to see this object every clear night after sundown., This sighting has been reported multiple times by the same observer., The conclusion states that the sighting is astronomical in nature., The object appeared very low and disappeared over the horizon during descent.",
+    "sighted object": "one starlike pulsating object",
+    "location": "Belleview, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an observer who has reported this sighting multiple times",
+    "contains photographs": false
 }

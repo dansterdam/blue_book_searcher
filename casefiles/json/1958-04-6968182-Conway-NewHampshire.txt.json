@@ -1,15 +1,9 @@
 {
-	"main event": "The report provides details of a UFO sighting involving a silver object observed by a military crew in the vicinity of Syracuse, New York and Plattsburgh AFB, New York on April 19, 1958.",
-	"interesting points": [
-		"The object was initially mistaken for a balloon but did not disappear as rapidly as expected, leading to close observation by the crew.",
-		"The object appeared stationary at times and then moved in a straight line, circling the P-47 aircraft for approximately 8 minutes.",
-		"The crew of the P-47D aircraft described the object as oval and conical in shape with a blue-green tint.",
-		"The object was observed for approximately 15 minutes and then disappeared, with the aircraft crew and radar indicating altitude changes and movements.",
-		"The report includes information about the time, date, location, altitude, and identification of the observers involved in the sighting."
-	],
-	"result": "unexplained",
-	"sighted object": "silver oval and conical object with a blue-green tint",
-	"location": "vicinity of Syracuse, New York and Plattsburgh AFB, New York",
-	"witnesses": "military crew of a P-47D aircraft (Captain, Co-Pilot, Navigator)",
-	"photographs": "no"
+    "main event": "On April 19, 1958, the crew of a B-47 aircraft observed a round, silver object in the sky above them near Syracuse, New York.",
+    "interesting points": "The object was first thought to be a balloon but remained visible for twenty minutes and did not disappear as expected., The object changed colors from bright white to reddish., The altitude of the B-47 was 32,000 feet with excellent visibility., The sighting occurred during clear weather conditions with no unusual activity reported., Several observers confirmed seeing the object, all providing the same description.",
+    "sighted object": "round, silver object",
+    "location": "Conway, New Hampshire, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "crew members of a B-47 aircraft",
+    "contains photographs": false
 }

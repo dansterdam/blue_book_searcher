@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A witness reported seeing a bright, round, saucer-shaped object approximately 30 feet in diameter near Fort Worth, Texas on August 13, 1952.",
-    "interesting points": [
-        "The object was brightly illuminated and hovered for a moment before accelerating rapidly upwards and disappearing.",
-        "Another sighting involved four similar objects moving in a straight line at an extremely high rate of speed over Louisiana on August 8, 1952.",
-        "The object in the Fort Worth sighting was estimated to be about 50-75 yards overhead and 100 feet above the ground.",
-        "The witness was considered a credible observer and her husband also witnessed the sighting.",
-        "No sound was evident from the object in the Fort Worth sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, saucer-shaped object approximately 30 feet in diameter",
-    "location": "Fort Worth, Texas; Louisiana",
-    "witnesses": "a civilian couple, Lt Col Theodore J. Pascoe",
-    "photographs": "none"
+    "main event": "A witness reported observing a bright, round, saucer-shaped object over Fort Worth, Texas, on August 13, 1952.",
+    "interesting points": "The object appeared larger than a star, about the size of a 5 cent piece at arm's length.,It was estimated to be about 100 feet above the ground and approximately 30 feet in diameter.,The object was brightly illuminated with no sound evident during the sighting.,When it was directly overhead, it hovered for a moment before accelerating rapidly upwards and disappearing.,The witness is described as a credible observer who was excited but composed.",
+    "sighted object": "a bright, round, saucer-shaped object",
+    "location": "Fort Worth, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a woman and her husband",
+    "contains photographs": false
 }

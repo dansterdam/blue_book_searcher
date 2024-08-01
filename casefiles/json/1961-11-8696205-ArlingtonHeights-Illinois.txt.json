@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three unusual radar returns were observed approaching the Chicago area at speeds in excess of 4000 knots on November 7, 1961.",
-    "interesting points": [
-        "The radar returns were very sharp with the video tilted about 30 degrees due to the high speed of the objects.",
-        "The first two objects vanished in the ground clutter and did not reappear, while the third object vanished about 120,000 yards prior to reaching the ground clutter.",
-        "Immediately after the sightings, the equipment was tested and found to be in perfect operating order.",
-        "The objects were observed by several employees of the Martin Company and Army personnel at an artillery brigade in Arlington Heights, Illinois.",
-        "The objects were approaching from the east-southeast with 30 second separation."
-    ],
-    "result": "unknown",
-    "sighted object": "three unusual radar returns",
-    "location": "Arlington Heights, Illinois",
-    "witnesses": "Martin Company employees and Army personnel",
-    "photographs": "no"
+    "main event": "Three objects were observed on the radar by Army personnel and employees of Martin Company in Arlington Heights, Illinois on 7 November 1961.",
+    "interesting points": "The objects were reported to be approaching the Chicago area with 30 second separation,Estimated speeds in excess of 4000 knots were noted during radar observation,Two of the objects vanished in ground clutter while the third disappeared before reaching it,The sighting lasted approximately 3 minutes,Type of sighting was inconclusive and lacked sufficient data for definitive analysis.",
+    "sighted object": "three unidentified radar returns",
+    "location": "Arlington Heights, Illinois, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Army personnel and employees of Martin Company",
+    "contains photographs": false
 }

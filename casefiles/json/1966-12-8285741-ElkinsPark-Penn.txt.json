@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A civilian in Elkins Park, Pennsylvania reported seeing an unidentified aerial object on December 23, 1966.",
-    "interesting points": [
-        "The report does not mention any photographs being taken of the object.",
-        "The report indicates that the observation was a ground visual sighting, with no information on the object's course or duration.",
-        "The conclusion was that there was 'INSUFFICIENT DATA FOR EVALUATION'.",
-        "The report includes a detailed questionnaire form for the witness to provide more information about the sighting.",
-        "The report requests the witness to complete the attached UFD Form 164 to enable further scientific evaluation of the observation."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "One unidentified aerial object",
-    "location": "Elkins Park, Pennsylvania",
-    "witnesses": "One civilian",
-    "photographs": "No"
+    "main event": "A UFO sighting was reported on December 23, 1966, in Elkins Park, Pennsylvania.",
+    "interesting points": "The report was labeled as insufficient data for evaluation,The nature of the sighting was categorized as civilian,The report described a single object with no physical evidence or photographs present,The length of observation noted as none,The report was generated as part of the Project Blue Book investigation.",
+    "sighted object": "one unidentified aerial phenomenon",
+    "location": "Elkins Park, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The witness's personal information was redacted and their specific description is not present in the report.",
+    "contains photographs": false
 }

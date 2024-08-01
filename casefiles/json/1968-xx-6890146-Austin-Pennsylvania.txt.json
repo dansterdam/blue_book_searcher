@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Austin, Pennsylvania spotted an unidentified flying object on March 3, 1969.",
-    "interesting points": [
-        "The object was white in color and made a sound like 'tin wobbling'.",
-        "The object was moving eastward and disappeared over a hill (the horizon).",
-        "The witness estimated the object was at an altitude of around 1,000 feet and appeared to be moving sideways, despite the wind pushing it.",
-        "The witness did not report the sighting officially at the time, as he was concerned he would be thought of as 'crazy'.",
-        "The Air Force requested the witness complete an AF Form 117 regarding the sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a white, kite-like object",
-    "location": "Austin, Pennsylvania",
-    "witnesses": "a single witness",
-    "photographs": "none"
+    "main event": "Witness reported an unidentified object in Austin, Pennsylvania on 3 March 1969.",
+    "interesting points": "Witness saw an object that resembled a kite during the observation., The object made a noise described as 'like tin wobbling.', The sighting lasted approximately five to ten seconds., The object appeared to be moving sideways despite wind direction., The witness chose not to report the observation officially due to fear of being deemed crazy.",
+    "sighted object": "unidentified flying object resembling a kite",
+    "location": "Austin, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt Marine, who did not officially report the sighting",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A spherical, metallic, and maneuverable object was observed by eight military personnel at Lajes Field in the Azores on February 26, 1963.",
-    "interesting points": [
-        "The object was approximately 8 to 10 feet in diameter and traveled at a speed of 20-30 knots, moving from east to west and then returning in the opposite direction.",
-        "The object was described as pale white in color, leaving no trail or exhaust, and emitting no sound.",
-        "The object was first observed at an elevation angle of 75 degrees and was tracked for 5 minutes before disappearing behind cloud cover.",
-        "Weather conditions at the time were clear, with a partly cloudy sky and no unusual meteorological activity.",
-        "No known aircraft were in the area at the time of the sighting, but the reporting officer believed an unknown aircraft transiting the area was a definite possibility."
-    ],
-    "result": "unidentified",
-    "sighted object": "a spherical, metallic, and maneuverable object",
-    "location": "Lajes, Azores",
-    "witnesses": "eight military personnel",
-    "photographs": "none"
+    "main event": "On 26 February 1963, a metallic object approximately 8 to 10 feet in diameter was observed by eight military personnel at Lajes, Azores.",
+    "interesting points": "The object was maneuverable and traveled at a speed of 20-30 knots,It was initially observed moving from east to west before returning in the opposite direction,The sighting was confirmed by eight military personnel,The object emitted no sound and left no trail or exhaust,The case was evaluated as unidentified.",
+    "sighted object": "a metallic, spherical object",
+    "location": "Lajes, Azores, Portugal",
+    "number of confirmed witnesses": 8,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

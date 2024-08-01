@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An airline pilot reported sighting a round, bright object that seemed to change in size or fade in and out of observation over the Pacific Ocean in 1965.",
-    "interesting points": [
-        "The object had contrails extending a long distance.",
-        "No decay or details were observed for the object.",
-        "The object appeared to be medium-sized, about the size of an aircraft.",
-        "The object changed colors and broke up into a formation of seven or eight objects.",
-        "The sighting lasted for approximately 3 minutes."
-    ],
-    "result": "Insufficient data",
-    "sighted object": "A round, bright object that changed size and color",
-    "location": "Pacific Ocean, 15-37N 172-00E",
-    "witnesses": "Airline (Air Fiji) pilot",
-    "photographs": "No"
+    "main event": "An airline reported sighting a round bright object over the Pacific Ocean on December 16, 1965.",
+    "interesting points": "The object appeared to change size and seemed to fade in and out of observation., The observers noted long contrails extending from the object., The sighting lasted for approximately 3 minutes., The report indicates possible multiple distant objects breaking into formation., Conclusion drawn from insufficient data regarding the nature of the object.",
+    "sighted object": "one round bright object with contrails",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "airline crew on Air Fiji",
+    "contains photographs": false
 }

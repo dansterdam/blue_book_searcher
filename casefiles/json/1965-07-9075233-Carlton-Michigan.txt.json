@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white object, the size of a star, was observed for 22 minutes over Carlton, Michigan on July 3, 1965.",
-    "interesting points": [
-        "The object appeared to be moving in a straight line.",
-        "The object was described as being bright and white, like a star.",
-        "The sighting was made by a civilian witness.",
-        "The Air Force analyzed the sighting and concluded it was likely the ECHO 1 satellite.",
-        "The sighting occurred at night."
-    ],
-    "result": "Satellite (ECHO 1)",
-    "sighted object": "A bright white object, the size of a star",
-    "location": "Carlton, Michigan",
-    "witnesses": "Civilian",
-    "photographs": "None"
+    "main event": "A bright white object resembling a star was observed for 22 minutes in Carlton, Michigan.",
+    "interesting points": "The object was visible from the ground during the night., It was analyzed as a possible Earth satellite., The sighting occurred on July 3, 1965, between 0702-0902Z., The object was not accompanied by any physical evidence., There were no photographs taken of the sighting.",
+    "sighted object": "bright white object like a star",
+    "location": "Carlton, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white object, the size of a pin at arm's length, was observed moving at an extremely high speed for 10 to 15 minutes in Santee, California.",
-    "interesting points": [
-        "The object was seen very high in the sky and disappeared after 29 minutes.",
-        "The movement and description of the object indicates it may have been caused by a ball lightning phenomenon.",
-        "Two individuals called the observer's attention to the object.",
-        "The object was observed moving in various directions and speeds, including 1700 PSTS, 239 degrees at 45 knots, and 280 degrees at 39 knots.",
-        "A search of the area for 12 minutes found nothing."
-    ],
-    "result": "unknown",
-    "sighted object": "a white, pin-sized object",
-    "location": "Santee, California",
-    "witnesses": "two individuals and the reporting observer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An observer in Santee, California spotted a white object moving at an extremely high speed for 10 to 15 minutes on 7 October 1956.",
+    "interesting points": "The object was described as the size of a pin at arm's length,The sighting lasted about 10 to 15 minutes and the object disappeared after 29 minutes,Two individuals alerted the observer about the sighting,The object's movement was noted as moving southwest to northeast,The report suggests the phenomenon may have been caused by ball lightning.",
+    "sighted object": "a white object",
+    "location": "Santee, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observer and two individuals who pointed it out",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-  "main event": "A bright light with a jet-like trail was sighted over Kansas City, Missouri for about an hour.",
-  "interesting points": [
-    "The object appeared to be on fire or emitting flames.",
-    "A second object was sighted about an hour later over the same area.",
-    "The objects were described as being about the size of a basketball.",
-    "The observer was the 11-year-old daughter of the witness.",
-    "Detailed weather and wind data was provided in the report."
-  ],
-  "result": "unexplained",
-  "sighted object": "a bright, flaming object with a jet-like trail",
-  "location": "Kansas City, Missouri",
-  "witnesses": "an 11-year-old girl and her mother",
-  "photographs": "yes, the report includes photographs"
+    "main event": "A brilliant object with flames and jet-like trail was sighted over Kansas City on September 8, 1962.",
+    "interesting points": "The sighting lasted for approximately 1 hour., The object showed a bright light display that resembled an afterburner., Witnesses reported seeing two separate objects; the first was visible for 3-4 minutes and the second for 5-7 minutes., The observer, a calm housewife and part-time federal employee, detailed the sighting rationally., The weather during the sighting was upper 50's and initially cloudy before clearing to the northwest.",
+    "sighted object": "one brilliant object with flames and jet-like trail",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "female housewife, part-time federal employee, calm and rational during observation",
+    "contains photographs": false
 }

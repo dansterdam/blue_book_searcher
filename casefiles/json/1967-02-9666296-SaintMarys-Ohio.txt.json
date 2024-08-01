@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "The police in St. Mary's, Ohio reported observing an unidentified object hovering at 3,000 feet on February 21, 1967.",
-    "interesting points": [
-        "The police watched the object with binoculars.",
-        "The Air Force requested more information from the observer, as the details provided were not sufficient for a scientific evaluation.",
-        "The observer was asked to complete a detailed questionnaire about the sighting, including information on the time, location, weather conditions, and characteristics of the object.",
-        "The report mentions a freight train near St. Mary's, Ohio that hit an object on the track, causing damage to the train and a loud noise.",
-        "The train had previously gone through another unidentified object earlier, but it did not cause as much damage."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "unidentified hovering object",
-    "location": "St. Mary's, Ohio",
-    "witnesses": "police officers",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported in Saint Mary's, Ohio, on February 21, 1967, involving a hovering object observed by local police.",
+    "interesting points": "The object was reported to hover at 3,000 feet., The sighting was observed using binoculars., There was only one confirmed witness to the sighting., The report concluded that there was insufficient data for evaluation., The sighting involved a significant incident with a train earlier that night, where the train hit an object on the tracks.",
+    "sighted object": "one unidentified flying object",
+    "location": "Saint Mary's, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The report came from the St. Mary's Police Department.",
+    "contains photographs": false
 }

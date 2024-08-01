@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, metallic object approximately 100 feet in diameter, white in color, and making a swishing sound was observed hovering in the air for 3-5 minutes north of Worden, Oregon.",
-    "interesting points": [
-        "The object was described as metallic in appearance and white in color.",
-        "The object was making a swishing sound while hovering.",
-        "The object was observed for a duration of 3-5 minutes.",
-        "The report concludes that the object was an unidentified flying object (UFO).",
-        "The report includes additional details about a separate observation of an object crossing the driver's path, which was observed to change color to red and explode in a small puff of smoke."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, metallic, white object",
-    "location": "North of Worden, Oregon",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A round metallic object, approximately 100 ft. in diameter, was observed hovering north of Worden, Oregon on April 7, 1960.",
+    "interesting points": "The object was white in color and emitted a swishing sound., The observation lasted for approximately 3-5 minutes., The object was reported to be one single entity., This sighting is classified as an Unidentified Flying Object., The duration of the sighting was consistent with the time noted.",
+    "sighted object": "round metallic object",
+    "location": "Worden, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a resident near the observation location with no prior flying experience and moderate contact with aviation.",
+    "contains photographs": false
 }

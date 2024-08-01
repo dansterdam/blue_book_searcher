@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Multiple sightings of bright orange light objects in the sky over Claremont, California on September 6, 1951",
-    "interesting points": [
-        "The objects were observed in an irregular, incomplete circular formation, with the last two objects situated well towards the center of the formation.",
-        "A single, highly illuminated object was also observed following the same course as the first sighting.",
-        "The objects faded in the distance over a coastal fog bank.",
-        "No aerodynamic features, trail, or contrast were seen on the objects.",
-        "The case was officially classified as UNIDENTIFIED."
-    ],
-    "result": "unidentified",
-    "sighted object": "bright orange light objects, some in a circular formation",
-    "location": "Claremont, California",
-    "witnesses": "two USAF airmen",
-    "photographs": "no"
+    "main event": "On 7 September 1951, in Claremont, California, a civilian reported observing six bright orange lights in the sky for approximately 3 to 4 minutes.",
+    "interesting points": "The objects were observed moving in irregular circles with the last two well in toward the center of the formation,One additional sighting of a lone bright orange light followed the first,All objects faded into the coastal fog,The altitude of the objects was estimated to be around 10-12,000 feet,Two airmen confirmed the sightings but there was no investigation into the incident.",
+    "sighted object": "six bright orange lights and one lone bright orange light",
+    "location": "Claremont, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two Airmen",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright, cigar-shaped, blue-green object was observed traveling in a straight flight path over Washington, D.C. on May 31, 1957.",
-    "interesting points": [
-        "The object made a sharp turn to the northwest for two seconds before disappearing.",
-        "The duration and flight path of the object indicate it may have been an actual aircraft or aircraft under ground control.",
-        "Weather conditions at the time included low cloud cover.",
-        "No photographs were included with the report.",
-        "The report states the sighting was either an actual aircraft or aircraft under ground control."
-    ],
-    "result": "likely an aircraft or aircraft under ground control",
-    "sighted object": "bright cigar-shaped, blue-green object",
+    "main event": "On May 6, 1957, several witnesses reported observing unidentified flying objects in Washington, D.C.",
+    "interesting points": "Witnesses described three cigar-shaped objects that were bluish-green in color and silent,The objects were observed traveling at a high rate of speed, estimated around 30-40 feet in diameter,The sighting lasted approximately 15 minutes,The objects maintained a straight flight path before disappearing,Investigators noted the sighting could not be explained and no known aircraft matched the description.",
+    "sighted object": "three cigar-shaped unidentified flying objects",
     "location": "Washington, D.C.",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. John Doe",
+    "contains photographs": false
 }

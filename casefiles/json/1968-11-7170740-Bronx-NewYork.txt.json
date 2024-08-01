@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "The witness observed an object that could change color, hover, and speed up and slow down.",
-    "interesting points": [
-        "The object appeared to be yellow and glowing.",
-        "The object seemed to just disappear into nothing.",
-        "The report does not indicate if the object moved behind any obstacles.",
-        "The object could change shape.",
-        "The object made a sound."
-    ],
-    "result": "unexplained",
-    "sighted object": "a yellow, glowing object that could change color, hover, and move at varying speeds",
-    "location": "unknown",
-    "witnesses": "one witness",
-    "photographs": "no"
+    "main event": "Observation of a yellow glowing object that appeared to disappear into nothing.",
+    "interesting points": "The object exhibited various behaviors like hovering, changing color, and changing shape., Witnesses noted that the object's glow was yellow., The object could move in a straight line and could speed up and slow down., There was no response regarding whether the object moved behind anything., It was reported that the object spun like a top and could make a sound.",
+    "sighted object": "a yellow glowing object",
+    "location": "Unknown",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses were mentioned",
+    "contains photographs": false
 }

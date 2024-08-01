@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright, metallic-looking, revolving cigar-shaped object was photographed over the Gulf of Mexico near Ft. Walton, Florida on January 22, 1961.",
-    "interesting points": [
-        "The object was described as metallic-looking and revolving.",
-        "The object was photographed by store manager Henry Gadler.",
-        "The sighting occurred on January 22, 1961 near Ft. Walton, Florida.",
-        "The object was seen over the Gulf of Mexico.",
-        "No additional details about the photograph or the object's size, speed, or other characteristics are provided."
-    ],
-    "result": "unexplained",
-    "sighted object": "metallic-looking, revolving cigar-shaped object",
-    "location": "Ft. Walton, Florida",
-    "witnesses": "Henry Gadler (store manager)",
-    "photographs": "yes, the report includes a photograph"
+    "main event": "On January 30, 1961, a bright silver disk-like object was observed over water near Greenfield, Massachusetts, at an altitude of 30'-40' above the water, before changing heading and disappearing.",
+    "interesting points": "The object was described as bright and silver, observed at a low altitude of 30'-40' above water, The sighting lasted approximately 5 minutes, Witnesses reported a slight sound like a humming spinning top, The object changed its heading abruptly before being lost to view, It was suggested that the object could be a balloon, aircraft, or astronomical phenomenon.",
+    "sighted object": "a bright silver disk-like object",
+    "location": "Greenfield, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Reported by a passenger in a car observed from the Rev. Robbins Memorial Congregational Church.",
+    "contains photographs": false
 }

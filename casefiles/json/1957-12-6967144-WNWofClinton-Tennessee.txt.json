@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A radar operator noticed a blip on the RFRI (range and height information) radar scope that did not appear on the search motion. The blip continuously decreased in altitude until it disappeared in the ground clutter.",
-    "interesting points": [
-        "The size of the radar return was indicative of a small center, possibly a weather phenomenon.",
-        "The weather conditions at the time included intermittent light snow turning colder.",
-        "There were no air traffic or interception actions reported in the area.",
-        "The radar operators were considered qualified and experienced in their duties.",
-        "The report was considered adequate since it was derived from qualified radar observers."
-    ],
-    "result": "Possibly weather phenomenon",
-    "sighted object": "Blip on radar screen",
-    "location": "Unknown military radar site",
-    "witnesses": "Radar operators",
-    "photographs": "No"
+    "main event": "A radar operator observed a blip indicative of a small object descending and disappearing into ground clutter for 22 minutes on December 5, 1957.",
+    "interesting points": "The object was estimated to be the size of a quarter., The sighting lasted for a total of 22 minutes., Multiple comments suggest the observed return could be attributed to weather conditions or possibly a weather balloon., The details of the sighting were documented by qualified radar observers., The report includes information about weather conditions during the sighting.",
+    "sighted object": "one unidentified object",
+    "location": "GJ-TD 1510",
+    "number of confirmed witnesses": 4,
+    "witness description": "Major George T. Hanley, RADAR Operator, AcW Squadron; 1st Lt. Buster E. Horton, Senior Director; S/Sgt Mathews, Crew Chief; all from the 663rd ACW Squadron.",
+    "contains photographs": false
 }

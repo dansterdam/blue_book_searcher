@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a medium-sized, red, perfectly circular object with sharply outlined edges moving steadily from west to east in the sky over Cleveland, Ohio on August 12, 1958.",
-    "interesting points": [
-        "The object was the size of a dime held at arm's length.",
-        "The object had a steady, level motion and made a loud, monotonous noise like a controlled roar.",
-        "The object appeared to stand still, suddenly speed up, and change color and brightness at times.",
-        "The witness was a civilian and part of the National Investigating Committee for Aerial Phenomena (NICAP) in the Greater Cleveland area.",
-        "The witness reported the sighting to officials and believed the object was a UFO due to its unusual characteristics and flight path."
-    ],
-    "result": "unknown",
-    "sighted object": "a medium-sized, red, perfectly circular object",
-    "location": "Cleveland, Ohio",
-    "witnesses": "a civilian witness",
-    "photographs": "no"
+    "main event": "A witness observed a medium red object described as a near-perfect circle, moving steadily from west to east at 9:22 P.M. on August 12, 1958 in Cleveland, Ohio.",
+    "interesting points": "The object was observed for 17 seconds and appeared the size of a dime,The edges of the object were sharply outlined,The witness reported the object made a monotonous noise akin to a controlled roaring,The object was moving in a straight horizontal line and did not waver at any time,The witness speculated that the object may have been a UFO due to its unusual movement and characteristics.",
+    "sighted object": "medium red circular object",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Male, educational background includes grade school, junior high, high school in Kentucky and Michigan, post-graduate college work in Michigan.",
+    "contains photographs": false
 }

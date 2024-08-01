@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple reports from the U.S. Air Force's Project Blue Book document UFO sightings in Tarakli, Turkey, describing bright smoke-colored, luminous, metallic silver, torpedo-shaped, and regular hexagon-shaped objects at different times and dates.",
-    "interesting points": [
-        "The sightings included a bright smoke-colored object at an altitude of 3,000 feet, a torpdeo-shaped object with a duration of observation of 1 to 2 minutes, and a regular hexagon-shaped object with a diameter of 10 ft.",
-        "Negative details were also reported, such as adverse weather conditions giving visual appearance and sketchy information making evaluation difficult.",
-        "The reports involve observations from different types of observers including the Turkish Air Force and Captain Orhan Gurpet, a T.A.F. pilot, adding credibility to the sightings.",
-        "The documents also mention the use of ground-radar and air-intercept radar in the observations, providing additional data for evaluation.",
-        "Despite the presence of photographs and detailed information, the evaluation of the sightings was challenging, highlighting the elusive nature of the reported objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright smoke-colored object, luminous torpedo-shaped object, metallic silver regular hexagon-shaped object",
+    "main event": "A UFO sighting was reported over Tarakli, Turkey, on December 29, 1950.",
+    "interesting points": "The object was described as bright smoke color and was at an altitude of 3,000 feet., The sighting lasted for about 10-15 minutes., There was a short pursuit of the object before it was lost., Adverse weather conditions may have affected visibility., Turkish Air Force provided observations and reporting on similar sightings.",
+    "sighted object": "a bright smoke color object",
     "location": "Tarakli, Turkey",
-    "witnesses": "Turkish Air Force, Captain Orhan Gurpet (T.A.F. pilot)",
-    "photographs": "yes"
+    "number of confirmed witnesses": 1,
+    "witness description": "Turkish Air Force personnel",
+    "contains photographs": false
 }

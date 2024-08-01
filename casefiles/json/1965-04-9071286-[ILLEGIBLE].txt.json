@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness spotted a bright, oval-shaped object with a red trailing light over Perkinston Junior College in Mississippi.",
-    "interesting points": [
-        "The object was estimated to be around 18 feet behind and was moving at a speed of approximately 99 mph.",
-        "The object was seen for about 5 minutes and flew out of sight in a southeasterly direction.",
-        "The witness reported that the object had a darker red trailing light or light effect.",
-        "Weather conditions at the time were night with scattered to clear skies and good visibility.",
-        "The witness was a student at Perkinston Junior College."
-    ],
-    "result": "unidentified",
-    "sighted object": "an oval-shaped object with a red trailing light",
-    "location": "Perkinston Junior College, Mississippi",
-    "witnesses": "a student",
-    "photographs": "none"
+    "main event": "A UFO sighting report from McGuire AFB, New Jersey on January 17, 1965, describing an object observed for approximately 1 minute.",
+    "interesting points": "The object was described as probably being an aircraft,The observation was visual and involved a single object,The sighting was classified as unclassified with no photographs available,The object appeared to be flying in a level flight at 12,000 feet,No physical evidence was found accompanying the sighting.",
+    "sighted object": "unknown aerial object presumed to be an aircraft",
+    "location": "McGuire AFB, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "USAF personnel, reliable observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Ground radar operator detected a bright object following a flight path over Taiwan, which then disappeared.",
-    "interesting points": [
-        "The object was described as being as bright as a muzzle flash.",
-        "The object's flight path and duration were consistent with a 'miniature case'.",
-        "The report was filed by military personnel, including the captain of a naval vessel.",
-        "No photographs were taken of the object.",
-        "The object's movements and disappearance were recorded on ground radar."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "One bright unidentified aerial object",
-    "location": "Vicinity of Taiwan",
-    "witnesses": "Ground radar operator, naval personnel",
-    "photographs": "None"
+    "main event": "A ground-radar operator reported one unidentified object in the vicinity of Taiwan on September 3, 1960.",
+    "interesting points": "The radar operator saw a bright flash as the object followed a flight path before disappearing.,The observation lasted for 15 minutes.,The sighting was consistent with other miniaturized case reports.,The object was classified as probably an aircraft or possibly a balloon.,There were no photographs included in the report.",
+    "sighted object": "one unidentified object",
+    "location": "Taiwan",
+    "number of confirmed witnesses": 1,
+    "witness description": "ground-radar operator",
+    "contains photographs": false
 }

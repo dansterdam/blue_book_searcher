@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "An unidentified object was reported in West Manchester, Ohio in April 1962.",
-    "interesting points": [
-        "The object was seen between 100-200 feet from the ground and did not make any sound.",
-        "The object was estimated to be 30-40 feet in diameter and nearly circular in shape.",
-        "The object was seen by several persons for 2-3 minutes.",
-        "A physical specimen, described as a large rock, was recovered from the field where the object was observed.",
-        "The recovered object was examined and believed to be a part of a meteorite."
-    ],
-    "result": "Unexplained",
-    "sighted object": "A yellow-white colored object",
-    "location": "West Manchester, Ohio",
-    "witnesses": "Several persons",
-    "photographs": "No photographs present"
+    "main event": "An unidentified object was reported in West Manchester, Ohio on April 1, 1962, observed by several people for 2-3 minutes.",
+    "interesting points": "The object was seen between 100-200 feet from the ground,The object was yellow-white in color and circular,It was estimated to be 30-40 feet in diameter,No sound, trail, or exhaust was noted during the sighting,The object was initially visible and then appeared to subside to the ground but could not be located afterward.",
+    "sighted object": "unidentified object estimated to be part of a meteorite",
+    "location": "West Manchester, Ohio, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "local residents and a farmer",
+    "contains photographs": false
 }

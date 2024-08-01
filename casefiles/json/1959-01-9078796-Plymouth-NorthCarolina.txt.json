@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An observer on 'moonwatch' duty in Plymouth, North Carolina saw an orb that exploded on January 10, 1959 at 8:10 AM.",
-    "interesting points": [
-        "The object was considered more than likely a meteorite, since additional information was inconclusive.",
-        "On the same day, some boys from Fort Bragg, North Carolina also saw a white object that performed unusual maneuvers, which they initially described as a 'freight train car'.",
-        "The observer stated that the way the object performed, he thought someone was mistaken about it being a 'freight train car'.",
-        "The Air Force requested more details about the sighting to allow a valid conclusion.",
-        "The case was evaluated by the Air Technical Intelligence Center at Wright-Patterson Air Force Base."
-    ],
-    "result": "inconclusive",
-    "sighted object": "an exploding orb",
-    "location": "Plymouth, North Carolina",
-    "witnesses": "observer on 'moonwatch' duty, boys from Fort Bragg",
-    "photographs": "no"
+    "main event": "An observer on moonwatch duty in Plymouth, North Carolina, reported seeing a white object that appeared to explode in the sky on January 10, 1959.",
+    "interesting points": "The object was described as glowing and about 35 inches in diameter,Observers reported that it could stop and change directions rapidly,Some boys from Fort Bragg saw the same object and called it a freight train car,The object was initially considered more likely a meteorite due to inconclusive information,The report involved multiple pages and communications with various Air Force officials.",
+    "sighted object": "a white orb that exploded",
+    "location": "Plymouth, North Carolina, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "observers on moonwatch duty and boys from Fort Bragg",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian reported a small red object moving rapidly, hovering, and then disappearing in Dayton, Ohio, on 7th July 1956. The observation lasted for 12 minutes.",
-  "interesting points": [
-    "The sighting was dismissed as a balloon sighting by the weather service.",
-    "The document includes a U.S. Air Force technical information sheet to gather detailed information about the unidentified aerial phenomenon.",
-    "The witness was asked about the size, shape, color, and behavior of the observed object.",
-    "There were questions about the sighting conditions, such as the time of day, sky condition, and the position of the sun.",
-    "The observer was also asked to estimate the speed and distance of the object."
-  ],
-  "result": "prosaic explanation (balloon sighting)",
-  "sighted object": "small red object",
-  "location": "Dayton, OH",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A civilian observed a small red object moving rapidly in the sky, hovering, and then disappearing on July 7, 1956, for a duration of 12 minutes.",
+    "interesting points": "The object was described as small and red,The sighting lasted for 12 minutes,The object was reported to have moved rapidly before hovering,The observer described the object as having a course to and up,The report hints at similarities to a balloon sighting.",
+    "sighted object": "one small red object",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

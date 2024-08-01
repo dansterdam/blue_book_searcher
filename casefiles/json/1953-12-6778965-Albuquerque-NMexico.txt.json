@@ -1,15 +1,9 @@
 {
-  "main event": "On December 13, 1953, a metallic object was observed changing formation and rising at high altitude over Albuquerque, New Mexico for 15 minutes.",
-  "interesting points": [
-    "The observation was concluded to be a balloon, possibly a pillow or silvery balloon.",
-    "The source of the report was a civilian witness.",
-    "The object was observed changing formation and rising at high altitude.",
-    "The observation was a ground visual type, and there were no photographs or physical evidence.",
-    "The details mentioned pulsating and changing lines of the object's course during the 15-minute observation."
-  ],
-  "result": "prosaic explanation - balloon",
-  "sighted object": "metallic object changing formation and rising at high altitude",
-  "location": "Albuquerque, New Mexico",
-  "witnesses": "civilian",
-  "photographs": "no photographs"
+    "main event": "An observation of a metallic object changing formation and rising at high altitude over Albuquerque, New Mexico on December 13, 1953.",
+    "interesting points": "The object was observed for 15 minutes,The observation was determined to be a balloon,The observer reported one metallic object,The object was seen rising at high altitude,The sighting was documented in a Project Blue Book report.",
+    "sighted object": "metallic balloon",
+    "location": "Albuquerque, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

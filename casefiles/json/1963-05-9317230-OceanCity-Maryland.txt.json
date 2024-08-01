@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-  "main event": "An observer spotted a bright, star-like object deviating from a straight course, changing in brilliance, and moving up and down and side to side faster than a jet over Ocean City, Maryland on May 4, 1963.",
-  "interesting points": [
-    "The object was dim white in color and made no sound.",
-    "The object changed direction, going from east to west.",
-    "The observer stated the sighting was not a balloon, as an Echo satellite was not visible on May 1, 1963.",
-    "The observer had previously seen a similar object in the same location on October 9, 1963.",
-    "Multiple witnesses, including E.G. Davis and the Fishers, also observed the object."
-  ],
-  "result": "unexplained",
-  "sighted object": "a bright, star-like object",
-  "location": "Ocean City, Maryland",
-  "witnesses": "1 observer, along with E.G. Davis and the Fishers",
-  "photographs": "no"
+    "main event": "An unidentified object was observed moving in a non-linear path, changing brilliance and direction, in Ocean City, Maryland on May 4, 1963.",
+    "interesting points": "The sighting lasted for 8 minutes and described the object as bright and star-like,The object was reportedly moving faster than a jet and produced no sound,The witness concluded it could possibly be a balloon despite its unusual motion,A prior report indicated that no object was visible in the area on May 1, 1963,The document was part of Project Blue Book, which investigated UFO sightings.",
+    "sighted object": "a bright star-like object",
+    "location": "Ocean City, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A witness reported observing the object and completed a questionnaire for Project Blue Book.",
+    "contains photographs": false
 }

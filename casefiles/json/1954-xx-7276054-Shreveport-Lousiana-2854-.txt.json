@@ -1,15 +1,9 @@
 {
-    "main event": "In 1956, a UFO report was filed in Shreveport, Louisiana, with one photo attached.",
-    "interesting points": [
-        "The handwritten text contains the phrases '(Fog-M.e.l. or Aerstatia's smite)' and 'Birds - Partly Phasents', indicating possible observations related to the UFO sighting.",
-        "The report is handwritten, potentially adding a personal touch to the witness account.",
-        "The presence of one photo suggests potential visual evidence of the UFO sighting.",
-        "The location of the sighting is in Shreveport, Louisiana, adding a specific geographic context to the event.",
-		"The cryptic nature of the handwritten notes adds an air of mystery to the reported event."
-    ],
-    "result": "unexplained",
-    "sighted object": "unspecified UFO",
-    "location": "Shreveport, Louisiana",
-    "witnesses": "unknown",
-    "photographs": "yes the report includes photographs"
+    "main event": "Handwritten notes from a UFO report referencing 'Fog-M.e.l. or Aerstatia's smite' and mentioning 'Birds - Partly Phasents'.",
+    "interesting points": "The report indicates a possible connection to a phenomenon described as 'Fog-M.e.l. or Aerstatia's smite',Handwritten notes suggest a potential link to unidentified flying objects,The term 'Birds - Partly Phasents' may imply a misidentification or categorization of aerial entities,The document has a total of 1 page of notes,Shreveport, Louisiana is noted as the location of the report.",
+    "sighted object": "unidentified flying objects or phenomena",
+    "location": "Shreveport, Louisiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses reported",
+    "contains photographs": false
 }

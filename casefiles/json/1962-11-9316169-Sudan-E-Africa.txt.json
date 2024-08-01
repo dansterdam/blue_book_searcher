@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A strange cloud-like object was observed over Sudan, East Africa in November 1962.",
-    "interesting points": [
-        "The object resembled a small cloud that rose and traveled eastward, changing shape slightly as if reflecting the sun's rays.",
-        "The object appeared to be a solid mass, much denser than a typical cloud, and covered the width of a pencil held at arm's length.",
-        "The object discharged smaller white glowing objects from its side, which drifted away.",
-        "The observation lasted for 15-20 minutes, longer than a normal cloud would be expected to remain visible after sunset.",
-        "The observer was unsure if the object could have been related to a recent nuclear test or radioactive fallout."
-    ],
-    "result": "unknown",
-    "sighted object": "a dense, cloud-like object that changed shape and discharged smaller glowing objects",
-    "location": "Sudan, East Africa",
-    "witnesses": "local residents",
-    "photographs": "none"
+    "main event": "An observer reported a small cloud-like object that rose and disappeared to the north over Sudan in November 1962.",
+    "interesting points": "The object appeared to change course and travel eastward,It had a bell-shaped upper part and seemed to discharge small glowing white objects from its side,The observation lasted about 20 minutes,Local people reacted humorously, thinking it was a spirit,The report speculated whether it could be radioactive fallout from a nuclear test.",
+    "sighted object": "small cloud-like object",
+    "location": "Sudan, E. Africa",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer described the object as a solid mass, grey in color, resembling a mushroom cloud and larger than typical clouds.",
+    "contains photographs": false
 }

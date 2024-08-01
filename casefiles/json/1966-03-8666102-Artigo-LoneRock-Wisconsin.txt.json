@@ -1,17 +1,9 @@
-Here is a summary of the UFO report in the requested JSON format:
-
 {
-    "main event": "Two civilian witnesses reported seeing a bright white, rectangular object the size of a plum at ground level in Artigo, Lone Rock, Wisconsin on March 13, 1966.",
-    "interesting points": [
-        "The object was observed for 3-5 seconds.",
-        "The object was described as bright white in color and rectangular in shape.",
-        "The object was around the size of a plum.",
-        "The Air Force analyst concluded the object most closely resembled a meteorite, but fell more slowly than a typical meteorite.",
-        "There were reports of aurora borealis displays in the area around the time of the sighting."
-    ],
-    "result": "Astro (Meteor)",
-    "sighted object": "bright white, rectangular object",
-    "location": "Artigo, Lone Rock, Wisconsin",
-    "witnesses": "two civilian witnesses",
-    "photographs": "none"
+    "main event": "On March 13, 1966, two civilian witnesses reported seeing a bright white, rectangular object at ground level in Artigo, Lone Rock, Wisconsin.",
+    "interesting points": "The object was described as being about the size of a plum,The observation lasted for approximately 3-5 seconds,The object was observed moving toward the ground in a southeastern direction,No photographs or physical evidence were included with the report,The conclusion drawn by the reporting officer was that the object resembled a meteor.",
+    "sighted object": "one bright white rectangular object",
+    "location": "Artigo, Lone Rock, Wisconsin, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians",
+    "contains photographs": false
 }

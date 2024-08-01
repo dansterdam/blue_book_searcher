@@ -1,15 +1,9 @@
 {
-    "main event": "A brilliant blue cigar-shaped object, about 2/3 the width of the moon, was observed for 3 minutes by a civilian couple about 18 miles north of Roanoke, Texas on October 26, 1952.",
-    "interesting points": [
-        "The observation was made by a civilian couple and lasted for 3 minutes, providing a substantial amount of time for detailed viewing.",
-        "The object was described as brilliant blue and cigar-shaped, with a bright silvery light, and traveled south before fading from sight.",
-        "Reports were checked with negative results from Carswell Flight Service in Fort Worth, Texas, and Post Field, indicating a lack of conventional explanations.",
-        "The report was transmitted by various military offices including The Artillery Center at Fort Sill, Oklahoma, and Fourth Army at Fort Sam Houston, Texas.",
-        "The document is part of the Project Blue Book, a US Air Force program that investigated UFO sightings between 1952 and 1969."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian couple reported seeing a brilliant blue cigar-shaped object about 2/3 the width of the moon, approximately 18 miles north of Roanoke, Texas on October 26, 1952.",
+    "interesting points": "The object was identified as cigar-shaped and brilliant blue,The sighting lasted for about 3 minutes,The object was observed 2 miles south of Roanoke on US Highway 77,Two women and one man were the confirmed witnesses to the event,No additional records were found after checking with local flight services.",
     "sighted object": "brilliant blue cigar-shaped object",
-    "location": "Roanoke, Texas",
-    "witnesses": "civilian couple",
-    "photographs": "no"
+    "location": "Roanoke, Texas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilian couple driving in their car",
+    "contains photographs": false
 }

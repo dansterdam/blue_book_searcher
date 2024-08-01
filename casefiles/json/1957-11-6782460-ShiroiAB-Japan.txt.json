@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A round or elliptical object was observed rising in the northwest at Shiroi AB, Japan on November 10, 1957.",
-    "interesting points": [
-        "The object hovered, appeared fuzzy or blurred, and faded out while changing in brightness during the 1.5-minute observation.",
-        "The object moved in front of clouds during the sighting.",
-        "The object was described as cream to white in color.",
-        "The report concludes there was insufficient data to evaluate the sighting.",
-        "The sighting was made by a military observer, but the time of the sighting was not reported."
-    ],
-    "result": "unknown",
-    "sighted object": "a round or elliptical object",
-    "location": "Shiroi AB, Japan",
-    "witnesses": "military observer",
-    "photographs": "no"
+    "main event": "An unidentified object was observed rising in the night sky over Shiroi AB, Japan on 10 November 1957.",
+    "interesting points": "The object was in sight for 1½ minutes, It was described as round to elliptical in shape and cream to white in color, The object hovered and appeared fuzzy or blurred, It moved in front of clouds and changed brightness during observation, The report concludes that there is insufficient data to make a definitive identification.",
+    "sighted object": "one round or elliptical object",
+    "location": "Shiroi, AB, Japan",
+    "number of confirmed witnesses": 0,
+    "witness description": "The report provides no specific witness details.",
+    "contains photographs": false
 }

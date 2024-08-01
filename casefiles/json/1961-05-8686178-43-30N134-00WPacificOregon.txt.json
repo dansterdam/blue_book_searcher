@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright, disc-shaped object with red-orange sparks was briefly sighted from the cabin of an aircraft over the Pacific Ocean.",
-    "interesting points": [
-        "The object appeared as a bright light, disc-shaped, and was trailing red-orange sparks.",
-        "The sighting lasted for about 30 seconds.",
-        "The object was sighted at an elevation of 75 degrees and a direction of 180 degrees magnetic.",
-        "The object was moving at a very high rate of speed, too fast for the navigator to get a view of it with the sextant.",
-        "The 7-minute time span of the sighting made it difficult to make a preliminary analysis."
-    ],
-    "result": "possibly balloon, aircraft, astronomical, or hoax",
-    "sighted object": "a bright, disc-shaped object with red-orange sparks",
+    "main event": "An aircraft crew observed a bright light appearing as a disc shape while trailing red-orange sparks in the Pacific Ocean.",
+    "interesting points": "The sighting lasted for 30 seconds,The object was seen briefly from the cabin of the aircraft,Weather conditions were clear at the time of the sighting,The crew speculated the object could be a balloon, aircraft, astronomical object, or a hoax,The crew consisted of experienced personnel including a major and a first lieutenant.",
+    "sighted object": "bright light, disc shaped, trailing red-orange sparks",
     "location": "Pacific Ocean, 43-30N 134-00W",
-    "witnesses": "the cabin crew of an aircraft",
-    "photographs": "no photographs present"
+    "number of confirmed witnesses": 2,
+    "witness description": "Major Harold A. Cook, navigator with 4000 hours, and 1st Lt. Frank E. McCallister, pilot with 1300 hours.",
+    "contains photographs": false
 }

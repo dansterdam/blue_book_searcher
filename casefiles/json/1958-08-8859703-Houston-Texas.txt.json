@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright white light with a yellow cast, approximately 1 minute in size, was observed moving at a rapid rate of speed before gradually disappearing.",
-    "interesting points": [
-        "The object moved at a rapid rate of speed.",
-        "The object gradually disappeared, getting smaller and smaller.",
-        "Numerous aircraft were reported flying in the local area at the time of the sighting.",
-        "The sighting was observed 5 miles north of the Houston Municipal Airport.",
-        "The observer had reported a similar sighting the previous October."
-    ],
-    "result": "Possibly a balloon or other conventional aircraft, though the rapid speed and disappearance were unusual.",
-    "sighted object": "A bright white light with a yellow cast, approximately 1 minute in size.",
-    "location": "Houston, Texas",
-    "witnesses": "An anonymous observer, possibly an oil refinery superintendent.",
-    "photographs": "No photographs were included in the report."
+    "main event": "A witness observed a white light with a yellow cast moving rapidly in the sky over Houston, Texas on 3 August 1958.",
+    "interesting points": "The object was seen moving at a rapid rate of speed and gradually disappeared,The sighting lasted for about 2 minutes,The witness was sitting on the front steps when they noticed the light,No physical evidence was found and the sighting was not recorded on radar,The conclusion suggested it might have been a civilian balloon.",
+    "sighted object": "one white light with yellow cast",
+    "location": "Houston, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "47-year-old oil refinery superintendent",
+    "contains photographs": false
 }

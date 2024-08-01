@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An aerial object was sighted in Southeast Pennsylvania, disappearing in the Northeast after 55 seconds.",
-    "interesting points": [
-        "The object appeared as a light that dimly winked.",
-        "The object maneuvered and was unable to determine the distance.",
-        "The witness reported that the object suddenly sped up and rushed away.",
-        "The object changed brightness and flashed or flickered.",
-        "The object disappeared and reappeared during the sighting."
-    ],
-    "result": "insufficient data, no evaluation",
-    "sighted object": "a single aerial object",
-    "location": "Quakerstown, Pennsylvania",
-    "witnesses": "1 witness",
-    "photographs": "no photographs"
+    "main event": "An aerial object was sighted in the southeast and disappeared in the northeast after 55 seconds.",
+    "interesting points": "The observation lasted for 55 seconds,The object appeared as a dimly blinking light,The observer believed it to be a flying saucer,The object maneuvered during the sighting, and the witness reported feeling shaken by the experience.",
+    "sighted object": "aerial object",
+    "location": "Quakerstown, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 15-year-old male, in 10th grade with a great interest in science.",
+    "contains photographs": false
 }

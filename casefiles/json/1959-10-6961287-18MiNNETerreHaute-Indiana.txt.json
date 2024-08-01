@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported on 13th October 1959, approximately 18 miles north of Terre Haute, Indiana, involving a single unidentified object observed by military aviation radar.",
-  "interesting points": [
-    "The object was described as being round, hazy around the edges, and resembling a flashlight shining through fog or a green flare through an overcast.",
-    "It was reported to be a distinct green light, descending rapidly and disappearing almost instantaneously.",
-    "The observation was made by reliable witnesses, including Captain Kenneth D. Brooks and Lieutenant John W. Kimmerly, both flying in a T-28A aircraft at the time.",
-    "Weather conditions at the time were described as a soft haze in a clear sky with haze above them.",
-    "The total time of the sighting lasted less than one second, and the object could have resembled a commercial searchlight due to its brightness around the edges."
-  ],
-  "result": "unexplained",
-  "sighted object": "a distinct green light resembling a flashlight shining through fog or a green flare",
-  "location": "18 miles north of Terre Haute, Indiana",
-  "witnesses": "reliable witnesses, including military aviation radar and pilots",
-  "photographs": "no"
+    "main event": "A UFO sighting described as an object resembling a flashlight shining through a green filter, observed from military radar near Terre Haute, Indiana.",
+    "interesting points": "The observation lasted approximately 2 minutes., The object was reported as descending., It was detected by military aviation radar., The sighting occurred at night., The radar report classified the object as distinctly round and hazy around the edges, similar to a flashlight through fog.",
+    "sighted object": "a round object emitting a green light",
+    "location": "Terre Haute, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Capt. Kenneth P. Brooks and a co-pilot, both students in Aircraft Maintenance Officers Course.",
+    "contains photographs": false
 }

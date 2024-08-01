@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "A TV technician spotted a sphere-like object in the sky over New York City in 1955.",
-    "interesting points": [
-        "The object appeared elliptical in shape and had a corrugated or striated surface.",
-        "The object was about the size of a basketball and seemed to be moving swiftly.",
-        "When the technician gasped and cried out, the object disappeared.",
-        "The technician's photographs of the object only showed a blurred image.",
-        "The sighting occurred in the Union Square area of New York City, which had been a frequent location for similar UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "a sphere-like object",
-    "location": "New York City, New York",
-    "witnesses": "a TV technician",
-    "photographs": "yes, the report includes blurry photographs of the object"
+    "main event": "On May 15, 1955, a metallic object was observed moving north over New York City while witnesses were taking pictures of a balloon.",
+    "interesting points": "The sighting lasted for approximately one and a half minutes,The object appeared to have a metallic appearance,It was tracked by radar at Stewart AFB, confirming high speeds,The sighting involved multiple Air Force officers as witnesses,The object exhibited abrupt changes in direction during the observation.",
+    "sighted object": "a metallic object in the sky",
+    "location": "New York City, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witnesses": "Air Force officers",
+    "photographs": false
 }

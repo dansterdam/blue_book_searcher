@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright green ball of fire was observed falling from the sky in New York State in 1958.",
-    "interesting points": [
-        "The object was seen paced by something else before falling behind a hill.",
-        "The object flashed at regular one-second intervals during its fall.",
-        "The witness estimated the object was not more than 10 feet above the ground.",
-        "The witness thought it could have been a meteor that split.",
-        "The sighting lasted about 4 seconds."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright green ball of fire",
-    "location": "New York State",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A couple observed a brilliant green ball of fire falling from the sky while driving on the New York State Thruway.",
+    "interesting points": "The object flashed green light at regular intervals of about one second apart.,The sighting occurred on 3 August 1958 around 2:30 AM GMT.,The object was described as being the size of a green traffic light.,Initial observation was in the East, and it disappeared in the West.,The couple doubted it was an aircraft flying low, suspecting it might be a meteor.",
+    "sighted object": "a brilliant green ball of fire",
+    "location": "Newburgh, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "couple driving West on the New York State Thruway",
+    "contains photographs": false
 }

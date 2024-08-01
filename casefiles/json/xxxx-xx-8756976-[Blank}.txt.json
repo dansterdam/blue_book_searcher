@@ -1,15 +1,9 @@
 {
-    "main event": "This is a cover page for a microfilm publication of Project Blue Book, which contains case files of individual UFO sightings from 1837-1999 for the period of August 5-27, 1952.",
-    "interesting points": [
-        "The report does not appear to contain any photographs.",
-        "The microfilm publication covers a wide range of UFO sightings from 1837 to 1999.",
-        "The specific period covered is August 5-27, 1952.",
-        "The microfilm publication is part of Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects.",
-        "The report is a cover page for the microfilm publication, not a detailed case file."
-    ],
-    "result": "This is not a specific UFO case file, but rather a cover page for a microfilm publication containing a collection of UFO sightings.",
-    "sighted object": "Not specified, as this is a cover page for a collection of UFO case files.",
-    "location": "Not specified, as this is a cover page for a collection of UFO case files.",
-    "witnesses": "Not specified, as this is a cover page for a collection of UFO case files.",
-    "photographs": "The report indicates that the image does not appear to contain any photographs."
+    "main event": "Microfilm publication of Project Blue Book containing case files of individual UFO sightings from 1837-1999.",
+    "interesting points": "The microfilm covers UFO sightings for the period of August 5-27, 1952., The publication includes case files with file numbers ranging from 1837 to 1999., Project Blue Book was a systematic study of UFOs conducted by the U.S. Air Force., The archives provide historical context for UFO sightings., The microfilm was published by The National Archives in 1976.",
+    "sighted object": "UFOs reported in various individual case files",
+    "location": "Washington, DC, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

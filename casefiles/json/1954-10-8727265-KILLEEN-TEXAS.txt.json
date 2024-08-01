@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A luminous, disc-shaped object was sighted in the sky over Killeen, Texas on October 8, 1954.",
-    "interesting points": [
-        "The object was approximately 25-30 feet in diameter and was white in color.",
-        "The object moved in an undulating, changing direction at a speed of approximately 500 mph.",
-        "The object crossed the road and then disappeared from view.",
-        "The sighting lasted for 2-3 minutes.",
-        "The observer was a 38-year-old police officer."
-    ],
-    "result": "unidentified",
-    "sighted object": "a luminous, disc-shaped object",
-    "location": "Killeen, Texas",
-    "witnesses": "a police officer",
-    "photographs": "none taken"
+    "main event": "A police officer reported seeing a luminous disc-shaped object in Killeen, Texas on October 8, 1954.",
+    "interesting points": "The object was approximately 25-30 feet in diameter and white in color,It was observed crossing a road, changing direction, and then disappearing,The object was reported to have a speed of approximately 500 mph,The officer observed the object for about 2-3 minutes during clear weather,The report was filed with local authorities but no photographs were taken.",
+    "sighted object": "one luminous disc-shaped object",
+    "location": "Killeen, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Police officer, age 38",
+    "contains photographs": false
 }

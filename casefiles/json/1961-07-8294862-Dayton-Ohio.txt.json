@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright light in the sky was observed hovering and then moving off at a high rate of speed in Dayton, Ohio in 1957.",
-    "interesting points": [
-        "The witness was an employee of the Dayton Power & Light Company and was considered a reliable and intelligent observer.",
-        "The sighting lasted for about 15 seconds.",
-        "An estimate diagram is attached showing the approximate location and movement of the object.",
-        "The sighting occurred while the witness was watching television.",
-        "The weather was clear at the time of the sighting."
-    ],
-    "result": "unexplained",
+    "main event": "An employee of the Dayton Power & Light Company observed a bright light in the sky for 15 seconds before it moved off at a high rate of speed.",
+    "interesting points": "The sighting occurred while the observer was watching television,The observer noted the bright light in the sky to the west,The weather was clear at the time of the observation,The observer is considered reliable and intelligent,An estimate diagram of the object's location and movement was attached.",
     "sighted object": "a bright light in the sky",
-    "location": "Dayton, Ohio",
-    "witnesses": "an employee of the Dayton Power & Light Company",
-    "photographs": "no, the report does not include any photographs"
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an employee of the Dayton Power & Light Company",
+    "contains photographs": false
 }

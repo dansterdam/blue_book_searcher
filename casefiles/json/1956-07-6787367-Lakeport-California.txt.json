@@ -1,15 +1,9 @@
 {
-    "main event": "Two aerial objects were observed flying in a westerly direction in Lakeport, California on 22 July 1956.",
-    "interesting points": [
-        "The sighting lasted 3-5 minutes, providing a substantial duration for observation.",
-        "The report specifies 'Ground-Visual' observation, indicating that the objects were seen from the ground.",
-        "The objects were observed visually, suggesting that there were credible witnesses who saw them.",
-        "The location was Lakeport, California, a specific geographical location for the sighting.",
-        "The report is part of Project Blue Book, a U.S. Air Force program to investigate unidentified flying objects (UFOs)."
-    ],
-    "result": "unexplained",
+    "main event": "Two aerial objects were observed flying in a westerly direction over Lakeport, California.",
+    "interesting points": "The observation lasted for 3-5 minutes,The objects were observed visually,The sighting was classified as a ground visual observation,The objects were seen flying towards the west,This report is part of Project Blue Book, which investigated UFOs.",
     "sighted object": "two aerial objects",
-    "location": "Lakeport, California",
-    "witnesses": "credible witnesses",
-    "photographs": "no photographs"
+    "location": "Lakeport, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

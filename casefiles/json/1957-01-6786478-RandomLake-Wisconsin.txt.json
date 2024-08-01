@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting occurred in Random Lake, Wisconsin on January 6, 1957, as reported by a civilian housewife.",
-    "interesting points": [
-        "The observation lasted for 5 minutes and involved two unidentified objects moving to the west.",
-        "The report suggests that the observed objects were partially inflated high altitude balloons, believed to be General Mills research balloons.",
-        "Handwritten annotations on the document include references to 'Division of velocity' and 'Chaotic commands'.",
-        "The report notes that there is no photograph present to accompany the observations.",
-        "The source of the report is a civilian housewife, adding to the credibility of the sighting."
-    ],
-    "result": "prozaic explanation",
-    "sighted object": "two partially inflated high altitude balloons",
-    "location": "Random Lake, Wisconsin",
-    "witnesses": "civilian - housewife",
-    "photographs": "no"
+    "main event": "A housewife observed two objects in the sky over Random Lake, Wisconsin on January 6, 1957.",
+    "interesting points": "The observation lasted for 5 minutes,The objects were believed to be partially inflated high altitude balloons,The report mentions the possibility of them being General Mills research balloons,The sighting was categorized as a C-Ground-Visual observation,No photographs were included in the report.",
+    "sighted object": "two high altitude balloons",
+    "location": "Random Lake, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian - housewife",
+    "contains photographs": false
 }

@@ -1,14 +1,9 @@
 {
-    "main event": "The document consists of reports and evaluations of various UFO incidents, including sightings of fireballs and potentially explainable aerial phenomena. One of the incidents involves a possible rocket sighting by an airline pilot and co-pilot.",
-    "interesting points": [
-        "The evaluations by Dr. Hynek categorize sightings into astronomical, non-astronomical but suggestive of other explanations, and non-astronomical incidents with no explanation evident.",
-        "A United Airlines flight observed a disc trailing green and blue flames, descending vertically at a high speed, and slowing down as it neared the ground.",
-        "The sighting near Lovelock, Nevada, involved an explosion seen that was attributed to the fireball discussed in another incident.",
-        "A fiery object observed between Medford, Oregon, and Mt. Shasta, California, coincided with the sighting of a fireball detailed in another report.",
-        "Reports suggested that some incidents were likely explainable as synoptic weather balloons, leading to evaluations and recommendations for further study."
-    ],
-    "result": "The report includes sightings of fireballs, potential rocket sightings, and evaluations that suggest some incidents may be explainable as astronomical or aerial phenomena.",
-    "location": "Various locations including Medford, Oregon, Mt. Shasta, California, Lovelock, Nevada, and others.",
-    "witnesses": "A variety of witnesses, including airline pilots, military personnel, and individuals from different observatories and weather service stations.",
-    "photographs": "No photographs are provided in the report."
+    "main event": "A commercial airline pilot reported seeing an unidentified object trailing green and blue flames between Medford, Oregon and Mt. Shasta, California on December 30, 1947.",
+    "interesting points": "The pilot and co-pilot observed the object for about 2 seconds while flying at an altitude of 13,000 feet,The object was described as descending vertically at a very high rate of speed,The pilots noted that the object seemed to slow down slightly as it approached the ground,The sighting occurred during an administrative flight from Great Falls, Montana to Fairfield-Suisun Air Force Base,The object’s flames were intensely bright and appeared at a position of 2:30 o'clock in relation to the airplane.",
+    "sighted object": "unidentified flying object",
+    "location": "Between Medford, Oregon and Mt. Shasta, California",
+    "number of confirmed witnesses": 2,
+    "witness description": "commercial airline pilot and co-pilot",
+    "contains photographs": false
 }

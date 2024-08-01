@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "Multiple UFO sightings reported in Auburn, Washington between June 28 and July 2, 1963.",
-    "interesting points": [
-        "The sightings were of a moving star-like point-source of light.",
-        "Space Defense Center (SDC) analyzed the sighting times and determined the object was likely the Cosmos 103 rocket body.",
-        "A radio station in Seattle reported on the sightings, putting the Air Force in a bad light.",
-        "On July 17, over 1,500 people in Auburn reportedly saw the light in the sky.",
-        "The sightings occurred between June 23 and July 3, 1963 at various times."
-    ],
-    "result": "Probable Cosmos 103 rocket body",
-    "sighted object": "Moving star-like point-source of light",
-    "location": "Auburn, Washington",
-    "witnesses": "Multiple observers",
-    "photographs": "No photographs included in the report"
+    "main event": "A series of UFO sightings reported from Auburn, Washington, likely attributed to the Cosmos 103 rocket body.",
+    "interesting points": "The sightings occurred between June 28 and July 2, 1963., The sightings were of a moving star-like object., Space Defense Center engineers evaluated the sightings to determine visibility of the Cosmos 103 rocket body., The Air Force concluded that the rocket body was the probable cause of the sightings., A memo indicated that the story was affecting Air Force public perception.",
+    "sighted object": "a moving star-like point-source of light",
+    "location": "Auburn, Washington, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The document does not specify the number of witnesses or descriptions.",
+    "contains photographs": false
 }

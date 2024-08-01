@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness in Litchfield, Ohio reported seeing a yellowish egg-shaped light that traveled back and forth across the sky every 5 minutes.",
-    "interesting points": [
-        "The witness sighted the object on July 20, 1968 around 2130/0382.",
-        "The object was described as an egg-shaped light that was yellowish in color.",
-        "The object was observed traveling back and forth across the sky every 5 minutes.",
-        "The Air Force acknowledged the witness's report and requested further information.",
-        "The report concluded that there was 'INSUFFICIENT DATA FOR EVALUATION' due to a lack of details from the witness."
-    ],
-    "result": "unexplained",
+    "main event": "A civilian observed a yellowish egg-shaped light traveling back and forth across the sky in Litchfield, Ohio.",
+    "interesting points": "The sighting occurred on 20 July 68 at 2130,The object was observed every 5 minutes moving back and forth,The observer described the object as having an egg shape,There was insufficient data for further evaluation as the report lacked details,The letter from the Department of the Air Force acknowledged the witness's report.",
     "sighted object": "yellowish egg-shaped light",
-    "location": "Litchfield, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "location": "Litchfield, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

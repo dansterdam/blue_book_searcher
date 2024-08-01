@@ -1,17 +1,9 @@
-Here is the JSON summary based on the details provided in the UFO report:
-
 {
-    "main event": "A civilian observed a white, round object in the sky over Desoto, Missouri on September 27, 1960.",
-    "interesting points": [
-        "The object appeared quite close or quite loud, but it was assumed to be distant and the noise was associated with a satellite.",
-        "The observer first thought the object was a star, but then did not know what it was.",
-        "The object appeared to hover silently over the area for 15-20 minutes before accelerating rapidly, making a 90-degree turn and disappearing.",
-        "The observer had previously seen a similar craft in the Ozark, Missouri area in late July 1966.",
-        "The object was described as a round, silver craft ranging from 30-60 feet in diameter."
-    ],
-    "result": "Possible satellite",
-    "sighted object": "a white, round object",
-    "location": "Desoto, Missouri",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported in DeSoto, Missouri on September 27, 1960, involving one object observed for 20 minutes.",
+    "interesting points": "The observer initially thought the object was a star, but later realized it was something else., The object emitted white lights in the sky., The object was assumed to be quite distant yet appeared close or loud., There was no physical evidence or photographs associated with this sighting., The Air Force concluded that it was a possible satellite.",
+    "sighted object": "one unidentified flying object emitting white lights",
+    "location": "DeSoto, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who reported observing the lights in the sky without any additional physical evidence.",
+    "contains photographs": false
 }

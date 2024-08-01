@@ -1,15 +1,9 @@
 {
-    "main event": "A small balloon, half plastic & half fibre, was sighted in Indiana by 3 hunters. It eventually got entangled in the power lines above the field.",
-    "interesting points": [
-        "The device was found to be a weather balloon for remote measurements of the strength of the earth's horizontal magnetic field.",
-        "The device is a magnetometer for remote measurement of the strength of the earth's magnetic field, with the sensing element being supported by a pendulus mounting to measure the horizontal component.",
-        "The device was likely carried to a high altitude by a balloon and then transmitted field strength measurements by telemetry to a ground station.",
-        "The document is signed by G. T. Gregory, Capt. USAF, ATIC-24, and was returned to the 5th District OSI on 5 Feb 58 with an evaluation.",
-        "The handwritten text on the third page also describes the device as a magnetometer for measuring the earth's magnetic field, and that it was likely carried by a balloon."
-    ],
-    "result": "Was Balloon",
-    "sighted object": "a small balloon, half plastic & half fibre",
-    "location": "Indiana",
-    "witnesses": "3 hunters",
-    "photographs": "no"
+    "main event": "A small weather balloon was sighted in Indiana by 3 hunters and got entangled in power lines.",
+    "interesting points": "The object was described as half plastic and half fiber., The hunters reported the sighting while they were out in the field., The balloon was later identified as a weather balloon used for measuring the earth's magnetic field., The weather balloon was likely carried to a high altitude before being transmitted back to a ground station., The case was evaluated and noted for further assessment.",
+    "sighted object": "a small weather balloon",
+    "location": "Indiana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "hunters",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A saucer-shaped craft was reported to have landed near a young boy's home in Peterson, Minnesota.",
-    "interesting points": [
-        "The boy saw the saucer-shaped craft land, but there were no traces or other evidence of a landing according to his mother.",
-        "Additional information was requested from the witness to further evaluate the report.",
-        "Another report describes a bright, metallic, round object that hovered, moved slowly, then rapidly disappeared from sight over Peterson, Minnesota.",
-        "The object had a brilliant light in the center and a red strobing light on top, but no sound was associated with it.",
-        "A later amended report describes a large, brilliant, oval or disc-shaped light that passed silently and swiftly over the witness's house at a high altitude."
-    ],
-    "result": "unexplained",
-    "sighted object": "saucer-shaped craft, bright metallic round object, large brilliant oval/disc-shaped light",
-    "location": "Peterson, Minnesota",
-    "witnesses": "young boy, witness and their wife",
-    "photographs": "none"
+    "main event": "A young boy and his mother reported seeing a saucer-shaped object land in Peterson, Minnesota.",
+    "interesting points": "The boy claimed to have seen a saucer land, while his mother noted there were no physical traces left behind., An additional report described a bright metallic object observed hovering in the sky for about 30 minutes., Another witness mentioned a brilliant light in the center of the object and a strobing red light on top., There were multiple reports from different witnesses in the area regarding similar sightings., A request was made for further information, as the initial reports were insufficient for scientific evaluation.",
+    "sighted object": "saucer-shaped object",
+    "location": "Peterson, Minnesota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A young boy and his mother",
+    "contains photographs": false
 }

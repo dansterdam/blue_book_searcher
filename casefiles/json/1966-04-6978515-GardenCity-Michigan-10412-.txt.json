@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting in Garden City, Michigan on April 19, 1966, as reported in Project Blue Book file 10412.",
-    "interesting points": [
-        "The report includes two black and white photographs of the unidentified aerial object.",
-        "The photographs show a small, obscured object in the sky against a cloudy or hazy background.",
-        "The object is difficult to make out in detail due to the grainy nature of the photographs.",
-        "The report is classified as 'UNCLASSIFIED' by the Foreign Technology Division of the AFSC.",
-        "No other details about the sighting or witness testimony are provided in the given information."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified aerial object",
-    "location": "Garden City, Michigan",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes two photographs"
+    "main event": "A UFO report from Project Blue Book concerning sightings in Garden City, Michigan on April 19, 1966.",
+    "interesting points": "The report includes 2 grainy black and white photographs of the unidentified aerial object.,The photos show the object against a cloudy or hazy background.,Branches or twigs are visible in the foreground of the first photo.,The object is described as small and obscured in the images.,The report is unclassified by the Foreign Technology Division, AFSC.",
+    "sighted object": "unidentified aerial object",
+    "location": "Garden City, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none mentioned",
+    "contains photographs": false
 }

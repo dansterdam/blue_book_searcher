@@ -1,15 +1,9 @@
 {
-	"main event": "On November 25, 1956, an incomplete sighting of an unknown object was reported at 0130Z, described as a half circle object blinking in reddish and white colors.",
-	"interesting points": [
-		"The sighting was inconclusive and no photographs were provided.",
-		"The report mentioned sending a request for more information, but the analysis returned insufficient data for evaluation.",
-		"The object was initially speculated to be a balloon, aircraft, or astronomical in nature.",
-		"No conclusive conclusion was reached regarding the nature of the object.",
-		"The case was listed as 'insufficient data' and no further details were found in the file."
-	],
-	"result": "insufficient data for evaluation",
-	"sighted object": "unknown object described as a half circle blinking in reddish and white",
-	"location": "",
-	"witnesses": "",
-	"photographs": "no photographs"
+    "main event": "One object seen as a half circle, colored reddish and white, on 25 November 1956.",
+    "interesting points": "The sighting was classified as incomplete with an unknown length of observation., The object was described as blinking and dividing into two., Various conclusions were drawn, including it possibly being a balloon or aircraft., A report was sent to acquire more information on 26 Nov 1956., The case was listed as having insufficient data for evaluation.",
+    "sighted object": "one reddish and white half circle object",
+    "location": "Not specified",
+    "number of confirmed witnesses": 0,
+    "witness description": "No reports in file",
+    "contains photographs": false
 }

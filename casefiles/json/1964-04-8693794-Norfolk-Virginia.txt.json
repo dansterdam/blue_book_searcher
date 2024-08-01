@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "A civilian pilot observed an unidentified object with several powerful white flashing lights at high altitude over Norfolk, Virginia on April 17, 1964.",
-    "interesting points": [
-        "The object was observed by the pilot and crew of the aircraft, as well as other airlines in the area.",
-        "The object initially stood still, then moved to the south after the first 'blast'.",
-        "The Air Force could not confirm a missile launch from Cape Kennedy that could have caused the sighting, and suggested it may have been related to NASA activities from Wallops Island.",
-        "The Air Force requested additional information from the pilot to further evaluate the sighting, but did not receive a response.",
-        "The case was ultimately concluded as 'probably Balloon' due to insufficient data for a firm evaluation."
-    ],
-    "result": "Probable Balloon",
-    "sighted object": "Object with several powerful white flashing lights",
-    "location": "Norfolk, Virginia",
-    "witnesses": "Civilian pilot and crew, other airline pilots",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A sighting of an unidentified object with seven powerful white lights observed over Norfolk, Virginia on April 17, 1964.",
+    "interesting points": "The object was reportedly at high altitude and moved south after the first blast., The sighting was corroborated by other airlines in the area., No missile launch from Cape Kennedy was confirmed during the time of the sighting., Additional information was requested from the report's source but went unanswered., The case is likely attributed to NASA activities, though firm evaluation wasn't possible due to a lack of data.",
+    "sighted object": "one unidentified object with seven powerful white lights",
+    "location": "Norfolk, Virginia, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "crew members of the observing aircraft",
+    "contains photographs": false
 }

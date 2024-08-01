@@ -1,15 +1,9 @@
 {
-    "main event": "Two airline pilots spotted a large, reddish-white object with green wings near Great Mills, Maryland on October 19, 1959.",
-    "interesting points": [
-        "The object was 5-6 times larger than a star.",
-        "The object had green wings protruding from it.",
-        "The sighting lasted for approximately 25 minutes.",
-        "The object paralleled Airway Red-77.",
-        "The weather conditions at the time were clear with 15 miles visibility."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, reddish-white object with green wings",
-    "location": "Great Mills, Maryland",
-    "witnesses": "pilots of National Airlines Flight 118 and Eastern Airlines Flight 642",
-    "photographs": "no"
+    "main event": "Two airline pilots observed an unidentified flying object near Great Mills, Maryland on October 19, 1959.",
+    "interesting points": "The object was red, reddish-white and appeared 5-6 times larger than a star,Green wings were protruding from the object,The sighting lasted approximately 25 minutes,The airlines pilots were not available for interrogation according to the report,No follow-up was attempted due to insufficient data.",
+    "sighted object": "one unidentified flying object with green wings",
+    "location": "Great Mills, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "airline pilots from National Airlines Flight 118 and Eastern Airlines Flight 642",
+    "contains photographs": false
 }

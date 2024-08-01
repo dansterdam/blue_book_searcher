@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A civilian couple spotted a greenish-red light that was stationary in the sky over Phoenix, Arizona.",
-    "interesting points": [
-        "The light was observed for 10-15 minutes.",
-        "The observation was made by a civilian couple.",
-        "The weather conditions were clear with good visibility.",
-        "A weather balloon was released from the Phoenix Municipal Airport around the time of the sighting.",
-        "No sound was reported coming from the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a greenish-red light",
-    "location": "Phoenix, Arizona",
-    "witnesses": "a civilian couple",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A civilian couple observed a greenish-red light in Phoenix, Arizona.",
+    "interesting points": "The light was stationary and emitted no sound,The sighting lasted between 10 to 15 minutes,The couple was observing the light from the ground,Weather conditions were clear with visibility over 30 miles,The observation was made on February 2 at 8:00 AM MST.",
+    "sighted object": "a greenish-red light in the sky",
+    "location": "Phoenix, Arizona, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a civilian man and his wife",
+    "contains photographs": false
 }

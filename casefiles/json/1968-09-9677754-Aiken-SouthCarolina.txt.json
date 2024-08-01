@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Civilians in Aiken, South Carolina reported seeing multiple unidentified flying objects on September 7, 1968.",
-    "interesting points": [
-        "Over 30 calls were received by the 851st Radar Squadron at Aiken Air Force Station, with 6 people identifying themselves as witnesses.",
-        "The objects were described as being round or oblong in shape, the size of a grapefruit or orange held at arm's length, and changing in color from fiery red to orange to white.",
-        "The objects were observed at different locations around Aiken, with some appearing to join together, separate, and move erratically.",
-        "The sightings lasted from 4 to 12 minutes and were observed visually, with some witnesses using binoculars.",
-        "Efforts to identify the objects as known aircraft, balloons, or astronomical phenomena were inconclusive."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple unidentified flying objects",
-    "location": "Aiken, South Carolina",
-    "witnesses": "civilians, including a radar squadron, electrician, and professor",
-    "photographs": "no"
+    "main event": "On September 7, 1968, multiple reliable witnesses observed a UFO in Aiken, South Carolina.",
+    "interesting points": "The object was reported to have a fiery red to orange color, with some witnesses seeing it as round and others as oblong., The sighting lasted between 4 to 10 minutes., Witnesses included a housewife, a high school student, and a military supervisor., The weather conditions were clear with a full moon, providing good visibility., There were over thirty calls reported to the radar squadron about the sighting, showing significant public interest.",
+    "sighted object": "UFO described as fiery red with multiple lights",
+    "location": "Aiken, South Carolina, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "Civilian witnesses with excellent character, including a housewife, a high school student, and military personnel.",
+    "contains photographs": false
 }

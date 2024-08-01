@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three pinkish objects were spotted in a trail formation, rising from the ground over Kirtland AFB, New Mexico on May 26, 1952.",
-    "interesting points": [
-        "The objects were observed by civilians.",
-        "The objects varied in altitude.",
-        "The objects were in a trail formation.",
-        "The objects appeared to be rising from the ground.",
-        "The report notes that the length of time observed and the speed of the objects were unknown."
-    ],
-    "result": "unexplained",
-    "sighted object": "Three pinkish objects in a trail formation",
-    "location": "Kirtland AFB, New Mexico",
-    "witnesses": "civilians",
-    "photographs": "no"
+    "main event": "Two unidentified flying objects were sighted circling over the mountains near Albuquerque, New Mexico, on 28 May 1952.",
+    "interesting points": "The objects were observed approaching at high speed of about 450 mph., The sighting lasted for about 6-10 minutes., The objects were described as coming in from the northeast and making a circular course., There are conflicting conclusions suggesting they could be balloons or aircraft., A prior report on 21 May 1952 mentioned three silver disk-like objects circling over the mountains.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Albuquerque, New Mexico, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "civilians observed the objects",
+    "contains photographs": false
 }

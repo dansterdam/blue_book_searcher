@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was reported in Washington, D.C. on April 2, 1952, with one photo associated with the file.",
-    "interesting points": [
-        "The UFO report is associated with a photo.",
-        "The sighting took place in Washington, D.C., near the Washington Monument.",
-        "The photo depicts a night scene with a cityscape, a well-lit monument, and bright spots.",
-        "The unidentified flying object was not described in the text.",
-        "The report suggests that the UFO sighting occurred in a populated area with visible city lights."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying object",
-    "location": "Washington, D.C.",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes a photograph"
+    "main event": "A UFO report from Washington, D. C. dated April 2, 1952.",
+    "interesting points": "The report includes one associated photograph,The scene captures a night view of the Washington Monument,The cityscape is illuminated with street lighting and buildings,The report suggests the presence of a reflective surface enhancing ambient light,No visible text is provided in the image.",
+    "sighted object": "Washington Monument",
+    "location": "Washington, D. C., D. C., USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none provided",
+    "contains photographs": true
 }

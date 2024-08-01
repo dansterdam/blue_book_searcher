@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Witnesses saw a red illumination in the sky during President Kennedy's televised space address.",
-    "interesting points": [
-        "The sky became illuminated with a red light.",
-        "The sighting lasted for 5 minutes.",
-        "The witnesses were civilians.",
-        "The Air Force requested additional information about the sighting, including the witnesses' full names.",
-        "The Air Force responded to a letter regarding the sighting, indicating the President's Office had asked them to reply."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red illumination in the sky",
-    "location": "Albany, New York",
-    "witnesses": "civilians",
-    "photographs": "no"
+    "main event": "Witnesses reported a UFO sighting during President Kennedy's televised Space address, observing a sky illuminated with a red light.",
+    "interesting points": "The sighting occurred on October 7, 1961, in Albany, New York., Witnesses were civilians who observed the sight for about 5 minutes., The report indicates a request for air inspection and additional information., The sighting was noted during a significant televised event., No photographs were included in the report.",
+    "sighted object": "UFO with red light in the sky",
+    "location": "Albany, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

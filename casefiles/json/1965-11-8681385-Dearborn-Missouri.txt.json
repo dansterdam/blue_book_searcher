@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A witness reported seeing a long flame-like object while driving on a highway in Missouri on November 17, 1965.",
-    "interesting points": [
-        "The flame-like object was approximately the size of a matchbox in width and appeared to be around 33 feet long.",
-        "The object was yellowish in color and was sighted without any flashing lights or other features.",
-        "The witness observed the object through the windshield of their car as they were driving down the highway.",
-        "The object was flying parallel to the ground at an apparent elevation of 3,333 to 13,333 feet and disappeared over the horizon.",
-        "The sighting lasted for 5 to 10 seconds as the object faded out into the horizon."
-    ],
-    "result": "unexplained",
+    "main event": "A pair of observers saw an unidentified long flame-like object while driving along a highway on November 17, 1965.",
+    "interesting points": "The object was described as a long flame approximately 33 feet in length,The observers saw the object from the windshield of their car while driving,The object was flying parallel to the ground and disappeared over the horizon after 5 to 10 seconds, The sighting occurred around 2353 Zulu time during the night, and visibility conditions were reported as clear and excellent.",
     "sighted object": "a long flame-like object",
-    "location": "Highway 29, near St. Joseph, Missouri",
-    "witnesses": "one witness, the driver of a car",
-    "photographs": "no photographs available"
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "one male observer and his wife, both total abstainers and reported to be sober and reasonable",
+    "contains photographs": false
 }

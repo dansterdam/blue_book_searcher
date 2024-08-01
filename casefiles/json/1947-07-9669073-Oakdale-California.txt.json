@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported on 5 May 1947 in Oakdale, California at 1501 pst. The object was observed for 10-15 seconds, exhibited bobbing and weaving maneuvers, and was silver in color, traveling at a very high speed and an estimated altitude of 2 miles.",
-    "interesting points": [
-        "The sighting involved a group of 12 unidentified objects, moving at a very high speed and exhibiting unusual maneuvers.",
-        "The source of the report was a civilian witness, adding credibility to the observation.",
-        "The object was observed at a very high estimated altitude of 2 miles, suggesting advanced or unconventional flight capabilities.",
-        "The UFO was silver in color, which is not consistent with typical aircraft or natural phenomena.",
-        "The sighting occurred at a specific time and location, providing a detailed record of the event."
-    ],
-    "result": "unexplained",
-    "sighted object": "group of 12 unidentified objects",
-    "location": "Oakdale, California",
-    "witnesses": "Civilian",
-    "photographs": "no"
+    "main event": "A civilian reported a sighting of 12 silver objects bobbing and weaving in the sky over Oakdale, California.",
+    "interesting points": "The sighting occurred on May 5, 1947, at 1501 PST.,The observed objects were at an altitude of 2 miles.,The objects were estimated to be flying at very high speeds.,The sighting lasted for about 10-15 seconds.,The observer noted the maneuvers of the objects as bobbing and weaving.",
+    "sighted object": "twelve silver objects",
+    "location": "Oakdale, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

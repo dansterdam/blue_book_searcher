@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information found in the UFO report text:
-
 {
-    "main event": "An unidentified bright, round, and glowing object was observed for 60 seconds, traveling at high speed in a northwest direction.",
-    "interesting points": [
-        "The object made climbing and leveling maneuvers.",
-        "Checks with local airports revealed no aircraft in the area at the time.",
-        "Weather balloon activity was eliminated as a possible cause.",
-        "The object was only seen for a short time and could not be conclusively identified.",
-        "Another sighting by a pilot over Lake Michigan described an erratic, rapidly moving reddish-orange light"
-    ],
-    "result": "Unsolved",
-    "sighted object": "Bright, round, glowing object",
-    "location": "Detroit, Michigan", 
-    "witnesses": "AFROTIC cadet at Wayne University",
-    "photographs": "None"
+    "main event": "An unidentified object was observed in Detroit, Michigan on 10 June 1953, described as bright, round, and glowing, moving at high speed for 60 seconds.",
+    "interesting points": "The object was reported to be larger than a star and moved in a climbing arc toward the north before disappearing over the northern horizon., The sighting had no sound and did not leave a trail or exhaust., The possibility of the object being of astronomical origin was eliminated based on its movements., The report was part of Project Blue Book, which investigated UFO sightings., Local airport checks found no aircraft in the area at the time of the sighting.",
+    "sighted object": "one large bright round object",
+    "location": "Detroit, Michigan, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "An AFROTIC cadet at Wayne University.",
+    "contains photographs": false
 }

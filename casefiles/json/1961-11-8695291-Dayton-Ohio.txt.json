@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two bright lights were sighted over the Dayton, Ohio area for about 10-15 minutes.",
-    "interesting points": [
-        "The lights were described as behaving irregularly, going over the Wright-Patterson area and then disappearing.",
-        "The witness stated that there were two T-33 aircraft in the air at the time, and the disappearance of the lights could be explained by the landing and retraction of the aircraft's landing lights.",
-        "The report concludes that the lights observed were likely from the T-33 aircraft and not an unidentified aerial phenomenon.",
-        "The lights were described as moving in a northerly direction over the Dayton area.",
-        "The sighting lasted for approximately 10-15 minutes."
-    ],
-    "result": "likely aircraft",
-    "sighted object": "two bright lights",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Two witnesses observed unidentified lights in the sky over Dayton, Ohio, for about 10-15 minutes on November 2, 1961.",
+    "interesting points": "The sighting occurred around 2315 hours local time, The lights were seen moving in an irregular circular pattern over the Dayton area, The dispatcher mentioned that there were 2 T-33 aircraft in the air at the time of the sighting, The conclusion of reports suggested that the lights observed were likely those from landing T-33s, Some witnesses compared the lights to a bright star-like object.",
+    "sighted object": "two unidentified lights",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian witnesses",
+    "contains photographs": false
 }

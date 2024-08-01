@@ -1,17 +1,9 @@
-Based on the text and details provided in the reports, here is the summary in the requested JSON format:
-
 {
-    "main event": "Witnesses reported seeing a bright, round, white object that hovered and moved erratically in the sky, with occasional red flashes.",
-    "interesting points": [
-        "The object was described as being about the size of a full moon.",
-        "The object hovered and moved in an erratic motion, with red tings showing up at times.",
-        "The witnesses first thought the object was a star that had suddenly appeared.",
-        "The object was observed for about 30 minutes.",
-        "The witnesses were unable to capture photographs of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, round, white object",
-    "location": "Duluth, Minnesota",
-    "witnesses": "civilian witnesses, including students",
-    "photographs": "none"
+    "main event": "Multiple witnesses observed a round unidentified flying object with red, blue, and green lights on it in Duluth, Minnesota, on the evening of August 17, 1966.",
+    "interesting points": "The object was described as moving parallel to the witnesses' course while they were driving on Highway 3., The object reportedly emitted sparks resembling a welder's arc while flying., Two separate groups of witnesses reported seeing a similar object that night., At least 15 individuals, including a confirmed military witness, observed the object during the event., The object's estimated speed was around 500 miles per hour, with some witnesses noting unusual flight maneuvers.",
+    "sighted object": "a round object with red, blue, and green lights",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 15,
+    "witness description": "civilians and military personnel",
+    "contains photographs": false
 }

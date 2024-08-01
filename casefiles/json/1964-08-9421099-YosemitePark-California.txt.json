@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "Three objects were observed in a parallel flight pattern at an estimated altitude of 5-7,000 feet in Yosemite Park, California on August 15, 1964.",
-    "interesting points": [
-        "The objects were described as bright silver, daylight observations with no sound or sign of propulsion.",
-        "The altitude of the objects made it difficult to determine their size, but they appeared small even at close range.",
-        "The objects were in parallel flight, performing maneuvers like zooming up and down and moving rapidly and erratically.",
-        "A low humming sound, likened to air friction, was audible, suggesting the objects were not at a great altitude.",
-        "The sighting lasted for 3-4 seconds."
-    ],
-    "result": "unidentified",
-    "sighted object": "three bright silver objects",
-    "location": "Yosemite Park, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Three unidentified objects were observed flying in parallel near Yosemite Park, California on August 15, 1964.",
+    "interesting points": "The objects were estimated to be at an altitude of 5-7,000 feet,The sighting lasted for 3-4 seconds,The objects were bright silver in color and made no discernible sound,Witnesses described the objects as small despite being in close proximity,The objects were observed during daylight.",
+    "sighted object": "three bright silver objects flying in parallel",
+    "location": "Yosemite Park, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Individuals who camped in the area, including a mathematics instructor and a music lecturer.",
+    "contains photographs": false
 }

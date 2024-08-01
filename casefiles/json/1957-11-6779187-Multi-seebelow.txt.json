@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A military pilot and passengers in an aircraft saw a large, fast-moving object in the sky that resembled a football or mushroom shape.",
-    "interesting points": [
-        "The object was described as being very large and very fast in the sky.",
-        "It appeared to be the size of a commercial blimp used for advertising.",
-        "The object glowed like a light bulb but did not have any other distinguishing characteristics of a meteorite.",
-        "The object made no sound and left no trail or vapor.",
-        "The object was observed moving in a straight westward direction across the sky."
-    ],
-    "result": "unknown",
-    "sighted object": "large, fast-moving mushroom or football-shaped object",
-    "location": "Southwest of Ozark AAF, Alabama",
-    "witnesses": "military pilot and passengers in aircraft",
-    "photographs": "no"
+    "main event": "Multiple witnesses reported observing a bright, circular object in the sky across various locations in Alabama, Georgia, and Florida on 13 November 1957.",
+    "interesting points": "The object resembled a dime or football in shape and was observed at a high speed,One witness estimated the object at about the size of a commercial blimp,Others at the scene thought the object might be a meteor but noted its speed was too slow for that,The object emitted colors, including red and green, and had a bright glow,Four confirmed separate sightings were reported at different times and locations by multiple witnesses.",
+    "sighted object": "A bright, circular object",
+    "location": "Macon, Georgia, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Individuals included both military personnel and civilians near the observation locations.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information found in the UFO report:
-
 {
-    "main event": "A man in Davidsonville, Maryland reported seeing a bright, glowing, circular object in the sky on February 9, 1967.",
-    "interesting points": [
-        "The object appeared to be pulsating and emitting a bright light.",
-        "The object was visible for approximately 2-3 minutes before disappearing from view.",
-        "The witness attempted to take a photograph of the object using a Polaroid camera, but the resulting image was blurry and indistinct.",
-        "Investigators were unable to find any physical evidence or residual effects at the reported sighting location.",
-        "Analysis concluded the object was likely an astronomical phenomenon, such as a meteor or other natural celestial body."
-    ],
-    "result": "Unidentified",
-    "sighted object": "A bright, glowing, circular object in the sky",
-    "location": "Davidsonville, Maryland",
-    "witnesses": "One male adult",
-    "photographs": "Blurry, indistinct Polaroid photograph obtained"
+    "main event": "A bright, self-luminous object was observed in Davidsonville, Maryland, on February 9, 1967, moving in a southeasterly direction.",
+    "interesting points": "The object was described as circular and emitted flashing colors (red, white, green)., The sighting duration was approximately 60 seconds., The object was observed at an altitude of 100-300 feet., The witness, Mrs. John Doe, reported no noise associated with the object., Witness Mr. Edwin C. Piratzky noted the object moved in an erratic manner before disappearing.",
+    "sighted object": "one bright self-luminous circular object",
+    "location": "Davidsonville, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mrs. John Doe (housewife) and Mr. Edwin C. Piratzky (resident of Davidsonville)",
+    "contains photographs": false
 }

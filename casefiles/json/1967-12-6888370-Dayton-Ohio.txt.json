@@ -1,17 +1,9 @@
-Here is the JSON summary of the key details from the UFO report:
-
 {
-  "main event": "A civilian observer in Dayton, Ohio sighted an unusual object in the sky on December 12, 1957 that looked like a flare making an arc toward the earth.",
-  "interesting points": [
-    "The object was visible for only 5 seconds.",
-    "The object was seen in the east-southeast direction.",
-    "No photographs were taken of the object.",
-    "No physical evidence of the object was found.",
-    "The conclusion was that the object was a probable meteor."
-  ],
-  "result": "Probable meteor",
-  "sighted object": "A flare-like object making an arc toward the earth",
-  "location": "Dayton, Ohio",
-  "witnesses": "1 civilian observer",
-  "photographs": "No"
+    "main event": "Multiple UFO sightings were reported in Dayton, Ohio, over different dates, with descriptions of an object resembling a flare and another akin to a star.",
+    "interesting points": "One sighting lasted 50 minutes and involved a round-like, multicolored object that resembled a searchlight., Another sighting described a stationary object likely identified as Venus., The Air Force received multiple reports with requests for further investigation., Observers detailed various shapes, colors, and behaviors of the phenomena, some comparing them to known aircraft., The conclusion for one sighting was a probable meteor, while another was categorized as insufficient data for a thorough evaluation.",
+    "sighted object": "One object that looked like a flare and another resembling a star.",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian sourced observations with detailed reports of observed objects.",
+    "contains photographs": false
 }

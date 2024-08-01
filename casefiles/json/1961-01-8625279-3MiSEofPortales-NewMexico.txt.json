@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified orange-red object was observed hovering at high altitude near Portales, New Mexico on January 7, 1961.",
-    "interesting points": [
-        "The object initially appeared round and orange-red in color, then turned bright white as it moved away.",
-        "Several other people reportedly observed the object during the time it was visible.",
-        "The sighting lasted for about 2 minutes, which is characteristic of UFO sightings.",
-        "There were no radar trackings or other confirming data to support the sighting.",
-        "The possibility of the object being a high altitude balloon or other natural phenomenon could not be ruled out."
-    ],
-    "result": "unexplained",
+    "main event": "An unidentified object was observed hovering at high altitude, appearing round and orange-red in color before turning bright white while moving away.",
+    "interesting points": "The sighting lasted approximately 2 minutes,Visibility was obstructed by morning haze,Several people reportedly witnessed the object during its visibility,There are no radar trackings or confirming data for the sighting,The possibility of the object being a high altitude balloon or natural phenomenon has not been ruled out.",
     "sighted object": "round, orange-red object that turned bright white",
-    "location": "3 miles southeast of Portales, New Mexico",
-    "witnesses": "multiple people",
-    "photographs": "no"
+    "location": "Portales, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Several other people reportedly observed the object",
+    "contains photographs": false
 }

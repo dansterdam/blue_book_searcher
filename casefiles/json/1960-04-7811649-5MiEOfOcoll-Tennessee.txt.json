@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, unidentified object was observed in the evening sky, possibly the size of the moon but much brighter.",
-    "interesting points": [
-        "The object was brilliant against the evening sky, possibly the size of the moon at its lowest.",
-        "The observers could not judge the distance, height, or diameter of the object.",
-        "The height of the object could not be determined, but it may have lowered in intensity or disappeared behind clouds.",
-        "The object could have been 20, 30 or 50 miles up in the sky.",
-        "The observers were unable to determine the exact distance, height or size of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, unidentified object in the sky",
-    "location": "Tullahoma, Tennessee",
-    "witnesses": "civilian observers",
-    "photographs": "none"
+    "main event": "Witnesses observed an unidentified object moving rapidly and changing shape in the sky near Ocoee, Tennessee.",
+    "interesting points": "The object was seen traveling from North to South at a very fast speed,The object produced a long vapor trail and was described as oval or elongated in shape,The witnesses observed the object's rapid acceleration, deceleration, and blinking lights,It disappeared behind clouds before reappearing and changing colors,The sighting lasted for approximately 15 minutes.",
+    "sighted object": "unidentified flying object with a vapor trail",
+    "location": "Ocoee, Tennessee, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A civilian and his wife who initially thought the object was a planet or the sun.",
+    "contains photographs": false
 }

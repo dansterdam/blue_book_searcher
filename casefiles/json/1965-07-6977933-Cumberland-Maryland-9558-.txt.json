@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO incident was reported in Cumberland, Maryland on July 26, 1965.",
-    "interesting points": [
-        "The report includes a photograph, though the subject matter is not clearly identifiable.",
-        "The document is labeled as 'File 9552' and the handwritten text on the photograph says '9553 1/20 165 Cumberland, Md.'",
-        "The report appears to be part of Project Blue Book, a U.S. Air Force program that investigated UFO sightings.",
-        "The report does not provide any further details about the UFO incident beyond the location and date.",
-        "The report is a single page and does not contain any additional information about the sighting or the photograph."
-    ],
-    "result": "unknown",
-    "sighted object": "unspecified UFO",
-    "location": "Cumberland, Maryland",
-    "witnesses": "unknown",
-    "photographs": "yes, 1 photograph included"
+    "main event": "A UFO report from Project Blue Book dated July 26, 1965, regarding an incident in Cumberland, Maryland.",
+    "interesting points": "The report is associated with File 9552, The document mentions an accompanying photo but does not clearly identify any subject in it, The handwritten text includes notations like '9553 1/20 165', It is part of a larger collection of UFO reports, The specific details about the sighting itself are not provided in the OCR text.",
+    "sighted object": "not specified",
+    "location": "Cumberland, Maryland, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

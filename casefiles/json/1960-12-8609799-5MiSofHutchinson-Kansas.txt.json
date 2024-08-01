@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO was sighted by multiple witnesses traveling in separate vehicles near Hutchinson, Kansas in 1962.",
-    "interesting points": [
-        "The object was sighted at 60 degrees above the horizon and disappeared at 30 degrees above the horizon.",
-        "The object moved at a very fast speed.",
-        "The object appeared to glow or emit light.",
-        "The sighting was reported to the Air Force's Project Blue Book investigation.",
-        "Similar UFO sightings had been reported in the area previously."
-    ],
-    "result": "Unidentified",
-    "sighted object": "A fast-moving, glowing, circular-shaped object",
-    "location": "Near Hutchinson, Kansas",
-    "witnesses": "Three individuals in separate vehicles",
-    "photographs": "None"
+    "main event": "A UFO was observed in Hutchinson, Kansas on December 16, 1963, with radar confirmation and visual sightings.",
+    "interesting points": "The UFO was reported as having a round shape and was visible for only 1-2 seconds., It was sighted between 0-2 degrees elevation above the horizon and disappeared at 20 degrees., There were intermittent radar blips indicating its presence., Witnesses in moving vehicles observed the object from different angles., The report concluded that the object was unidentified, with possibilities including a balloon or known satellite.",
+    "sighted object": "a round unidentified flying object",
+    "location": "Hutchinson, Kansas, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "technical representatives from Hutchinson Air Station, including service members and a civilian.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-    "main event": "A saucer-shaped object was observed hovering over Riverside, California on November 21, 1951.",
-    "interesting points": [
-        "The object was estimated to be approximately 60 feet in diameter and appeared to be metallic or silver in color.",
-        "The object was observed to be stationary for a period of approximately 15-20 minutes, after which it suddenly disappeared at a high rate of speed.",
-        "No sound was heard during the observation.",
-        "The object was observed by several witnesses who are considered to be reliable.",
-        "The report has been forwarded to the Air Force Office of Special Investigations."
-    ],
-    "result": "unexplained",
-    "sighted object": "a saucer-shaped metallic or silver object",
-    "location": "Riverside, California",
-    "witnesses": "several reliable witnesses",
-    "photographs": "yes, a photograph was taken but its details are not provided"
+    "main event": "On 23 November 1951, a photograph of an alleged flying saucer was recorded in Riverside, California.",
+    "interesting points": "The object was initially thought to be a weather balloon, but the hypothesis was later discarded due to the object's rapid maneuvers,The object was described as metallic or silver in color and approximately 60 feet in diameter,The witness reported the object remained stationary before disappearing at high speed, The case is part of the Project Blue Book archives, which document UFO sightings investigated by the U.S. Air Force,Several credible witnesses observed the object during the sighting.",
+    "sighted object": "alleged flying saucer",
+    "location": "Riverside, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "William Neeley, Jr., a 28-year-old electronics technician with no history of false reports or mental illness.",
+    "contains photographs": true
 }

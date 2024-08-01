@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian couple saw a round, silver object traveling at a high rate of speed from southwest to northeast over The Dalles, Oregon on December 26, 1952.",
-    "interesting points": [
-        "The object was observed for approximately one minute before it disappeared from view.",
-        "The object was silent and left no trail or vapor.",
-        "The report also includes a second sighting of a fast-moving, white round object the size of a marble, which came from the northwest, made a circular pattern to the south, and then disappeared to the southeast.",
-        "The second sighting was observed by a ground observer corps member using high-powered field glasses, and the object was stated to have moved faster than a jet aircraft.",
-        "The second sighting occurred on July 22, 1952 near The Dalles, Oregon."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, silver object; a fast-moving, white round object the size of a marble",
-    "location": "The Dalles, Oregon",
-    "witnesses": "a civilian couple; a ground observer corps member",
-    "photographs": "none"
+    "main event": "A couple observed a round, silver object traveling at high speed in the sky while en route to Portland from The Dalles, Oregon on December 26, 1952.",
+    "interesting points": "The object was round and silver in color,The object was traveling from southwest to northeast at a high rate of speed,It was silent and left no trail or vapor,The sighting lasted for approximately one minute before it disappeared,The couple did not hear any sound during the sighting.",
+    "sighted object": "a round, silver object",
+    "location": "The Dalles, Oregon, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a man and his wife",
+    "contains photographs": false
 }

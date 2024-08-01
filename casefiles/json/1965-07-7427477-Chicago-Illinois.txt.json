@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed over Chicago, Illinois on the nights of July 28 and 29, 1965.",
-    "interesting points": [
-        "The object had a bright yellowish light and was apparently moving at a high rate of speed.",
-        "The object was observed by many residents in the Chicago metropolitan area.",
-        "The object seemed to be moving from north to south over Chicago.",
-        "The observing conditions were good with a clear sky.",
-        "There have been many reports of similar unidentified flying objects being observed over the Chicago metropolitan area during the past several years."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright yellowish light, apparently moving at a high rate of speed",
-    "location": "Chicago, Illinois",
-    "witnesses": "many residents in the Chicago metropolitan area",
-    "photographs": "no"
+    "main event": "A series of UFO sightings over Chicago, Illinois reported in July 1965, with multiple observations leading to various conclusions about the nature of the objects observed.",
+    "interesting points": "Witnesses described the UFOs as lights with a bright appearance, zig-zag movements, and no discernible noise, The objects were often reported as unusually large and bright compared to typical aircraft, Several sightings were confirmed by multiple witnesses, which adds to the credibility of the reports, Observations indicated that some objects hovered and performed rapid maneuvers that are not typical of known aircraft, Many reports suggested the possibility of atmospheric optical phenomena like 'mock suns' contributing to the sightings, rather than alien spacecraft.",
+    "sighted object": "Unidentified flying objects, described variably as lights, flares, and shapes similar to aircraft.",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilians reported observing bright lights moving across the sky, with some confirming the sightings under good conditions.",
+    "contains photographs": false
 }

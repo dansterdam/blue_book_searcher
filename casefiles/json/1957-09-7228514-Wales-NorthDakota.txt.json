@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A letter to the sponsor requesting information on a UFO sighting near Wales, North Dakota in September 1957.",
-    "interesting points": [
-        "The sighting involved an unidentified metallic sphere, approximately 40-50 feet in diameter, that was observed visually for up to 10 minutes by reliable witnesses and tracked on radar for 35 minutes.",
-        "The object was described as moving at phenomenal speeds, sometimes thousands of miles per hour, and being able to accelerate rapidly and change direction abruptly.",
-        "The object appeared to defy the laws of gravity, aerodynamics, and inertia, suggesting it may use an unknown power source and propulsion method.",
-        "There is a reference to a similar sighting in the Philippines that was submitted by a former intelligence officer.",
-        "The Air Force was investigating the sighting and providing a response to a Congressional inquiry about it."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large metallic sphere",
-    "location": "Wales, North Dakota",
-    "witnesses": "reliable and credible observers",
-    "photographs": "no, the report does not contain any photographs"
+    "main event": "Correspondence regarding an unidentified flying object sighting near Wales, North Dakota in September 1957.",
+    "interesting points": "The object was analyzed and described as a metallic sphere, approximately 40-50 feet in diameter., The object was observed visually for periods up to 10 minutes by credible observers., The object was tracked on radar for a period of 35 minutes., Observers indicated that the object defies conventional aircraft characteristics., The correspondence includes a request for further analysis and evaluation from the Air Technical Intelligence Center.",
+    "sighted object": "metallic sphere",
+    "location": "Wales, North Dakota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The report mentions credible observers, but specific identities are not given.",
+    "contains photographs": false
 }

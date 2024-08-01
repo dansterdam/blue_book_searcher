@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A flying saucer-shaped object was observed over Mikkeli, Finland on September 20, 1951.",
-    "interesting points": [
-        "The object was round-shaped with a red light in the center, estimated to be 4-5 meters in diameter.",
-        "The object was observed for 2-3 minutes, traveling at an estimated speed of 700-1,000 km/hr at an altitude of 6,000 meters.",
-        "The object initially traveled from north to south, then changed direction and flew towards the east before disappearing to the northeast.",
-        "The observers believed the object was under control due to its ability to change direction several times.",
-        "Several reliable observers reported the incident, which was considered a phenomenon deserving further investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "round-shaped object with a red light in the center",
+    "main event": "On June 9, 1951, a UFO sighting was reported in Mikkeli, Finland involving a disc-shaped object.",
+    "interesting points": "The object was described as aluminum colored, 2 meters in diameter, and flying at a speed of 800 mph., It showed a straight and level flight path with no noise., Lt. Kalimeri and 3 other observers noted a similar sighting involving a round object with a red light and changing direction., The observers estimated this object to be 4-5 meters in diameter and traveling at a speed of 700 to 1,000 km/hr., The sighting included a brief observation time of 2 to 3 minutes.",
+    "sighted object": "disc-shaped and round object with a red light",
     "location": "Mikkeli, Finland",
-    "witnesses": "Lt. Kalimeri and 3 others",
-    "photographs": "no"
+    "number of confirmed witnesses": 4,
+    "witness description": "Lt. Kalimeri and 3 other observers",
+    "contains photographs": false
 }

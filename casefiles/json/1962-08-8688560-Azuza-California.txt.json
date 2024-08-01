@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright, oval mass of light was sighted performing an approximate 2 degree/sec approach/recession over Azusa, California on August 3, 1962.",
-    "interesting points": [
-        "The object was sighted moving at a high speed, estimated at 2,000 mph.",
-        "The sighting was observed visually and with 3x binoculars by 3 witnesses.",
-        "The weather conditions at the time were clear with unlimited visibility.",
-        "The report suggests the sighting may have been related to a classified test of an airborne object in the area.",
-        "No unidentified acquisition or identification assistance was provided."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, oval mass of light",
-    "location": "Azusa, California",
-    "witnesses": "3 unnamed observers",
-    "photographs": "none"
+    "main event": "On 5 September 1959, witnesses observed a bright oval shape of light moving at high speed in Azusa, California.",
+    "interesting points": "The object was estimated to be traveling at 2000 mph,The sighting was made at 01/0122Z and lasted for an unspecified duration,Four witnesses confirmed the sighting,The event prompted a recommendation for further investigation,The object's appearance and motion suggested it could be astronomical, an aircraft, or a satellite.",
+    "sighted object": "bright oval shape of light",
+    "location": "Azusa, California, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "not specified",
+    "contains photographs": false
 }

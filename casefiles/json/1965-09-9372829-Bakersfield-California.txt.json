@@ -1,17 +1,9 @@
-Based on the information provided in the multiple pages of the UFO report, here is the summary in JSON format:
-
 {
-  "main event": "Three yellowish-orange lights were observed in the sky over Bakersfield, California on September 1, 1965.",
-  "interesting points": [
-    "The lights appeared to be shining through haze and were not very bright.",
-    "The lights were arranged in a triangle formation, with one light leading and the other two following behind.",
-    "The lights were moving at high speeds and making irregular, sharp turns.",
-    "Similar sightings of lights in the sky had been reported in the area previously.",
-    "The sighting lasted for a few minutes before the lights suddenly extinguished."
-  ],
-  "result": "Probably an aircraft",
-  "sighted object": "Three yellowish-orange lights in the sky",
-  "location": "Bakersfield, California",
-  "witnesses": "Civilian",
-  "photographs": "Yes, the report includes photographs"
+    "main event": "Three lights were observed in the sky over Bakersfield, California on September 1, 1965.",
+    "interesting points": "The lights were described as amber and appeared to be crossing the sky in an irregular fashion,The sighting lasted for a few minutes and involved three distinct lights,One of the lights seemed to pulsate and was the brightest among them,The colors of the lights included yellowish orange, red, and green,The Air Force concluded the sightings were probably due to aircraft.",
+    "sighted object": "three amber lights in the sky",
+    "location": "Bakersfield, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian who reported seeing the lights and commented on their unusual behavior.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The document contains information about three separate UFO sightings on August 11 and 12, 1958, in Erie, Pennsylvania and Brookfield AFS, Ohio.",
-    "interesting points": [
-        "One sighting described a round, white object, similar in size to a 12-inch dinner plate, appearing to be stationary but changing position. It was concluded to possibly be a balloon or part of an aircraft refueling operation.",
-        "Another sighting involved an object of unusual, reddish-orange color, stationary and oblong circular in shape, estimated to be around three times larger than T-33 aircraft. No known sound was associated with the object, and it remained stationary for several minutes before disappearing.",
-        "The observation of an unidentified flying object near Erie, Pennsylvania was conducted for 10-15 minutes through binoculars in daylight/night, and the object could not be identified. Unusual activity noted in the report included SAC aircraft refueling in the area.",
-        "There were no physical photographs included in the report, and the sightings were observed by Ground Visual and Binocular methods.",
-        "The document was transmitted to various military and intelligence commands for evaluation, suggesting a high level of attention and interest in the UFO sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "Various unidentified flying objects, including round, white objects, and oblong circular objects of reddish-orange color",
-    "location": "Erie, Pennsylvania and Brookfield AFS, Ohio",
-    "witnesses": "Observers from U.S. Coast Guard, SAC Aircrews, and ground observers",
-    "photographs": "No"
+    "main event": "An observer spotted a round white object the size of a 12\" dinner plate near Erie, Pennsylvania on August 12, 1958.",
+    "interesting points": "The observation lasted for about 15 minutes,The object faded to the east while appearing to be stationary but changing position,Weather conditions were calm with unlimited visibility,The observer used binoculars to view the object in daylight/night,Unusual activity from SAC aircraft was noted in the area.",
+    "sighted object": "round white object",
+    "location": "Erie, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer was from U.S. Coast Guard, unknown identity.",
+    "contains photographs": false
 }

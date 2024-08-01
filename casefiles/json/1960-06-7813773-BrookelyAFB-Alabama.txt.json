@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright orange-reddish object with no definite shape or size was observed over Brookley AFB, Alabama on June 25, 1960.",
-    "interesting points": [
-        "The object had a definite bright trail that appeared to be about 2 feet long.",
-        "The object disappeared fast after being observed for a short period of time.",
-        "The object made a sudden turn and was estimated to be traveling over 2000 mph.",
-        "The witnesses included two officers who were weapons controllers and rated.",
-        "The analysis concluded that the object was most likely a meteor or similar astronomical phenomenon."
-    ],
-    "result": "Probable Astronomical Phenomenon",
-    "sighted object": "A bright orange-reddish object with no definite shape or size",
-    "location": "Brookley AFB, Alabama",
-    "witnesses": "Two officers who were weapons controllers and rated",
-    "photographs": "No photographs were included in the report"
+    "main event": "A sighting of an unidentifiable object, described as orange reddish white in color with a bright train, was reported at Brookley AFB, Alabama, on 24 Jun 1960.",
+    "interesting points": "The object had no definite shape or size, The observation lasted for a very short period and the object disappeared quickly, Witnesses reported it appearing about 1 mile away, The sighting is concluded to likely be a bright meteor, The report documented various potential explanations for the object including balloon or aircraft.",
+    "sighted object": "object with no definite shape or size, orange reddish white color, bright train",
+    "location": "Brookley AFB, Alabama, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "officers rated as weapons controllers",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A spectral object, the size of the head of a pencil, was observed on ground radar at Wheelus AFB in Libya. The object initially appeared to be a shooting star but then changed direction.",
-    "interesting points": [
-        "The object did not alter its size during its flight until it disappeared instantaneously.",
-        "The object's path changed dramatically, crossing at 45 degrees, then 7 degrees.",
-        "Both visual and radar observations were made of the object.",
-        "The weather conditions were clear with a light wind.",
-        "The sighting lasted for 3-4 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a spectral object, the size of a pencil's head",
+    "main event": "A spectral object the size of a pencil changed direction unexpectedly at Wheelus AFB in Libya.",
+    "interesting points": "The object was initially thought to be a shooting star but exhibited an erratic flight path.,The object did not change size during its flight.,The sighting was confirmed by a helicopter pilot.,The duration of the observation is unknown.,The report indicates typical characteristics consistent with previous observations.",
+    "sighted object": "spectral object",
     "location": "Wheelus AFB, Libya",
-    "witnesses": "ground radar operators",
-    "photographs": "none"
+    "number of confirmed witnesses": 1,
+    "witness description": "1st Lt, 23rd Helicopter pilot",
+    "contains photographs": false
 }

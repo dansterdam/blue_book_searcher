@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported on 29th October 1952 near Long Island, New York. The object was pursued by two F-94 aircraft and maintained flight for a period of 1 to 2 minutes before escaping at high speed.",
-  "interesting points": [
-    "The UFO sighting was reported by a civilian pilot and lasted for approximately 20 minutes.",
-    "The object was described as a dark object with a bright light that was pursued by two F-94 aircraft.",
-    "The document includes a hand-drawn sketch or diagram of the unidentified object's initial heading and its route during the contact.",
-    "An evaluation suggested the possibility of the object being attributed to an unscheduled balloon release from Mitchell AFB, as it was seen performing flight orbits and behaving like a balloon.",
-    "The report also includes a map of the Hudson River area, elevation information, and a detailed aeronautical chart of the region."
-  ],
-  "result": "prosaic explanation: attributed to unscheduled balloon release from Mitchell AFB",
-  "sighted object": "dark object with bright light",
-  "location": "Long Island, NY",
-  "witnesses": "Civilian Pilot",
-  "photographs": "no"
+    "main event": "A civilian pilot observed a dark object with bright light being pursued by two F-94 aircraft over Long Island, NY, on October 29, 1952.",
+    "interesting points": "The object maintained flight for 1 to 2 minutes before escaping at high speed., The sighting lasted for approximately 20 minutes., Other witnesses included USAF pilots and radar observers., The object was described as round and self-luminous with extraordinary maneuverability., There is speculation that the observation could be attributed to a balloon release from Mitchell AFB.",
+    "sighted object": "a dark object with bright light",
+    "location": "Long Island, New York, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Civilian pilot and USAF personnel including pilots and radar observers",
+    "contains photographs": false
 }

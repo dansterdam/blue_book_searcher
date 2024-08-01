@@ -1,15 +1,9 @@
 {
-    "main event": "A witness observed a strange light in the sky over Fairborn, Ohio.",
-    "interesting points": [
-        "The light was first seen in the west and then turned and headed northwest.",
-        "The light flickered and no notice was made.",
-        "The report was sent to Project Blue Book, but they did not consider it as being seen from their central office.",
-        "The report is listed as conflicting.",
-        "The witness stated this was only one of many sightings of strange lights in the Fairborn area."
-    ],
-    "result": "unexplained",
-    "sighted object": "a strange flickering light in the sky",
-    "location": "Fairborn, Ohio",
-    "witnesses": "one witness",
-    "photographs": "no photographs"
+    "main event": "A witness reported seeing a strange light in the sky from the west that flickered and then moved northwest in Fairborn, Ohio.",
+    "interesting points": "The sighting was described as part of many occurrences in the Fairborn area., The light flickered but drew no immediate attention., The report was classified as conflicting by Project Blue Book., The witness indicated that there were no photographs included in the report., The questionnaire was filled out as a part of official documentation requests by the US Air Force.",
+    "sighted object": "a flickering light in the sky",
+    "location": "Fairborn, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness reported seeing a light with no additional identifying details.",
+    "contains photographs": false
 }

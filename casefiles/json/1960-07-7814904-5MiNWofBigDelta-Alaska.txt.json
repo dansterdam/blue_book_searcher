@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-  "main event": "A brilliant yellow flash the size of a dime left a large trail of heavy black smoke with varying degrees of density, estimated to be several miles long, was first seen 10 degrees above the horizon at 125 degrees, disappeared 20 degrees above the horizon at 125 degrees, and was viewed for about 5 to 10 seconds.",
-  "interesting points": [
-    "The trail of smoke was horizontal to the earth and parallel with the road.",
-    "There were no reports of any object or craft having crashed in the area.",
-    "The report concluded that the sighting was likely a daytime meteor, as it would not have traveled so far or left such a long trail of smoke if it had been an aircraft burning.",
-    "The report stated that there were no satellites reported to be reentering at the time of the sighting.",
-    "The reliability of the source was considered to be less reliable."
-  ],
-  "result": "Probably a daytime meteor",
-  "sighted object": "A brilliant yellow flash the size of a dime with a large trail of heavy black smoke",
-  "location": "5 miles northwest of Big Delta, Alaska",
-  "witnesses": "Civilian",
-  "photographs": "No"
+    "main event": "A brilliant yellow flash with a large trail of heavy black smoke was observed descending in the sky near Big Delta, Alaska.",
+    "interesting points": "The sighting lasted approximately 5 to 10 seconds., The trail of smoke was larger than the flash itself., The flash was described as the size of a dime., Two other individuals witnessed the trail of smoke but missed the initial flash., The report concluded it was probably a daylight meteor.",
+    "sighted object": "brilliant yellow flash with a large trail of heavy black smoke",
+    "location": "Big Delta, Alaska, US",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilian observers, including Mr. Keim and two others.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A commercial aircraft observed a satellite moving from north to south for 5-6 minutes.",
-    "interesting points": [
-        "The satellite appeared star-like in size and was the size of a sighting cloud.",
-        "The aircraft's position was at 30-20N 172-40W.",
-        "The report was retransmitted to the CIA, with advance copies sent to DIA, NIN, and XO.",
-        "The case is described as a 'visual' observation of a 'satellite', not a UFO.",
-        "Echo data was not available for this sighting."
-    ],
-    "result": "Described as a satellite, not a UFO",
+    "main event": "A commercial aircraft observed what looked like a satellite moving from North to South for 5-6 minutes.",
+    "interesting points": "The sighting was reported on 9-20-63., The object was described as looking like a star and the size of a sighting cloud., The observation was made by Slick 604, a commercial aircraft., The data collected suggested that the object was not a UFO but rather a satellite., The report included communications forwarded to various military and intelligence agencies.",
     "sighted object": "satellite",
-    "location": "30-20N 172-40W",
-    "witnesses": "commercial aircraft (Slick 604)",
-    "photographs": "no"
+    "location": "1720-50'N, 1720-40'W",
+    "number of confirmed witnesses": 1,
+    "witness description": "commercial aircraft Slick 604",
+    "contains photographs": false
 }

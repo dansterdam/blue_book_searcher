@@ -1,15 +1,9 @@
 {
-    "main event": "A radar detected an unidentified flying object, but it was not visually observed and posed no threat to air operations.",
-    "interesting points": [
-        "The radar detected an unidentified flying object, but it was not visually observed.",
-        "The object was described as large, oval, and flat, with a white, luminous, and light-giving appearance.",
-        "The object was observed for 15-20 minutes, and was maneuverable and slow.",
-        "One sighting included a chromatic trail that lasted longer than the others.",
-        "The sighting occurred approximately 20 miles northwest of Kassel, Germany, at an altitude of 2,000 feet."
-    ],
-    "result": "Unidentified, possibly balloon or meteor",
-    "sighted object": "Unidentified radar target",
-    "location": "550 mi SE Kassel, Germany",
-    "witnesses": "Radar operators",
-    "photographs": "No photographs available"
+    "main event": "An unidentified flying object was observed via radar in Kassel, Germany, on multiple occasions in the late 1950s.",
+    "interesting points": "The object was seen visually for about 10 minutes during one observation., One report described the object as large, oval, and flat, luminous in appearance., No photograph was obtained despite multiple sightings., The object was identified by radar but posed no threat to air operations., Observations indicated that the object could possibly be a meteor or balloon.",
+    "sighted object": "unidentified flying object",
+    "location": "Kassel, Germany",
+    "number of confirmed witnesses": 0,
+    "witness description": "observations made through radar and visual means",
+    "contains photographs": false
 }

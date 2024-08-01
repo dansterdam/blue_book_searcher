@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "A possible satellite was observed in the Pacific at 31.30N 175.30W on May 24, 1964.",
-    "interesting points": [
-        "The object was observed at an elevation of 50 degrees and was moving very fast to the northeast.",
-        "The object had the brightness of a first magnitude star.",
-        "The observation was made from an altitude of 7,000 feet.",
-        "The report states that the object was possibly a satellite, but no evaluation was provided at the time.",
-        "The report was received and retransmitted to the CIA."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a possible satellite",
-    "location": "31.30N 175.30W (Pacific)",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "main event": "Circular lights were observed at 50 degrees elevation in flight to the northeast at a very fast speed, appearing as bright as a first magnitude star.",
+    "interesting points": "The sighting was recorded on May 23, 1964., The object was described as having a very fast speed., The observation was made from an altitude of 7000 feet., The lights were reported at a bearing of 343 degrees., The military source indicated that the lights might be attributable to reflection or natural causes.",
+    "sighted object": "one circular light in the sky",
+    "location": "Pacific Ocean, N/A, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

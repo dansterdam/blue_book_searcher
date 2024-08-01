@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two bright objects were observed in the Atlantic Ocean for 10-15 minutes.",
-    "interesting points": [
-        "The objects were reported to be 'enigmatic and unexplained'.",
-        "One of the objects was observed blinking at one point.",
-        "The objects were capable of high speed and unknown maneuvers.",
-        "The report was sent to various military and intelligence organizations.",
-        "The sighting occurred at 9:00 PM local time."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright objects",
-    "location": "Atlantic Ocean, 48-30N 08-35W",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "Two unidentified objects were visually observed over the Atlantic Ocean on January 20, 1965.",
+    "interesting points": "The observation lasted between 10 to 15 minutes., No physical evidence was recorded., The conclusion of the report states the sighting is enigmatic and unexplained., The objects were reported visually, but no photographs were taken., The report is linked to historical investigations by the U.S. Air Force's Project Blue Book.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

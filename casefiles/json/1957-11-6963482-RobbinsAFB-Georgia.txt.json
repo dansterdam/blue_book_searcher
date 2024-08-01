@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO was observed near Robbins Air Force Base in Georgia on November 3, 1957.",
-    "interesting points": [
-        "The object was described as a cylinder-shaped, silver-colored craft the size of a Piper Cub plane, with no wings or tail and strobing lights.",
-        "The object was observed through 7x50 binoculars for 13 minutes.",
-        "The object suddenly appeared above and beyond an F-102 aircraft that was being monitored on Ground Controlled Approach (GCA).",
-        "The object remained stationary and then suddenly vanished with no apparent maneuver.",
-        "Several military personnel and civilian witnesses described the object differently, with some saying it was round and the size of a dime or half-dollar."
-    ],
-    "result": "unidentified",
-    "sighted object": "cylinder-shaped, silver-colored craft with strobing lights",
-    "location": "Near Robbins AFB, Georgia",
-    "witnesses": "Military personnel and civilian witnesses",
-    "photographs": "no"
+    "main event": "Observation of a UFO sighting near Robbins AFB, Georgia on November 3, 1957.",
+    "interesting points": "The object was described as a cylinder shape, the size of a Piper Cub plane, without wings or tail,The object had a silver color and emitted strobing lights,The observation lasted for 13 minutes and was conducted with 7x50 binoculars,The report concluded the object was unidentified,All confirmed witnesses were stationed at Robbins AFB.",
+    "sighted object": "one cylindrical object with strobing lights",
+    "location": "Robbins AFB, Georgia, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "A mix of military personnel and civilians, including control tower operators and construction workers.",
+    "contains photographs": false
 }

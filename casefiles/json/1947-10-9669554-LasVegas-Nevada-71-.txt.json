@@ -1,15 +1,9 @@
 {
-	"main event": "An ex-Air Force pilot and others observed an object with a vapor trail traveling at a speed of 1700-1800 mph in Las Vegas, Nevada on either 8 or 9 October 1947. The object made an approximately 150° turn of radius five to fifteen miles before proceeding away in the direction of its first appearance.",
-	"interesting points": [
-		"The sighting was reported by an ex-Air Force pilot and others, adding credibility to the observation.",
-		"The object's trail dissipated in fifteen to twenty minutes",
-		"The weather was described as 'almost cloudless' at the time of the sighting.",
-		"The report mentions the difficulty in understanding why the pilot attached importance to the observation, suggesting skepticism from the AIC (Air Intelligence Center).",
-		"The observation was initially considered to potentially be that of a fireball, but the course flown made it almost fatal to such a hypothesis."
-	],
-	"result": "unexplained",
-	"sighted object": "object with a vapor trail",
-	"location": "Las Vegas, Nevada",
-	"witnesses": "ex-Air Force pilot and others",
-	"photographs": "no"
+    "main event": "An ex-Air Force pilot and others observed a vapor trail in the sky in Las Vegas, Nevada on October 8 or 9, 1947.",
+    "interesting points": "The object producing the trail was estimated to be traveling at a speed of 1700-1800 mph,The trail was described as white and dissipated in fifteen to twenty minutes,The object made a 150° turn with a radius of five to fifteen miles,The visibility conditions were described as 'almost cloudless',The report speculated that the trail could have been caused by an ordinary aircraft despite its unusual characteristics.",
+    "sighted object": "a vapor trail in the sky",
+    "location": "Las Vegas, Nevada, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "an ex-Air Force pilot and others",
+    "contains photographs": false
 }

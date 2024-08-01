@@ -1,15 +1,9 @@
 {
-    "main event": "A military observer spotted a slow-moving, intermittently pulsating star-like object in the Eastern Mediterranean region on August 30, 1958.",
-    "interesting points": [
-        "The object was described as a 'slow moving, intermittently pulsating star-like obj.'",
-        "The sighting was made by a military observer, but the specific military command or project is not given.",
-        "The report includes a notation that the object 'resembles Sputnik'.",
-        "The report mentions that the object was 'lost' at one point, with bearing and elevation data provided.",
-        "The report concludes that the object was 'probably satellite' or 'probably astronomical', but the evaluation is 'unknown'."
-    ],
-    "result": "unknown",
+    "main event": "A military observer reported a sighting of a slow-moving, intermittently pulsating star-like object over the Eastern Mediterranean on August 30, 1958.",
+    "interesting points": "The sighting was documented in a Project 10073 record card., The observation was classified as visual and sourced from military personnel., The object was described as resembling a 'Sputnik-like' silhouette., Conclusions drawn included the possibilities of it being a balloon, a satellite, an aircraft, or an astronomical object., The number of objects observed was one, but the length of observation was not given.",
     "sighted object": "slow moving, intermittently pulsating star-like object",
     "location": "Eastern Mediterranean",
-    "witnesses": "military observer",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "military observer",
+    "contains photographs": false
 }

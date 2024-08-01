@@ -1,15 +1,9 @@
 {
-    "main event": "A red pinpoint object was observed slowly moving west for one minute.",
-    "interesting points": [
-        "The object was observed from the ground.",
-        "The object was tracked both visually and by radar.",
-        "The object's movement and duration suggest it was likely an aircraft.",
-        "The report concludes that the object was probably a balloon or aircraft.",
-        "There are no photographs included in the report."
-    ],
-    "result": "Probably Balloon or Aircraft",
-    "sighted object": "a red pinpoint object",
-    "location": "Austin, Indiana",
-    "witnesses": "Civilian",
-    "photographs": "No"
+    "main event": "A red pin point was observed slowly moving west in December 1957.",
+    "interesting points": "The observation lasted for one minute., The object was visible in the sky., There was a possibility the object was an aircraft., The sighting was made from the ground., No photographs were included in the report.",
+    "sighted object": "a red pin point in the sky",
+    "location": "Austin, Indiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No specific witnesses mentioned",
+    "contains photographs": false
 }

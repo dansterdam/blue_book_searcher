@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A 12-year-old boy observed a white, circular-shaped object in the sky for about 10 seconds on June 10, 1967 in Fairborn, Ohio.",
-    "interesting points": [
-        "The object appeared solid and was silent.",
-        "It moved behind a cloud at one point during the sighting.",
-        "The witness was unable to estimate the speed or distance of the object.",
-        "No other witnesses are mentioned in the report.",
-        "The report was filled out and submitted to the Air Force, but there is no information about any further investigation."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a white, circular-shaped object",
-    "location": "Fairborn, Ohio",
-    "witnesses": "a 12-year-old boy",
-    "photographs": "no photographs included"
+    "main event": "A civilian reported a UFO observation in Enon, Ohio on June 10, 1967.",
+    "interesting points": "The sighting lasted for 10 seconds., The object was visualized from the ground., The color of the object was described as white., The observer noted the object was silent., The conclusion of the report stated there was insufficient data for evaluation.",
+    "sighted object": "UFO",
+    "location": "Enon, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a minor who provided a vague account of the event.",
+    "contains photographs": false
 }

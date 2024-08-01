@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A large, bright, solid object was observed in the sky over Thousand Palms, California on July 7, 1968.",
-    "interesting points": [
-        "The object was seen moving at a very high speed and changing direction abruptly.",
-        "It was described as circular, bright, and metallic in appearance.",
-        "The object hovered silently for about 5 minutes before accelerating and disappearing.",
-        "Several witnesses observed the object, but it could not be explained as a conventional aircraft.",
-        "The sighting lasted for approximately 1 minute."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, bright, solid object",
-    "location": "Thousand Palms, California",
-    "witnesses": "multiple civilians",
-    "photographs": "none"
+    "main event": "A civilian reported observing a bright circular object in the sky for about 2 hours and 30 minutes on July 7, 1968, in Thousand Palms, California.",
+    "interesting points": "The object was described as a bright spherical object that changed direction and brightness suddenly., The observer reported the object appeared to split into smaller objects., The object was seen moving erratically in a zigzag pattern before disappearing., The sighting involved multiple witnesses who were confused about what they saw., The report noted that no conventional explanation could account for the phenomenon observed.",
+    "sighted object": "a bright circular object",
+    "location": "Thousand Palms, California, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilians in the area",
+    "contains photographs": false
 }

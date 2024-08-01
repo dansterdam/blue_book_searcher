@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness observed a bright light with a shimmering tail moving at a high rate of speed in Medway, Ohio on June 10, 1966.",
-    "interesting points": [
-        "The object appeared to be two distinct light sources moving together, with a 'brighter light' going up and down and a 'darker light' going up and down.",
-        "The object made a sudden, sharp turn and quickly disappeared from view.",
-        "The witness thought the object was going to land in a nearby field, but it instead sharply veered off and vanished.",
-        "The witness was impressed by the intensity of the light and the sudden, unexpected maneuver of the object.",
-        "The witness had served 10 years in the Air Force prior to this sighting."
-    ],
-    "result": "unexplained",
+    "main event": "Three witnesses observed a bright object with a shimmering tail in Medway, Ohio, on June 10, 1966.",
+    "interesting points": "The object was in sight for about 10 minutes,The witnesses described the object as appearing to move at high speed,The object seemed to accelerate quickly,Two distinct light sources were seen moving together,One witness noted that the object appeared similar to a bright light with a tail.",
     "sighted object": "a bright light with a shimmering tail",
-    "location": "Medway, Ohio",
-    "witnesses": "3 witnesses",
-    "photographs": "no"
+    "location": "Medway, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "three witnesses including a former Air Force service member",
+    "contains photographs": false
 }

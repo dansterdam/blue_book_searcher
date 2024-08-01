@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting occurred in October 1947 in a redacted location in W[Obscured]ville.",
-  "interesting points": [
-    "The UFO was observed by a male civilian at 10:00 PM and was described to be moving faster than a planet.",
-    "The altitude at which the UFO was observed is redacted, suggesting potentially sensitive information.",
-    "The sighting lasted approximately 1 hour, indicating a prolonged and detailed observation of the UFO.",
-    "The observation mentioned that the UFO made a specific maneuver, circling counter-clockwise.",
-    "The document is unclassified, indicating that the UFO sighting was not officially explained."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying object",
-  "location": "redacted location in W[Obscured]ville",
-  "witnesses": "male civilian",
-  "photographs": "no"
+    "main event": "A male civilian reported a sighting of an unidentified flying object in October 1947.",
+    "interesting points": "The sighting lasted for about 1 hour,The object was observed at a time of 2200,The object demonstrated counter-clockwise circular maneuvers,The speed was described as faster than a planet,The altitude was estimated at around 2,000 feet.",
+    "sighted object": "unidentified flying object",
+    "location": "Obscuredville, WObscured",
+    "number of confirmed witnesses": 1,
+    "witness description": "male civilian",
+    "contains photographs": false
 }

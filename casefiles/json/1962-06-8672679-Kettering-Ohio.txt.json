@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A witness saw a bright light move rapidly across the sky, stop abruptly, and then disappear by going straight up rapidly.",
-    "interesting points": [
-        "The object was described as a 'brilliant star' that the witness saw moving from the northeast to southwest.",
-        "The object stopped for a few seconds before disappearing by going straight up rapidly.",
-        "The witness could not determine the actual size or shape of the object due to the distance.",
-        "The report includes multiple sightings of similar objects in the area over a period of several weeks.",
-        "The sighting lasted for an estimated 3 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light that moved rapidly across the sky",
-    "location": "North of City",
-    "witnesses": "one witness",
-    "photographs": "no photographs included"
+    "main event": "A witness saw a bright light move rapidly across the sky from the NE to SW around 11:45 p.m. EDT, then stop abruptly and disappear straight up.",
+    "interesting points": "The object appeared like a brilliant star and was observed moving behind trees,The length of the observation is noted as 3 years minimum,The weather conditions were noted as clear with no clouds,Only one object was reported,The witness was parked in a car when the sighting occurred.",
+    "sighted object": "a bright light in the sky",
+    "location": "unknown, unknown, unknown",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness was sitting in a car",
+    "contains photographs": false
 }

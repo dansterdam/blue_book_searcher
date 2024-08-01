@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "Two circular and flat objects, bright white in color, like objects a few feet in diameter, were seen visually for three seconds and disappeared over the horizon.",
-  "interesting points": [
-    "The objects were bright white in color and appeared to be a few feet in diameter.",
-    "The objects were observed for about 3 seconds before disappearing over the horizon.",
-    "The objects were traveling vertically at an estimated speed of approximately 900 miles per hour.",
-    "The objects were observed by a civilian witness in New Orleans, Louisiana on February 3, 1957.",
-    "The witness was an electrical engineer and the report states his description was considered 'very coherent and articulate'."
-  ],
-  "result": "Unexplained",
-  "sighted object": "Two circular and flat bright white objects",
-  "location": "New Orleans, Louisiana",
-  "witnesses": "Civilian witness, an electrical engineer",
-  "photographs": "No"
+    "main event": "A resident of New Orleans observed a bright circular object in the sky for about five to ten minutes on 3 February 1957.",
+    "interesting points": "The object was circular, flat, and bright white in color, with an estimated size similar to a tennis ball., The object traveled at an estimated speed of approximately 900 miles per hour., The observation lasted approximately three seconds before the object disappeared over the horizon., Witness described the object as having no visible means of propulsion and emitted no sound., The weather conditions were clear, and visibility was twelve miles at the time of observation.",
+    "sighted object": "one bright circular object",
+    "location": "New Orleans, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a 49-year-old electrical engineer.",
+    "contains photographs": false
 }

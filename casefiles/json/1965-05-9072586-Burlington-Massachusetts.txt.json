@@ -1,15 +1,9 @@
 {
-    "main event": "A light was observed for about 30 minutes in Burlington, Massachusetts in 1965.",
-    "interesting points": [
-        "The light moved in a manner inconsistent with any known light source, including in front of a cloud.",
-        "The witness was very interested in UFOs and had corresponded with Project Blue Book before.",
-        "The report mentions previous sightings of 13 or more lights on multiple occasions.",
-        "The report is considered unreliable by Project Blue Book.",
-        "The witness requested more information on UFOs sightings across the United States."
-    ],
-    "result": "unexplained",
-    "sighted object": "a light",
-    "location": "Burlington, Massachusetts",
-    "witnesses": "one witness", 
-    "photographs": "no"
+    "main event": "A light was observed for about 30 minutes in Burlington, Massachusetts on September 3, 1965.",
+    "interesting points": "The light's movement appeared to depend on the observer's position,There was a report of 13 or more lights on multiple occasions,The sighting occurred under clear weather conditions with no clouds,The report also mentioned the possibility of misleading sources such as balloons,The observation was part of Project Blue Book, which compiled UFO incidents.",
+    "sighted object": "a light in the sky",
+    "location": "Burlington, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Barrington Gardner, a 15-year-old male",
+    "contains photographs": false
 }

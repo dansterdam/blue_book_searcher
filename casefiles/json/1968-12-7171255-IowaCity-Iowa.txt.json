@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A possible satellite was observed in the sky over Iowa City, Iowa on December 14, 1960.",
-    "interesting points": [
-        "The object was observed for about 10 minutes.",
-        "The object was described as moving in a straight line.",
-        "The observer did not see the object stand still, speed up, break up, change color, give off smoke, change brightness, flash/flicker, disappear/reappear, or spin.",
-        "The observer was located outdoors and the sky was clear during the daytime observation.",
-        "No photographs were taken of the object."
-    ],
-    "result": "probable satellite",
-    "sighted object": "satellite-like object in the sky",
-    "location": "Iowa City, Iowa",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian reported observing a probable satellite in Iowa City on December 14, 1960, for approximately 10 minutes.",
+    "interesting points": "The observation was conducted visually from the ground., The object was traveling in a northeastern direction., The witness saw the object move in a straight line without any sudden movements., There was no physical evidence or photographs associated with the sighting., The witness had not seen a similar object before this occurrence.",
+    "sighted object": "probable satellite",
+    "location": "Iowa City, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

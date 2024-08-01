@@ -1,15 +1,9 @@
 {
-  "main event": "On 3 July 1956, a sighting of an unknown object was reported in Kingston, Washington. The object, described as the size of a dime at arm's length with an unknown shape, appeared in the east-southeast at 50 degrees elevation and disappeared in the same position. The object then faded away after a thirty-five minute observation.",
-  "interesting points": [
-    "The object was described as the size of a dime at arm's length, indicating its relatively small observed size.",
-    "It appeared and disappeared in the same position, suggesting unusual behavior for a typical aerial or astronomical object.",
-    "The sighting lasted for a significant length of time, providing ample opportunity for observation and analysis.",
-    "The report suggests the possibility of the object being a heavenly body or bright star, despite the lack of concrete identification in the Air Almanac.",
-    "The conclusion leans towards the belief that the object was probably an astronomical star, offering a potential explanation for the sighting."
-  ],
-  "result": "probably Astronomical",
-  "sighted object": "unknown object",
-  "location": "Kingston, Washington",
-  "witnesses": "Military personnel (25th A Division)",
-  "photographs": "no"
+    "main event": "An unidentified object the size of a dime was observed at arm's length, appearing in the ESE at a 50-degree elevation and then fading away.",
+    "interesting points": "The sighting lasted for thirty-five minutes., The object was stationary during the observation., The object was reported to probably be an astronomical star., No bright star was found in the Air Almanac for the exact spot., The report includes comments from the reporting officer suggesting it's likely a star.",
+    "sighted object": "unknown object, size of a dime",
+    "location": "Kingston, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the reporting officer believed the object was likely a star",
+    "contains photographs": false
 }

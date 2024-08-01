@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian in Parma Heights, Ohio observed a star-shaped object glowing in various colors for about 5 minutes on September 4, 1956.",
-    "interesting points": [
-        "The object blinked off and on and its brightness was comparable to surrounding stars.",
-        "The observer's 12-year-old son first called attention to the object.",
-        "The object was stationary and did not appear to move during the 5 minutes of observation.",
-        "The observer had been interested in UFOs for about 3 years and had read several books on the topic.",
-        "Another witness called in a separate report about two white lights in the sky that appeared to be hovering for about 30 minutes on September 7, 1956."
-    ],
-    "result": "unexplained",
-    "sighted object": "star-shaped object glowing in yellow, green, blue, orange and red",
-    "location": "Parma Heights, Ohio",
-    "witnesses": "civilian, 12-year-old son",
-    "photographs": "yes, the report indicates photographs were taken"
+    "main event": "On 4 September 1956, a civilian observed several star-shaped glowing objects in Parma Heights, Ohio.",
+    "interesting points": "The objects glowed in various colors including yellow, green, blue, orange, and red., The sighting lasted for 15 minutes but the objects did not move., The observer's 12-year-old son also noticed the objects., The report suggests that the sightings may have been caused by planet Mars., No similar reports were received regarding this matter.",
+    "sighted object": "several star-shaped glowing objects",
+    "location": "Parma Heights, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian residing at 11215 Snow Road",
+    "contains photographs": false
 }

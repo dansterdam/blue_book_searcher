@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A mysterious object was observed over Toledo, Ohio on October 17, 1960.",
-    "interesting points": [
-        "The object was tracked on radar by three separate stations and identified as a balloon.",
-        "The Coast Guard tried to recover the payload from the balloon, but it exploded upon landing, sending an object back up into the air.",
-        "Photographs were taken of the object by witnesses, but the film was kept by a passenger and not processed by the Air Force.",
-        "The pilot of TWA Flight 91 climbed to 35,000 feet and circled the object before passing under it.",
-        "A balloon release was noted in the area at the time of the sighting, and it is believed the sighting was directly associated with this balloon."
-    ],
-    "result": "Identified as a high-altitude research balloon",
-    "sighted object": "A round, bright, reflective object",
-    "location": "Vicinity of Toledo, Ohio",
-    "witnesses": "Pilot and crew of TWA Flight 91, ground observers",
-    "photographs": "Yes, but not provided to the Air Force"
+    "main event": "An unidentified object was observed in the vicinity of Toledo, Ohio, on October 17, 1960, identified by radar as a balloon.",
+    "interesting points": "The object was tracked by three separate radar stations,The object remained in view during an aircraft climb from 25,000 ft to 55,000 ft,The duration of the observation was 1 hour,The Coast Guard attempted to photograph the object which was later recovered,The object was described as round, white, and reflective.",
+    "sighted object": "a balloon",
+    "location": "Toledo, Ohio, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Air traffic control and military personnel observed the object.",
+    "contains photographs": false
 }

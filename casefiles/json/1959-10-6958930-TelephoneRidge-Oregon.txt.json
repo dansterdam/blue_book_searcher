@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object was observed by a witness in Oregon in October 1959 that could not be identified as a conventional aircraft or astronomical phenomenon.",
-    "interesting points": [
-        "The object was described as a bright light that hovered in the sky for about 30 minutes before suddenly accelerating and disappearing.",
-        "The witness and a rancher were able to observe the object through a rifle scope, noting that it had no visible wings, portholes, or other features besides the bright light.",
-        "After the object disappeared, an indentation about 15 feet in diameter was found in the ground where the object had been, and a large area of grass was matted down, suggesting a possible landing.",
-        "The witness expressed concern about potentially shooting at the object, indicating it had the ability to disappear rapidly.",
-        "The report mentions that an investigation was requested for this sighting."
-    ],
-    "result": "unknown",
+    "main event": "A witness reported a sighting of a stationary light in the sky that suddenly vanished after approximately 15 minutes, ending with a rapid ascent through clouds.",
+    "interesting points": "The sighting occurred on October 8, 1959, at 0315Z,The light was observed for over 30 minutes and was reported to be high in the sky,The witness provided a detailed letter to Project Blue Book addressing the sighting,The report states that the object was unable to be classified as any known aircraft or astronomical body,An indentation on the ground was found at the sighting location the next morning.",
     "sighted object": "a bright light in the sky",
-    "location": "Eastern Oregon, near the town of Antelope",
-    "witnesses": "a witness, his wife, and a rancher",
-    "photographs": "no photographs available"
+    "location": "Telephone Ridge, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a department store manager with a college education.",
+    "contains photographs": false
 }

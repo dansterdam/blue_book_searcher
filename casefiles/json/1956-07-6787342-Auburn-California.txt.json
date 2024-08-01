@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO-like object, described as being shaped like a guided missile and emitting chunks of fire, was sighted near Auburn, California on July 21, 1956.",
-    "interesting points": [
-        "The object was 7-8 feet long, green and orange in color, and appeared about 220 feet above the North Fork of the American River.",
-        "The object followed the course of the river for 2-3 minutes with no sound.",
-        "The sighting was reported by a witness identified as Mr. *****, who was described as an outstanding citizen.",
-        "A similar sighting had been reported in Colorado just a few days prior to this incident.",
-        "The report was investigated by the Sacramento Air Materiel Area and considered to be a probable light plane."
-    ],
-    "result": "probable light plane",
-    "sighted object": "guided missile-shaped object, 7-8 feet long, emitting chunks of fire",
-    "location": "Auburn, California",
-    "witnesses": "Mr. *****",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A UFO-like object shaped like a guided missile was observed near Auburn, California on July 21, 1956.",
+    "interesting points": "The object was 7-8 feet long and emitted chunks of fire,The sighting lasted for 2-3 minutes,The UFO appeared 200 feet above the river and followed its course,The object had a green and orange color, There was no sound reported from the object.",
+    "sighted object": "UFO-like object shaped like a guided missile",
+    "location": "Auburn, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An individual observing from the riverbank",
+    "contains photographs": false
 }

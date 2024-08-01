@@ -1,15 +1,9 @@
 {
-    "main event": "On 11 September 1950 in Adak, Alaska, a Coast Guard photographer took four photographs of the total eclipse of the Sun, which were later examined and determined to be multiple exposures of the sun during an eclipse, likely caused by camera flare spots due to overexposure for sun brightness.",
-    "interesting points": [
-        "The photographer did not notice the images at the time of taking the pictures, and it was two years later that he discovered the unidentified images on the film.",
-        "A pronounced flare spot, in addition to the main image, was noted with the lens wide open, f/4.7. Any camera movement caused the flare spot to move, as well as the main image.",
-        "The stated exposure is considerably in excess of normal for an object as bright as the sun, resulting in considerable halation of the negatives around the sun images.",
-        "The possibility that the unidentified images have a simple explanation in optics or meteorology was considered, but due to inconsistencies, it was forwarded for expert scrutiny.",
-        "The Coast Guard photographer was using a 4 x 5 Speed Graphic camera with a coated lens and Kodak Super-XX film pack, and had exposed the negatives while onboard the U.S.C.G.C. NORTHWIND in the Bering Sea, about 40 miles north of Adak in the Aleutian Islands."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "multiple exposures of the sun during an eclipse",
-    "location": "Adak, Alaska",
-    "witnesses": "Coast Guard photographer",
-    "photographs": "yes the report includes photographs"
+    "main event": "On 11 September 1950, a Coast Guard photographer captured four photographs during a total eclipse of the Sun in Adak, Alaska.",
+    "interesting points": "The sighting lasted about 6 minutes, The photographs revealed unidentified images that were not noticed at the time of exposure, There is a strong possibility that the unidentified images are lens flare due to overexposure for sun brightness, The event coincided with a total solar eclipse observed from the U.S. Coast Guard Cutter Northwind, The photographs were discovered almost two years later upon development.",
+    "sighted object": "unidentified images alongside the eclipse",
+    "location": "Adak, Alaska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Electronic Technician in the U.S. Coast Guard",
+    "contains photographs": false
 }

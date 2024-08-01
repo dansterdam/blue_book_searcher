@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A group of people observed a bright light moving rapidly and erratically in the sky over Carlisle, Pennsylvania on August 8, 1961.",
-    "interesting points": [
-        "The light was moving in a swerving course, going northwest, east, and then northwest again before disappearing behind the trees.",
-        "The light seemed to move a bit erratically from side to side and on a few occasions appeared to 'jump ahead'.",
-        "The observers were unsure if the light was an airplane, as the sky is 'full of exotic objects' and they hesitated to report the observation.",
-        "The observation occurred on a clear night with the North star providing a sense of direction.",
-        "The observers were holding a meeting at a guest house on a mountain top southwest of Carlisle when they observed the light."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light",
-    "location": "3.9 miles southwest of Carlisle, Pennsylvania",
-    "witnesses": "a group of people",
-    "photographs": "no"
+    "main event": "A group observed a bright, pear-shaped light moving rapidly in a swerving course on August 8, 1961, near Carlisle, Pennsylvania.",
+    "interesting points": "The light was at an altitude of 10,000 ft and appeared to stop before accelerating straight up out of sight in 5-10 seconds., The observation duration was between 5 to 10 minutes., The sighting occurred on a clear night where stars were visible., The group hesitated to report the sighting due to the prevalence of 'exotic objects' in the sky., The report mentioned potential visual impairments affecting the observation.",
+    "sighted object": "a bright, pear-shaped light",
+    "location": "Carlisle, Pennsylvania, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "a group holding a meeting on a mountain top",
+    "contains photographs": false
 }

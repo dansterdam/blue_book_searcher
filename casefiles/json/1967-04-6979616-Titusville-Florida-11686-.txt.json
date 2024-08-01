@@ -1,15 +1,9 @@
 {
-    "main event": "The report includes 8 pages of old government UFO documents, but no clear details about a specific UFO sighting event. The pages contain headers indicating they are from the 'FOREIGN TECHNOLOGY DIVISION, AFSC' and are marked 'UNCLASSIFIED'.",
-    "interesting points": [
-        "The pages appear to be scanned or copied documents from an old UFO report, likely from Project Blue Book.",
-        "Some of the pages contain blank, grainy backgrounds with the header and 'UNCLASSIFIED' text.",
-        "One page contains a blurry, grainy black and white photograph, but no other images or photographs are provided.",
-        "The report does not contain any witness testimony, location details, or information about a specific UFO sighting event.",
-        "The purpose and context of these documents is unclear from the provided information."
-    ],
-    "result": "unclear",
-    "sighted object": "no specific sighted object described",
-    "location": "no location details provided",
-    "witnesses": "no witness details provided",
-    "photographs": "one blurry, grainy photograph included"
+    "main event": "A report concerning an unidentified flying object, associated with the Foreign Technology Division, AFSC, from April 24, 1967.",
+    "interesting points": "The report includes 8 pages, all marked as 'UNCLASSIFIED', most having the header 'FOREIGN TECHNOLOGY DIVISION, AFSC',Several pages contain black and white photographs of a starry night sky with no discernible objects,The images appear to be grainy and lacking clear visual content,The page content suggests a historical context related to UFO observations,The document is part of what seems to be a Project Blue Book report.",
+    "sighted object": "None visible in the photographs",
+    "location": "Titusville, Florida",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses specified in the report.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple witnesses observed an unidentified flying object near Fort Monmouth, New Jersey on January 13, 1953.",
-    "interesting points": [
-        "The object was described as oval-shaped, orange in color, and traveling at an estimated speed of 500-2,000 miles per hour.",
-        "The object was observed at an altitude of approximately 3,000-20,000 feet.",
-        "Witnesses described the object as the size of a basketball, with one witness estimating it to be about 30 feet in diameter.",
-        "The object was observed for durations ranging from 1 second to 2 minutes before disappearing from view.",
-        "No sound was reported coming from the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "oval-shaped, orange object",
-    "location": "near Keansburg, New Jersey and Fort Monmouth, New Jersey",
-    "witnesses": "Lt. William F. Adams, Miss Jane Colb, Sgt. James J. McMullen, and Cpl. Charles Heaslett",
-    "photographs": "no"
+    "main event": "Multiple witnesses, including military personnel and student nurses, observed an unidentified flying object resembling an orange ball of fire near Fort Monmouth, New Jersey on 13 January 1953.",
+    "interesting points": "Witnesses described the object as oval and orange in color, Observations indicated speeds ranging from 500 to 2,000 miles per hour, One witness estimated the object was at an altitude of 20,000 feet, The object was visible for durations between 1 to 2 minutes, The conclusion suggested it was probably an aircraft.",
+    "sighted object": "Unidentified Flying Object, orange in color",
+    "location": "Keansburg, New Jersey, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Military personnel and student nurses at Fort Monmouth",
+    "contains photographs": false
 }

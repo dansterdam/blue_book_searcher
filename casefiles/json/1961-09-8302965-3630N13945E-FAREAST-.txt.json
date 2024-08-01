@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An unidentified aerial object was observed visually on September 14, 1961 at around 10:00 PM local time in the Far East region.",
-    "interesting points": [
-        "The object was ball-shaped, the size of a silver dollar, and appeared as a bright white light that illuminated the entire cockpit.",
-        "The object was observed for 0-3 seconds and was initially categorized as 'probably a reflection' or as a meteor, aircraft, or balloon.",
-        "The object appeared at an elevation of 30 degrees from the nose of the aircraft and then seemed to move straight down before instantaneously 'blowing up'.",
-        "The observer's wingman also reported seeing a similar phenomenon, providing corroboration.",
-        "The bright light from the object was described as 'blinding', ruling out the possibility of it being a falling star."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, ball-shaped object",
-    "location": "Far East region, coordinates 36°43'0\"N 139°45'0\"E",
-    "witnesses": "an interceptor pilot",
-    "photographs": "none"
+    "main event": "An unidentified aerial object was visually observed on September 14, 1961, at 10:00 PM local time in the Far East.",
+    "interesting points": "The object was observed for a brief duration of 0-3 seconds., The report categorized the object as probably a reflection, meteor, aircraft, balloon, or unidentified., The sighting occurred at specific coordinates (36°43'0\"N 139°45'0\"E)., There was corroboration from the observer's wingman who reported seeing a similar phenomenon., The light from the object illuminated the entire cockpit, leading to the ruling out of the possibility of a falling star.",
+    "sighted object": "an unidentified aerial object",
+    "location": "Far East",
+    "number of confirmed witnesses": 2,
+    "witness description": "Captain Donald C. Windrath, a pilot, and his wingman, usually reliable observers.",
+    "contains photographs": false
 }

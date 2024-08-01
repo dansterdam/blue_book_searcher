@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The observer sighted an object that was similar to a 'meteor or satellite' except that it traveled along the horizon.",
-    "interesting points": [
-        "The object traveled along the horizon at a high rate of speed.",
-        "The object made a zig-zag course, going up and down in an irregular line of flight.",
-        "The object disappeared suddenly without a trace.",
-        "The observer was puzzled by the appearance and behavior of the object.",
-        "The observer reported the sighting to the authorities but they were unable to provide an explanation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light similar to a meteor or satellite",
-    "location": "Bradenton, Florida",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian observed a peculiar object in Bradenton, Florida on June 17, 1963.",
+    "interesting points": "The observation lasted for seven seconds and was described as resembling a meteor or satellite,It was noted that the object traveled along the horizon,The sighting resulted in a conclusion that it could be possible satellite debris or a meteorite,There were no photographs captured at the time of the sighting,The report was part of the Project Blue Book study conducted by the United States Air Force.",
+    "sighted object": "an object similar to a meteor or satellite",
+    "location": "Bradenton, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

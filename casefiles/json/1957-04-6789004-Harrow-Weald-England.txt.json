@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A red, metallic disc-shaped object was observed near Harrow-Weald, England on April 23, 1957.",
-    "interesting points": [
-        "The object was approximately 3 times the size of the planet Jupiter.",
-        "The object changed color from red to bright orange when it changed direction.",
-        "The object made sharp, angular maneuvers while under observation.",
-        "The sighting lasted for 30-60 seconds.",
-        "There were no sounds, wings, tail, or additional lights associated with the object, ruling out it being a known aircraft."
-    ],
-    "result": "unknown",
-    "sighted object": "a red, metallic disc-shaped object",
+    "main event": "A red object 3 times the brightness of Jupiter was observed changing to orange while maneuvering in the sky over Harrow-Weald.",
+    "interesting points": "The sighting lasted for approximately 30-60 seconds., The object was first observed at 45 degrees elevation and moved to 30 degrees elevation., The object changed direction with sharp and angular turns., The object emitted no sound and had no discernible features besides its shape and size., The conditions at the time were ideal for observation, allowing clear visibility of the object.",
+    "sighted object": "one red object changing to orange",
     "location": "Harrow-Weald, England",
-    "witnesses": "a civilian couple and an Air Force sergeant",
-    "photographs": "no photographs were taken"
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilians, including a 25-year-old woman and a military sergeant.",
+    "contains photographs": false
 }

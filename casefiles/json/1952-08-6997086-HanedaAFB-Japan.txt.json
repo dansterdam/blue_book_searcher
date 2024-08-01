@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "Control tower personnel at Haneda Air Force Base in Japan sighted a large, circular object with a bright central light and darker surrounding area over Tokyo Bay on August 5, 1952.",
-    "interesting points": [
-        "The object faded twice to the east but then reappeared, leading observers to be unsure if it was dimming, rotating, or moving away at high speed.",
-        "When close, the object appeared to move horizontally, varying in speed from hovering to over 300 knots.",
-        "Radar at the nearby Shiroi Air Force Base tracked the object, which at one point broke into three smaller contacts maintaining an interval of about 1/4 mile.",
-        "An F-94 fighter jet was scrambled to intercept the object but was unable to get a visual confirmation, even though it briefly made a weak radar contact.",
-        "The tower personnel and radar operators were experienced and took great care in their observations, suggesting this was a genuine unidentified flying object."
-    ],
-    "result": "unknown",
-    "sighted object": "a large, circular object with a bright central light and darker surrounding area",
-    "location": "Haneda Air Force Base, Japan",
-    "witnesses": "control tower personnel",
-    "photographs": "no, there are no photographs present in the document"
+    "main event": "On the night of August 5, 1952, personnel at Haneda AFB in Japan observed a circular object with constant brilliance over Tokyo Bay for about an hour. The object was tracked by ground radar and was unsuccessfully intercepted by an F-94 fighter jet.",
+    "interesting points": "Two airmen first spotted the object while walking to the control tower,The object was described as circular with a dark shape about four times its diameter,It was observed through 7x50 binoculars and appeared to have multiple dim lights along its lower edge,The radar tracked the object at varying speeds up to 300 knots,The object occasionally faded from view and reappeared, which led observers to speculate about its movement.",
+    "sighted object": "a circular object with constant brilliance",
+    "location": "Haneda, Tokyo, Japan",
+    "number of confirmed witnesses": 4,
+    "witness description": "AF personnel, including airmen and control tower operators",
+    "contains photographs": false
 }

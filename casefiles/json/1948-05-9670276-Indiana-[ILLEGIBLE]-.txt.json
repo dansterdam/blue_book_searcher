@@ -1,13 +1,9 @@
 {
-    "main event": "The document appears to be a redacted or poorly preserved government UFO report, but the majority of the text is illegible.",
-    "interesting points": [
-        "The document references a 'FORM 94 (8-8-50)', which may indicate it is a standard form or document used by the organization that produced the report.",
-        "The numbers '1,200 to 2,200' are mentioned, but their context is unclear without more information.",
-        "Despite the poor quality of the scan or original document, the report seems to describe some kind of UFO sighting or incident."
-    ],
-    "result": "unexplained",
-    "sighted object": "unspecified",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "The document appears to be a report related to a UFO sighting, although the details are largely illegible.",
+    "interesting points": "The document includes a reference to FORM 94, dated 8-8-50., There is a mention of a range of numbers '1,200 to 2,200' which may be related to measurements or quantities., The text is heavily redacted and obscured, making it difficult to determine specific details., The quality of the scan or the original document is poor, affecting readability., The nature of the report suggests it involves unidentified aerial phenomena.",
+    "sighted object": "unknown due to lack of discernible information",
+    "location": "unknown due to lack of discernible information",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown due to lack of discernible information",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white light object, about 3-5 degrees in size, was observed moving south at a faster rate of speed than a satellite.",
-    "interesting points": [
-        "The object did not leave a contrail and no sound was reported.",
-        "The observers reported that the object looked something like the Echo One satellite, but it moved at a faster speed.",
-        "The object was observed for about 8 minutes by both a military sergeant and a civilian named Mrs. Clayton.",
-        "The weather conditions were clear with calm winds.",
-        "The observers were unable to determine what the object was."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white light object",
-    "location": "Oklahoma Area",
-    "witnesses": "military sergeant and civilian",
-    "photographs": "no"
+    "main event": "A white light was observed moving in the sky over Oklahoma on 10 June 1966.",
+    "interesting points": "The object was observed for a duration of 3 minutes., The object is described as appearing to be about 3-5 feet in diameter., It moved from north to south without leaving a contrail., The observed light did not produce any sound., The object was speculated to resemble a satellite but was moving at a faster speed.",
+    "sighted object": "one white light moving in the sky",
+    "location": "Oklahoma Area, Oklahoma, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "SSGT - Military and Mrs. Clayton - Civilian",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A red-orange object was observed for 3 seconds over Uniontown, Pennsylvania.",
-    "interesting points": [
-        "The object followed the observers' fixed gaze and disappeared to the south.",
-        "The object was about the size of a satellite, but the observers stated it was larger and faster than a satellite.",
-        "The object had no sound and appeared whitish in color.",
-        "The observers estimated the object's speed at 3,000,000 mph and its distance to be in the atmosphere.",
-        "The observers had recently been using a 6-inch telescope to study the atmospheres of planets and were private pilots."
-    ],
-    "result": "unexplained",
-    "sighted object": "red-orange object",
-    "location": "Uniontown, Pennsylvania",
-    "witnesses": "2 civilian observers",
-    "photographs": "no"
+    "main event": "Two witnesses observed a red-orange object in Uniontown, Pennsylvania, that disappeared to the south.",
+    "interesting points": "The object was reported to be about the size of a satellite but was larger and faster than a typical satellite,The sighting lasted for about 3 seconds,The observers stated the object followed their fixed gaze before disappearing,The color of the object was described as red-orange,The witnesses estimated the speed of the object to be around 300 to 400 mph.",
+    "sighted object": "one red-orange object",
+    "location": "Uniontown, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Daniel Tryon and his wife, both of whom had experience with telescopes and observational techniques.",
+    "contains photographs": false
 }

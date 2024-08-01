@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple unidentified objects were observed over Altavista, Virginia on several occasions in October 1966.",
-    "interesting points": [
-        "The objects were described as being the size of a basketball held at arm's length, glowing in tones of blue, and moving extremely fast with sharp turns.",
-        "The objects were observed to be stationary and motionless at times.",
-        "The witness, a 43-year-old woman, stated she could recognize various types of aircraft but these were not familiar to her.",
-        "The witness reported seeing multiple objects, one after the other, on the same night.",
-        "The witness said the observations provided the first clue to the presence of UFOs in the area."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "multiple unidentified glowing blue objects",
-    "location": "Altavista, Virginia",
-    "witnesses": "civilian (43-year-old woman)",
-    "photographs": "no"
+    "main event": "Multiple unidentified flying objects were observed over Altavista, Virginia on the night of October 9, 1966.",
+    "interesting points": "Witnesses reported seeing up to 20 objects moving at high speeds without sound., One witness described an object the size of a basketball that glowed blue and made sharp turns., The sightings were noted to occur on several weekends leading up to the main observation date., The reports were made to the Air Force under Project Blue Book., Major Hector Quintanilla, Jr. acknowledged the witness's report despite insufficient data for follow-up.",
+    "sighted object": "Unidentified flying objects, with one reported glowing blue object.",
+    "location": "Altavista, Virginia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "The witnesses included a local resident, Mrs. *****, and her daughter, both of whom reported detailed observations of the objects.",
+    "contains photographs": false
 }

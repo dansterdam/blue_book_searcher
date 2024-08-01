@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "Sighting of a luminous object near Valparaiso, Chile on August 28, 1963",
-    "interesting points": [
-        "The object was seen for about 30 minutes between 23:00 and 23:30 hours, when it suddenly shot upwards and disappeared in a fraction of a second.",
-        "The object appeared to be gliding and made a slight inclination and fluttering motion.",
-        "The object appeared between West and South and its trajectory was accompanied by a long luminous trail.",
-        "The object's brightness increased at times, and it appeared to be approximately 2 meters in diameter.",
-        "The report suggests the object may have been related to a radio signal system or intelligence purpose equipment being tested by NASA in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "a luminous object",
-    "location": "Valparaiso, Chile",
-    "witnesses": "Astronomical Society of Valparaiso",
-    "photographs": "no"
+    "main event": "On 28 August 1963, a luminous object was observed near Valparaiso, Chile, displaying various light characteristics.",
+    "interesting points": "The object exhibited a circular pattern and had a bright-regular aspect at times, appearing flaming at others., It was seen at an altitude of approximately 20 to 30 degrees from the eastern side of the Observatory of Pago Hondo., The sighting lasted for about 30 minutes from 23:00 to 23:30 hours before the object shot upwards and disappeared., The object was approximately 2 meters in diameter and left a long luminous trail during its movement., The sighting involved local astronomical observers and was investigated by NASA facilities.",
+    "sighted object": "luminous object in the sky",
+    "location": "Valparaiso, Valparaiso, Chile",
+    "number of confirmed witnesses": 0,
+    "witness description": "astronomical observers in the area",
+    "contains photographs": false
 }

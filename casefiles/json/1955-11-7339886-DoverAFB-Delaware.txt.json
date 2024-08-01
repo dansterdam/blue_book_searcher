@@ -1,15 +1,9 @@
 {
-  "main event": "Ground radar at Dover AFB, Delaware detected two unidentified objects on 9th November 1955, lasting for 2-3 minutes. Military and civilian personnel were involved in the observation.",
-  "interesting points": [
-    "The objects were sighted on radar and then lost to radar, with unknown altitude and a duration of 2-3 minutes.",
-    "The conclusion stated that it was not a balloon, but possibly an aircraft, indicating uncertainty about the nature of the objects.",
-    "The document contains a description of an unusual event involving a 'ball' and 'bat-shape' object at 32,000 ft, with specific details about their movements and appearance.",
-    "The report also mentions a separate visual observation of a brilliant metallic object hovering over Little Creek, Delaware, at an altitude of 7'11'', involving ground and air force personnel.",
-    "The sighting report includes references to jettisoned balloons and launched balloons from Dover AFB, adding complexity to the investigation."
-  ],
-  "result": "unexplained",
-  "sighted object": "Two unidentified objects detected on ground radar, and a brilliant metallic object hovering over Little Creek, Delaware.",
-  "location": "Dover AFB, Delaware",
-  "witnesses": "Military and civilian personnel, ground and air force personnel",
-  "photographs": "no"
+    "main event": "Two unidentified objects were detected on ground radar at Dover AFB.",
+    "interesting points": "The sighting lasted under 3 minutes and was observed by both military and civilian personnel., The objects were sighted on radar but subsequently lost to radar., The report concludes that the objects were not balloons and may be possible aircraft., The date of the sighting was November 9, 1955., There is no photographic evidence or images included in the report.",
+    "sighted object": "two unidentified objects",
+    "location": "Dover AFB, Delaware, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "military and civilian observers",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A small, bright light was observed near Taiwan in 1960.",
-    "interesting points": [
-        "The object was about half the size of the full moon and very bright.",
-        "The object disappeared over the horizon after being observed for 6 minutes.",
-        "The conclusions suggest the object could have been a balloon, satellite, aircraft, or ground-reflected light, but there was insufficient data to make a definitive evaluation.",
-        "The report mentions a 'Project 10079 Record Card' which seems to be related to a US Air Force program investigating unidentified flying objects.",
-        "The document contains some redacted or obscured information, indicating it may be from a classified or sensitive source."
-    ],
-    "result": "unknown",
-    "sighted object": "a small, bright light",
-    "location": "vicinity of Taiwan",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "main event": "A sighting of a small bright light near Taiwan that disappeared over the horizon.",
+    "interesting points": "The sighting lasted for 6 minutes,The object was described as being about 1/2 the size of the full moon,Military source confirmed the observation,The conclusions included possibilities like a balloon, satellite, aircraft, and ground-reflected light but with insufficient data,The sighting occurred on March 11, 1962.",
+    "sighted object": "small bright light",
+    "location": "Taiwan, Asia, Taiwan",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military source",
+    "contains photographs": false
 }

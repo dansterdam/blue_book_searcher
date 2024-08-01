@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A strange white light was observed over Phoenix, Arizona on June 30, 1952.",
-    "interesting points": [
-        "The object was about the size of a full moon and emitted a strange white light.",
-        "The object traveled much faster than any known aircraft, estimated to be in excess of 1,000 miles per hour.",
-        "The object made no audible sound.",
-        "The sighting lasted for approximately 30 seconds.",
-        "No other reports were received confirming the observation by the witnesses, Mr. and Mrs. James B. McDonald."
-    ],
-    "result": "unexplained",
+    "main event": "Mr. and Mrs. McDonald observed a strange white light over Phoenix, Arizona on June 30, 1952.",
+    "interesting points": "The object appeared about 3/4 the size of the full moon and emitted a very bright white light,The object traveled downward at high speed before disappearing,The witnesses estimated the object's speed to be in excess of 1000 miles per hour,The sighting lasted approximately thirty seconds without any sound from the object,No other reports were received to confirm the observation.",
     "sighted object": "a strange white light",
-    "location": "Phoenix, Arizona",
-    "witnesses": "Mr. and Mrs. James B. McDonald",
-    "photographs": "no"
+    "location": "Phoenix, Arizona, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. McDonald, who are described as being of average intelligence",
+    "contains photographs": false
 }

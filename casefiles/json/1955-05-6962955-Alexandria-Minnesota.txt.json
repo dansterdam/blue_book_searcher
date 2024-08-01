@@ -1,16 +1,9 @@
-
 {
-"main event": "A farmer found an unknown material substance the day after plowing his field on May 20, 1955 in Alexandria, Minnesota.",
-"interesting points": [
-"The substance was described as 'hard coal' that was partially burned.",
-"The length of observation and the course of the object are marked as 'N/A', indicating limited details.",
-"The report was sourced from a civilian witness.",
-"The Air Technical Intelligence Center's evaluation concluded the substance as 'hard coal' but with unknown origins.",
-"The report requested additional information regarding the unknown substance from the Air Technical Intelligence Center."
-],
-"result": "unexplained",
-"sighted object": "unknown material substance",
-"location": "Alexandria, Minnesota",
-"witnesses": "civilian",
-"photographs": "no"
+    "main event": "A farmer found an unknown material substance on his field the day after plowing it.",
+    "interesting points": "The substance was described as hard coal that was partially burned., The object was located in Alexandria, Minnesota., A sample of the substance weighed approximately one-half bushel., The report was submitted to the Air Technical Intelligence Center for further evaluation., The physical specimen related to the sighting is noted to be in the folder immediately following the current one.",
+    "sighted object": "unknown material substance",
+    "location": "Alexandria, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a farmer",
+    "contains photographs": false
 }

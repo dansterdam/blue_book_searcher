@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted moving in a southwesterly direction over Oakland, California.",
-    "interesting points": [
-        "The object moved at an estimated speed of 500-550 mph.",
-        "The object was described as a fiery orange color.",
-        "The object was observed at an altitude between 2,020 and 4,700 feet.",
-        "The report mentions that there were no aircraft operations in the congested area at the time of the sighting.",
-        "The report concludes that the object was possibly a weather balloon, based on information received from the senior controller at the Oakland Air Route Traffic Control."
-    ],
-    "result": "Possibly a weather balloon",
-    "sighted object": "Fiery orange object",
-    "location": "Oakland, California",
-    "witnesses": "Unknown",
-    "photographs": "No photographs available"
+    "main event": "An unidentified object was observed moving in a southwesterly direction at an estimated speed of 500-600 mph over Oakland, California.",
+    "interesting points": "The object was described as having a fiery orange color., The minimum observed altitude was between 2020 to 4700 ft., The object was reported to move consistently in the southwesterly direction., There are multiple potential explanations for the sighting, including it being a balloon, aircraft, astronomical event, or possibly a hoax., The sighting involved various altitude reports and weather conditions were high scattered clouds with 15 miles visibility.",
+    "sighted object": "unidentified flying object",
+    "location": "Oakland, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "information received from senior controller at Oakland Air Route Traffic Control",
+    "contains photographs": false
 }

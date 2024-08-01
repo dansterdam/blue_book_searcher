@@ -1,15 +1,9 @@
 {
-    "main event": "A radar blip detected an unidentified object traveling at approximately 1700 knots, or 2-3 times the speed of a fighter aircraft, at an altitude of around 60,000 feet over the Atlantic Ocean on March 15, 1961.",
-    "interesting points": [
-        "The object was detected by military radar, but visual observation was not possible.",
-        "The object traveled in a straight line and then disappeared below the horizon.",
-        "The object had a magnitude of 1.7 and was tracked for around 8 minutes.",
-        "The object's course took it from a bearing of 045 degrees to a bearing of 161 degrees.",
-        "The object passed below the stars Rigel and Sirius during the observation period."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified radar blip",
-    "location": "La Cala (Atlantic)",
-    "witnesses": "military",
-    "photographs": "no"
+    "main event": "A UFO was tracked on radar traveling at high speeds over La Cala on 15 March 1961.",
+    "interesting points": "The object was recorded moving in a straight line at approximately 1700 knots, which is significantly faster than a fighter aircraft., The object was detected at an altitude of approximately 60,000 feet., The radar blip indicated the object disappeared below the horizon after 8 minutes of observation., Visual observation was not possible during the sighting., The object was bearing 045 degrees and traveled in a south southwest direction.",
+    "sighted object": "UFO detected on radar",
+    "location": "La Cala, Atlantic",
+    "number of confirmed witnesses": 3,
+    "witness description": "Military personnel involved in ground-visual and air-visual radar observation.",
+    "contains photographs": false
 }

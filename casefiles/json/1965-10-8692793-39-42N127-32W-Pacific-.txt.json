@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A bright, reddish-yellow ball of light was observed by an aircraft crew in the Pacific region.",
-    "interesting points": [
-        "The object was slightly smaller than the size of a shirt button.",
-        "The object had a short tail and emitted a light that attracted the observer's attention.",
-        "The object was observed at an elevation of 35 degrees above the horizon and ahead of the aircraft.",
-        "The object did not maneuver and faded from sight after about 4 minutes of observation.",
-        "The report suggests the object may have been a meteor or space debris entering the Earth's atmosphere."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A bright, reddish-yellow ball of light with a short tail",
-    "location": "Pacific region, 39.42N 127.32W",
-    "witnesses": "Crew of an RC-121 aircraft",
-    "photographs": "No, the report does not include any photographs, but it mentions that the case includes 17 photographs and 2 35mm films in a separate folder."
+    "main event": "An RC-121 aircraft observed a round-shaped ball of light in the sky while flying, identified as an astrological object.",
+    "interesting points": "The object was reddish-yellow with a short tail and was smaller than a shirt button,The sighting lasted for 6 minutes,The observer was attracted to the light emitted from the object,The object was seen 35 degrees above the horizon and faded from sight after observation,It was concluded the object was a meteor based on its characteristics.",
+    "sighted object": "round-shaped ball of light",
+    "location": "Pacific, N/A, N/A",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major R. E. Michaud, Aircraft Commander, RC 121",
+    "contains photographs": false
 }

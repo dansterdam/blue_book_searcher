@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness observed a bluish object that looked like a bright moon hovering near Corpus Christi and Robstown, Texas area.",
-    "interesting points": [
-        "The object's shape varied from round to elongated and seemed to disappear toward the Corpus Christi area.",
-        "No sound was heard and the object was estimated to be 1 to 2 miles distant and 2,000 to 3,000 feet in altitude.",
-        "There were no unusual military activities reported in the area at the time of the sighting.",
-        "Another sighting was reported in the same area that lasted for 2 minutes with one observer.",
-        "Air traffic controllers at the Corpus Christi airport did not see anything unusual on the nights of the sightings."
-    ],
-    "result": "unexplained",
-    "sighted object": "bluish object that looked like a bright moon",
-    "location": "Near Corpus Christi and Robstown, Texas",
-    "witnesses": "single witness",
-    "photographs": "none"
+    "main event": "A witness observed a bluish object hovering near Corpus Christi and Robstown, Texas, around 9:30 - 10:00 pm, which appeared brighter than the moon.",
+    "interesting points": "The object's shape varied from round to elongated,The object was estimated to be 1 to 2 miles away and at an altitude of 2,000 to 3,000 feet,No sound was heard during the observation,The witness noted a smaller object separated from the larger one,The object circled right to left at very high speed before disappearing.",
+    "sighted object": "a bluish object resembling a brighter moon",
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

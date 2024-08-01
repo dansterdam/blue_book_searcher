@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two sightings of unidentified flying objects in Shawnee, Kansas on June 29, 1956.",
-    "interesting points": [
-        "The objects appeared round in front with a tapering back, the size of a quarter at arm's length, and dull against the sky.",
-        "The first object appeared to emit flame, while the second object had a light similar to an aircraft blinker light.",
-        "Both objects flew from south to north at high elevations.",
-        "The first sighting lasted 1.5 minutes, and the second sighting lasted 2.5-3 minutes.",
-        "The reporting officer concluded the sightings were most likely caused by aircraft, despite the unusual nature of the objects."
-    ],
-    "result": "possibly aircraft",
-    "sighted object": "round objects with tapering backs, emitting flame or having blinker lights",
-    "location": "Shawnee, Kansas",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Two sightings of a round object flying from South to North were reported on 28 June 1956.",
+    "interesting points": "The first sighting lasted 1.5 minutes and the second sighting lasted 2.5 to 3 minutes., The objects appeared round with a tapering back and were the size of a quarter at arm's length., The first object was all lit up, while the second had a light similar to an aircraft blinker light that blinked on and off about every 1.5 miles., Both objects emitted a flame and were dull against the sky., The report concludes that the sightings were probably caused by aircraft.",
+    "sighted object": "one round object",
+    "location": "Shawnee, Kansas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian observation",
+    "contains photographs": false
 }

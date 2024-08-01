@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A radar operator in Maplewood, New Jersey observed a single silver light on radar that displayed characteristics of a balloon, not a powered aircraft.",
-    "interesting points": [
-        "The radar operator initially thought the object was a small aircraft, but it exhibited balloon-like characteristics.",
-        "The object was observed on radar for 30 seconds.",
-        "A separate witness in Maplewood reported seeing a strange object about 60-70 feet in diameter that hovered for a few minutes and then took off at a high rate of speed.",
-        "The witness's report was forwarded to the Office of the Assistant Secretary of Defense for consideration and appropriate action.",
-        "The report does not include any photographs, only a Project 10073 Record Card and a handwritten letter from a civilian witness."
-    ],
-    "result": "Probable balloon",
-    "sighted object": "Silver light on radar, and a large unidentified hovering object",
-    "location": "Maplewood, New Jersey",
-    "witnesses": "Radar operator, civilian witness",
-    "photographs": "No"
+    "main event": "A witness observed a strange object about 60-70 feet in diameter hovering for a few minutes before taking off at a tremendous speed.",
+    "interesting points": "The sighting occurred at about 7:25 PM,The object initially appeared to be a plane or helicopter but was later identified as something unusual,The object had a diameter of 60-70 feet,The radar operator initially thought the radar return was a small aircraft, but the characteristics suggested it was probably a balloon,The sighting lasted for 30 seconds according to radar records.",
+    "sighted object": "strange object approximately 60-70 feet in diameter",
+    "location": "Maplewood, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A person looking out of a picture window",
+    "contains photographs": false
 }

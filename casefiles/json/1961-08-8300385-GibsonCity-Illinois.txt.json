@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "7 yellow or orange objects, appearing as lights, were spotted by civilians over Gibson City, Illinois on August 30, 1961.",
-    "interesting points": [
-        "The objects were moving at an estimated speed of up to 3000 mph.",
-        "The objects were observed at altitudes up to 60,000 feet.",
-        "The objects were in a staggered line formation, with 5 objects initially and 2 more joining later.",
-        "Air-to-air refueling was being conducted in the area at the time of the sighting.",
-        "The report recommends further research, as it was categorized as a 'possible sighting'."
-    ],
-    "result": "possible",
-    "sighted object": "7 yellow or orange lights",
-    "location": "Gibson City, Illinois",
-    "witnesses": "Mr. and Mrs. Edward H. John",
-    "photographs": "none"
+    "main event": "Seven yellow or orange objects were observed in formation at high speed over Gibson City, Illinois.",
+    "interesting points": "The objects were sighted moving at an estimated speed of up to 3000 mph,The sighting occurred on a clear night with initial altitude reported at 60,000 ft,The objects appeared as lights only and were not identifiable as any known aircraft,The sighting lasted for approximately 15 minutes and included no optical aids for observation,The report suggested the possibility of a satellite being in the area at the time of the sighting.",
+    "sighted object": "seven yellow or orange lights",
+    "location": "Gibson City, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. and Mrs. of Gibson City, Illinois",
+    "contains photographs": false
 }

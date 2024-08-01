@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A woman in Indianapolis, Indiana reported having a film of a UFO sighted near an Air Force aircraft in Lincoln, Nebraska on July 11, 1959.",
-    "interesting points": [
-        "The woman was hesitant to report the film earlier due to not wanting publicity and her husband's disapproval.",
-        "The woman claimed the film might be relevant to the investigation of the Northwestern Airlines accident that occurred on March 17, 1960.",
-        "Air Force personnel visited the woman's home to view the film, but found it only showed reflections and defects, not an actual UFO.",
-        "The Air Force requested the film be turned over to them for analysis, but the original was returned to the woman without making a copy.",
-        "The Air Force investigated the claim that a wing from the Northwestern Airlines aircraft was found some distance from the main crash site, which the woman believed indicated a mid-air collision with another craft."
-    ],
-    "result": "The film did not show a genuine UFO, only reflections and defects in the footage.",
-    "sighted object": "An unidentified flying object",
-    "location": "Lincoln, Nebraska",
-    "witnesses": "A woman in Indianapolis, Indiana",
-    "photographs": "Yes, the woman had an 8mm film of the alleged UFO sighting"
+    "main event": "A UFO sighting was reported in Lincoln, Nebraska on July 11, 1959.",
+    "interesting points": "The observation was a ground-visual type,No detailed information on the object or its course was provided,The film showing the UFO had been lost from the file,The sighting was connected to a subsequent event involving a Northwestern Airlines accident,The phenomenon observed might have been reflections rather than an actual UFO.",
+    "sighted object": "one unidentified flying object",
+    "location": "Lincoln, Nebraska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness took an 8mm film of the sighting under bright sunlight.",
+    "contains photographs": false
 }

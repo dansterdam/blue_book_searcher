@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Two red flashing circles the size of two apples in formation were observed in the sky over Teaticket, Massachusetts on April 27, 1966.",
-    "interesting points": [
-        "The objects made a level flight until the ignition of a red-white rocket-like thrust, after which they rapidly ascended above the horizon.",
-        "Upon the disappearance of the two red flashing circles, a red-white trail like a rocket thruster igniting appeared below and between them.",
-        "The sighting lasted for 10 minutes.",
-        "The probable cause was determined to be the afterburner exhaust glow and navigation lights of an F-106 aircraft that was approaching Otis Air Force Base at the time of the sighting.",
-        "The report was made by 30 students and staff members from Teaticket, Massachusetts."
-    ],
-    "result": "probable aircraft",
+    "main event": "Two objects identified as red flashing circles were sighted in Teaticket, Massachusetts on 27 April 1966.",
+    "interesting points": "The observer described the objects as the size of two apples,The sighting lasted for approximately 10 minutes,Upon disappearance, two red lights resembling rocket thrust appeared above the horizon,The objects made a level flight until ignition of the thrust,The probable cause was determined to be an F-106 aircraft's afterburner and navigation lights.",
     "sighted object": "two red flashing circles",
-    "location": "Teaticket, Massachusetts",
-    "witnesses": "30 students and staff members",
-    "photographs": "no"
+    "location": "Teaticket, Massachusetts, USA",
+    "number of confirmed witnesses": 30,
+    "witness description": "students and staff in Teaticket, Massachusetts",
+    "contains photographs": false
 }

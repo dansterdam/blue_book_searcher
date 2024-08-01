@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO was observed near Fort Collins, Colorado on September 7th, 1956. The object was described as the size of a baseball, with red and green colors, moving rapidly and leveling from north to west. It was observed for 60 seconds, ruling out an astronomical interpretation.",
-  "interesting points": [
-    "The UFO was classified as a Ground-Radar and Air-Visual observation, with the source being military personnel.",
-    "The object's movement was attributed to visual interpretation rather than actual motion.",
-    "The witness described the object's color as red and green, and its size as that of a baseball.",
-    "The observation lasted for 60 seconds, ruling out an astronomical interpretation.",
-    "The report suggests that the cause of the sighting was not determined, prompting a fuller investigation."
-  ],
-  "result": "unexplained",
-  "sighted object": "a UFO described as the size of a baseball, with red and green colors",
-  "location": "Fort Collins, Colorado",
-  "witnesses": "Military personnel",
-  "photographs": "no"
+    "main event": "A witness reported a sighting of a red and green ground object moving rapidly near Ft. Collins, Colorado in September 1956.",
+    "interesting points": "The object was observed for approximately 1 hour but was ruled to be an optical illusion rather than actual motion., The sighting lasted for less than 1 minute of direct observation time., The object was described as being the size of a baseball., Star Vega was overhead at the time, raising the possibility of misidentification with astronomical phenomena., The source of the report was military, adding credibility to the observation.",
+    "sighted object": "one ground object, size of a baseball, colored red and green",
+    "location": "Ft. Collins, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Louellen David Binder",
+    "contains photographs": false
 }

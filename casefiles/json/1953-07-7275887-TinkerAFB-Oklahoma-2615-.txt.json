@@ -1,15 +1,9 @@
 {
-    "main event": "A document from Project Blue Book dated July 2, 1953 referencing 3 photos from Tinker AFB, Oklahoma",
-    "interesting points": [
-        "The document is a cover page for an unidentified flying object (UFO) investigation",
-        "The document references 3 photographs, but no photographs are included in the provided image",
-        "The image shows a blurry, indistinct object or structure in what appears to be a room or structure",
-        "There is no human face or figure visible in the image",
-        "The image does not contain any transcribable text"
-    ],
-    "result": "inconclusive",
-    "sighted object": "blurry, indistinct object or structure",
-    "location": "Tinker AFB, Oklahoma",
-    "witnesses": "unknown",
-    "photographs": "referenced, but not included"
+    "main event": "A UFO report from Tinker AFB, Oklahoma dated July 2, 1953.",
+    "interesting points": "The report includes a cover page from Project Blue Book,3 photos are referenced in the document,The report is related to unidentified flying objects (UFOs),The document does not contain any transcribable text,The image shows a blurry, indistinct object in a black and white photograph.",
+    "sighted object": "blurry, indistinct object",
+    "location": "Tinker AFB, Oklahoma, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "none provided",
+    "contains photographs": false
 }

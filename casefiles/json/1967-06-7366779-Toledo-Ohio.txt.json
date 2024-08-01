@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A white-like star object was observed in the sky over Toledo, Ohio for about 1 1/2 hours.",
-    "interesting points": [
-        "The object appeared to be a white-like star.",
-        "It was observed for about 1 1/2 hours before fading out of sight.",
-        "Multiple witnesses in the Toledo area reported seeing the same object.",
-        "The object was described as a brilliant light, elliptical in shape, that hovered and then suddenly accelerated forward and out of sight.",
-        "The report was prepared by the ACIC (Aeronautical Chart and Information Center) Project Monitor."
-    ],
-    "result": "Possible (Astronomical)",
-    "sighted object": "white-like star object",
-    "location": "Toledo, Ohio",
-    "witnesses": "multiple witnesses in the Toledo area",
-    "photographs": "no photographs"
+    "main event": "A milk plant operator named Jim Tilly and his family observed a bright elliptical object hovering over Toledo, Ohio for about 1.5 hours on July 5, 1967.",
+    "interesting points": "The object was described as a brilliant light and elliptical in shape,The object hovered a few hundred feet off the ground then suddenly accelerated away at an incredible speed,At least 3 other witnesses in the vicinity confirmed they saw the same object,The report was sent to the Air Force for further investigation,The object faded out of sight after a prolonged observation period.",
+    "sighted object": "a brilliant elliptical light",
+    "location": "Toledo, Ohio, USA",
+    "number of confirmed witnesses": 4,
+    "witnesses": "Jim Tilly and family, and 3 other witnesses in the area",
+    "photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian witness observed a single unidentified object in the sky for approximately 3 minutes and 30 seconds.",
-    "interesting points": [
-        "The object appeared solid and was brighter than the brightest stars.",
-        "The object changed brightness and left a trail.",
-        "The object hovered and broke up into parts or exploded.",
-        "The observation occurred during daylight hours with a clear, sunny sky.",
-        "The witness used binoculars to observe the object."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a single unidentified object",
-    "location": "Deaver, Wyoming",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A civilian observed three unidentified objects over Minneapolis, Minnesota, for one hour on November 20, 1966.",
+    "interesting points": "The objects were described as pale blue, red, and white lights,The sighting was reported by three witnesses,The duration of the observation was one hour,The objects appeared to be stationary for the duration of the observation,There was no physical evidence or photographs taken during the sighting.",
+    "sighted object": "three unidentified lights in the sky",
+    "location": "Minneapolis, Minnesota, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians including a music teacher and a computer programmer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A bright flash that looked like a shooting star was observed moving erratically close to the horizon at Webb AFB, Texas.",
-    "interesting points": [
-        "The object moved on a more level than downward path, unlike a typical shooting star.",
-        "The sighting lasted for approximately 5 minutes.",
-        "The object was observed at elevation angles of around 13 degrees and azimuth angles between 260-290 degrees.",
-        "The report was submitted by a military source (Ground-Visual observation).",
-        "The report includes a mention of photographs being taken, although no photographs are present in the provided image."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright flash that looked like a shooting star but moved erratically",
-    "location": "Webb AFB, Texas",
-    "witnesses": "military personnel",
-    "photographs": "yes, the report mentions photographs were taken"
+    "main event": "A bright flash resembling a shooting star was observed moving erratically close to the horizon at Webb AFB.",
+    "interesting points": "The observation lasted approximately 5 minutes.,The object displayed azimuth angles of 260-290°.,The elevation angle was about 13°.,The report was sourced from a military observation.,The bright flash lasted roughly 2-3 seconds.",
+    "sighted object": "luminous streak in the sky",
+    "location": "Webb AFB, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel from the observation detachment",
+    "contains photographs": true
 }

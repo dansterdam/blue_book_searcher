@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed three boomerang-shaped objects traveling in a zig-zag motion from north to south in Myrtle Beach, South Carolina on November 4, 1967.",
-    "interesting points": [
-        "The witness reported the objects to the Myrtle Beach Police Department, who forwarded the report to the Aerial Phenomena Office.",
-        "The Air Force requested more information from the witness, but was unable to contact him directly.",
-        "The reporting officer who observed the moon through a telescope around the same time could not come to a conclusion about the identity of the UFO due to insufficient data.",
-        "Weather conditions were good and conditions for observing were excellent at the time of the sighting.",
-        "The witness was just spending the night at a motel in Myrtle Beach, en route to his home address."
-    ],
-    "result": "unexplained",
+    "main event": "An observer sighted three boomerang-shaped objects that moved from west to east in a zig-zag pattern on November 4, 1967.",
+    "interesting points": "The observer was approximately 6 miles away from the sighting location., The duration of the sighting was not documented., The objects were reported to move in a zig-zag motion., The sighting was reported to the Myrtle Beach Police Department., The observer's age, occupation, and reliability were not available.",
     "sighted object": "three boomerang-shaped objects",
-    "location": "Myrtle Beach, South Carolina",
-    "witnesses": "1 witness",
-    "photographs": "no"
+    "location": "Myrtle Beach, South Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A single observer, details about age and reliability not available.",
+    "contains photographs": false
 }

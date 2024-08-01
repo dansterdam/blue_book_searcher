@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted by three military officers in Hillcrest Heights, Maryland on June 27, 1955.",
-    "interesting points": [
-        "The object was observed from approximately 8:00 p.m. to 9:10 p.m. and was described as a yellowish, very brilliant object with a trail 4 to 5 times the length of the object.",
-        "The object exhibited erratic motion, stopping, oscillating, and then moving off at high speed.",
-        "The object did not make any sound.",
-        "Searchlights trained on the area went out when the object approached, and the ceiling lights at Washington National Airport also went out when the object passed over.",
-        "The investigation concluded that the sighting was likely of a weather balloon being carried by prevailing winds, despite the object's unusual behavior."
-    ],
-    "result": "inconclusive",
-    "sighted object": "yellowish, very brilliant object with a trail",
-    "location": "Hillcrest Heights, Maryland",
-    "witnesses": "three military officers",
-    "photographs": "no"
+    "main event": "On June 25, 1955, an unidentified flying object was observed in the sky over Hillcrest Heights, Maryland, exhibiting erratic motion and bright illumination.",
+    "interesting points": "The object was described as yellowish and very brilliant with a trail 4 to 5 times its length,There was no sound associated with the object during its observation,The sighting lasted approximately 7 minutes,It was reported that at times the object oscillated and then moved off at high speed,The observer remarked that no comparison could be made with known aircraft due to its unique characteristics.",
+    "sighted object": "a yellowish, bright object with a long trail",
+    "location": "Hillcrest Heights, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilians, including an administrative assistant, who observed the object from their driveway.",
+    "contains photographs": false
 }

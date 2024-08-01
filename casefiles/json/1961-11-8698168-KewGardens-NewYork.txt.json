@@ -1,17 +1,9 @@
-Based on the details provided in the UFO report, here is the summary in the requested JSON format:
-
 {
-  "main event": "A bright light was observed in the sky over Kew Gardens, New York on November 26, 1961.",
-  "interesting points": [
-    "The object was round and emitted a white light that was brighter than the surrounding stars.",
-    "The object moved rapidly for a few seconds, then remained stationary for about 2 minutes before disappearing.",
-    "No sound was heard coming from the object.",
-    "The weather was clear with a few scattered clouds.",
-    "The observer reported the sighting to authorities, who requested additional questionnaires to be filled out for further investigation."
-  ],
-  "result": "unexplained",
-  "sighted object": "a bright, round light in the sky",
-  "location": "Kew Gardens, New York",
-  "witnesses": "a resident of Kew Gardens",
-  "photographs": "no, the report does not mention any photographs"
+    "main event": "An observer in Kew Gardens, New York, reported seeing a bright light in the sky that changed colors from blue to red and back while moving quickly, before disappearing.",
+    "interesting points": "The object changed color from white to orange and back repeatedly,The observer used binoculars to get a clearer view of the object,The sighting lasted approximately 35 minutes,The object appeared round and emitted a bright light brighter than the surrounding stars,The object was estimated to be about 20 feet in diameter.",
+    "sighted object": "a bright, round object emitting light",
+    "location": "Kew Gardens, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "male, age 20, studying chemical engineering at college",
+    "contains photographs": false
 }

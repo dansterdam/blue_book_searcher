@@ -1,14 +1,9 @@
 {
-    "main event": "A radar operator at the Marine Air Base in El Toro, California, observed a bright, unidentified object traveling at 5,000 mph. The object was tracked for 3 minutes across the 120-mile radar scope.",
-    "interesting points": [
-        "The radar observation suggested that the object was not consistent with any known aircraft or missile.",
-        "Initial analysis identified the object as a malfunction or anomaly in the radar system.",
-        "Confusion arose from a message referring to 'developed clear' photographs of the unidentified object, indicating the need for further analysis.",
-        "While the phenomenon was initially considered a radar malfunction, the uncertainty around the message regarding clear photographs led to potential follow-up action to obtain the photographs for analysis by ATIC.",
-        "The conclusion regarding the radar observation was uncertainty and the need for further investigation due to the ambiguity surrounding the message and photographs."
-    ],
-    "result": "The conclusion regarding the radar observation was uncertainty, and there was a potential need for further investigation.",
-    "sighted object": "Bright, unidentified object traveling at 5,000 mph, tracked for 3 minutes across the 120-mile radar scope",
+    "main event": "Unidentified flying objects were observed visually and by radar at Marine Corps Air Station El Toro, California, from 11 to 12 November 1956.",
+    "interesting points": "Radar detected objects with estimated speeds ranging from 500 to 15,000 mph,Multiple witnesses observed the same phenomena visually and on radar,NULL visual confirmations for many radar sightings,The sighting events spanned over several hours with attempts to intercept the objects failing,Analysis suggested local phenomena could have affected radar performance.",
+    "sighted object": "unidentified flying objects",
     "location": "El Toro, California, USA",
-    "witnesses": "Radar operator at the Marine Air Base"
+    "number of confirmed witnesses": 3,
+    "witness description": "Military personnel including pilots and radar operators, experienced in aircraft and radar operations.",
+    "contains photographs": false
 }

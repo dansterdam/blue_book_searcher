@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An explosion in the upper atmosphere was observed, which shook buildings and produced a smoke screen. A silver-colored object was reported by a Ground Observer Corps, changing elevation at 25-35 meters per minute. A ball of flame was observed from the silver-colored object, changing color. A smell of burning or a vapor trail was present for 6 minutes.",
-    "interesting points": [
-        "The event lasted 5-6 minutes.",
-        "The object was observed changing elevation at a significant rate of 25-35 meters per minute.",
-        "The object emitted a ball of flame that changed color.",
-        "There was a smell of burning or a vapor trail for 6 minutes.",
-        "The explosion and observation was reported to have shaken nearby buildings."
-    ],
-    "result": "unexplained",
-    "sighted object": "silver-colored object, ball of flame",
+    "main event": "A silver-colored object was observed changing elevation rapidly, resulting in a smoke screen and an explosion in the upper atmosphere.",
+    "interesting points": "A shockwave was felt that shook buildings in the area., The object changed elevation at a rate of 25-35 m/minute., A ball of flame was observed coming from the object, changing color., There was a smell of burning or a vapor trail for the duration of the sighting., The observation lasted for about 5-6 minutes according to the Ground Observer Corps.",
+    "sighted object": "a silver-colored object",
     "location": "Turner River Station, Australia",
-    "witnesses": "Ground Observer Corps",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "Ground Observer Corps report",
+    "contains photographs": false
 }

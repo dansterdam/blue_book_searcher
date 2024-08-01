@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A round white light was observed traveling in a straight line at 200 mph. The sequence repeated three minutes later.",
-    "interesting points": [
-        "The light appeared and disappeared very abruptly.",
-        "The object was observed by 4 airmen at Luke AFB, Arizona.",
-        "The sighting lasted for 3-4 seconds each time.",
-        "The object was estimated to be at an altitude of around 5,000 feet.",
-        "The weather was clear with good visibility at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round white light",
-    "location": "Luke AFB, Arizona",
-    "witnesses": "4 airmen",
-    "photographs": "no"
+    "main event": "Four airmen at Luke AFB observed a round white light traveling in a straight line at approximately 200 mph for 3-4 seconds.",
+    "interesting points": "The sighting was reported by four airmen, The object was seen to blink on and off, indicating it could be a pilot light on balloons, The sequence of movement was repeated three minutes later, No sound or exhaust was observed from the object, The altitude was estimated at around 17,000 ft during the sighting.",
+    "sighted object": "round white light",
+    "location": "Luke AFB, Arizona, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "airmen stationed at Luke AFB",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be a series of questionnaires and forms related to an unidentified flying object (UFO) sighting, but does not provide details on a specific event.",
-    "interesting points": [
-        "The report is from Project Blue Book, a U.S. Air Force program that investigated UFO reports in the mid-20th century.",
-        "The report includes a detailed questionnaire with questions about the sighting, such as time, location, duration, weather conditions, physical characteristics of the object, and witness details.",
-        "The report contains a hand-drawn sketch or diagram showing the motion and position of the observed object(s).",
-        "There are no photographs included in the report, only textual information and diagrams.",
-        "The conclusion or identification of the sighted object is not provided in the information given."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unspecified",
-    "location": "unspecified",
-    "witnesses": "unspecified",
-    "photographs": "none"
+    "main event": "The document is a report from Project Blue Book, where individuals could submit their observations of unidentified flying objects (UFOs).",
+    "interesting points": "The report includes a technical questionnaire prepared by the U.S. Air Force for gathering information on UFO sightings., The report does not contain any photographs., It outlines specific observational criteria, such as time, location, and weather conditions., The document instructs witnesses on how to describe the shape, size, and speed of the object they saw., There are sections for hand-drawn sketches indicating the object's path.",
+    "sighted object": "Unidentified flying objects",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not provided in the document, but it was intended for individuals who witnessed UFO sightings.",
+    "contains photographs": false
 }

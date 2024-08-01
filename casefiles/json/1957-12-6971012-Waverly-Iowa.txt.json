@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two white, basketball-shaped objects with streams of fire trailing behind them were observed in the sky over Waverly, Iowa on December 21, 1957.",
-    "interesting points": [
-        "The objects were observed for only 5 seconds.",
-        "The objects disappeared halfway across the sky and then reappeared, before disappearing again.",
-        "The objects were described as having a round or basketball shape and being white in color.",
-        "There were two objects, one behind the other.",
-        "The objects had streams of fire trailing behind them."
-    ],
-    "result": "unknown",
-    "sighted object": "two white, basketball-shaped objects with streams of fire trailing behind them",
-    "location": "Waverly, Iowa",
-    "witnesses": "a civilian, possibly a farmer",
-    "photographs": "yes, the report indicates that photographs were taken"
+    "main event": "A UFO sighting was reported involving two round, basketball-shaped white objects in Waverly, Iowa on 21 December 1957.",
+    "interesting points": "The objects had streaks of fire trailing behind them for a second or longer., The sighting lasted approximately 5 seconds., The objects disappeared halfway across the sky and then reappeared before dimming out., The report originates from a civilian source., The course of the objects was south.",
+    "sighted object": "two round basketball-shaped white objects",
+    "location": "Waverly, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "51-year-old farmer from Iowa who wore glasses",
+    "contains photographs": false
 }

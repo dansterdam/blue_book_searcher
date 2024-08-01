@@ -1,15 +1,9 @@
 {
-    "main event": "A pilot spotted a blue and white, flashing object moving up and down in the sky southeast of New Orleans in 1954.",
-    "interesting points": [
-        "The object disappeared in the northeast direction.",
-        "The pilot believed the object was a star.",
-        "The sighting lasted for 3 to 5 minutes.",
-        "There were no photographs taken of the object.",
-        "The report concluded that the sighting was of an astronomical object, likely a star."
-    ],
-    "result": "was astronomical/star",
-    "sighted object": "a blue and white, flashing object",
-    "location": "SE of New Orleans",
-    "witnesses": "civilian pilot",
-    "photographs": "no"
+    "main event": "A civilian pilot observed a blue and white object flashing and moving up and down in the sky near New Orleans.",
+    "interesting points": "The sighting lasted for 3 to 5 minutes., The object was observed moving in a northeastern direction., The pilot concluded it was definitely a star., The report includes a note stating it was definitely not an aircraft or balloon., The conclusion of the report categorized the sighting as astronomical.",
+    "sighted object": "one blue and white flashing object",
+    "location": "New Orleans, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian pilot",
+    "contains photographs": false
 }

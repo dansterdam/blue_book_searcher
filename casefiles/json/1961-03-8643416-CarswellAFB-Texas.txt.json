@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two bright silver, round objects were observed over Carswell AFB, Texas on March 12, 1961.",
-    "interesting points": [
-        "The objects were observed by two military personnel, a Staff Sergeant and a Master Sergeant, from the Carswell AFB hospital.",
-        "The objects appeared together, side-by-side, and then separated - one went straight up and the other went southward, disappearing instantaneously.",
-        "The objects were described as being 'nickle' size in diameter and very bright silver in color.",
-        "No sound was reported from the objects, and no discernible features were seen.",
-        "The sighting lasted for about 5 minutes, but the reliability of the observers was questioned due to potential medical issues."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright silver, round objects",
-    "location": "Carswell AFB, Texas",
-    "witnesses": "military personnel (Staff Sergeant and Master Sergeant)",
-    "photographs": "no"
+    "main event": "Two bright silver objects were reported sighted at Carswell AFB, Texas on March 19, 1961.",
+    "interesting points": "The sighting involved two round-shaped objects that appeared side-by-side for several minutes., Neither object emitted any sound during the observation., One object disappeared straight up while the second object went southward., The objects were described as having a shape similar to a nickel and were bright silver in color., An observer's reliability was questioned due to previous head injury; his account was not considered reliable.",
+    "sighted object": "two round bright silver objects",
+    "location": "Carswell AFB, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "John G. Niber, SSGT 7BW FIELD MAINTENANCE",
+    "contains photographs": false
 }

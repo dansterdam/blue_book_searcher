@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several witnesses reported seeing reddish-orange shaped objects with long tails, about half the size of the moon and a bright yellow-orange color, over Bitberg, Germany on April 17, 1960.",
-    "interesting points": [
-        "The objects disappeared and reappeared, traveling at high speed from the ground to a high altitude.",
-        "The objects were seen by several independent witnesses in the area.",
-        "The report states the objects were probably a meteor.",
-        "The weather conditions were described as having a full moon and extremely light conditions.",
-        "The report includes precise wind and temperature measurements at various altitudes."
-    ],
-    "result": "Probable meteor",
-    "sighted object": "Reddish-orange shaped objects with long tails, about half the size of the moon and a bright yellow-orange color",
-    "location": "4.5 NN ENE of Bitberg, Germany",
-    "witnesses": "Military personnel, including an Air Policeman",
-    "photographs": "None"
+    "main event": "Multiple witnesses observed reddish-orange shaped objects with long tails, traveling at high speeds and disappearing and reappearing in the sky near Bitburg, Germany.",
+    "interesting points": "The objects were half the size of the moon and bright yellow-orange in color., The sighting lasted approximately 3-5 seconds., The observers reported that the objects moved from the ground to high altitudes., Several independent witnesses confirmed the sighting., The event might be attributed to a meteor.",
+    "sighted object": "reddish-orange objects with long tails",
+    "location": "Bitburg, Rhineland-Palatinate, Germany",
+    "number of confirmed witnesses": 2,
+    "witness description": "SSGT Donald E. Metz and SSGT Richard D. Smith, both Air Policemen with the 36th Air Police Squadron.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is a JSON summary of the UFO report:
-
 {
-    "main event": "Three white objects the size of stars were seen moving up and down and side to side over Seattle, Washington in July 1955.",
-    "interesting points": [
-        "The objects were seen for 30 minutes by the observer and four witnesses.",
-        "The movement of the objects, described as going up and down and side to side, does not fit the typical characteristics of a balloon.",
-        "The report notes that the number of witnesses makes it less likely to be an optical phenomenon.",
-        "The report suggests the objects could possibly be a balloon cluster reflecting city lights, or an astronomical phenomenon.",
-        "A separate sighting from July 21, 1955 describes a single round black object the size of a quarter that went straight up and disappeared."
-    ],
-    "result": "unknown",
-    "sighted object": "three white objects the size of stars, and one round black object the size of a quarter",
-    "location": "Seattle, Washington",
-    "witnesses": "the observer and four other witnesses",
-    "photographs": "no"
+    "main event": "Multiple sightings of unidentified flying objects reported in Seattle, Washington during July 1955.",
+    "interesting points": "Witnesses saw three white objects for about 30 minutes, which appeared to be the size of a star., The objects moved up and down and side to side., The objects may have been a balloon cluster reflecting city lights., The observer had four confirmed witnesses to validate the sighting., A second sighting on July 21 involved a round black object that appeared to go straight up.",
+    "sighted object": "three white objects; one round black object",
+    "location": "Seattle, Washington, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Civilian observer with additional witnesses present",
+    "contains photographs": false
 }

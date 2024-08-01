@@ -1,15 +1,9 @@
 {
-    "main event": "A single unidentified flying object was observed by civilian witnesses in Tallahassee, Florida on February 3, 1965.",
-    "interesting points": [
-        "The object was described as a round, greyish-purple object the size of a grapefruit, with good depth and a phosphorus glow.",
-        "The object was observed making a rapid east-to-west flight path, emitting a humming sound.",
-        "The sighting was also reported by the pilot of an Eastern Airlines flight and the tower operator at Jacksonville.",
-        "Despite numerous witnesses, including 12-15 people who called the local radio station and 20-25 who called the local newspaper, the investigation was inconclusive.",
-        "The investigating officer noted that the lack of physical evidence and the involvement of mainly college students or adults affiliated with the university lent an impression that the sighting may have been a hoax, though the interviews conducted by a newspaper reporter suggested the sightings were credible."
-    ],
-    "result": "inconclusive",
-    "sighted object": "single round, greyish-purple object with phosphorus glow",
-    "location": "Tallahassee, Florida",
-    "witnesses": "civilian witnesses, Eastern Airlines pilot, Jacksonville tower operator",
-    "photographs": "no"
+    "main event": "On February 3, 1965, a civilian observer in Tallahassee, Florida reported seeing a single unidentified flying object for 15 seconds, moving vertically.",
+    "interesting points": "The object was observed for only 15 seconds,The conclusion reached was that the object was an astronomical event, specifically a star,Despite efforts, only one credible witness was interviewed,The investigation suggested the possibility of a hoax due to limited witness responses,The object was described as grapefruit-sized and emitting a faint humming sound.",
+    "sighted object": "one unidentified flying object",
+    "location": "Tallahassee, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer who described the object as round, grapefruit-sized, bluish with no discernible features",
+    "contains photographs": false
 }

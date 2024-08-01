@@ -1,15 +1,9 @@
 {
-    "main event": "A blue-green streak of light with a flash of color was observed for about 1 second.",
-    "interesting points": [
-        "The object had characteristics of a balloon, including its color, duration, and trajectory.",
-        "The report mentions that a farmer 12 miles north of Mt. Vernon, Illinois reported seeing a plane fly over his house and drop a flare, but there is no investigation into this additional sighting.",
-        "The report states that no USAF aircraft were flying in the area at either time reported.",
-        "The sighting occurred at Scott Air Force Base in Illinois.",
-        "The report was submitted in accordance with Air Force Regulation 200-2, which governed the investigation of UFO sightings."
-    ],
-    "result": "was Balloon",
+    "main event": "A blue-green streak of light was observed over Scott AFB, Illinois on November 5, 1961.",
+    "interesting points": "The streak of light had a flash of yellow before changing to blue-green,The trajectory of the object was described as even and gentle,The observation lasted for about one second, Ground visual observation was made under clear weather conditions, The sighting was concluded to likely be a balloon but also noted as possibly astronomical.",
     "sighted object": "blue-green streak of light",
-    "location": "Scott AFB, Illinois",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "location": "Scott AFB, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel at Scott AFB, identified as a reliable source",
+    "contains photographs": false
 }

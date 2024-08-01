@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian pilot reported a visual sighting of a long blue streak over the Atlantic Ocean, traveling from east to west at very high speed and an altitude of approximately 29,000 feet. The sighting was evaluated as an astronomical phenomenon, specifically a meteor.",
-  "interesting points": [
-    "The observation was made by a civilian pilot of BOAC airlines over the Atlantic Ocean.",
-    "The object appeared to be traveling at a very high speed and at an altitude of approximately 29,000 feet.",
-    "The report indicated that the sighting was classified as an astronomical phenomenon, specifically a meteor.",
-    "The length of observation was not reported, and there was no physical evidence or photograph of the sighting.",
-    "The pilot was unable to be interrogated for further details, and the evaluation was based on the information provided."
-  ],
-  "result": "prosaic explanation",
-  "sighted object": "long blue streak in the sky",
-  "location": "Atlantic Ocean 48.00N 57.30W",
-  "witnesses": "civilian pilot of BOAC airlines",
-  "photographs": "no"
+    "main event": "A pilot of BOAC airlines observed a long streak in the sky over the Atlantic Ocean on November 11, 1953.",
+    "interesting points": "The object was observed traveling from East to West at a very high speed,The altitude of the object was estimated to be about 50,000 feet from the observing aircraft,The sighting was categorized as an astronomical phenomenon, specifically a meteor,There was no physical evidence or photographs present with the report,The duration of the observation was not reported.",
+    "sighted object": "long streak in the sky",
+    "location": "Atlantic Ocean, Newfoundland and Labrador, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "pilot of BOAC airlines",
+    "contains photographs": false
 }

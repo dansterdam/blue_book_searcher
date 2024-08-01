@@ -1,15 +1,9 @@
 {
-    "main event": "A small white star-like object was sighted in Mosinee, Wisconsin on April 22, 1964.",
-    "interesting points": [
-        "The object was described as a rapidly moving star in straight flight from north to south.",
-        "The object disappeared in the distance after being observed for about 5 minutes.",
-        "The sighting was reported 5 days after it occurred.",
-        "The object was evaluated as likely being a satellite or 'shooting star' by the reporting official.",
-        "The observers were 4 students aged 14-20 years old, and their reliability was assessed as 'fair'."
-    ],
-    "result": "Probable Satellite",
+    "main event": "A small white star-like object was observed in Mosinee, Wisconsin, on April 22, 1964.",
+    "interesting points": "The object was visible for about five minutes, The observation was reported to have been made from Hwy 34 near the Marathon & Portage County line, Witnesses described the object as rapidly moving in a straight line from North to South, The sighting was reported five days after it occurred, The object was evaluated as probably being a satellite or shooting star.",
     "sighted object": "small white star-like object",
-    "location": "Mosinee, Wisconsin",
-    "witnesses": "4 students aged 14-20 years old",
-    "photographs": "no"
+    "location": "Mosinee, Wisconsin, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Students aged 14 to 20 years from Wisconsin",
+    "contains photographs": false
 }

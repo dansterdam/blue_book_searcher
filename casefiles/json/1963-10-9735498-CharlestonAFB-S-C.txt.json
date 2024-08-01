@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian employee and a Canadian forces corporal sighted an orange-red glow that appeared to be a meteor at Charleston AFB, South Carolina on October 2, 1962.",
-    "interesting points": [
-        "The object increased in size and then decreased in size before disappearing behind cloud cover at an altitude of 23 degrees.",
-        "Both witnesses gave the impression that the object was observed for a considerable amount of time before it disappeared in the cloudy sky.",
-        "The report concluded that the observations indicated the sighting was likely a meteor.",
-        "The document appears to be part of Project Blue Book, a US Air Force program that investigated UFO sightings.",
-        "The report contains no photographs, only text-based details of the sighting."
-    ],
-    "result": "probable meteor",
+    "main event": "A civilian employee and a corporal from the Canadian forces sighted an orange-red glow that appeared to change in size before disappearing behind clouds.",
+    "interesting points": "The sighting indicated an increase and then a decrease in size of the object., The object was seen at an altitude of 23 degrees., The sighting lasted for approximately 3-5 minutes., The report originated from military sources., Observers concluded it was probably a meteor based on the observations.",
     "sighted object": "orange-red glow",
-    "location": "Charleston AFB, South Carolina",
-    "witnesses": "civilian employee and Canadian forces corporal",
-    "photographs": "no"
+    "location": "Charleston AFB, South Carolina, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a civilian employee and a corporal of the Canadian forces",
+    "contains photographs": false
 }

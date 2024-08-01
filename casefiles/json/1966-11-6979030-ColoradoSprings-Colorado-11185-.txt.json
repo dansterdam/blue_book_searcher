@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, luminous, oblong object was observed traveling at a high rate of speed over Colorado Springs, Colorado.",
-    "interesting points": [
-        "The object was first observed at 2255 hours local time in the near northwest sector of the sky.",
-        "The object was observed for approximately 30-40 seconds before disappearing from view.",
-        "The atmospheric and weather conditions at the time of the sighting were clear.",
-        "No other details are available about the sighting.",
-        "The report is from Project Blue Book case file #11185."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, luminous, oblong object",
-    "location": "Colorado Springs, Colorado",
-    "witnesses": "multiple unidentified observers",
-    "photographs": "yes, the report includes 7 photographs"
+    "main event": "An Air Force Captain observed a bright, round, fuzzy object with a diameter of 20-30 feet in Colorado Springs, Colorado on November 6, 1966.",
+    "interesting points": "The object was observed for approximately 30 minutes,First stationary for about 10 minutes before moving slowly east to west at an estimated speed of 5-10 mph,The sighting occurred under clear weather conditions with no wind,The investigation concluded that the object could not be identified as any known aircraft or satellite,There were two adult observers who also reported witnessing a light that changed colors from white to red to green.",
+    "sighted object": "a bright, round, fuzzy object",
+    "location": "Colorado Springs, Colorado, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Air Force Captain and one other adult observer",
+    "contains photographs": false
 }

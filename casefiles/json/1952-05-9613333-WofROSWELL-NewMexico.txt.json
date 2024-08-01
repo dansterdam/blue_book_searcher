@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified aerial object was sighted in the sky over Roswell, New Mexico on May 12, 1952.",
-    "interesting points": [
-        "The object initially appeared as a star but then was observed to be moving.",
-        "The object changed colors from blue-green to reddish as it climbed and descended.",
-        "The object made zig-zagging movements and repeated a specific flight path three times.",
-        "The estimated speed of the object was between 40,000 and 50,000 feet per minute.",
-        "The object was observed visually by a reliable and experienced Air Force sergeant."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped, glowing object",
-    "location": "Roswell, New Mexico",
-    "witnesses": "T/Sgt. Richard Bare, USAF",
-    "photographs": "no photographs"
+    "main event": "On 12 May 1952, T/Sgt Richard Bare observed a bright glowing object in the sky, described as disc-shaped, over Roswell, New Mexico.",
+    "interesting points": "The object appeared to be a star initially but began to move,The sighting lasted approximately 25 minutes with the object changing altitude between 20,000 and 50,000 feet,The object exhibited zig-zagging movements and repeated its course three times,While climbing, the object shifted in color from dim blue-green to very bright blue-green,The weather conditions did not account for the sighting and no photographs were taken.",
+    "sighted object": "a very bright glowing disc-shaped object",
+    "location": "Roswell, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "T/Sgt Richard Bare, a Maintenance Specialist with eight years of service in the USAAF",
+    "contains photographs": false
 }

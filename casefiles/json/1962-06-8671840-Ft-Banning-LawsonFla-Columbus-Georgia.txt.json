@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright unknown object was tracked on ground radar for about 30 minutes near Ft. Lawson Station.",
-    "interesting points": [
-        "The object was first sighted at around 1930 hours on June 15, 1960.",
-        "The object was approximately 6 miles southwest of Ft. Lawson Station and was moving in a northerly direction at about 500 mph.",
-        "The object appeared to be metallic in color and no exhaust trail was observed.",
-        "The observation was made by Cpl. Collins, SP4 Glover, and SP4 Kates.",
-        "The report was forwarded to the Third United States Army and the Intelligence Section, G-2."
-    ],
-    "result": "Probably Aircraft",
-    "sighted object": "a bright unknown metallic object",
-    "location": "6.5 miles southwest of Ft. Lawson Station",
-    "witnesses": "Cpl. Collins, SP4 Glover, and SP4 Kates",
-    "photographs": "no photographs included in the report"
+    "main event": "On 15 Jun 60 at approximately 1930, three military personnel observed a bright unknown object in the sky while tracking it on Ground-Radar for about 30 minutes.",
+    "interesting points": "The object was tracked moving at about 500 mph,The sighting occurred approximately 6 miles southwest of Ft. Lawson Station,The object appeared metallic in color and left no exhaust trail,Three personnel were involved in the observation,The incident is documented as part of Project Blue Book.",
+    "sighted object": "a bright unknown object in the sky",
+    "location": "6.5 Miles S.L. Ft. Lawson Sta., Georgia, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Cpl col-lus, SP4-Glover, SP4-Kates",
+    "contains photographs": false
 }

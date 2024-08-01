@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "The report references multiple UFO sightings across various locations in New York and England during August 1963, detailing accounts of strange luminous objects observed by witnesses, including police officers and local residents.",
+    "interesting points": "The sightings involved numerous witnesses, including police officers who reported seeing a saucer-shaped object hovering and projecting beams of light., The case reported in Mexico, NY, was categorized as 'Information Only' due to its delayed reporting, making verification difficult., Reports from Walsall, England included multiple officers witnessing a glowing saucer that hovered before speeding away., A 12-year-old boy in Bilston claimed to have seen four figures inside a flying saucer, yet local police received no corroborating reports., Witnesses in Centralia, Illinois commented on bright lights in the sky that seemed to follow cars and exhibited erratic movements.",
+    "sighted object": "saucers and luminous objects in the sky",
+    "location": "Mexico, New York, USA",
+    "number of confirmed witnesses": 8,
+    "witness description": "police officers, local residents, including a boy and his friends",
+    "contains photographs": false
 }

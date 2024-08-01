@@ -1,17 +1,9 @@
-Here is the summary in the requested JSON format:
-
 {
-    "main event": "Radar operators at Selfridge Air Force Base observed unidentified blips on their radar screens that exhibited high-speed and erratic movements on March 9, 1950.",
-    "interesting points": [
-        "The radar blips were observed on both the CPS-4 and CPS-5 radar systems, suggesting they were not caused by anomalous propagation effects.",
-        "The observed speeds of the blips were estimated to be around 1,500 mph, which is beyond the capabilities of known aircraft at the time.",
-        "The blips were observed to make rapid vertical and lateral movements, including stopping in midair for several minutes.",
-        "The size of the radar blips was estimated to be similar to a B-36 bomber.",
-        "A pilot reported seeing a yellowish light descend vertically over the base before moving erratically in multiple directions over a 10-15 mile area within 4 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified radar blips",
-    "location": "Selfridge AFB, Michigan",
-    "witnesses": "radar operators, pilot",
-    "photographs": "no"
+    "main event": "An Air Force pilot reported observing a strange, glowing object descending vertically over Selfridge AFB on March 3, 1950.",
+    "interesting points": "The object hovered at approximately 5,000 feet for about one minute,It was described as having a yellowish glow similar to a house light at night,The object moved erratically, traveling significant distances in short periods,The report highlighted that the object remained stationary in free space for two minutes,Technical experts noted that the object's speed and movements exceeded the capabilities of known aircraft.",
+    "sighted object": "unidentified glowing object",
+    "location": "Selfridge AFB, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "1st Lt. with over 2,900 hours of flying time and seven months experience as Radar Controller",
+    "contains photographs": false
 }

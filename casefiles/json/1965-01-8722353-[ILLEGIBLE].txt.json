@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A report of 9 circular, diamond-shaped, green, and brilliant objects moving at 3,000 mph in an erratic and elliptic course over Ohio.",
-    "interesting points": [
-        "The objects were described as being in concentric circles in formation.",
-        "The observers were a commercial pilot named William E. Nash and his passenger Wilbur Dunlop.",
-        "The duration of the observation was 22:15 on June 2nd.",
-        "A separate observation was made by someone at the Dearborn Observatory in Illinois, who saw a brief, 5-second sighting of a bright object accelerating rapidly and disappearing.",
-        "The Dearborn Observatory concluded that the sighting was an astronomical event and did not warrant further investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "9 circular, diamond-shaped, green, and brilliant objects",
-    "location": "Village, Ohio",
-    "witnesses": "William E. Nash (commercial pilot) and Wilbur Dunlop (passenger)",
-    "photographs": "no"
+    "main event": "A report detailing multiple unidentified flying objects sightings submitted as part of Project Blue Book.",
+    "interesting points": "The report describes a variety of shapes and sizes for the objects observed, including circular and diamond-shaped objects., Nine objects were reported flying in concentric circles at a speed of 3,000 M.P.H., The observations were made by a commercial pilot and a passenger, highlighting eyewitness credibility., The report mentions a brief sighting of a bright object that vanished quickly, emphasizing the erratic nature of these sightings., The investigations concluded that some sightings could be explained as astronomical phenomena, showing a mix of skepticism and openness to various explanations.",
+    "sighted object": "unidentified flying objects including bright and circular objects",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "William E. Nash - Commercial Pilot; Wilbur Dunlop - Passenger",
+    "contains photographs": false
 }

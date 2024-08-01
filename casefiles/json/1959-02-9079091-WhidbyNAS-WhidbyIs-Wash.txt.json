@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting occurred at Whidbey NAS, Whidbey Island, Washington on 17th February 1959. The observation involved a round, blue-green object, approximately the size of a dime, lasting around 1-6 seconds. The report concluded that it was likely a balloon or a fireball.",
-    "interesting points": [
-        "The sighting lasted only 1-6 seconds, indicating a brief and fleeting observation.",
-        "The object was described as round, blue-green, and the size of a dime, providing specific details about the appearance of the UFO.",
-        "The document mentions the evaluation of fairly reliable personnel but notes that weather conditions were not conducive to keen observation, raising questions about the reliability of the sighting.",
-        "The report indicates that there were no photographs of the UFO included, suggesting a lack of visual evidence for the observation.",
-        "It was noted that the sighting was observed by military personnel, including Corporals and a 2nd Lieutenant, adding credibility to the witnesses."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "round, blue-green object, size of a dime",
-    "location": "Whidbey NAS, Whidbey Island, Washington",
-    "witnesses": "military personnel: Corporals and a 2nd Lieutenant",
-    "photographs": "no"
+    "main event": "A military personnel sighted a round, blue-green object the size of a dime at Whidbey NAS, Washington, on 17 Feb 1959.",
+    "interesting points": "The sighting lasted approximately 1 minute with the object being observed for 1-6 seconds., The reported object appeared as a round, blue-green object which was later concluded to possibly be a balloon., There were reliable military witnesses involved in the sighting., The object disappeared on the horizon moving straight from northwest to southeast., Weather conditions at the time included scattered clouds and a cirrus overcast at 14,000 feet.",
+    "sighted object": "round, blue-green object the size of a dime",
+    "location": "Whidbey Island, Washington, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "reliable military personnel from Whidbey NAS",
+    "contains photographs": false
 }

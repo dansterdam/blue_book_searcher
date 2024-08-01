@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed on radar and visually by personnel at the Miyako Jima Air Station in Okinawa, Japan.",
-    "interesting points": [
-        "The object appeared as a point of light that then grew into a distinct object, moving at an estimated speed of 600 mph.",
-        "The object changed color and shape, being comparable to a star at times.",
-        "The radar tracking was unreliable due to a defective radar system, so no conclusive identification could be made.",
-        "The object was observed for approximately 5-6 minutes, moving in an erratic pattern across the sky.",
-        "Several weather conditions were reported, including winds and cloud cover, but they did not appear to account for the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified object, initially appearing as a point of light that grew into a distinct object",
+    "main event": "An object was observed by personnel at Miyako Jima Air Station during the early morning hours, resembling a star and changing in appearance and size.",
+    "interesting points": "The object had a compass heading of 190 degrees and was estimated to be moving at approximately 600 mph according to radar measurements., Observers described its appearance changing from a point of light to a distinct object., The radar system was reportedly defective, leading to a lack of further data., The object's movement appeared erratic and was tracked for about five minutes., No conclusions could be drawn regarding the identity of the object.",
+    "sighted object": "a light resembling a star",
     "location": "Miyako Jima Air Station, Okinawa, Japan",
-    "witnesses": "personnel at the air station",
-    "photographs": "yes, the report includes a blurry photograph of the object"
+    "number of confirmed witnesses": 0,
+    "witness description": "personnel at the Miyako Jima Air Station",
+    "contains photographs": false
 }

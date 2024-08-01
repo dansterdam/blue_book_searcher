@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A woman in Pasadena, California spotted a red, fiery object in the sky on June 13, 1954 around 9:00 PM.",
-    "interesting points": [
-        "The object moved at a speed similar to an automobile before hovering and then taking off at a 'terrific speed'.",
-        "The object moved in a stop-and-go manner, changing directions sharply.",
-        "The object was silent and left a vapor trail.",
-        "The witness was viewing her television when she saw the red flash in the sky.",
-        "The witness wanted to report the sighting as an 'unidentified' object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red, fiery ball-shaped object",
-    "location": "Pasadena, California",
-    "witnesses": "a woman watching television",
-    "photographs": "no photographs included"
+    "main event": "A resident of Pasadena observed a red flash in the sky followed by a large ball of fire on June 13, 1954.",
+    "interesting points": "The witness was viewing television when they saw the flash in the sky., The object appeared to hover quietly before taking off at a high speed., The sighting lasted for about 1 minute., The witness reported that the object left a vapor trail., The object was likened to the speed of an automobile and traveled without noise.",
+    "sighted object": "a large ball of fire",
+    "location": "Pasadena, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a resident of Pasadena",
+    "contains photographs": false
 }

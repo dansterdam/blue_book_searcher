@@ -1,17 +1,9 @@
-Here is the JSON summary of the key points from the UFO report:
-
 {
-    "main event": "A group of seven blue-white luminous objects in a 'V' formation were sighted over Silver Spring, Maryland on August 5, 1957.",
-    "interesting points": [
-        "The objects were estimated to be traveling at 1,200 mph at an altitude of 100,000 feet.",
-        "There was a transparent, circular field surrounding the formation that refracted the light.",
-        "The witness viewed the objects through binoculars and estimated their size to be the size of a pinhead.",
-        "The sighting lasted for approximately 4 minutes and 30 seconds.",
-        "The witness previously reported other UFO sightings, so he was considered an unreliable source."
-    ],
-    "result": "Unknown",
-    "sighted object": "Seven blue-white luminous objects in a 'V' formation",
-    "location": "Silver Spring, Maryland",
-    "witnesses": "Civilian (unidentified)",
-    "photographs": "No"
+    "main event": "A sighting of a blue-white luminous 'V' formation of seven objects observed in Silver Springs, Maryland, on 5 August 1957.",
+    "interesting points": "The total sighting duration was 4 minutes and 30 seconds,The objects were estimated to be at an altitude of 100,000 feet, moving at a speed of 1200 mph,The size of each object was compared to the head of a pin, while the whole formation was three times the size of the moon,The sighting was made by a couple who called neighbors to witness, one of whom used binoculars for a clearer view,The source of the observation was deemed unreliable due to extreme estimates of altitude and speed.",
+    "sighted object": "seven blue-white luminous objects in a 'V' formation",
+    "location": "Silver Springs, Maryland, USA",
+    "number of confirmed witnesses": 6,
+    "witnesses": "couple and several neighbors",
+    "photographs": false
 }

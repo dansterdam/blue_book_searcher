@@ -1,15 +1,9 @@
 {
-    "main event": "Three round white objects, larger than a pea, were observed flying over Dallas, Texas on August 16, 1960.",
-    "interesting points": [
-        "The objects were observed for 15 minutes.",
-        "The objects were flying north.",
-        "The report indicates the possibility that the objects could have been balloons.",
-        "The observation was made by a civilian witness.",
-        "The report includes weather information and other details about the sighting."
-    ],
-    "result": "possible balloon",
+    "main event": "Three round white objects were observed flying over Dallas, Texas.",
+    "interesting points": "The observation lasted for 15 minutes,The objects were larger than a pea,There is a possibility that the objects could have been balloons,The sighting is recorded in a Project 10073 Record Card,The sighting was classified as a ground-visual observation.",
     "sighted object": "three round white objects",
-    "location": "Dallas, Texas",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Dallas, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "civilian",
+    "contains photographs": false
 }

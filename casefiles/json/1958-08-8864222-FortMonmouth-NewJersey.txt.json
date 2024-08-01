@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright orange object, about the size of a grapefruit, was observed moving slowly over the horizon at Fort Monmouth, New Jersey on August 15, 1958.",
-    "interesting points": [
-        "The object was described as a round sphere, like the head of a pin 1/2 inches away.",
-        "The object was moving at a constant speed of 39 degrees per minute.",
-        "The sighting lasted 2-3 minutes and was observed visually from the ground using binoculars.",
-        "The weather was clear at the time of the sighting.",
-        "The sighting occurred in a heavily traveled air lane between Red Bank and Coggle."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright orange object, about the size of a grapefruit",
-    "location": "Fort Monmouth, New Jersey",
-    "witnesses": "civilian engineer and NSA signal lab personnel",
-    "photographs": "none"
+    "main event": "A bright orange spherical object was observed moving slowly over the horizon near Fort Monmouth, New Jersey.",
+    "interesting points": "The object was described as being about the size of a grapefruit., Witnesses utilized binoculars to observe the object., The sighting lasted for approximately 2-3 minutes., The object had no visible exhaust or vapor., The observation took place during clear weather.",
+    "sighted object": "a bright orange spherical object",
+    "location": "Fort Monmouth, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilians from NSA Signal Labs",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Two silver objects were observed in the sky for fifteen minutes.",
-    "interesting points": [
-        "The objects appeared to be moving at five times the speed of the wind, which does not clearly support the balloon theory.",
-        "Two qualified balloon directors stated that the objects were part of Navy Project Moby Dick, suggesting they were balloons.",
-        "The description of the sighting led to the conclusion that the objects were probably balloons.",
-        "There were no photographs included in the report.",
-        "The report was submitted by a civilian source."
-    ],
-    "result": "probable balloons",
-    "sighted object": "two silver objects",
-    "location": "Washington State, Geoerf DKBB3929",
-    "witnesses": "civilian observers",
-    "photographs": "none"
+    "main event": "Two large silver objects were observed in the sky, fading out of sight after fifteen minutes.",
+    "interesting points": "The objects were moving at 5 times the speed of the wind,Two qualified balloon directors suggested the objects were part of Navy Project Moby Dick,The sighting lasted for fifteen minutes, The observers were civilians, The report was part of Project Blue Book.",
+    "sighted object": "two large silver objects",
+    "location": "Washington State, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilians",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple sightings of unidentified flying objects (UFOs) in the Cleveland, Ohio area in 1955.",
-    "interesting points": [
-        "The objects were described as round, glowing in various colors (red, orange, white, green), and making no sound.",
-        "The objects were seen at low altitudes, sometimes hovering or moving slowly, and then accelerating rapidly and disappearing.",
-        "Multiple witnesses, including civilians and a member of the UFORC (Unidentified Flying Object Research Council), reported the sightings.",
-        "The Air Force investigated the cases and concluded that some were likely misidentifications of aircraft or astronomical phenomena, while others remained unexplained.",
-        "The UFORC believed the objects were of extraterrestrial origin and a potential threat to national security, though the Air Force did not come to the same conclusion."
-    ],
-    "result": "Unexplained",
-    "sighted object": "Round, glowing objects in various colors",
-    "location": "Cleveland, Ohio",
-    "witnesses": "Civilians, UFORC member",
-    "photographs": "No"
+    "main event": "Multiple sightings of unidentified flying objects reported in Cleveland, Ohio on October 22, 1955.",
+    "interesting points": "Witnesses described a circular, bright orange glow observed at various altitudes, some reported a humming sound, Reports indicated a glowing object that accelerated rapidly, Some witnesses compared the object to a traditional flying saucer and estimated its size to be as large as a house, The sightings coincided with testimonies of a light in the sky that was motionless before it zoomed away.",
+    "sighted object": "Bright orange circular object with alternating colors of lights",
+    "location": "Cleveland, Ohio, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "Witnesses included a scientist and local residents who observed the object at varying times and described its size, shape, and behavior.",
+    "contains photographs": false
 }

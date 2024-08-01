@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A possible satellite-sized object was visually sighted traveling west to east at 34N 176W.",
-    "interesting points": [
-        "The object was the size of a fingernail's head and was 42 degrees above the horizon.",
-        "The object's speed was unknown.",
-        "The report notes that the easterly heading is inconsistent with the object being a satellite, and it is evaluated as possibly being a satellite but with some uncertainties.",
-        "The report mentions a CIRVIS (Civil Air Regulations for Intercept Verification of Space Objects) report number N43213.",
-        "The report contains various celestial event times, such as new moon, lunar eclipse, and Venus in superior conjunction."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a possible satellite-sized object",
+    "main event": "A military observation noted a visual sighting of a possible satellite at an altitude of 42° above the horizon on January 31, 1962.",
+    "interesting points": "The object was reported as being the size of a fingernail seen for 2 minutes,An echo was detected at a different location coinciding with the sighting,Multiple codes and technical terms were used in the report,The location was at 34N 176W,There was speculation that the object might have been the satellite Echo but the heading was inconsistent.",
+    "sighted object": "possible satellite",
     "location": "34N 176W",
-    "witnesses": "military",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witnesses": "military personnel",
+    "photographs": false
 }

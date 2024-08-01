@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "Sighting of an unidentified object in the Cook Islands, South Pacific",
-    "interesting points": [
-        "The object was initially noticed hovering silently, then moving slowly.",
-        "The object exhibited varying colors, mostly orange to red.",
-        "The object disappeared from sight almost due south.",
-        "The sighting lasted for 2-3 minutes and was observed by 3 witnesses.",
-        "The high speed, trail, and duration of the object, as well as its observation characteristics, suggest it was likely an aircraft, but there was insufficient data to evaluate it conclusively."
-    ],
-    "result": "unexplained",
-    "sighted object": "A single unidentified object",
+    "main event": "A sighting of an unidentified flying object occurred in the Cook Islands, South Pacific on September 8, 1960.",
+    "interesting points": "The object was initially noticed hovering silently,The object displayed varying colors, predominantly orange and red,The sighting lasted for 2-3 minutes,Three witnesses confirmed the sighting,Comments suggested the object could be an aircraft due to its high speed and duration.",
+    "sighted object": "one unidentified flying object",
     "location": "Cook Islands, South Pacific",
-    "witnesses": "3 civilians",
-    "photographs": "no"
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians",
+    "contains photographs": false
 }

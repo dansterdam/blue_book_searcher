@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a cigar-shaped object traveling slowly over Kings Park, Long Island, New York on May 24, 1957.",
-    "interesting points": [
-        "The object was about an inch long with a diameter of one-seventh the length, leaving no exhaust or vapor trail.",
-        "The object traveled slowly and then suddenly gained altitude and disappeared.",
-        "The observer noted that the object's slow speed would cause a normal aircraft to stall.",
-        "The observer compared the object's size to that of a nickel or quarter held at arm's length.",
-        "A C-119 aircraft and a jet aircraft were observed in the same general area around the time of the sighting."
-    ],
-    "result": "unknown",
+    "main event": "A witness observed a cigar-shaped object in the sky over Kings Park, Long Island, NY on May 24, 1957.",
+    "interesting points": "The object was observed for 1 and a half minutes and appeared to be slowly moving south., The object had no visible wings or tail assembly and left no exhaust or vapor trail., The object's size was estimated to be between a nickel and a quarter at arm's length., The object changed shape from cigar-shaped to circular during the last 10 seconds of observation., The witness shouted to a coworker who was able to see the object as well.",
     "sighted object": "cigar-shaped object",
-    "location": "Kings Park, Long Island, New York",
-    "witnesses": "Edmond B. McCabe, civilian",
-    "photographs": "no"
+    "location": "Kings Park, Long Island, NY, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Edmond B. McCabe, working on a high tension line",
+    "contains photographs": false
 }

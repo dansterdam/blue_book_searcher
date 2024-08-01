@@ -1,15 +1,9 @@
 {
-    "main event": "A 9-year-old boy reported seeing an object with multi-colored lights moving up and down in the northeast sky near Portland, Maine in 1968.",
-    "interesting points": [
-        "The observer's mother wrote that she believes the boy wanted to see something and although he believes it, she does not feel the report is reliable due to the observer's young age.",
-        "The report notes that the observer's sighting is being considered as an 'Unreliable report because of age'.", 
-        "A dog was reportedly scared by the phenomenon.",
-        "There is a handwritten sketch or diagram of the observed object included in the report.",
-        "The report mentions that there were no photographs or physical evidence of the sighting."
-    ],
-    "result": "unreliable report",
-    "sighted object": "object with multi-colored lights",
-    "location": "Portland, Maine",
-    "witnesses": "9-year-old boy",
-    "photographs": "no"
+    "main event": "A 9-year-old boy observed a multi-colored light object moving in the northeast direction in Portland, Maine in 1968.",
+    "interesting points": "The sighting lasted between 2-10 minutes., The observer's mother expressed doubt about the reliability of his report., The object was described to be moving up and down., The report is categorized as 'Unreliable' due to the observer's young age., The sighting occurred in an urban area which had little corroborating evidence.",
+    "sighted object": "an object with multi-colored lights",
+    "location": "Portland, Maine, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 9-year-old boy",
+    "contains photographs": false
 }

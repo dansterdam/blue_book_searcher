@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A bright light was seen in the sky over Newtown, Ohio on January 27, 1964, which appeared to fall beyond the horizon and turn greenish-blue in color.",
-    "interesting points": [
-        "The object was described as looking like a 'bright Roman candle that fizzled'.",
-        "The object was observed on multiple sides of Cincinnati, Ohio.",
-        "The object made a 'noise like a metal object hitting another metal object'.",
-        "The object moved at a high speed and 'streaked away' after being observed for several minutes.",
-        "Other people in the area reported seeing similar objects around the same time."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light that turned greenish-blue",
-    "location": "Newtown, Ohio",
-    "witnesses": "multiple witnesses, including a farmer named Neil Tavistock",
-    "photographs": "no photographs available"
+    "main event": "A UFO was observed in Newtown, Ohio on January 27, 1964, that looked like a bright Roman candle and appeared to fizzle before falling beyond the horizon.",
+    "interesting points": "The sighting lasted for 2-3 seconds., The object changed color to greenish-blue., The object was reported to be seen from multiple locations around Cincinnati., The sound described was like metal hitting metal., The object was suggested to be a meteor by military investigators.",
+    "sighted object": "a bright Roman candle-like object",
+    "location": "Newtown, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Neil Tavistock, a 52-year-old male resident of Newtown, Ohio.",
+    "contains photographs": false
 }

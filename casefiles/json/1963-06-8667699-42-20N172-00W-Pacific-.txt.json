@@ -1,15 +1,9 @@
 {
-    "main event": "A silver object about 23 degrees above the horizon was observed for 3 minutes moving at high speed.",
-    "interesting points": [
-        "The object was initially thought to be a balloon or satellite, but the duration of the sighting was consistent with an aircraft.",
-        "The observation did not indicate features of an aircraft, however, and the object was heavy monitoring this sector.",
-        "The case was considered as Insufficient Data.",
-        "The object was observed at coordinates 32.20N 172.00W in the Pacific Ocean.",
-        "The sighting occurred at 0555L on 7 FEB 1963."
-    ],
-    "result": "Insufficient Data",
-    "sighted object": "silver object",
-    "location": "Pacific Ocean, 32.20N 172.00W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A silver object was observed moving at high speed at a bearing of SSE on 7 February 1963.",
+    "interesting points": "The object was seen approximately 23 degrees above the horizon., The observation lasted for 3 minutes., The sighting was categorized under possible balloon, possible satellite or was an aircraft., The report notes inconsistency with features typical of aircraft., The case was considered insufficient data for definitive conclusions.",
+    "sighted object": "one silver object",
+    "location": "Pacific Ocean, Pacific",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

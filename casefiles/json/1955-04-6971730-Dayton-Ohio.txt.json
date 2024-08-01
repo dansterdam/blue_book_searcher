@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A saucer-shaped metallic object was observed in the sky near Dayton, Ohio on April 6, 1955.",
-    "interesting points": [
-        "The object was flat on the bottom, rounded on the top, silent, and disappeared gradually.",
-        "The witness estimated the size of the object to be approximately 100 ft x 10 ft, with a depth of 20 ft at the widest part.",
-        "The object appeared to move from 60 degrees from true north to 100 degrees from true north, at an elevation of about 60 degrees from the horizon.",
-        "The witness was taking a photograph of the object when it first appeared, and then observed it for about 5 minutes.",
-        "The witness believed the object was a high-speed craft that could not be explained as a conventional natural phenomenon or man-made device."
-    ],
-    "result": "unexplained",
-    "sighted object": "a saucer-shaped metallic object",
-    "location": "Dayton, Ohio",
-    "witnesses": "a rocket test operator",
-    "photographs": "yes, the witness took a photograph of the object"
+    "main event": "On April 6, 1955, a UFO sighting was reported in Dayton, Ohio involving an object observed for 2-3 minutes.",
+    "interesting points": "The object was compared to fireworks and identified as a balloon,However, observers simultaneously witnessed an aircraft,The object disappeared gradually and noiselessly,The witness described the object as flat on the bottom, rounded on the top, and metallic grayish in color,The estimated size of the object was 100 ft. by 10 ft.",
+    "sighted object": "unidentified flying object (UFO)",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 39-year-old male rocket test operator with specialized training in radio mechanics and aircraft overhaul.",
+    "contains photographs": false
 }

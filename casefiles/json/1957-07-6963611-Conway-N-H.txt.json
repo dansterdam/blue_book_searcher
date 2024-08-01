@@ -1,15 +1,9 @@
 {
-  "main event": "A circular, green, and maneuverable object was observed moving through the sky for approximately 15 seconds in July 25, 1957 at location DC 277.",
-  "interesting points": [
-    "The sighting was of a circular, green, and maneuverable object.",
-    "The observation lasted for approximately 15 seconds.",
-    "The handwritten document includes a note about larger stars with flashing lights appearing different than usual stars in the Orion constellation.",
-    "There are handwritten notes and calculations related to the UFO sighting.",
-    "The report indicates that the sighting was considered Possibly Balloon, Possibly Aircraft, or Possibly Astronomical."
-  ],
-  "result": "Possibly Balloon, Possibly Aircraft, or Possibly Astronomical",
-  "sighted object": "circular, green, and maneuverable object",
-  "location": "DC 277",
-  "witnesses": "unknown",
-  "photographs": "no"
+    "main event": "A witness observed a circular, green, and maneuverable object in the sky for approximately 15 seconds on July 16, 1957.",
+    "interesting points": "The sighting occurred at 7:55 PM on July 16, 1957., The object was described as being circular and green., The witness commented that the outer haze of Orion stars was not visible at the time., The observed object appeared larger than usual stars and had flashing lights., The report indicates that the sighting could be possibly categorized as a balloon, aircraft, or astronomical phenomenon.",
+    "sighted object": "circular green object",
+    "location": "DC 277, Unknown Region, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer who saw the object and reported it",
+    "contains photographs": false
 }

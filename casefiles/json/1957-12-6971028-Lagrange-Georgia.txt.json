@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military officer spotted an unusual object with the appearance of a star over LaGrange, Georgia on December 24, 1957.",
-    "interesting points": [
-        "The object appeared silver and was estimated to be 20 miles high.",
-        "The object moved westward and its flight pattern was considered unusual by the witness.",
-        "The report was submitted as part of the United States Air Force's Project Blue Book investigation.",
-        "The report includes details such as the time, location, and duration of the sighting.",
-        "The report concludes that the object was possibly a balloon or aircraft, but there was insufficient data for a proper evaluation."
-    ],
-    "result": "unknown",
-    "sighted object": "one silver object with the appearance of a star",
-    "location": "LaGrange, Georgia",
-    "witnesses": "military officer",
-    "photographs": "no"
+    "main event": "An unusual sighting of a silver object resembling a star was reported in LaGrange, Georgia on December 24, 1957.",
+    "interesting points": "The object was observed at a height of 20 miles,The sighting lasted between 5 to 10 minutes,The object moved westward,The report stated the object exhibited unusual flight patterns,There was insufficient data to determine the nature of the object.",
+    "sighted object": "a silver object resembling a star",
+    "location": "LaGrange, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "individuals who considered the flight patterns unusual",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A large UFO passed over San Diego on September 11, 1961 at 0215 hours.",
-    "interesting points": [
-        "The object was described as an orange-yellow 'boiler shape' that was flashing.",
-        "The witness stated that the U.S. can make present-shaped objects with flashing and rotating lights.",
-        "The witness was upset that the Air Force dismissed the sighting as a 'natural phenomenon' and insulted expert witnesses.",
-        "The witness noted that the Air Force issues news releases about UFO sightings, despite claiming they are unimportant.",
-        "The witness questioned why the Air Force confiscates photographs and data from people who have evidence of 'flying saucers'."
-    ],
-    "result": "unexplained",
-    "sighted object": "large orange-yellow 'boiler shaped' object with flashing lights",
-    "location": "San Diego, California",
-    "witnesses": "single witness",
-    "photographs": "no photographs present"
+    "main event": "A large UFO passed over San Diego, California, on September 11, 1961, appearing orange-yellow and boiler-shaped.",
+    "interesting points": "The sighting lasted 3 minutes and occurred at 2:15 AM., The UFO was described as having flashing and rotating lights., The report was communicated via a letter dated February 17, 1962., There was no investigation made by the Air Force at the time of the sighting., The response to the news release questioned the credibility of DOD's conclusions about UFOs.",
+    "sighted object": "large orange-yellow boiler-shaped UFO",
+    "location": "San Diego, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described the UFO as larger than six standard bombers and not resembling a disc.",
+    "contains photographs": false
 }

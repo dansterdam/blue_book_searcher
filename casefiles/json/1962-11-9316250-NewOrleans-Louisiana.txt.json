@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-  "main event": "Two bright flashes reported on the moon",
-  "interesting points": [
-    "The report indicates that the only information given was that bright flashes were reported on the moon.",
-    "The case was considered as having insufficient data for evaluation.",
-    "The report mentions a request for any unusual phenomena to be investigated and an official judgment noted at approximately the same time.",
-    "The report suggests the possibility of a Soviet lunar probe as a probable explanation if one was in progress at that time.",
-    "The report was dispatched immediately to C.A. Saunders."
-  ],
-  "result": "Insufficient data for evaluation",
-  "sighted object": "Bright flashes on the moon",
-  "location": "New Orleans, Louisiana",
-  "witnesses": "Unknown",
-  "photographs": "Yes, but not included in the provided image"
+    "main event": "Two bright flashes were reported on the moon from New Orleans.",
+    "interesting points": "The sightings occurred on November 11, 1962 at 232202 hours., The observation was classified as ground-visual., The case was considered insufficient for evaluation., No photographs were included in the report despite earlier mentions., The report speculated about a potential Soviet lunar probe as a possible explanation.",
+    "sighted object": "bright flashes on the moon",
+    "location": "New Orleans, Louisiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses were documented in the report",
+    "contains photographs": false
 }

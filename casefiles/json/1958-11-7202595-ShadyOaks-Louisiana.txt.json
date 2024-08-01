@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "An observer saw a stationary white light in the air that suddenly became 3 or 4 lights and moved at high speed before disappearing behind trees.",
-    "interesting points": [
-        "The light initially appeared as a stationary white light, then suddenly became a larger shape similar to a helicopter.",
-        "The object accelerated and was estimated to move at speeds between 350-450 mph.",
-        "The object made a sharp right-angle turn and moved to the southwest behind the observer.",
-        "Weather forecasters reported a weather balloon from a nearby air force base, which was considered a possible explanation.",
-        "The observer's wife corroborated the sighting, making a light fixation theory less likely."
-    ],
-    "result": "unexplained",
-    "sighted object": "a stationary white light that became multiple lights",
-    "location": "Shady Oaks, Louisiana",
-    "witnesses": "civilian observer",
-    "photographs": "none"
+    "main event": "A witness observed a bright white light in the sky that changed appearance and intensified before dimming again.",
+    "interesting points": "The light was initially seen as stationary and then transformed into multiple lights,The object was described to be approximately the size of a baseball or grapefruit,The object moved at an estimated speed of 350 to 450 mph,The observation lasted between 5 to 10 minutes,The witness noted that the object disappeared behind trees after moving away.",
+    "sighted object": "a bright white light that transformed into multiple lights",
+    "location": "Shady Oaks, Louisiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, fast-moving, flashing white light was observed by an airline crew cutting across their flight path.",
-    "interesting points": [
-        "The object was first noticed while the crew was looking for a satellite.",
-        "The object was observed for about 1 minute, fading out of view.",
-        "The object moved from the 3 o'clock position to the 11 o'clock position relative to the aircraft.",
-        "The observer was a member of the Royal Astronomical Society and had previously observed a satellite in the same area.",
-        "The pulsing of the light was considered too long to be from an aircraft navigation light."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large, bright, flashing white light",
-    "location": "55 miles west of Winnipeg, Canada",
-    "witnesses": "Airline crew of Air Canada flight V-178",
-    "photographs": "No"
+    "main event": "On February 19, 1965, a large, fast-moving, flashing white light was observed for 11 minutes 55 miles west of Winnipeg, Canada.",
+    "interesting points": "The sighting was reported by a Civil Airlines source., The object was described as very fast and large, with a brilliant white light., The observer was looking for a satellite when they noticed the fast-moving light., The object cut across an aircraft's flight path from 3 o'clock to 11 o'clock., The conclusion pointed towards the object being an aircraft.",
+    "sighted object": "very fast large unsteady flashing white light",
+    "location": "Winnipeg, Manitoba, Canada",
+    "number of confirmed witnesses": 1,
+    "witness description": "a member of the Royal Astronomical Society",
+    "contains photographs": false
 }

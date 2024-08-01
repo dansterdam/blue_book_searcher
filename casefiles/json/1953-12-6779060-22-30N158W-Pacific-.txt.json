@@ -1,15 +1,9 @@
 {
-    "main event": "Radar detected a large, indefinite object moving at high speed (approximately 2,300 knots) in the Pacific Ocean.",
-    "interesting points": [
-        "The object appeared elliptical in shape on the radar scope.",
-        "The object was observed at altitudes between 15,000 and 23,992 feet.",
-        "The sighting was made by a Navy Captain, Paul Cosciarelli, who was on board an aircraft.",
-        "The weather conditions at the time of the sighting were cloudy with high-altitude stratus clouds and winds of 25 degrees at 12 knots.",
-        "The sighting lasted for approximately 4 minutes on radar."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, indefinite radar target",
-    "location": "Pacific Ocean, 22.30N 158W",
-    "witnesses": "Navy Captain Paul Cosciarelli",
-    "photographs": "no"
+    "main event": "Navy Captain Paul Coscarelli reported a sighting of an unidentified object with an elliptical shape on December 17, 1953.",
+    "interesting points": "The sighting was made using air-intercept radar which indicated a large unidentified radar target traveling west at high speed, approximately 2300 knots., The object left a trail that gave it a comet-like appearance., The altitude of the object ranged between 15,000 and 23,992 feet., The weather conditions at the time included cloudy skies with winds at 12 knots., The sighting lasted for a total of 4 minutes.",
+    "sighted object": "unidentified elliptical object",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "Navy Captain Paul Coscarelli",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were detected on radar in Belleville, Michigan on November 4, 1957.",
-    "interesting points": [
-        "The objects were approximately 3/4 the size of a small object and 'jumped around' the area.",
-        "The objects were detected on ground radar for 2 to 3 minutes.",
-        "The objects remained stationary during the sighting.",
-        "The case was classified as 'Unable to Identify, Possible Aircraft'.",
-        "No photographs were included in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects on radar",
-    "location": "Belleville, Michigan",
-    "witnesses": "ground radar operators",
-    "photographs": "no"
+    "main event": "Two unidentified objects were observed using ground radar on November 4, 1957.",
+    "interesting points": "The observation lasted for 2 to 3 minutes., The objects appeared stationary while being tracked., They were estimated to be 3/4 the size of a small object., The report concluded that the objects were unable to be identified, possibly an aircraft., The sighting occurred in Belleville, Michigan.",
+    "sighted object": "two unidentified objects",
+    "location": "Belleville, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

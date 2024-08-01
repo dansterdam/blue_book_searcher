@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An airline pilot spotted a single unidentified object while flying over Aberdeen, Maryland on November 24, 1956.",
-    "interesting points": [
-        "The object appeared directly across the flight path of the observer's aircraft, 30 to 40 miles in front.",
-        "The estimated trajectory of the object indicated it would make contact with the ground or the east side of a bay or river to the east of Aberdeen.",
-        "The observation lasted for five minutes.",
-        "The pilot reported seeing a fire in the approximate area of the sighting for about ten minutes after the estimated time of the incident.",
-        "The report concludes that there was insufficient data to draw any conclusions about the nature of the observed object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a single unidentified object, described as resembling a rocket",
-    "location": "Aberdeen, Maryland",
-    "witnesses": "an airline pilot",
-    "photographs": "none"
+    "main event": "An airline pilot observed a rocket-like object during a flight on November 24, 1956.",
+    "interesting points": "The object was directly across the flight path of the observer at 30 to 40 miles ahead., The observation lasted approximately five minutes., The estimated trajectory of the object suggested it would make contact with the ground east of Aberdeen., After the estimated time of contact, a fire was seen in the area for about ten minutes., The sighting was made while airborne in an Eastern Airlines Constellation.",
+    "sighted object": "one rocket-like object",
+    "location": "Aberdeen, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Airline pilot for 20 years, Captain Jame Hackett",
+    "contains photographs": false
 }

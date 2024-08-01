@@ -1,17 +1,9 @@
-Here is the JSON summary of the information provided in the UFO report:
-
 {
-    "main event": "A military aircraft spotted a UFO that approached and passed it, with both visual and radar contact, in 1965.",
-    "interesting points": [
-        "The object was spotted in the vicinity of Indianapolis and confirmed by the control tower.",
-        "The object made a short dash towards Indianapolis and then returned to its original location.",
-        "The sighting lasted for about 5-10 minutes.",
-        "The object was described as a disc-shaped, bright silver object, 28-30 feet in diameter, that moved at very high speed with no vapor trail.",
-        "The witness was flying an aircraft at around 200 mph when the sighting occurred, and they stopped or slowed down to observe the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped, bright silver object",
-    "location": "Near East 1 mile N of the Town",
-    "witnesses": "military personnel in an aircraft",
-    "photographs": "no"
+    "main event": "A military report of a UFO sighting near Indianapolis confirmed by visual and radar contact.",
+    "interesting points": "The object was observed for 3 to 5 seconds,No sound was heard during the sighting,The UFO made a short dash toward Indianapolis before returning,No physical evidence was collected,The sighting was related to Project Blue Book.",
+    "sighted object": "unidentified flying object",
+    "location": "Indianapolis, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "L/Cpl DeLoughary of the 17th Bomb Wing reported the sighting.",
+    "contains photographs": false
 }

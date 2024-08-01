@@ -1,15 +1,9 @@
 {
-    "main event": "A single unidentified flying object was sighted on March 3, 1966 at coordinates 19-28N 66-07W in the Atlantic Ocean.",
-    "interesting points": [
-        "The sighting occurred at 222237Z (10:22 PM UTC).",
-        "The object was traveling on a course of 000 degrees (north).",
-        "The speed and altitude of the object were not reported.",
-        "The sighting was reported by military sources.",
-        "No photographs were taken of the object."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "single unidentified flying object",
-    "location": "Atlantic Ocean, 19-28N 66-07W",
-    "witnesses": "military",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported in the Atlantic Ocean on March 3, 1966.",
+    "interesting points": "The UFO was described as a single unidentified object,The location of the sighting was noted at latitude 18.28N and longitude 66.07W,Speed of the object was unknown, Altitude was visually estimated at 100, The report concludes there is insufficient data for evaluation.",
+    "sighted object": "one unidentified flying object",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 0,
+    "witness description": "military source",
+    "contains photographs": false
 }

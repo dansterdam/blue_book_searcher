@@ -1,17 +1,9 @@
-Based on the provided text, here is the JSON summary:
-
 {
-    "main event": "A triangular-shaped object, approximately 30 feet in length and emitting a bluish-white glow, was sighted near the intersection of Routes 1 and 3 about 5 miles north of Philadelphia, Pennsylvania on December 9, 1963.",
-    "interesting points": [
-        "The object was observed by two observers while traveling in an automobile at an altitude of approximately 500 feet.",
-        "The object was observed for about 2 minutes before suddenly disappearing, with no sound reported by the observers.",
-        "The University of Pennsylvania's Flower and Cook Observatory was interested in receiving any information on UFO sightings over Pennsylvania, as they were becoming quite frequent.",
-        "The observatory was particularly interested in verified sightings by trained observers, as they would provide more reliable data.",
-        "The Foreign Technology Division of the Air Force advised that they had not received any reports on this particular sighting, but would disseminate any reports they received to the University of Pennsylvania."
-    ],
-    "result": "unexplained",
-    "sighted object": "a triangular-shaped object, approximately 30 feet in length and emitting a bluish-white glow",
-    "location": "near the intersection of Routes 1 and 3, about 5 miles north of Philadelphia, Pennsylvania",
-    "witnesses": "two observers traveling in an automobile",
-    "photographs": "no photographs available"
+    "main event": "On December 9, 1963, two observers reported sighting an unknown flying object near Philadelphia, Pa.",
+    "interesting points": "The object was described as triangular in shape and approximately 30 feet in length., It emitted a bluish-white glow., The sighting occurred at an estimated altitude of 500 feet., The observers reported no sound associated with the sighting., The object was observed for about 2 minutes before disappearing.",
+    "sighted object": "unknown flying object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "observers traveling in an automobile",
+    "contains photographs": false
 }

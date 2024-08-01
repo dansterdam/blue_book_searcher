@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A military aircraft spotted one unidentified flying object over Rock Springs, Wyoming on December 29, 1953.",
-    "interesting points": [
-        "The object changed color from red to white, similar to a heated metal or a blinking light.",
-        "The object was estimated to be between 1,500 and 2,000 mph in speed.",
-        "There were two objects in formation, about 4 miles apart, with no trail or exhaust visible.",
-        "One of the objects disappeared by going north, while the other went straight up.",
-        "The sighting lasted for 7 minutes and was observed from a C-47 military aircraft."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "one unidentified object",
-    "location": "Rock Springs, Wyoming",
-    "witnesses": "military aircraft crew",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed changing color from red to white in Rock Springs, Wyoming, on December 29, 1953.",
+    "interesting points": "The object changed color from red to white, possibly indicating a heated surface or a blinking light,It was observed in a formation with another object, four miles apart,The object's speed was estimated to be between 1500 and 2000 mph,The sighting lasted for approximately 7 minutes,The total evaluation concluded insufficient data due to vague information.",
+    "sighted object": "one unidentified flying object",
+    "location": "Rock Springs, Wyoming, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observed from a C-47 military aircraft",
+    "contains photographs": false
 }

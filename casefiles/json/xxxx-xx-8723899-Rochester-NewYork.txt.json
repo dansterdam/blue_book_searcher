@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A person sighted a large yellowish-white object that looked like an inverted soup bowl. The object traveled northeast and disappeared over the horizon.",
-    "interesting points": [
-        "The object moved in a northeast direction and disappeared over the horizon.",
-        "The observer stated the object was a large yellowish-white color and shaped like an inverted soup bowl.",
-        "The report includes instructions for describing the object's size, speed, and location relative to the observer.",
-        "The observer was asked to draw a picture showing the object's shape, motion, and direction of travel.",
-        "The report includes a section for the observer to provide additional details about the sighting, including any previous sightings."
-    ],
-    "result": "Insufficient data",
-    "sighted object": "Large yellowish-white object shaped like an inverted soup bowl",
-    "location": "Rochester, New York",
-    "witnesses": "1 observer",
-    "photographs": "No"
+    "main event": "An observer sighted a large yellowish-white object resembling an inverted soup bowl traveling northeast and disappearing over the horizon.",
+    "interesting points": "The sighting was reported as having insufficient data for further analysis., The object was reported to have a metallic sound and a red luminous color., The observer described the object's angular size as covering a quarter with a match head., The report includes a mention of other witnesses whose details have been redacted., The case was documented under Project Blue Book, which investigates UFO sightings.",
+    "sighted object": "large yellowish-white inverted soup bowl-shaped object",
+    "location": "Rochester, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 25-year-old male who reported the sighting.",
+    "contains photographs": false
 }

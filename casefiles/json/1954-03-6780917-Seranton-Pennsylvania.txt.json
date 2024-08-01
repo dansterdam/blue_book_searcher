@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed over Scranton, Pennsylvania in 1952.",
-    "interesting points": [
-        "The object was described as cylindrical in shape, approximately 40 to 50 feet in length, and giving off a bright steady light.",
-        "The object was observed traveling at an estimated speed of 400 to 500 miles per hour at an altitude of approximately 15,000 feet.",
-        "The observer was a trained observer and the object was not picked up on radar.",
-        "A night watchman in Scranton reported seeing a flying saucer that paralyzed him for 30 minutes while it hovered over him.",
-        "The night watchman asked for information or an explanation as to why he was paralyzed during the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "cylindrical object with bright light",
-    "location": "Scranton, Pennsylvania",
-    "witnesses": "trained observer, night watchman",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed in Scranton, Pennsylvania, on 15 November 1952, by a trained observer who described it as cylindrical and glowing.",
+    "interesting points": "The object was observed at an altitude of approximately 15,000 feet for about 3 to 5 minutes., The object traveled at an estimated speed of 400 to 500 miles per hour., It was described as being 40 to 50 feet in length and emitted a bright steady light., The object did not show any trails or exhaust and was not detected on radar., A witness reported seeing 8 to 10 metallic objects flying in a straight line at an altitude of 6,000 to 8,000 feet shortly after the incident.",
+    "sighted object": "cylindrical object emitting a bright light",
+    "location": "Scranton, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was a trained observer and later described an incident where they felt paralyzed while looking at the object.",
+    "contains photographs": false
 }

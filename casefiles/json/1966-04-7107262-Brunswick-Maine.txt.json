@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three round, alternately colored objects were observed in the sky over Brunswick, Maine in 1966.",
-    "interesting points": [
-        "The objects were a little larger than a large star and varied in color between red, green, and white.",
-        "One of the objects left a trail similar to a fireworks rocket when it moved across the sky at high speed before slowing down.",
-        "Two of the objects remained stationary throughout the sighting, while the third moved from 32 degrees above the horizon to 10 degrees above the horizon.",
-        "The sighting was observed by multiple witnesses over a period of approximately 30 minutes.",
-        "The observers could not provide a definitive explanation for the sighting, though they noted the similarity to stars or planets."
-    ],
-    "result": "unexplained",
-    "sighted object": "three round, alternately colored objects",
-    "location": "Brunswick, Maine",
-    "witnesses": "three civilian observers",
-    "photographs": "none"
+    "main event": "Two separate UFO sightings were reported in Brunswick, Maine, involving one object on April 18, 1966, and three objects on April 22, 1966.",
+    "interesting points": "On April 18, 1966, two witnesses observed a single object for 4-5 seconds, perceived to be a meteor,The April 22, 1966 sighting involved three widely separated objects alternately glowing red and white, visible for about one minute,The observers included a 24-year-old US Navy enlisted member and two students, all with excellent reliability ratings,The moving object in the April 22 sighting left a trail similar to a fireworks rocket,The stationary objects remained visible for approximately 30 minutes before observers lost interest.",
+    "sighted object": "one object (possibly a meteor) and three glowing objects (red and white)",
+    "location": "Brunswick, Maine, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "two students and a US Navy enlisted member, all with excellent reliability ratings",
+    "contains photographs": false
 }

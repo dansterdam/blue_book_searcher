@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, flashing light was observed in the sky over Guam, disappearing at an elevation of about 5 degrees above the horizon.",
-    "interesting points": [
-        "The object was observed for 1-2 hours, appearing as a 'fiery magnitude star' and then suddenly disappearing.",
-        "The sighting location was at latitude 11-41-N and longitude 144-54-E.",
-        "The object was observed through binoculars and appeared as a point source with slow movement.",
-        "No air contacts were detected by radar.",
-        "The object was believed to be a satellite."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, flashing light",
+    "main event": "A military report documents a UFO sighting over SE Guam on December 19, 1960.",
+    "interesting points": "The observation lasted for 15 minutes,The sighting involved one object that followed a course of 260 degrees,Characteristics of the object suggested it might be a satellite,The object was observed in clear skies with clouds at a 13-degree elevation,The UFO disappeared from sight after flashing brightly while moving slowly.",
+    "sighted object": "one unidentified flying object",
     "location": "SE Guam",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "no human faces or witnesses recorded in the report",
+    "contains photographs": false
 }

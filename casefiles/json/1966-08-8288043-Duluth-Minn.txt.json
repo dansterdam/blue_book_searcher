@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report text:
-
 {
-    "main event": "A white point of light was observed traveling towards the northeast in Duluth, Minnesota on August 26, 1966.",
-    "interesting points": [
-        "The object was observed near the zenith and traveled southeast until it disappeared.",
-        "The observers noted the object was likely a satellite (ECHO II) in the area at the time of the observation.",
-        "The report mentions a recent local wave of silent, glowing, low objects seen at night, which were not balloons due to the winds.",
-        "The report suggests the sighting could be a satellite, aircraft, or atmospheric inversion.",
-        "No physical evidence was collected, and the sighting lasted for approximately 5 minutes."
-    ],
-    "result": "Probable Satellite (ECHO II)",
-    "sighted object": "A white point of light",
-    "location": "Duluth, Minnesota",
-    "witnesses": "2 civilian observers",
-    "photographs": "No photographs available"
+    "main event": "Observers in Duluth witnessed a white point of light in the sky, suspected to be the ECHO II satellite.",
+    "interesting points": "The object was observed traveling toward the northeast for about 5 minutes., The sighting occurred near the zenith of the sky., The observers included a tavern owner and another individual named George Verzich., The report concluded the object was likely a satellite., The weather was reported as clear during the sighting.",
+    "sighted object": "a white point of light in the sky",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "tavern owner and another person",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One oblong, square-shaped object, the size of a baseball, was observed over Cumberland, Virginia on September 25, 1956.",
-    "interesting points": [
-        "The object was white and orange in color.",
-        "The object was observed for 30 minutes.",
-        "The object was observed moving overhead.",
-        "The report states the sighting was a possible astronomical event, but the data was too limited for analysis.",
-        "The report was unable to conclusively determine if the object was a balloon, aircraft, or astronomical in nature."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "One oblong, square-shaped object",
-    "location": "Cumberland, Virginia",
-    "witnesses": "Civilian",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "One object of oblong shape and square, size of a baseball, color white and orange was observed for 30 minutes.",
+    "interesting points": "The observation was made on September 25, 1956, around 1:30 AM GMT., The object was categorized based on limited data as possibly being a balloon, aircraft, or astronomical in nature., The sighting lasted for a total duration of 30 minutes., The sighting was classified as a ground visual observation., The location of the sighting was in Cumberland, Virginia.",
+    "sighted object": "one oblong object of white and orange color",
+    "location": "Cumberland, Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

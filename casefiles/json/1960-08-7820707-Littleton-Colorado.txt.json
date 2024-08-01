@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A farmer spotted 3 flying blue orbs over his farm in 1945.",
-    "interesting points": [
-        "The farmer saw the orbs flying at high speeds and stopping on a dime before making a right angle turn.",
-        "The farmer saw glowing eyes in the woods.",
-        "The orbs emitted a low humming sound.",
-        "Other farmers reported similar sightings in the area.",
-        "The sighting lasted for about 10 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "three glowing orbs in the sky",
-    "location": "Rural Area, ST",
-    "witnesses": "farmer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A UFO was observed in Littleton, Colorado on August 20, 1960, for approximately 20-30 minutes.",
+    "interesting points": "The object remained stationary during the observation,The sighting led to speculation that it could have been a planet due to its position in the sky,Only one witness was able to provide a description,Multiple attempts to locate other witnesses were unsuccessful,The witness used binoculars to observe the object.",
+    "sighted object": "a stationary light in the sky",
+    "location": "Littleton, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "An observer who reported seeing a bright light in the sky.",
+    "contains photographs": false
 }

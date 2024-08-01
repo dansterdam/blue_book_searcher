@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the report:
-
 {
-    "main event": "The sighting of an elongated silver object without tail or wings, making a sound similar to a B-36 bomber, over Trinidad on January 6, 1955.",
-    "interesting points": [
-        "The object was described as elongated and silver, with no visible tail or wings.",
-        "The object made a sound similar to a B-36 bomber.",
-        "The object did not exhibit high-speed characteristics.",
-        "The length of the observation was 1 hour.",
-        "The case was listed as 'Unknown' in the Project Blue Book conclusions."
-    ],
-    "result": "unknown",
-    "sighted object": "elongated silver object without tail or wings",
-    "location": "Trinidad",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "On 6 January 1955, an elongated silver object was sighted in Trinidad with a sound similar to a B-36.",
+    "interesting points": "The object had no tail or wings,The sighting was a ground-visual observation,The length of the observation was one unit of time,There is uncertainty about the object's classification, as it could be a balloon, aircraft, or an unknown entity.",
+    "sighted object": "elongated silver object",
+    "location": "Trinidad, Unknown, Unknown",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An object shaped like a dipper, 3 ft in diameter appeared, approached, then reversed course, and disappeared.",
-    "interesting points": [
-        "The object was luminous with a glow and moved at a speed of about 300 mph.",
-        "No noise was heard from the object.",
-        "After the object made a reversal of course, it disappeared and was not seen again.",
-        "The report states that no conclusive evidence leading to a conclusion can be reached, and that the case shows indications of a visual illusion or hoax.",
-        "The witness, William Doles, gave a reasonably good account and apparently was sincere, but no other witnesses came forward and no physical evidence was left."
-    ],
-    "result": "unclassified awaiting further data for evaluation",
-    "sighted object": "An object shaped like a dipper, 3 ft in diameter",
-    "location": "Unknown",
-    "witnesses": "William Doles",
-    "photographs": "No"
+    "main event": "An object shaped like a dipper, 3 ft in diameter, appeared, approached, then reversed course and disappeared.",
+    "interesting points": "The object was luminous with a glow and moved at a speed of about 300 mph., No noise was heard during the observation., The object made a reversal of course before disappearing., The sighting lasted for about 2 minutes., William Doles provided a detailed account, but there were no other witnesses or physical evidence.",
+    "sighted object": "luminous dipper-shaped object",
+    "location": "Healdsburg, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian witnesses including William Doles and another individual who alerted him.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "An unidentified flying object was observed near Point Lookout, Maryland on 11th October 1955 for 2.5 hours after sunset. The object emitted alternating reddish and white sparks, disappeared and reappeared, and produced a deep roaring sound not typical of any known aircraft or object.",
-  "interesting points": [
-    "The object was described as spherical, turning red after sunset, emitting sparks, and producing a deep roaring sound",
-    "The observation lasted for 2.5 hours and the object circled the sky directly overhead, silently and at an unknown altitude",
-    "Weather conditions at the time were very good with high ceiling, clear visibility, and no cloud cover",
-    "The observers were Mr. __________ and another individual from Hyattsville and West Hyattsville, Maryland",
-    "One officer was convinced it was a genuine unidentified object, while another was curious but neither convinced nor unconvinced"
-  ],
-  "result": "unexplained",
-  "sighted object": "Unidentified spherical object emitting sparks and producing a deep roaring sound",
-  "location": "Point Lookout, Maryland",
-  "witnesses": "Civilian and U.S. Air Force officers",
-  "photographs": "no"
+    "main event": "Observation of an unidentified flying object that emitted sparks and a deep roaring sound near Point Lookout, Maryland on 11 October 1955.",
+    "interesting points": "The observation lasted for 2.5 hours,The object was described as round and spherical,The object alternated between reddish and white sparks,It produced a deep roaring sound that did not resemble conventional aircraft noise,Major O. E. Druehl expressed curiosity and concluded it was a genuine unidentified object.",
+    "sighted object": "an unidentified spherical object emitting sparks",
+    "location": "Point Lookout, Maryland, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. __________, age unknown, Hyattsville, Maryland and Mr. __________, age unknown, West Hyattsville, Maryland",
+    "contains photographs": false
 }

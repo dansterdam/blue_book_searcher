@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "A strange object was sighted near Flat Rock, Michigan on August 8, 1958, rising and falling and leaving a major trail, traveling east to west.",
-    "interesting points": [
-        "The object was described as medium-sized and round in shape.",
-        "The object was seen rising and falling, with a major trail.",
-        "The object was traveling from east to west.",
-        "The case was classified as 'Insufficient Data for Evaluation' and 'Unknown'.",
-        "There were no photographs provided in the report."
-    ],
-    "result": "unknown",
-    "sighted object": "an unidentified medium-sized round object",
-    "location": "Flat Rock, Michigan",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "On 8 August 1958, a sighting was reported in Flat Rock, Michigan, involving an unidentified object that was rising and falling, leaving a major trail, and traveling from East to West.",
+    "interesting points": "The sighting was reported at 0424 GMT, The object was described as medium-sized and round in shape, The source of the report is unknown, The evaluation of the object included possibilities of it being a balloon, aircraft, or astronomical phenomena, No photographs are present in the report.",
+    "sighted object": "one unidentified object",
+    "location": "Flat Rock, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Capt. T.C. Warner from WP Air Services",
+    "contains photographs": false
 }

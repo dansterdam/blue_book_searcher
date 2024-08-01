@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the JSON summary:
-
 {
-    "main event": "A round, colored object was observed over Winston-Salem, North Carolina for 40 minutes.",
-    "interesting points": [
-        "The object changed colors, moving up and down with oscillating motions.",
-        "The observer's friend called him on a short wave radio set to report the sighting.",
-        "The object moved slowly in a straight line with slow, jerking motions.",
-        "There were several similar reports from this area in the last 18 days, attributed to college students releasing hot air balloons.",
-        "The report includes detailed meteorological data such as temperature inversions and moisture inversions."
-    ],
-    "result": "Balloon (not air balloon)",
-    "sighted object": "Round, blue-orange-red object",
-    "location": "Winston-Salem, North Carolina",
-    "witnesses": "Civilian",
-    "photographs": "None"
+    "main event": "A round-shaped object was observed in Winston-Salem, North Carolina for 40 minutes, described as blue, orange, and red, oscillating in motion.",
+    "interesting points": "The observation lasted for 40 minutes,The object changed colors during the sighting,The observer described the object as being similar to a hot air balloon,It was reported that college students released plastic bags to create hot air for the observation,Similar reports from the area indicated that this was not an isolated incident.",
+    "sighted object": "one round-shaped object that was blue, orange, and red",
+    "location": "Winston-Salem, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

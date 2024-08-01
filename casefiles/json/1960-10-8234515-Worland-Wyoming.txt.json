@@ -1,15 +1,9 @@
 {
-    "main event": "A disc-shaped object was observed in the sky over Worland, Wyoming on October 13, 1960.",
-    "interesting points": [
-        "The object was first observed at an elevation of 45-50 degrees above the horizon, and moved in a horizontal path from west to east.",
-        "The object was disc-shaped, about 50-60 feet in diameter, and had a bright glowing yellow-orange color.",
-        "No trail or exhaust was observed from the object.",
-        "The object appeared to slow down, then stop and hover briefly before disappearing in a vertical dive at an estimated speed of 900 mph.",
-        "The sighting lasted for about 30 seconds."
-    ],
-    "result": "unexplained",
+    "main event": "A disc-shaped object was observed moving horizontally from west to east in Worland, Wyoming on October 13, 1960.",
+    "interesting points": "The object was disc-shaped, about 50-60 feet in diameter, and bright yellow-orange in color,The object moved at an estimated speed of 900 mph,It hovered briefly after slowing down,No trail or exhaust was observed emanating from the object,The sighting lasted for approximately 30 seconds.",
     "sighted object": "disc-shaped object",
-    "location": "Worland, Wyoming",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "location": "Worland, Wyoming, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observation was conducted visually from the ground, with binoculars.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-	"main event": "On 20 September 1958, at Andrews AFB in Washington DC, military personnel reported a UFO sighting that led to the dispatch of a T-33 and a helicopter to check on a UFO landing. The UFO was found to be color-coded trucks doing what appeared to be world-wide tension work, causing initial tension but lessening following observations.",
-	"interesting points": [
-		"The length of observation was over 1 hour.",
-		"The UFO sighting involved military personnel and was also reported in a newspaper article from The Washington Post.",
-		"A thorough written description of a UFO sighting was provided, describing the object as round, about half again as large as the moon, with a glowing orange color, and sparks shooting to the rear.",
-		"The Air Force investigation ultimately identified the reported UFO as a conventional military aircraft engaged in stationary activities.",
-		"The sighting occurred during a time when Mars was drawing near to Earth, leading to an impressive celestial display of the red planet in the September sky."
-	],
-	"result": "prosaic explanation",
-	"sighted object": "unidentified flying object",
-	"location": "Andrews AFB, Washington DC",
-	"witnesses": "military personnel",
-	"photographs": "yes, the report includes photographs"
+    "main event": "On September 20, 1958, a UFO sighting was reported near Andrews AFB, Washington DC, with military personnel investigating the situation.",
+    "interesting points": "The UFO was described as a glowing orange round object, its size estimated to be about one and a half times larger than the moon., The object emitted a humming sound resembling wind rushing., Witnesses reported sparks shooting from the rear of the object as it descended., Initial tension was high among observers, but it lessened after further observations., Investigation revealed the object was initially mistaken for a potential threat but turned out to be reflected light from nearby arc welders working on power lines.",
+    "sighted object": "glowing orange round object",
+    "location": "Washington, DC, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Military personnel and Andrews AFB tower operators",
+    "contains photographs": false
 }

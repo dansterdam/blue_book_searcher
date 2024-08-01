@@ -1,15 +1,9 @@
 {
-    "main event": "A female observer in Miami, Florida reported seeing a round, bright object with a tail moving erratically in the sky on August 8, 1964.",
-    "interesting points": [
-        "The object was first observed at 11:30 PM EDT while the witness was watching television.",
-        "The object moved from west to east at a high rate of speed, then stopped momentarily, and continued moving erratically in random directions.",
-        "The sighting lasted approximately 2 to 3 minutes.",
-        "No sound was associated with the object.",
-        "The witness was the only one who observed the object and did not take any photographs."
-    ],
-    "result": "unexplained",
+    "main event": "A female observer reported seeing a round, bright object with a tail moving erratically in the sky on August 8, 1964.",
+    "interesting points": "The object moved from west to east at a high rate of speed, then stopped momentarily., The observer watched the object for approximately 2 to 3 minutes., The object had no sound associated with it., There were no other witnesses to the sighting., The observer had not seen similar objects before.",
     "sighted object": "round, bright object with a tail",
-    "location": "Miami, Florida",
-    "witnesses": "1 female observer",
-    "photographs": "no"
+    "location": "Miami, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "23 years old, Female",
+    "contains photographs": false
 }

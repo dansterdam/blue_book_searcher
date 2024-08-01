@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three bright red objects, size of head of pin at arm's length, were spotted in the sky over McKeesport, Pennsylvania on November 3, 1956.",
-    "interesting points": [
-        "The objects were in a scattered formation, with one object leading the other two, which were intermittently crossing its path.",
-        "The objects were observed to be moving at a very high rate of speed, estimated to be around 40,000 mph.",
-        "The objects were observed for about 4 minutes by approximately 25 witnesses through binoculars.",
-        "The objects maintained a westerly course during the sighting.",
-        "The objects were initially spotted at an elevation of 30 degrees, but their exact altitude was unknown."
-    ],
-    "result": "unexplained",
-    "sighted object": "three bright red objects",
-    "location": "McKeesport, Pennsylvania",
-    "witnesses": "approximately 25 witnesses",
-    "photographs": "no photographs present"
+    "main event": "Three bright red objects were observed in McKeesport, Pennsylvania on 3 November 1956.",
+    "interesting points": "The objects were the size of a pin's head at arm's length., Approximately 25 witnesses observed the objects through binoculars for about 4 minutes., The objects maintained a westerly course with one leading the others., The sighting was reported by the Assistant Group Operations Staff Officer., Initial speculation suggested the objects might have been aircraft.",
+    "sighted object": "three bright red objects in the sky",
+    "location": "McKeesport, Pennsylvania, USA",
+    "number of confirmed witnesses": 25,
+    "witness description": "Various witnesses including Mr. Mur E. McKeesport, Gas Blocker at US Steel Corporation.",
+    "contains photographs": false
 }

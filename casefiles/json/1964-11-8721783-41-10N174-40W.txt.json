@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two circular, white, very bright objects were sighted by the flight crew of an American Airlines commercial airliner.",
-    "interesting points": [
-        "The objects were estimated to be 30-40 feet in diameter.",
-        "The objects were moving at high speed and appeared to hover at times.",
-        "The objects were sighted at an altitude of about 20,000 feet and disappeared from view at approximately 50,000 feet.",
-        "The objects' movements and changes in altitude suggested they were under intelligent control.",
-        "There were no obvious navigation or running lights on the objects."
-    ],
-    "result": "unexplained",
-    "sighted object": "two circular, white, very bright objects",
+    "main event": "Two circular white objects were sighted by the flight engineer on an American Airlines commercial airliner on 8 November 1964.",
+    "interesting points": "The objects were estimated to be 30-40 feet in diameter., The objects exhibited high-speed movements and hovered at times., The sighting occurred at an altitude of about 20,000 feet., The captain and first officer also confirmed the sighting., There were no obvious navigation or running lights visible on the objects.",
+    "sighted object": "two circular white objects",
     "location": "41-10N, 174-40W",
-    "witnesses": "flight crew of an American Airlines commercial airliner",
-    "photographs": "no"
+    "number of confirmed witnesses": 3,
+    "witness description": "flight engineer, captain, and first officer on an American Airlines commercial airliner",
+    "contains photographs": false
 }

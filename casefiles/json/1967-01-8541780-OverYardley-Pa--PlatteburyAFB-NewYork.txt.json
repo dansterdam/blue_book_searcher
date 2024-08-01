@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A bright object was observed moving rapidly over Yardley, Pennsylvania and Plattsburgh, New York on January 25, 1967.",
-    "interesting points": [
-        "The object was described as round, bright, and moving at a high speed, with a tail like a shooting star.",
-        "Several witnesses observed the object from the ground and the air, including military personnel and civilian observers.",
-        "The object was visible for 30 seconds to 3 minutes and disappeared over the horizon to the southeast.",
-        "Weather conditions at the time included a clear, bright night with some cirrus clouds and an occluded frontal passage.",
-        "Wind speeds and directions were recorded at various altitudes."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright, round object with a tail",
-    "location": "Over Yardley, Pennsylvania and Plattsburgh, New York",
-    "witnesses": "Military personnel and civilian observers",
-    "photographs": "No photographs present"
+    "main event": "An unidentified flying object was observed over Yardley, Pennsylvania and Plattsburgh AFB, New York on January 25, 1967.",
+    "interesting points": "The object was described as resembling a shooting star, The observation lasted between 30 seconds to 3 minutes, Multiple witnesses included both civilians and military personnel, The object was reported as moving southbound with a bright light, There was no physical evidence found related to the object.",
+    "sighted object": "one unidentified flying object resembling a shooting star",
+    "location": "Yardley, Pennsylvania, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Two civilians and three military personnel, including pilots and air traffic controllers",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of a white triangular-shaped object passing through the searchlights of Pasadena, California on October 23, 1955 at 6:40 PM. The observation lasted for 12 seconds",
-    "interesting points": [
-        "The object was described as a white shape resembling a triangle.",
-        "It passed through the searchlights of Pasadena.",
-        "There were no photographs available of the sighting.",
-        "The observer was a 23-year-old engineer.",
-        "The report lacks sufficient data for evaluation."
-    ],
-    "result": "unexplained",
-    "sighted object": "white triangular-shaped object",
-    "location": "Pasadena, California",
-    "witnesses": "one 23-year-old engineer",
-    "photographs": "no"
+    "main event": "An object, shaped like a white triangle, passed through searchlights in Pasadena.",
+    "interesting points": "The sighting lasted for about 12 seconds,The object was observed in the evening at 6:40 PM,The object was reported as a single entity,The course of the object was straight, The report states 'insufficient data for evaluation'.",
+    "sighted object": "a white triangular object",
+    "location": "Pasadena, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 23-year-old engineer",
+    "contains photographs": false
 }

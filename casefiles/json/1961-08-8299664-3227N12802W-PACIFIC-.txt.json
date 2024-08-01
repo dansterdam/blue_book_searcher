@@ -1,15 +1,9 @@
 {
-    "main event": "A round, white object resembling the 'flame-out' of an aircraft was observed by military personnel on radar and visually for about 5 minutes.",
-    "interesting points": [
-        "The object was initially sighted at an elevation of 45 degrees and an azimuth of 333 degrees (12:50 o'clock position), and then moved to an overhead position at 298 degrees.",
-        "The object disappeared when the aircraft turned, suggesting it may have been some type of artificial satellite or satellite-like object.",
-        "The report suggests the object was moving at a high altitude and was observed for a relatively short duration.",
-        "The weather conditions were clear with unrestricted visibility, and the object was observed during the night.",
-        "The report was filed by a 2nd Lieutenant Intelligence Officer, who determined the object was likely an orbiting satellite or some type of artificial space vehicle."
-    ],
-    "result": "Probable satellite or artificial space vehicle",
-    "sighted object": "round, white object",
-    "location": "1800 2W (Pacific)",
-    "witnesses": "Military personnel",
-    "photographs": "No photographs included"
+    "main event": "A round white object resembling a flame-out of an aircraft was observed through ground radar on 15 Aug 1961.",
+    "interesting points": "The object appeared to resemble characteristics of an artificial satellite, The observation lasted for approximately 5 minutes, The object was moving at a high altitude, The course of the object was undetermined at the time of the sighting, The report was submitted through the Project Blue Book's investigation process.",
+    "sighted object": "round white object",
+    "location": "1800 2W (Pacific), Unknown, Unknown",
+    "number of confirmed witnesses": 1,
+    "witness description": "2nd Lieutenant Richard A. Kahane, Intelligence Officer, with experience of 2,332 flight hours.",
+    "contains photographs": false
 }

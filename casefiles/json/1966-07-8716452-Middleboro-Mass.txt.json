@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observed a blue luminous object descending slowly in the sky over Middleboro, Massachusetts.",
-    "interesting points": [
-        "The object had a blue luminous color and was descending at a slow rate of speed.",
-        "The description is consistent with that of a meteor.",
-        "Surface winds were 313 degrees at 2 knots and 270 degrees at 28 knots at 10,090 feet.",
-        "A representative of the Smithsonian Astrophysical Observatory suggested the object was probably a small meteor, but there was a lack of conclusive evidence to make a definite identification.",
-        "The report was filed as part of Project Blue Book, the U.S. Air Force's investigation of unidentified flying objects."
-    ],
-    "result": "Aeros (meteor)",
+    "main event": "An observer in Middleboro, Massachusetts, reported seeing a blue luminous object descending at a slow rate of speed, which was concluded to likely be a meteor.",
+    "interesting points": "The observer was looking at the sky early in the morning when the sighting occurred., The object was described as having a blue luminous color., The sighting lasted for about 2 to 3 seconds., The angle of elevation during the sighting was noted as 4.8 degrees., A representative from the Smithsonian Astrophysical Observatory suggested the object was probably a small meteor.",
     "sighted object": "a blue luminous object",
-    "location": "Middleboro, Massachusetts",
-    "witnesses": "a civilian",
-    "photographs": "no"
+    "location": "Middleboro, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an observer looking out a window",
+    "contains photographs": false
 }

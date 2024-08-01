@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report document, here is the JSON summary:
-
 {
-    "main event": "Multiple sightings of an unidentified cylindrical object with rotating colored bands over Washington, D.C. on May 17, May 24, and June 1, 1961.",
-    "interesting points": [
-        "The object was described as one-third the size of the full moon, with a vertical cylindrical shape and three rotating colored bands (white, red, and brown).",
-        "The object was tracked by both ground-based radar and visual observations, with the sightings lasting around 30 minutes each time.",
-        "Winds at high altitudes (70,000 feet) were measured at 240 knots during the sightings, ruling out a weather balloon.",
-        "The object was seen to instantaneously disappear during the observations.",
-        "Attempts were made to intercept the object with aircraft, but no further details are provided."
-    ],
-    "result": "unexplained",
-    "sighted object": "Cylindrical object with rotating colored bands",
-    "location": "Washington, D.C.",
-    "witnesses": "Ground-based radar, air-visual, and air-intercept radar observations",
-    "photographs": "No photographs present in the document"
+    "main event": "Multiple UFO sightings were reported in Washington, DC, observed between 17 May, 26 May, and 1 June 1961.",
+    "interesting points": "Sighting lasted for approximately 30 minutes,The object was described as a vertical cylinder shape with three colored bands rotating counterclockwise,Weather balloon or light reflecting off high, thin overcast was suggested as a possible explanation,The UFO was tracked by both radar and visual observations,Winds were recorded at 240 knots at 70,000 feet during the sightings.",
+    "sighted object": "A vertical cylinder shape with three colored bands",
+    "location": "Washington, DC",
+    "number of confirmed witnesses": 0,
+    "witness description": "Reported observations from radar and visual tracking systems.",
+    "contains photographs": false
 }

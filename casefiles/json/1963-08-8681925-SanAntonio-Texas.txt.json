@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing a round object changing colors from white to blue to red over San Antonio, Texas on August 5, 1963.",
-    "interesting points": [
-        "The object was observed at an elevation of 30 degrees heading northerly at 330 degrees, and disappeared at an elevation of 60 degrees to the north after a 15 minute observation.",
-        "The local ACAU squadron could not pick up the object on radar.",
-        "The observer used binoculars but could not distinguish any additional details about the object.",
-        "The weather conditions were clear with surface winds around 3 knots.",
-        "The report concludes the object was likely a drifting balloon."
-    ],
-    "result": "Possibly Balloon",
-    "sighted object": "Round object changing colors from white to blue to red",
-    "location": "San Antonio, Texas",
-    "witnesses": "Civilian observer",
-    "photographs": "No"
+    "main event": "A round object changing colors from white to blue to red was observed in San Antonio, Texas on August 5, 1963.",
+    "interesting points": "The object was seen at an elevation of 30 degrees and traveled on a course of 330 degrees for 15 minutes before disappearing to the north., The object appeared to drift with the wind, suggesting similarities to balloon behavior., There was no radar pickup from the local ACAU squadron, indicating the object might not have been a solid craft., The observer used binoculars but could not determine any additional details., The sighting lasted for 15 minutes and was described in a Project Blue Book record.",
+    "sighted object": "round object changing colors from white to blue to red",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian, farmer",
+    "contains photographs": false
 }

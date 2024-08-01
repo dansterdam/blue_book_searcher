@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The investigating officer concluded the object was probable a satellite.",
-    "interesting points": [
-        "The object was described as a light, round in shape, and larger than the average star.",
-        "The object was blue-white in color, similar to the constellation produced by a mercury vapor lamp.",
-        "The object appeared and reappeared, but the observer assumed it was only one object because the path did not appear to change.",
-        "The object was visible for a maximum of 60 seconds, and its brightness was most noticeable.",
-        "The object moved in a straight line from southeast to northwest."
-    ],
-    "result": "probable satellite",
-    "sighted object": "a light, round object",
-    "location": "unknown",
-    "witnesses": "2 witnesses",
-    "photographs": "no"
+    "main event": "Two witnesses reported observing an object, which was concluded to be a probable satellite, moving from southeast to northwest.",
+    "interesting points": "The object was observed for a total of about 5 minutes., The observed path appeared to be straight but may have varied slightly in direction., The object appeared and disappeared intermittently., It was estimated to be larger than an average star and emitted blue-white light., No physical evidence or photographs were collected.",
+    "sighted object": "a probable satellite",
+    "location": "Dexter, Tennessee, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two witnesses who observed the object visually",
+    "contains photographs": false
 }

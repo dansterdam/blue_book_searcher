@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was sighted over Ramey Air Force Base, Puerto Rico on February 1, 1965.",
-    "interesting points": [
-        "The object was round, 8 inches in diameter to slightly smaller than a baseball, and grayish-white in color.",
-        "The object emitted an intermittent light that moved from the lower right to the upper left of the object.",
-        "The object was tracked and seen by multiple observers, including military personnel.",
-        "The object was estimated to be approximately 30-50 feet in diameter and 3-5 miles away.",
-        "Based on the available information, the object could not be identified as a known object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a round, grayish-white object with an intermittent light",
-    "location": "Ramey Air Force Base, Puerto Rico",
-    "witnesses": "military personnel and civilians",
-    "photographs": "no"
+    "main event": "On 9 August 1950, an unidentified object emitting a greenish glow hovered over Ramey AFB in Puerto Rico, moving very slowly before disappearing downward.",
+    "interesting points": "The object was estimated to be slightly smaller than expected,It emitted a greenish glow and hovered slowly,No sound was reported during the sighting,The sighting lasted approximately 5 minutes,The estimated speed of the object was 5 knots.",
+    "sighted object": "an unidentified glowing object",
+    "location": "Ramey AFB, Puerto Rico",
+    "number of confirmed witnesses": 1,
+    "witness description": "US Air Force personnel observing from Ramey AFB",
+    "contains photographs": false
 }

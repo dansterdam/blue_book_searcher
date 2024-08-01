@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted visually by a civilian observer near Lynchburg, Virginia on June 19, 1952.",
-    "interesting points": [
-        "The object was described as bright, fast-traveling, and showed no exhaust or other identifying characteristics.",
-        "The observer was reported to have had anti-aircraft experience and was at the Virginia Episcopal School when the sighting occurred.",
-        "An attempt was made to intercept the object using a fighter aircraft from Langley Air Force Base, but the results were negative.",
-        "Piedmont Airlines Flight 230 (a DC-3) was in the area at the time of the sighting, but did not report seeing anything unusual.",
-        "The weather conditions at the time and place of the sighting were clear, with 5-10 mile visibility and no extraordinary wind or other weather conditions."
-    ],
-    "result": "unexplained",
-    "sighted object": "A bright, fast-moving object with no exhaust or other identifying characteristics",
-    "location": "Near Lynchburg, Virginia",
-    "witnesses": "A civilian observer reported to have had anti-aircraft experience",
-    "photographs": "No, the report does not contain any photographs"
+    "main event": "An unidentified flying object was sighted in Lynchburg, Virginia on May 29, 1952.",
+    "interesting points": "The object was described as oval in shape and moving at a speed too fast for a balloon., The sighting lasted approximately 1 minute., The observer reported a buzzing sound associated with the sighting., The object appeared silver and was estimated to be 40-50 feet in diameter., Despite an attempt for interception, there were negative results from the investigation.",
+    "sighted object": "oval flying object",
+    "location": "Lynchburg, Virginia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "An observer with anti-aircraft experience.",
+    "contains photographs": false
 }

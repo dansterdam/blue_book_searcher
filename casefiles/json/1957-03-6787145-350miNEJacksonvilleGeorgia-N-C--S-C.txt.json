@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A Pan American Airways pilot saw an unidentified bright green object maneuvering near his aircraft near Jacksonville, Georgia on March 9, 1957.",
-    "interesting points": [
-        "The object appeared to be round, glowing, and about 40-50 feet in diameter.",
-        "The object was observed for about 20 minutes and was estimated to be about 10-15 miles away from the aircraft.",
-        "The object changed color from red to orange to white during the observation period.",
-        "The crew felt the object was a real, solid object that was not a meteor, star, planet or aircraft.",
-        "The Civil Aeronautics Board investigation concluded that the object was not positively identified and the case remained unsolved."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright green, round, glowing object",
-    "location": "near Jacksonville, Georgia",
-    "witnesses": "Pan American Airways pilot and crew",
-    "photographs": "none"
+    "main event": "On March 9, 1957, passengers aboard Pan American World Airways Flight 257 reported an encounter with a bright unidentified flying object while flying from New York to San Juan, Puerto Rico.",
+    "interesting points": "The object was described as a fiery ball with a bluish-green tail,The pilot executed a steep climb to avoid a collision, resulting in several passenger injuries,Multiple witnesses, including other pilots, reported similar sightings in the area at the same time,The sighting lasted for several seconds and the object disappeared quickly,The incident received wide media attention after reports were made to the Civil Aeronautics Board.",
+    "sighted object": "a bright unidentified flying object",
+    "location": "350 mi NE Jacksonville, Georgia, N.C., S.C.",
+    "number of confirmed witnesses": 6,
+    "witness description": "Passengers and crew members on Flight 257.",
+    "contains photographs": false
 }

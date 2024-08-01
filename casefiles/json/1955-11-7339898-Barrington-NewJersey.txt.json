@@ -1,17 +1,9 @@
-Here is the JSON summary of the given UFO report:
-
 {
-    "main event": "Two unidentified objects, one yellow and one very bright white, were observed at night over Barrington, New Jersey. The objects appeared to have a circular flight path.",
-    "interesting points": [
-        "The objects were observed for a duration of 2 minutes.",
-        "The report states that there was insufficient data for evaluation.",
-        "The objects were detected at various altitudes and speeds, ranging from 6,282 feet at 272 degrees and 35 knots, to 5,252 feet at 274 degrees and 221 knots.",
-        "No photographs were included in the report.",
-        "The report was part of Project Blue Book, the official U.S. Air Force investigation of UFOs."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects, one yellow and one very bright white",
-    "location": "Barrington, New Jersey",
-    "witnesses": "a civilian, age 35, from Barrington, New Jersey",
-    "photographs": "no"
+    "main event": "Two objects, one yellow and one white, were observed flying in a circular flight path at night.",
+    "interesting points": "The sighting lasted for approximately 2 minutes., The objects were noticed in Barrington, New Jersey., The report indicates that there was insufficient data for evaluation., The observation type was classified as ground-visual., The sighting occurred during the night.",
+    "sighted object": "one yellow object and one white object",
+    "location": "Barrington, New Jersey, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "insufficient data",
+    "contains photographs": false
 }

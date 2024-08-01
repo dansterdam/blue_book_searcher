@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person observed a bright orange object in the sky that suddenly rose higher and disappeared.",
-    "interesting points": [
-        "The object was triangular in shape and had a simple, white, green light on the bottom.",
-        "As the object passed over, the witness noticed its triangular shape.",
-        "The object appeared to be about 500-600 feet high.",
-        "The witness and their brother watched the object for a long time as it flashed around and hovered, shooting small green and red lights.",
-        "The witness was certain they saw the object, but their brother could not see it."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright orange object, later a triangular object with lights",
-    "location": "Queens Village, New York",
-    "witnesses": "a person and their brother",
-    "photographs": "no"
+    "main event": "An observer reported a sighting of a bright orange triangular object in the sky on April 11, 1967.",
+    "interesting points": "The object was reported to be 500-600 feet high and rose unexpectedly before disappearing., The object had a white and green light on the bottom., Witnesses noted the object changed colors from orange to red to white during the sighting., The triangular shape became more visible as the object ascended., The sighting lasted approximately 90 seconds and involved multiple observations by the witnesses.",
+    "sighted object": "bright orange triangular object",
+    "location": "Queens Village, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two brothers who observed the object while traveling.",
+    "contains photographs": false
 }

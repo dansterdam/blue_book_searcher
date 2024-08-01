@@ -1,17 +1,9 @@
-Based on the provided text, here is the summary in JSON format:
-
 {
-    "main event": "A white light was observed moving slowly from north to south over Pennsylvania at around 1930 hours on November 6, 1957. The light flickered or pulsated, and no sound was heard. The altitude was estimated to be around 2,000 feet.",
-    "interesting points": [
-        "The altitude of the object could not be determined accurately.",
-        "The object's course was slowly from north to south.",
-        "On November 15, 1957, a report mentioned white objects that disappeared at sea, then reappeared floating in the air with sparks resembling and giving the appearance of several bright lights sticking out.",
-        "The objects were described as revolving and seemed to have points sticking out.",
-        "The report indicates the objects were under surveillance and careful observation at the time."
-    ],
-    "result": "inconclusive",
-    "sighted object": "white light, white objects",
-    "location": "Pennsylvania",
-    "witnesses": "US Army, unspecified observers",
-    "photographs": "none"
+    "main event": "A white light was observed moving slowly north to south over Pennsylvania around 1930 on November 6, 1957.",
+    "interesting points": "The light flickered or pulsated,No sound was heard during the observation,The altitude of the light was estimated to be 2000 ft,The observation lasted for approximately 6-7 minutes,There were two objects noted in a separate sighting on November 18, 1957.",
+    "sighted object": "white light",
+    "location": "Harrisburg, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. [redacted], a housewife",
+    "contains photographs": false
 }

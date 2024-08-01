@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A red object, the size of a baseball, was spotted shortly after midnight, making little headway.",
-    "interesting points": [
-        "The object resembled a star slightly.",
-        "The object was observed to be near and glowing, approximately overhead and heading straight away (NNW).",
-        "The object was traveling back and forth very rapidly but not making much headway, eventually moving instantaneously to the NNW.",
-        "The sighting lasted for about 20 minutes.",
-        "The observer was a civilian from Ann Arbor, Michigan."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red object, the size of a baseball",
-    "location": "Ann Arbor, Michigan",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A sighting of a red object resembling a baseball shortly after midnight in Angle, Ohio.",
+    "interesting points": "The object was described as being the size of a baseball and red in color., The observation was made with the naked eye., The sighting lasted for about twenty minutes., The object was reported to be making little headway while traveling back and forth rapidly., The event may relate to the planet Mars based on comments in the report.",
+    "sighted object": "a round red object",
+    "location": "Angle, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian from Ann Arbor, Michigan",
+    "contains photographs": false
 }

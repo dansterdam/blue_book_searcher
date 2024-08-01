@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO report from 1950 states that an object 50 feet in diameter changed color from white to blue and hovered at treetop level before speeding away at high speed in Ripley, West Virginia.",
-  "interesting points": [
-    "The object was observed hovering and changing color, suggesting advanced propulsion and high-speed performance characteristics.",
-    "The description of the object's motion and general characteristics matched often reported characteristics of Unidentified Flying Objects.",
-    "The report suggests that the object may be technically far in advance of known aircraft, indicating an unexplained nature of the sighting.",
-    "The observer completed a detailed questionnaire, providing information on various aspects including the time, location, appearance, and disappearance of the object.",
-    "The report includes a form with questions about the weather conditions, the time of the sighting, and the witness's personal information."
-  ],
-  "result": "unexplained",
-  "sighted object": "One object, 50 feet in diameter, changing color from white to blue and back",
-  "location": "Ripley, West Virginia",
-  "witnesses": "Unnamed observer from Ridgley, WV",
-  "photographs": "no photographs included in the report"
+    "main event": "A report describing a UFO sighting of a hovering object, 50 feet in diameter, changing color from white to blue and back, before speeding away.",
+    "interesting points": "The object was observed at treetop level, The motion and characteristics of the object align with common UFO descriptions, Its high-speed departure suggests advanced technology, The object appeared to change colors, indicating possible advanced propulsion, Further evaluation of the case is suggested by investigators.",
+    "sighted object": "a single colorful hovering object",
+    "location": "Ripley, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A person who observed the object from the ground.",
+    "contains photographs": false
 }

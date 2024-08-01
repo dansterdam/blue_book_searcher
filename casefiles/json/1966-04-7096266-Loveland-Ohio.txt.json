@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person in Loveland, Ohio observed a bright, silver metallic object in the sky for 1-1.5 minutes on April 5, 1966.",
-    "interesting points": [
-        "The object appeared to be stationary and hover, then simply disappeared while being watched.",
-        "The object was silent and did not make any audible sounds.",
-        "The witness estimated the object's angular size to be about the full width of a match held at arm's length.",
-        "The witness could not determine the object's distance or speed, but described it as a 'bright circular' object that 'seemed to remain in place for a long period of time'.",
-        "The object was observed during the day, with a clear sky and no clouds."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, silver metallic object",
-    "location": "Loveland, Ohio",
-    "witnesses": "1 civilian witness",
-    "photographs": "no"
+    "main event": "A witness observed an unidentified object in Loveland, Ohio on April 5, 1966.",
+    "interesting points": "The object was stationary during the observation,The sighting lasted for approximately 1 to 1.5 minutes,The object was described as bright silver metallic and silent,There was only one confirmed witness to the sighting,No photographs or physical evidence were documented.",
+    "sighted object": "one unidentified flying object",
+    "location": "Loveland, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "one civilian witness, age 32, male",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted in Salt Lake City, Utah in 1949 by a civilian during the afternoon.",
-    "interesting points": [
-        "The UFO was described as silver and reflecting the sun.",
-        "It was observed at over 10,500' altitude.",
-        "The sighting lasted approximately 10 seconds.",
-        "No sound was reported during the observation.",
-        "The UFO was considered odd and ill-defined in shape."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified silver object",
-    "location": "Salt Lake City, Utah",
-    "witnesses": "civilian",
-    "photographs": "no, the report does not include photographs"
+    "main event": "A civilian reported seeing a silver object in Salt Lake City in 1949.",
+    "interesting points": "The object was at a high altitude over 10,500 feet., The object reflected sunlight., The object's speed could not be determined due to the lack of clarity in the document., The observation was made in the afternoon., The observation lasted for about 10 seconds.",
+    "sighted object": "a silver object",
+    "location": "Salt Lake City, Utah, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

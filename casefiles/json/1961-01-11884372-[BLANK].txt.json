@@ -1,15 +1,9 @@
 {
-    "main event": "The provided image does not contain a photograph. It appears to be a page from an old government UFO document.",
-    "interesting points": [
-        "The image contains text describing procedures and instructions for reporting unidentified flying objects (UFOs) to various military and government agencies.",
-        "The document discusses communication instructions, reporting requirements, security measures, and evaluation processes related to UFO sightings.",
-        "The document references Project Blue Book, the U.S. Air Force's historical program for investigating UFOs.",
-        "The text outlines details about CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) and MERINT (Military and Civilian Transmission) reports.",
-        "The document provides examples of radio transmissions and procedures for addressing, transmitting, and handling UFO reports."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying objects (UFOs)",
-    "location": "Not specified",
-    "witnesses": "Not specified",
-    "photographs": "None"
+    "main event": "The document appears to be related to Project Blue Book, outlining communication instructions for reporting sightings of Unidentified Flying Objects (UFOs).",
+    "interesting points": "The document contains detailed sections on the reporting and handling of UFO sightings,It includes guidelines for military and civilian transmission of information regarding UFOs,It discusses the procedures for reporting communication intelligence related to UFO sightings,Statistics on the percentage of unidentified UFO sightings over the years are documented,The document outlines responsibilities of various military branches regarding UFO sighting reports.",
+    "sighted object": "Unidentified Flying Objects (UFOs)",
+    "location": "Maxwell AFB, Alabama, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

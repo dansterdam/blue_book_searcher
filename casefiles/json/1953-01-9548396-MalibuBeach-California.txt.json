@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A civilian pilot reported seeing four metallic, disc-shaped objects flying in a tight formation over Malibu Beach, California on January 22, 1953.",
-    "interesting points": [
-        "The objects were estimated to be flying at an altitude of 20,000 feet and a speed of 1,200 mph.",
-        "The sighting lasted for about 5 minutes.",
-        "The pilot was unable to identify the objects, but described them as being similar in appearance to B-36 type aircraft.",
-        "Other witnesses, including control tower operators, also reported seeing the objects that day.",
-        "The report includes sketches of the sighting but no photographs."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "four metallic, disc-shaped objects",
-    "location": "Malibu Beach, California",
-    "witnesses": "civilian pilot",
-    "photographs": "yes, the report includes sketches but no photographs"
+    "main event": "A civilian pilot observed four metallic discs flying in formation over Malibu Beach, California on January 22, 2023.",
+    "interesting points": "The objects were flying at an estimated altitude of 20,000 feet., The speed of the objects was estimated at 1200 mph., The observation lasted for 5 minutes., The conclusion from the report was that the objects were probably aircraft., The objects were described as being metallic and disc-shaped.",
+    "sighted object": "four metallic discs",
+    "location": "Malibu Beach, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian pilot",
+    "contains photographs": false
 }

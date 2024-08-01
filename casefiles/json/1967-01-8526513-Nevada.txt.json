@@ -1,15 +1,9 @@
 {
-    "main event": "A witness in Nevada reported an observation and subsequent photograph of an unidentified flying object in January 1957.",
-    "interesting points": [
-        "The report is a proposed reply letter from Project Blue Book requesting the witness to complete a Photographic Data sheet and FTD Form 164 to submit the original negative for analysis.",
-        "The report indicates that upon completion of the analysis, the Air Force will return the negative along with their findings.",
-        "The report thanks the witness for reporting the observation to the Air Force.",
-        "The report does not contain any details about the observed object, such as its appearance, size, or behavior.",
-        "The report does not indicate whether the witness actually provided the requested information and photographic evidence."
-    ],
-    "result": "inconclusive",
+    "main event": "A person submitted a letter regarding their observation and subsequent photograph of an unidentified flying object in Nevada in January 1957.",
+    "interesting points": "The report is a proposed reply from Project Blue Book to the observer., The reply requests the observer to complete a Photographic Data sheet and FTD Form 164., The Air Force is thanking the observer for their report., It emphasizes the need for scientific investigation., The original negative will be returned along with findings after analysis.",
     "sighted object": "unidentified flying object",
-    "location": "Nevada",
-    "witnesses": "1",
-    "photographs": "yes, the report mentions a subsequent photograph"
+    "location": "Nevada, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "person who observed and photographed the UFO",
+    "contains photographs": false
 }

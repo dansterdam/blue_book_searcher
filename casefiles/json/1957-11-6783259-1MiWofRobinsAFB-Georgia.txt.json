@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a fast-moving, white, spherical object near Robins Air Force Base in Georgia on November 6, 1957.",
-    "interesting points": [
-        "The object appeared to be climbing and was moving at a fast rate of speed, estimated at 50,000 feet altitude.",
-        "The observation lasted for about 2 minutes.",
-        "The object was described as a white, spherical object that appeared to be a 'star in motion'.",
-        "The object was observed by a civilian, a sales representative for the Singer Sewing Machine Company, and a civilian housewife.",
-        "The object was flying a continuous pattern at speeds between 800-1200 mph at an estimated altitude of 30,000 feet, and no other aircraft were observed in the vicinity or detected on radar."
-    ],
-    "result": "unexplained",
-    "sighted object": "a white, spherical object",
-    "location": "1 1/2 miles northeast of Robins AFB, Georgia",
-    "witnesses": "a civilian sales representative and a civilian housewife",
-    "photographs": "no"
+    "main event": "An observer reported seeing a white spherical object moving at a fast rate of speed at an estimated altitude of 50,000 feet near Robins Air Force Base on 6 November 1957.",
+    "interesting points": "The object was sighted for a brief period of about 2 minutes.,The observer described the object as climbing rapidly.,No noise was reported from the object.,The sighting involved a single object that appeared to be a bright star in motion.,The air traffic in the area was normal at the time of the sighting.",
+    "sighted object": "white spherical object",
+    "location": "Robins Air Force Base, Georgia, United States",
+    "number of confirmed witnesses": 2,
+    "witness description": "One observer was a 42-year-old male sales representative, and the other was a 65-year-old female housewife.",
+    "contains photographs": false
 }

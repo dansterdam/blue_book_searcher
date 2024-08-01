@@ -1,15 +1,9 @@
 {
-    "main event": "A bright stationary light in the southwest sky was observed over a 3 hour period in Longmont, Colorado.",
-    "interesting points": [
-        "The light appeared to be of uniform brightness and color, remaining stationary except for minor fluctuations in intensity.",
-        "No definite shape could be determined, but at times the object appeared to flare up and then dim down.",
-        "The object was also observed by several other witnesses in the area.",
-        "Based on the description, the object is considered to be an astronomical (optical) phenomenon, possibly a star or planet.",
-        "The sighting was reported to the Air Force, who requested more information to analyze the case."
-    ],
-    "result": "astronomical (optical) phenomenon",
+    "main event": "A bright stationary light was observed in the southwest sky from Longmont, Colorado, on 26 October 1966 for three hours.",
+    "interesting points": "The light remained uniform in brightness except for minor fluctuations in intensity.,The object was described as a bright white light, about 1/4 the size of a full moon.,It was debated whether the object was a star or planet based on its characteristics.,Witnesses reported a pulsating red light emitted from the object.,The light was considered a possible astronomical optical phenomenon.",
     "sighted object": "a bright stationary light",
-    "location": "Longmont, Colorado",
-    "witnesses": "multiple witnesses",
-    "photographs": "no, the report does not include any photographs"
+    "location": "Longmont, Colorado, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians who observed the object",
+    "contains photographs": false
 }

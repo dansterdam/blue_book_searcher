@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information found in the UFO report:
-
 {
-    "main event": "A strange, bright, elliptical object was observed descending and ascending vertically for about 10 minutes over Tyndall Air Force Base in Florida on February 26, 1961.",
-    "interesting points": [
-        "The object was the size of a star but very bright.",
-        "It was observed to descend and ascend vertically for approximately 10 minutes.",
-        "The object's initial observed angle was 15 degrees and azimuth was 220 degrees, then it disappeared on an approximate heading of 60 degrees.",
-        "The report includes several possible explanations for the sighting, including it being a planet, the X-15 aircraft, or some kind of astronomical phenomenon.",
-        "Multiple witnesses, including Sergeant Henry J. Lacour, observed the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, elliptical object",
-    "location": "Tyndall Air Force Base, Florida",
-    "witnesses": "Sergeant Henry J. Lacour and others",
-    "photographs": "no photographs included"
+    "main event": "An unidentified flying object was reported at Tyndall Air Force Base in Florida on February 26, 1961.",
+    "interesting points": "The object was described as elliptical and very bright, approximately the size of a grapefruit,The object was observed to ascend and descend vertically for approximately 10 minutes,It was first seen at an angle of 15° and azimuth 220°,The observers reported no sound from the object, and it disappeared suddenly on a horizontal flight path.",
+    "sighted object": "an elliptical, very bright object",
+    "location": "Tyndall AFB, Florida, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "MSGT Henry J. Lacour, SGT Leggett, and SGT Maloney",
+    "contains photographs": false
 }

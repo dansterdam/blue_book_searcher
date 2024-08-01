@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO was sighted for approximately 7 minutes over Tallahassee, Florida on June 23, 1966.",
-    "interesting points": [
-        "The object was described as a celestial object with no optical sightings on recording tape.",
-        "The object was observed to have a specific shape, altitude, and color, but no sound or light intensity was noted.",
-        "The sighting was made by two witnesses, but no further details about the witnesses are provided.",
-        "The weather conditions at the time were hazy.",
-        "The report appears to have been submitted by a Major in the US Air Force."
-    ],
-    "result": "unexplained",
-    "sighted object": "a celestial object",
-    "location": "Tallahassee, Florida",
-    "witnesses": "two",
-    "photographs": "no"
+    "main event": "A UFO sighting was reported in Tallahassee, Florida on June 23, 1966, observed for about 45 seconds.",
+    "interesting points": "The sighting involved one object,The report indicates two witnesses observed the event,The type of observation was visual and there were no physical evidences,The weather conditions were hazy,The report deemed the sighting insignificant and not warranting further investigation.",
+    "sighted object": "one unidentified flying object",
+    "location": "Tallahassee, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian witnesses",
+    "contains photographs": false
 }

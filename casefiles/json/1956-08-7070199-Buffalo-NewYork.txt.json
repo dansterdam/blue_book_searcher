@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, orange object the size of a baseball was observed in the sky over Buffalo, New York.",
-    "interesting points": [
-        "The object was traveling in a straight direction at high altitude.",
-        "The object was observed for 15 minutes before fading out.",
-        "The object resembled an ordinary star when viewed with the naked eye.",
-        "Fiery gas was observed coming from the bottom of the object.",
-        "A small crater was seen through field glasses."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, orange object the size of a baseball",
-    "location": "Buffalo, New York",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A round, orange object the size of a baseball was observed traveling at high altitude in Buffalo, New York.",
+    "interesting points": "The object was observed for 15 minutes before it faded out., The object traveled in a northwest direction., The witness described the object as resembling an ordinary star when viewed with the naked eye., Flames were observed emitting from the bottom of the object., The object was confirmed to be at high altitude, approximately 13,333 feet.",
+    "sighted object": "a round, orange object",
+    "location": "Buffalo, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness observed the object while returning home from work.",
+    "contains photographs": false
 }

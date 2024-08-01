@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer reported seeing multiple unidentified flying objects over Homer, New York on April 8, 1964.",
-    "interesting points": [
-        "The objects were described as bright, glowing lights that maneuvered in an erratic manner.",
-        "The observer was able to take several photographs of the objects before they disappeared.",
-        "No known aircraft or other conventional explanations could be found for the sightings.",
-        "The objects appeared to divide into two parts and then recombine during the sighting.",
-        "The objects displayed characteristics unlike anything the observer had seen before, including rapid acceleration and hovering."
-    ],
-    "result": "unexplained",
-    "sighted object": "multiple bright, glowing objects",
-    "location": "Homer, New York",
-    "witnesses": "civilian observer",
-    "photographs": "yes, the report includes photographs"
+    "main event": "On April 8, 1964, a civilian observer reported seeing an unidentified flying object over Homer, New York.",
+    "interesting points": "The object was described as a small, bright, metallic object emitting a reddish-orange glow., The observer noted several erratic maneuvers by the object, including abrupt changes in direction and speed., The sighting lasted approximately 20 minutes and was reported to local authorities., The observer was previously a U.S. Air Force pilot with extensive flying experience., An investigation by the United States Air Force was initiated as part of Project Blue Book.",
+    "sighted object": "a small, bright metallic object emitting a reddish-orange glow",
+    "location": "Homer, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a civilian observer who previously served in the U.S. Air Force.",
+    "contains photographs": false
 }

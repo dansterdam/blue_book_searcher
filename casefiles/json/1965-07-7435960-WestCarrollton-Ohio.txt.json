@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A white, solid object was observed by a civilian in West Carrollton, Ohio on July 1, 1962.",
-    "interesting points": [
-        "The object was an orange sphere that moved at a good speed, then stopped, reversed course, and made other unusual maneuvers.",
-        "The object was observed for about 25-30 seconds at an altitude of 4,000 feet.",
-        "The object's movement was described as a 'straight line' flight path.",
-        "The witness was unable to estimate the speed or distance of the object.",
-        "There were no photographs or physical evidence of the sighting."
-    ],
-    "result": "Unidentified (Possible NT - Possible RD)",
-    "sighted object": "An orange, solid sphere",
-    "location": "West Carrollton, Ohio",
-    "witnesses": "civilian",
-    "photographs": "None"
+    "main event": "A civilian observed a single orange sphere flying in West Carrollton, Ohio on July 1, 1962.",
+    "interesting points": "The object was moving at a good speed before it stopped and reversed course,The observation lasted for 2 minutes at an altitude of 4,000 feet,The object was reported to be in a straight line course,There was no physical evidence or photographs associated with the sighting,The conclusion of the report was that the object was unidentified, possibly classified as NT or RD.",
+    "sighted object": "an orange sphere",
+    "location": "West Carrollton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

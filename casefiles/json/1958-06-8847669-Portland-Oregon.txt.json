@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the JSON summary:
-
 {
-    "main event": "A woman spotted a silver, round object the size of a full moon in the sky over Portland, Oregon.",
-    "interesting points": [
-        "The object was sighted at an angle of approximately 45 degrees in the south, then climbed higher to around 70-75 degrees before fading out of sight.",
-        "The object was moving in a straight line and its climbing speed was compared to that of a normal jet aircraft.",
-        "The object faded out of sight in the haze after being visible for around 3 minutes.",
-        "The observer was a housewife who happened to look up and see the object.",
-        "Weather conditions included sunny and hazy in the west, with surface winds around 5 knots from the northwest."
-    ],
-    "result": "unexplained",
-    "sighted object": "a silver, round object the size of a full moon",
-    "location": "Portland, Oregon",
-    "witnesses": "a housewife",
-    "photographs": "none"
+    "main event": "An unidentified flying object was observed in Portland, Oregon on June 17, 1958.",
+    "interesting points": "The observation lasted between 5 and 10 minutes., The object was described as being half the size of a full moon., The object was reported to be silver and only one object was observed., A reflection due to sunlight and haze was suggested as a possible explanation for the sighting., The witness was a housewife whose poor eyesight might have contributed to the impression of a round object.",
+    "sighted object": "one silver round object",
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife",
+    "contains photographs": false
 }

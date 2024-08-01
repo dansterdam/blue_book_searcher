@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two objects or lights were observed moving at a very high speed over a house in Mansfield, Ohio on February 15, 1959.",
-    "interesting points": [
-        "The objects were moving in a straight path at a very high speed.",
-        "The objects appeared to be going over the house the witness was looking out of.",
-        "A separate sighting of a similar object was observed about an hour earlier.",
-        "The witness was unable to properly photograph the objects due to the distance.",
-        "The case generated considerable publicity and interest at the Air Technical Intelligence Center."
-    ],
-    "result": "unexplained",
-    "sighted object": "two fast-moving objects or lights",
-    "location": "Mansfield, Ohio",
-    "witnesses": "1 witness - a laboratory worker",
-    "photographs": "no, the witness was unable to photograph the objects properly"
+    "main event": "Two objects were observed moving at high speed in the sky over Mansfield, Ohio on February 15, 1959.",
+    "interesting points": "The objects were seen from a laboratory window by a witness who estimated they were around 5,000 feet high., The observation lasted for 1 minute and 30 seconds., The witness noted that the objects appeared under a cirrostratus cloud., This was the second time the witness saw a similar type of object that day., The report was concluded as a valid sighting by Project Blue Book.",
+    "sighted object": "two unidentified flying objects or lights",
+    "location": "Mansfield, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A laboratory worker who observed the objects through a window.",
+    "contains photographs": false
 }

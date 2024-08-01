@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a bright, silver, disc-shaped object moving at high speed across the sky in Duncanville, Texas on November 17, 1959.",
-    "interesting points": [
-        "The object was estimated to be about the size of a half-dollar coin.",
-        "The object first appeared in the east and disappeared in the southwest.",
-        "The witness described the object's movement as 'instantaneous' and noted it made no sound.",
-        "The Air Force investigator suggested the object was likely a weather balloon.",
-        "The witness provided sketches illustrating the object's path and position relative to the horizon."
-    ],
-    "result": "Possibly a weather balloon",
-    "sighted object": "a bright, silver, disc-shaped object",
-    "location": "Duncanville, Texas",
-    "witnesses": "one witness, a 12-year-old boy",
-    "photographs": "no photographs, only sketches"
+    "main event": "An unidentified object, described as a silver disc the size of a half dollar, was observed in Duncanville, Texas on November 17, 1959.",
+    "interesting points": "The object was first seen in the East and then disappeared in the Southwest., The total duration of the observation was between 5 to 10 minutes., Witnesses noted that the sighting was similar to that of a weather balloon., The object was circular in shape with a bright glowing body and a dark rim., Witnesses estimated the size of the object to be approximately 50 feet in diameter.",
+    "sighted object": "a silver disc",
+    "location": "Duncanville, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness described observing a bright glowing disc moving rapidly across the sky.",
+    "contains photographs": false
 }

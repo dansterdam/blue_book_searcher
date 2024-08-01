@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Two oval, shiny objects were observed descending at a steep angle, stopping for a moment, then moving rapidly in a lateral motion before disappearing near Moses Lake, Washington",
-    "interesting points": [
-        "The objects descended in a steep angle, stopped for a moment, then moved at a rapid rate in a lateral motion before descending and disappearing.",
-        "Local investigators believe the sighting was likely caused by reflections.",
-        "The objects were observed for 2-30 seconds.",
-        "Multiple credible witnesses, including airmen, reported the sighting.",
-        "The objects were described as very bright and oval-shaped."
-    ],
-    "result": "unexplained",
+    "main event": "Two oval, shiny objects were observed descending at a steep angle over Moses Lake, Washington, on 5 October 1962.",
+    "interesting points": "The objects were seen descending at a steep angle before stopping and moving laterally at a rapid pace., Local investigators initially considered reflections as the cause of the sighting., Witnesses evaluated the sightings in terms of altitude and azimuth., The objects were thought to be traveling at speeds exceeding Mach 5., The sighting lasted between 2 to 30 seconds and involved two confirmed observations.",
     "sighted object": "two oval, shiny objects",
-    "location": "Moses Lake, Washington",
-    "witnesses": "multiple credible witnesses, including airmen",
-    "photographs": "no photographs present"
+    "location": "Moses Lake, Washington, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Local investigators and observers near Moses Lake",
+    "contains photographs": false
 }

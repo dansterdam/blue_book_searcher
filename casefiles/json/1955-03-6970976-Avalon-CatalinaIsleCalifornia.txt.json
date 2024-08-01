@@ -1,15 +1,9 @@
 {
-    "main event": "An observation of a bright object falling straight down and changing color from orange to red was reported in California, Catalina Isle in March 1955.",
-    "interesting points": [
-        "The observation lasted only 2 seconds, indicating a brief but impactful event.",
-        "The object was described as very bright, changing color from orange to red as it fell straight down.",
-        "The conclusion reached was that it was a probable meteor, suggesting a prosaic explanation for the sighting.",
-        "The source of the observation is unknown, adding an element of mystery to the report.",
-        "The fact that it was classified as a ground-visual and air-visual observation implies that it was witnessed from multiple perspectives."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "bright object falling straight down and changing color",
-    "location": "California, Catalina Isle",
-    "witnesses": "Unknown",
-    "photographs": "no photographs"
+    "main event": "An observation of a bright object changing color from orange to red and falling straight down was recorded in March 1955.",
+    "interesting points": "The object was observed for only 2 seconds., The observation was categorized as both ground-visual and air-visual., The object appeared very bright., It changed color before falling., The report concludes that the object was likely a meteor.",
+    "sighted object": "one bright object changing colors",
+    "location": "Catalina Isle, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown source",
+    "contains photographs": false
 }

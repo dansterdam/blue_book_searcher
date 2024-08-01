@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple UFO sightings reported in the Hartford, Indiana and Lansing, Michigan areas from May 20-23, 1964, including an orange light, blue/green lights, and strange noises.",
-    "interesting points": [
-        "Police officers and residents reported seeing a variety of unusual lights, both stationary and moving, that they found concerning enough to report.",
-        "One witness described seeing a blue or blue-green light descending 'to the ground' that was observed by two people.",
-        "A farmer in Grand Ledge reportedly saw a flying saucer land and take off again, but police were unable to corroborate the sighting.",
-        "Several reports involved strange noises, including a 'whirling' or 'whirring' sound that was heard by multiple witnesses and may have been connected to a police car siren used in an emergency run.",
-        "Some witnesses were hesitant to report their sightings at first, fearing they would be ridiculed, until they heard about other reports in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "Orange light, blue/green lights, unidentified flying objects",
-    "location": "Hartford, Indiana; Lansing, Michigan",
-    "witnesses": "Police officers, farmers, local residents",
-    "photographs": "none"
+    "main event": "An orange light was observed low in the northwest sky over Hartford, Indiana for three consecutive nights from May 20-23, 1964.",
+    "interesting points": "The sighting involved a single stationary object reported over several nights., There was a probable explanation that it was Venus during its setting., Multiple independent sightings reported lights that were stationary and moving., Police officers in surrounding areas also reported unusual lights., Noise complaints connected to an emergency run were received around the same time.",
+    "sighted object": "orange light in the sky",
+    "location": "Hartford, Indiana, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Two men reported seeing the orange light and one police officer confirmed it.",
+    "contains photographs": false
 }

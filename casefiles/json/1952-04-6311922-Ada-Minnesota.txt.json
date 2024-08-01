@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A yellow and green circular/oval object was spotted near Ada, Minnesota on April 5, 1952 around 9:15 PM.",
-    "interesting points": [
-        "The object changed shape from circular to oval and then split into two parts.",
-        "The object was estimated to be traveling at 300-500 mph and was about 150-200 feet off the ground.",
-        "The object made straight and level maneuvers with no trail, smoke, or noise.",
-        "A similar object was reportedly seen in the same general area about 4 years earlier.",
-        "The sighting was investigated by the Chief of the Analysis Branch of the 31st Air Division."
-    ],
-    "result": "unexplained",
-    "sighted object": "A yellow and green circular/oval object that split into two parts",
-    "location": "Near Ada, Minnesota",
-    "witnesses": "Multiple civilian witnesses and a Lieutenant in the USAF",
-    "photographs": "None, the report contains hand-drawn sketches but no photographs"
+    "main event": "A witness reported observing a fast-moving object with yellowish-green light near Ada, Minnesota on April 5, 1952.",
+    "interesting points": "The object was initially circular and changed to an oval shape, The object split into two parts before disappearing horizontally, Witness estimated the object's speed at 300 to 500 mph, The object traveled from North to South at an altitude of 150 to 200 feet, No trail, smoke, or noise was observed.",
+    "sighted object": "yellowish-green light emitted from a fast moving object",
+    "location": "Ada, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Witness provided a detailed account of the sighting including speed, size, and movement.",
+    "contains photographs": false
 }

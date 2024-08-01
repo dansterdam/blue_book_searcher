@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A silver, glowing object was observed falling from the sky over Scottsdale and Prescott, Arizona on November 20, 1962.",
-    "interesting points": [
-        "The object was observed by two different aircraft, a Cessna 172 and a T-33, as well as a ground observer in Scottsdale.",
-        "The object appeared to be maneuvering and then made a meteor-like observation before disappearing behind a mountain.",
-        "The object had a fiery glow and a visible vapor trail.",
-        "The observation was only a brief glimpse, lasting a short time.",
-        "The weather conditions at the time were clear, with unlimited visibility."
-    ],
-    "result": "unknown",
-    "sighted object": "a silver, glowing object",
-    "location": "Scottsdale and Prescott, Arizona",
-    "witnesses": "two aircraft pilots and a ground observer in Scottsdale",
-    "photographs": "none"
+    "main event": "A UFO sighting observed from two aircraft on November 20, 1962, in Arizona.",
+    "interesting points": "The object was reported to have a fiery glow and a vapor trail., The sighting lasted only a glimpse as the object descended at high speed., Observations from three areas indicated the object performed maneuvers., The object disappeared behind a mountain after its descent., The initial conclusions ranged from it being a balloon to a possible meteor.",
+    "sighted object": "one oval-shaped object",
+    "location": "Scottsdale & Prescott, Arizona, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "two air visual observers and one ground observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness reported seeing a bright orange-reddish object move rapidly at a low altitude over their car in New Bedford, Massachusetts on May 29, 1965.",
-    "interesting points": [
-        "The object hovered for a moment before moving rapidly away.",
-        "The witness initially thought they saw a reflection or light in the windshield, but when they looked up, the object was gone.",
-        "The object's color appeared bright orange-reddish and it seemed to emit light.",
-        "The weather was clear except for some scattered clouds, and the object came closer, making its shape more distinct.",
-        "The object moved rapidly northwest and then disappeared."
-    ],
-    "result": "ASTRONOMICAL (METEORS)",
-    "sighted object": "a bright orange-reddish object",
-    "location": "New Bedford, Massachusetts",
-    "witnesses": "a military witness",
-    "photographs": "no photographs present"
+    "main event": "A military witness observed an object emitting bright orange-reddish light moving rapidly at low altitude in New Bedford, Massachusetts.",
+    "interesting points": "The object was reported as having the appearance of a falling meteorite with a shape resembling a hole and windows., It hovered momentarily before moving rapidly away from the witness., The sighting occurred under clear weather conditions with some scattered clouds., The object moved northwest and disappeared from view after a few seconds., The document concludes the sighting was likely an astronomical phenomenon (meteors).",
+    "sighted object": "object emitting bright orange-reddish light",
+    "location": "New Bedford, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel, driving a 1966 Chevrolet",
+    "contains photographs": false
 }

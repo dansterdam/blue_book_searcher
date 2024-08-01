@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Stoneham, Massachusetts reported seeing a single, star-like object moving rapidly across the sky for about 3 seconds on July 22, 1963.",
-    "interesting points": [
-        "The object was observed to be moving at a high speed and changing direction abruptly.",
-        "The witness estimated the object was approximately 2000 yards away.",
-        "The witness was a 10th grade high school student at the time of the sighting.",
-        "The sighting was reported to the Massachusetts State Police on February 22, 1963.",
-        "The Air Force concluded the sighting was of a satellite."
-    ],
-    "result": "satellite",
-    "sighted object": "a single, star-like object",
-    "location": "Stoneham, Massachusetts",
-    "witnesses": "a civilian, a high school student",
-    "photographs": "none"
+    "main event": "A civilian reported observing a UFO in Stoneham, Massachusetts on July 22, 1963.",
+    "interesting points": "The sighting lasted for approximately 5 minutes,The object was moving rapidly across the sky and appeared star-like and small,The weather conditions were bright at the time of the sighting,The observer was an 18-year-old male high school student,The report concluded that the object was a satellite.",
+    "sighted object": "one unidentified object",
+    "location": "Stoneham, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "18-year-old male high school student",
+    "contains photographs": false
 }

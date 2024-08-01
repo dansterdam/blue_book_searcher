@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A report of a fast-moving object in Penbrook, Pennsylvania in 1952.",
-    "interesting points": [
-        "The report describes the object as moving 3-5 times as fast as a powered airplane.",
-        "The report is considered 'unreliable' by the source.",
-        "This is one of three reports received for this source, two of which were 'fantastic'.",
-        "The observation lasted for approximately three minutes.",
-        "The report mentions seeing a case from July 17, 1954 in Penbrook, Pennsylvania."
-    ],
-    "result": "unexplained",
-    "sighted object": "one fast-moving object",
-    "location": "Penbrook, PA",
-    "witnesses": "unreliable source",
-    "photographs": "none"
+    "main event": "A visual observation of a UFO in Penbrook, PA on February 12, 1952.",
+    "interesting points": "The sighting lasted for three minutes., The object was reported to move up and down., Three reports were received for this sighting, with two being described as fantastic., The reported speed of the object was 3-5 times faster than power-driven airplanes., The report is considered unreliable.",
+    "sighted object": "one unidentified flying object",
+    "location": "Penbrook, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses available",
+    "contains photographs": false
 }

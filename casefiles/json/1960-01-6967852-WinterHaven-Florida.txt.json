@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A circular object, the size of a garbage can, was observed approaching from the east, circling in a tight radius for approximately 6 minutes, and then departing in a southerly direction while gaining altitude.",
-    "interesting points": [
-        "The object was circular in shape and reddish in color.",
-        "The object was observed for 2 minutes.",
-        "The object approached from the east, circled in a tight radius, and then departed in a southerly direction while gaining altitude.",
-        "The report suggests the sighting may have been the result of an Atlas missile launching at Cape Canaveral and the trail appearing circular due to atmospheric distortion.",
-        "The witness was a civilian female, Mrs. J***** M*****, who was a housewife and considered to be of normal reliability."
-    ],
-    "result": "probable explanation - Atlas missile launch at Cape Canaveral",
+    "main event": "A circular object, the size of a garbage can, was observed approaching from the east, circling in a tight radius for approximately 6 minutes before departing in a southerly direction while gaining altitude.",
+    "interesting points": "The object circled for 6 minutes before gaining altitude and departing south., The sighting was conducted under clear weather conditions., The observer was a civilian housewife with normal reliability., The object was described as reddish and circular in shape., There is a suspicion that the sighting may have been related to a missile launch from Cape Canaveral.",
     "sighted object": "circular object, size of a garbage can",
-    "location": "Winter Haven, Florida",
-    "witnesses": "civilian female, Mrs. J***** M*****",
-    "photographs": "yes, the report includes photographs"
+    "location": "Winter Haven, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian female, housewife, normal reliability",
+    "contains photographs": false
 }

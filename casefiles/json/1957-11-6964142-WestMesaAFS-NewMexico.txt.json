@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An unidentified object was visually observed at West Mesa AFS in New Mexico on November 6, 1937 at 1650 hours.",
-    "interesting points": [
-        "The object was observed by visual and radar means, with an elevation unknown and azimuth of 230 degrees, at a range of over 10 miles.",
-        "The object disappeared, and it was suspected to be an aircraft, but no confirmation existed.",
-        "The sighting lasted for 1 minute.",
-        "The report mentions tracking the object with a M-94 CMM type radar MPS-7, with details about the object's speed, azimuth, and range changes over time.",
-        "The report also mentions other potential sightings on November 27, 1952, but provides limited details."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified object",
-    "location": "West Mesa AFS, New Mexico",
-    "witnesses": "military personnel",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A visual observation of an unidentified object was made at West Mesa AFS on November 6, 1937.",
+    "interesting points": "The object was observed at azimuth 230 degrees and a range of over 10 miles., The length of the observation was reported to be 1 minute., The unidentified object was suspected to be an aircraft due to the lack of confirmation., The speed of the object was clocked at high speed by radar., No photographs were included in the report.",
+    "sighted object": "unidentified object",
+    "location": "West Mesa AFS, New Mexico, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no confirmed witnesses",
+    "contains photographs": false
 }

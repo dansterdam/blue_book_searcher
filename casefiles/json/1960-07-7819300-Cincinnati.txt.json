@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright object was observed in the sky over Cincinnati, Ohio on July 29, 1963.",
-    "interesting points": [
-        "The object was initially stationary, then accelerated rapidly and made a fast run, leaving a sort of wake behind it.",
-        "The rapidity and course of acceleration were so extreme as to instantly discredit any notion of the object being a known satellite, balloon or other conventional aerial device.",
-        "The sighting lasted for 20 minutes.",
-        "The observer stated they first saw the object as a bright light in the sky.",
-        "No photographs were taken of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright object in the sky",
-    "location": "Cincinnati, Ohio",
-    "witnesses": "one observer",
-    "photographs": "no"
+    "main event": "A bright object was observed in the sky over Cincinnati, initially appearing stationary before accelerating away.",
+    "interesting points": "The sighting lasted for 20 minutes,The object left a wake as it moved to the north,The observer stated the object's rapid movement discredited it being a known satellite or balloon,This incident is noted as having the shortest duration of observation in recent files,The object was described as a bright light.",
+    "sighted object": "bright light in the sky",
+    "location": "Cincinnati, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "not specified",
+    "contains photographs": false
 }

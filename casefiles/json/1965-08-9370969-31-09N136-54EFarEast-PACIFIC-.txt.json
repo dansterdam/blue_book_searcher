@@ -1,15 +1,9 @@
 {
-    "main event": "Sighting of a pinpoint, single white object of approximately second magnitude with no sound by crew of the USS G.K. Mackenzie in the Pacific Ocean.",
-    "interesting points": [
-        "The object was sighted at an altitude of 23,530 feet, crossing the celestial sphere at an approximate heading of 110 degrees.",
-        "The object was observed for a duration of approximately 2 minutes, from 2700/10073Z to 1912/10073Z, and was lost from sight at an altitude of 4,000 feet due to clouds.",
-        "The observation was made by LT JG Antonino Rossman, USNR and LT JG Thomas Krakker, USN, who reported the reliability of the sighting as 'excellent'.",
-        "The weather conditions at the time of the sighting included partly cloudy skies, unlimited ceiling, 9 miles of visibility, and 3/10 cloud cover with shadows in the northeast quadrant.",
-        "The report concludes that the object was likely the Gemini 5 capsule on its 94th orbit."
-    ],
-    "result": "The object was identified as the Gemini 5 capsule on its 94th orbit.",
-    "sighted object": "a pinpoint, single white object of approximately second magnitude",
-    "location": "Pacific Ocean, 21.09N 136.54E",
-    "witnesses": "LT JG Antonino Rossman, USNR and LT JG Thomas Krakker, USN",
-    "photographs": "no"
+    "main event": "A military report documents the sighting of a single white object estimated at second magnitude in the Far East region.",
+    "interesting points": "The object was sighted at an altitude of 23,530 feet and lost sight at 21,440 feet in clouds,The observation lasted for 2 minutes,The sighting was conducted using binoculars by military personnel,The object was believed to be the Gemini 5 capsule on orbit 94,The report emphasized excellent visibility despite partly cloudy conditions.",
+    "sighted object": "single white object in the sky",
+    "location": "Far East (Pacific)",
+    "number of confirmed witnesses": 2,
+    "witness description": "LT JG Antonino Rossman, USNR and LT JG Thomas Krakker, USN",
+    "contains photographs": false
 }

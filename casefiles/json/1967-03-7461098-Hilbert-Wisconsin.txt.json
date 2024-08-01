@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer in Hilbert, Wisconsin saw a bright, solid object in the sky that made a humming noise on March 14, 1967.",
-    "interesting points": [
-        "The object appeared as bright as a red hot iron and the size of the moon.",
-        "The observer saw two beams of bluish-white light from his house that were about 20 feet tall.",
-        "The object's course varied and it was in sight for about 5-15 minutes.",
-        "The observer reported the sighting to the sheriff's department on February 21, 1967.",
-        "The Air Force's analysis was that the object was possibly an aircraft, but the information was insufficient for a conclusive identification."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, solid object",
-    "location": "Hilbert, Wisconsin",
-    "witnesses": "a civilian observer",
-    "photographs": "no"
+    "main event": "A civilian reported observing a bright solid object in the sky near Hilbert, Wisconsin on 14 March 1967.",
+    "interesting points": "The object was described as brighter than the brightest star and compared to a red hot iron., The object had an apparent size similar to the moon., It made a humming noise during observation., The object was in sight for approximately 15 minutes., Another eyewitness reported seeing two bluish-white beams of light from their house.",
+    "sighted object": "one solid bright object",
+    "location": "Hilbert, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian from Hilbert, Wisconsin",
+    "contains photographs": false
 }

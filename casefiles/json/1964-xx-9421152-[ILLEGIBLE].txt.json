@@ -1,15 +1,9 @@
 {
-    "main event": "The report does not contain a detailed summary of a UFO sighting event. The document appears to be a standard Project Blue Book UFO report form without any completed details.",
-    "interesting points": [
-        "The report form includes fields to record information about the date, time, location, number of objects, length of observation, and other details related to a UFO sighting.",
-        "The form indicates that photographs and physical evidence could be included as part of the report.",
-        "The form has a section for a brief summary and analysis of the incident.",
-        "The document does not contain any actual sighting details or witness accounts.",
-        "The lack of completed details suggests this is likely a blank or template form used for UFO reporting rather than a filled-out case file."
-    ],
-    "result": "inconclusive",
-    "sighted object": "not specified",
-    "location": "not specified",
-    "witnesses": "not specified",
-    "photographs": "no photographs included"
+    "main event": "A report detailing multiple sightings of unidentified flying objects (UFOs) with various descriptions and observations.",
+    "interesting points": "The report includes observations of circular green objects with bright lights, A witness described an object hovering and emitting a brilliant white light, The sighting occurred on 1 September 1954 at 1:20 AM in a hazy night sky, One object was described as a long cylinder attached to a spherical object, The report mentions sightings made from different locations and times, but no physical evidence was found.",
+    "sighted object": "various unidentified flying objects",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A woman who observed multiple lights moving in an erratic manner.",
+    "contains photographs": false
 }

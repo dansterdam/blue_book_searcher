@@ -1,17 +1,9 @@
-Here is the summary of the UFO case file in JSON format:
-
 {
-    "main event": "A round, white object was observed in the sky over Euclid, Ohio for 20 minutes on June 3, 1955.",
-    "interesting points": [
-        "The object was estimated to be the size of the head of a pin held at arm's length.",
-        "The object was observed at an estimated altitude of 10,000 to 15,000 feet.",
-        "The observation was made by a civilian Ground Observer Corps (GOC) observer.",
-        "No further investigation was authorized due to the time of sighting, the description of the object, the possibility of two sightings in the area, and the improbability of uncovering significant data.",
-        "The object was considered to be probably a balloon."
-    ],
-    "result": "probably a balloon",
-    "sighted object": "round, white object",
-    "location": "Euclid, Ohio",
-    "witnesses": "civilian (GOC observer)",
-    "photographs": "no"
+    "main event": "A civilian observer reported a sighting of a round, white object in the sky over Euclid, Ohio on June 3, 1955.",
+    "interesting points": "The object was observed at an estimated altitude of 10,000 to 15,000 feet.,The sighting lasted for twenty minutes.,The object was the size of the head of a pin held at arm's length.,The object was moving southwest.,No further investigation was authorized due to the improbability of uncovering significant data.",
+    "sighted object": "one round, white object",
+    "location": "Euclid, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian (GOC Observer)",
+    "contains photographs": false
 }

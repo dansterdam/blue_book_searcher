@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided text:
-
 {
-    "main event": "A commercial aircraft pilot sighted an unidentified, dark elongated object traveling at a high rate of speed over the Pacific Ocean.",
-    "interesting points": [
-        "The object was observed for approximately one minute before disappearing from view.",
-        "No other aircraft were reported in the area at the time of the sighting.",
-        "The attached photograph was inconclusive due to the poor quality of the image.",
-        "The object did not exhibit any visible means of propulsion and made no sound.",
-        "The sighting occurred on July 8, 1964 at coordinates 26°N, 147°W in the Pacific Ocean."
-    ],
-    "result": "unidentified",
-    "sighted object": "dark elongated object",
-    "location": "26°N, 147°W (Pacific Ocean)",
-    "witnesses": "pilot of commercial aircraft",
-    "photographs": "inconclusive due to poor quality"
+    "main event": "On July 8, 1964, a large, elliptical, white object was sighted in the Pacific Ocean, moving at high speed and glowing with its own luminosity.",
+    "interesting points": "The object was initially spotted at an altitude of 200-300 feet and was about the size of a C-5 airliner., It hovered for several minutes before accelerating rapidly and disappearing from view., The witness was certain it was not a conventional aircraft and expressed concern over the sighting., Multiple witnesses, including a family on vacation, observed the object., There were several reports of similar sightings in the area during the same time frame, involving bright lights and unusual maneuvers.",
+    "sighted object": "an elliptical white object glowing with luminosity",
+    "location": "26N, 147W, Pacific Ocean",
+    "number of confirmed witnesses": 4,
+    "witness description": "A family on vacation including a husband, wife, and two children.",
+    "contains photographs": false
 }

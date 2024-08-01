@@ -1,15 +1,9 @@
 {
-    "main event": "A sighting of an unidentified object in Albuquerque, New Mexico on August 10, 1955.",
-    "interesting points": [
-        "The object was described as a round, disc-shaped, silver object that trailed smoke.",
-        "The object traveled northwest and then remained stationary.",
-        "The sighting lasted for approximately 15 minutes.",
-        "Weather balloons released from Kirtland AFB were in the area at the time of the sighting, and it was concluded the object was likely one of these balloons.",
-        "Three aircraft from the 54th Air Division were scrambled to investigate but could not find any trace of the object."
-    ],
-    "result": "Possibly a weather balloon",
-    "sighted object": "A round, disc-shaped, silver object",
-    "location": "Albuquerque, New Mexico",
-    "witnesses": "Unknown",
-    "photographs": "No"
+    "main event": "An unidentified object sighting was reported in Albuquerque, New Mexico on August 10, 1955.",
+    "interesting points": "The observation lasted approximately 15 minutes,The object was described as a round-disc-shaped silver object trailing smoke,It was determined that the object was likely a weather balloon, but other possibilities could not be ruled out,Three aircraft were scrambled but could not find the object in the area,The object initially appeared stationary before it began to rise slowly.",
+    "sighted object": "one round-disc-shaped silver object",
+    "location": "Albuquerque, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife from 1413 La Vega Dr SW, Albuquerque",
+    "contains photographs": false
 }

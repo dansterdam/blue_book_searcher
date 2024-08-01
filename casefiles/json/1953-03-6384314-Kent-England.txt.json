@@ -1,15 +1,9 @@
 {
-    "main event": "On March 25, 1953 at 2330Z, a civilian reported an unidentified probable sighting in Kent, England. The observation lasted 3 minutes and was of a ground-visual type, with the observed course being northwest.",
-    "interesting points": [
-        "The sighting was of a clear, disc-shaped object in gray/yellow color, which changed shape and moved steadily in an oval group from south to northwest.",
-        "Another oval object disappeared to the west, and this second object was also observed by a Mr. Atte.",
-        "The report mentions ground mist and clear conditions with no reported physical evidence.",
-        "The conclusion of the observation was that it was an unidentified probable sighting.",
-        "The report was sent to various military and intelligence headquarters for further investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped object, oval group",
+    "main event": "An unidentified flying object was observed in Kent, England on 25 March 1953.",
+    "interesting points": "The observation lasted for 3 minutes,The object was described as having a disc shape in gray/yellow color,The course of the object was towards the northwest,Other oval objects were reported disappearing to the west,The conclusion of the report labeled the sighting as unidentified and probable.",
+    "sighted object": "unidentified flying object",
     "location": "Kent, England",
-    "witnesses": "civilian, Mr. Atte",
-    "photographs": "no photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "Multiple unidentified flying objects were observed over Bismarck, North Dakota on August 8, 1954.",
-    "interesting points": [
-        "There were approximately 6 to 12 objects sighted several times over Bismarck.",
-        "The objects were orange and red in color, and appeared to be solid.",
-        "The objects moved in a southerly direction, then erratically to the west and north to south again.",
-        "The objects were also seen the night before by several other people in different parts of Bismarck.",
-        "The observer was a reliable officer at the Bismarck Sheriff's Office."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "Multiple unidentified flying objects",
-    "location": "Bismarck, North Dakota",
-    "witnesses": "A reliable officer at the Bismarck Sheriff's Office",
-    "photographs": "None"
+    "main event": "Several unnumbered flying objects were sighted over Bismarck, North Dakota, with varying appearances and movements.",
+    "interesting points": "The sighting occurred on August 25, 1954, with reports of 10-12 objects observed., The objects were orange and red in color and moved erratically in various directions., The objects were reported to be solid and made no sound., The reliability of the observer is considered good and he is associated with the sheriff's office., The sky was at 2200 ft with light rain at the time of observation.",
+    "sighted object": "10-12 orange and red unmanned flying objects",
+    "location": "Bismarck, North Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "the observer is a member of the sheriff's office in North Dakota",
+    "contains photographs": false
 }

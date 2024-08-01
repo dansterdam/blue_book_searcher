@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A veteran in the U.S. Navy spotted a large, round unidentified object flying at high speed over Kenton, Ohio on May 12, 1952.",
-    "interesting points": [
-        "The object was flying at an altitude over 30,000 feet and was estimated to be traveling at 500-600 mph.",
-        "The veteran had sighted similar unidentified objects three times before.",
-        "The sky was clear with no overcast when the sighting occurred.",
-        "The object did not leave a vapor trail.",
-        "A separate incident involving a broken padlock in a stockroom was also reported on the same day."
-    ],
-    "result": "inconclusive",
-    "sighted object": "large, round unidentified object",
-    "location": "Kenton, Ohio",
-    "witnesses": "veteran, U.S. Navy",
-    "photographs": "none"
+    "main event": "A US Navy veteran reported sighting an unidentified object flying at over 30,000 feet, estimated speed of 500-600 mph on May 12, 1952.",
+    "interesting points": "The object was described as very large and round, and was not a jet aircraft,The veteran reported sighting a similar unidentified object three times since,The sky was clear with no overcast during the sighting,No vapor trail was observed from the object, The sighting was reported to the ATIC by the veteran who called at different times.",
+    "sighted object": "an unidentified flying object",
+    "location": "Kenton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "US Navy veteran",
+    "contains photographs": false
 }

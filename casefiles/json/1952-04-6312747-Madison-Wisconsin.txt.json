@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "5 or 6 yellowish-white semi-circular objects were observed making sharp turns and climbing rapidly over Madison, Wisconsin on April 16, 1952",
-  "interesting points": [
-    "The objects were observed traveling at a high rate of speed on a heading of 90 degrees.",
-    "The objects made a sharp left turn in a north-northwest direction and gained altitude rapidly before disappearing.",
-    "The radar station was temporarily down for maintenance but was brought back online within 3 minutes to try to obtain radar observations, with negative results.",
-    "Fighters were vectored to investigate the sighting, but they found nothing.",
-    "Checks with local observatories and airlines did not reveal any unusual astronomical or aviation activity that could explain the sighting."
-  ],
-  "result": "unknown",
-  "sighted object": "5 or 6 semi-circular yellowish-white objects",
-  "location": "Madison, Wisconsin",
-  "witnesses": "civilian observers",
-  "photographs": "no"
+    "main event": "On 16 April 1952, several civilian witnesses in Madison, Wisconsin observed 5 or 6 yellowish-white semi-circular objects traveling at high speeds in the sky.",
+    "interesting points": "The objects were seen making sharp turns and climbing rapidly,The sighting was reported to military authorities and involved multiple aircraft search efforts with negative results,The radar station was temporarily offline during the initial reports but became operational in minutes,Check with local airline flights and observatories revealed no identifiable aircraft or astronomical phenomena,Despite the presence of F-80 and F-86 military aircraft, the reported objects were not identified as those aircraft.",
+    "sighted object": "five or six yellowish-white semi-circular objects",
+    "location": "Madison, Wisconsin, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Civilian observers, including Mr. and Captain John R W Cambell, senior controller on duty.",
+    "contains photographs": false
 }

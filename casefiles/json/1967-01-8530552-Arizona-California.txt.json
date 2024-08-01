@@ -1,15 +1,9 @@
 {
-    "main event": "Sighting of a greenish-white object that appeared to explode into several pieces over Arizona and California",
-    "interesting points": [
-        "The pilot initially thought the object was a meteorite but later concluded it must have been much larger and at a lower altitude.",
-        "The report states that the object apparently exploded into several pieces.",
-        "The report concludes that the object was likely a large fireball, consistent with a satellite re-entry.",
-        "Multiple observers reported seeing the object, including a United Airlines pilot and observers at the Yuma Proving Grounds.",
-        "Authorities contacted various organizations like the Smithsonian Astrophysical Observatory and the U.S. Naval Observatory in Flagstaff to inquire about the sighting, but they did not have any reports."
-    ],
-    "result": "Likely a large fireball/satellite re-entry",
-    "sighted object": "Greenish-white object that exploded into several pieces",
-    "location": "Arizona, California",
-    "witnesses": "Pilot, observers at Yuma Proving Grounds",
-    "photographs": "No"
+    "main event": "A greenish-white object was observed from Yuma, Arizona moving northwest and was visible for several seconds before it appeared to explode into pieces.",
+    "interesting points": "The pilot initially thought the object was a meteorite but later concluded it was larger and at a lower altitude., A United Airlines pilot reported bright lights trailing sparks and flames that illuminated the cockpit., The object was seen by Yuma Proving Grounds at El Mirage Field, who also reported bright lights., The sighting involved multiple witnesses including military and civilian pilots., The incident was investigated by various military branches with no accounts of missile activity.",
+    "sighted object": "a greenish-white object",
+    "location": "Yuma, Arizona, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a United Airlines pilot and military personnel at Yuma Proving Grounds",
+    "contains photographs": false
 }

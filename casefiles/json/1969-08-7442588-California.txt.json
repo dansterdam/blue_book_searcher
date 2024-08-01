@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An unidentified object was observed in the sky over Santa Monica, California in 1969.",
-    "interesting points": [
-        "The object traveled on a southerly course and was visible for 1-2 minutes.",
-        "The object was identified as the decay of the Cosmos 294 Rocket Body.",
-        "The witness was a 17-year USAF pilot who reported the sighting.",
-        "The Air Force investigated the sighting and determined it was likely the density or crescent moon.",
-        "The Air Force thanked the witness for reporting the sighting."
-    ],
-    "result": "identified as satellite decay",
-    "sighted object": "an unidentified object in the sky",
-    "location": "Santa Monica, California",
-    "witnesses": "a 17-year USAF pilot",
-    "photographs": "none"
+    "main event": "An unidentified object was observed in Santa Monica, California on August 25, 1969, identified as the decay of Cosmos 294 Rocket Body.",
+    "interesting points": "The object was visually observed from the ground at 1930 PDT.,The sighting lasted for approximately 1-2 minutes.,The object's trajectory was moving in a southerly direction., The source of the sighting was reported as military.,Physical evidence was noted to be present.",
+    "sighted object": "unidentified object identified as a satellite decay",
+    "location": "Santa Monica, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer was a male with 17 years of experience as a USAF pilot.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Portland, Indiana reported seeing a circular, gray object in the sky on April 14, 1965 at 5:25 CST.",
-    "interesting points": [
-        "The object was observed for 1 hour and 30 minutes, moving from southwest to northeast.",
-        "The sky was partly cloudy at the time of the sighting.",
-        "Photographs and physical evidence were obtained, but the details are not provided.",
-        "The observer noted that the object appeared stationary at times and then suddenly sped up and rushed away.",
-        "The observer was unable to estimate the distance or speed of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "circular, gray object",
-    "location": "Portland, Indiana",
-    "witnesses": "civilian",
-    "photographs": "yes, but details not provided"
+    "main event": "A civilian reported a UFO sighting in Portland, Indiana on January 3, 1965, at 0305Z.",
+    "interesting points": "The sighting lasted for one hour and thirty minutes.,The object was observed moving from east to west.,Physical evidence related to the sighting was obtained.,The visibility of the object was described as circular and gray.,The UFO sighting was officially documented through Project Blue Book.",
+    "sighted object": "one circular gray object",
+    "location": "Portland, Indiana, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": true
 }

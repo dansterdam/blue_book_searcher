@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three lights were sighted in the sky over New Orleans, Louisiana on March 23, 1966.",
-    "interesting points": [
-        "The lights appeared to be very bright, with the outside edges blinking.",
-        "The lights were described as round like a saucer.",
-        "No sound was observed with the sighting.",
-        "The objects were reported as moving from west to east.",
-        "The sighting lasted between 30 seconds to 1 minute."
-    ],
-    "result": "possible aircraft",
-    "sighted object": "three bright lights in the sky",
-    "location": "New Orleans, LA",
-    "witnesses": "civilian, Kathryn Boyle",
-    "photographs": "no"
+    "main event": "Observer sighted three lights side by side in New Orleans, LA on March 23, 1966, appearing round like a saucer and blinking on the edges.",
+    "interesting points": "The sighting lasted between 30 seconds to 1 minute., The observer reported no sound from the objects., The observed lights were moving from west to east., The objects could have been mistaken for a 727 Whisper Jet., This event was documented in Project Blue Book, which was a USAF program for investigating UFOs.",
+    "sighted object": "three round lights side by side",
+    "location": "New Orleans, LA, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Kathryn Boyle, a middle-aged housewife from New Orleans",
+    "contains photographs": false
 }

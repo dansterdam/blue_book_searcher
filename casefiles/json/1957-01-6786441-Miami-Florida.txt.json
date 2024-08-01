@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian reported observing an unidentified flying object for 30 minutes over Miami, Florida on January 13, 1957.",
-    "interesting points": [
-        "The object appeared to be vibrating in the same spot until it disappeared.",
-        "The object disappeared and reappeared twice.",
-        "The officer submitting the report believed the object was likely an evening star, with its apparent movement and twinkling caused by evening haze.",
-        "The object was described as being 3 times the size of a star and emitting red and green glares.",
-        "The object was observed orbiting and then disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified flying object",
-    "location": "Miami, Florida",
-    "witnesses": "civilian",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "An unidentified object was observed for 30 minutes in Miami, Florida on January 13, 1957.",
+    "interesting points": "The object appeared to be vibrating in the same spot before it disappeared and reappeared twice., The sighting took place at an angle of 15 miles at 20 degrees., The observer was a civilian who reported it as an unknown object., The officer believed it to be a star twinkling due to evening haze., The object did not make any sound during the observation.",
+    "sighted object": "unknown object with red and green glare",
+    "location": "Miami, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

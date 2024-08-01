@@ -1,15 +1,9 @@
 {
-   "main event":"A UFO sighting occurred on August 6th, 1956 in Santa Monica, California, involving a single object with red, blue, yellow, and white lights. The object climbed in altitude before descending south in a zig-zag pattern.",
-   "interesting points":[
-      "The UFO trail color was reported as red, blue, yellow and white lights.",
-      "The object climbed in altitude before descending south in a zig-zag pattern, which is not characteristic of conventional aircraft.",
-      "The sighting lasted for 15 minutes, giving the witness a substantial amount of time to observe the object.",
-      "The report suggests that the description meets the criteria for a jet aircraft with unconventional variations, indicating a possibility of misidentification.",
-      "Efforts were made to check all possible sources for information on the sighting, but with negative results."
-   ],
-   "result":"prozaic explanation",
-   "sighted object":"One UFO with red, blue, yellow, and white lights",
-   "location":"Santa Monica, CA",
-   "witnesses":"Civilians",
-   "photographs":"no"
+    "main event": "A civilian observed a UFO with a trail of red, blue, and yellow colors in Santa Monica, California on August 6, 1956.",
+    "interesting points": "The UFO climbed in altitude before descending south in a zig-zag pattern,The observation lasted for about 15 minutes,The sighting was classified as a ground-visual observation,The report mentions that the description may fit an unconventional jet aircraft,The object was observed traveling south from Venice.",
+    "sighted object": "one UFO with a colorful trail",
+    "location": "Santa Monica, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

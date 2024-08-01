@@ -1,17 +1,9 @@
-Here is the summary in JSON format:
-
 {
-    "main event": "Two large silver-colored oval-shaped objects were seen in the sky near Hayward, California on August 6, 1952.",
-    "interesting points": [
-        "The objects were brighter than the surrounding starlit sky.",
-        "The objects made a noise similar to that of an aircraft.",
-        "The sighting lasted for 1 minute.",
-        "No photographs were included with the report.",
-        "The objects were moving in a southerly direction."
-    ],
-    "result": "unexplained",
+    "main event": "Two large silver-colored oval-shaped objects were observed in the sky over Hayward, California.",
+    "interesting points": "The objects were brighter than the surrounding starlit sky,The observer reported hearing aircraft noise similar to that of an airplane,The sighting lasted for 1 minute,The objects were flying south,The sighting was documented in Project Blue Book.",
     "sighted object": "two large silver-colored oval-shaped objects",
-    "location": "Hayward, California",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "location": "Hayward, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "not specified",
+    "contains photographs": false
 }

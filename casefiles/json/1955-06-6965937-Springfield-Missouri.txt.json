@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An airline pilot spotted a single, round, silver object with a steady light and white smoke trailing behind it over Springfield, Missouri in 1955.",
-    "interesting points": [
-        "The object was estimated to be 15-20 feet in diameter and traveling at an estimated speed of 100 mph.",
-        "The object turned from heading north-northeast to the south and then west before disappearing behind a group of trees.",
-        "The sighting lasted for 10-15 seconds.",
-        "The two witnesses were questioned by service personnel and filled out questionnaires about the sighting.",
-        "The investigating party concluded that the sighting could possibly be attributed to an aircraft."
-    ],
-    "result": "possibly aircraft",
-    "sighted object": "a single, round, silver object with a steady light and white smoke trailing behind it",
-    "location": "Springfield, Missouri",
-    "witnesses": "an airline pilot and one other civilian witness",
-    "photographs": "no"
+    "main event": "On 22 June 1955, two civilians observed a round, silver object trailing white smoke in Springfield, Missouri.",
+    "interesting points": "The object was estimated to be 15-20 feet in diameter,The object traveled from NNE toward the south before turning west,It gave off a steady light,After 10-15 seconds, it disappeared behind a group of trees,The estimated speed of the object was 100 MPH.",
+    "sighted object": "one round, silver object trailing white smoke",
+    "location": "Springfield, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "civilian observers",
+    "contains photographs": false
 }

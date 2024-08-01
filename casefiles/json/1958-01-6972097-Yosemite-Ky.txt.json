@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round white ball, smaller than a dime, was seen moving northwest for 3 seconds over Yosemite, Kentucky.",
-    "interesting points": [
-        "The object was seen moving northwest and disappeared in the northeast direction.",
-        "The report mentions a 'trail of fire' that appeared and disappeared.",
-        "The observation was made by a ground-visual witness, the post supervisor James Coleman.",
-        "The weather conditions at the time were clear with calm surface winds.",
-        "The report states there is insufficient data to evaluate the sighting."
-    ],
-    "result": "unknown",
-    "sighted object": "round white ball, smaller than a dime",
-    "location": "Yosemite, Kentucky",
-    "witnesses": "James Coleman, post supervisor",
-    "photographs": "no"
+    "main event": "A round white ball smaller than a dime was observed moving northwest for a duration of 3 seconds.",
+    "interesting points": "The object was seen in clear night skies,The object left a trail of fire that appeared and disappeared,The sighting occurred on 2 January 1958,The report indicates insufficient data for proper evaluation,The sighting was classified as 'possibly aircraft' but also includes the possibility of a meteor.",
+    "sighted object": "one round white ball",
+    "location": "Yosemite, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "James Coleman, Post Supervisor",
+    "contains photographs": false
 }

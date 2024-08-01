@@ -1,15 +1,9 @@
 {
-    "main event": "A star-like object with white color was observed traveling eastward, wavering in flight, then continuing on a straight flight path for 45 seconds.",
-    "interesting points": [
-        "The object seemed faster than it should have been.",
-        "The report was made by a ground-radar and air-visual observation.",
-        "The report mentions concurrence with the reporting officer that the sighting was possibly an aircraft.",
-        "The report indicates there was a lot of air activity over Long Island, both land and marine, at the time.",
-        "The report concludes the sighting was possibly an aircraft."
-    ],
-    "result": "possibly aircraft",
-    "sighted object": "one star-like object with white color",
-    "location": "Long Island, New York",
-    "witnesses": "ground-radar and air-visual observation",
-    "photographs": "no"
+    "main event": "A star-like object was observed over Long Island, New York on August 3, 1956.",
+    "interesting points": "The object was white and resembled a star,It was traveling east and wavered in flight before continuing on a straight path,The observation lasted for forty-five seconds,The object seemed to be moving faster than expected,The report concludes it may have been a possible aircraft.",
+    "sighted object": "one star-like object",
+    "location": "Long Island, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses described",
+    "contains photographs": false
 }

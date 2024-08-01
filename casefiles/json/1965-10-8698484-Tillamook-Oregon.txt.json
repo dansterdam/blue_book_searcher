@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two objects were observed, with one having a fiery red tail. The smaller object disappeared by fading out of sight.",
-    "interesting points": [
-        "The two objects were observed for a few seconds.",
-        "One of the objects had a fiery red tail.",
-        "The smaller object disappeared by fading out of sight.",
-        "The sighting occurred at Tillamook, Oregon.",
-        "The report was submitted to various military and government agencies, including the Air Force and the Secretary of the Air Force."
-    ],
-    "result": "unexplained",
-    "sighted object": "two objects, one with a fiery red tail",
-    "location": "Tillamook, Oregon",
-    "witnesses": "lighthouse tender",
-    "photographs": "no"
+    "main event": "Two objects were observed with a fiery red tail near Tillamook, Oregon.",
+    "interesting points": "The sighting occurred shortly after sunset,The smaller object faded out of sight while the larger one remained visible for a few seconds,There was no physical evidence left from the sighting,The sighting was classified and reviewed by the Air Force,The reliability rating of the report was marked as F-6.",
+    "sighted object": "two unidentified flying objects with a fiery red tail",
+    "location": "Tillamook, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a lighthouse tender at Cape Mears Lighthouse",
+    "contains photographs": false
 }

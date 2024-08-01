@@ -1,15 +1,9 @@
 {
-    "main event": "A citizen in Los Angeles, California reported observing round, white objects the size of a baseball rapidly disappearing into the haze on the horizon for approximately 6 seconds.",
-    "interesting points": [
-        "The observed objects were described as round, white, and the size of a baseball, disappearing into the horizon rapidly.",
-        "The sighting lasted for approximately 6 seconds, and the objects were observed to be engulfed in the haze.",
-        "The report mentioned that all characteristics of the sighting resembled those of a meteor, with insufficient data for proper evaluation.",
-        "The sighting was made using ground visual observation with no binoculars involved.",
-        "The report was part of Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs)."
-    ],
-    "result": "prosaic explanation (meteor)",
-    "sighted object": "round, white objects",
-    "location": "Los Angeles, CA",
-    "witnesses": "citizen",
-    "photographs": "yes"
+    "main event": "Citizen reported sighting of round objects, the size of baseballs, rapidly disappearing into haze on the horizon.",
+    "interesting points": "The sighting lasted for approximately 6 seconds., The objects were described as white and round., The report suggested all characteristics aligned with meteors but noted insufficient data for evaluation., The observation was conducted with ground visual and binoculars., This report is part of Project Blue Book, a U.S. Air Force program for investigating UFOs.",
+    "sighted object": "round white objects",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a citizen",
+    "contains photographs": true
 }

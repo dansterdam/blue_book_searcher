@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian witness observed a star-like object coming from the northeast sky and traveling slowly towards the west in Green, Kentucky on March 13, 1967.",
-    "interesting points": [
-        "The object hovered for several minutes before disappearing.",
-        "As a plane got close to the object, the light went out and never reappeared.",
-        "The object was described as brighter than the stars, with a white center and lighter blue and blue outer edges that looked like it had spheres on the outside.",
-        "The witness reported hearing a light humming sound from the object.",
-        "The witness was asked to complete a detailed questionnaire about the sighting, including questions about the time, location, weather conditions, object characteristics, and motion."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A star-like object",
-    "location": "Green, Kentucky",
-    "witnesses": "Civilian witness",
-    "photographs": "No"
+    "main event": "A witness observed a star-like object traveling slowly from the North-East sky to the West in Green, Kentucky on March 13, 1967.",
+    "interesting points": "The object hovered for several minutes before disappearing completely., The witness remarked that the object was brighter than the stars and had a white center with lighter blue edges., An unidentified aircraft was seen approaching the object just before the lights went out., The witness heard a light humming sound associated with the object., The official conclusion of the report was that there was insufficient data for evaluation.",
+    "sighted object": "one star-like object",
+    "location": "Green, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mrs. Georgia Elliot, observed the object with her daughter.",
+    "contains photographs": false
 }

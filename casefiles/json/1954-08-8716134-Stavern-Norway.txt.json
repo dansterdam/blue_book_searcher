@@ -1,15 +1,9 @@
 {
-    "main event": "In 1954, a luminous circular object appeared and disappeared several times over Stavern, Norway. It remained stationary for seven minutes before disappearing at a speed many times that of sound.",
-    "interesting points": [
-        "The object was observed for a duration of 55 minutes, providing a substantial amount of data.",
-        "It was described as circular with a dark lower part and a luminous aluminum upper part.",
-        "The object disappeared at a speed many times that of sound, indicating extremely high velocity.",
-        "The report mentions it as a second-hand account, suggesting multiple witnesses or official documentation.",
-        "The origin of the report is labeled as 'The Flying Saucer Question Almost Cleared Up,' implying an attempt to explain the sighting."
-    ],
-    "result": "unexplained",
+    "main event": "A luminous circular object appeared and disappeared several times in Stavern, Norway on 12 Sep 1954.",
+    "interesting points": "The object remained visible for 55 minutes,The lower part of the object was dark while the upper part was luminous aluminum,The object disappeared at a speed many times that of sound,The sighting involved approximately fifty officers and men,The report indicates this appears to be a second-hand account.",
     "sighted object": "luminous circular object",
     "location": "Stavern, Norway",
-    "witnesses": "D Air-Visual, 50 officers and men at Stavern, Norway",
-    "photographs": "no"
+    "number of confirmed witnesses": 50,
+    "witness description": "officers and men in the area",
+    "contains photographs": false
 }

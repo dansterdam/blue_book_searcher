@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "Congress requested the Air Force to improve its investigation capabilities for unidentified aerial phenomena (UAP) sightings.",
-    "interesting points": [
-        "In a briefing on July 15, 1960, Mr. Robert Smart of the House Armed Services Committee stated that the Air Force should have the capability to investigate UAP sightings that show potential intelligence or scientific significance, or generate significant public interest.",
-        "ATIC (Air Technical Intelligence Center) was estimated to need 12-13 additional UAP investigations per year, requiring an additional officer and $3,000 in travel funds.",
-        "The officer assigned to the UAP investigation team should have a scientific background, preferably in physics or astronomy, to contribute effectively to the investigation and analysis.",
-        "The Air Force acknowledged the need to improve its UAP investigation capabilities but faced challenges in allocating additional personnel and resources due to competing priorities.",
-        "There were concerns that increased public and congressional interest in UAP could generate more demands for investigations, requiring further support for the Air Force's UAP program."
-    ],
-    "result": "unresolved",
+    "main event": "A series of briefings regarding the capability and funding for the investigation of UFO sightings took place from 11-15 July 1960, involving various members of the House Armed Services and Science and Astronautics Committees.",
+    "interesting points": "Mr. Robert Smart recommended increased capability for ATIC to conduct UFO investigations,The Air Force disclosed limitations in their current investigative capabilities at the briefings,More than 12,000 UFO cases are estimated to require investigation each year,It was emphasized that additional personnel and funding were necessary for a thorough investigation,Concerns were raised about public interest and pressure for additional hearings on UFO matters.",
     "sighted object": "unidentified aerial phenomena",
-    "location": "United States",
-    "witnesses": "Congress, Air Force personnel",
-    "photographs": "none"
+    "location": "Maxwell AFB, Alabama, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Members of the House Armed Services and Science and Astronautics Committees, and USAF personnel",
+    "contains photographs": false
 }

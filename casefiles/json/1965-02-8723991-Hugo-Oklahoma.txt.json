@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the JSON summary:
-
 {
-    "main event": "Multiple bright, shiny objects were observed visually and on radar, moving quickly in a north-northwest direction near Howe, Oklahoma.",
-    "interesting points": [
-        "The objects were observed for about 5 minutes and 15 seconds, during which time they traveled approximately 60 miles.",
-        "The objects made no sonic boom or trail.",
-        "The formation of the objects was described as impressive.",
-        "The objects were also picked up on radar at Tinker Air Force Base at the same time they were observed visually.",
-        "The report includes a handwritten diagram or sketch of the objects' flight path and visual observation details."
-    ],
-    "result": "Unexplained",
-    "sighted object": "Multiple bright, shiny objects",
-    "location": "East of Howe, Oklahoma",
-    "witnesses": "Private citizen, radar observation",
-    "photographs": "None"
+    "main event": "A report detailing observations of unidentified flying objects was submitted, including a sighting in Hugo, Oklahoma on February 9, 1965.",
+    "interesting points": "Object was described as disk-shaped and shiny, The object moved erratically and very fast from North to South, 14 objects were reported in a different sighting on February 16, 1965, These objects were detected both visually and on radar, The sighting lasted about 5 minutes, 15 seconds with impressive formation.",
+    "sighted object": "disk-shaped shiny object and 14 bright shiny objects",
+    "location": "Hugo, Oklahoma, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

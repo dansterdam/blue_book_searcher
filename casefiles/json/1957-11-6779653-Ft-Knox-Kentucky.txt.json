@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three unidentified lights were observed over Fort Knox, Kentucky in November 1957.",
-    "interesting points": [
-        "The objects were tracked by radar and witnessed by multiple military personnel.",
-        "The objects suddenly changed direction and accelerated rapidly before disappearing.",
-        "The objects were described as bright, rapidly moving lights across the sky.",
-        "One object was observed hovering about 30 feet above the ground before moving rapidly northeast and disappearing.",
-        "The objects were described as blue-yellow in color and oval in shape, approximately 4x4 yards in size."
-    ],
-    "result": "unknown",
-    "sighted object": "three unidentified lights/objects",
-    "location": "Fort Knox, Kentucky",
-    "witnesses": "military personnel, including a military police officer",
-    "photographs": "none"
+    "main event": "A UFO was reported to have been observed at Fort Knox, Kentucky, on November 6, 1957, with military personnel witnessing a bright, rapidly moving light in the sky.",
+    "interesting points": "The observation lasted approximately 15-20 minutes,The object was tracked by radar,Multiple military personnel reported seeing the object,The object changed direction and accelerated rapidly before disappearing,The object was described as a blue-yellow oval shape hovering at about 30 feet before it moved rapidly northeast.",
+    "sighted object": "a bright, rapidly moving light",
+    "location": "Fort Knox, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a military police officer on duty",
+    "contains photographs": false
 }

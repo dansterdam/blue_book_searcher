@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A witness observed a silvery, glowing object maneuvering between clouds and flashing lights in the sky over Des Plaines, Illinois on July 1, 1965.",
-    "interesting points": [
-        "The object appeared to be silvery in color and sometimes gave the appearance of two or three lighted points.",
-        "The object slowed considerably in velocity and at one point seemed to 'stand still' before reappearing at another location in the sky.",
-        "There were a series of short light flashes, lasting about 1/2 second each, to the south of the object that covered an area of about 40-45 degrees.",
-        "The witness observed the object for over an hour before having to leave, and it remained in view until then.",
-        "The witness was not overly excited or alarmed, but rather intrigued by the appearance and maneuvers of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "A silvery, glowing object with sometimes two or three lighted points",
-    "location": "Des Plaines, Illinois",
-    "witnesses": "A civilian witness",
-    "photographs": "No photographs are present in this report"
+    "main event": "A witness observed multiple bright objects in the night sky over Des Plaines, Illinois, on July 1, 1965.",
+    "interesting points": "The objects appeared stationary or moving slowly, with varying brightness and a pulsing type of light,The witness observed the objects for about one hour, with additional light flashes occurring to the south of the main object,The objects were seen to disappear and reappear at irregular intervals,The witness described the object as silvery and brighter than familiar stars,The sighting involved observation of the motion relative to fixed stars in the sky.",
+    "sighted object": "multiple bright objects moving between clouds",
+    "location": "Des Plaines, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian engaged in stellar observation before noticing the objects",
+    "contains photographs": false
 }

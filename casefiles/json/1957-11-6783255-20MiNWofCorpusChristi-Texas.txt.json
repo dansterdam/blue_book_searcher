@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A GOC observer spotted an unidentified object with the appearance of a bright star with a tail, the size of a pea and silver in color, over 20 miles northwest of Corpus Christi, Texas.",
-    "interesting points": [
-        "The object had a very bright and rather short trail, which appeared to be a contrail.",
-        "The object seemed to be an aircraft with the sun shining on it.",
-        "The observer stated that he thought the object was an airplane.",
-        "Other reports were called in about the same object, causing some mix-up between this object and a bright star to the south.",
-        "The observation lasted for about 20 minutes."
-    ],
-    "result": "unknown",
-    "sighted object": "an object with the appearance of a bright star with a tail",
-    "location": "20 miles NW of Corpus Christi, Texas",
-    "witnesses": "GOC observer",
-    "photographs": "no"
+    "main event": "An observer reported seeing an object that appeared like a bright star with a tail, possibly an aircraft, near Corpus Christi, Texas.",
+    "interesting points": "The object was observed for 20 minutes,The observer described the object as silver and the size of a pea,It left a bright but short trail,The object was thought to be illuminated by the sun,There was confusion with a bright star in the south as the possible identification.",
+    "sighted object": "an object resembling a bright star with a tail",
+    "location": "20 Mi NW of Corpus Christi, Texas",
+    "number of confirmed witnesses": 1,
+    "witness description": "T/Sgt. Kennedy, Detachment S4783, OCC Squadron, Corpus Christi, Texas",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "Radar contact with a rapidly moving object over Truax Field, Wisconsin.",
-    "interesting points": [
-        "The object was detected on radar, moving at a speed of over 1,000 knots at an altitude of 100,000 feet.",
-        "The object was tracked for approximately 10 minutes, moving from 42°14'N 83°30'W to 41°40'N 83°20'W.",
-        "The object's flight path was described as a southwest heading.",
-        "The radar contact was classified as a possible test aircraft or a radar malfunction, as there was no known air traffic in the area at that altitude.",
-        "The report mentions that there was no physical evidence available."
-    ],
-    "result": "unexplained",
-    "sighted object": "Rapidly moving object detected on radar",
-    "location": "Truax Field, Wisconsin",
-    "witnesses": "Army Air Defense Missile Site (ARADCOM Site C-72)",
-    "photographs": "no"
+    "main event": "Radar contact with a rapidly moving object over Truax Field, Wisconsin on July 25, 1965.",
+    "interesting points": "The object was detected on radar flying at a speed of over one thousand knots at an altitude of one hundred thousand feet., The object lost radar contact after being tracked for a duration of 10 minutes., Analysis suggests the speed was too slow for a meteor but compatible with a high-performance aircraft., The report indicates no known air traffic in the area at the time of the sighting., There was no physical evidence available for further evaluation.",
+    "sighted object": "a rapidly moving object detected on radar",
+    "location": "Truax Field, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer from an Army Air Defense Missile Site",
+    "contains photographs": false
 }

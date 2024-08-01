@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Several witnesses observed a strange aerial object, described as a bright light, hovering over Chicago, Illinois on November 6, 1951.",
-    "interesting points": [
-        "The object was much brighter than the surrounding stars and was observed for several minutes before suddenly accelerating and disappearing from view.",
-        "Numerous reports of this sighting were received by the U.S. Air Force's Project Blue Book, but the exact details of the investigation and conclusion are not included in the available documentation.",
-        "Attempts were made to photograph the objects, but the results were unclear and inconclusive.",
-        "The incident was investigated by the United States Air Force as part of Project Blue Book, the official study of unidentified flying objects, but no definitive explanation for the sightings was determined.",
-        "A photograph was taken by a witness on the night of November 6, 1951, depicting an unidentified flying object observed for approximately 20 minutes over the Chicago skyline."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light, much brighter than the surrounding stars, hovering in the sky",
-    "location": "Chicago, Illinois",
-    "witnesses": "several",
-    "photographs": "yes, but the results were unclear and inconclusive"
+    "main event": "Several witnesses observed a bright light and multiple unidentified flying objects in the sky over Chicago, Illinois, on November 6, 1951.",
+    "interesting points": "Witnesses reported seeing between 6 and 12 objects described as circular or disc-shaped, The objects were much brighter than surrounding stars and hovered before accelerating away, The sighting lasted approximately 30 minutes, The incident was investigated by the U.S. Air Force's Project Blue Book, Attempts to photograph the objects resulted in unclear and inconclusive images.",
+    "sighted object": "bright lights and several unidentified flying objects",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "several persons observed the objects",
+    "contains photographs": true
 }

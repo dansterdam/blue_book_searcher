@@ -1,15 +1,9 @@
 {
-    "main event": "Multiple sightings of UFOs in Houston, Texas on June 19, 1957, including one round object and three objects resembling stars with blue-green light.",
-    "interesting points": [
-        "The UFO varied in color, from light green to red brilliant, and was seen visually for one minute.",
-        "Another sighting described three objects resembling stars in a row with blue-green light, with one of the objects seemingly falling apart as if it exploded.",
-        "The report indicates that the flight was probably caused by an aircraft, but no further explanation or conclusive evidence was provided.",
-        "The sightings were also captured on ground radar, adding credibility to the observations.",
-        "The report was addressed to various military and intelligence officials, indicating the significance of the sightings."
-    ],
-    "result": "unknown",
-    "sighted object": "round object and three star-like objects with blue-green light",
-    "location": "Houston, Texas",
-    "witnesses": "CAAt Witness, LT Edward P. McCabe, 1/LT Harvey D. Blanton",
-    "photographs": "no"
+    "main event": "Multiple sightings of unidentified flying objects reported on June 12 and June 19, 1957, in Houston, Texas.",
+    "interesting points": "One sighting involved a round object varying in color from light green to red; it appeared above the clouds and was seen visually for one minute., Another sighting described three stars in a row that looked like a basketball signal light; the object appeared to explode after two seconds., The objects were observed both visually and on radar., The sightings were part of the Project Blue Book investigation program., All sightings contained no confirmed photographs.",
+    "sighted object": "unidentified flying objects varying in color",
+    "location": "Houston, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Reports from various Air Force personnel",
+    "contains photographs": false
 }

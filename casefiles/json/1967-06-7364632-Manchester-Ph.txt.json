@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided text:
-
 {
-    "main event": "Multiple unidentified objects were observed over Manchester, Pennsylvania between June 23-30, 1967.",
-    "interesting points": [
-        "The objects were described as bright lights that moved across the sky at high speeds, sometimes in pairs, and changed directions abruptly.",
-        "The objects were observed between 11 PM and 4 AM over several nights.",
-        "Attempts were made to photograph the objects, but the resulting images were blurred and unclear.",
-        "The objects were initially thought to be weather balloons, but their movements and behaviors did not match that explanation.",
-        "The Project Blue Book investigation was unable to determine the nature or origin of the observed objects, classifying the case as 'unidentified'."
-    ],
-    "result": "unidentified",
-    "sighted object": "multiple bright lights or objects in the sky",
-    "location": "Manchester, Pennsylvania",
-    "witnesses": "multiple witnesses, including a farmer and police officers",
-    "photographs": "yes, but of poor quality"
+    "main event": "A sighting of an unidentified aerial phenomenon was reported in Manchester, Pennsylvania, on June 30, 1967, suggesting possible aircraft activity.",
+    "interesting points": "The sighting lasted for about 30 seconds., The observer described the object as exhibiting varied courses., There was uncertainty regarding the nature of the observed object, potentially being an aircraft., The report determined there was no data presented to indicate the object wasn't an aircraft., The observation included sketches and diagrams which represented the sighting.",
+    "sighted object": "unidentified aerial phenomenon",
+    "location": "Manchester, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no specific witnesses listed",
+    "contains photographs": false
 }

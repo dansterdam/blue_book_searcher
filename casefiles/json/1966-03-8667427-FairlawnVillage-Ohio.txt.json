@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A police officer in Fairlawn Village, Ohio spotted a brightly lit object flying about 1,000 feet above ground on March 8, 1966 at 7:25 PM.",
-    "interesting points": [
-        "The object appeared disc-shaped, about 100 feet in diameter, and was a bright white light.",
-        "The object maintained a constant speed and altitude as it traveled from northeast to southwest.",
-        "The officer observed the object for 3-4 minutes and estimated it was about 1 mile away.",
-        "The object did not make any sound and did not appear to be metallic.",
-        "The officer had previously seen similar objects fall from the sky but never this close."
-    ],
-    "result": "meteor",
-    "sighted object": "a bright, disc-shaped object",
-    "location": "Fairlawn Village, Ohio",
-    "witnesses": "a police officer",
-    "photographs": "no"
+    "main event": "A police officer in Fairlawn Village, Ohio sighted a bright light moving downward rapidly, which left sparks before disappearing behind a building.",
+    "interesting points": "The sighting lasted for about 5-6 seconds., The object was brighter than a star and appeared to come down at a slight angle., The witness used a telescope but could not determine the object's nature., No sound was reported during the observation., The officer had seen similar objects fall from the sky in the past.",
+    "sighted object": "a light brighter than a star",
+    "location": "Fairlawn Village, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness is a police officer from Fairlawn Village",
+    "contains photographs": false
 }

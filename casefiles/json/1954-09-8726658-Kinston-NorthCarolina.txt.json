@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar and visual sighting of a fast-moving object over Kinston, North Carolina in 1954.",
-    "interesting points": [
-        "The object was spotted by both ground radar and visual observation from the air.",
-        "The object was reported to be traveling at a speed of 600 mph.",
-        "The object was described as oval-shaped, slightly smaller than a football, and blue-green in color.",
-        "The object passed through the observers' field of vision in 3-5 seconds, moving straight and level.",
-        "No explanation was provided for the source of the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "an oval-shaped, blue-green object",
-    "location": "Kinston, North Carolina",
-    "witnesses": "ground radar and air visual",
-    "photographs": "no photographs included"
+    "main event": "A blue-green light was sighted in Kinston, North Carolina on 13 September 1954.",
+    "interesting points": "The light was described as oval and slightly smaller than a football., The sighting lasted for 3 to 5 seconds., The object was traveling at a high speed of 600 mph., The observation was made using ground radar and air visual methods., No explanation for the sighting was provided in the report.",
+    "sighted object": "a blue-green light",
+    "location": "Kinston, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "1st Lt Col Charles B. Langklotter, involved in the ground search flight",
+    "contains photographs": false
 }

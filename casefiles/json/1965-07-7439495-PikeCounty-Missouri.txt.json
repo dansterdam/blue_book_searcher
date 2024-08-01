@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A resident of Pike County, Missouri reported seeing a strange man-made object in the sky on July 25, 1965 and September 1, 1965.",
-    "interesting points": [
-        "The object was described as a long cylinder-shaped craft with a reddish-orange glow that moved silently across the sky.",
-        "The object disappeared from sight after 3-4 minutes of observation.",
-        "Another sighting in the same area described a disc-shaped object about 15-20 feet in diameter that tilted on its edge and changed color from white to orange.",
-        "A group of 10-12 year old boys observed a golden egg-shaped craft with a blue-green glow that hovered and made no sound.",
-        "One witness described seeing a bright light on the horizon that seemed to go straight up and away at a high rate of speed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a cylindrical craft, a disc-shaped object, and a golden egg-shaped craft",
-    "location": "Pike County, Missouri",
-    "witnesses": "a family, several children, and individual witnesses",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed over Pike County, Missouri on the nights of July 25 and September 4, 1965.",
+    "interesting points": "The sighting lasted a few minutes and involved a single object,Several witnesses reported the object as having a reddish-orange glow and moving silently across the sky,The object displayed irregular and erratic flight patterns,The reports indicated a similarity to military helicopter maneuvers,The official conclusion suggested that the sightings could be attributed to unidentified aerial phenomena but did not describe them as unconventional.",
+    "sighted object": "a strange man-made object with a reddish-orange glow",
+    "location": "Pike County, Missouri, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A family noticed the object while outside; the husband is a college professor and the wife is a high school teacher.",
+    "contains photographs": false
 }

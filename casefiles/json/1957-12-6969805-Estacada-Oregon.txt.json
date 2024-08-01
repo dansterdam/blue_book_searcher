@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright light was observed overhead for 2-3 minutes in Estacada, Oregon on December 10, 1957.",
-    "interesting points": [
-        "The object was observed by both ground-radar and air-visual sources.",
-        "The sighting lasted for 20 minutes.",
-        "The object was described as being blue and green in color.",
-        "The report concludes that the sighting was 'unidentified' due to a lack of information.",
-        "The diagram or sketch included in the report appears to provide some additional details about the sighting, such as the duration and the object's position overhead."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright light",
-    "location": "Estacada, Oregon",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A blue and green object was observed overhead for 20 minutes in Estacada, Oregon.",
+    "interesting points": "The sighting lasted for 20 minutes,The object was reported to be blue and green,The observation involved both ground-radar and air-visual data,The report is considered to have questionable data due to a lack of information,The conclusion of the sighting was that it remains unidentified.",
+    "sighted object": "one blue and green object",
+    "location": "Estacada, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian source reported the sighting",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A security guard observed an unidentified flying object (UFO) over the Naval Air Station, Key West, Florida on September 6, 1968.",
-    "interesting points": [
-        "The object was described as bright white in color, triangular in shape, and approximately 50-75 feet in diameter.",
-        "The object was observed hovering at an estimated altitude of 3000-4000 feet above the airfield for approximately 15 minutes.",
-        "The object suddenly accelerated and departed the area at a high rate of speed, estimated to be in excess of 1500 mph.",
-        "The sighting was reported to the UFO Reporting Center, and the incident is being investigated by the Foreign Technology Division, United States Air Force.",
-        "A photograph was taken of an unidentified object over the Everglades near Miami, Florida on September 9, 1968, but the analysis was inconclusive and the case was closed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white, triangular-shaped object in the sky",
-    "location": "Key West, Florida; Miami, Florida",
-    "witnesses": "a security guard; a photographer",
-    "photographs": "yes, but the analysis was inconclusive"
+    "main event": "A security guard observed an unidentified flying object over the Naval Air Station, Key West, Florida, on 6 September 1968.",
+    "interesting points": "The object was described as bright white and triangular in shape, 50-75 feet in diameter., It was hovering at an altitude of 3000-4000 feet for approximately 15 minutes., The object suddenly accelerated and departed at a speed estimated over 1500 mph., The sighting occurred around 2030 hours and was reported to the UFO Reporting Center., There was significant news interest around a photograph related to a sighting, prompting analysis requests from the Air Force.",
+    "sighted object": "bright white triangular-shaped object",
+    "location": "Key West, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "security guard",
+    "contains photographs": false
 }

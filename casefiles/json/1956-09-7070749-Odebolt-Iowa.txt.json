@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, red object the size of a silver dollar at arm's length was observed moving side to side, going west then north over Odebolt, Iowa.",
-    "interesting points": [
-        "The object was observed for 10 minutes.",
-        "The object moved in a side-to-side pattern, going west then north before disappearing over the horizon.",
-        "The report indicates the object was likely the star Arcturus.",
-        "The observation was made by a civilian Ground Observer Corps (GOC) member.",
-        "The object was described as being the size of a silver dollar at arm's length."
-    ],
-    "result": "was astronomical",
-    "sighted object": "one round, red object",
-    "location": "Odebolt, Iowa",
-    "witnesses": "civilian (GOC)",
-    "photographs": "no"
+    "main event": "A sighting of a red round object, the size of a silver dollar at arm's length, moving side to side in Odebolt, Iowa on September 6, 1956.",
+    "interesting points": "The object was observed for ten minutes, moving from west to north before disappearing over the horizon., The object was described as red and moved side to side., Observations indicated the object was seen for a total duration of 45 minutes by some witnesses., The cause was considered to possibly be Arcturus., The report included several evaluations determining the object was likely astronomical.",
+    "sighted object": "red round object",
+    "location": "Odebolt, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

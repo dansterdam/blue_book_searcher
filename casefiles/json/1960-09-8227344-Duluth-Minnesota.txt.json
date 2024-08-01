@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "Two bright lights silhouetted against a dark sky, appeared to be very large and very bright, with flashing red, blue, and yellow lights that disappeared suddenly to the south.",
-    "interesting points": [
-        "The lights were described as having no pronounced halo or tail, suggesting they were not ordinary aircraft.",
-        "The lights disappeared suddenly, rather than fading away or flying out of sight.",
-        "The sighting was made by military personnel on the ground at Duluth Air Base.",
-        "The object was described as being very large and very bright.",
-        "The flashing colored lights were suggested to be navigation lights."
-    ],
-    "result": "unexplained",
-    "sighted object": "two bright lights in the sky",
-    "location": "Duluth, Minnesota",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "Two bright lights were observed in the sky over Duluth, Minnesota, on September 9, 1960.",
+    "interesting points": "The lights were large and very bright, flashing red, blue, and yellow which appeared to be navigational lights., The sighting lasted for about 5 minutes., The lights disappeared suddenly in a south direction., There were no pronounced halos or tails observed around the lights., The observation was made using ground-radar from military personnel.",
+    "sighted object": "two bright lights",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Military personnel at Duluth Air Base observed the lights.",
+    "contains photographs": false
 }

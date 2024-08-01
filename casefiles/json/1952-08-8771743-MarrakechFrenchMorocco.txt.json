@@ -1,15 +1,9 @@
 {
-  "main event": "On 28 Aug 1952, a radar unit in Marrakech, French Morocco, observed an unidentified flying object traveling at 1197 mph and making a rapid descent. It was tracked for 57 seconds.",
-  "interesting points": [
-    "The UFO was tracked on radar, indicating a physical presence in the airspace.",
-    "The object was observed descending rapidly, suggesting advanced capabilities beyond known aircraft of that time.",
-    "The report indicates a possible malfunction of radar, casting doubt on the reliability of the observation.",
-    "The witness, Major Ralph A. Jacobsack, was a military observer and a graduate of the Air Force Radar Technicians School, adding credibility to the report.",
-    "No noise or exhaust was observed from the UFO, implying unconventional propulsion technology."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified flying object",
-  "location": "Marrakech, French Morocco",
-  "witnesses": "Major Ralph A. Jacobsack, AC 72235.3, 1st Lt. William C. Dansker",
-  "photographs": "no"
+    "main event": "An unidentified flying object was observed over Marrakech, French Morocco on 28 Aug 1952, tracked by radar at high speed during a rapid descent.",
+    "interesting points": "The object was recorded on radar moving at a speed of 1197 mph during a 57-second observation., The object displayed a rapid descent and engaged at a specific course of 5 degrees., A possible radar malfunction was noted in the comments of the report., The observation was part of a historical investigation by Project Blue Book., The sighting also included multiple military personnel as observers.",
+    "sighted object": "unidentified flying object (UFO)",
+    "location": "Marrakech, French Morocco",
+    "number of confirmed witnesses": 5,
+    "witness description": "military personnel present during the radar tracking of the object",
+    "contains photographs": false
 }

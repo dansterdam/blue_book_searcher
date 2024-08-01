@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Several military personnel reported seeing a large, silver, circular UFO hovering in the sky near a military base in California in October 1965.",
-    "interesting points": [
-        "The object was described as being approximately 60 feet in diameter.",
-        "The object hovered in one spot for several minutes before suddenly accelerating and disappearing from view within a few seconds.",
-        "The observations were made by multiple witnesses, including a Captain and two enlisted personnel, from different locations on the military base.",
-        "The witnesses provided consistent descriptions of the object, describing it as circular in shape and silver in color.",
-        "The sighting was reported through the military's reporting procedures, with the details documented in a Project Blue Book report."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, silver, circular UFO",
-    "location": "South San Gabriel, California",
-    "witnesses": "military personnel, including a Captain and two enlisted personnel",
-    "photographs": "no photographs included in the report"
+    "main event": "Three unidentified flying objects were sighted, one appearing brighter and larger than the others.",
+    "interesting points": "The observer used binoculars to watch the objects for most of the time., The reported objects had blinking colored and flashing lights., The sighting lasted for over an hour., No sound was heard during the observation., Several attempts to contact the witness, LT Donald V. Peterson, were unsuccessful.",
+    "sighted object": "three unidentified flying objects",
+    "location": "San Gabriel, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "LT Donald V. Peterson, Division Command Post",
+    "contains photographs": false
 }

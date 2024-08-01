@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observer spotted a bright, metallic, disc-shaped object at an altitude of approximately 40,000 feet over Port Moresby, New Guinea in 1953.",
-    "interesting points": [
-        "The object appeared to be disc-shaped and about 30 inches in diameter.",
-        "The object moved at an extremely high rate of speed and appeared to pulsate or throb at intervals.",
-        "At one point, the object stopped and hovered briefly before rapidly accelerating and disappearing in a straight line.",
-        "The sighting was confirmed by the tower operator and other personnel at the nearby Kila Airfield.",
-        "There were no other known aircraft or balloons reported in the area at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, metallic, disc-shaped object",
+    "main event": "On 23 August 1953, a civilian reported a sighting of an unidentified object that appeared as a cloud formation in Port Moresby, New Guinea.",
+    "interesting points": "The observation lasted for 20 minutes and was noted for the object being stationary and appearing larger than typical cloud formations., A movie camera was used to attempt to capture the sighting, although results were pending., Air Traffic Control had no records of aircraft movements in the area at the time of the sighting., The weather conditions were reported as clear, with no known natural or man-made objects that could account for the sighting., The object was described as potentially being a high-speed aircraft due to its unusual movement.",
+    "sighted object": "an unidentified aircraft",
     "location": "Port Moresby, New Guinea",
-    "witnesses": "a civilian observer, a tower operator, and other personnel at Kila Airfield",
-    "photographs": "yes, the report indicates the object was photographed"
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who observed the object and reported it to authorities",
+    "contains photographs": false
 }

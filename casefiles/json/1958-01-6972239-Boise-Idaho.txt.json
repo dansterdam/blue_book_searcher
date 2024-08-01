@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "One white with blue tint and disc-shaped object described as a flash of light was observed in Boise, Idaho on January 5, 1958.",
-    "interesting points": [
-        "The object was reported to the Boise Tower and the Boise Idaho Filter Center.",
-        "The object was described as a disc-shaped object with a white and blue tint.",
-        "The object was observed as a flash of light traveling at an unknown speed and elevation.",
-        "The duration of the sighting is unknown.",
-        "The report indicates that with the limited data available, the object could not be practically evaluated as anything."
-    ],
-    "result": "Unexplained",
-    "sighted object": "One white with blue tint and disc-shaped object",
-    "location": "Boise, Idaho",
-    "witnesses": "Local newspaper and Boise Tower/Boise Idaho Filter Center",
-    "photographs": "No"
+    "main event": "A single white disc-shaped object with a blue tint was observed, appearing as a flash of light in Boise, Idaho on 5 January 1958.",
+    "interesting points": "The object was described as having a blue tail., Only one object was reported., The observation type was ground-visual., The object traveled in a straight course., The report contains comments indicating the lack of sufficient data for a conclusive evaluation.",
+    "sighted object": "one white disc-shaped object with blue tint",
+    "location": "Boise, Idaho, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "local newspaper and a filter center in Boise, Idaho were referenced for information",
+    "contains photographs": false
 }

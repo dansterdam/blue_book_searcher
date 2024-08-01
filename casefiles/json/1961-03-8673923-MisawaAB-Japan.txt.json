@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified object was observed traveling from south to north over Misawa AB, Japan on March 28, 1961.",
-    "interesting points": [
-        "The object was seen at a tremendous height and had a pulsating orange flame with a following contrail-like appendage that seemed to evaporate as soon as it was generated.",
-        "The observer, a reliable weather observer, felt the pulsating flame could have been a misidentified aircraft navigation light.",
-        "The object was under observation for approximately 13 seconds.",
-        "The report was classified as confidential due to instructions received from higher headquarters.",
-        "The object's course, speed, and other details were not provided in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified pulsating orange object with a contrail-like appendage",
+    "main event": "An unidentified object was observed travelling from south to north at Misawa AB, Japan on 23 March 1961.",
+    "interesting points": "The object had no perceptible means of propulsion and exhibited an erratic height with a pulsating effect,The object seemed to disappear and reappear at will.,The sighting was recorded as part of a project and submitted to various military headquarters.,The observer described a pulsating orange flame and a contrail-like appendage that evaporated quickly.,The duration of the sighting was approximately 6 minutes, with one confirmed object observed.",
+    "sighted object": "an unidentified object with a pulsating orange flame",
     "location": "Misawa AB, Japan",
-    "witnesses": "a reliable weather observer",
-    "photographs": "no photographs included in the report"
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer is a very reliable weather observer",
+    "contains photographs": false
 }

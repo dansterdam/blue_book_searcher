@@ -1,15 +1,9 @@
 {
-    "main event": "A captain and his family saw an object the size and brilliance of Mars traveling very rapidly and at high altitude to the northeast over Bermuda on the evening of September 14, 1958.",
-    "interesting points": [
-        "The object was observed for 5-6 minutes before it disappeared, with no sound heard.",
-        "Similar sightings of an object were reported by other residents in the area.",
-        "Radar tracking at Wheelus AFB in Libya detected unidentified returns similar in size and intensity to aircraft, with the object traveling at speeds ranging from 25 to 40 knots and altitudes between 200 and 1,000 feet, changing direction and crossing the radar scope repeatedly.",
-        "Despite attempts at visual observation from both the ground and air, no objects were definitively sighted.",
-        "The report concludes that weather phenomena and/or equipment malfunction were the likely causes for the radar returns, given the lack of visual confirmation."
-    ],
-    "result": "unknown",
-    "sighted object": "a bright, fast-moving object",
-    "location": "Bermuda and Wheelus AFB, Libya",
-    "witnesses": "a ship captain and his family, as well as radar operators at Wheelus AFB",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "On 14 September 1958, Captain Murphy and his family observed an object the size and brilliance of Mars traveling rapidly at a high altitude to the northeast over Baileys Bay, Bermuda.",
+    "interesting points": "The object was observed for approximately 5 to 6 minutes before it disappeared,No sound was heard during the sighting,The object's speed was described as very rapid,The sighting occurred in the evening local time,The report speculated that the object might have been Sputnik III but lacked confirmation.",
+    "sighted object": "An object the size and brilliance of Mars",
+    "location": "Baileys Bay, Bermuda",
+    "number of confirmed witnesses": 5,
+    "witness description": "Captain Murphy and 4 members of his family",
+    "contains photographs": false
 }

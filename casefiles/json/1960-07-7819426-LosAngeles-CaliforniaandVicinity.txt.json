@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple sightings of bright, maneuvering objects in the sky near Los Angeles, California on July 31, 1960",
-    "interesting points": [
-        "The objects were described as having a flat top and sides, with a bright light that turned slightly green in the center.",
-        "The objects appeared to move very fast upwards to about 50 degrees, then descended and hovered for 3-4 minutes before disappearing over the horizon.",
-        "Observers at the Griffith Observatory in Los Angeles also reported seeing the objects.",
-        "The Air Force concluded the objects were likely meteors, but acknowledged that the appearance and maneuvers of the objects increased the observers' impressions that they were seeing something unusual.",
-        "A second document mentions a Race the Saucers event scheduled for the following weekend in the Los Angeles area, suggesting ongoing public interest and awareness of UFO sightings."
-    ],
-    "result": "inconclusive",
-    "sighted object": "three bright, round, maneuvering objects",
-    "location": "Los Angeles, California and vicinity",
-    "witnesses": "civilian observers, including Griffith Observatory personnel",
-    "photographs": "none"
+    "main event": "A multiple sighting of three bright objects in the sky occurred on July 31, 1960, in Los Angeles, California.",
+    "interesting points": "The objects had a flat top and sides with a bright light that appeared green in the center., They were observed hovering for 3-4 minutes before disappearing over the horizon., Observers from Griffith Observatory also reported seeing the objects., The sighting lasted for about 3 minutes in total., The official conclusion was that the object was a meteor, though the witnesses' impressions suggested otherwise.",
+    "sighted object": "three bright round objects",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian witnesses reported the sighting, with one case investigated that involved binocular observations.",
+    "contains photographs": false
 }

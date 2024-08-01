@@ -1,15 +1,9 @@
 {
-    "main event": "A witness reported seeing an unidentified flying object over Lowry AFB, Colorado in 1952.",
-    "interesting points": [
-        "The object was described as egg-shaped and elongated, with a blinking white light.",
-        "The object was observed for about 20 seconds, initially zig-zagging before moving straight from north to south.",
-        "The witness was watching for an echo satellite at the time of the sighting.",
-        "Weather conditions were clear, with moderate winds from the west.",
-        "The report was submitted in accordance with Air Force Regulation 200-2."
-    ],
-    "result": "unexplained",
+    "main event": "A UFO report was submitted on 10/8/52 documenting the sighting of an egg-shaped object emitting a blinking white light.",
+    "interesting points": "The object was reported to have an elongated shape resembling an egg., The light emitted from the object blinked at 1-second intervals., The object was observed zigzagging initially before moving straight from North to South., The report was submitted by Capt. Gilbert F. Guttrich from Lowry AFB., The weather conditions during the sighting were clear with specific wind details provided.",
     "sighted object": "an egg-shaped, elongated object with a blinking white light",
-    "location": "Lowry AFB, Colorado",
-    "witnesses": "at least one witness, likely a military officer",
-    "photographs": "no photographs were present in the report"
+    "location": "Lowry AFB, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Capt. Gilbert F. Guttrich, Airdrome Officer",
+    "contains photographs": false
 }

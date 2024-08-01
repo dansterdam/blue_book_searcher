@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "An unidentified object was sighted at 1930 CST, 9 June 1952, by 2nd Lt. KENNETH P. KELLY, 2372nd Beach Launch, Forbes AFB, Topeka, Kansas.",
-    "interesting points": [
-        "The object was a brilliant red pulsating light. The shape resembled from circular to elliptical as it moved.",
-        "The object was observed for approximately 10 minutes.",
-        "The object did not move, make any sound and left no trail.",
-        "The object was observed at a position below the horizon, approximately 10 miles distant.",
-        "The weather was clear, with late afternoon daylight conditions."
-    ],
-    "result": "unexplained",
-    "sighted object": "a brilliant red pulsating light, with shape varying from circular to elliptical",
-    "location": "Topeka, Kansas",
-    "witnesses": "2nd Lt. KENNETH P. KELLY",
-    "photographs": "no"
+    "main event": "An unidentified flying object was sighted moving at high speeds in a report involving the U.S. Air Force.",
+    "interesting points": "The object was described as a brilliant red pulsating light that changed shape from circular to elliptical., The sighting was reported on June 9, 1952, at Topeka, Kansas., Witnesses included reliable members of the military and civilian observers., The object was observed for approximately 10 minutes and left no trace., Reports included details about weather conditions during the sighting, indicating clear visibility.",
+    "sighted object": "brilliant red pulsating light",
+    "location": "Topeka, Kansas, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "reliable and competent observers including military personnel",
+    "contains photographs": false
 }

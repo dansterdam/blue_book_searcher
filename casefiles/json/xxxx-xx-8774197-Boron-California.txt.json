@@ -1,15 +1,9 @@
 {
-    "main event": "On July 28, 1952, an unidentified object was observed at 2130 hours in Boron, California.",
-    "interesting points": [
-        "The object was observed on the ground.",
-        "The object was stationary.",
-        "The object disappeared after being observed for 1 minute.",
-        "No other details about the object are provided in the report.",
-        "No photographs of the object are included in the report."
-    ],
-    "result": "unexplained",
-    "sighted object": "one unidentified object",
+    "main event": "Multiple reports of unusual flying objects were observed in Boron and Del Mar, California between July and August 1952.",
+    "interesting points": "An object was reported as stationary and then disappeared after 1 minute in Boron,California., A second report in Del Mar mentioned that no aircraft intercepted the object and it was not detected by ground radar., Multiple witnesses saw the objects with descriptions of bright, star-like lights., The objects exhibited unusual flight characteristics, including making right angle turns., The sightings were conducted by trained personnel, with no confirmed identification of the objects.",
+    "sighted object": "unidentified flying object",
     "location": "Boron, California",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "number of confirmed witnesses": 3,
+    "witness description": "trained military personnel observing unidentified flying objects",
+    "contains photographs": false
 }

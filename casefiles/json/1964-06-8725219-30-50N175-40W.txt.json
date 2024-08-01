@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A satellite-like object was observed moving from south to north at high speed.",
-    "interesting points": [
-        "The object was described as being the size of a first magnitude star.",
-        "The object was observed at coordinates 50°52'N 175°40'W.",
-        "The observation occurred at 2712252Z.",
-        "The object was moving from south to north at high speed.",
-        "No evaluation was made at the time of the report."
-    ],
-    "result": "unknown",
-    "sighted object": "satellite-like object",
-    "location": "50°52'N 175°40'W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A report from Project Blue Book documenting a sighting of a satellite-like object observed traveling from south to north on June 30, 1954.",
+    "interesting points": "The object was described as brilliant and fast, resembling a first magnitude star,The sighting lasted approximately 5 minutes,The object was reported to be traveling at a high speed between 30 to 40 km/hour,There is no confirmation if the object was a satellite as echo schedules were unavailable,The sighting was documented in an unclassified message from the Department of the Air Force.",
+    "sighted object": "a satellite-sized object",
+    "location": "30-30N, 175-40W, Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "Navy personnel.",
+    "contains photographs": false
 }

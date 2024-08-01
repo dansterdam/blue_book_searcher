@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, cone-shaped object the size of a baseball, silver in color, with long streaks of fire out the back, was observed for 5 seconds flying east to west at an elevation of 30 degrees.",
-    "interesting points": [
-        "The object was observed from 4 miles north of Bowbells, North Dakota.",
-        "The weather conditions included clear skies and a winds aloft forecast provided.",
-        "The observer was a civilian, and the sighting was classified as a 'motor sighting'.",
-        "The report notes that the senior director on duty at the time thought the sighting was an illusion due to newspaper comments on satellite re-entering the atmosphere.",
-        "The sighting occurred on December 7, 1957 at 1350Z."
-    ],
-    "result": "Inconclusive (Insufficient Data for Evaluation)",
-    "sighted object": "A round, cone-shaped object with long streaks of fire out the back",
-    "location": "4 miles north of Bowbells, North Dakota",
-    "witnesses": "Civilian observer",
-    "photographs": "No photographs included in the report"
+    "main event": "A round, cone-shaped object, silver in color, was observed flying at a high speed, leaving long streaks of fire out of its back.",
+    "interesting points": "The sighting occurred on December 7, 1957, and lasted only 5 seconds., The object was the size of a baseball and traveled from east to west., Weather conditions were described as clear with snow showers in the area., The report raised multiple possibilities regarding the object's identification, including balloon, missile, and aircraft., There is no photograph associated with this sighting.",
+    "sighted object": "round, cone-shaped silver object",
+    "location": "4 Mi N of Bowbells, N.D.",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

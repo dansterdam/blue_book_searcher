@@ -1,15 +1,9 @@
 {
-  "main event": "On 16th November 1948 in Weehawken, New Jersey, a female civilian observed a silvery ball-shaped object at an altitude of 1800 feet for approximately 1 minute before it disappeared.",
-  "interesting points": [
-    "The observation took place at 1318 EST and the object was described as silvery with dark colors mixed in.",
-    "Dr. Hynek's evaluations from Project Grudge report categorized various incidents based on astronomical, non-astronomical but suggestive of other explanations, and non-astronomical with no explanation evident.",
-    "The available information for Incident #32 in Weehawken, New Jersey, was deemed insufficient for analysis.",
-    "Investigation for Incident #232 was dropped, indicating a lack of further inquiry into the reported incident.",
-    "The Air Weather Service at Andrews Air Force Base discussed unidentified flying objects in a correspondence, recommending changes to the 'Guide to Investigation of Unidentified Aerial Objects,' emphasizing the need for clarity in reporting the direction of flight and the type of radar set used in sightings."
-  ],
-  "result": "unexplained",
-  "sighted object": "silvery ball-shaped UFO",
-  "location": "Weehawken, New Jersey",
-  "witnesses": "female civilian",
-  "photographs": "no photographs available"
+    "main event": "A female civilian observed a silvery ball-shaped object at an altitude of 1800 feet on 16 November 1948.",
+    "interesting points": "The observation lasted for 1 minute,The object was described as silvery with a dark color mixed in,The object disappeared towards the ground,It was reported from 25 miles northwest of New York City,The investigation was dropped due to insufficient information regarding the event.",
+    "sighted object": "a silvery ball-shaped object",
+    "location": "Weehawken, New Jersey, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "female civilian",
+    "contains photographs": false
 }

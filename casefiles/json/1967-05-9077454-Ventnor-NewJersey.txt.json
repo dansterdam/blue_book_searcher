@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Ventnor, New Jersey observed a yellow-oval shaped object that moved in a zigzag pattern for 5 minutes on May 13, 1967.",
-    "interesting points": [
-        "The object was observed at 5:00/5:03 PM.",
-        "The object moved on a 135 degree course.",
-        "The observer offered to provide photographs, but none were included in the report.",
-        "The Air Force Foreign Technology Division requested any available photographs to assist in the investigation.",
-        "The report concluded that there was 'insufficient data' and 'insufficient clarity' to determine the cause of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a yellow-oval shaped object",
-    "location": "Ventnor, New Jersey",
-    "witnesses": "a civilian",
-    "photographs": "no, the report indicates the observer offered to provide photographs but none were included"
+    "main event": "An observer sighted a yellow-oval shaped object moving in a zigzag pattern in Ventnor, New Jersey on 13 May 1967.",
+    "interesting points": "The sighting occurred over a period of 5 minutes., The observer recorded the object at a course of 135 degrees., The report was made by a civilian., The request for additional information and photographs was sent to the Air Force., The conclusion of the report indicated insufficient data due to lack of clarity.",
+    "sighted object": "yellow-oval shaped object",
+    "location": "Ventnor, New Jersey, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

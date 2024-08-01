@@ -1,15 +1,9 @@
 {
-    "main event": "A bright light was observed in the sky over Bethlehem, Pennsylvania on January 8, 1967.",
-    "interesting points": [
-        "The light was estimated to be about 10 feet in diameter and was observed for approximately 30 minutes before disappearing.",
-        "The witness, whose name is redacted, reported observing the bright light in the sky.",
-        "The report includes handwritten descriptions and some photographs, but no actual UFO sighting.",
-        "The report mentions a request for the witness to complete an AF Form 164 to provide more details about the sighting.",
-        "The report also mentions that it would be impossible for the witness to have seen Jupiter, Mars, and Venus at the same time on the night of January 17, 1967."
-    ],
-    "result": "unexplained",
+    "main event": "A witness observed a bright light in the sky over Bethlehem, Pennsylvania for approximately 30 minutes on January 8, 1967.",
+    "interesting points": "The object was estimated to be about 10 feet in diameter., The sighting occurred around 0410 hours., The UFO report was associated with Project Blue Book, which investigated UFO sightings., The witness was an amateur astronomer who provided a detailed account of the observation., There was confusion about astronomical objects in the sky during the time of the sighting.",
     "sighted object": "a bright light in the sky",
-    "location": "Bethlehem, Pennsylvania",
-    "witnesses": "one civilian witness",
-    "photographs": "yes, the report includes some photographs, but no UFO sighting"
+    "location": "Bethlehem, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an amateur astronomer studying weather conditions",
+    "contains photographs": false
 }

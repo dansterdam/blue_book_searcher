@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, red object was observed moving southwest in San Luis Obispo, California on May 20, 1956.",
-    "interesting points": [
-        "The object faded into the distance after being observed for 5 minutes.",
-        "Two fighters were scrambled to investigate the sighting, but they reported no sighting.",
-        "The director of the 27th ADV COMDR's at Norton AFB had no comment on the reported object.",
-        "The sighting was evaluated as insufficient data.",
-        "The report was submitted as part of Project Blue Book, the U.S. Air Force's historical program for investigating unidentified flying objects."
-    ],
-    "result": "Unexplained",
-    "sighted object": "A round, red object",
-    "location": "San Luis Obispo, California",
-    "witnesses": "Civilian",
-    "photographs": "No photographs included"
+    "main event": "A civilian witnessed a round red object moving southwest in the sky in San Luis Obispo, California on May 20, 1956.",
+    "interesting points": "The sighting lasted for 5 minutes., The object faded into the distance., The report was evaluated as insufficient data., Only one object was observed., The observation occurred during clear weather conditions.",
+    "sighted object": "one round red object",
+    "location": "San Luis Obispo, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "William Esten, age 65, retired.",
+    "contains photographs": false
 }

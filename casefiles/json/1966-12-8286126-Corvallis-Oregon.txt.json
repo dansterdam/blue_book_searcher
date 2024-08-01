@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was observed near Corvallis, Oregon on December 28, 1966.",
-    "interesting points": [
-        "The object was described as having red and green lights, and changing directions and sizes during the 3-minute observation.",
-        "The Air Force concluded the report was insufficient for a definitive determination.",
-        "There were multiple sightings in an 8-minute period, and a weather balloon release from Salem, Oregon around the same time, but it was not determined to be the cause of the sightings.",
-        "The weather conditions at the time included a high cloud ceiling, good visibility, and a subsidence inversion around 5,500 feet.",
-        "One of the witnesses was a teacher at Highland View School in Corvallis."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified flying object with red and green lights",
-    "location": "Corvallis, Oregon",
-    "witnesses": "civilian, including a teacher",
-    "photographs": "no"
+    "main event": "Observers watched an unidentified flying object with red and green lights near Corvallis, Oregon in December 1966.",
+    "interesting points": "The object exhibited various courses and changed in direction and size during observation., The sighting lasted for 3 minutes., The reported object was described as having different appearances, sometimes with lights and other times as a solid object., The Air Force deemed the report insufficient for a definitive conclusion., This incident was part of three sightings within an eight-minute span.",
+    "sighted object": "unidentified flying object with red and green lights",
+    "location": "Corvallis, Oregon, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observers included local individuals, one being a school teacher.",
+    "contains photographs": false
 }

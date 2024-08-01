@@ -1,15 +1,9 @@
 {
-    "main event": "A satellite trail was observed in the sky over Hawaii for 2 minutes.",
-    "interesting points": [
-        "The satellite trail was observed during civil twilight, not at night.",
-        "The trail was observed for a longer duration than a typical satellite observation.",
-        "The location of the sighting was near Pearl Harbor, Hawaii.",
-        "The sighting was reported to the US Air Force, who forwarded the report.",
-        "No definite conclusion or intelligence evaluation was provided for the sighting."
-    ],
-    "result": "inconclusive",
-    "sighted object": "satellite trail",
-    "location": "Lt of Hawaii, 27-9-12W",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A sighting of a satellite trail observed in Hawaii on April 11, 1962.",
+    "interesting points": "The observation lasted for 2 minutes with visual contact held for 4 minutes,There were 6 objects observed in a satellite trail moving from east to west,The sighting occurred during civil twilight,The trail existed for a duration longer than typical satellite observations,The case lacked sufficient information for a valid conclusion.",
+    "sighted object": "satellite trail moving east to west",
+    "location": "Pearl Harbor, Hawaii, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified in the report", 
+    "contains photographs": false
 }

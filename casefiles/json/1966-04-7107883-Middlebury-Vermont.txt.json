@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO sighting occurred on April 22, 1966 in Middlebury, Vermont, as reported by 2 civilian witnesses.",
-    "interesting points": [
-        "The object was described as having round, star-like lights that changed color from pale yellow to white, red, and green at different times.",
-        "There were initially two lights observed, but at times only one light was visible.",
-        "The object maneuvered in the sky, circling several times before disappearing.",
-        "The witnesses estimated the object was visible for between 25 to 48 minutes.",
-        "The report concludes that the sighting was likely an aircraft, possibly a B-52 bomber on a training flight, and the witnesses may have confused the aircraft lights with a bright star, likely Jupiter."
-    ],
-    "result": "explained",
-    "sighted object": "round, star-like lights that changed color",
-    "location": "Middlebury, Vermont",
-    "witnesses": "2 civilian witnesses",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Two witnesses reported seeing lights in the sky over Middlebury, Vermont on April 22, 1966.",
+    "interesting points": "The lights ranged in color from yellow to white and red and green at different times., The object hovered for about 15 minutes before disappearing., One witness claimed to see the lights for as long as 48 minutes, while the other estimated 25 minutes., A B-52 bomber was in the area at the time, suggesting a possible explanation for the sighting., The report indicated that the lights were likely navigation lights of an aircraft.",
+    "sighted object": "one round, star-like object with lights",
+    "location": "Middlebury, Vermont, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two college students, ages 22 and 27, from Middlebury, Vermont",
+    "contains photographs": false
 }

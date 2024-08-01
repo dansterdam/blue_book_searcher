@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed an object in the sky over Bethpage, New York on August 18, 1966.",
-    "interesting points": [
-        "The object was observed for 10 minutes.",
-        "The object was described as a 'CD STAR, BRIGHT MOVING SLOWLY (2) LIKE A STAR (3) WHITE (4) ONE (5) NONE TO CLAIM FLARE APPEARED AFTER PASSING OVER OBJECT'.",
-        "The object was observed moving from west to east in a slow fashion.",
-        "The observation was made at 3:10 AM on a clear night.",
-        "The observer used field glasses but they did not help."
-    ],
-    "result": "Satellite (ECHO I) was seen to rise and pass over the area at the time of observation.",
-    "sighted object": "a bright, slowly moving white object resembling a star",
-    "location": "Bethpage, New York",
-    "witnesses": "a civilian",
-    "photographs": "N/A"
+    "main event": "A civilian observed a satellite (ECHO I) rising and passing over Bethpage, New York on 17 August 1966.",
+    "interesting points": "The observation lasted for 10 minutes.,The object was identified as the ECHO I satellite.,The observer described the condition as a clear night.,The observation was made at night with an azimuth of 270 degrees.,No physical evidence or photographs were captured.",
+    "sighted object": "ECHO I satellite",
+    "location": "Bethpage, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian resident observing from their house",
+    "contains photographs": false
 }

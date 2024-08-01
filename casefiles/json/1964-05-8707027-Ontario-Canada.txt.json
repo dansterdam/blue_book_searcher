@@ -1,15 +1,9 @@
 {
-    "main event": "Four moving lights were observed in the eastern sky over Ontario, Canada on May 21, 1964.",
-    "interesting points": [
-        "The lights were moving from south to north, between 15-30 degrees above the horizon.",
-        "The lights had a reddish or orangish glow and a texture like a Roman candle.",
-        "The lights moved in an irregular manner, with the leading light pulling far ahead of the others.",
-        "The leading light appeared to turn east when it reached the northern sky.",
-        "There was no audible sound associated with the lights."
-    ],
-    "result": "unexplained",
+    "main event": "On May 21, 1964, four moving lights were observed in the eastern sky over Ontario, Canada.",
+    "interesting points": "The lights gave off a reddish or orangish glow and had a texture similar to a Roman Candle., The sighting lasted for about 4 minutes with the leading light pulling ahead of the other three., The lights were visible between 15' and 30' from the horizon., There was no sound associated with the lights during the sighting., The lights eventually became obscured by low clouds and were reportedly impacted by unusual atmospheric conditions.",
     "sighted object": "four moving lights in the sky",
     "location": "Ontario, Canada",
-    "witnesses": "three campers",
-    "photographs": "no, the report does not mention any photographs"
+    "number of confirmed witnesses": 3,
+    "witness description": "campers near Lake McCoy observing the lights",
+    "contains photographs": false
 }

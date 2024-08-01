@@ -1,17 +1,9 @@
-Here is the JSON summary of the key information from the UFO report:
-
 {
-    "main event": "A radar object was observed for 10 minutes at McClellan AFB, California until it disappeared over the horizon. The object was not picked up by the ground-based radar equipment.",
-    "interesting points": [
-        "The radar object was unidentified, and no explanation could be determined for the sighting.",
-        "The object was overshined by another object and disappeared as it reached the horizon.",
-        "The object had a changing white color and a trail that was about half the diameter of the object.",
-        "The object's flight path appeared to be an uncontrolled trajectory.",
-        "Several experienced pilots and officers observed the object and considered the sighting reliable."
-    ],
-    "result": "unexplained",
+    "main event": "A radar object was observed at McClellan AFB for 10 minutes on June 16, 1961, but was not picked up by ground radar.",
+    "interesting points": "The object disappeared over the horizon after being observed for 10 minutes., The object was identified as a radar anomaly but could not be explained., The sighting occurred at a scale of 5,000 yards., The object's course was noted at 0 degrees to 360 degrees., It was described that an unidentified object overshined the radar object before it vanished.",
     "sighted object": "unidentified radar object",
-    "location": "McClellan AFB, California",
-    "witnesses": "pilots, flight officers",
-    "photographs": "none"
+    "location": "McClellan AFB, California, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "The report suggests multiple officers may have observed the object, but no specific witnesses are confirmed.",
+    "contains photographs": false
 }

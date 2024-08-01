@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A semi-circular object hovered overhead in Hyattsville, Maryland on August 26, 1956 and slowly moved southward before disappearing.",
-    "interesting points": [
-        "The object was observed visually and through binoculars for 2 hours.",
-        "The object had a reddish to whitish glow.",
-        "The object was about 1/20th the diameter of the observer's field binoculars.",
-        "The object was initially mistaken for an unusually bright star by the observer.",
-        "The object was raising slowly and moving in a southerly direction."
-    ],
-    "result": "Probably Balloon",
-    "sighted object": "semi-circular object",
-    "location": "Hyattsville, Maryland",
-    "witnesses": "Civilian observer",
-    "photographs": "No photographs"
+    "main event": "A sighting of a semi-circular object that hovered overhead and moved southward silently, observed for two hours.",
+    "interesting points": "The object was seen with binoculars over a duration of two hours,The object disappeared to the southeast at an elevation of about 45 degrees,The observer was initially attracted by what seemed to be an unusually bright star,The report suggests various conclusions about the sighting, including balloon and aircraft possibilities,The sighting involved multiple observations from different witnesses in the area.",
+    "sighted object": "semi-circular shaped object",
+    "location": "Hyattsville, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer attracted by bright star, used binoculars",
+    "contains photographs": false
 }

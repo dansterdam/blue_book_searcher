@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person in Cherryville, North Carolina saw a strange object in the sky in April 1967.",
-    "interesting points": [
-        "The object appeared to be red, with 10-15 red lights and a few white lights.",
-        "The object remained stationary in the sky for a period of time, then moved at an estimated speed of 40-50 miles per hour.",
-        "The object was estimated to be around 4,000 feet away from the witness.",
-        "The witness was initially unsure of what they saw, but now knows it was not an airplane.",
-        "The witness would like to know what the object was that they observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a strange red object with lights",
-    "location": "Cherryville, North Carolina",
-    "witnesses": "the report author and their parents and friends",
-    "photographs": "none"
+    "main event": "A visual observation of a strange object in the sky near Cherryville, North Carolina.",
+    "interesting points": "The sighting lasted for approximately 10 minutes,The object appeared solid and red with a few white lights,The witness reported the object did not make any sound and seemed to glow,It was observed at an altitude of approximately 5,000 to 10,000 feet,No photographs were present as evidence.",
+    "sighted object": "one solid red object with lights",
+    "location": "Cherryville, North Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness described seeing the object while driving in an automobile.",
+    "contains photographs": false
 }

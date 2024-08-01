@@ -1,15 +1,9 @@
 {
-    "main event": "The report describes several UFO sightings and photographic evidence, including a photograph of a bright, circular object in the sky and a glowing object over a German town.",
-    "interesting points": [
-        "The report includes a photograph of a bright, circular object in the sky that was captured by an American tourist in Norway in 1953. The investigators were unable to determine a natural explanation for the object.",
-        "Another photograph shows a glowing object over a German town, which appeared for only a few moments before disappearing.",
-        "The report mentions an observation in 1957 where a witness saw a small, odd object near the moon that was only visible for a brief moment.",
-        "The report includes a letter from Eastman Kodak Company analyzing a sighting and concluding it was likely a meteor or fireball.",
-        "The report contains several letters discussing the analysis and evaluation of UFO photographs by the Air Technical Intelligence Center (ATIC)."
-    ],
-    "result": "unexplained",
-    "sighted object": "Bright, circular objects; glowing objects; small, odd objects",
-    "location": "Norway, Germany, United States",
-    "witnesses": "Tourists, photographers, farmers",
-    "photographs": "Yes, the report includes several photographs of UFOs"
+    "main event": "A bright light source behind a cloud mass was observed in Newby on August 29, 1957.",
+    "interesting points": "The object was slightly elliptical in shape and moved quickly through the sky., Initial interpretations suggested it could be a meteor but was later discounted., The sighting duration was several seconds., The motion of the object did not align with known astronomical or aeronautical phenomena., The reliability of the witness is considered good despite the uncertainty of the object.",
+    "sighted object": "bright light source behind a cloud mass",
+    "location": "Newby, -",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness reported seeing the object move rapidly and silently",
+    "contains photographs": false
 }

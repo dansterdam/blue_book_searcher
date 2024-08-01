@@ -1,15 +1,9 @@
 {
-    "main event": "On 16th March 1950, at Pacific Beach, Washington, an unknown aerial object was observed for 4 minutes, exhibiting deceleration to a comparatively slow speed and making a series of incalculable movements.",
-    "interesting points": [
-        "The object was first sighted at 0732 GMT on 15th March 1950 at 360 degrees true from Pacific Beach, Washington.",
-        "It changed its bearing to 270 degrees and descended from 15 degrees on the horizon.",
-        "The object exhibited a deceleration to a comparatively slow speed and began a series of incalculable movements while maintaining its relative position.",
-        "There were no sketches, photographs, sound, or exhaust trail observed, and no color was reported.",
-        "The report was part of the Project Blue Book, a US Air Force investigation into unidentified flying objects (UFOs)."
-    ],
-    "result": "unexplained",
+    "main event": "An unidentified aerial object was sighted in Pacific Beach, Washington, on 16 March 1950.",
+    "interesting points": "The sighting lasted for 4 minutes with the object changing bearings to 270 degrees on departure., The object was described as decelerating to a comparatively slow speed., It executed a series of incoherent movements while maintaining its position., No weather conditions, color, or exhaust trail were reported during the sighting., There were no sketches or photographs available.",
     "sighted object": "unknown aerial object",
-    "location": "Pacific Beach, Washington",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "location": "Pacific Beach, Washington, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a white object in the sky that appeared to be slowly climbing at a great rate and abruptly changing direction.",
-    "interesting points": [
-        "The object was observed to hover and then move in an easterly direction across the horizon.",
-        "The object appeared to be round and metallic in color, and apparently made no sound.",
-        "The report is described as being full of suspicion, with no conclusive evidence to support the claim of a flying object.",
-        "The case was closed with the conclusion that it was a probable balloon, with no further data for evaluation.",
-        "The report was sent to the Air Technical Intelligence Center for monitoring."
-    ],
-    "result": "unexplained",
+    "main event": "A witness observed a white object in the sky near Las Cruces, New Mexico on 23 July 1962.",
+    "interesting points": "The object appeared to be slowly climbing at a great rate while abruptly changing direction., The sighting lasted for about 5 minutes., There is suspicion regarding the report with no conclusive evidence to support the claim of a flying object., The conclusions indicated it was probably a balloon or could possibly be astronomical in nature., A separate sighting report from 8 August 1962 documented an object that hovered and moved in an easterly direction.",
     "sighted object": "a white object in the sky",
-    "location": "Los Cruces, New Mexico",
-    "witnesses": "witness",
-    "photographs": "no"
+    "location": "Las Cruces, New Mexico, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the witness observed the object visually for 5 minutes",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, star-like object was observed disappearing into a cloud at Sampson AFB in New York on July 30, 1954.",
-    "interesting points": [
-        "The object had a reddish hue and was about the size of other stars in the sky.",
-        "No sound was heard from the object.",
-        "The object disappeared into the clouds for a period of not more than two seconds before reappearing and then being lost to view due to light haze from the ground.",
-        "The observation occurred between 23:57 and 23:02, or about 33 minutes on July 30, 1954.",
-        "The object was observed visually from the ground."
-    ],
-    "result": "unknown",
+    "main event": "An observation of a round, star-like object that disappeared into clouds at Sampson AFB.",
+    "interesting points": "The object had a reddish hue and made no sound., The observation lasted only a few seconds., The object was sporadically visible through overcast and clouds., The sighting was reported by military personnel., There was insufficient data to determine the object's course or speed.",
     "sighted object": "a round, star-like object",
-    "location": "Sampson AFB, New York",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "location": "Sampson AFB, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

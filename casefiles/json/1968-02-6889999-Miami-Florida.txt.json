@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "The observer sighted four objects on the night of 17 Feb 68 and one on the night of 18 Feb 68, all described as bright lights that were very much like a balloon.",
-    "interesting points": [
-        "The objects were from about 1000 yards on the horizon.",
-        "Several of the objects were observed to drop off spark-like particles before burning out.",
-        "The observer stated the objects were very much like a balloon.",
-        "The report mentions that the observer might have been witnessing unusual phenomena, such as the tracking of high-altitude balloons.",
-        "The report includes a description of garnet bag hot air balloons, which can appear as red, orange, yellow or white lights in the sky and exhibit similar behaviors to the observed objects."
-    ],
-    "result": "explained as hot air balloons",
-    "sighted object": "bright lights that were very much like a balloon",
-    "location": "Miami, Florida",
-    "witnesses": "1 observer",
-    "photographs": "no"
+    "main event": "An observer sighted four bright light objects on 17 Feb 1968 and one on 18 Feb 1968 in Miami, Florida.",
+    "interesting points": "The objects were described as very much like balloons and were viewed from about 1000 yards away., Some of the objects emitted spark-like particles before burning out., The observation indicated that the sighting could relate to hot air balloons., The objects were reported at night, suggesting they appeared as bright lights against the dark sky., The report included specific details about movement and behavior of the sighted objects.",
+    "sighted object": "bright lights resembling balloons",
+    "location": "Miami, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an individual who reported the sighting",
+    "contains photographs": false
 }

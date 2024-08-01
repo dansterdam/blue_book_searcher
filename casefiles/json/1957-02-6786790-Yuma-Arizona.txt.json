@@ -1,15 +1,9 @@
 {
-	"main event": "A white object, resembling a star, was observed in Yuma, Arizona in February 1957 for 5 minutes.",
-	"interesting points": [
-		"The object was observed both visually and on radar.",
-		"No trail, sonic booms, or exhaust were observed.",
-		"The lights reported seemed to fade off after 15 seconds.",
-		"A long line of lights was observed, and pieces fell off as it faded out over 52 minutes.",
-		"The observer, 1/Lt Schartz, believed the object to be the star Sirius."
-	],
-	"result": "Unknown (classified as UFOB)",
-	"sighted object": "White star-like object in the sky",
-	"location": "Yuma, Arizona",
-	"witnesses": "Civilian observer, 1/Lt Schartz",
-	"photographs": "no the report does not include photographs"
+    "main event": "A white object described as a star, observed in Yuma, Arizona, for 5 minutes in February 1957.",
+    "interesting points": "The observation was made visually and by radar., The object had no trail, sonic booms, or exhaust., Lights observed seemed to fade off., The observer used an astro chart for reference., The object was concluded to be a balloon.",
+    "sighted object": "a white object resembling a star",
+    "location": "Yuma, Arizona, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer, reliability unknown",
+    "contains photographs": false
 }

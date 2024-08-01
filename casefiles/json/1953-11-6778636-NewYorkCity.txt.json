@@ -1,15 +1,9 @@
 {
-    "main event": "A bright light was seen in the sky over New York City, which moved rapidly and erratically for about 3 minutes.",
-    "interesting points": [
-        "The object was described as a bright light that moved in an erratic course.",
-        "The report states that no further investigation was made and there was insufficient data to reach a definite conclusion.",
-        "The witness expressed uncertainty about what the object could be, but believed it was some type of intelligently controlled machine rather than a natural phenomenon.",
-        "The witness decided not to report the sighting to authorities, as they only caught a brief glimpse and were unsure of the significance.",
-        "The report includes details from a questionnaire filled out by the witness, including information about the weather conditions and their background."
-    ],
-    "result": "insufficient data",
+    "main event": "A bright light was observed in the sky moving rapidly and erratically in New York City on November 23-24, 1950.",
+    "interesting points": "The object was reported as a single bright light,It moved rapidly and erratically for approximately 3 minutes,The observer believed it was under intelligent control,The conclusion drawn from the sighting was insufficient data,No physical evidence or photographs were recorded.",
     "sighted object": "a bright light in the sky",
-    "location": "New York City",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "New York City, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer with prior military background.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report text, here is the requested JSON summary:
-
 {
-    "main event": "Several lights were observed in the sky over Edwards AFB, California on October 6, 1965.",
-    "interesting points": [
-        "The lights appeared to be stationary and located approximately 400 yards north of the North boundary of the base.",
-        "The lights were whitish in color and varied in intensity, dimming and brightening independently.",
-        "The lights extinguished simultaneously after being observed for about 5 minutes.",
-        "The observer was unable to determine the source or nature of the lights, and no sound was heard associated with them.",
-        "An Air Force investigator was dispatched to the scene but was also unable to determine the source of the lights."
-    ],
-    "result": "unexplained",
-    "sighted object": "Several stationary lights in the sky",
-    "location": "Edwards AFB, California",
-    "witnesses": "Base patrol officer",
-    "photographs": "no"
+    "main event": "On 6 October 1965, a civilian employee at Edwards Air Force Base observed several lights in the sky that appeared to be stationary and varied in intensity over a period of approximately 5 minutes.",
+    "interesting points": "The lights were located approximately 400 yards north of the base and at an altitude of 300-400 feet., The lights dimmed and brightened independently before extinguishing simultaneously., The observer reported the incident to the Air Force Police Control Center at 2340 hours., An Air Force Investigator was dispatched but could not determine the source of the lights., No other witnesses were located during the investigation.",
+    "sighted object": "multiple stationary lights in the sky",
+    "location": "Edwards AFB, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian employee at Edwards AFB",
+    "contains photographs": false
 }

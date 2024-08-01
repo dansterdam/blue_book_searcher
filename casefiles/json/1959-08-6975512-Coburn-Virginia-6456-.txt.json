@@ -1,15 +1,9 @@
 {
-    "main event": "Possible sighting of two unidentified flying objects in Coburn, Virginia in August 1959.",
-    "interesting points": [
-        "The report includes a photograph showing two small black dots in the sky, likely representing the unidentified flying objects.",
-        "The location is Coburn, Virginia.",
-        "The sighting occurred in August 1959.",
-        "No other details about the sighting are provided in the report.",
-        "The report does not contain any witness information or description of the objects."
-    ],
-    "result": "inconclusive",
+    "main event": "A UFO report was filed in August 1959 regarding sightings in Coeburn, Virginia.",
+    "interesting points": "The document includes a photograph showing two small black dots against a mostly blank or sky background,These dots are likely representing unidentified flying objects,The photograph was deemed significant enough to be included in the report,The report does not specify the number of witnesses,The location is noted as Coeburn, Virginia.",
     "sighted object": "two small black dots in the sky",
-    "location": "Coburn, Virginia",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes one photograph"
+    "location": "Coeburn, Virginia, US",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": true
 }

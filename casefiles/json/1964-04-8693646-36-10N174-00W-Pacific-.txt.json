@@ -1,15 +1,9 @@
 {
-    "main event": "A military observer spotted a white, round object the size and intensity of a first magnitude star flying at high altitude and very fast speed from southwest to northeast.",
-    "interesting points": [
-        "The object was observed at an elevation of 72 degrees above the horizon.",
-        "The object's characteristics were consistent with a possible satellite.",
-        "The sighting was reported as a CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings) report.",
-        "The report was distributed to various military and intelligence agencies, including NORAD, the Pacific Air Forces, and the Department of Defense.",
-        "The observation lasted for an unspecified duration, but was likely brief given the high speed of the object."
-    ],
-    "result": "possible satellite",
-    "sighted object": "white, round object the size and intensity of a first magnitude star",
-    "location": "36.10 N 174.00 W (Pacific Ocean)",
-    "witnesses": "military observer",
-    "photographs": "no"
+    "main event": "A military observation reported a white round object, potentially a satellite, spotted on April 15, 1964.",
+    "interesting points": "The object was described as being the size and intensity of a first magnitude star., It was flying at a high altitude of 70 degrees elevation., The object was traveling at a very high speed., The observation location was in the Pacific, with coordinates around 36.10 N 174.00 W., The conclusion noted insufficient data for evaluation, indicating it may be a satellite.",
+    "sighted object": "white round object",
+    "location": "Pacific",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military source",
+    "contains photographs": false
 }

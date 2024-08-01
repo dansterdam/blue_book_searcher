@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unknown, distant, speeding object was observed moving from west to northeast for about 10 seconds.",
-    "interesting points": [
-        "The object moved in a straight line and disappeared.",
-        "The object's altitude ranged from 370 degrees in the west to 25-30 degrees in the northeast.",
-        "The object moved at a high speed with no exhaust or trail.",
-        "The observers were unsure if the object was a balloon, aircraft, or astronomical in nature, and concluded there was insufficient data to evaluate it.",
-        "Another report describes an object that appeared to be in level flight, then disappeared behind a cloud."
-    ],
-    "result": "unexplained",
-    "sighted object": "a distant, speeding object",
-    "location": "Fort Worth, Texas",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A distant speeding object was observed moving from west to northeast on 10/29/57 in Fort Worth, Texas.",
+    "interesting points": "The object was visible for about 10 seconds and moved in a straight line,There was no exhaust or trail visible from the object,Observers were impressed by its high speed and the object made no sound,The altitude of the object varied significantly during the sighting,Possible explanations for the sighting included it being a balloon, aircraft, or astronomical object.",
+    "sighted object": "unknown object",
+    "location": "Fort Worth, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Reliability of observers considered good; mentioned by intelligence officer VT Leonard.",
+    "contains photographs": false
 }

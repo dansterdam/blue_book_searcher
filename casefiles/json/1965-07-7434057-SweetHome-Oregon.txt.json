@@ -1,15 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright circular light was observed in the sky over Silver Spring, Maryland on July 13, 1965.",
-    "interesting points": [
-        "The light covered one-fourth of the sky in 10 seconds before vanishing.",
-        "The light then reappeared after 10 seconds.",
-        "The witness was Dexter, a resident of Silver Spring, Maryland."
-    ],
-    "result": "unexplained",
-    "sighted object": "a brilliant circular light",
-    "location": "Silver Spring, Maryland",
-    "witnesses": "Dexter, a resident of Silver Spring",
-    "photographs": "none"
+    "main event": "On July 15, 1965, witnesses in Sweet Home, Oregon observed a mysterious glowing object resembling a bright star, which was observed for 45 minutes.",
+    "interesting points": "The object was compared in size to Venus and was described as a very bright light,It showed erratic movements and did not leave a contrail,Experts later concluded it was likely a satellite (ECHO I),Multiple observers described similar characteristics and behaviors of the object,The observation lasted longer than typical sightings noted in the area.",
+    "sighted object": "A glowing object resembling a bright star",
+    "location": "Sweet Home, Oregon, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "Civilian observers, including a teenage astronomy study group and air traffic control personnel.",
+    "contains photographs": false
 }

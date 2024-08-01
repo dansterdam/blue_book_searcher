@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Omaha, Nebraska spotted a round, red and dark object the size of a basketball that seemed to be hanging, hovering, and returning in the sky on March 15, 1953.",
-    "interesting points": [
-        "The object was observed for an unknown duration.",
-        "The witness was still observing the object with binoculars (BX) and could not identify it.",
-        "The report states there was insufficient data to evaluate the sighting, and it sounds like a kite.",
-        "The sighting was recorded on a Project 10073 Record Card from the US Air Force's Project Blue Book investigation.",
-        "The conclusion on the record card indicates there was insufficient data for evaluation."
-    ],
-    "result": "unknown",
-    "sighted object": "a round, red and dark object the size of a basketball",
-    "location": "Omaha, Nebraska",
-    "witnesses": "a civilian",
-    "photographs": "none"
+    "main event": "A civilian reported seeing a red and dark round object, about the size of a basketball, hovering and returning in Omaha, Nebraska.",
+    "interesting points": "The object was observed hanging in the sky and did not move in a known path,The sighting occurred on 15 March 1953,The duration of the observation was reported as 5 years, although this may be inaccurate,The witness could not identify the object, leading to the conclusion of insufficient data for evaluation,There were various possibilities considered for the object's identification, including a balloon and aircraft.",
+    "sighted object": "one round object, size of a basketball, red and dark in color",
+    "location": "Omaha, Nebraska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian observer",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian observer reported sighting a UFO near Dayton, Ohio on October 9, 1968.",
-    "interesting points": [
-        "The object was described as being 40-50 feet in diameter, elliptical in shape, with windows or portholes around the edge. It had a bright yellowish-white, metallic appearance.",
-        "Behind the object, there was a reddish-orange ball of fire emitting great heat and a bright bluish-white light.",
-        "The object hovered, then accelerated and streaked off at high speed, with an altitude of about 2,000-3,000 feet.",
-        "The observer reported the object's movement was not accidental, as indicated by a schematic diagram showing the sequence of its movement.",
-        "The observer claimed the object disturbed the ground or left a physical impression, though no details were provided."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a large, elliptical-shaped craft with windows/portholes and a reddish-orange ball of fire behind it",
-    "location": "Near Dayton, Ohio",
-    "witnesses": "a civilian observer",
-    "photographs": "no photographs included in the report"
+    "main event": "A civilian reported sighting of a UFO near Dayton, Ohio on June 2, 1968, observing it for about 30 minutes.",
+    "interesting points": "The observer described the object as having a 40-50 ft diameter with an elliptical shape and bright yellowish-white coloration., It had windows or portholes around its edge and no visible means of propulsion., A reddish-orange ball of fire was seen emitting heat and bluish-white light behind the object., The UFO appeared to hover, then accelerated and streaked off at high speed., The object left muddy impressions on the ground.",
+    "sighted object": "Unidentified flying object",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian female, 45 years of age, residing in Beavercreek, Ohio.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Possible sighting of an unidentified aerial object over Port Washington, New York on November 3, 1966",
-    "interesting points": [
-        "The object was stationary and glowing above some tall trees, and was not shaped like a typical aircraft.",
-        "The object exhibited a distinct glow and had no visible projections.",
-        "On October 18, 1966, several police officers and local residents reported seeing multiple oval-shaped, bright white objects moving at high speed in the sky over Port Washington.",
-        "The October 18th sightings were at an altitude of approximately 2,000 feet and lasted around 5 minutes.",
-        "No other reports or sightings were received regarding the November 3rd incident."
-    ],
-    "result": "possible aircraft",
-    "sighted object": "a stationary, glowing object that was not shaped like an aircraft",
-    "location": "Port Washington, New York",
-    "witnesses": "a civilian observer",
-    "photographs": "no photographs were taken"
+    "main event": "An observer reported a stationary glowing object above tall trees in Port Washington, New York on November 3, 1966. The object was not shaped like an aircraft.",
+    "interesting points": "The object exhibited a distinct whitish luminescent glow., The observer estimated the object was 800-1000 feet above the ground., The object was seen for several minutes and was not observed traveling., Two reliable witnesses had a similar report of sightings on October 18, 1966 with objects described as oval-shaped., The objects observed previously were reported to be moving at a high rate of speed.",
+    "sighted object": "stationary glowing object",
+    "location": "Port Washington, New York, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One was a retired naval officer and the other a retired businessman.",
+    "contains photographs": false
 }

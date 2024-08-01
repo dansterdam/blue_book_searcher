@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A radar return was detected over the Philadelphia, Pennsylvania area, which was tracked intermittently for over 9 minutes. The object made a large turn to the north.",
-    "interesting points": [
-        "The radar returns indicated the unidentified target made a large turn to the north.",
-        "There was uncertainty about whether this was a space probe, missile, satellite, or some other type of unidentified aviation object under control and observing the area.",
-        "The case was referred to the Air Force Public Relations Office for further analysis, with no conclusions drawn about the identity of the unidentified target.",
-        "The report mentions the government should be more transparent with the public about UFO sightings and incidents.",
-        "The document contains numerous questions and requests for more information about the incident and any ongoing investigations."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unidentified radar return",
-    "location": "Philadelphia, Pennsylvania",
-    "witnesses": "air traffic control facility",
-    "photographs": "none"
+    "main event": "A radar object was tracked over Philadelphia, Pennsylvania, on an unspecified date.",
+    "interesting points": "The object was tracked on radar at an altitude of 9,600 feet and was estimated to be 30 to 50 feet in diameter., The duration of the sighting was approximately 3 minutes., Initial impressions were to discount the incident as a natural phenomenon., The Air Force later identified the object as likely being a commercial airliner., No other unusual activity or sightings were reported in the area at the time.",
+    "sighted object": "one radar-tracked object",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses were confirmed.",
+    "contains photographs": false
 }

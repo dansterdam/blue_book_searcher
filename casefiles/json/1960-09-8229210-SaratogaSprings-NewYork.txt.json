@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report text:
-
 {
-    "main event": "A person in Saratoga Springs, New York witnessed an irregular-shaped object the size of a planet with lighting effects that descended below the horizon in 1959.",
-    "interesting points": [
-        "The object was not strobed but did not appear to be a steady flame.",
-        "The object descended below the horizon, disappearing from view.",
-        "The report mentions 5 objects observed about 5 minutes apart.",
-        "The objects were seen at a 15 degree angle and 270 degree azimuth, similar to a satellite's path.",
-        "The objects seemed to zig-zag when accelerating, which the observer said could have been an illusion caused by the rapid movements and glows."
-    ],
-    "result": "unexplained",
-    "sighted object": "irregular-shaped object the size of a planet with lighting effects",
-    "location": "Saratoga Springs, New York",
-    "witnesses": "person in Saratoga Springs",
-    "photographs": "no photographs included in this report"
+    "main event": "Multiple witnesses observed unidentified objects in the sky over Saratoga Springs, New York, on September 16, 1959.",
+    "interesting points": "The objects were described as irregular in shape and the size of the planet Mars,Lighting effects were visible, but did not appear to be reflections,The objects were seen descending below the horizon,The sightings involved reports of bright bluish lights and a bright red color,The observers noted that the objects seemed to zigzag while accelerating.",
+    "sighted object": "unidentified flying objects",
+    "location": "Saratoga Springs, New York, USA",
+    "number of confirmed witnesses": 8,
+    "witness description": "MccConnell and family were in an automobile with various plants when they noticed the objects in the sky.",
+    "contains photographs": false
 }

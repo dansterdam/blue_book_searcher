@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, golden-white object was observed at approximately 20,000 feet and 50 degrees elevation, moving rapidly to the east.",
-    "interesting points": [
-        "The object was observed visually and on radar for about 15 minutes.",
-        "Local traffic, radar, and weather units checked, but nothing unusual was reported.",
-        "There was a heavy, cold layer of air that intercepted objects at 26,000 feet and -51 degrees Celsius.",
-        "The radar cross-section data was conflicting.",
-        "The observer, a pilot, could not definitively determine what the object was, but it was possibly a balloon, aircraft, or astronomical phenomenon."
-    ],
-    "result": "unknown",
-    "sighted object": "round, golden-white object",
-    "location": "Chillicothe, Ohio",
-    "witnesses": "pilot",
-    "photographs": "no"
+    "main event": "A round, goldish white object was observed moving rapidly to the east at approximately 20,000 feet elevation in Chillicothe, Ohio.",
+    "interesting points": "The sighting lasted for 15 minutes,The observation was made via visual and radar,There were conflicting data regarding the object's nature, including possibilities like a balloon, aircraft, or astronomical phenomena,The object was seen at a 50-degree elevation,Local traffic and weather units reported nothing unusual during the observation.",
+    "sighted object": "a round, goldish white object",
+    "location": "Chillicothe, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lee Veal Dunnington, a 32-year-old pilot",
+    "contains photographs": false
 }

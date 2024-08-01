@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report you provided:
-
 {
-    "main event": "A citizen observed two unidentified objects, one larger than the other, hovering over the moon in Sacramento, California on September 2, 1963.",
-    "interesting points": [
-        "The objects were stationary and did not disappear.",
-        "The objects were observed through 8x binoculars.",
-        "The observer initially believed the objects were Jupiter and one of its satellites.",
-        "The sighting lasted approximately 10 seconds.",
-        "The objects were located about 45 degrees to the left of the observed location of the moon."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects, one larger than the other, hovering over the moon",
-    "location": "Sacramento, California",
-    "witnesses": "a citizen",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A citizen observed 2 objects, one larger than the other, hovering over the moon.",
+    "interesting points": "The sighting occurred on September 2, 1963, at 1630 local time., The objects were stationary and viewed through 8x binoculars., The observer speculated that the objects might be Jupiter and one of its satellites., The moon was positioned at an azimuth of 229 degrees and altitude of 15.13., The sighting lasted approximately 10 seconds.",
+    "sighted object": "two unidentified objects hovering over the moon",
+    "location": "Sacramento, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a citizen observing through binoculars",
+    "contains photographs": true
 }

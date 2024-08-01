@@ -1,15 +1,9 @@
 {
-    "main event": "An aerial photograph was taken of a rural or suburban landscape in Corpus Christi, Texas.",
-    "interesting points": [
-        "The image appears to be from Project Blue Book, a U.S. Air Force investigation into unidentified flying objects (UFOs).",
-        "The image is a grainy black-and-white aerial view, showing various patterns and shapes that could represent buildings, roads, fields, or other features on the ground.",
-        "The document is titled 'File 8136' and is dated October 26, 1962.",
-        "The document indicates that the image is labeled 'I photo', suggesting it is a single photograph or image.",
-        "No specific details about a UFO sighting are provided in the text."
-    ],
-    "result": "inconclusive",
-    "sighted object": "no specific object mentioned",
-    "location": "Corpus Christi, Texas",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes a single aerial photograph"
+    "main event": "Aerial photograph showing a rural or suburban landscape in Corpus Christi, Texas from a UFO report dated October 26, 1962.",
+    "interesting points": "The document is part of Project Blue Book, which investigated UFO sightings., The image is a grainy black-and-white aerial photograph., Various patterns and shapes in the photograph may represent buildings, roads, and fields., The report is dated October 26, 1962., The location associated with the document is Corpus Christi, Texas.",
+    "sighted object": "aerial view of rural or suburban landscape",
+    "location": "Corpus Christi, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No witnesses or human faces are identified in the image.",
+    "contains photographs": false
 }

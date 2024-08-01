@@ -1,15 +1,9 @@
 {
-    "main event": "An unidentified flying object was sighted in Madrid, Spain on 22 August 1955, observed by a USAF Major who reported hearing a jet sound and then saw a white spherical object.",
-    "interesting points": [
-        "The object was initially thought to be a weather balloon but then appeared to change in shape from a sphere to a disc before disappearing from sight.",
-        "The sighting lasted between one minute and 15 seconds to one minute and 30 seconds.",
-        "The weather and visibility at the time of sighting were clear with unlimited visibility and no wind at ground level.",
-        "The witness, a senior pilot with approximately 4,000 hours of flight time, stated that he had never observed or reported such a phenomenon before.",
-        "Investigations revealed a balloon release by British forces, which the witness may have observed, along with the presence of two F-86 aircraft in the area at the time of the incident."
-    ],
-    "result": "Prosaic explanation as a balloon release by British forces is suggested, along with the presence of two F-86 aircraft in the area at the time of the incident.",
-    "sighted object": "Unidentified spherical and disc-shaped object in the sky",
+    "main event": "Major William A. Burdick sighted a white spherical object in Madrid, Spain on August 22, 1955.",
+    "interesting points": "The object was first assumed to be a weather balloon,The sighting lasted for approximately 1 minute and 15 seconds,The object appeared silver in color and changed shape from a sphere to a disc as it moved,Major Burdick is an experienced pilot with around 4,000 flight hours,The sound of a jet aircraft was heard prior to the sighting which ceased as the object was observed.",
+    "sighted object": "white spherical object",
     "location": "Madrid, Spain",
-    "witnesses": "USAF Major and some Spanish nationals",
-    "photographs": "The report includes photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "USAF Major with extensive flying experience",
+    "contains photographs": false
 }

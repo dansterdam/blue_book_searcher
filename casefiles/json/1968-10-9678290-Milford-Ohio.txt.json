@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were spotted in the sky over Milford, Ohio on September 23, 1967 around 9:30 PM.",
-    "interesting points": [
-        "The objects were reported to the Civil Defense, who concluded the sighting as 'unknown'.",
-        "The report mentions an agent who was conducting radar bomb scores at the time and noted the objects on the radar scope, but stated the scope was old and not very good.",
-        "A follow-up letter was sent by the Department of the Air Force, Headquarters Foreign Technology Division, requesting a more detailed description of the observation.",
-        "The report includes a Sighting of Unidentified Phenomena Questionnaire with a hand-drawn diagram showing the observer's perspective and the path of the observed phenomenon.",
-        "The questionnaire asked detailed questions about the sighting, including information about the sky conditions, moon and star visibility, and a description of the observed phenomenon."
-    ],
-    "result": "unknown",
-    "sighted object": "two unidentified objects",
-    "location": "Milford, Ohio",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "On September 23, 1967, two unidentified flying objects were observed in Milford, Ohio at 9:30 p.m.",
+    "interesting points": "The sighting involved two objects observed visually,The conclusion from the Civil Defense stated it was an unknown incident,The agent conducting radar bomb scores was unaware of any related incidents until much later,The radar used by the agent was described as old and not very effective,No photographs were included in the report.",
+    "sighted object": "two unidentified flying objects",
+    "location": "Milford, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not applicable as no confirmed witnesses were noted",
+    "contains photographs": false
 }

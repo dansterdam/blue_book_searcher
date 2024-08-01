@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A brilliant white light with two parallel trails was observed in the sky over South Dakota.",
-    "interesting points": [
-        "The light was most intense at the front, with diminishing intensity towards the rear.",
-        "The object was observed for 4-5 seconds by the crew of two commercial airplanes, a United flight and an American flight.",
-        "The object was descending at an angle of 25-30 degrees.",
-        "The entire cockpit of the aircraft was lit up with a bluish color when the object was observed.",
-        "The location of the sighting was approximately 15-17 nautical miles east of Rapid City and Aberdeen, South Dakota."
-    ],
-    "result": "astronomical (METEOR)",
-    "sighted object": "brilliant white light with two parallel trails",
-    "location": "South Dakota",
-    "witnesses": "crew of United and American commercial flights",
-    "photographs": "none"
+    "main event": "A brilliant blue white light with two parallel trails was observed in the sky over South Dakota.",
+    "interesting points": "The object displayed a brilliant white light with diminishing intensity towards the rear,The observation lasted for 4-5 seconds,The object was descending at an angle of twenty-five to thirty degrees,Observations were made from two aircraft flying from New York,The sighting occurred at night on 17/03/92.",
+    "sighted object": "brilliant blue white light with two parallel trails",
+    "location": "Rapid City, South Dakota, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "United Airlines and American Airlines captains",
+    "contains photographs": false
 }

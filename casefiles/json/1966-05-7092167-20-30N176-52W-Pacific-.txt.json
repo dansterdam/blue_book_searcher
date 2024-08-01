@@ -1,15 +1,9 @@
 {
-    "main event": "A blue-white colored object was observed by an aircraft pilot in the Pacific Ocean.",
-    "interesting points": [
-        "The object was reported to be definitely larger than a star.",
-        "The object's course was straight, and it moved at a rapid speed.",
-        "The object was visible for approximately 10 minutes, but suddenly disappeared and then later resurfaced.",
-        "The object was estimated to be 15-20 miles in front of the aircraft at 10,000 feet, with an approximate size of 5 degrees.",
-        "The object exhibited fast maneuvers and changes in direction, leading to the possibility of it being a reflective phenomenon or a secret military aircraft."
-    ],
-    "result": "Unidentified",
-    "sighted object": "A blue-white colored object",
+    "main event": "An aircraft commander reported a sighting of a round, blue-white colored object in the Pacific Ocean on 9 May 1966.",
+    "interesting points": "The object was observed for approximately 10 minutes before it suddenly disappeared and later resurfaced., The pilot estimated the object to be 15-20 miles in front of the aircraft at approximately 10,000 ft., The object had rapid speed and performed fast maneuvers with a change of direction., The weather conditions were clear with no cloud cover., The conclusion of the report suggested it could be a satellite.",
+    "sighted object": "one round blue-white colored object",
     "location": "Pacific Ocean",
-    "witnesses": "Aircraft commander",
-    "photographs": "No"
+    "number of confirmed witnesses": 1,
+    "witness description": "aircraft commander",
+    "contains photographs": false
 }

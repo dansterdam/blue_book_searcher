@@ -1,15 +1,9 @@
 {
-  "main event": "An airman at Keesler Air Force Base observed a bright, round object in the sky on March 7, 1954, moving at high speed and changing direction abruptly.",
-  "interesting points": [
-    "The object was estimated to be approximately 500 feet in altitude and traveling at a speed of approximately 500 mph.",
-    "It was visible for approximately 10-15 seconds before disappearing from view.",
-    "The object did not make any sound and appeared to be self-luminous.",
-    "A thorough investigation was conducted, including a search for physical evidence, but no evidence was recovered.",
-    "No other witnesses were found to corroborate the airman's account."
-  ],
-  "result": "unexplained",
-  "sighted object": "bright, round object in the sky",
-  "location": "Keesler Air Force Base, Mississippi",
-  "witnesses": "airman",
-  "photographs": "yes, 2 photos included"
+    "main event": "An airman at Keesler Air Force Base observed an unidentified flying object in the sky on March 7, 1954.",
+    "interesting points": "The object was bright and round, moving in a northeasterly direction at approximately 500 mph,The airman estimated the object to be 500 feet in altitude,The sighting lasted for about 10-15 seconds before the object disappeared,The object was self-luminous and made no sound,The investigation found no physical evidence or additional witnesses.",
+    "sighted object": "a bright, round unidentified flying object",
+    "location": "Keesler AFB, Mississippi, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an airman on duty in the area of the base theatre",
+    "contains photographs": true
 }

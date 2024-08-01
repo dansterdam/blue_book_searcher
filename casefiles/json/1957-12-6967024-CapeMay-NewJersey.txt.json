@@ -1,15 +1,9 @@
 {
-    "main event": "On December 3, 1957, Naval Air Station personnel in Cape May, New Jersey, observed a very bright object in the southern sky. The object moved slightly to the southwest and then appeared to have an explosion before disappearing beyond the horizon.",
-    "interesting points": [
-        "The observation lasted for 40 minutes, indicating a prolonged sighting of the object.",
-        "The object was described as very bright and appeared to move before disappearing, suggesting unusual behavior.",
-        "Naval Air Station personnel reported the sighting, adding credibility to the observation.",
-        "The object was deemed unknown in the conclusion, indicating that there was insufficient data for evaluation.",
-        "Coast Guard station was requested to look for the object, but it disappeared before any action was taken."
-    ],
-    "result": "Unknown",
-    "sighted object": "A very bright object in the southern sky",
-    "location": "Cape May, NJ",
-    "witnesses": "Naval Air Station personnel",
-    "photographs": "no"
+    "main event": "Observation of a very bright object in the southern sky of Cape May, New Jersey, on December 3, 1957.",
+    "interesting points": "The object was observed for 40 minutes, moving slightly to the southwest over that time., Witnesses noted characteristics of a bright orange light falling or disappearing over the horizon., There appeared to be an explosion before the object disappeared., The sighting involved multiple types of observation including ground and air visual., Naval Air Station personnel reported the sighting.",
+    "sighted object": "very bright object",
+    "location": "Cape May, New Jersey, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "personnel from Naval Air Station",
+    "contains photographs": false
 }

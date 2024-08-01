@@ -1,17 +1,9 @@
-Based on the information provided in the government UFO report, here is the summary in JSON format:
-
 {
-    "main event": "A round object with a propeller-like device was observed ascending vertically and then disappearing after 2 minutes.",
-    "interesting points": [
-        "The object was described as being round with an object on the side which appeared to be a propeller-like device.",
-        "The object ascended vertically and disappeared after 2 minutes.",
-        "A fishing group in France observed a circular, spinning, and very bright object at a high altitude for about 5 minutes before it disappeared.",
-        "The sighting in France occurred on September 16, 1955.",
-        "The report mentions that the sighting in New Jersey did not require extensive investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "round object with a propeller-like device",
-    "location": "Oak Tree, New Jersey",
-    "witnesses": "fishing group",
-    "photographs": "no"
+    "main event": "A fishing group observed a bright circular object maneuvering at high altitude in France.",
+    "interesting points": "The object was estimated to be at about 30,000 feet and was circular in shape.,The object seemed to be revolving or spinning during the observation.,It was very bright, almost blinding to the observers.,The sighting lasted for about 5 minutes before the object suddenly disappeared.,This case was documented in the French Gendarmerie files.",
+    "sighted object": "a bright circular object",
+    "location": "Dory, France",
+    "number of confirmed witnesses": 5,
+    "witness description": "fishing group from St Gilles Croix de Vie",
+    "contains photographs": false
 }

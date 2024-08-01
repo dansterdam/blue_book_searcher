@@ -1,15 +1,9 @@
 {
-    "main event": "A bright, shiny object was sighted in the sky, believed to be a jet airplane.",
-    "interesting points": [
-        "The object was sighted in the west, flying in a southerly direction.",
-        "The object appeared to be in normal flight.",
-        "The object was observed for about one minute before disappearing from view.",
-        "The report indicates that the sighting was probably a jet airplane.",
-        "The document appears to be a Project 10073 record card from Project Blue Book, a US Air Force program that investigated unidentified flying objects."
-    ],
-    "result": "identified as a jet airplane",
-    "sighted object": "a bright, shiny object in the sky",
-    "location": "unspecified",
-    "witnesses": "unspecified",
-    "photographs": "no"
+    "main event": "An object, probably a jet airplane, was sighted flying in a southerly direction at about 6:00 PM.",
+    "interesting points": "The object appeared bright and shiny.,The object was observed for about one minute.,It was sighted in the west.,The sighting occurred during normal flight conditions.,The report concludes that the sighting was probably a jet airplane.",
+    "sighted object": "a bright and shiny object, probably a jet airplane",
+    "location": "Not specified, Not specified, Not specified",
+    "number of confirmed witnesses": 0,
+    "witness description": "Not specified",
+    "contains photographs": false
 }

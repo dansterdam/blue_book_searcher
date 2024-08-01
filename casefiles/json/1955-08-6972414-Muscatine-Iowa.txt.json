@@ -1,15 +1,9 @@
 {
-    "main event": "On August 26, 1955, a UFO sighting occurred in Muscatine, Iowa, lasting for 2 hours. The object observed was described as star-shaped, exhibiting red to green lights and displaying ascending and descending movements within a limited area.",
-    "interesting points": [
-        "The UFO was observed for 2 hours, providing a substantial duration for the sighting.",
-        "The object displayed unique behavior, including changing lights from red to green when viewed through binoculars and exhibiting ascending and descending movements.",
-        "The witnesses included a 39-year-old state representative, a salesman, and a manager of a paint store, providing multiple credible observers.",
-        "The document lists various possible explanations for the UFO, including a balloon, aircraft, or astronomical object, but ultimately concludes with 'Unknown'.",
-        "The UFO report was relayed to duty directors, indicating an official investigation or response to the sighting."
-    ],
-    "result": "Unknown",
-    "sighted object": "Star-shaped UFO with red to green lights",
-    "location": "Muscatine, Iowa",
-    "witnesses": "State representative, salesman, and paint store manager",
-    "photographs": "no"
+    "main event": "A UFO sighting involving a star-shaped object that changed colors from red to green occurred in Muscatine, Iowa on August 26, 1955.",
+    "interesting points": "The sighting lasted for approximately 2 hours.,The object was observed to ascend and descend within a limited area.,Witnesses used binoculars for a clearer view of the object.,The UFO was reported to be stationary during the observation.,The conclusions regarding the object were varied, with possibilities including a balloon or an astronomical star.",
+    "sighted object": "one star-shaped object changing colors",
+    "location": "Muscatine, Iowa, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "witnesses included a state representative, a salesman, and a paint store manager",
+    "contains photographs": false
 }

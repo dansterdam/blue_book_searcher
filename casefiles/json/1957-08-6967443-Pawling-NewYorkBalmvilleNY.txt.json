@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian reported a probable balloon sighting in Pawling, New York on 8th August 1957 at 21:35 EST.",
-  "interesting points": [
-    "The observation was classified as a 'probable balloon sighting' and was deemed to have insufficient data for evaluation.",
-    "The report does not contain any photographs of the observed object.",
-    "The sighting was categorized as a Ground-Visual observation, indicating that the object was seen from the ground.",
-    "The weather conditions at the time of the sighting were described as slightly hazy.",
-    "The document contains handwritten and typed text from the Project Blue Book, which was the US Air Force's official project to investigate UFOs."
-  ],
-  "result": "prosaic explanation (probable balloon sighting)",
-  "sighted object": "one object, categorized as a probable balloon",
-  "location": "Pawling, New York (Balmville)",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A probable balloon sighting was reported in Pawling, New York on 8 August 1957.",
+    "interesting points": "The sighting occurred at 2135 EST under slightly hazy weather conditions., The object was reported to be moving in a northeast direction., The investigation concluded there was insufficient data for evaluation., The observation was made by a civilian witness., The report indicates that the sighted object could have been a weather balloon.",
+    "sighted object": "one object, possibly a balloon",
+    "location": "Pawling, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

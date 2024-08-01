@@ -1,15 +1,9 @@
 {
-    "main event": "A bright blinking light was sighted moving at tremendous speed from northeast to southwest, before suddenly disappearing.",
-    "interesting points": [
-        "The object could not be clearly identified, and details of its description were vague and uncertain.",
-        "The object disappeared at high speed under unaccounted for conditions.",
-        "Theodolite measurements were taken, recording the object's azimuth and elevation over time.",
-        "The object's color changed from white to green and red, and then to black when it was nearly stationary.",
-        "The object's brightness diminished somewhat after about an hour, possibly due to thin cirrus clouds."
-    ],
-    "result": "unexplained",
+    "main event": "A UFO was sighted with a bright blinking light moving from northeast to southwest at tremendous speed, and the light suddenly disappeared.",
+    "interesting points": "The object was reported to have moved at tremendous speed before it vanished,The sighting was conducted using a theodolite for measurement,The light changed colors from green to red and then turned black,The observer noted that the visibility was excellent at the time of the sighting,No photographs were included in the report.",
     "sighted object": "bright blinking light",
-    "location": "Mitchell AFB, NY",
-    "witnesses": "base operations and weather tower personnel",
-    "photographs": "none"
+    "location": "Mitchell AFB, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer through a theodolite",
+    "contains photographs": false
 }

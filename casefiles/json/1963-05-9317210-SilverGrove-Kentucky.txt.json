@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A 15-year-old witness reported seeing two objects moving southerly for 2 to 5 minutes in Silver Grove, Kentucky on February 3, 1963.",
-    "interesting points": [
-        "The witness had reported similar sightings in the past, indicating he may be a reliable observer.",
-        "The visual and radar confirmation of the objects suggests they may have been real.",
-        "The nature and purpose of the objects are unknown, and additional investigation may be necessary.",
-        "The objects were reported to be moving southerly for 2 to 5 minutes.",
-        "The report notes that previous reports from this witness indicate he is reliable."
-    ],
-    "result": "unexplained",
-    "sighted object": "two unidentified objects",
-    "location": "Silver Grove, Kentucky",
-    "witnesses": "15-year-old civilian",
-    "photographs": "none"
+    "main event": "A 15-year-old reported observing two unidentified objects moving southerly in the sky for 2 to 5 minutes in Silver Grove, Kentucky on February 3, 1963.",
+    "interesting points": "The witness has a history of reporting similar sightings reliably,The objects were observed for a duration of 2 to 5 minutes,Visual and radar confirmation suggests the objects could be real,The nature and purpose of the objects remain unknown,One object was described as about the size of a quarter and dimmed before disappearing.",
+    "sighted object": "two unidentified objects in the sky",
+    "location": "Silver Grove, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "15-year-old male with previous reliable sightings.",
+    "contains photographs": false
 }

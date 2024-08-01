@@ -1,17 +1,9 @@
-Here is a summary of the UFO report in JSON format:
-
 {
-    "main event": "A 17-year-old witness in San Bernardine, California observed two unidentified lights in the sky on September 12, 1966.",
-    "interesting points": [
-        "The objects were moving horizontally and slower than a normal aircraft.",
-        "There was a short blink or period where the light was not visible.",
-        "A smaller red object moved from the front of the main white object and proceeded ahead of it.",
-        "The witness stated they are intensely interested in aeronautics and are applying to the Air Force Academy.",
-        "The witness ruled out the objects being satellites, meteors, or any type of known aircraft."
-    ],
-    "result": "Possible (AIRCRAFT)",
-    "sighted object": "Two lights, one white and one smaller red object",
-    "location": "San Bernardine, California",
-    "witnesses": "1 civilian witness, a 17-year-old male",
-    "photographs": "No photographs included"
+    "main event": "A civilian observed two unidentified flying objects on 13 September 1966 in San Bernardino, California.",
+    "interesting points": "The sighting involved two lights that moved in a horizontal motion slower than a normal aircraft,The observer described a white light and a smaller red object that emerged from the white light,The sighting lasted for about 5 seconds,The witness claimed there was no sound detected from the objects,The observer was a 17-year-old interested in aeronautics.",
+    "sighted object": "two unidentified flying lights",
+    "location": "San Bernardino, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a 17-year-old male interested in aeronautics",
+    "contains photographs": false
 }

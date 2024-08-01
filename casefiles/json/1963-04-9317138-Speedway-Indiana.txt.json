@@ -1,17 +1,9 @@
-Based on the provided UFO report, here is the JSON summary:
-
 {
-    "main event": "A bright, round, self-luminous object was spotted moving at a high rate of speed over Speedway, Indiana on April 9, 1963.",
-    "interesting points": [
-        "The object was observed for about 3-4 minutes before disappearing from view.",
-        "The object was much larger and brighter than any conventional aircraft the witness had seen.",
-        "No trails or exhaust were seen coming from the object.",
-        "The Air Force investigated the sighting reported on April 22, 1963.",
-        "The witness requested an investigation and any information on similar sightings in the area."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright, round, self-luminous object",
-    "location": "Speedway, Indiana",
-    "witnesses": "civilian witness",
-    "photographs": "none"
+    "main event": "On April 22, 1963, a daughter reported to her father that an old house was observed moving and then disappeared in the Speedway, Indiana area.",
+    "interesting points": "The object was described as a light that hovered at a height estimated between 800-1000 ft,The daughter saw the object moving overhead at a diameter of 100 ft and a distance of 2 miles made judging its movement difficult,The father suggested it was probably an aircraft reported in the area at the time,The observation lasted approximately 3 minutes,This sighting was documented under Project Blue Book.",
+    "sighted object": "A light that was possibly an old house moving",
+    "location": "Speedway, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Daughter and father",
+    "contains photographs": false
 }

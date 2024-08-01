@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light was seen crossing the sky at an estimated 15,000 feet and 15 miles away in Manhasset, New York.",
-    "interesting points": [
-        "The object was estimated to have passed over at an altitude of 20,000 feet.",
-        "The sighting lasted for 4-5 seconds.",
-        "There was a haze layer over the area and thunderstorms reported in the nearby Bridgeport area.",
-        "The Nassau Police were investigating a separate report of a burning object that looked like a light bulb and battery, possibly from weather apparatus, in Flower Hill, New York.",
-        "The report states that the brevity of the sighting and improbability of further investigation yielding significant data precluded a follow-up investigation, and there was insufficient data for evaluation."
-    ],
-    "result": "unexplained",
+    "main event": "One bright light crossed the sky at 15,000 feet, estimated to be 15 miles distant, and passed over at 20,000.",
+    "interesting points": "The sighting lasted for 4-5 seconds., The object was reported by locals., The distance of the object was estimated to be significant., The report notes insufficient data for a follow-up investigation., Thunderstorms were reported in the nearby area during the sighting.",
     "sighted object": "one bright light",
-    "location": "Manhasset, New York", 
-    "witnesses": "locals",
-    "photographs": "yes, the report includes photographs"
+    "location": "Manhasset, New York, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "locals",
+    "contains photographs": false
 }

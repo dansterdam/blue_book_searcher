@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple residents of Belfast, Maine observed bright lights in the sky moving in an erratic manner on June 6, 1958.",
-    "interesting points": [
-        "The objects were observed for approximately 30 minutes.",
-        "Photographs were taken of the objects, but they were inconclusive due to poor quality.",
-        "Several other residents of Belfast corroborated the initial report.",
-        "There were no known aircraft operating in the area at the time of the sightings.",
-        "One witness, Richard J. Alder, reported seeing two oval-shaped objects with a reddish-orange glow that moved rapidly and silently over the trees."
-    ],
-    "result": "unexplained",
-    "sighted object": "bright lights, oval-shaped objects with reddish-orange glow",
-    "location": "Belfast, Maine",
-    "witnesses": "multiple residents of Belfast, Maine",
-    "photographs": "yes, but inconclusive due to poor quality"
+    "main event": "Several residents of Belfast, Maine observed unidentified flying objects in the sky on June 6, 1958.",
+    "interesting points": "The objects were observed for approximately 30 minutes,Photographs were taken of the objects which were forwarded for further analysis,The objects were described as two oval-shaped with reddish-orange glow,No known aircraft were operating in the area at the time,One observer also reported seeing a round to oval-shaped object observed for about 5 minutes.",
+    "sighted object": "two oval-shaped objects with reddish-orange glow",
+    "location": "Belfast, Maine, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Residents of Belfast, including Richard J. Alder and Kenneth A. Delano from the U.S. Air Force.",
+    "contains photographs": true
 }

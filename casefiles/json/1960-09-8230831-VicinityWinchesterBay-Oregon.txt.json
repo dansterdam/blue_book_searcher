@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A civilian witness and his family observed a lighted, disc-shaped object maneuvering in the sky near the Winchester Bay area of the Oregon coast.",
-    "interesting points": [
-        "The object hovered, moved slowly, made abrupt changes in direction, and emitted a pulsating light.",
-        "The object was visible for approximately 10-15 minutes.",
-        "A second sighting near Winchester Bay, Oregon on September 30, 1960 described a circular object with a bright reddish-orange glow around the edge and a dull glowing red center.",
-        "The object suddenly accelerated and climbed out of sight at a tremendous rate of speed.",
-        "There was a possible sighting of a brightly-maneuvering UFO in Kingston, Massachusetts on the same date, September 21, 1960, with witnesses seeing several aircraft move in and patrol the area shortly afterwards."
-    ],
-    "result": "unidentified",
-    "sighted object": "a lighted, disc-shaped object",
-    "location": "Vicinity Winchester Bay, Oregon",
-    "witnesses": "a civilian witness and his family",
-    "photographs": "no"
+    "main event": "On September 8, 1960, a civilian witness and his family observed a lighted, disc-shaped object maneuvering in the sky near Winchester Bay, Oregon.",
+    "interesting points": "The object was larger than a star but smaller than an airliner,The object hovered, moved slowly, and made abrupt changes in direction,The sighting lasted for about 10-15 minutes,The skies were clear with no clouds during the observation,The investigation found no conclusive explanation for the sighting.",
+    "sighted object": "lighted, disc-shaped object",
+    "location": "Winchester Bay, Oregon, USA",
+    "number of confirmed witnesses": 4,
+    "witness description": "a civilian witness and his family",
+    "contains photographs": false
 }

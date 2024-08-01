@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, stationary light was observed in the Pacific Ocean on July 7, 1961.",
-    "interesting points": [
-        "The light was observed at 2305Z and lasted for approximately 5-10 minutes.",
-        "The light was a steady, multi-colored light.",
-        "No definitive conclusions could be drawn regarding the nature of the light.",
-        "The report also mentions a sighting of a bright object on July 8, 1961 at 12:49Z, traveling from south to north, with a possible satellite re-entry.",
-        "The sighting on July 8 was evaluated as 'no threat'."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, stationary light",
-    "location": "26N147W in the Pacific Ocean",
-    "witnesses": "Lt Col. J. L. Williams, USAF, 1st Tactical Fighter Wing, George AFB, California",
-    "photographs": "none"
+    "main event": "Lt Col. J. L. Williams, USAF, observed a bright, stationary light at 26N147W in the Pacific Ocean on 7 July 1961.",
+    "interesting points": "The light was steady and multi-colored., The observation lasted for approximately 5-10 minutes., The object was evaluated as being too bright to be a star., The sighting was recorded as a possible satellite re-entry., The report concluded that there was no threat from the sighting.",
+    "sighted object": "bright stationary light",
+    "location": "Pacific Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "Lt Col. J. L. Williams, USAF, 1st Tactical Fighter Wing",
+    "contains photographs": false
 }

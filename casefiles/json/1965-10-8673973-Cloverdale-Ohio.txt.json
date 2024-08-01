@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Cloverdale, Ohio reported seeing a single orange object in the sky on October 27, 1965.",
-    "interesting points": [
-        "The object appeared larger than the planet Venus and was observed moving north for a short distance before disappearing.",
-        "No sound was reported from the object.",
-        "The observer's father also witnessed the sighting.",
-        "The observer requested information about the Air Force Museum and their understanding of unidentified flying objects.",
-        "The Air Force concluded the object was likely the planet Venus under favorable conditions for optical distortion near the horizon."
-    ],
-    "result": "Identified as the planet Venus",
-    "sighted object": "A single orange object in the sky",
-    "location": "Cloverdale, Ohio",
-    "witnesses": "A civilian and his father",
-    "photographs": "No"
+    "main event": "A UFO sighting was reported in Cloverdale, Ohio on October 27, 1965, where an object larger than Venus appeared in the western sky.",
+    "interesting points": "The object was orangish in color and appeared to move north for a short distance before stopping., No sound was observed during the sighting., The Air Force concluded the object was likely the planet Venus due to optical distortion., The object was observed under conditions favorable for viewing the planet in the southwestern sky., A witness reported the object was seen at the approximately 7:30 position in the sky.",
+    "sighted object": "an unidentified flying object larger than Venus",
+    "location": "Cloverdale, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a father and son",
+    "contains photographs": false
 }

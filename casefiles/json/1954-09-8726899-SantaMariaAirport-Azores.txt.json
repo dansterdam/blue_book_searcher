@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed over the Santa Maria Airport in the Azores on September 8, 1954.",
-    "interesting points": [
-        "The object appeared to be metallic and oval in shape.",
-        "It maneuvered in the sky for several minutes before accelerating and disappearing at a high rate of speed.",
-        "The object was sighted by numerous witnesses, including control tower personnel and military pilots.",
-        "On September 9, 1954, a brilliant white light was observed in the sky about 10 miles northwest of the Santa Maria Airport.",
-        "The light increased in size and brightness, illuminating the entire area before ascending to an estimated altitude of 20,000 feet and then suddenly disappearing."
-    ],
-    "result": "UNIDENTIFIED",
-    "sighted object": "metallic, oval-shaped object; brilliant white light",
+    "main event": "An unidentified flying object was observed at Santa Maria Airport in the Azores on 21 September 1954.",
+    "interesting points": "The object was reported to be light metallic blue and approximately 10 feet in length or height., A blond-haired man, about 5'10\", exited the object and attempted to converse with the witness but failed., The observation lasted for about 2 to 3 minutes., Control tower personnel and military pilots also witnessed similar unidentified flying objects in the area., The incident was classified as unidentified based on a second-hand report.",
+    "sighted object": "one light metallic blue object",
     "location": "Santa Maria Airport, Azores",
-    "witnesses": "control tower personnel, military pilots, American Airlines crew",
-    "photographs": "no"
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian guard at the airport",
+    "contains photographs": false
 }

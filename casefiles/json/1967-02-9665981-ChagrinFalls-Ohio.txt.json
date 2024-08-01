@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness spotted a glowing, disc-shaped object that hovered in the sky over Chagrin Falls, Ohio in 1967.",
-    "interesting points": [
-        "The object appeared to be about 20-30 feet in diameter and was glowing, not flashing.",
-        "The object moved slowly at first, then picked up speed, and then came to a complete stop and hovered for a few minutes.",
-        "The object then appeared to move away slowly, dimming as it went into the distance.",
-        "The object made no sound that could be heard.",
-        "The witness was at a loss to adequately describe the object, as it did not behave like an aircraft or star."
-    ],
-    "result": "unexplained",
-    "sighted object": "a glowing, disc-shaped object",
-    "location": "Chagrin Falls, Ohio",
-    "witnesses": "a local resident",
-    "photographs": "no"
+    "main event": "A witness reported observing a glowing object in the sky over Chagrin Falls, Ohio, on February 3, 1967.",
+    "interesting points": "The object initially appeared as a stationary star with a reddish glow., It changed shape and color during the observation., The object moved slowly to the left, then reversed back to its original position., The witness described the object as possibly 20 to 30 feet in diameter., The entire sighting lasted 4-5 minutes with no sound detected.",
+    "sighted object": "a glowing disc-shaped object",
+    "location": "Chagrin Falls, Ohio, United States",
+    "number of confirmed witnesses": 1,
+    "witness description": "A neighbor with a redacted name who reported seeing the object over the lake.",
+    "contains photographs": false
 }

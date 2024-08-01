@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A witness saw a bright light about one yard long and 1 1/2 to 2 feet wide, traveling very slowly at about 3 mph, that seemed to fall apart and explode.",
-    "interesting points": [
-        "The object was described as a bright light, about one yard long and 1 1/2 to 2 feet wide, traveling very slowly at around 3 mph.",
-        "The object seemed to fall apart and explode.",
-        "The sighting lasted for approximately 30 seconds.",
-        "The report includes inconclusive conclusions, such as possibly being a balloon, aircraft, or astronomical object.",
-        "The report was generated as part of Project Blue Book, a historical U.S. Air Force program that investigated UFO sightings."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright light about one yard long and 1 1/2 to 2 feet wide",
-    "location": "Slightly south of Cotulla, Texas",
-    "witnesses": "one witness",
-    "photographs": "none"
+    "main event": "Witness reports seeing a bright light on a country road, approximately 1 yard long and 1.5 to 2 feet wide, moving slowly at about 3 mph before it seemed to explode.",
+    "interesting points": "The sighting lasted approximately 30 seconds,The object was described as a blue-green light,The object appeared to fall apart as if it exploded,The estimated altitude of the object was around 21,000 feet,The weather was clear during the sighting.",
+    "sighted object": "a bright blue-green light resembling an object about the size of a basketball",
+    "location": "Cotulla, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness was walking on a country road.",
+    "contains photographs": false
 }

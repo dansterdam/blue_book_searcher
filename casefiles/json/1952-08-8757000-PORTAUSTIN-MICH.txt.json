@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text:
-
 {
-    "main event": "Radar operators at the 754th ACAW Squadron in Port Austin, Michigan observed several large, fast-moving objects on their radar scopes on August 6, 1952.",
-    "interesting points": [
-        "The objects were variable in range and several thousand yards in size.",
-        "The objects were estimated to be traveling at speeds up to 4,505 knots (over 5,000 mph).",
-        "Radar operators considered the observations to be reliable, but the possibility of mistakes in transferring information was noted.",
-        "The only known traffic in the area at the time was a Trans-Canada Airlines DC-4 flight.",
-        "Weather conditions included occasional rain showers and varying wind speeds at different altitudes."
-    ],
-    "result": "unexplained",
-    "sighted object": "several large, fast-moving objects detected on radar",
-    "location": "Port Austin, Michigan",
-    "witnesses": "radar operators at the 754th ACAW Squadron",
-    "photographs": "none"
+    "main event": "On August 6, 1952, a radar unit observed several unidentified flying objects in Port Austin, Michigan, detected at high speeds.",
+    "interesting points": "The radar tracked objects at variable ranges of several thousand yards,The first object was detected at 0719Z and the last at 0755Z, indicating a short duration of observation,The radar image showed objects with erratic and irregular flight patterns,The maximum speed reached by the detected objects was 4505 knots,The only known air traffic during this period was a Trans-Canadian Airlines DC-4 flight that occurred concurrently.",
+    "sighted object": "unidentified flying objects detected by radar",
+    "location": "Port Austin, Michigan, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Captain Roy V. Anderson, Commanding Officer of the 754th ACAW Squadron",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A star-like object was observed slowly going down, then up, then disappearing over Wilmington, Delaware on July 8, 1954.",
-    "interesting points": [
-        "The object was observed for 2 minutes.",
-        "The object was estimated to be a bright star, possibly Venus which was ascertaining in the west at the time.",
-        "The observer was a civilian member of a local UFO spotters association.",
-        "The object made no sound and had a fuzzy outline.",
-        "Ground radar also detected the object."
-    ],
-    "result": "Possibly a Balloon, Possibly an Astronomical Object",
-    "sighted object": "a star-like object",
-    "location": "Wilmington, Delaware",
-    "witnesses": "civilian UFO spotter",
-    "photographs": "no photographs available"
+    "main event": "A witness reported seeing a star-like object that moved slowly down, then up, and eventually disappeared.",
+    "interesting points": "The sighting lasted for two minutes,The object was described as brilliant with a gold and red tinge,The observer noted that Venus was visible in the west at the time of the sighting,The object gradually sank below a line of trees,The preliminary analysis concluded that the object was probably a balloon, aircraft, or astronomical phenomenon.",
+    "sighted object": "star-like object",
+    "location": "Wilmington, Delaware, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife and elevator operator, member of local UFO spotters association",
+    "contains photographs": false
 }

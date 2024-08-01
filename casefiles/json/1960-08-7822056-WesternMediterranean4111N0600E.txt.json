@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A UFO was sighted by the crew of the USS Davis in the western Mediterranean Sea.",
-    "interesting points": [
-        "The UFO was initially sighted at approximately 41°11'N 6°00'E and was observed for about 3 minutes.",
-        "The object was blue-green in color and exhibited an erratic flight path, moving southerly and then rapidly up and down.",
-        "The object's initial intensity was about twice that of a first magnitude star.",
-        "The object was continuously sighted until it was obscured by clouds at a bearing of 330 degrees and an elevation angle of 8 degrees.",
-        "No estimate of the object's altitude was provided."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "A single unidentified flying object",
-    "location": "Western Mediterranean, approximately 41°11'N 6°00'E",
-    "witnesses": "Crew of the USS Davis",
-    "photographs": "No photographs were included in the report"
+    "main event": "An unidentified flying object was sighted by the USS Davis on August 25, 1960, over the Western Mediterranean.",
+    "interesting points": "The object was described as being blue-green and moving erratically in a southerly direction,The sighting lasted for about 3 minutes and was reported through military channels,The object was observed to blink, leading some to consider it a possible balloon or aircraft,There were two separate sightings by the USS Davis that provided continuous observations of the object,Limited information from the investigation made it difficult to conclude definitively about the object's nature.",
+    "sighted object": "an unidentified flying object",
+    "location": "Western Mediterranean, Mediterranean Sea, International Waters",
+    "number of confirmed witnesses": 1,
+    "witness description": "crew members of the USS Davis",
+    "contains photographs": false
 }

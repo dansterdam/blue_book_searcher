@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A civilian reported seeing a single unidentified object in the sky near Covington, Kentucky on July 5, 1966.",
-    "interesting points": [
-        "The object was observed for 15 seconds.",
-        "The witness had been seeing similar objects for 8 years.",
-        "The witness called the U.S. Weather Bureau, who said no weather balloons were launched that night.",
-        "The witness also contacted Lt. Campbell at Fort Knox, who said the object was definitely not a weather balloon.",
-        "The witness provided a sketch and details about the size, color, and movement of the object."
-    ],
-    "result": "Possible Unidentified",
-    "sighted object": "a single white object in the sky",
-    "location": "Covington, Kentucky",
-    "witnesses": "one civilian witness",
-    "photographs": "none"
+    "main event": "A civilian reported seeing an unidentified object in Covington, Kentucky on July 5, 1966.",
+    "interesting points": "The observation lasted for 15 seconds, The object was reported to be a single unidentified flying object, The observer has experience seeing objects for 8 years, The object was reported after contacting the U.S. Weather Bureau, No photographs or physical evidence were present in the report.",
+    "sighted object": "one unidentified flying object",
+    "location": "Covington, Kentucky, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The witness is a 17-year-old male who has been observing objects for 8 years.",
+    "contains photographs": false
 }

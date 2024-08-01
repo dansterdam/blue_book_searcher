@@ -1,17 +1,9 @@
-Here is the JSON summary based on the UFO report text provided:
-
 {
-  "main event": "A bright light was observed in the sky to the west, appearing circular with a flashing strobe-like effect.",
-  "interesting points": [
-    "The light was observed for approximately 20 seconds before disappearing.",
-    "The observer could not provide a definite description of the object due to the lack of tangible physical data.",
-    "The object appeared brighter and more blue in color than a typical star.",
-    "The object was reported to move at an estimated speed of 2-3,000 mph.",
-    "A separate sighting of a similar event was mentioned to have occurred on a previous date."
-  ],
-  "result": "Insufficient data for evaluation",
-  "sighted object": "A bright, circular light with a flashing strobe-like effect",
-  "location": "Minneapolis, Minnesota",
-  "witnesses": "1 civilian observer",
-  "photographs": "Yes, but not included in the report"
+    "main event": "An observer reported seeing a bright, circular light in the sky with a flashing strobe-like effect in September 1966.",
+    "interesting points": "The light was observed for about 20 seconds before disappearing., The observer noted that the object appeared to have a blue-grey reflective color., The object was described as saucer-shaped and about the size of a US silver dollar., It was estimated to be moving at a speed of 2-3,000 mph., No photograph of the incident was available, but there was a hand-drawn sketch included.",
+    "sighted object": "a bright circular light",
+    "location": "Minneapolis, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer filled out a questionnaire detailing their sighting.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A circular object was observed hovering, emitting no noise or exhaust, reported to be self-illuminated and casting a reflection on the water, then rose vertically out of view.",
-    "interesting points": [
-        "The object was observed on two occasions by the witness's daughter and others in the vicinity of the Martin Plant near the Middle River.",
-        "The last observation was around 8:40 pm local time on August 16, 1958.",
-        "The object was reportedly circular in shape, self-illuminated, and cast a reflection on the water.",
-        "The object was reported to be hovering and then rose vertically out of view.",
-        "Additional information was requested, including wind data and the duration of the sighting."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a circular, self-illuminated object",
-    "location": "Essex, Maryland",
-    "witnesses": "a civilian, the witness's daughter, and others in the vicinity",
-    "photographs": "no"
+    "main event": "A circular object was observed hovering in Essex, Maryland on 16 August 1958.",
+    "interesting points": "The object emitted no noise or exhaust,It was self-illuminated and cast a reflection on the water,The object was reported to have risen vertically out of view,The sighting was reported by a civilian and involved multiple witnesses,The duration of the observation was not reported.",
+    "sighted object": "circular object",
+    "location": "Essex, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observation was made by a daughter and others in the vicinity.",
+    "contains photographs": false
 }

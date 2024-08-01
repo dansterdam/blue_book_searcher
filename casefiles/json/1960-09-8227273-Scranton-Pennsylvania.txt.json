@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three lights were observed flying in trail formation. They were round and small, traveled swiftly and silently, made an occasional abrupt turn.",
-    "interesting points": [
-        "The lights were observed for about 5 minutes before going behind some clouds.",
-        "The objects were described as round, small, and traveling swiftly and silently.",
-        "The objects made occasional abrupt turns.",
-        "The report includes two sketches, one showing a burst or explosion of light and the other showing a landscape view.",
-        "The witnesses were described as responsible citizens who made independent reports, corroborating the main details."
-    ],
-    "result": "unexplained",
-    "sighted object": "three lights in trail formation",
-    "location": "Scranton, Pennsylvania",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Three lights were observed flying in trail formation in Scranton, Pennsylvania on September 22, 1958.",
+    "interesting points": "The lights were round and small, traveled swiftly and silently, The lights made occasional abrupt turns, After about 5 minutes, they were lost to sight when they went behind clouds., The object was pale white in color and oblong in shape and appeared much larger than a normal aircraft., Witnesses reported that the object made no noise and had no visible lights.",
+    "sighted object": "three round lights in the sky",
+    "location": "Scranton, Pennsylvania, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "civilians in the area",
+    "contains photographs": false
 }

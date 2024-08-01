@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "An unidentified aerial object was sighted by the 12th Weather Squadron at the Niagara Falls Airport on June 7, 1951.",
-    "interesting points": [
-        "The object was described as larger and brighter than the arc-shaped wings normally associated with jet aircraft, with no trail, exhaust or propulsion observed.",
-        "The object exhibited vertical and oscillating motion, and disappeared into the overcast within 20-30 seconds.",
-        "Sgt. and FPC observed the object's erratic and vertical flight path, with it disappearing and reappearing several times over 15-20 seconds.",
-        "A separate report mentions a pointed cylinder-shaped object with a cloth-like construction that fell in a canyon at Los Alamos on June 7, 1951.",
-        "Another report describes a large reddish dot that turned bright green, observed for 3 seconds by a Los Alamos employee on June 8, 1951."
-    ],
-    "result": "unidentified",
-    "sighted object": "a saucer-shaped, glowing object",
-    "location": "Niagara Falls, New York",
-    "witnesses": "12th Weather Squadron personnel, Sgt. and FPC",
-    "photographs": "none"
+    "main event": "An unidentified aerial object was sighted by members of the 12th Weather Squadron at Niagara Falls Airport on 7 June 1951.",
+    "interesting points": "The object was described as larger and brighter than typical jet aircraft wings., It exhibited vertical movement and oscillating motion., The sighting lasted approximately 20-30 seconds., The object disappeared into the overcast and reappeared suddenly during the observation., No trail, exhaust, or sound was noted during the sighting.",
+    "sighted object": "an unidentified aerial object",
+    "location": "Niagara Falls, New York, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "members of the 12th Weather Squadron, including W/Sgt. and two airmen",
+    "contains photographs": false
 }

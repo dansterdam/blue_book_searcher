@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-  "main event": "A bright, long trail of fire was observed over Jacksonville, Florida on January 30, 1955.",
-  "interesting points": [
-    "The object was observed from the control towers at Imeson Airport and Cecil Field in Jacksonville.",
-    "The object was described as very bright with a long trail of fire that faded out.",
-    "The observation lasted approximately 15 seconds.",
-    "The object's description could indicate that it was a meteorite.",
-    "The weather conditions at the time included clear visibility and varying wind speeds at different altitudes."
-  ],
-  "result": "possibly a meteor",
-  "sighted object": "a very bright object with a long trail of fire",
-  "location": "Jacksonville, Florida",
-  "witnesses": "air traffic controllers at Imeson Airport and Cecil Field",
-  "photographs": "no photographs present in the report"
+    "main event": "An unidentified object with a very bright long trail of fire was observed in Jacksonville, Florida on January 30, 1955.",
+    "interesting points": "The observation was characterized as a ground-visual type,The sighting lasted for about 15 seconds,The object's description included a very bright aspect and a long trail of fire,The report suggests that the object could be a meteorite,There were civilian and military witnesses involved in the observation.",
+    "sighted object": "one bright object with a long trail of fire",
+    "location": "Jacksonville, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "one civilian and one military air traffic controller",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Based on the information provided in the report, here is the JSON summary:
-
 {
-  "main event": "Crew's report of an object that appeared on an elevation bearing of 260 degrees magnetic from the observation aircraft.",
-  "interesting points": [
-    "The object appeared to be a small light.",
-    "Insufficient data was obtained to establish the distance, size, or speed of the object.",
-    "The report indicates that the data was insufficient for evaluation.",
-    "The report appears to be from a Project Blue Book record card.",
-    "The image does not contain any photographs, but includes references to military units and locations in the Pacific region."
-  ],
-  "result": "unexplained",
-  "sighted object": "small light",
-  "location": "Unknown",
-  "witnesses": "Crew of an observation aircraft",
-  "photographs": "No"
+    "main event": "Crew's report of an object that appeared on elevation bearing 260 degrees magnetic from the observation aircraft.",
+    "interesting points": "The object resembled a small light., Only a limited amount of data was obtained regarding the distance, size, or speed of the object., The report indicated the observation occurred on April 11, 1963., The sighting's details were recorded under Project Blue Book., The type of observation was categorized as 'Ground-Visual'.",
+    "sighted object": "small light in the sky",
+    "location": "Hawaii, Pacific Ocean, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Crew of the observing aircraft",
+    "contains photographs": false
 }

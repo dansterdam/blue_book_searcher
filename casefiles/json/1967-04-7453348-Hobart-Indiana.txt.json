@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A 14-year-old male in Hobart, Indiana reported seeing a bright, disc-shaped object moving in an erratic manner in the sky on April 12, 1967 at 8:12 PM.",
-    "interesting points": [
-        "The object was visible for approximately 2 minutes.",
-        "The witness described the object as brighter than the brightest stars.",
-        "The witness reported that the object appeared to stand still at times and suddenly speed up and rush away.",
-        "The witness estimated the speed of the object to be 2.4 times the speed of jets.",
-        "The witness reported seeing the object through sunglasses, a windshield, and binoculars."
-    ],
-    "result": "insufficient data to establish details",
-    "sighted object": "a bright, disc-shaped object",
-    "location": "Hobart, Indiana",
-    "witnesses": "a 14-year-old male",
-    "photographs": "none"
+    "main event": "An unidentified object was reported sighted in Hobart, Indiana in April 1967.",
+    "interesting points": "The sighting lasted about 2 minutes,The object was seen moving from west to east on a clear day,The observer used binoculars to view the object,The object was described as bright in color and disc-shaped,The report mentioned that the object's speed was estimated to be 2.4 times that of jets.",
+    "sighted object": "unidentified object in the sky",
+    "location": "Hobart, Indiana, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "An amateur astronomer and a 14-year-old male.",
+    "contains photographs": false
 }

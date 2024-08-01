@@ -1,15 +1,9 @@
 {
-    "main event": "On April 11, 1955, a ground-visual UFO sighting was reported over the Atlantic Ocean. The object was described as circular, bluish silver, larger than the moon, and emitted no sound.",
-    "interesting points": [
-        "The UFO sighting lasted for 50 seconds.",
-        "The object appeared larger than the moon and emitted a brilliant blue-green light.",
-        "The report card indicates that there were photos taken of the sighting.",
-        "The document suggests that there was uncertainty about the nature of the object, with possibilities ranging from balloons to aircraft to meteors.",
-        "Another sighting on March 9, 1955, described an object emitting a brilliant blue-green light and appearing to be a round saucer-like object."
-    ],
-    "result": "unknown",
-    "sighted object": "circular, bluish silver object larger than the moon",
+    "main event": "On April 7, 1955, a sighting of a circular bluish silver object larger than the moon occurred over the Atlantic Ocean.",
+    "interesting points": "The sighting lasted for 50 seconds., The object emitted no sound., The report suggests the possibility of the object being a meteor., There are conclusions drawn that the object could be man-made or astronomical., The document refers to military projects in relation to the sighting.",
+    "sighted object": "circular bluish silver object",
     "location": "Atlantic Ocean",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 1,
+    "witnesses": "individual reporting sighting",
+    "photographs": false
 }

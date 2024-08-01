@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A white dot was observed moving about the lower limb of the moon.",
-    "interesting points": [
-        "The sighting was reported by a naval petty officer, Rusnak BM3, who was alerted to the object by a civilian observer.",
-        "The sighting lasted from 0635Z to 0640Z (local time).",
-        "The report states that there were insufficient details provided for a full evaluation.",
-        "The report indicates that the object was possibly a balloon, aircraft, or astronomical in nature.",
-        "The report was received by the Commander of the Air Defense Command and forwarded to the Commander of the Air Technical Intelligence Center."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a white dot",
-    "location": "Atlantic City, New Jersey",
-    "witnesses": "Rusnak BM3 (naval petty officer), civilian observer",
-    "photographs": "no"
+    "main event": "A civilian observer and a naval member reported seeing a white dot moving about the lower limb of the moon.",
+    "interesting points": "The sighting occurred on 12 August 1958 at 0635Z., The observation lasted from 0635Z to 0640Z., The sighting was drawn to the attention of the naval member by a civilian call., The object was described as a white dot., Multiple conclusions suggested the object could be a balloon, aircraft, or astronomical phenomenon.",
+    "sighted object": "a white dot moving about the lower limb of the moon",
+    "location": "Atlantic City, New Jersey, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a civilian observer and a naval member (BM3 Rusnak)",
+    "contains photographs": true
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A military aircraft pilot sighted a bright object moving across the horizon at high velocity near Parkersburg, West Virginia on October 6, 1957.",
-    "interesting points": [
-        "The object was sighted for approximately 30 seconds as it moved from northwest to southeast.",
-        "The object appeared to be moving at very high speed and disappeared from sight.",
-        "The object was first sighted in the four-thirty to five o'clock position in relation to the aircraft, which was flying on a heading of 200 degrees.",
-        "The sighting was reported by the pilot to the Jackson, Michigan radio facility.",
-        "The report concluded the object was possibly a satellite, aircraft, astronomical, or manmade."
-    ],
-    "result": "unexplained",
+    "main event": "A bright object was sighted moving across the horizon at high velocity near Parkersburg, W.Va. on 6 October 1957.",
+    "interesting points": "The sighting lasted approximately 30 seconds., The object was observed moving from northwest to southeast., The object was reported by a military pilot on a refueling mission., The object was moving at very high velocity and disappeared quickly., Multiple conclusions were drawn regarding the object, including possibilities of it being a satellite, aircraft, astronomical phenomenon, or possibly manmade.",
     "sighted object": "a bright object",
-    "location": "Vicinity of Parkersburg, West Virginia",
-    "witnesses": "military aircraft pilot",
-    "photographs": "no"
+    "location": "Parkersburg, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a military pilot on a refueling mission",
+    "contains photographs": false
 }

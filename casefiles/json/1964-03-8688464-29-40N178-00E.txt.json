@@ -1,15 +1,9 @@
 {
-    "main event": "A peculiar flashing, tumbling object was observed by pilots of two aircraft over the Pacific Ocean.",
-    "interesting points": [
-        "The object appeared out of a mushroom-shaped cloud, trailing a rainbow-shaped cloud of smoke.",
-        "The object was observed to be arcing from north-northeast to south-southwest.",
-        "The object climbed to approximately 50 degrees above the horizon at its highest point.",
-        "The object's speed was comparable to that of an ECHO satellite.",
-        "The pilot reported seeing a white, dome-shaped cloud on the horizon, which rose rapidly and broke apart, revealing the flashing, tumbling object."
-    ],
-    "result": "unknown",
-    "sighted object": "a peculiar flashing, tumbling object",
-    "location": "29.40 N 178.00 E (over the Pacific Ocean)",
-    "witnesses": "pilots of two aircraft",
-    "photographs": "no"
+    "main event": "A peculiar flashing, tumbling object was observed in the sky from two aircraft over the Pacific Ocean.",
+    "interesting points": "The object appeared out of a mushroom-shaped cloud trailing a rainbow-shaped cloud of smoke.,The sighting lasted for approximately 15 minutes.,The object climbed to an elevation of about 50 degrees above the horizon.,Its speed was comparable to an echo satellite.,The object's characteristics did not correlate with known missile testing being conducted in the area.",
+    "sighted object": "one irregular flashing, tumbling object",
+    "location": "29.40 N, 178.00 E",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two pilots from aircraft in flight",
+    "contains photographs": false
 }

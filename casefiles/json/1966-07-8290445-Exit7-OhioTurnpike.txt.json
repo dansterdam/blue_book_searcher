@@ -1,17 +1,9 @@
-Here is the JSON summary of the old government UFO document:
-
 {
-    "main event": "Two girls observed two blinking lights that made erratic maneuvers over the Ohio Turnpike on July 10th.",
-    "interesting points": [
-        "The lights were at about the height of an airliner.",
-        "The observers initially thought the lights were a reflection, but the lights would not move on the object.",
-        "The object had two blinking lights and was visible for about 15 minutes.",
-        "The sighting occurred on a clear night near Exit 7 on the Ohio Turnpike.",
-        "The report was filed from North Columbia, Ohio."
-    ],
-    "result": "possible aircraft",
+    "main event": "Two girls observed two blinking lights moving erratically along the Ohio Turnpike on 10 July 1966.",
+    "interesting points": "The lights were first thought to be reflections, but later identified as coming from a single object., The observed object had two blinking lights., The lights made extremely erratic maneuvers., The sighting lasted for about 15 minutes., It was a clear night and the object was at the height of an airliner.",
     "sighted object": "two blinking lights",
-    "location": "Exit 7, Ohio Turnpike",
-    "witnesses": "two girls",
-    "photographs": "no"
+    "location": "North Columbia, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "two girls riding along the Ohio Turnpike",
+    "contains photographs": false
 }

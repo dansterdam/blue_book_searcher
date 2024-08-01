@@ -1,17 +1,9 @@
-Here is a JSON summary of the information provided in the old government UFO documents:
-
 {
-    "main event": "A civilian observer saw a bright light object moving rapidly across the sky at a high speed in Dayton, Ohio on September 9, 1965.",
-    "interesting points": [
-        "The object appeared to be elliptical in shape and much brighter than any star or planet.",
-        "The object accelerated and changed direction slightly a few times during the 10-15 second observation.",
-        "The object suddenly disappeared from view, with the witness unsure of where it went or how it vanished.",
-        "The witness was not prone to seeing strange things in the sky, making this a particularly perplexing sighting.",
-        "The witness reported the incident to the proper authorities in case it was of interest to the Project Blue Book UFO investigation."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright elliptical light",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "A civilian reported seeing a bright light in the sky over Dayton, Ohio on September 2, 1965, observed for about 10 minutes.",
+    "interesting points": "The object was viewed as a bright light that initially resembled a star but was moving rapidly,The object changed direction quickly, drawing the observer's attention,Atmospheric conditions possibly distorted the observed flight path,The report concluded the sighting likely involved a satellite,Another similar observation in the area occurred days later.",
+    "sighted object": "bright light in the sky",
+    "location": "Dayton, Ohio, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer",
+    "contains photographs": false
 }

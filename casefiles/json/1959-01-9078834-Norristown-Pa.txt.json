@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO case file:
-
 {
-    "main event": "A witness observed a large round object with a dark center and bright outer ring that hovered and maneuvered in the sky before disappearing.",
-    "interesting points": [
-        "The object was estimated to be approximately 80 to 100 feet in diameter.",
-        "The object appeared to hover and maneuver for several minutes before disappearing.",
-        "The weather was clear with stars visible at the time of the sighting.",
-        "The witness is considered a reliable observer.",
-        "No sound was reported from the object."
-    ],
-    "result": "unexplained",
-    "sighted object": "a large round object with a dark center and bright outer ring",
-    "location": "Norristown, PA",
-    "witnesses": "1 reliable witness",
-    "photographs": "none"
+    "main event": "A driver observed a cigar-shaped object in the sky near Norristown, Pennsylvania, on January 13, 1959.",
+    "interesting points": "The object was golden and appeared to descend slowly toward the horizon., The witness described the object as being about half the sun's diameter., Observations were made over a 60-minute period., The observation was made in clear weather with no sound reported., The witness was a reliable observer with a background in military training.",
+    "sighted object": "cigar-shaped object",
+    "location": "Norristown, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A Regular Army Infantry Officer with amateur radio experience since 1922.",
+    "contains photographs": false
 }

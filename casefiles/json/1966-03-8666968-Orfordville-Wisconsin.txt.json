@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A route agent in Orfordville, Wisconsin spotted an unidentified aerial object on March 15, 1966.",
-    "interesting points": [
-        "The object appeared to be round and saucer-shaped, the size of a 50-cent piece held at arm's length.",
-        "The object was red and glowing, with tiny holes all around the outside.",
-        "The object was initially stationary, then climbed upward and dove back down to its original position, performing this maneuver several times.",
-        "The observer used binoculars to view the object, which moved against the wind.",
-        "The sighting lasted for approximately 35-40 minutes."
-    ],
-    "result": "possible balloon",
-    "sighted object": "red, glowing, saucer-shaped object",
-    "location": "Orfordville, Wisconsin",
-    "witnesses": "route agent",
-    "photographs": "none"
+    "main event": "A civilian observed a round, saucer-shaped object near Orfordville, Wisconsin on 15 March 1966.",
+    "interesting points": "The object climbed and dove multiple times, appearing to go against the wind,The observer initially thought the object was a balloon,The UFO was described as having a red glow and tiny holes around it,The observation lasted for about 3 to 4 minutes,The weather during the sighting was clear with good visibility.",
+    "sighted object": "round, saucer-shaped UFO with red glow",
+    "location": "Orfordville, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "male, 30 years old, observed the object with binoculars",
+    "contains photographs": false
 }

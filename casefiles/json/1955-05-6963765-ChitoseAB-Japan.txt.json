@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A round, white object with a smoke trail and sparks/flames was observed falling from the sky near Chitose Air Base in Japan on May 25, 1955.",
-    "interesting points": [
-        "The object seemed to be trying to make a landing at Chitose Air Base.",
-        "The light on the object went on and off like a signal.",
-        "The object descended slowly in level flight and did not explode.",
-        "Two reliable Air Force tower operators reported the sighting.",
-        "The weather conditions were rainy and cloudy, which may have caused an illusion of the object trailing smoke and sparks."
-    ],
-    "result": "Unknown",
-    "sighted object": "round, white object with smoke trail and sparks/flames",
-    "location": "Chitose AB, Japan",
-    "witnesses": "Military (control tower)",
-    "photographs": "No"
+    "main event": "A round white object was observed with a smoke trail, descending slowly toward Chitose AB on 25 May 1955.",
+    "interesting points": "The object fell from an altitude of 3-4,000 feet and appeared to be trying to make a landing., The object emitted no sound during its descent., There were sparks and/or flames trailing from the object., The sighting lasted for about 2 or 3 minutes., The report was made by two reliable Air Force tower operators.",
+    "sighted object": "one round white object with a smoke trail",
+    "location": "Chitose AB, Hokkaido, Japan",
+    "number of confirmed witnesses": 2,
+    "witness description": "Air Force control tower operators",
+    "contains photographs": false
 }

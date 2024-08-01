@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report text:
-
 {
-    "main event": "A bluish-green object was reported to have exploded in the sky over San Francisco, California on August 2, 1957.",
-    "interesting points": [
-        "Several other people reported seeing the same object.",
-        "Witnesses said the object appeared to explode and debris was seen falling.",
-        "A pilot reported seeing the same object pass by their plane at 11,000 feet altitude near Lancaster, Pennsylvania.",
-        "A round, white object about the size of a baseball was sighted by the 659th Aircraft Control and Warning Squadron in Red Bluff, California on August 2, 1957.",
-        "An oval-shaped object that resembled a landing circle about 20-25 feet in diameter was sighted in Klamath Falls, Oregon. It glowed blue and emitted a reddish exhaust cone before disappearing."
-    ],
-    "result": "unexplained",
-    "sighted object": "Bluish-green object, round white object, oval-shaped object",
-    "location": "San Francisco, California; Red Bluff, California; Klamath Falls, Oregon",
-    "witnesses": "Multiple witnesses, including pilots and military personnel",
-    "photographs": "no photographs provided"
+    "main event": "A bluish-green object exploded in the sky over San Francisco, California on August 2, 1957.",
+    "interesting points": "Witnesses reported seeing the object drop straight to earth before exploding,Several persons called newspapers and radio stations to report the sighting,Western Airlines mentioned a pilot saw the same object at 11,000 feet near Lancaster, PA,The object was described as being round, approximately the size of a baseball, and white in color,Weather conditions were calm and clear at the time of the sighting.",
+    "sighted object": "bluish-green object",
+    "location": "San Francisco, California, USA",
+    "number of confirmed witnesses": 5,
+    "witness description": "observers including local residents and a pilot",
+    "contains photographs": false
 }

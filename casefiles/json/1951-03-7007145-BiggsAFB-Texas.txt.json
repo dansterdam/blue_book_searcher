@@ -1,15 +1,9 @@
 {
-    "main event": "A half moon-shaped object, the size of a 25-cent piece, was observed by a MATS crew flying at an altitude of 20,000 feet at Biggs AFB, Texas.",
-    "interesting points": [
-        "The object was observed moving from south to west.",
-        "The object was reported as a single white object.",
-        "The sighting was reported through an Air Force wire.",
-        "The case was evaluated as an astronomical object, specifically the planet Venus.",
-        "No further case file information was available."
-    ],
-    "result": "Astronomical (Venus)",
-    "sighted object": "half moon-shaped object, size of 25 cent piece",
-    "location": "Biggs AFB, Texas",
-    "witnesses": "MATS crew",
-    "photographs": "no"
+    "main event": "A MATS crew observed a half moon shaped object at an altitude of 20,000 ft over Biggs AFB.",
+    "interesting points": "The object was described as the size of a 25 cent piece., It was observed flying in a South to West direction., The report was received by AF Wire., The evaluation concluded that it was likely Venus., There were no photographs taken or included with this report.",
+    "sighted object": "half moon shaped white object",
+    "location": "Biggs AFB, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "MATS crew",
+    "contains photographs": false
 }

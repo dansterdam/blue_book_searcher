@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Unidentified luminous white circular flying object visually observed from vicinity of Barbers Point near John Rogers Airport, Hawaii.",
-    "interesting points": [
-        "The object followed a straight, level course at a constant speed of approximately 500-600 knots, with no trail or exhaust observed.",
-        "The object appeared to be a flat, disc-shaped object approximately 25-30 feet in diameter.",
-        "The object was sighted for approximately 7 seconds and was proportion to about 8 feet from the observer.",
-        "When the object entered low cloud cover, it was immediately lost from observation.",
-        "Extensive ground search was conducted but no trace of the object was located."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, luminous white, circular/disc-shaped object",
-    "location": "Near Barbers Point and John Rogers Airport, Hawaii",
-    "witnesses": "multiple observers, including USAF personnel",
-    "photographs": "no"
+    "main event": "Corporal xxxxxxx reported observing a bright, fluorescent light moving rapidly across the sky in Hawaii on June 30, 1955.",
+    "interesting points": "The light was described as approximately 30 to 40 feet in diameter and at an altitude of 200 to 300 feet,The light emitted no engine noise and left no visible tail,The light traveled about 2000 yards before disappearing,Corporal xxxxxxx is deemed a reliable witness,There were multiple sightings of unidentified aerial objects in Hawaii around the same timeframe.",
+    "sighted object": "fluorescent light moving across the sky",
+    "location": "Hawaii, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Corporal stationed in Hawaii",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A white flash of lights was seen moving from west to east at Clinton County AFB, Ohio on March 3, 1957.",
-    "interesting points": [
-        "The object had a reddish trail that was half the size of the object.",
-        "The C-47 cockpit was illuminated for 3-5 seconds as the object passed.",
-        "The object was visually tracked by observers.",
-        "The maneuver of the object disappearing (fading rapidly) indicated it was likely a fireball meteor.",
-        "The conclusion was that the sighting was either a balloon or astronomical in nature, or possibly an unknown."
-    ],
-    "result": "unknown",
-    "sighted object": "a white flash of lights with a reddish trail",
-    "location": "Clinton County AFB, Ohio",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A white flash of light was observed moving from the west to east for 10-15 seconds.",
+    "interesting points": "The object left a reddish trail half the size of itself,The cockpit of a C-47 was illuminated by the flash for 3-5 seconds,The maneuver indicated that it might be a fire-ball meteor,The report concluded the sighting could have been a balloon or aircraft,The observer described themselves as a 23-year-old male mail carrier.",
+    "sighted object": "one white flash of light",
+    "location": "Clinton County AFB, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "mail carrier, U.S. Postal Service, age 23, male",
+    "contains photographs": false
 }

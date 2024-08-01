@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "An unidentified object, described as plane-like but without wings or tail, was observed by civilians in Shrewsbury, Massachusetts on April 13, 1966.",
-    "interesting points": [
-        "The object made a noise similar to a jet engine.",
-        "The investigation was deemed necessary due to the unusual nature of the information reported.",
-        "The object was observed by almost the entire Randall School in Shrewsbury, Massachusetts.",
-        "Two teachers saw the object disappear from sight very quickly, before the children had a chance to observe it.",
-        "The report includes a hand-drawn sketch or diagram of the unidentified object, but no photograph."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "an unidentified plane-like object without wings or tail",
-    "location": "Shrewsbury, Massachusetts",
-    "witnesses": "civilians, including students and teachers at Randall School",
-    "photographs": "no, the report includes a hand-drawn sketch but no photographs"
+    "main event": "An unidentified object, resembling a plane but without wings or tail, was observed near the Randall School in Shrewsbury, Massachusetts on April 13, 1969.",
+    "interesting points": "The object made noise similar to a jet engine., Almost the entire school witnessed the object., Two teachers specifically observed it disappear from sight., The sighting occurred quickly, preventing children from noticing it., The investigation is required due to the unusual nature of the report.",
+    "sighted object": "unidentified object resembling a plane",
+    "location": "Shrewsbury, Massachusetts, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "students and teachers at the Randall School",
+    "contains photographs": false
 }

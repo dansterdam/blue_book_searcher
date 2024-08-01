@@ -1,15 +1,9 @@
 {
-    "main event": "Radar analysis of an unidentified object observed at Offutt AFB, Nebraska on October 12, 1953.",
-    "interesting points": [
-        "The object was detected on ground radar, with its altitude varying between 25,000 to 37,000 feet.",
-        "The object was moving with the wind at the levels where wind was reported.",
-        "The report includes multiple sightings of unidentified objects on different dates in October 1953.",
-        "One object was described as disc-shaped and flying at speeds between 200-700 miles per hour, with altitude varying between 25,000 to 57,000 feet.",
-        "The objects were observed by both military personnel and civilian witnesses, who were regarded as highly competent and reliable."
-    ],
-    "result": "unexplained",
-    "sighted object": "disc-shaped and other unidentified objects detected on radar",
-    "location": "Offutt AFB, Nebraska",
-    "witnesses": "military personnel and civilian observers",
-    "photographs": "none"
+    "main event": "A series of radar sightings of an unidentified object over Offutt AFB, Nebraska were reported between October 6 and October 13, 1953.",
+    "interesting points": "The object was first detected suddenly on radar with no prior tracking,The object was described as disc-shaped and similar in size to a flying saucer,The object was observed traveling at speeds increasing from 200-300 miles per hour to approximately 700 miles per hour,The altitude of the object varied from 25,000 to 57,000 feet during sightings,The sightings occurred in clear weather conditions with no other aircraft in the area.",
+    "sighted object": "unidentified disc-shaped object",
+    "location": "Offutt AFB, Nebraska, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military personnel and civilian observers with relevant experience.",
+    "contains photographs": false
 }

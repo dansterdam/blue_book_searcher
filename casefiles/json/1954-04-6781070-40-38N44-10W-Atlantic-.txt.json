@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian from a vessel reported observing a very large balloon, moving against the wind with white smoke underneath, before it disappeared into the clouds.",
-    "interesting points": [
-        "The observation was of a single unidentified object.",
-        "The balloon was moving against the wind in a northeast direction, which is unusual for a conventional balloon.",
-        "Multiple individuals on board the vessel observed the unusual balloon.",
-        "The balloon was reported to be very large and moving at a high speed.",
-        "White smoke was seen underneath the balloon, adding to the mysterious nature of the sighting."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "very large balloon with white smoke",
-    "location": "40-38N 44-10W (Atlantic)",
-    "witnesses": "civilian from a vessel and several others on board",
-    "photographs": "no"
+    "main event": "A civilian from a vessel observed a very large balloon moving against the wind on April 5, 1952.",
+    "interesting points": "The balloon was underreported as simply a balloon despite its unusual movement., The balloon was seen moving in a northeast direction., White smoke was observed underneath the balloon., Wind conditions at altitude can differ from surface winds, possibly explaining the balloon's motion., The report lacked details on direction and altitude.",
+    "sighted object": "a very large balloon",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian from a vessel",
+    "contains photographs": false
 }

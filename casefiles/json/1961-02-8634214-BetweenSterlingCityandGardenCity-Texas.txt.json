@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A green and white object with flashing lights was observed between Sterling City and Garden City, Texas on February 13, 1961.",
-    "interesting points": [
-        "The object appeared to change from green to white and occasionally to orange.",
-        "The object was observed hovering, then changing altitude and disappearing, only to reappear and repeat the same behavior.",
-        "The observers were driving along the highway and saw the object multiple times over a 15-minute period.",
-        "Weather conditions included clear skies with scattered clouds to the west, and a potential temperature inversion at the time of the sighting.",
-        "The investigators concluded that the most probable explanation was the planet Venus, which was exceptionally bright at the time, coupled with the movement of the automobile and the thin cloud layer that could account for the appearance and disappearance of the light."
-    ],
-    "result": "Inconclusive, possible explanation of the planet Venus",
-    "sighted object": "A green and white, flashing, hovering object",
+    "main event": "A green and white light was observed hovering between Sterling City and Garden City, Texas, changing to orange at times.",
+    "interesting points": "The object was initially observed with binoculars and appeared to change colors from green to white and occasionally orange.,The sighting lasted about 6 minutes with three distinct observations of approximately 1.5 minutes each time.,Witnesses included a group of four individuals riding in the same car.,The weather conditions included scattered clouds and visibility of 15 miles.,The report suggests the object may have been an atmospheric reflection or the planet Venus.",
+    "sighted object": "a rotating, flashing, moving light",
     "location": "Between Sterling City and Garden City, Texas",
-    "witnesses": "4 people in a car",
-    "photographs": "No photographs present in the report"
+    "number of confirmed witnesses": 4,
+    "witness description": "Mr. ___, 42, auto parts salesman; Mrs. ___; Mr. & Mrs. ___, age approximately 65",
+    "contains photographs": false
 }

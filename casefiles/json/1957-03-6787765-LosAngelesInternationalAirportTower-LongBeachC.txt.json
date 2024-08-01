@@ -1,15 +1,9 @@
 {
-    "main event": "Two unidentified objects were detected on radar at the Los Angeles International Airport and Long Beach Municipal Tower.",
-    "interesting points": [
-        "The objects were initially detected as two objects, then one object.",
-        "The objects were rectangular in shape and moved at a speed of approximately 3,000 mph.",
-        "The objects were detected at an altitude of 30,000 feet, moved at a range of approximately 10 miles, then approached the station to within 10 miles, stopped, and then proceeded at 220 knots before rapidly moving beyond the range of the radar.",
-        "The radar station lost high voltage and went off shortly after the sighting.",
-        "The report includes a determination that the sighting could have been a balloon, aircraft, astronomical object, or an unknown."
-    ],
-    "result": "unknown",
-    "sighted object": "two rectangular objects, then one rectangular object",
-    "location": "Los Angeles International Airport and Long Beach, California",
-    "witnesses": "civilian air operation specialists and tower operators",
-    "photographs": "none"
+    "main event": "Two radar-detected objects were observed near Los Angeles International Airport, initially detected as two, then one, traveling at approximately 3000 mph.",
+    "interesting points": "The objects were rectangular and were first detected at 30,000 feet., They moved towards the station from about 10 miles away., At one point, they stopped and then accelerated to a speed of 220 knots., The sighting concluded that it could possibly be a balloon, aircraft, or astronomical phenomena., The radar at the station experienced high voltage loss, affecting detection capabilities.",
+    "sighted object": "two rectangular objects",
+    "location": "Los Angeles, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian air operation specialist, reliable observer at the control tower",
+    "contains photographs": false
 }

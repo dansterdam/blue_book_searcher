@@ -1,15 +1,9 @@
 {
-    "main event": "A report from Project Blue Book dated around 1955 related to an incident in Chicago, Illinois.",
-    "interesting points": [
-        "The report mentions a photograph, but the image provided does not contain any photograph.",
-        "The text on the image suggests that a photograph was expected to be present, but it is not included.",
-        "The image appears to contain a handwritten sketch or diagram.",
-        "The text mentions a person named Patrick J. Gannon.",
-        "The text mentions a front and rear view, but does not provide any further details."
-    ],
-    "result": "unknown",
-    "sighted object": "not specified",
-    "location": "Chicago, Illinois",
-    "witnesses": "not specified",
-    "photographs": "none provided"
+    "main event": "The document is related to a UFO incident from Project Blue Book, dated around 1955 in Chicago, Illinois.",
+    "interesting points": "The report is labeled as File 3381, which indicates the specific case documented in Project Blue Book., The document contains a handwritten sketch or diagram related to the sighting., The text mentions a photo that was expected to be included but is absent., The phrase 'Photo - about 5' years old' suggests a timeframe or description of the intended photograph., The report references both front and rear views in the documentation.",
+    "sighted object": "not specifically described as no photograph is present",
+    "location": "Chicago, Illinois, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "not provided in the document",
+    "contains photographs": false
 }

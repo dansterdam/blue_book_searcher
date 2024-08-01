@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two Air Force pilots in a T-33 aircraft observed a bright, blinking white light that appeared to be a UFO near Webb AFB, Texas on February 24, 1965.",
-    "interesting points": [
-        "The object was approximately the size of a dime held at arm's length and was round in shape.",
-        "The object was stationary at first, but appeared to move away when the pilots tried to get closer to it.",
-        "The light blinked on and off several times, and would disappear completely for 4-5 seconds each time.",
-        "The object accelerated away at a very high rate of speed in a northwesterly direction.",
-        "No discernible features could be observed on the object other than the intense white light."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, blinking white light",
-    "location": "approximately 42 NM northwest of Webb AFB, Texas",
-    "witnesses": "Captain Wilbur Brown and 2nd Lt. John Marsden",
-    "photographs": "none"
+    "main event": "Two pilots observed a bright blinking white light in the sky while flying a T-33 aircraft on 24 February 1965.",
+    "interesting points": "The sighting lasted approximately 3 minutes,The light was first spotted by Lt. Marsden at an angle of 10 degrees from their position,The object was round and about the size of a dime at arm's length,The object appeared to be stationary initially but then moved away when the pilots attempted to approach it,No significant traffic or other aircraft were observed in the area at the time of the sighting.",
+    "sighted object": "a bright blinking white light",
+    "location": "Webb AFB, Big Spring, Texas, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Captain B. Brown, age 38, T-33 instructor pilot; Lt. John R. Marsden, age 24, navigator pilot",
+    "contains photographs": false
 }

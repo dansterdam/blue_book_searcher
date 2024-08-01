@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "An unidentified object was observed in the sky over Dayton, Ohio on March 6, 1965.",
-    "interesting points": [
-        "The object was first observed as a bright object moving towards Wright-Patterson AFB.",
-        "The second observation showed a silver, disc-shaped object flying with a pulsing light, moving southeast at a high speed and then disappearing.",
-        "The object was observed for about 15 minutes.",
-        "No photographs were taken of the object.",
-        "The case was concluded as an unidentified aircraft, possibly a secret military aircraft."
-    ],
-    "result": "unexplained",
-    "sighted object": "silver, disc-shaped object with pulsing light",
-    "location": "Dayton, Ohio",
-    "witnesses": "civilian observer",
-    "photographs": "none"
+    "main event": "A civilian reported seeing a bright, disc-shaped object in Dayton, Ohio, on March 6, 1965.",
+    "interesting points": "The object was first observed out of the corner of the eye moving toward Wright-Patterson AFB.,It appeared silver and had a pulsing light.,The sighting lasted about 15 minutes before the object disappeared.,The case was concluded as an unidentified aircraft, likely a military craft., There were no photographs or physical evidence of the sighting.",
+    "sighted object": "one disc-shaped object with a pulsing light",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer who reported the event.",
+    "contains photographs": false
 }

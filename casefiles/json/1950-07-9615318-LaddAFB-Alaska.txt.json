@@ -1,17 +1,9 @@
-Based on the Project Blue Book document provided, here is the summary in the requested JSON format:
-
 {
-    "main event": "An unidentified aerial object was sighted over Ladd Air Force Base, Fairbanks, Alaska on July 22, 1950.",
-    "interesting points": [
-        "The object was described as bright white in color, circular in shape, and quite large.",
-        "The object had a red color with two white dots underneath that seemed to revolve around it.",
-        "The object moved from east to west at an unknown rate of speed and appeared to be steadily descending.",
-        "The two white dots appeared to be approximately vertical dimensions above and beneath the main body of the object, and they exhibited motions suggestive of antennae or irregular surface protuberances.",
-        "The object was observed for about 20 minutes before it disappeared in a diagonal direction."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright white, circular object with a red center and two white revolving dots",
-    "location": "Ladd Air Force Base, Fairbanks, Alaska",
-    "witnesses": "1st Lt. USA, USAF and several unidentified soldiers of a battery fire control crew",
-    "photographs": "none"
+    "main event": "On 22 July 1950, an unidentified object was sighted over Ladd Air Force Base, Alaska, described as red with two white dots underneath while descending slowly.",
+    "interesting points": "The object was observed for about 20 minutes from gun positions,The object was three feet in diameter and exhibited unique movement patterns with the white dots appearing to act as reflectors,The weather conditions were CAVU with no known aircraft in the vicinity during the sighting,Observers included trained military personnel considered reliable in their testimony,The conclusion of the sighting suggested it might be a meteorological balloon but identification was not definitively established.",
+    "sighted object": "unidentified aerial object",
+    "location": "Fairbanks, Alaska, US",
+    "number of confirmed witnesses": 5,
+    "witness description": "trained military personnel from the United States Armed Forces",
+    "contains photographs": false
 }

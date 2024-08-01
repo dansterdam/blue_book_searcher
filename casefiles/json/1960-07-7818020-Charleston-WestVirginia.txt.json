@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round object with a small teardrop tail, about the size of a basketball, was observed in the sky over Charleston, West Virginia on July 20 or 21, 1960.",
-    "interesting points": [
-        "The object was bright, like white heat.",
-        "The object was observed to stop, start, and change course.",
-        "The sighting occurred approximately 3-5 miles from the Kanawha County Airport.",
-        "The object was observed for 10-15 seconds.",
-        "The report concluded the description corresponded to a slow meteor or an observation of an unknown object."
-    ],
-    "result": "unknown",
-    "sighted object": "round object with small teardrop tail, about the size of a basketball",
-    "location": "Charleston, West Virginia",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "An unidentified flying object was observed over Charleston, West Virginia on July 20 or 21, 1960.",
+    "interesting points": "The object was described as round with a small teardrop tail and the size of a basketball,It emitted a bright light similar to white heat,The observation lasted 10-15 seconds,The object was seen to stop, start, and change course,The airport was located 3-5 miles from the sighting.",
+    "sighted object": "one round object with a small teardrop tail",
+    "location": "Charleston, West Virginia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian observer",
+    "contains photographs": false
 }

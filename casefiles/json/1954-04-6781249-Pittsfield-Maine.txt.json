@@ -1,15 +1,9 @@
 {
-    "main event": "A ground visual UFO sighting was reported in Pittsfield, Maine on April 23, 1954, with a total observation time of 4 minutes.",
-    "interesting points": [
-        "The reported UFO was described as saucer-shaped, about the size of a silver dollar, silver in color, with a dome on top emitting a flashing, brilliant light.",
-        "Witnesses reported a swarm of bees-like noise and a whirling and cooling effect beneath the path of the object.",
-        "There were also reports of movement of stones on the ground and unusual sounds accompanying the sighting.",
-        "The observation was made on a clear day by reliable witnesses.",
-        "The report indicated that there was no photographic evidence or physical evidence found."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified saucer-shaped object emitting flashing light",
-    "location": "Pittsfield, Maine",
-    "witnesses": "reliable witnesses",
-    "photographs": "No"
+    "main event": "A UFO sighting was reported in Pittsfield, Maine, involving an unidentified object observed for 4 minutes.",
+    "interesting points": "The observation was a ground visual,The object was described as circular and saucer-shaped,The object emitted a steadily flashing, brilliant light,There was a loud whirring sound associated with the sighting,Movement of stones was noted on the ground beneath the object's path.",
+    "sighted object": "unidentified circular, saucer-shaped object",
+    "location": "Pittsfield, Maine, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "reliable report, no specific witnesses mentioned",
+    "contains photographs": false
 }

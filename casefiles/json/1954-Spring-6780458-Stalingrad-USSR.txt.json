@@ -1,15 +1,9 @@
 {
-    "main event": "In the spring of 1954, a witness observed the flight of an unknown object from the horizon to the horizon, flying from southeast to northwest, appearing to be climbing.",
-    "interesting points": [
-        "The object caused a great amount of vibration in the air and made a screeching, whistling noise which was different from the noise made by an artillery shell in flight.",
-        "The witness could not describe the object itself, but said it took approximately one minute for the object to leave the range of their vision.",
-        "The report is from a Project Blue Book record, indicating it was investigated by the U.S. government's official UFO program.",
-        "The conclusions drawn were that the object was possibly a rocket, missile, or aircraft.",
-        "The sighting occurred in Stalingrad, USSR, behind the Iron Curtain during the Cold War era."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unknown air vehicle",
+    "main event": "Two observers reported seeing an air vehicle in Stalingrad, USSR during the Spring of 1954.",
+    "interesting points": "The sighting lasted approximately 5 minutes,The object moved from southeast to northwest across the horizon,The object caused significant air vibration and made a screeching, whistling noise,The witnesses were unable to describe the object visually,The conclusion drawn includes possibilities of it being a rocket, missile, or aircraft.",
+    "sighted object": "unknown air vehicle",
     "location": "Stalingrad, USSR",
-    "witnesses": "2 observers",
-    "photographs": "none"
+    "number of confirmed witnesses": 2,
+    "witness description": "observers who reported the sighting",
+    "contains photographs": false
 }

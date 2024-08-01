@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported at Shaw AFB, South Carolina on 24th April 1954 at 01:02, by military personnel. The UFO was described as green and round with green exhaust, approximately the size of a pop bottle, and was observed for around 5 seconds while heading north at an estimated altitude of 7033 feet and speed of 5011 knots.",
-    "interesting points": [
-        "The UFO was green and round with green exhaust, which is an unusual and specific detail.",
-        "It was observed through binoculars by personnel at the Columbia Radio Range Station.",
-        "The object was estimated to be at an altitude of 7033 feet and traveling at a speed of 5011 knots, which is unusually high and fast for the time.",
-        "The report indicates that there were no photographs but that physical evidence was not present.",
-        "The observation lasted only around 5 seconds, indicating a brief and sudden appearance of the UFO."
-    ],
-    "result": "unexplained",
-    "sighted object": "unidentified flying object (UFO)",
-    "location": "Shaw AFB, South Carolina",
-    "witnesses": "military personnel",
-    "photographs": "no"
+    "main event": "A military personnel observed an unidentified flying object at Shaw AFB, South Carolina on April 24, 1954.",
+    "interesting points": "The object was described as green and round with green exhaust., The size of the object was approximately the diameter of a pop bottle., The object was observed for about five seconds., It was estimated to be flying at 7033 feet at a speed of 5011 knots., The sighting was made through binoculars by personnel at the Columbia Radio Range Station.",
+    "sighted object": "one green round object emitting green exhaust",
+    "location": "Shaw AFB, South Carolina, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "personnel at Columbia Radio Range Station",
+    "contains photographs": false
 }

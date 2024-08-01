@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A radar sighting of a possible satellite or unidentified object over the Pacific Ocean.",
-    "interesting points": [
-        "The sighting was reported by a Navy aircraft with the call sign 45223.",
-        "The object was spotted at coordinates 32°51'N/122°44'W at 1912Z.",
-        "The object was described as space-borne and traveling at a very fast speed.",
-        "The object was heading northeast, but no further details about its movement or appearance were provided.",
-        "The report indicates that no evaluation or conclusion was made about the nature of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "a possible satellite or unidentified object",
-    "location": "Pacific Ocean, off the coast of California",
-    "witnesses": "a Navy aircraft with the call sign 45223",
-    "photographs": "none"
+    "main event": "A UFO sighting was reported on April 9, 1962 in Dayton, Ohio, coinciding with a radar return.",
+    "interesting points": "The observation lasted for 1 minute., The weather was clear during the sighting., Only one object was observed., The nature of the visual sighting and radar return lacked detailed information., No conclusions were reached regarding the sighting.",
+    "sighted object": "one unidentified object",
+    "location": "Dayton, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No details of visual sighting or radar return are provided.",
+    "contains photographs": false
 }

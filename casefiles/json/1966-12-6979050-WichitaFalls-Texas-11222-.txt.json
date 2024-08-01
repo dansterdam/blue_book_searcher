@@ -1,15 +1,9 @@
 {
-    "main event": "A UFO sighting was reported in Wichita Falls, Texas in December 1966.",
-    "interesting points": [
-        "The report includes a photograph of a landscape showing a barren, rocky terrain.",
-        "The top of the page is marked 'FOREIGN TECHNOLOGY DIVISION,AFSC' and 'UNCLASSIFIED'.",
-        "The report is only 2 pages long and does not contain any additional details about the UFO sighting.",
-        "The report states that it contains 1 photo, but the provided image does not actually show a photograph of a UFO.",
-        "The report does not provide any information about the nature of the UFO sighting or any witnesses."
-    ],
-    "result": "unexplained",
-    "sighted object": "unknown",
-    "location": "Wichita Falls, Texas",
-    "witnesses": "unknown",
-    "photographs": "yes, but the provided image does not show a UFO photograph"
+    "main event": "An old UFO report from December 1966 contains a photograph of barren, rocky terrain.",
+    "interesting points": "The report is from the Foreign Technology Division, AFSC.,The document is classified as unclassified.,The photograph takes up the lower portion of the page.,The report was filed in Wichita Falls, Texas., The image is part of a larger UFO investigation.",
+    "sighted object": "barren, rocky terrain",
+    "location": "Wichita Falls, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses mentioned",
+    "contains photographs": true
 }

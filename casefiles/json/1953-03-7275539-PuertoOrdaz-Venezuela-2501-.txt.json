@@ -1,15 +1,9 @@
 {
-    "main event": "The report from Project Blue Book details an incident in Puerto Ordaz, Venezuela, on March 17, 1953, involving two photos of a large industrial crane or construction equipment with a small bird or aircraft in the background.",
-    "interesting points": [
-        "The report is from Project Blue Book, a United States Air Force project that investigated unidentified flying objects (UFOs).",
-        "The photos captured a scene of industrial activity, likely related to a dock or port facility, rather than a traditional UFO sighting.",
-        "The report lacks specific details or evidence to suggest the presence of unidentified flying objects or aliens.",
-        "The location of the incident was in Puerto Ordaz, Venezuela, adding an international dimension to the investigation.",
-        "The report includes two black and white photographs of the scene, providing visual documentation of the event."
-    ],
-    "result": "prosaic explanation",
-    "sighted object": "large industrial crane or construction equipment with a small bird or aircraft in the background",
+    "main event": "Two photographs were taken of a large industrial crane at a construction site in Puerto Ordaz, Venezuela on March 17, 1953.",
+    "interesting points": "The report is from Project Blue Book, which investigated unidentified flying objects,The photographs show a large industrial crane silhouetted against the sky,The scene depicted appears to be related to a dock or port facility,No human faces are visible in the photographs,The same scene is captured from slightly different angles in the two photographs.",
+    "sighted object": "industrial crane or construction equipment",
     "location": "Puerto Ordaz, Venezuela",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes photographs"
+    "number of confirmed witnesses": 0,
+    "witness description": "no human faces visible",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-  "main event": "A UFO sighting was reported by a civilian pilot near Miami, Florida, on December 31, 1953, involving an unidentified object with a light attached to it. The pilot described the object as appearing airborne and maintaining a constant altitude before disappearing to the right rear of the aircraft.",
-  "interesting points": [
-    "The UFO sighting involved a civilian pilot and was observed for a duration of 5 minutes at night.",
-    "The object appeared as a white light and was associated with a light, with the observer unable to distinguish further details.",
-    "The UFO was observed to veer right upon the aircraft's approach, and the light attached to it went out for 5 to 8 seconds before veering left and disappearing behind the aircraft.",
-    "The document contains detailed information about the weather and wind conditions at the time and place of the sighting, including visibility and cloud cover.",
-    "The report was received as a GIJVIS message and was signed by an individual named Golinsky."
-  ],
-  "result": "unexplained",
-  "sighted object": "unidentified object with a light attached",
-  "location": "Miami, FL",
-  "witnesses": "civilian pilot",
-  "photographs": "no"
+    "main event": "A civilian pilot observed a balloon-like object with a light attached while flying over Miami, Florida on December 31, 1953.",
+    "interesting points": "The sighting lasted about 5 minutes,The pilot appeared to be overtaking the object,The object maintained a constant altitude before disappearing,The object was described as a white light and details were indistinguishable,There was no photograph associated with this report",
+    "sighted object": "balloon-like object with a light",
+    "location": "Miami, Florida, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian pilot",
+    "contains photographs": false
 }

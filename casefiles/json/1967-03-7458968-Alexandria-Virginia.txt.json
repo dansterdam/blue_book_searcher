@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A young witness observed a silvery, pointed-nose object for 45 minutes in Alexandria, Virginia in March 1967.",
-    "interesting points": [
-        "The object was described as a silvery color with a pointed nose, similar to an upside-down painted cup.",
-        "The object disappeared by speeding off to the right.",
-        "There were no reported sounds associated with the object.",
-        "The witness was 13 years old at the time of the sighting.",
-        "The report was filed approximately 6 months after the sighting, in November 1967."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "one silvery, pointed-nose object",
-    "location": "Alexandria, Virginia",
-    "witnesses": "2 civilian witnesses",
-    "photographs": "no"
+    "main event": "Two witnesses reported seeing a silvery object with a pointed nose in Alexandria, Virginia, on March 13, 1967, for a duration of 45 minutes.",
+    "interesting points": "The object was observed for 45 minutes with no reported sounds., The object was described as silvery with a pointed nose and an upside-down painted cup on it., Witnesses noted the object disappeared quickly, speeding off to the right., The conclusion of the report stated that there was insufficient data for evaluation., A sketch of the object was included in the report.",
+    "sighted object": "a silvery object with a pointed nose",
+    "location": "Alexandria, Virginia, US",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two civilian witnesses",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A single star-shaped object was observed in the sky over the Atlantic Ocean on December 16, 1961.",
-    "interesting points": [
-        "The object was observed visually from an aircraft at an altitude of 6,000 feet, without the use of optical aids.",
-        "The object was first observed at an elevation of 15 degrees and an azimuth of 220 degrees, and disappeared over the horizon at an azimuth of 257 degrees.",
-        "The object was the size of a pinhead and had the brightness and color of a first magnitude star.",
-        "The observers' attention was attracted by the movement of the object in relation to the stars.",
-        "The plane commander evaluated the object as a probable satellite."
-    ],
-    "result": "unknown",
-    "sighted object": "a star-shaped object",
-    "location": "Atlantic Ocean, 6115N 0615W",
-    "witnesses": "aircraft crew",
-    "photographs": "no"
+    "main event": "A star-shaped object was observed visually by an aircraft in the Atlantic on December 16, 1961.",
+    "interesting points": "The object was bright with a magnitude similar to a 1st magnitude star., The observation lasted for 3 minutes and was made from an aircraft without optical aids., The object was first spotted at 15 degrees elevation., The object's direction and speed were not confirmed., The reporting officer initially believed it to be a satellite.",
+    "sighted object": "star-shaped object",
+    "location": "Atlantic Ocean",
+    "number of confirmed witnesses": 1,
+    "witness description": "observed from an aircraft",
+    "contains photographs": false
 }

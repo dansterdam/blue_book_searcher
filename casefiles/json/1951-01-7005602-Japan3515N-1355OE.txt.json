@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A crew in Japan spotted an unidentified black, delta-wing shaped object at 40,000 feet heading 200 degrees.",
-    "interesting points": [
-        "The object was observed for 2 minutes.",
-        "The report states that additional information would be forwarded, but nothing else was included in the file.",
-        "The report was filed as part of Project Blue Book, the U.S. Air Force's official UFO investigation program.",
-        "The location of the sighting was provided as 35°15'N, 135°50'E, which is in Japan.",
-        "The report indicates the object was flying at an altitude of 40,000 feet."
-    ],
-    "result": "unexplained",
-    "sighted object": "a black, delta-wing shaped object",
-    "location": "Japan, 35°15'N, 135°50'E",
-    "witnesses": "crew",
-    "photographs": "none"
+    "main event": "Crew reported observing a black delta wing-shaped object in Japan.",
+    "interesting points": "The sighting lasted for 2 minutes., The object was at an altitude of 40,000 feet., The object was heading on a course of 200 degrees., The report classification states it could be a balloon or aircraft, but no definitive conclusion was reached., The object was sighted at the coordinates 3515N - 13550E.",
+    "sighted object": "one black delta wing-shaped object",
+    "location": "Japan",
+    "number of confirmed witnesses": 1,
+    "witness description": "crew members",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "The observer sighted 2 or 3 objects that 'moved about going in no set pattern' for 5 hours over Petersburg, Michigan.",
-    "interesting points": [
-        "The objects were described as 'bodies in the sky that illuminated at night' with a 'soft yellow glow' that were 'quite distinct from the moon and stars'.",
-        "At one point, one of the objects approached very close, to within what seemed like 200 yards, and was 'quite bright and clear'.",
-        "The objects seemed to 'float slowly at times, move quickly at times'.",
-        "The observer stated 'I've seen them too many times previously...'.",
-        "The report is described as 'confusing' and the witness addresses were not provided."
-    ],
-    "result": "unexplained",
-    "sighted object": "two or three illuminated bodies in the sky",
-    "location": "Petersburg, Michigan",
-    "witnesses": "civilian observer",
-    "photographs": "none"
+    "main event": "An observer sighted 2 or 3 unidentified flying objects that appeared to hover and move with no set pattern for about 5 hours in Petersburg, Michigan.",
+    "interesting points": "The objects were described as having a soft yellow glow and were distinct from the moon and stars., The observer mentioned having seen these objects previously., There was no physical evidence left behind by the objects., The observer was confused by the erratic movements of the objects., Witnesses were present but their details were not fully available.",
+    "sighted object": "two or three glowing objects in the sky",
+    "location": "Petersburg, Michigan, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Observer and possibly family members who were present.",
+    "contains photographs": false
 }

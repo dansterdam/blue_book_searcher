@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A Park Police Officer observed a 20-foot long unidentified object with a whitish light on the underside, hovering stationary in the sky for 20 minutes before slowly descending and disappearing behind a building.",
-    "interesting points": [
-        "The object had no visible means of propulsion and was hovering in the sky.",
-        "The object made a sound like radio station interference when it was escaping or taking off from the ground.",
-        "The object had a dome on top and the underside appeared iridescent.",
-        "The object floated over the witnesses slowly and then took off at a high speed.",
-        "Another witness described seeing a cloud surrounding the object."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a 20-foot long unidentified object with a whitish light on the underside",
-    "location": "Northlake, Illinois",
-    "witnesses": "a Park Police Officer, and another unidentified witness",
-    "photographs": "yes, the report mentions photos were taken"
+    "main event": "A Park Police Officer observed an unidentified object hovering in the sky for about twenty minutes.",
+    "interesting points": "The object was approximately twenty feet in length and had a whitish light underside., The object was stationary with no visible means of propulsion., It eventually descended slowly and vanished behind a building., It emitted a sound similar to radio interference when taking off., One witness described the object as having a dome on top with an iridescent underside.",
+    "sighted object": "an unidentified flying object",
+    "location": "Northlake, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a Park Police Officer",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A red, silvery object the size of a basketball was observed in the sky over San Antonio, Texas on August 12, 1958.",
-    "interesting points": [
-        "The object was very bright and stationary.",
-        "The sighting lasted for 25-28 minutes.",
-        "Balloon schedules indicated a balloon was released from the San Antonio Airport around the time of the sighting, and the description was characteristic of a balloon.",
-        "The sighting was reported as a Ground-Visual observation from a civilian source.",
-        "The weather conditions at the time of the sighting were cloudy with various temperature and cloud cover details provided."
-    ],
-    "result": "Likely a weather balloon",
-    "sighted object": "red, silvery object the size of a basketball",
-    "location": "San Antonio, Texas",
-    "witnesses": "civilian",
-    "photographs": "no photographs included in the report"
+    "main event": "A civilian reported observing a red, silvery object the size of a basketball that was very bright in San Antonio, Texas on August 12, 1958.",
+    "interesting points": "The sighting lasted between 25 to 28 minutes and the object remained stationary throughout., The object was described as very bright and its size was compared to that of a basketball., A balloon was reportedly released from San Antonio Airport at the time of the sighting., The sighting was classified as a ground-visual observation., No unusual sightings were detected on radar at that time.",
+    "sighted object": "a red, silvery object the size of a basketball",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian observer",
+    "contains photographs": false
 }

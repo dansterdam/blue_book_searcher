@@ -1,17 +1,9 @@
-Here is a summary of the key details from the UFO report in JSON format:
-
 {
-    "main event": "Two stationary objects with red and blue lights were observed in the southwestern sky for about 20 minutes.",
-    "interesting points": [
-        "The objects had red and blue lights that shone bright and dim.",
-        "The objects were approximately 24 inches wide and about one mile apart.",
-        "The objects did not travel in any direction during the observation.",
-        "The objects were observed for approximately 30 minutes before the observers left the area.",
-        "The report concludes the objects were astronomical in nature (the stars Spica and Denebola)."
-    ],
-    "result": "astronomical",
-    "sighted object": "two stationary, lit objects in the sky",
-    "location": "Belleville, Illinois",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On July 17, 1966, two stationary objects with red and blue lights were observed in the southwestern sky near Belleville, Illinois.",
+    "interesting points": "The observation lasted for approximately 20 minutes during which the objects did not move,The objects were estimated to be 24 inches wide and located about one mile apart,The lights shone bright and then dimmed at various intervals,The sighting was categorized as Astro phenomena (related to stars Spica and Denebola) after investigation,The report was submitted by a civilian witness.",
+    "sighted object": "two stationary objects in the sky",
+    "location": "Belleville, Illinois, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian observer",
+    "contains photographs": false
 }

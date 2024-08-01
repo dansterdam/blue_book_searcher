@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Four reddish objects in a 'V' formation were seen by an observer while driving in Farmingdale, Long Island, N.Y.",
-    "interesting points": [
-        "The objects were seen by the unaided eye, not through a telescope.",
-        "The objects flew in a southerly direction.",
-        "The sighting lasted for 10 seconds.",
-        "The manner of the objects' disappearance is unknown.",
-        "Due to the brevity of the sighting and the lack of further investigation, details other than those stated remain obscure."
-    ],
-    "result": "insufficient data for evaluation",
+    "main event": "An observer driving in Farmingdale, Long Island, reported seeing four reddish objects in a 'V' formation on 15 March 1955.",
+    "interesting points": "The sighting lasted for only 10 seconds,The observer saw the objects with unaided eye,The objects flew in a southerly direction, The exact manner of disappearance of the objects was unknown, The report concluded that there was insufficient data for evaluation.",
     "sighted object": "four reddish objects in a 'V' formation",
-    "location": "Farmingdale, Long Island, N.Y.",
-    "witnesses": "observer",
-    "photographs": "no"
+    "location": "Farmingdale, Long Island, NY",
+    "number of confirmed witnesses": 1,
+    "witness description": "observer while driving",
+    "contains photographs": false
 }

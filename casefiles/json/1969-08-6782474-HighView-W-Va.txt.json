@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person spotted a glowing red-orange object in the sky near a mountain ridge campground in Belington, West Virginia on August 9, 1969.",
-    "interesting points": [
-        "The object appeared to be a solid, metallic-colored sphere that made sudden, rapid movements, including banking.",
-        "The object was visible for about 20 minutes before disappearing behind trees.",
-        "There were 20-30 other people who also witnessed the object.",
-        "The weather conditions were calm with some wind.",
-        "The observer was an amateur meteorologist."
-    ],
-    "result": "unexplained",
-    "sighted object": "a glowing red-orange metallic sphere",
-    "location": "Belington, West Virginia",
-    "witnesses": "the observer and 20-30 other people",
-    "photographs": "no"
+    "main event": "An individual observed a bright object described as a probable star or planet near the horizon in High View, W. Va.",
+    "interesting points": "The object appeared bright as a spark and was nearly stationary for about 20 minutes before disappearing behind trees., The individual observed the object from Mountain Ridge Campground., The object’s color was glowing red-orange., The estimated distance of the object was between 155-275 miles away., The observer had experience as an amateur meteorologist.",
+    "sighted object": "a bright object near the horizon",
+    "location": "High View, West Virginia, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "amateur meteorologist observed the object alone",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The document appears to be a collection of various UFO sighting reports from the 1960s, primarily from the northeastern United States.",
-    "interesting points": [
-        "The reports include sightings of glowing orbs, hovering objects, and fast-moving aerial phenomena.",
-        "Several of the reports mention multiple witness observations and photographic evidence, though the images are not included in the provided material.",
-        "The reports come from a variety of sources, including civilian witnesses, police officers, and military personnel.",
-        "The locations of the sightings range from rural areas to major cities like New York and Seattle.",
-        "The documents indicate that the U.S. Air Force, through Project Blue Book, was investigating these UFO reports and attempting to provide explanations where possible."
-    ],
-    "result": "inconclusive",
-    "sighted object": "Various unidentified aerial phenomena, including glowing orbs, hovering craft, and fast-moving objects.",
-    "location": "Northeastern United States, including The Bronx, New York, Bay City, Michigan, Tacoma, Washington, and Seattle, Washington.",
-    "witnesses": "Civilian witnesses, police officers, and military personnel.",
-    "photographs": "The reports mention photographic evidence, but no photographs are included in the provided material."
+    "main event": "A citizen reported observing a UFO in The Bronx, New York on July 5, 1964.",
+    "interesting points": "The observation lasted for 20 seconds., The UFO was described as a single object., The source of the report was a citizen., There were no accompanying photographs or physical evidence., This document is a part of Project Blue Book which investigated UFO sightings.",
+    "sighted object": "one unidentified flying object",
+    "location": "The Bronx, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "citizen who reported the sighting",
+    "contains photographs": false
 }

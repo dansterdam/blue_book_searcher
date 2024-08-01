@@ -1,15 +1,9 @@
 {
-    "main event": "A large orange and white object was observed breaking up and trailing flame and debris from an elevation of 35,000 feet.",
-    "interesting points": [
-        "The object was observed for about 5 seconds traveling at a high speed.",
-        "The object was observed at coordinates 44°21'N 128°01'W.",
-        "The case was evaluated as an astronomical sighting of a meteor.",
-        "No identities were recorded for the sighting on that date.",
-        "The duration of the sighting was consistent with a bolide (large meteor) observation."
-    ],
-    "result": "astronomical",
-    "sighted object": "large orange and white object breaking up and trailing flame and debris",
-    "location": "44°21'N 128°01'W",
-    "witnesses": "military",
-    "photographs": "no"
+    "main event": "A large orange and white object was observed breaking up and trailing flame and debris from an elevation of 15,000 feet.",
+    "interesting points": "The sighting was recorded on 10 November 1961 at 0603Z., The object was observed for about 5 seconds., The object was seen traveling at high speed and descending at an angle of 35 degrees from the horizon., The observation was evaluated as consistent with a bolide, or meteor., No identities of the object were determined on that date.",
+    "sighted object": "large orange and white object breaking up",
+    "location": "44 28' 01\" N, 128 01' W",
+    "number of confirmed witnesses": 1,
+    "witness description": "observed from an elevation of 15,000 feet.",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A ground-radar station detected an unidentified object traveling at approximately 700 mph over Des Moines, Iowa on January 27, 1955.",
-    "interesting points": [
-        "The object was observed for approximately 25 seconds and was flashing at a rate of 3 to 4 times per second.",
-        "The apparent size of the object was 1/3 the size of the initial sighting.",
-        "The report states that a follow-up investigation was not deemed worthwhile.",
-        "The report lists several possible explanations for the sighting, including balloon, aircraft, astronomical, and unknown.",
-        "The sighting was made by Major Allan R. Decker from a ground-radar station."
-    ],
-    "result": "unknown",
-    "sighted object": "an unidentified object",
-    "location": "Des Moines, Iowa",
-    "witnesses": "Major Allan R. Decker, ground-radar station",
-    "photographs": "no"
+    "main event": "An aircraft type was observed from a ground-radar station traveling at approximately 700 mph.",
+    "interesting points": "The object was observed for about 25 seconds,The object was flashing at a rate of 3 to 4 times per second,The apparent size was 1/3 the size of the initial sighting,The sighting was categorized with multiple possible conclusions including 'probably aircraft' and 'probably balloon',A follow-up investigation was not deemed worthwhile.",
+    "sighted object": "aircraft type",
+    "location": "Des Moines, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Major Allan R. Decker",
+    "contains photographs": false
 }

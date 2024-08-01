@@ -1,13 +1,9 @@
 {
-    "main event": "An unidentified flying object was observed in the sky over San Rafael, California, on August 25, 1953, between 10:30 P.M. and 10:55 P.M.",
-    "interesting points": [
-        "The object appeared to be 'stars thru o'cast', suggesting it may have been a misidentification of celestial objects through cloud cover.",
-        "The report indicates the object was observed visually for approximately 25 minutes.",
-        "No other details about the object's appearance or behavior are provided."
-    ],
-    "result": "unexplained",
+    "main event": "An unidentified flying object was observed in the sky over San Rafael, California, on August 25, 1953, for approximately 25 minutes.",
+    "interesting points": "The object appeared to be 'stars thru o'cast', suggesting possible misidentification of celestial objects., The object was observed visually without any physical evidence detected., The observation occurred under broken to overcast conditions with a cloud base at 2300 feet., The observer was experienced and had been on duty for several years., No sound or propulsion was attributed to the unidentified object.",
     "sighted object": "unidentified flying object",
-    "location": "San Rafael, California",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "San Rafael, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a reliable observer with several years of experience",
+    "contains photographs": false
 }

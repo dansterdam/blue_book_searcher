@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian observed a large circle of red pulsating light from their static window at around 0:30 on Staten Island, New York. The object was watched for five minutes as it drifted slowly.",
-    "interesting points": [
-        "The object was described as a large circle of red pulsating light, around 40-50 feet in diameter, glowing with an orange-red color.",
-        "The object was traveling in a wedge formation, and when one object made a turn, the others followed in unison.",
-        "The observer had never seen anything like this before and could not identify the objects.",
-        "The objects were observed moving towards the bridge and out over the water at a very high speed.",
-        "The sighting was captured on radar, and the observers were described as reliable persons."
-    ],
-    "result": "Astro (Venus)",
-    "sighted object": "large circle of red pulsating light",
-    "location": "Staten Island, New York",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "A resident observed a large circle of red pulsating light from her window in Staten Island, New York for about five minutes.",
+    "interesting points": "The observer reported the light drifting slowly in a southeastern direction., The light was described as a large circle with a pulsating red color., The sighting lasted around five minutes., The observer concluded that the object was the planet Venus., The report states that there were no photographs or physical evidence.",
+    "sighted object": "a large circle of red pulsating light",
+    "location": "Staten Island, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian resident observed the light from her window",
+    "contains photographs": false
 }

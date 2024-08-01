@@ -1,15 +1,9 @@
 {
-  "main event": "On August 25, 1955, a round, white, stationary object was observed in Plattilion, Nebraska at 0153Z, with no photographs available.",
-  "interesting points": [
-    "The observation was made by a civilian source, adding credibility to the sighting.",
-    "The object was described as stationary for approximately one minute, adding to the intriguing nature of the sighting.",
-    "The report was classified as 'UNCLASSIFIED' and 'OPN S581 UFOB REPORT,' indicating that it was a documented UFO sighting.",
-    "Positional data was missing, contributing to the limited information available for evaluation.",
-    "The conclusion section of the report was left blank, leaving the nature of the object unexplained."
-  ],
-  "result": "unexplained",
-  "sighted object": "round, white, stationary object",
-  "location": "Plattilion, Nebraska",
-  "witnesses": "civilian",
-  "photographs": "no"
+    "main event": "A round, white stationary object was observed in Plattilion, Nebraska, on August 25, 1955.",
+    "interesting points": "The object was reported as one single, stationary entity., The observation lasted for about one minute., The sighting was classified as an air-visual observation., There was insufficient data available for further evaluation., The source of the report was civilian.",
+    "sighted object": "one round white object",
+    "location": "Plattilion, Nebraska, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "unknown",
+    "contains photographs": false
 }

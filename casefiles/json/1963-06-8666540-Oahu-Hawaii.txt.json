@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A large fireball with a long fiery tail was observed in the sky over Oahu, Hawaii.",
-    "interesting points": [
-        "The fireball had a yellow tint and was much larger than a star.",
-        "The object was observed by Major Arthur Parker, his wife, and another military officer.",
-        "The fireball was observed moving very fast, with the total time of observation being about 2.5 to 3 seconds.",
-        "The fireball was observed from 60 degrees above the horizon down to 15 degrees, at which point it seemed to burn out.",
-        "The object was sighted at 0644A on June 15, 1963."
-    ],
-    "result": "Insufficient data for evaluation",
-    "sighted object": "large fireball with long fiery tail",
-    "location": "Oahu, Hawaii",
-    "witnesses": "Major Arthur Parker, his wife, and another military officer",
-    "photographs": "no"
+    "main event": "A large fireball with a long fiery tail was observed in Oahu, Hawaii on 17 June 1953.",
+    "interesting points": "The fireball had a yellow tint and was much larger than a star., It was observed for about 2 to 3 seconds., The object was at an elevation of 45 degrees., The sighting was made from the Naval Supply Depot Oahu., The observer and two others reported the same sighting.",
+    "sighted object": "a large fireball with a long fiery tail",
+    "location": "Oahu, Hawaii, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Major Arthur Parker, his wife, and another military officer",
+    "contains photographs": false
 }

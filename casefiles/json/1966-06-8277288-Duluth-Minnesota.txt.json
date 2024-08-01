@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An airman stationed at Duluth International Airport in Minnesota observed a strange, pulsating object in the sky that changed direction and moved erratically in June 1966.",
-    "interesting points": [
-        "The object moved left, right, and even backwards, before disappearing and then reappearing between the constellations of Hercules, Serpens, and Corona Borealis.",
-        "The object's movement was much faster than any satellite the witness had seen before.",
-        "The object's brightness and size appeared to change, sometimes appearing like a bright star and other times swelling up tremendously.",
-        "The witness reported that the nearby stars remained stationary as the object moved, indicating it was not a satellite or aircraft.",
-        "The witness observed the object for approximately 10 minutes, from 11:15 pm to 11:25 pm."
-    ],
-    "result": "PROBABLE (SATELLITE - ECHO I)",
-    "sighted object": "A pulsating, erratically moving bright object in the sky",
-    "location": "Duluth, Minnesota",
-    "witnesses": "1 airman stationed at Duluth International Airport",
-    "photographs": "No, the report does not include any photographs"
+    "main event": "A witness observed a pulsating object in the sky while returning from Midnight Chow, believing it to be a UFO due to its erratic movements and characteristics.",
+    "interesting points": "The object changed directions and back-tracked along a constellation,The sighting lasted approximately 10 minutes from 2315 to 2325,The observer initially thought it was a dim star or a missile launch,The object swelled in size and displayed brilliant colors before disappearing,The witness described its velocity as faster than any satellite they had seen.",
+    "sighted object": "a stationary object resembling a flying saucer",
+    "location": "Duluth, Minnesota, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "an observer who was returning from Midnight Chow and glanced at the stars",
+    "contains photographs": false
 }

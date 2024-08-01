@@ -1,7 +1,9 @@
-{"main event": "Unfortunately, the text provided does not appear to be a UFO report. It is a general promotional text about the state of Montana, its natural attractions, and a welcome message from the Governor. There are no details about a specific UFO sighting or encounter. Without an actual UFO report case file, I am unable to generate the requested JSON summary. Please provide a genuine UFO report text if you would like me to summarize it in the requested format.",
-"result": "",
-"sighted object": "",
-"location": "Marville France",
-"witnesses": "",
-"photographs": "0"
+{
+    "main event": "USAF personnel at Marville Air Force Base reported a radar contact with an unidentified flying object displaying unusual maneuvers and speed on August 16, 1966.",
+    "interesting points": "The radar detected one object that made rapid maneuvers and exhibited high speeds,The observed maneuvers were considered unusual for conventional aircraft,The radar contact lasted for approximately 40 seconds,The conclusion stated that the object was possibly a false target,The sighting is part of Project Blue Book investigations.",
+    "sighted object": "one unidentified flying object",
+    "location": "Marville, France",
+    "number of confirmed witnesses": 2,
+    "witness description": "one USAF officer and one USAF airman",
+    "contains photographs": false
 }

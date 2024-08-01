@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A bright, yellowish object was observed in the sky near San Francisco, California on August 2, 1965.",
-    "interesting points": [
-        "The object was reported from multiple locations, including Hamilton AFB, Redding, and San Francisco.",
-        "The object was tracked on ground radar and described as a bright light moving at a slow speed.",
-        "The object changed color as it moved across the sky.",
-        "Other reports described similar objects, including a white light moving downward at great speed and a yellowish object orbiting in a circle.",
-        "The sighting durations ranged from a few seconds to several minutes."
-    ],
-    "result": "insufficient data",
-    "sighted object": "a bright, yellowish object",
-    "location": "San Francisco area, California",
-    "witnesses": "multiple observers at different locations",
-    "photographs": "none"
+    "main event": "A sighting of a bright yellowish object was reported in the San Francisco area on August 2, 1965.",
+    "interesting points": "The object was described as changing colors while moving through the sky., The sighting was also reported from Hamilton Air Force Base., A witness reported that the object did not leave a trail and was tracked on ground radar., Witnesses reported seeing a bright light moving quickly at an altitude above commercial aircraft., The object gradually faded from view below the horizon.",
+    "sighted object": "a bright yellowish object",
+    "location": "San Francisco, California, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Witnesses included GD Island and Kathleen, who reported seeing the object from different locations.",
+    "contains photographs": false
 }

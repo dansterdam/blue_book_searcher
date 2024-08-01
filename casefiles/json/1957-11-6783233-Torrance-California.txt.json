@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report provided:
-
 {
-    "main event": "A civilian named Mr. REDACTED in Torrance, California observed an unidentified bright object moving rapidly across the sky on November 13, 1957.",
-    "interesting points": [
-        "The object appeared like a very bright star but moved at a very high speed.",
-        "The object disappeared, then reappeared very bright, and appeared to slow down and 'burn out'.",
-        "The object moved in an arc-like motion across the sky for about 30 degrees from east-southeast to east-northeast.",
-        "The observation lasted for about 6 minutes.",
-        "The Air Force investigator suggested the object may have been a meteor."
-    ],
-    "result": "unidentified",
-    "sighted object": "A bright, star-like object that moved rapidly across the sky",
-    "location": "Torrance, California",
-    "witnesses": "1 civilian, Mr. REDACTED",
-    "photographs": "No photographs were taken"
+    "main event": "A UFO sighting was reported in Torrance, California on November 6, 1957, describing an object that appeared like a bright star moving at high speed.",
+    "interesting points": "The object was observed for approximately 6 minutes and moved in a straight line before displaying rapid, arc-like motion., The object dimmed and disappeared, then reappeared brighter after a minute., The sighting involved one confirmed witness., The object traveled an arc of about 5 degrees before fading out., Various conclusions were drawn regarding the nature of the object, including possibilities of it being a balloon or astronomical phenomenon.",
+    "sighted object": "a very bright object resembling a star",
+    "location": "Torrance, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. Don Janssen, civilian from Torrance, California",
+    "contains photographs": false
 }

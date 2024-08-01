@@ -1,15 +1,9 @@
 {
-    "main event": "Civilian witnesses reported seeing five unidentified objects tracked by ground radar and visually observed from the air in Philadelphia, Pennsylvania in July 1955.",
-    "interesting points": [
-        "The objects were tracked by ground radar and visually observed from the air.",
-        "The source's descriptions of the objects could possibly be attributed to meteorological activity.",
-        "The report was inconclusive and listed multiple possible explanations, including aircraft, astronomical, or insufficient data for evaluation.",
-        "The sighting occurred on July 13, 1955 at 0310Z.",
-        "The report does not include any photographs."
-    ],
-    "result": "inconclusive",
-    "sighted object": "five unidentified objects",
-    "location": "Philadelphia, PA",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "Five objects were reported in the sky over Philadelphia in July 1955.",
+    "interesting points": "The sighting was documented by a civilian source., The observation included both ground-radar and air-visual assessments., The conclusion was that the objects could have been aircraft, astronomical phenomena, or meteorological activity., There is insufficient data for a definitive evaluation of the sighting., The specific course of the objects was noted but not detailed in the report.",
+    "sighted object": "five unidentified flying objects",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian source",
+    "contains photographs": false
 }

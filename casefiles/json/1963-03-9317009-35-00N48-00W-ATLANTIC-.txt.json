@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A fast-moving star-like object was observed heading 060 degrees at 62 degrees elevation, with the altitude decreasing to 15 degrees.",
-    "interesting points": [
-        "The object was observed for 45 seconds.",
-        "The object was sighted over the Atlantic Ocean at coordinates 35°00'N 48°00'W.",
-        "The sighting occurred on March 28, 1963 at 2130Z.",
-        "The weather conditions were overcast.",
-        "The object was classified as a probable satellite, with a low probability of being an aircraft."
-    ],
-    "result": "probable satellite",
-    "sighted object": "fast-moving star-like object",
-    "location": "Atlantic Ocean, 35°00'N 48°00'W",
-    "witnesses": "military",
-    "photographs": "none"
+    "main event": "A military sighting of a fast-moving star-like object was reported over the Atlantic on 28 March 1963.",
+    "interesting points": "The object was observed moving at a constant altitude of 15,000 to 20,000 feet., The sighting lasted for 45 seconds., The object's heading was noted as 060 degrees at 62 degrees elevation., The sighting was classified as a probable satellite., The report indicated a low probability of it being an aircraft.",
+    "sighted object": "fast moving star-like object",
+    "location": "Atlantic Ocean, Unknown Region, Unknown Country",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel from the USCGC McCullough",
+    "contains photographs": false
 }

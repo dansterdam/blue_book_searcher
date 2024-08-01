@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar object was observed for 1 minute and 35 seconds over Atlanta, Georgia on August 6, 1957.",
-    "interesting points": [
-        "The object was described as round, like a star, with a blinking white light.",
-        "The object was tracked by ground radar for the duration of the sighting.",
-        "The weather was clear at the time of the sighting.",
-        "The observer was an amateur astronomer who was familiar with observing stars.",
-        "The Director of Intelligence commented that the description resembled a meteor, except for the duration of the sighting, which may have been overestimated."
-    ],
-    "result": "probable meteor",
-    "sighted object": "a round object with a blinking white light",
-    "location": "Atlanta, Georgia",
-    "witnesses": "an amateur astronomer",
-    "photographs": "no"
+    "main event": "A round, blinking white light was observed in Atlanta, Georgia on August 6, 1957, suspected to be a meteor.",
+    "interesting points": "The sighting lasted for 1 minute and 35 seconds,The weather was clear at the time of the observation,The object was described as bright and diffused,The observer was an amateur astronomer,The director of intelligence suggested that it resembled a meteor but noted the duration might have been overestimated.",
+    "sighted object": "round, blinking white light",
+    "location": "Atlanta, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "amateur astronomer",
+    "contains photographs": false
 }

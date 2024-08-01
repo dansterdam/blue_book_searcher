@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An unidentified flying object was observed over the Soviet Zone in Germany for about 10 minutes before disappearing to the west.",
-    "interesting points": [
-        "The object was detected on ground radar and also seen visually by staff at the UHF Loc Cam Station near the town of Beverungen, Germany.",
-        "The object was described as a red light that appeared about 10-15 degrees above the horizon, moving from east to west very fast before disappearing below the horizon.",
-        "No sound was heard during the sighting.",
-        "The report states that the object could not be identified.",
-        "The sighting was reported to the Bundesnachrichtendiest (West German Customs Service) and the Bundesgrenzschutz (West German Border Police)."
-    ],
-    "result": "unexplained",
-    "sighted object": "a red light",
+    "main event": "An unidentified flying object was observed both on ground radar and visually in Warpke, West Germany on January 2, 1962.",
+    "interesting points": "The observation lasted from 2215 to 2300 hours,The object was noted to be maneuvering and turning towards West Germany,The report suggested the object might be an astronomical light or possibly an aircraft,The visual sighting was confirmed by staff at a nearby location,The evaluation of source reliability was marked as unknown but good.",
+    "sighted object": "unidentified flying object",
     "location": "Warpke, West Germany",
-    "witnesses": "staff at the UHF Loc Cam Station",
-    "photographs": "no"
+    "number of confirmed witnesses": 0,
+    "witness description": "staff of UHF location camera station",
+    "contains photographs": false
 }

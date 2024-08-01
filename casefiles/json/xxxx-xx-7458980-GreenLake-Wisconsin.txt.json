@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright, solid object was observed in the sky over Green Lake, Wisconsin on April 27, 1967.",
-    "interesting points": [
-        "The object appeared solid with sharply outlined edges and was a bright bluish-green color.",
-        "The object descended into the clouds, was briefly observed through the clouds, and then disappeared from view.",
-        "The object made no sound, but emitted a steady, low humming noise.",
-        "The observer estimated the object to be 3/4 to 1 1/2 miles away and about the size of a large saucer.",
-        "The object was observed to hover, move slowly back and forth, and then suddenly shoot straight up and out of sight."
-    ],
-    "result": "unidentified",
-    "sighted object": "a bright, solid, bluish-green colored object",
-    "location": "Green Lake, Wisconsin",
-    "witnesses": "a single observer",
-    "photographs": "none"
+    "main event": "An observer in Green Lake, Wisconsin, reported seeing a solid object with sharply outlined edges that descended into clouds and then disappeared from view on April 27, 1967.",
+    "interesting points": "The object was described as bright white, shading to white-blue on the bottom,The sighting lasted for 15 minutes and was recorded during cloudy weather with a cloud density of 300',The object appeared solid and was compared in size to a match head at arm's length,No photographs of the sighting are available, The observer also reported the object made a steady sound similar to a small gas engine.",
+    "sighted object": "a bright and solid aerial object",
+    "location": "Green Lake, Wisconsin, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A 17-year-old male observer.",
+    "contains photographs": false
 }

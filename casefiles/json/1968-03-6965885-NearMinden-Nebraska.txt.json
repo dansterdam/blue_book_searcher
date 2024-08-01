@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "The observer saw a green round object and later saw three object-like tails that disappeared towards the west.",
-    "interesting points": [
-        "The observer initially saw a 'green round object' about 10 minutes before seeing the three object-like tails.",
-        "The three object-like tails suddenly went out, and a red exhaust resembling a jet engine came from the rear, hanging suspended in the air before the objects separated and disappeared.",
-        "The observer did not feel any heat or experience any difficulty with their car, which is unusual for UFO sightings.",
-        "The observer believes the sighting may be connected to an earlier sighting of a green ball over the Platte River near the Minden Inter-Change.",
-        "The Air Force sent the observer a questionnaire to provide more information, but the observer did not return it."
-    ],
-    "result": "inconclusive",
-    "sighted object": "green round object, three object-like tails",
-    "location": "Near Minden, Nebraska",
-    "witnesses": "the observer and their family",
-    "photographs": "no"
+    "main event": "Two observers sighted a green round object and multiple bright elliptical objects near Minden, Nebraska in 1968.",
+    "interesting points": "The observers first saw a green object clearly while driving,They noticed another object that appeared to be a plane but was actually several separate bright objects,The bright objects emitted a loud noise resembling a sharp pocket burst when they separated,The green ball sighted earlier was speculated to be connected to the later sighting,No physical evidence or photographs were available in the report.",
+    "sighted object": "green round object and bright elliptical objects",
+    "location": "Minden, Nebraska, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a couple driving over the Interstate-80 Bridge",
+    "contains photographs": false
 }

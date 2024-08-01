@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A hovering object with two distinctive lights was observed over Greenback, Tennessee on November 29, 1963. The object then made a 45-degree turn and flew off at high speed, passing over Knoxville at 33,000 feet.",
-    "interesting points": [
-        "The object was initially described as looking like a helicopter, but was believed to be some new type of aircraft.",
-        "The object made a sharp 45-degree turn at an altitude of around 2,000 feet.",
-        "The object then flew off at a very high speed, passing over Knoxville at an altitude of 33,000 feet.",
-        "The sighting occurred about 25 miles southwest of Knoxville, Tennessee.",
-        "The sighting was made by a witness in the town of Greenback, Tennessee."
-    ],
-    "result": "unexplained",
-    "sighted object": "hovering object with two distinctive lights",
-    "location": "Greenback, Tennessee",
-    "witnesses": "residents of Greenback, Tennessee",
-    "photographs": "no photographs available"
+    "main event": "On November 20, 1963, a UFO sighting was reported in Knoxville, Tennessee, where a single object was observed descending at an altitude of about 2,000 feet.",
+    "interesting points": "The object was critically evaluated by the D-52 crew, who suggested it might be a meteor., The sighting lasted approximately 45 minutes with clear weather conditions., The investigation concluded that the object was likely a balloon, with a possibility of it being an aircraft., Observations during similar incidents on November 29th drew additional attention to the sightings in the area., Several witnesses, including military personnel, reported their encounters with unknown aerial phenomena leading to the Air Force's documentation effort at that time.",
+    "sighted object": "a single object descending in the sky",
+    "location": "Knoxville, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "crew of the D-52 aircraft as well as local civilians",
+    "contains photographs": false
 }

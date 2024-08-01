@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A round, silver object with erratic movements was observed for about an hour over Uvalde, Texas on October 4, 1957.",
-    "interesting points": [
-        "The object appeared to come through the atmosphere slowly with a series of jerk-like motions, moving from west to east.",
-        "The object seemed to be self-illuminated, and the light source began to flicker as if it was about to fail as the object moved along.",
-        "The object finally faded from sight.",
-        "The report mentions that the object was picked up on radar, but there was no unusual sighting on radar.",
-        "The report concludes the sighting is a possible ground-radar reflection or a possible balloon."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, silver object",
-    "location": "E 5 miles S Uvalde, Texas",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "A round silver object with erratic movements was observed over Uvalde, Texas on 4 October 1957.",
+    "interesting points": "The object was reported to have a series of jerk-like motions., The object appeared to be illuminated by its own light., It was observed moving from west to east., The sighting lasted for one hour., The conclusion suggested it could be a ground-radar reflection or possibly a balloon.",
+    "sighted object": "round silver object",
+    "location": "E 5 miles S Uvalde, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "unknown",
+    "contains photographs": false
 }

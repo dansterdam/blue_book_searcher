@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A flock of small birds was initially mistaken for a UFO moving at high speed over Tiburon, California on August 26, 1956.",
-    "interesting points": [
-        "The observer calculated the birds were traveling at least 550-950 mph, but later doubted his own judgment.",
-        "A former RCAF jet pilot sighted a UFO while getting a cross-Canada speed record on August 29, 1956 and submitted a photograph that is being analyzed.",
-        "Miss Norma Mello reported an observation of a motionless object the size of a grapefruit in Fairhaven, Massachusetts on August 27, 1956.",
-        "Three persons saw a 'meteor' that was described as the biggest and brightest one ever seen, lighting up the highway in Eureka, California on August 30, 1956.",
-        "A prominent lawyer in Cincinnati, Ohio reported seeing a single white light 'sizzering' to the north at high speed on August 30, 1956."
-    ],
-    "result": "unexplained",
-    "sighted object": "flock of small birds, unidentified aerial objects",
-    "location": "Tiburon, California; Fairhaven, Massachusetts; Eureka, California; Cincinnati, Ohio",
-    "witnesses": "civilian observers, RCAF jet pilot",
-    "photographs": "yes, but not included in the report"
+    "main event": "Multiple UFO sightings documented in August 1956 across various locations in the United States.",
+    "interesting points": "One witness in Worthington, Ohio described a darkish yellow object moving in a hopping manner,The report mentions a possible celestial phenomenon at the Ohio State Fair as a cause for the sighting,An observer in Tiburon, California initially mistook a flock of birds for a UFO and later estimated speeds of 550 to over 1000 mph for the objects,Multiple reports include military personnel witnessing unidentified aerial phenomena,Another sighting noted a prominent lawyer in Cincinnati describing a single white light moving silently in the night sky.",
+    "sighted object": "Various unidentified flying objects described in multiple reports, including darkish yellow object, birds, and a white light",
+    "location": "Various locations in the United States including Worthington, Ohio; Tiburon, California; and Cincinnati, Ohio",
+    "number of confirmed witnesses": 3,
+    "witness description": "Civilians and military personnel reporting UFO sightings",
+    "contains photographs": false
 }

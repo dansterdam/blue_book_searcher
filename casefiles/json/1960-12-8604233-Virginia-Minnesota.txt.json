@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A radar object was detected in the sky over Virginia, Minnesota on December 10, 1960.",
-    "interesting points": [
-        "The object initially appeared on the radar scope, was white in color, and was moving before fading out.",
-        "The report includes speed and distance data for the object, including speeds of 23 knots, 25 knots, 69 knots, and 79 knots.",
-        "The object was observed for 7 minutes.",
-        "The report concludes the object was either a balloon or an aircraft, but there was insufficient data for a definitive evaluation.",
-        "The report includes coordinates for the sighting location of 47 degrees 48 minutes north latitude and 92 degrees 43 minutes west longitude, near Lake Fortelein, 14 miles southeast of Virginia, Minnesota."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "radar blip",
-    "location": "Virginia, Minnesota",
-    "witnesses": "radar operators",
-    "photographs": "no"
+    "main event": "An unidentified aerial object was observed on radar in Virginia, Minnesota.",
+    "interesting points": "The object was white in color and appeared on the radar scope before fading out., The observation lasted for about 7 minutes., Multiple conclusions were drawn including balloon and aircraft, but the data was deemed insufficient for final evaluation., The report is part of the U.S. Air Force's Project Blue Book, which investigated UFO sightings., Additional details mention a bright light noticed at various locations.",
+    "sighted object": "an unidentified aerial object",
+    "location": "Virginia, Minnesota, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses were mentioned",
+    "contains photographs": false
 }

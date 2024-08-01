@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A moon-shaped object about 10 feet in diameter with a bright light and metallic surface was observed by three witnesses as stationary over a farm in Lorton, Virginia.",
-    "interesting points": [
-        "The object would appear and disappear as clouds passed over it.",
-        "The object changed color from blue to green in bright light, and then dissolved into a red glare.",
-        "The object descended towards the ground and then ascended, repeating this several times over the course of about 3 hours.",
-        "The witness, Mrs. [REDACTED], was later interviewed by Major William Coleman and found to have possibly observed a sun dog phenomenon rather than a UFO.",
-        "The report includes photos of sun reflections taken by another witness, Edward J. Linehan, which may be related to the sighting."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a moon-shaped metallic object about 10 feet in diameter with a bright light",
-    "location": "Lorton, Virginia - Springfield Farm",
-    "witnesses": "3 separate civilian witnesses, including Mrs. [REDACTED]",
-    "photographs": "yes, the report includes photographs of sun reflections, but no photographs of the UFO"
+    "main event": "A UFO sighting of a moon-shaped object occurred on April 26, 1963, in Virginia.",
+    "interesting points": "The object was described to be about 10 feet in diameter and had a bright light and metallic surface., The object was stationary and disappeared and reappeared as clouds passed overhead., Three separate witnesses observed the object for about one hour., The object changed colors, turning red when obscured by clouds., Witnesses speculated that the observed phenomenon could be a sun dog.",
+    "sighted object": "moon-shaped object with bright light",
+    "location": "Lorton, Virginia, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Mrs. ______ was interviewed; she appeared emotional rather than objectively critical about her observation.",
+    "contains photographs": false
 }

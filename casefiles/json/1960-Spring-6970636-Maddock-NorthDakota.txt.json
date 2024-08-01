@@ -1,17 +1,9 @@
-Here is the JSON summary based on the report text you provided:
-
 {
-    "main event": "A farmer discovered strips or 'tin foil' material over one of his fields in Harliston, North Dakota on April 5, 1960.",
-    "interesting points": [
-        "A sample of the material was requested but not received.",
-        "The Air Force concluded the material was likely 'normal' and of terrestrial origin, possibly aircraft debris.",
-        "The case was categorized as possibly a balloon, aircraft, or astronomical in nature.",
-        "A letter was sent to the Federal Bureau of Investigation describing the discovery of the foil-like material.",
-        "There was a reference to a previous RCAF sighting that was dropped from a USAF aircraft, suggesting a potential connection."
-    ],
-    "result": "unexplained",
+    "main event": "A UFO sighting occurred on April 5, 1960, involving strips of 'tin foil' material observed over a field in Harliston, North Dakota.",
+    "interesting points": "The material was not sampled or collected for analysis,Presumed to be of terrestrial origin, possibly aircraft debris,The sighting involved many objects but no specific course was noted,The observer expressed concern over the strange nature of the found material,The report suggests further investigation may be warranted due to the unusual findings.",
     "sighted object": "strips or 'tin foil' material",
-    "location": "Harliston, North Dakota",
-    "witnesses": "farmer",
-    "photographs": "no"
+    "location": "Harliston, North Dakota, US",
+    "number of confirmed witnesses": 1,
+    "witness description": "An unnamed individual working in their field",
+    "contains photographs": false
 }

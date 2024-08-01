@@ -1,17 +1,9 @@
-Here is the summary of the UFO report in JSON format:
-
 {
-    "main event": "A civilian businessman photographed several unidentified aerial objects near Landrum, South Carolina on November 16, 1952.",
-    "interesting points": [
-        "The objects were observed by multiple witnesses, including an official from the Civil Aeronautics Administration (CAA).",
-        "The objects were described as saucer-shaped, glowing brightly, and moving slowly before disappearing.",
-        "The CAA official watched the objects for about 6 minutes and stated they made no sound or left any exhaust trail.",
-        "A check with the nearby Shaw Air Force Base confirmed no known aircraft were in the area at the time.",
-        "The camera footage was submitted to the Air Force for analysis, with an agreement that they would make copies and provide their findings to the owner of the film."
-    ],
-    "result": "unknown",
-    "sighted object": "several unidentified aerial objects, described as saucer-shaped and glowing",
-    "location": "Landrum, South Carolina",
-    "witnesses": "multiple civilians, including a CAA official",
-    "photographs": "yes, approximately 50 feet of 8mm color film"
+    "main event": "On November 8, 1952, Lt. Albert F. Hadford, USAF, reported observing a dark, round object moving at an estimated speed of 600-800 mph over a range, which disappeared into cloud cover after approximately 10 seconds.",
+    "interesting points": "The object was unresponsive to radio communications., The estimation of the size was based on the time of observation., The incident occurred during a troop training mission., Hadford reported the object as a large trace to the crew chief., The sighting was documented in a Project Blue Book report.",
+    "sighted object": "a dark round object",
+    "location": "Bethesda, Maryland, USA",
+    "number of confirmed witnesses": 4,
+    "witnesses": "Lt. Albert F. Hadford and crew",
+    "photographs": false
 }

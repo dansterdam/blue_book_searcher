@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "An unidentified object was observed on radar, moving from north to west, brown fuzzy (amorphous) in appearance, in level flight.",
-    "interesting points": [
-        "The object was observed on radar at the General Electric Nuclear Laboratories located near Schenectady, New York.",
-        "The object was described as an unidentified, glowing white oval-shaped object that seemed to be ablaze and trailing brown fumes.",
-        "The object was observed to lift up into the sky, fly below the cloud layer heading west, and maintain a level flight from east to west before passing over the observer.",
-        "The sighting lasted for only about 3 seconds.",
-        "There were multiple observers of the sighting, including military and civilian personnel."
-    ],
-    "result": "unidentified",
-    "sighted object": "unidentified, glowing white oval-shaped object",
-    "location": "Schenectady-Albany, New York",
-    "witnesses": "military and civilian personnel",
-    "photographs": "none"
+    "main event": "On 17 July 1957, a bright, shiny, silvery object was observed trailing orange flames as it flew through the sky.",
+    "interesting points": "The object was seen using ground and air visual observations.,The sighting was reported by both military and civilian sources.,The weather conditions during the sighting were clear.,The object was identified as a meteor after evaluation.,The flight path was described as below the cloud layer, moving east to west.",
+    "sighted object": "a bright shiny silvery object trailing orange flames",
+    "location": "Schenectady, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Observer in Schenectady, N.Y.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A round, white object was observed for 25 minutes, which was 25 times larger than a star and had high velocity without making any sound.",
-    "interesting points": [
-        "The object slowly dimmed and proceeded.",
-        "The description and characteristics of the object point to it being the planet Venus.",
-        "The observation lasted for 25 minutes.",
-        "The object was round and white in color.",
-        "The object was much larger than a star, approximately 25 times the size."
-    ],
-    "result": "likely Venus",
-    "sighted object": "round, white object",
-    "location": "unknown",
-    "witnesses": "unknown",
-    "photographs": "no"
+    "main event": "A round, white object was observed on 13 November 1957, which appeared 25 times larger than a star, moving at high velocity with no sound.",
+    "interesting points": "The sighting lasted for 25 minutes.,The object slowly dimmed before proceeding.,The object was noted to be high in the sky.,The object was initially mistaken for Venus.,The observation was categorized under Project 10073.",
+    "sighted object": "round white object",
+    "location": "unknown, unknown, unknown",
+    "number of confirmed witnesses": 0,
+    "witness description": "no witnesses described",
+    "contains photographs": false
 }

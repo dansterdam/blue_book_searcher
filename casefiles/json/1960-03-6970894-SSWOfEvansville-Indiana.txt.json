@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report:
-
 {
-    "main event": "A bright light was reportedly observed in the southern sky over Evansville, Indiana on March 6, 1960.",
-    "interesting points": [
-        "The light was described as a 'bright light' that appeared to be stationary in the sky.",
-        "The witness was unable to judge the size of the object.",
-        "An AACS radar unit at Godman Air Force Base reportedly tracked an unidentified flying object for about 50 minutes on March 7, 1960, but no visual contact could be made due to overcast conditions.",
-        "The unidentified object was reported to be traveling at high speed and making abrupt changes in direction.",
-        "An Eastern Air Lines flight in the vicinity of Evansville on March 7 was questioned, but the airline did not have a flight or plane with the reported identification on that date."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light in the sky",
-    "location": "Evansville, Indiana",
-    "witnesses": "unknown",
-    "photographs": "none"
+    "main event": "A bright light in the southern sky was observed in Evansville, Indiana on March 6, 1960.",
+    "interesting points": "The light was reported to be stationary and not judged for size., The observation lasted 3-5 minutes., There were no follow-up questions issued due to insufficient information., Many people in Evansville reported seeing the light, but no official confirmation was available., A military flight reported seeing a similar bright flashing light over the area shortly after.",
+    "sighted object": "bright light in the southern sky",
+    "location": "Evansville, Indiana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Various observers in the area around the time of sighting.",
+    "contains photographs": false
 }

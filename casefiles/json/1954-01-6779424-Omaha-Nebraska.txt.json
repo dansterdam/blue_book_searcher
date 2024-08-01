@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Sighting of a green object with an orange tail that followed an erratic course over Omaha, Nebraska",
-    "interesting points": [
-        "The object was described as half the size and shape of a football, with a fluorescent light green color.",
-        "The object trailed a flame from bright red-orange at the object to yellow at the end of the flame, which was 1.5 times the size of the object.",
-        "The object was seen through the right front half of a '49 Chevrolet sedan windshield, traveling in a very flat, slightly descending trajectory from southeast to northwest.",
-        "The object did not change direction or altitude during the sighting, which lasted approximately 9-11 seconds.",
-        "Two civilian witnesses and a USAF Major, all described as reliable, observed the object."
-    ],
-    "result": "Classified as a meteor sighting by the Air Operations Officer, though local astronomers had no record of such an event on that date.",
-    "sighted object": "Green object with orange tail",
-    "location": "Omaha, Nebraska",
-    "witnesses": "Two civilian witnesses and a USAF Major",
-    "photographs": "No photographs present in the report"
+    "main event": "A green object with an orange tail was observed in Omaha, Nebraska, following an erratic course for approximately 9 to 11 seconds.",
+    "interesting points": "The object was described as oval-shaped and fluorescent light green., The tail of the object trailed a flame that transitioned from bright red-orange to yellow., The sighting occurred while traveling in a car, viewed through the windshield., It was noted that there was no air traffic at the time of the sighting., Local astronomers had no record of such a meteor on the date of the sighting.",
+    "sighted object": "green oval object with an orange tail",
+    "location": "Omaha, Nebraska, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Two civilians, one described as a student from Lincoln, Nebraska, and the other as a major in the USAF.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright star-like object with a tail that flashed at intervals was reported by an observer near Wheaton, Maryland.",
-    "interesting points": [
-        "The object disappeared completely after 30 seconds, then reappeared a few seconds later.",
-        "The report suggests the object was likely the star Formalhaut, which was in the position reported for the object.",
-        "The observer was an electronics engineer with an amateur interest in astronomy, and was described as fairly reliable.",
-        "Authorities investigated the sighting but found no other reports of the object from nearby airports or the Naval Observatory.",
-        "The most reasonable conclusion was that the observer saw the landing light of an approaching aircraft, giving the appearance of a stationary object."
-    ],
-    "result": "Likely an aircraft landing light, possibly the star Formalhaut",
-    "sighted object": "A bright star-like object with a tail that flashed at intervals",
-    "location": "1 mile east of Wheaton, Maryland",
-    "witnesses": "1 observer, an electronics engineer",
-    "photographs": "No"
+    "main event": "An observer reported seeing a bright star-like object in Wheaton, Maryland on 5 October 1960.",
+    "interesting points": "The object was described as having a tail that was brighter in the middle and flashed at intervals., The sighting lasted approximately 30 seconds., The object completely disappeared before reappearing a few seconds later., The object was possibly identified as the star Formalhaut., The observation was made while the observer was driving a car.",
+    "sighted object": "a bright star-like object",
+    "location": "Wheaton, Maryland, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "the observer had an amateur interest in astronomy",
+    "contains photographs": false
 }

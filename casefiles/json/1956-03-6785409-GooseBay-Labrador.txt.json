@@ -1,17 +1,9 @@
-Here is the JSON summary of the provided UFO report:
-
 {
-    "main event": "The pilot and co-pilot of a military aircraft observed a silver-grey cylindrical object, approximately 30-40 feet long, approaching their aircraft at a distance of 2-3 miles.",
-    "interesting points": [
-        "The object had a bright blue tail and was trailing heavy yellow-orange sparks.",
-        "The overall shape of the object was teardrop-like and it moved in level flight.",
-        "The object turned and accelerated with a burst of speed, disappearing quickly from the pilots' view.",
-        "The pilots compared the object's appearance and behavior to that of a V-2 rocket.",
-        "The sighting lasted for approximately 7 seconds before the object disappeared."
-    ],
-    "result": "unexplained",
-    "sighted object": "silver-grey cylindrical object with a bright blue tail and trailing yellow-orange sparks",
-    "location": "35-39N 54-15W",
-    "witnesses": "pilot and co-pilot of a military aircraft",
-    "photographs": "no"
+    "main event": "A pilot and copilot observed a silver grey cylinder-shaped object with a bright blue tail and trailing heavy yellow-orange sparks while flying at 32,500 feet on 23 March 1956.",
+    "interesting points": "The object was compared to a V-5 rocket,The sighting lasted approximately seven seconds,The object changed shape and was described as having a teardrop silhouette,The object moved at high speed and disappeared after a bright flash of light,It was observed at a distance of 2-3 miles from the aircraft.",
+    "sighted object": "a silver grey cylinder-shaped object with a blue tail",
+    "location": "unknown, unknown, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilot and copilot of an aircraft",
+    "contains photographs": false
 }

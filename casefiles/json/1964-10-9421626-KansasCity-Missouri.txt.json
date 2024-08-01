@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A witness observed a bright, round, metallic object hovering in the sky near Kansas City, Missouri on October 9, 1964.",
-    "interesting points": [
-        "The object was described as round and metallic in appearance.",
-        "The object was reported to be hovering in the sky.",
-        "No other details were provided about the size, altitude, or duration of the sighting.",
-        "The sighting occurred on the evening of October 9, 1964 in the vicinity of Kansas City, Missouri.",
-        "Based on the limited information, the sighting is inconclusive and cannot be adequately evaluated."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright, round, metallic object",
-    "location": "Kansas City, Missouri",
-    "witnesses": "a single observer",
-    "photographs": "no"
+    "main event": "A bright white object resembling a falling star was observed in Kansas City, Missouri on 6 October 1964.",
+    "interesting points": "The object appeared to fall from 30 degrees elevation to 10 degrees,It was observed for a duration of approximately 2 seconds,The object became brighter as it approached the horizon and seemed to slow down before disappearing,The report suggests the object could have been a meteor or meteorite,The observation was described as visual with no physical evidence found.",
+    "sighted object": "a bright white object",
+    "location": "Kansas City, Missouri, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "single observer with a good estimate of reliability",
+    "contains photographs": false
 }

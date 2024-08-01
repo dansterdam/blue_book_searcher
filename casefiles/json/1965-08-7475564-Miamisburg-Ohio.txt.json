@@ -1,15 +1,9 @@
 {
-    "main event": "A civilian observed an unidentified bright object with erratic motion in Miamisburg, Ohio on August 15, 1965.",
-    "interesting points": [
-        "The object was observed for over one hour.",
-        "The object was described as very bright or brighter than a star.",
-        "The object exhibited erratic motion.",
-        "The sighting was classified as an AERO (STAR/PLANET) by Project Blue Book.",
-        "The report indicates there was no physical evidence associated with the sighting."
-    ],
-    "result": "unidentified",
-    "sighted object": "a very bright or brighter than star object with erratic motion",
-    "location": "Miamisburg, Ohio",
-    "witnesses": "civilian",
-    "photographs": "none"
+    "main event": "An unidentified object was observed in Miamisburg, Ohio on August 15, 1965.",
+    "interesting points": "The object was visible for over one hour and displayed erratic motion,The observer described the object as very bright or brighter than a star,There was no physical evidence found at the sighting location,The sighting conclusion was classified as an Aero (star/planet),This case is recorded as Project Blue Book report 10073.",
+    "sighted object": "one unidentified bright object",
+    "location": "Miamisburg, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

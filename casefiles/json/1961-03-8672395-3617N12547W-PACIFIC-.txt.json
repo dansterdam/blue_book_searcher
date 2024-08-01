@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Two unidentified objects were observed entering the atmosphere and trailing a flame pattern.",
-    "interesting points": [
-        "The objects appeared to be sitting at 89.9 degrees from the observer's position.",
-        "The sighting duration was 5 seconds.",
-        "The first object was oval-shaped, while the second object was pencil-shaped and about 5 inches long.",
-        "The first object turned from white to orange just before disappearing.",
-        "The longer object followed the shorter object closely."
-    ],
-    "result": "unknown",
-    "sighted object": "two unidentified objects entering the atmosphere",
-    "location": "Pacific (36°17'N 125°47'W)",
-    "witnesses": "military aircraft crew",
-    "photographs": "none"
+    "main event": "Two unidentified objects were observed entering the atmosphere, one shaped like an oval and the other resembling a 5-inch pencil.",
+    "interesting points": "The first object was seen closely, while the second object was viewed from a distance., The first object appeared white and turned orange just before disappearing., Duration of the sighting was about 5 seconds., The objects were reported to have no tails., A military aircraft was involved in the observation.",
+    "sighted object": "an oval object and a pencil-shaped object",
+    "location": "Pacific, Unknown Region, Unknown Country",
+    "number of confirmed witnesses": 1,
+    "witness description": "1st Lt. 965th AEW&C Squadron, aircraft commander, 4,099 flying hours",
+    "contains photographs": false
 }

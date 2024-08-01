@@ -1,15 +1,9 @@
 {
-    "main event": "A bright flash of light was observed followed by an explosion near Kalispell, Montana on January 9, 1955.",
-    "interesting points": [
-        "The object was described as a bright, high-speed object that exploded.",
-        "The observation was made by a civilian witness.",
-        "The sighting lasted for a brief, unspecified duration.",
-        "The object was moving in a straight course.",
-        "The report concluded that the sighting was likely a meteorite, as no one was known to be in the area."
-    ],
-    "result": "probable meteor",
-    "sighted object": "bright, high-speed object that exploded",
-    "location": "Kalispell, Montana",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "main event": "On January 15, 1955, an object described as an oblong, highly luminous object was observed in Kalispell, Montana.",
+    "interesting points": "The object was reported to be traveling at high speed, possibly a meteor., The observation was momentary with insufficient data for analysis., The object was described as having the potential to explode., A subsequent report on January 25, 1955, detailed a similar sighting of a grey, elongated object moving at high speed., Observers from the local area participated in the sighting.",
+    "sighted object": "oblong, highly luminous object",
+    "location": "Kalispell, Montana, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian observers in the area",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "The report appears to be an official United States Air Force envelope and form related to a UFO sighting, but does not contain details about the sighting itself.",
-    "interesting points": [
-        "The form is from the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base in Ohio.",
-        "The form is for official Air Force business related to UFOs.",
-        "The envelope is addressed to an insufficient address in Columbus, Ohio.",
-        "The form appears to be a superseded version of a previous ATIC Form 82, dated December 1960.",
-        "No specific details about a UFO sighting are provided in the available text."
-    ],
-    "result": "The report does not contain enough information to determine the result of the UFO sighting.",
-    "sighted object": "No details about a sighted object are provided.",
-    "location": "No location is specified.",
-    "witnesses": "No witnesses are mentioned.",
-    "photographs": "The image does not contain a photograph, only an official Air Force envelope and form."
+    "main event": "A UFO report was filed regarding an insufficient address on a United States Air Force envelope.",
+    "interesting points": "The envelope is labeled as 'official business' from the United States Air Force., The document mentions an obsolete form being superseded., The report is dated July 31, 1983., The address listed is for Columbus, Ohio., The report indicates steps to avoid delays in delivery.",
+    "sighted object": "United States Air Force envelope",
+    "location": "Columbus, Ohio, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "N/A",
+    "contains photographs": false
 }

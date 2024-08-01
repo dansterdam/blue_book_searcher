@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A star-shaped object, the size of a baseball, was observed by ground and air observers, and detected on radar, over Harrisburg, Pennsylvania on November 13, 1958.",
-    "interesting points": [
-        "The object maneuvered very rapidly, changing direction in 10 seconds, and was observed to be stationary on radar at an altitude of 30,000 feet before suddenly changing direction.",
-        "The object was described as having an orange color with sparks and rays.",
-        "The observation lasted for 15 minutes, with the object still in sight at the end of the sighting.",
-        "The air and ground observers all saw the same object, confirming the radar detection.",
-        "The weather conditions were clear with moderate winds at the time of the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "star-shaped object, size of a baseball",
-    "location": "Harrisburg, Pennsylvania",
-    "witnesses": "ground and air observers",
-    "photographs": "none"
+    "main event": "A star-shaped object, the size of a baseball, was observed maneuvering rapidly, changing direction, and was visible on both radar and by air and ground observers.",
+    "interesting points": "The object was orange in color and observed at an altitude of 30,000 feet,The object remained stationary on radar before rapidly changing direction horizontally,The sighting lasted for approximately 15 minutes,Ground observers used binoculars to observe the object,Air and ground observers confirmed seeing the same object.",
+    "sighted object": "star-shaped object size of a baseball",
+    "location": "Harrisburg, Pennsylvania, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "air and ground observers, including some using binoculars",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Several unknown objects were sighted by the pilot and copilot of a commercial air carrier flight near Bermuda.",
-    "interesting points": [
-        "The objects were described as round and very bright, moving at a high rate of speed.",
-        "The objects appeared to maneuver in a way inconsistent with known aircraft.",
-        "The objects were observed for approximately 10-15 minutes before disappearing from sight and the aircraft's radar.",
-        "Attempts were made to contact the objects by radio, but there was no response.",
-        "No other aircraft were operating in the area at the time."
-    ],
-    "result": "Investigation inconclusive",
-    "sighted object": "round, bright objects",
-    "location": "approximately 100 miles northeast of Bermuda",
-    "witnesses": "pilot and copilot of a commercial air carrier flight",
-    "photographs": "no photographs, only a Project 10073 Record Card"
+    "main event": "A commercial air carrier flight observed unknown bright objects moving at high speed near Bermuda on 8 October 1960.",
+    "interesting points": "The objects were first seen visually by the pilot and copilot at approximately 2140 hours,The objects were described as round and very bright,The objects maneuvered in ways inconsistent with known aircraft,The sighting lasted approximately 10 to 15 minutes before the objects disappeared,Attempts to contact the objects by radio were unsuccessful.",
+    "sighted object": "unknown bright objects",
+    "location": "NNE of Bermuda, Bermuda",
+    "number of confirmed witnesses": 2,
+    "witness description": "pilot and copilot of a commercial air carrier flight",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "Two separate, spherical, medium-sized objects were sighted by a military observer in the Far East.",
-    "interesting points": [
-        "The objects were sighted at 320 degrees azimuth and 90 degrees elevation, then later at 100 degrees azimuth and 60 degrees elevation.",
-        "The objects appeared to maintain a course and elevation of around 65 degrees for several passes before disappearing.",
-        "The report states the objects were unidentified, possibly satellites, but their movement could not be confirmed as a satellite.",
-        "The sighting lasted for 2-3 minutes.",
-        "No sound was reported from the objects."
-    ],
-    "result": "Insufficient data for evaluation; possibly a satellite or aircraft",
-    "sighted object": "Two spherical, medium-sized objects",
-    "location": "13°20'N - 127.4'E (Far East)",
-    "witnesses": "Military observer",
-    "photographs": "No"
+    "main event": "Observer sighted two spherical objects side by side in the Far East on 18/10/62.",
+    "interesting points": "The objects were sighted for 2-3 minutes with no sound,They were seen moving without any apparent maintenance of satellite trajectory,The first object was seen at 320 degrees azimuth at 90 degrees altitude,The second object was sighted at 100 degrees azimuth at 60 degrees altitude,Conclusion states insufficient data for evaluation as they may be satellites.",
+    "sighted object": "two spherical objects",
+    "location": "Far East",
+    "number of confirmed witnesses": 1,
+    "witness description": "Military observer",
+    "contains photographs": false
 }

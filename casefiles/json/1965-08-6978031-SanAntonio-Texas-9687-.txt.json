@@ -1,15 +1,9 @@
 {
-    "main event": "A photograph of an unidentified aerial phenomenon was taken in San Antonio, Texas on August 5, 1946.",
-    "interesting points": [
-        "The photograph shows a blurry, indistinct object in the sky against a backdrop of cloud formations.",
-        "The report states that the photograph is from Project Blue Book file 06.97.",
-        "The report indicates that the photograph is the only detail provided, and no further information about any individuals is included.",
-        "The report is marked as 'UNCLASSIFIED' by the Foreign Technology Division of the Air Force.",
-        "The report does not provide any other details about the sighting or the object in the photograph."
-    ],
-    "result": "unexplained",
-    "sighted object": "an unidentified aerial phenomenon",
-    "location": "San Antonio, Texas",
-    "witnesses": "unknown",
-    "photographs": "yes, the report includes a photograph"
+    "main event": "A report featuring a black and white photograph of an unidentified aerial phenomenon taken on August 5, 1946, in San Antonio, Texas.",
+    "interesting points": "The photo shows a blurry, indistinct object in the sky against cloud formations,The report belongs to Project Blue Book,The object remains unidentified,No further details about witnesses are provided,The report is classified as unclassified by the Foreign Technology Division AFSO",
+    "sighted object": "unidentified aerial phenomenon",
+    "location": "San Antonio, Texas, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "No details about individuals provided.",
+    "contains photographs": false
 }

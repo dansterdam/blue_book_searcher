@@ -1,17 +1,9 @@
-Based on the information provided in the UFO report, here is the JSON summary:
-
 {
-    "main event": "A single unidentified flying object was observed in the sky over Riceville, Iowa on August 29, 1955 at 0120Z.",
-    "interesting points": [
-        "The object was observed for 3 minutes.",
-        "The object was described as round, silver dollar in shape, and displaying red, green, and white colors.",
-        "The conclusion in the report was that the object was likely the star Arcturus, as it was setting around the time of the sighting.",
-        "No radar contact was made, and the officer had no explanation for the sighting.",
-        "The report includes a Project Blue Book Record Card, which was part of the U.S. Air Force's official investigation of UFOs."
-    ],
-    "result": "Inconclusive, likely Arcturus",
-    "sighted object": "A single round, silver dollar-shaped object displaying red, green, and white colors",
-    "location": "Riceville, Iowa",
-    "witnesses": "A single witness, likely a military officer",
-    "photographs": "Yes, the report indicates photographs were taken, but they are not included in the provided image."
+    "main event": "A UFO was observed over Riceville, Iowa on August 20, 1955.",
+    "interesting points": "The observation lasted for 3 minutes,The object was assessed as likely being a balloon,The report mentioned the possibility of the light being Arcturus,There was no photograph present in the document,The comparison to Arcturus indicated an astronomical explanation for the sighting.",
+    "sighted object": "one unidentified object in the sky",
+    "location": "Riceville, Iowa, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A ground visual observation by an unidentified witness.",
+    "contains photographs": false
 }

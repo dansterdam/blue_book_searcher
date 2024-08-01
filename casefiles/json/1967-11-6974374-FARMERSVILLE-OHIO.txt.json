@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A person in Farmersville, Ohio observed an object in the sky on November 5, 1967 that appeared larger than the first quarter moon.",
-    "interesting points": [
-        "The observer felt the object was larger than the moon, even though the moon should have been visible at that time.",
-        "The observer stated the object did not have the characteristics of the moon.",
-        "The report mentions the observer had another sighting the previous week, and was considered sincere but lacking knowledge about astronautics.",
-        "The Air Force requested comments from Dr. J. Allen Hynek about the possibility of the sighting being induced from other sources or man-made objects.",
-        "The Air Force's initial explanation was that the moon was the culprit, but they acknowledged this explanation did not appear adequate."
-    ],
-    "result": "unexplained",
-    "sighted object": "an object larger than the first quarter moon",
-    "location": "Farmersville, Ohio",
-    "witnesses": "a single observer",
-    "photographs": "none"
+    "main event": "An observer reported sighting an object resembling a first quarter moon in Farmersville, Ohio on 5 November 1967, believing it to be larger than the moon since he felt the moon shouldn't be visible at that time.",
+    "interesting points": "The observer noted that the object appeared stationary and was visible for about 5 minutes., The observer doubted it was the moon as it should not have been visible at that time., Dr. Allen Hynek referred to the incident as a case of 'two moons'., The elevation of the sighted object was estimated at 20° and azimuth at 120° south of west., The object disappeared when it was obscured by clouds, leading to uncertainty about its true nature.",
+    "sighted object": "object resembling the moon",
+    "location": "Farmersville, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A farmer who appeared sincere but lacked knowledge about astronautics.",
+    "contains photographs": false
 }

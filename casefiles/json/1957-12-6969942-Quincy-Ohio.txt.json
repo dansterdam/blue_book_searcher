@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided report:
-
 {
-    "main event": "A civilian reported seeing a single oval-shaped, yellowish-orange object over Quincy, Ohio on December 11, 1957.",
-    "interesting points": [
-        "The object was the size of a quarter from the witness's perspective.",
-        "The object was in sight for 40 seconds.",
-        "The object moved from southeast to northwest.",
-        "The reporting officer concurred that the object was likely an aircraft.",
-        "The final conclusion listed several possibilities, including balloon, aircraft, or astronomical object, but stated there was 'Insufficient Data for Evaluation.'"
-    ],
-    "result": "inconclusive",
-    "sighted object": "single oval-shaped, yellowish-orange object",
-    "location": "Quincy, Ohio",
-    "witnesses": "civilian",
-    "photographs": "yes, the report includes photographs"
+    "main event": "An oval yellowish orange object was observed in Quincy, Ohio on 11 December 1957.",
+    "interesting points": "The object was the size of a quarter and observed for 40 seconds., The sighting course was from SE to NW., The source of the observation was civilian., Multiple potential explanations were considered, including aircraft and balloon., The report is associated with Project Blue Book, a US Air Force investigation of UFOs.",
+    "sighted object": "one oval yellowish orange object",
+    "location": "Quincy, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": true
 }

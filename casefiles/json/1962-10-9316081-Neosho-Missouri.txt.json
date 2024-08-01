@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A ground-radar observation of four erratic, rectangular, green objects near Neosho, Missouri on October 29, 1962.",
-    "interesting points": [
-        "The objects were detected by SAGE radar at the Sioux City Air Defense Sector site.",
-        "The objects were observed for approximately 2 minutes, from 2213-2215Z.",
-        "The objects were reported to be at 1 degree above the horizon.",
-        "The objects faded out in the dawn light.",
-        "The sighting was corroborated by TWA and LOG aircraft, as well as two SAC B-47s."
-    ],
-    "result": "unexplained",
-    "sighted object": "four rectangular, green objects",
-    "location": "Neosho, Missouri",
-    "witnesses": "Ground radar operators",
-    "photographs": "Yes, the report includes photographs"
+    "main event": "A UFO sighting involving four unidentified objects was reported at a munitions plant in Neosho, Missouri on October 29, 1962.",
+    "interesting points": "The sighting lasted for 2 minutes,The objects were observed using ground radar,The course of the objects was described as erratic,Details of the sightings were confirmed by Bolio/AFS authorities,The objects were identified as rectangular and green.",
+    "sighted object": "four unidentified flying objects",
+    "location": "Neosho, Missouri, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Details are not provided regarding witnesses.",
+    "contains photographs": false
 }

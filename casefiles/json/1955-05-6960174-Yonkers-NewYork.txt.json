@@ -1,15 +1,9 @@
 {
-  "main event": "A civilian in Yonkers, New York, reported a ground-visual observation of a round, brilliant white object, larger than any star in the sky, which appeared for approximately 20 seconds and then faded out. The object appeared to move in a southerly direction at an unknown speed, with no sound heard.",
-  "interesting points": [
-    "The observation lasted approximately 20 seconds.",
-    "The object was described as round and brilliant white, larger than any star in the sky.",
-    "There was no sound associated with the sighting.",
-    "The possibility of an after-burner equipped aircraft like F-94, F-95, etc., was considered due to the brevity of the sighting, the brilliant white color of the object, and the fade-out.",
-    "No formal investigation was authorized."
-  ],
-  "result": "Unknown",
-  "sighted object": "One round, brilliant white object",
-  "location": "Yonkers, New York",
-  "witnesses": "Civilian",
-  "photographs": "No"
+    "main event": "A civilian observed a round, brilliant white object larger than any visible star for approximately 20 seconds in Yonkers, New York.",
+    "interesting points": "The object appeared to move in a southerly direction,The sighting lasted about 20 seconds, No sound was heard during the observation, There are multiple possible explanations including aircraft and balloons, The object faded out after 20 seconds.",
+    "sighted object": "one round brilliant white object",
+    "location": "Yonkers, New York, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "civilian",
+    "contains photographs": false
 }

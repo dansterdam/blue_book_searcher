@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A civilian in Grand Blanc, Michigan submitted photographs of an unidentified flying object to the U.S. Air Force and FBI in 1960.",
-    "interesting points": [
-        "The photographs were analyzed by the Air Force and determined to show a natural phenomenon, not a structured or controlled object.",
-        "The FBI initially examined the photographs but later determined them to be false and declined to investigate further.",
-        "The photographs were described as showing an unusual object that was illuminated and moved at a high rate of speed.",
-        "Multiple witnesses in the Grand Blanc area reported seeing similar objects in the sky around the same time period.",
-        "The Air Force indicated they would not investigate the case any further since UFO reports fell under their jurisdiction."
-    ],
-    "result": "inconclusive",
-    "sighted object": "unidentified flying object",
-    "location": "Grand Blanc, Michigan",
-    "witnesses": "civilian",
-    "photographs": "yes, the report includes photographs that were analyzed"
+    "main event": "A UFO sighting was reported in Grand Blanc, Michigan, on February 20, 1960, with related photographs submitted for analysis.",
+    "interesting points": "The observations were documented under Project Blue Book,The Air Force received photographs deemed questionable due to processing damage,Witnesses reported seeing the objects, although they weren't considered unusual by some,A complex investigation was carried out involving multiple agencies,The FBI disclaimed the authenticity of some UFO photographs.",
+    "sighted object": "Unidentified flying object",
+    "location": "Grand Blanc, Michigan, USA",
+    "number of confirmed witnesses": 0,
+    "witness description": "Witnesses included local residents; specific descriptions are limited.",
+    "contains photographs": true
 }

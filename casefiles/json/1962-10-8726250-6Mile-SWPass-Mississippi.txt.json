@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A Mississippi River pilot reported observing an unidentified flying object at 0215Z on October 15, 1962, bearing 355 degrees true from 6 miles southwest of Pass, Mississippi. The object left control and disintegrated within 4 or more seconds from the first sighting.",
-    "interesting points": [
-        "The object was estimated to be at an altitude of 20,000 feet.",
-        "The object was not a meteorite.",
-        "A Navy sub-lieutenant reported seeing a rocket or space ship in the sky over the Atlantic Ocean on September 25, 1962. The object was approximately 40-60 feet in diameter and the same color as the background sky.",
-        "A silver ball the size of a basketball was reported hovering near the village of Jarvis, Ontario, Canada on October 1, 1962. It hovered about 100 feet above the ground and then rose rapidly out of sight at midnight.",
-        "Several sightings of unidentified objects were reported in various locations in the U.S. and internationally during October 1962."
-    ],
-    "result": "unidentified",
-    "sighted object": "an unidentified flying object",
-    "location": "6 miles southwest of Pass, Mississippi",
-    "witnesses": "a Mississippi River pilot",
-    "photographs": "no"
+    "main event": "A bright unknown object was observed hovering over homes in Jacksonville, Florida, leading to power failures on October 4, 1962.",
+    "interesting points": "Witnesses described a large bright object hovering partially across the road,The object was so bright that one witness had to shield her eyes,The phenomenon coincided with two power outages within 15 minutes,Other witnesses in the area corroborated seeing the object rise rapidly after the power returned,The event is noted as an unusual power failure case.",
+    "sighted object": "a large bright object in the sky",
+    "location": "Jacksonville, Florida, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "a woman and several other witnesses near the areas where the power failed",
+    "contains photographs": false
 }

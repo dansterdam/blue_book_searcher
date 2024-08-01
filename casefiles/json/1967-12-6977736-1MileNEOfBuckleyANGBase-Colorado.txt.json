@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A bright blue flash of light was observed for 2-3 seconds near Buckley ANG Base in Colorado on December 3, 1967.",
-    "interesting points": [
-        "The flash was so bright that it temporarily blinded the observer.",
-        "It is unclear whether the flash originated in the air or on the ground.",
-        "The observer went to check for a transformer issue but the light had disappeared by the time they reached the front yard.",
-        "Local authorities reported no aircraft or balloons in the area at the time of the sighting.",
-        "The report was submitted to Project Blue Book for further investigation, but the information provided was deemed insufficient for a complete evaluation."
-    ],
-    "result": "insufficient data for evaluation",
-    "sighted object": "a bright blue flash of light",
-    "location": "1 mile NE of Buckley ANG Base, Colorado",
-    "witnesses": "1 civilian observer",
-    "photographs": "no"
+    "main event": "Observer sighted a bright blue flash of lights for 2-3 seconds near Buckley ANG Base.",
+    "interesting points": "The observer was temporarily blinded by the brightness of the flash., The exact location of the flash (airborne or ground) is unknown., It is unclear whether the flash was stationary or moving., The observation was made on a clear night., The observer went through the house to the front yard during the observation, causing the light to disappear.",
+    "sighted object": "bright blue flash of light",
+    "location": "Buckley ANG Base, Colorado, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Mr. 59, considered reliable, residing in Aurora, Colorado.",
+    "contains photographs": false
 }

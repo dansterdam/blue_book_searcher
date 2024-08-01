@@ -1,17 +1,9 @@
-Here is the JSON summary based on the provided UFO report text:
-
 {
-    "main event": "A fast-moving, yellow-orange object with a trail of white vapor was observed falling in a straight path with an instantaneous disappearance of the bright light.",
-    "interesting points": [
-        "The object was the size of a pinhead.",
-        "The object fell in a straight path and disappeared instantaneously.",
-        "The object was observed by two witnesses: Sergeant Donal I. Rondeau, U.S. Marine Corps, and Captain Wilford J. Harris, USAF, Assistant Air Attaché.",
-        "The sighting occurred on May 11, 1958, in Saigon, Vietnam.",
-        "The report notes that the sighting could potentially be either a U.S. or Russian satellite."
-    ],
-    "result": "Insufficient Data for Evaluation",
-    "sighted object": "A fast-moving, yellow-orange object with a trail of white vapor",
-    "location": "Saigon, Vietnam",
-    "witnesses": "Sergeant Donal I. Rondeau, U.S. Marine Corps, and Captain Wilford J. Harris, USAF, Assistant Air Attaché",
-    "photographs": "None"
+    "main event": "On 11 May 1958, a yellow-orange object was observed falling in a straight path with a white vapor trail in Saigon, Vietnam.",
+    "interesting points": "The object was described as the size of the head of a pin.,Witnesses reported an instantaneous disappearance of bright light.,The trail of white vapor rapidly dissipated.,The observation lasted for about 2 seconds.,The sighting was recorded by military personnel.",
+    "sighted object": "yellow-orange object with a white vapor trail",
+    "location": "Saigon, Viet Nam",
+    "number of confirmed witnesses": 2,
+    "witness description": "Sergeant Donal I. Rondeau, US Marine Corps, and Captain Wilford J. Harris, USAF",
+    "contains photographs": false
 }

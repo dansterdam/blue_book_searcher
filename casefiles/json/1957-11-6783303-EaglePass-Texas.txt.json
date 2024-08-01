@@ -1,17 +1,9 @@
-Here is the JSON summary for the given UFO report:
-
 {
-    "main event": "An irregular, large, white object was sighted in Eagle Pass, Texas on November 26, 1957 at around 11:30 PM CST.",
-    "interesting points": [
-        "The object was estimated to be traveling at a speed of over 1,000 miles per hour.",
-        "The object was observed to be bright and make no sound.",
-        "The sighting lasted for 10-15 seconds.",
-        "The observer was an Air Force veteran and this was his second UFO report.",
-        "The observer appeared to be of sound discussion and relatively calm but highly concerned about the sighting."
-    ],
-    "result": "unexplained",
-    "sighted object": "large, white, irregular object",
-    "location": "Eagle Pass, Texas",
-    "witnesses": "Air Force veteran",
-    "photographs": "yes, the report includes photographs"
+    "main event": "A large, irregular white object was sighted over Eagle Pass, Texas on November 26, 1957.",
+    "interesting points": "The sighting lasted for approximately 10-15 seconds., The object had no sound and emitted a bright light., There was a similar speed and altitude maintained as a first object., The estimated speed of the object was around 1000 miles per hour., The observer, who is an Air Force veteran, reported seeing this unusual object alongside a smaller first object.",
+    "sighted object": "large irregular white object",
+    "location": "Eagle Pass, Texas, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Air Force veteran, calm but highly concerned",
+    "contains photographs": false
 }

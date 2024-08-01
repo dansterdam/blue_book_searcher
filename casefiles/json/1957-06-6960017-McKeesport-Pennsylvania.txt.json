@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "Three circular, slightly oval objects were observed over McKeesport, Pennsylvania on June 26, 1957.",
-    "interesting points": [
-        "The objects were initially circular but became elongated as they disappeared.",
-        "The objects were the size of a baseball and had a white, silverish color.",
-        "Two objects were leading, with one object following behind them.",
-        "A red light flashed once on the trailing object as it disappeared into a dark cloud.",
-        "The objects moved in a straight, west to east flight path at a high speed before disappearing."
-    ],
-    "result": "unknown",
-    "sighted object": "three circular, slightly oval objects",
-    "location": "McKeesport, Pennsylvania",
-    "witnesses": "civilian - Mrs. [redacted]",
-    "photographs": "no"
+    "main event": "Three round white objects were observed in the sky by a civilian on 26 June 1957.",
+    "interesting points": "The objects were described as circular and slightly elongated as they disappeared,They were reported to be the size of baseballs and white silverish in color,One object flashed a red light once as it trailed the other two,The sighting lasted for about 3 to 5 minutes and occurred around dusk,The objects moved from west to east in a straight flight path and appeared to climb before disappearing into a dark cloud.",
+    "sighted object": "three round white objects",
+    "location": "McKeesport, Pennsylvania, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One witness is a 24-year-old housewife from Port Vue, Pennsylvania.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A witness observed a strange, fuzzy, translucent, globular object in the sky over Toledo, Ohio on April 7, 1967.",
-    "interesting points": [
-        "The object appeared to vary in brightness, with occasional pulsing or flashing.",
-        "The object remained visible for about 10-15 minutes before fading from view.",
-        "The illumination of the object was described as a subdued, hazy glow, neither bright nor dark.",
-        "There was no trail, exhaust, or sound associated with the object.",
-        "The witness was not the only one to report seeing a similar object in the area that night."
-    ],
-    "result": "unexplained",
-    "sighted object": "a fuzzy, translucent, globular object",
-    "location": "Toledo, Ohio",
-    "witnesses": "multiple witnesses, including the report author and their friends/family",
-    "photographs": "no"
+    "main event": "A group of six witnesses observed a UFO with three lights (one white and two red) in Toledo, Ohio on April 7, 1967.",
+    "interesting points": "The object was observed for approximately 20 minutes,The UFO was described as having a spherical shape at one point,The object appeared to move at varying speeds, including a crawl and then accelerating to over 100 MPH,No sound was heard during the observation,The sighting was corroborated by at least one other person in a different location at the same time.",
+    "sighted object": "UFO with one white light and two red lights",
+    "location": "Toledo, Ohio, USA",
+    "number of confirmed witnesses": 6,
+    "witness description": "A group that included a male aged 37, two males aged 14 and 13, and a female aged 48, all from Toledo, Ohio.",
+    "contains photographs": false
 }

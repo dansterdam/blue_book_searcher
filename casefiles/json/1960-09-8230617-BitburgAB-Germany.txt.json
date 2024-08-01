@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A luminous object was observed in the sky over Bitburg AB, Germany on September 23, 1960.",
-    "interesting points": [
-        "The object appeared suddenly and was red in color.",
-        "The object's color gradually changed to bright yellow.",
-        "The object's path was momentarily broken and when it reappeared it was red in color.",
-        "The object appeared much larger than a typical shooting star.",
-        "There was no smoke, but numerous sparks were observed."
-    ],
-    "result": "unexplained",
-    "sighted object": "a luminous red and yellow object in the sky",
-    "location": "Bitburg AB, Germany",
-    "witnesses": "military personnel",
-    "photographs": "none"
+    "main event": "On 23 Sep 1960, an object appeared suddenly over Bitburg AB, Germany, which was described as red in color.",
+    "interesting points": "The sighting lasted for 8 minutes,The object was red and disappeared suddenly,Evaluations included possibilities of it being a satellite reentry or a meteor,The sighting was classified under multiple conclusions including astronomical and ground-visual,The report is from Project 10073, which documents UFO sightings.",
+    "sighted object": "a red luminous object",
+    "location": "Bitburg, AB, Germany",
+    "number of confirmed witnesses": 0,
+    "witness description": "not specified",
+    "contains photographs": false
 }

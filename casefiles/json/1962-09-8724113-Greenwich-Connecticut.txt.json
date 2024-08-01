@@ -1,17 +1,9 @@
-Here is the JSON summary for the UFO report:
-
 {
-    "main event": "A bright, silvery, round object was observed moving at a high rate of speed in the sky over Greenwich, Connecticut on September 7, 1962.",
-    "interesting points": [
-        "The object was larger than a star and moved much faster than any airplane the witnesses had seen before.",
-        "The object seemed to change direction slightly, moving from a northerly direction to a northeasterly direction.",
-        "The sighting lasted for approximately 10 minutes.",
-        "The sky was clear at the time, and the object was easily visible against the blue background.",
-        "The witness was a former Naval officer with some experience with aerial phenomena, and stated this sighting was quite different from anything they had observed before."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, silvery, round object",
-    "location": "Greenwich, Connecticut",
-    "witnesses": "the witness and his wife",
-    "photographs": "none"
+    "main event": "A couple observed a bright round silvery object moving in a northerly direction in Greenwich, Connecticut.",
+    "interesting points": "The sighting occurred on September 7, 1962, at approximately 6:15 P.M.,The object was larger than a star and moved at a high speed, much faster than any airplane,The object changed direction slightly, moving in a northeasterly direction,The sky was clear at the time and the object was easily visible against the blue background, The witness is a former Naval officer with experience in aerial phenomena.",
+    "sighted object": "a bright round silvery object in the sky",
+    "location": "Greenwich, Connecticut, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "A couple, including a former Naval officer.",
+    "contains photographs": false
 }

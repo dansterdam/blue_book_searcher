@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A bright light was observed over the ocean off Westhampton Beach, Long Island, New York.",
-    "interesting points": [
-        "The light appeared to be stationary for several minutes, then began to move in a horizontal direction at a high rate of speed.",
-        "The light then stopped suddenly and hovered for about 1 minute before accelerating vertically and disappearing from sight.",
-        "The light was observed to be larger than a star and brighter than the surrounding stars in the sky.",
-        "The sighting was reported to the Suffolk County Police Department and Project Blue Book, U.S. Air Force.",
-        "The report includes several black and white photographs of the nighttime coastal landscape and a bright light or object in the sky."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright light in the sky over the ocean",
+    "main event": "Edward S. Wagner observed a bright light in the sky over the ocean off Westhampton Beach, which appeared stationary before moving horizontally at high speed, then hovering, and finally disappearing vertically.",
+    "interesting points": "The sighting took place at approximately 10:30 PM EDT on a clear night., The light was larger than a star and brighter than the surrounding stars., The sighting was reported to the Suffolk County Police Department and Project Blue Book., The observer was from Hampton Bays, New York., The report was submitted as a confidential document to Project Blue Book, U.S. Air Force.",
+    "sighted object": "a bright light in the sky",
     "location": "Westhampton Beach, Long Island, New York",
-    "witnesses": "Edward S. Wagner, Hampton Bays, New York",
-    "photographs": "yes, the report includes several photographs"
+    "number of confirmed witnesses": 1,
+    "witness description": "Edward S. Wagner from Hampton Bays, New York",
+    "contains photographs": true
 }

@@ -1,15 +1,9 @@
 {
-    "main event": "A possible aircraft sighting was reported by a civilian observer in Santa Maria, California on January 6, 1957.",
-    "interesting points": [
-        "The object was described as having a contradictory shape, being both cigar-shaped and round.",
-        "The object appeared orange in color with a bluish extension, and did not seem to have wings or a tail.",
-        "The object was estimated to be faster than a jet aircraft and at an altitude of 15,000 feet.",
-        "The object was initially observed moving from northeast to south, before fading out.",
-        "The observation lasted for about 23 seconds and was made using binoculars."
-    ],
-    "result": "unknown",
-    "sighted object": "a possible aircraft or unidentified aerial object",
-    "location": "Santa Maria, California",
-    "witnesses": "a civilian observer, a 17-year-old student who was a member of the Ground Observer Corps",
-    "photographs": "no photographs were present in the report"
+    "main event": "A student observed a cigar-shaped object with a bluish extension flying from the northeast to the south in Santa Maria, California on 6 January 1957.",
+    "interesting points": "The object was described as orange in color with a seemingly contradictory shape, both cigar-shaped and like a round ball., The object was estimated to be faster than a jet and flying at an altitude of 15,000 feet., The observation lasted for about 20 seconds., Binoculars were used for better visibility of the object., Several hypotheses were suggested regarding the object's identification, including balloon and aircraft.",
+    "sighted object": "one cigar-shaped object with bluish extension",
+    "location": "Santa Maria, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "17-year-old student and member of GOC",
+    "contains photographs": false
 }

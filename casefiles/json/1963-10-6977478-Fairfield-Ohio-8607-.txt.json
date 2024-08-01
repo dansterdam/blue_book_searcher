@@ -1,17 +1,9 @@
-Here is the JSON summary for the provided UFO report:
-
 {
-    "main event": "A man named Frank J. Winger reported seeing a brightly lighted, circular object hovering in the sky over Fairfield, Ohio on October 6, 1963.",
-    "interesting points": [
-        "The object appeared to be hovering at an altitude of approximately 1,000 feet.",
-        "The object was silent and remained in the same position for several minutes.",
-        "The object then suddenly accelerated at a tremendous rate of speed and disappeared from sight.",
-        "Mr. Winger reported the incident to the Fairfield Police Department and to the Air Force.",
-        "The Air Force investigation found no physical evidence of the sighting and no other witnesses."
-    ],
-    "result": "The Air Force concluded that the object was likely an aircraft, based on its rapid acceleration and disappearance.",
-    "sighted object": "a brightly lighted, circular object",
-    "location": "Fairfield, Ohio",
-    "witnesses": "Frank J. Winger",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "Mr. Frank J. Winger sighted a circular unidentified flying object in Fairfield, Ohio on the evening of October 6, 1963.",
+    "interesting points": "The object was described as brightly lighted and silent, hovering at approximately 1,000 feet,The sighting was reported to the Fairfield Police Department and then to Project Blue Book,An investigation was conducted by Lt. G. C. Moore but no physical evidence was found,Mr. John Smith also reported seeing a pulsating orange light in the eastern sky on the same evening,The object reported by Winger suddenly accelerated and disappeared from sight.",
+    "sighted object": "circular unidentified flying object",
+    "location": "Fairfield, Ohio, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "Mr. Frank J. Winger and Mr. John Smith, residents of Fairfield, Ohio",
+    "contains photographs": false
 }

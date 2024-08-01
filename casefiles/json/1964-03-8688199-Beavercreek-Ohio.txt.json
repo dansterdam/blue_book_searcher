@@ -1,17 +1,9 @@
-Here is the summary of the UFO case file in JSON format:
-
 {
-    "main event": "A stationary object was observed in the sky over Beavercreek, Ohio on March 4, 1964.",
-    "interesting points": [
-        "The object was observed on previous nights as well.",
-        "The object was described as a solid light that just went out.",
-        "The object was in the reported position of the planet Venus, which was lower and setting at the time of the sighting.",
-        "The sighting lasted for about 5 minutes.",
-        "The observer was a civilian who had reported the sighting to the Air Force."
-    ],
-    "result": "astronomical",
-    "sighted object": "a stationary light in the sky",
-    "location": "Beavercreek, Ohio",
-    "witnesses": "a civilian observer",
-    "photographs": "no"
+    "main event": "An unidentified object was observed in Beavercreek, Ohio on March 4, 1964, described as a solid light that went out.",
+    "interesting points": "The sighting lasted for 5 minutes and was described as a stationary object at 30 degrees elevation., The object was reported to be visible on previous nights., The object was concluded to possibly be an astronomical phenomenon., The sighting was originally reported by a civilian., Venus was noted to be in the reported position and was lower and setting at the time of the sighting.",
+    "sighted object": "a solid light in the sky",
+    "location": "Beavercreek, Ohio, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a civilian who reported the sighting",
+    "contains photographs": false
 }

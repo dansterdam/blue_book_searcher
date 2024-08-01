@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Multiple unidentified aerial objects were observed in different locations, including Guam, Spokane, Washington, Daffa in Ireland, and an unspecified location.",
-    "interesting points": [
-        "The objects were described as round, silver, and glowing, with some appearing to revolve around a central axis.",
-        "One object was seen following an aerial balloon, then accelerated and pulled away at a very high speed.",
-        "Another object was silver-blue in color and descending in a low speed.",
-        "One object was observed through a theodolite and was described as round, bright chrome-like in appearance, and larger than a star or planet.",
-        "The objects were observed for varying durations, from a few minutes to up to 25 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "round, silver, glowing objects; silver-blue object; bright chrome-like object",
-    "location": "Guam; Spokane, Washington; Daffa, Ireland; unspecified location",
-    "witnesses": "military personnel, civilian observers",
-    "photographs": "none"
+    "main event": "Observers reported multiple sightings of unidentified aerial objects in various locations from 1952 to 1956.",
+    "interesting points": "The objects were described as round and silver, glowing, and revolving around a central axis., Observations indicated that objects were seen through intermittent clouds., One report mentions an object following an aerial balloon before accelerating away at high speed., Visibility conditions varied, with some reports stating clear weather and unlimited visibility., The sightings were part of a larger investigation by the Project Blue Book program.",
+    "sighted object": "unidentified aerial objects",
+    "location": "Daffa, Ireland; Spokane, Washington, USA; Guam, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "Military observers and weather station personnel",
+    "contains photographs": false
 }

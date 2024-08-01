@@ -1,17 +1,9 @@
-Here is the summary in the requested JSON format:
-
 {
-    "main event": "A civilian witness in Memphis, Tennessee observed a bright, self-luminous object consisting of two discs or domes about the size of a small car on September 30, 1968.",
-    "interesting points": [
-        "The object had two bright white lights with a small red light between them, giving it an elongated appearance.",
-        "The object moved slowly and then suddenly disappeared, seemingly moving away at a tremendous speed.",
-        "There was a pulsating tone or sound in the vicinity that seemed to be emanating from the object.",
-        "The witness had observed similar UFOs on previous occasions, but could not recall the details.",
-        "The object did not appear to move horizontally or vertically to a great extent, but rather just seemed to move away and then disappear."
-    ],
-    "result": "unexplained",
-    "sighted object": "a bright, self-luminous object consisting of two discs or domes",
-    "location": "Memphis, Tennessee",
-    "witnesses": "civilian witness",
-    "photographs": "no"
+    "main event": "A hot air balloon was observed in Memphis, Tennessee on 31 August 1968.",
+    "interesting points": "The object was described as being the size of a Ford tail light., The balloon emitted yellow light and appeared to break up, sending sparks., The sighting lasted for 10 minutes., The course of the balloon was to the southeast., This observation was part of the Project Blue Book records which investigated UFO sightings.",
+    "sighted object": "hot air balloon",
+    "location": "Memphis, Tennessee, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "A civilian male, approximately 30 years old.",
+    "contains photographs": false
 }

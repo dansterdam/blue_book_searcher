@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A possible satellite or other high-altitude object was sighted over the Pacific Ocean.",
-    "interesting points": [
-        "The object was observed to be very bright and luminous, indicating it was at a very high altitude, estimated between 20,000 and 30,000 feet.",
-        "The object was in constant motion, traveling on a constant course.",
-        "The sighting was reported by a military source, specifically the USCGC Winnebago in the Pacific Ocean.",
-        "The report indicates the object may have been related to an Echo satellite, which was on an orbital pass at the time of the sighting.",
-        "The report includes a conclusion that the object was possibly a balloon or aircraft, but there was insufficient data to make a definitive evaluation."
-    ],
-    "result": "inconclusive",
-    "sighted object": "a bright, luminous object",
-    "location": "31-31N 171-52E (Pacific Ocean)",
-    "witnesses": "military personnel aboard the USCGC Winnebago",
-    "photographs": "no, the report does not include any photographs"
+    "main event": "A military observation reported a bright possible satellite on 14 Jan 62, estimated to be at a very high altitude.",
+    "interesting points": "The object was described as very luminous and appeared to be in constant motion,Estimated altitude was between 20,000 to 30,000 feet,The observation was linked to an Echo satellite pass during the same timeframe,There were multiple possible explanations for the sighting such as a balloon, aircraft, or astronomical object,The coordinates of the sighting were 31-39N 171-52E.",
+    "sighted object": "possible satellite",
+    "location": "Coordinate location 31-39N 171-52E",
+    "number of confirmed witnesses": 1,
+    "witness description": "military personnel",
+    "contains photographs": false
 }

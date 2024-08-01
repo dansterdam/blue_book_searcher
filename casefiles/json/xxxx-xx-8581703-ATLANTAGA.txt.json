@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness reported seeing an unidentified flying object as a smoke trail with a gray smoke color in the sky over Atlanta, Georgia in 1952.",
-    "interesting points": [
-        "The object was reported to be traveling at a very fast speed, between 1,200 and 1,500 mph.",
-        "The object made no sound and did not perform any maneuvers.",
-        "The witness claimed to have sighted many unidentified objects in the past and had a friend nearby who corroborated the sighting.",
-        "The report includes details about the wind conditions at the time of the sighting.",
-        "The report indicates that the object was only visible for a few seconds before disappearing from sight."
-    ],
-    "result": "unknown",
-    "sighted object": "smoke trail with gray smoke color",
-    "location": "Atlanta, GA",
-    "witnesses": "1 witness, a former Navy personnel who claimed to have seen many UFOs in the past, and a friend who corroborated the sighting",
-    "photographs": "none"
+    "main event": "An unidentified flying object was reported to the Air Force at 1655EST, described as a smoke trail with gray color, observed in Atlanta, GA.",
+    "interesting points": "The object was reported to travel at a very fast speed of 1200 to 1500 MPH,The observer claimed to have sighted many unidentified objects in the past,There was a corroborating witness present during the sighting,The sighting lasted for a few seconds,The object disappeared from sight and made no sound.",
+    "sighted object": "a gray smoke trail",
+    "location": "Atlanta, Georgia, USA",
+    "number of confirmed witnesses": 2,
+    "witness description": "One witness who served several years in the Navy and a friend who corroborated his story.",
+    "contains photographs": false
 }

@@ -1,17 +1,9 @@
-Here is the JSON summary based on the information provided in the UFO report:
-
 {
-    "main event": "A witness observed a cigar-shaped, granish/blinking object in the sky that moved in a circular pattern and returned to the witness's location.",
-    "interesting points": [
-        "The object was observed for about 2 minutes.",
-        "The object appeared to move slower than an airplane.",
-        "The object was observed on a dark, clear starry night.",
-        "The witness reported the sighting to a local news reporter, who in turn relayed the information to a military officer.",
-        "No cause or reason for the sighting could be determined, and it was not published in local news or broadcast on radio."
-    ],
-    "result": "unexplained",
-    "sighted object": "cigar-shaped, granish/blinking object",
-    "location": "Tucson, Arizona",
-    "witnesses": "civilian observer",
-    "photographs": "no"
+    "main event": "An observer sighted a self-luminous spherical object with red, yellow, and purple hues in Springfield, Massachusetts on March 25, 1967.",
+    "interesting points": "The object was observed for a total duration of 12 minutes,The sighting was made from the ground and the object moved from west to northwest,The case was not submitted for investigation until January 29, 1968,The observer noted that the object did not leave any physical evidence and no photographs were taken,The investigation concluded with insufficient data for evaluation.",
+    "sighted object": "self-luminous spherical object",
+    "location": "Springfield, Massachusetts, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "Sofia Marashovski, who reported the sighting",
+    "contains photographs": false
 }

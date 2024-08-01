@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A staff sergeant at Moody Air Force Base observed an erratically moving, pear-shaped object with a tail that changed color from white to orange to yellow.",
-    "interesting points": [
-        "The object appeared to be of an intense glowing mass, with no visible exhaust or reflection.",
-        "The object was about one-third the size of the moon and seemed to be rotating.",
-        "The object changed course and altitude radically and then disappeared rapidly to the west.",
-        "No noise was heard, and no metal or other substance could be located.",
-        "The observation lasted for 4-5 minutes."
-    ],
-    "result": "unexplained",
-    "sighted object": "pear-shaped object with a tail, glowing and changing color",
-    "location": "Moody Air Force Base, Georgia",
-    "witnesses": "staff sergeant",
-    "photographs": "none"
+    "main event": "A staff-sergeant observed a pear-shaped object with a tail that changed course and altitude radically at Moody AFB.",
+    "interesting points": "The object was of moderate intensity and appeared as an intense glowing mass,Its size was approximately 1/3 of the moon's diameter,The object's color changed from white to orange to yellow during the sighting,It moved erratically and stopped and started without making any noise,The object disappeared to the west after about 4-5 minutes of observation.",
+    "sighted object": "a pear-shaped glowing object",
+    "location": "Moody AFB, Georgia, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "staff-sergeant",
+    "contains photographs": false
 }

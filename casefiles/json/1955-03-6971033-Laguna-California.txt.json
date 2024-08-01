@@ -1,15 +1,9 @@
 {
-    "main event": "On March 15, 1950, a civilian observed a circular silver object drifting overhead.",
-    "interesting points": [
-        "The sighting took place on March 15, 1950.",
-        "The object was described as circular and silver in color.",
-        "It was observed drifting overhead.",
-        "The report is from a civilian source.",
-        "No further details or report are available in the file."
-    ],
-    "result": "unexplained",
+    "main event": "A circular, silver object was observed drifting overhead on 15 March 1950.",
+    "interesting points": "The sighting occurred in the evening,The object was described as circular and silver in color,There are no additional reports or details in the file,The sighting is categorized as a civilian report,The report is part of Project Blue Book documentation.",
     "sighted object": "circular silver object",
-    "location": "unknown",
-    "witnesses": "civilian",
-    "photographs": "no"
+    "location": "Not specified, Unknown, Not specified",
+    "number of confirmed witnesses": 0,
+    "witness description": "Civilian",
+    "contains photographs": false
 }

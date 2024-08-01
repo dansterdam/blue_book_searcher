@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "An oval-shaped object, the size of a silver dollar to a basketball, was observed in the sky over Tower City, Pennsylvania and Millville, New Jersey.",
-    "interesting points": [
-        "The object was green and white in color and looked like a meteor with very bright flashing.",
-        "The object was observed for approximately 3-4 minutes.",
-        "The object moved from north to south in the sky.",
-        "The report includes a sketch or diagram of the object's movement and trajectory.",
-        "The sighting was reported to the Air Force and investigated as part of Project Blue Book."
-    ],
-    "result": "unexplained",
-    "sighted object": "oval-shaped object, green and white in color",
-    "location": "Tower City, Pennsylvania and Millville, New Jersey",
-    "witnesses": "multiple witnesses",
-    "photographs": "no photographs, only a sketch/diagram"
+    "main event": "An oval object, resembling a meteor, was observed in the sky on February 7, 1958.",
+    "interesting points": "The object was described as being the size of a silver dollar to a basketball., The object had a green and white color and emitted bright flashes., The sighting lasted for approximately 3 to 4 minutes., Observers used binoculars for better visual confirmation., The object's course was reported to be from North to South.",
+    "sighted object": "oval object resembling a meteor",
+    "location": "Tower City, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observers reported visual characteristics of the object during its appearance.",
+    "contains photographs": false
 }

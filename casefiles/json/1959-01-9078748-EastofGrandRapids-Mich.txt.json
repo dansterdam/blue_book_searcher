@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A cigar-shaped object with a large brown flame at the end, no sound, was observed for 10 minutes.",
-    "interesting points": [
-        "The object appeared from the northwest and disappeared in the southeast at an altitude of around 18,000 feet.",
-        "The object was observed with the naked eye, with no optical aids used.",
-        "The report mentions several possible explanations for the sighting, including a balloon, aircraft, astronomical object, or a missile.",
-        "Weather conditions at the time included scattered to broken cloud cover up to 6,000-7,000 feet.",
-        "The observer was a radar director who suggested the sighting could have been a shooting star or satellite falling from orbit."
-    ],
-    "result": "unexplained",
-    "sighted object": "cigar-shaped object with a large brown flame at the end",
-    "location": "unknown",
-    "witnesses": "radar director",
-    "photographs": "none"
+    "main event": "An observation of a spherical object with large brown flames at the end was reported on January 28, 1959.",
+    "interesting points": "The object was observed for about 10 minutes,The sighting included large brown flames at the end with no sound,The object appeared to be at 38 degrees above the horizon and disappeared in the southeast,The initial conclusions after the sighting speculated it could be a balloon, aircraft, astronomical object, or meteoroid,The report was part of Project Blue Book, an official US Air Force investigation of unidentified flying objects.",
+    "sighted object": "a spherical object with large brown flames at the end",
+    "location": "unknown, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "The observer glanced out of a window and saw the object.",
+    "contains photographs": false
 }

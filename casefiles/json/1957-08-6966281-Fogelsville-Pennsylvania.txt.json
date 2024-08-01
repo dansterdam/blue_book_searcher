@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "A man and woman driving in a car spotted a large, bright silver-blue disc-shaped object near Fogelsville, Pennsylvania on August 6, 1957.",
-    "interesting points": [
-        "The object was estimated to be 20-40 feet in diameter and 30-40 feet thick.",
-        "The object hovered for 5 minutes at around 9:00 PM local time.",
-        "The witness had radar supervisor experience during the war and was certain he saw a 'flying saucer'.",
-        "The witness called TWA in Allentown, Pennsylvania, who referred him to the Civil Aeronautics Administration (CAA), but they failed to collect the witness's name, address, and phone number.",
-        "The report was submitted without the witness's contact information, so the agency was unable to obtain further information or confirm the details."
-    ],
-    "result": "Inconclusive",
-    "sighted object": "A large, bright silver-blue disc-shaped object",
-    "location": "Near Fogelsville, Pennsylvania",
-    "witnesses": "A man and woman driving in a car",
-    "photographs": "No photographs were included in the report."
+    "main event": "A man reported seeing a bright silver disc hovering in the sky near Fogelsville, Pennsylvania on August 6, 1957.",
+    "interesting points": "The disc was estimated to be 20 to 40 feet in diameter and 30 to 40 feet thick., The sighting lasted for about 5 minutes., The report concluded that the object could possibly be a balloon, missile, aircraft, or astronomical., The witness had experience as a radar supervisor during the war., The report lacked sufficient data for a definitive conclusion.",
+    "sighted object": "bright silver disc",
+    "location": "Fogelsville, Pennsylvania, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "a man with radar supervisor experience",
+    "contains photographs": false
 }

@@ -1,15 +1,9 @@
 {
-	"main event": "An Unidentified Flying Object (UFO) was reported in Oro Grande, California, on March 9th, 1959. The sighting lasted for about 6 to 30 seconds and involved the observation of 5 objects. The conclusion suggested possibilities of the objects being a balloon, aircraft, or astronomical in nature.",
-	"interesting points": [
-		"The object was observed on radar for about 3 to 5 times longer than visually.",
-		"The sighting occurred at approximately 0400 hrs.",
-		"The description of the object indicated a shallow, bell-shaped, non-solid, and strangely shaped appearance.",
-		"The object emitted white sparks or fragments and appeared to descend rapidly.",
-		"The observation mentioned that the object maintained a consistent elevation and position without noticeable change in altitude or direction of flight."
-	],
-	"result": "Possibly a meteorite or satellite, as suggested by the description of the object's behavior and appearance.",
-	"sighted object": "Shallow, bell-shaped, non-solid, strangely shaped object emitting white sparks or fragments.",
-	"location": "Oro Grande, California",
-	"witnesses": "Randolph H. Pestatozzi, Captain, USAF, and unnamed others, including his wife.",
-	"photographs": "No photographs included in the report."
+    "main event": "A UFO was sighted in Oro Grande, California on March 9, 1959, observed on radar and visually.",
+    "interesting points": "The sighting involved 5 objects that descended rapidly and emitted white sparks., The object was tracked on radar for longer than it was visually observed., An Air Force Captain reported the sighting and conducted an investigation., The object appeared bell-shaped, with a dull white color and jagged edges., The sighting lasted approximately 5-10 minutes without any apparent sound.",
+    "sighted object": "bell-shaped object emitting white sparks",
+    "location": "Oro Grande, California, USA",
+    "number of confirmed witnesses": 1,
+    "witness description": "housewife who observed the object from her bedroom window",
+    "contains photographs": false
 }

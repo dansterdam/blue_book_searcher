@@ -1,17 +1,9 @@
-Here is the JSON summary of the UFO report:
-
 {
-    "main event": "Three star-shaped objects were observed in the sky over Portland, Oregon on March 6, 1961.",
-    "interesting points": [
-        "The objects were described as being the size of a dime, white in color, and extremely bright.",
-        "The objects exhibited jerky, 25-minute movements and then faded away.",
-        "The sighting was observed by multiple witnesses, including a 25-year-old foundry worker and a 15-year-old student.",
-        "The objects were initially thought to be related to the Echo 1 satellite, but further investigation could not confirm this.",
-        "A separate sighting of a bright red and white object with a tapered tail was also reported in the same general area."
-    ],
-    "result": "unexplained",
-    "sighted object": "three star-shaped, bright white objects",
-    "location": "Portland, Oregon",
-    "witnesses": "multiple civilian observers",
-    "photographs": "none"
+    "main event": "Observation of three unidentified objects in Portland, Oregon on March 6, 1961.",
+    "interesting points": "The sighting lasted for 9 minutes, The objects were described as larger and much brighter than stars, The objects were related out of sight at about 45-50 degrees above the southeast horizon, The sighting was corroborated by two other individuals within 10 minutes of each other, The objects were later identified as Echo 1 through Space Track.",
+    "sighted object": "three unidentified flying objects",
+    "location": "Portland, Oregon, USA",
+    "number of confirmed witnesses": 3,
+    "witness description": "One was a 25-year-old foundry worker and another was a 15-year-old student.",
+    "contains photographs": false
 }
