@@ -9,8 +9,11 @@ class Case(models.Model):
     title = models.TextField(default="")
     summary = models.TextField(default="")
     location = models.TextField(default="")
-    type = models.TextField(default="")
-    witnesses = models.TextField(default="")
+    date = models.CharField()
+    interesting_points = models.TextField(default="")
+    sighted_object = models.TextField(default="")
+    number_of_witnesses = models.TextField(default="")
+    witness_description = models.TextField(default="")
     text_content = models.TextField()
     pdf = models.FileField(storage=S3Boto3Storage())
 

@@ -55,12 +55,18 @@ class Command(BaseCommand):
                             title=json_filename,
                             summary=metadata.get("main event", ""),
                             location=metadata.get("location", ""),
-                            type=metadata.get("result", ""),
-                            witnesses=metadata.get("witnesses", ""),
+                            interesting_points=metadata.get("interesting points", ""),
+                            date=json_filename[:7],
+                            sighted_object=metadata.get("sighted object", ""),
+                            number_of_witnesses=metadata.get(
+                                "number of confirmed witnesses", ""
+                            ),
+                            witness_description=metadata.get("witness description", ""),
                             text_content=text_content,
                             pdf=pdf_filename,
                         )
                     )
+
                 except FileNotFoundError:
                     print(f"File not found: {json_filename}")
                 except Exception as e:
