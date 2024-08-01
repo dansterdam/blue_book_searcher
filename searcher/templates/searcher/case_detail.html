@@ -1,9 +1,9 @@
 {% load custom_filters %}
 <!DOCTYPE html>
 <html>
-<head>
-    <title>{{ case.title }}</title>
-    <style>
+    <head>
+        <title>{{ case.title }}</title>
+        <style>
         body {
             font-family: Arial, sans-serif;
             color: #e0e0e0;
@@ -109,7 +109,7 @@
         }
         .pdf-viewer {
             width: 100%;
-            height: 600px;
+            height: 100%%;
             border: none;
             margin-top: 20px;
             border-radius: 10px;
@@ -135,47 +135,77 @@
             white-space: pre-wrap; /* Wraps long lines */
             word-wrap: break-word; /* Breaks long words */
         }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Sidebar -->
-        <div class="sidebar {% if not show_sidebar %}hidden-sidebar{% endif %}" id="sidebar">
-            {% if show_sidebar %}
-            <h2>Case Details</h2>
-            <p><strong>Location:</strong> {{ case.location }}</p>
-            <p><strong>Type:</strong> {{ case.type }}</p>
-            <p><strong>Witnesses:</strong> {{ case.witnesses }}</p>
-            <div class="view-toggle">
-                {% if view_type == 'pdf' %}
-                    <button onclick="window.location.href='?view=txt'">👽 View AI Parsed Text</button>
-                {% elif view_type == 'txt' %}
-                    <button onclick="window.location.href='?view=pdf'">🛸 View PDF</button>
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <!-- Sidebar -->
+            <div class="sidebar {% if not show_sidebar %}hidden-sidebar{% endif %}"
+                 id="sidebar">
+                {% if show_sidebar %}
+                    <h2>Case Details</h2>
+                    <p>
+                        <strong>Location:</strong> {{ case.location }}
+                    </p>
+                    <p>
+                        <strong>Type:</strong> {{ case.type }}
+                    </p>
+                    <p>
+                        <strong>Witnesses:</strong> {{ case.witnesses }}
+                    </p>
+                    <div class="view-toggle">
+                        {% if view_type == 'pdf' %}
+                            <button onclick="window.location.href='?view=txt'">👽 View AI Parsed Text</button>
+                        {% elif view_type == 'txt' %}
+                            <button onclick="window.location.href='?view=pdf'">🛸 View PDF</button>
+                        {% endif %}
+                    </div>
+                {% else %}
+                    <h4>show sidebar</h4>
                 {% endif %}
             </div>
-            {% else %}
-            <h4>show sidebar</h4>
-            {% endif %}
+            <!-- Main Content -->
+            <div class="content {% if not show_sidebar %}extended-content{% endif %}">
+                <h1>{{ case.title }}</h1>
+                {% if view_type == 'pdf' %}
+                    <!-- PDF Viewer -->
+                    <iframe id="pdf-viewer"
+                            class="pdf-viewer"
+                            src="{{ case.get_pdf_url }}#page={{ page }}"
+                            type="application/pdf"></iframe>
+                {% elif view_type == 'txt' %}
+                    <!-- Text Content -->
+                    <h5>
+                        <i>⚠️Beware: ai parsed text contains mistakes⚠️</i>
+                    </h5>
+                    <div class="text-content">
+                        <pre>{{ case.text_content|linebreaksbr|page_links:case.id|safe }}</pre>
+                    </div>
+                {% endif %}
+            </div>
         </div>
-        <!-- Main Content -->
-        <div class="content {% if not show_sidebar %}extended-content{% endif %}">
-            <h1>{{ case.title }} </h1>
-            {% if view_type == 'pdf' %}
-                <!-- PDF Viewer -->
-                <object data="{{ case.get_pdf_url }}" type="application/pdf" width="600" height="800">
-                    <p>Your browser does not support PDFs.</p>
-                </object>
-            {% elif view_type == 'txt' %}
-                <!-- Text Content -->
-                <h5><i>⚠️Beware: ai parsed text contains mistakes⚠️</i></h5>
-                <div class="text-content">
-                    <pre>{{ case.text_content|linebreaksbr|page_links:case.id|safe }}</pre>
-                </div>
-            {% endif %}
-        </div>
-    </div>
-</body>
-<script>
+    </body>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (!urlParams.has('sidebar')) {
+            urlParams.set('sidebar', 'true');
+            window.location.search = urlParams.toString();
+        }
+        
+        const page = urlParams.get('page') || 1; // Default to page 1 if not specified
+        const iframe = document.getElementById('pdf-viewer');
+        if (iframe) {
+            iframe.src = iframe.src.split('#')[0] + `#page=${page}`;
+        }
+
+        document.getElementById('sidebar').addEventListener('click', function(event) {
+            if (event.target.tagName.toLowerCase() !== 'button') {
+                toggleSidebar();
+            }
+        });
+    });
+
     function toggleSidebar() {
         const urlParams = new URLSearchParams(window.location.search);
         const showSidebar = urlParams.get('sidebar') === 'true';
@@ -189,30 +219,5 @@
         urlParams.set('view', viewType);
         window.location.search = urlParams.toString();
     }
-
-    function showPage(page) {
-        const pdfViewer = document.querySelector('.pdf-viewer');
-        const pdfUrl = pdfViewer.getAttribute('data').split('#')[0];
-        pdfViewer.setAttribute('data', `${pdfUrl}#page=${page}`);
-    }
-
-    document.addEventListener('DOMContentLoaded', () => {
-        const urlParams = new URLSearchParams(window.location.search);
-        if (!urlParams.has('sidebar')) {
-            urlParams.set('sidebar', 'true'); // Set default value
-            window.location.search = urlParams.toString();
-        }
-
-        const page = urlParams.get('page');
-        if (page) {
-            showPage(page);
-        }
-        
-        document.getElementById('sidebar').addEventListener('click', function(event) {
-            if (event.target.tagName.toLowerCase() !== 'button') {
-                toggleSidebar();
-            }
-        });
-    });
-</script>
+    </script>
 </html>
