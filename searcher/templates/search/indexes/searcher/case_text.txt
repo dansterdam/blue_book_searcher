@@ -2,5 +2,5 @@
 {{ object.text_content }}
 {{ object.title }}
 {{ object.location }}
-{{ object.type }}
+{{ object.date }}
 {{ object.witnesses }}

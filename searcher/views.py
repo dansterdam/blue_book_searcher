@@ -82,8 +82,8 @@ def search_view(request):
                     "summary": case.summary,
                     "url": case.get_absolute_url(),
                     "location": case.location,
-                    "type": case.type,
-                    "witnesses": case.witnesses,
+                    "date": case.date,
+                    "witness_description": case.witness_description,
                     "content": preview,
                     "pdf": case.get_pdf_url(),
                 }
