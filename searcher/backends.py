@@ -8,7 +8,7 @@ class CustomElasticsearchSearchBackend(ElasticsearchSearchBackend):
 
     def setup_index(self):
         es = connections.get_connection()
-        index_name = 'blue_book_searcher'
+        index_name = 'haystack'
 
         index_body = {
             "settings": {
