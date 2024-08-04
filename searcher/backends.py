@@ -1,11 +1,9 @@
-# your_app/backends.py
-
 from haystack.backends.elasticsearch_backend import ElasticsearchSearchBackend
 from elasticsearch_dsl import connections
 
 class CustomElasticsearchSearchBackend(ElasticsearchSearchBackend):
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
+    def __init__(self, connection_alias, **kwargs):
+        super().__init__(connection_alias, **kwargs)
         self.setup_custom_index()
 
     def setup_index(self):
