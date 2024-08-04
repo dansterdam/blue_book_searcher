@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 from pathlib import Path
 import os
 import dj_database_url
+from elasticsearch_dsl.connections import connections
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -52,6 +53,11 @@ HAYSTACK_CONNECTIONS = {
         "INDEX_NAME": "haystack",
     },
 }
+
+connections.create_connection(
+    alias='default',
+    hosts=[os.environ.get("BONSAI_URL")]
+)
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
