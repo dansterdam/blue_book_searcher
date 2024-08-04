@@ -26,9 +26,9 @@ SECRET_KEY = os.environ.get(
 )
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = "False"
+DEBUG = False
 
-ALLOWED_HOSTS = ["blue-book-searcher-76416a8c1017.herokuapp.com"]
+ALLOWED_HOSTS = ["theflyingsaucerfiles.com","blue-book-searcher-76416a8c1017.herokuapp.com"]
 
 # Application definition
 
