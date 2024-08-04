@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from your_app.backends import CustomElasticsearchSearchBackend
+from searcher.backends import CustomElasticsearchSearchBackend
 
 class Command(BaseCommand):
     help = 'Setup the Elasticsearch index'
