@@ -4,7 +4,7 @@ from elasticsearch_dsl import connections
 class CustomElasticsearchSearchBackend(ElasticsearchSearchBackend):
     def __init__(self, connection_alias, **kwargs):
         super().__init__(connection_alias, **kwargs)
-        self.setup_custom_index()
+        self.setup_index()
 
     def setup_index(self):
         es = connections.get_connection()
