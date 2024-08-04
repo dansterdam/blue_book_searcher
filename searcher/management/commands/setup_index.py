@@ -5,7 +5,7 @@ class Command(BaseCommand):
     help = 'Setup the Elasticsearch index'
 
     def handle(self, *args, **kwargs):
-        connection_alias = 'default'  # Adjust if you have a different alias
+        connection_alias = 'default'  # Using the default connection alias
         backend = CustomElasticsearchSearchBackend(connection_alias)
         backend.setup_index()
         self.stdout.write(self.style.SUCCESS('Index setup complete'))
