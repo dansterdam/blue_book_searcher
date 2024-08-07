@@ -66,7 +66,7 @@ def search_view(request):
     if query:
         filters &= Q(text_content__icontains=query) | Q(title__icontains=query) | Q(location__icontains=query) | Q(witness_description__icontains=query)
     if text_content:
-        filters &= Q(text_content__icontains=text_content)
+        filters &= Q(text_content__icontains=text_content) | Q(summary__icontains=text_content)
     if date:
         filters &= Q(title__icontains=date)
     if location:

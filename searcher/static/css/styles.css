@@ -174,31 +174,35 @@ a:hover {
 }
 
 
-.search-form label {
-    display: block;
-    margin-bottom: 5px;
+.search-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
 }
 
-.search-form input[type="text"] {
-    width: 100%;
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.form-group label {
+    width: 150px; /* Set a fixed width for labels */
+    margin-right: 10px;
+}
+
+.form-group input[type="text"],
+.form-group input[type="month"] {
+    flex: 1;
     padding: 10px;
     margin-bottom: 10px;
 }
 
 .search-form button {
-    display: block;
-    width: 100%;
     padding: 10px;
     background: #333;
     color: white;
     border: none;
-    cursor: pointer;
-}
-
-.search-form button {
-    background-color: #B9A6D1;
-    /* Gentle purple button */
-    color: #fff;
     cursor: pointer;
 }
 
