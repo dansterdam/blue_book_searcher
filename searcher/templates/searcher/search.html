@@ -19,23 +19,19 @@
         
         <form method="GET" action="" class="search-form" onsubmit="showLoadingIndicator()">
             <div class="form-group">
-                <label for="text-content">Text Content</label>
                 <input type="text" id="text-content" name="text_content" value="{{ text_content }}" placeholder="Search text content...">
             </div>
             <div class="form-group">
-                <label for="date-range">Date Range</label>
                 <div class="date-range">
-                    <input type="date" id="start-date" name="start_date" value="{{ start_date }}">
+                    <input type="month" id="start-date" name="start_date" value="{{ start_date }}">
                     <label for="end-date">to</label>
-                    <input type="date" id="end-date" name="end_date" value="{{ end_date }}">
+                    <input type="month" id="end-date" name="end_date" value="{{ end_date }}">
                 </div>
             </div>
             <div class="form-group">
-                <label for="location">Location    </label>
                 <input type="text" id="location" name="location" value="{{ location }}" placeholder="Search location...">
             </div>
             <div class="form-group">
-                <label for="witnesses">Witnesses   </label>
                 <input type="text" id="witnesses" name="witnesses" value="{{ witness_description }}" placeholder="Search witnesses...">
             </div>
             <button type="submit">Search</button>
