@@ -32,7 +32,7 @@
             </div>
             <div class="form-group">
                 <label for="witnesses">Witnesses   </label>
-                <input type="text" id="witnesses" name="witnesses" value="{{ witnesses }}" placeholder="Search witnesses...">
+                <input type="text" id="witnesses" name="witnesses" value="{{ witness_description }}" placeholder="Search witnesses...">
             </div>
             <button type="submit">Search</button>
         </form>
@@ -48,8 +48,8 @@
                         <div class="card-body">
                             <p><strong>Summary:</strong> {{ result.summary }}</p>
                             <p><strong>Location:</strong> {{ result.location }} 📍</p>
-                            <p><strong>Type:</strong> {{ result.type }} 🔍</p>
-                            <p><strong>Witnesses:</strong> {{ result.witnesses }} 🕵️‍♂️</p>
+                            <p><strong>Date:</strong> {{ result.date }} 🔍</p>
+                            <p><strong>Witnesses:</strong> {{ result.witness_description }} 🕵️‍♂️</p>
                             <p class="highlighted-content">
                                 {% if result.content %}
                                     {{ result.content|safe }}
