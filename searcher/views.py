@@ -53,51 +53,63 @@ def highlight_text(text, query, context=30, snippet_count=2):
 
 def search_view(request):
     query = request.GET.get("q", "").strip()
-    field = request.GET.get("field", "").strip()
+    text_content = request.GET.get("text_content", "").strip()
+    date = request.GET.get("date", "").strip()
+    location = request.GET.get("location", "").strip()
+    witness_description = request.GET.get("witness_description", "").strip()
 
     highlighted_results = []
     no_query_message = "Please enter a search term to see results."
 
+    # Build the Q object based on provided fields
+    filters = Q()
     if query:
-        if field == "title":
-            results = Case.objects.filter(Q(title__icontains=query))
-        elif field == "location":
-            results = Case.objects.filter(Q(location__icontains=query))
-        elif field == "witnesses":
-            results = Case.objects.filter(Q(witnesses__icontains=query))
+        filters &= Q(text_content__icontains=query) | Q(title__icontains=query) | Q(location__icontains=query) | Q(witness_description__icontains=query)
+    if text_content:
+        filters &= Q(text_content__icontains=text_content)
+    if date:
+        filters &= Q(title__icontains=date)
+    if location:
+        filters &= Q(location__icontains=location)
+    if witness_description:
+        filters &= Q(witness_description__icontains=witness_description)
 
-        else:
-            results = Case.objects.filter(text_content__icontains=query)
+    # Fetch the results based on the combined filters
+    if filters:
+        results = Case.objects.filter(filters)
+    else:
+        results = []
 
-        for case in results:
-            # Get a larger slice of text content to ensure the term is included
-            full_text = case.text_content
-            if field == "text_content":
-                preview = highlight_text(full_text, query)
-            else:
-                preview = ""
-            highlighted_results.append(
-                {
-                    "title": case.title,
-                    "summary": case.summary,
-                    "url": case.get_absolute_url(),
-                    "location": case.location,
-                    "date": case.date,
-                    "witness_description": case.witness_description,
-                    "content": preview,
-                    "pdf": case.get_pdf_url(),
-                }
-            )
+    for case in results:
+        full_text = case.text_content
+        preview = ""
+        if text_content:
+            preview = highlight_text(full_text, text_content)
+        highlighted_results.append(
+            {
+                "title": case.title,
+                "summary": case.summary,
+                "url": case.get_absolute_url(),
+                "location": case.location,
+                "date": case.date,
+                "witness_description": case.witness_description,
+                "content": preview,
+                "pdf": case.get_pdf_url(),
+            }
+        )
 
     return render(
         request,
         "searcher/search.html",
         {
             "results": highlighted_results,
-            "field": field,
             "query": query,
+            "text_content": text_content,
+            "date": date,
+            "location": location,
+            "witness_description": witness_description,
             "result_count": len(highlighted_results),
-            "no_query_message": no_query_message if not query else "",
+            "no_query_message": no_query_message if not (query or text_content or date or location or witness_description) else "",
         },
     )
 
