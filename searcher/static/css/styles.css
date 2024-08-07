@@ -174,26 +174,25 @@ a:hover {
 }
 
 
-.search-form {
-    margin-bottom: 20px;
-    background-color: #3F1D6A;
-    /* Muted dark purple background */
-    padding: 10px;
-    border-radius: 5px;
+.search-form label {
+    display: block;
+    margin-bottom: 5px;
 }
 
-.search-form input,
-.search-form select,
+.search-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
 .search-form button {
+    display: block;
+    width: 100%;
     padding: 10px;
-    margin-right: 10px;
+    background: #333;
+    color: white;
     border: none;
-    border-radius: 5px;
-}
-
-.search-form input,
-.search-form select {
-    width: 200px;
+    cursor: pointer;
 }
 
 .search-form button {

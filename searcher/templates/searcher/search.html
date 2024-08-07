@@ -12,29 +12,31 @@
         <div class="saucer">🛸</div>
     </div>
     <div class="container">
+        <header class="header">
+            <h1>The Flying Saucer Files</h1>
+            <p>Welcome to the first searchable database of Project Blue Book, Sign, and Grudge UFO casefiles!</p>
+        </header>
+        
         <form method="GET" action="" class="search-form" onsubmit="showLoadingIndicator()">
-            <div>
-                <label for="query">Search</label>
-                <input type="text" id="query" name="q" value="{{ query }}" placeholder="Search...">
-            </div>
-            <div>
+            <div class="form-group">
                 <label for="text-content">Text Content</label>
                 <input type="text" id="text-content" name="text_content" value="{{ text_content }}" placeholder="Search text content...">
             </div>
-            <div>
+            <div class="form-group">
                 <label for="title">Title</label>
                 <input type="text" id="title" name="title" value="{{ title }}" placeholder="Search title...">
             </div>
-            <div>
+            <div class="form-group">
                 <label for="location">Location</label>
                 <input type="text" id="location" name="location" value="{{ location }}" placeholder="Search location...">
             </div>
-            <div>
+            <div class="form-group">
                 <label for="witnesses">Witnesses</label>
                 <input type="text" id="witnesses" name="witnesses" value="{{ witnesses }}" placeholder="Search witnesses...">
             </div>
             <button type="submit">Search</button>
         </form>
+
         {% if results %}
             <h2>{{ result_count }} search results for "{{ query }}"</h2>
             <div class="card-container">
