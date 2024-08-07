@@ -57,6 +57,8 @@ def search_view(request):
     date = request.GET.get("date", "").strip()
     location = request.GET.get("location", "").strip()
     witness_description = request.GET.get("witness_description", "").strip()
+    start_date = request.GET.get("start_date", "")
+    end_date = request.GET.get("end_date", "")
 
     highlighted_results = []
     no_query_message = "Please enter a search term to see results."
@@ -67,8 +69,8 @@ def search_view(request):
         filters &= Q(text_content__icontains=query) | Q(title__icontains=query) | Q(location__icontains=query) | Q(witness_description__icontains=query)
     if text_content:
         filters &= Q(text_content__icontains=text_content) | Q(summary__icontains=text_content)
-    if date:
-        filters &= Q(title__icontains=date)
+    if start_date and end_date:
+        filters &= Q(date__range=[start_date, end_date])
     if location:
         filters &= Q(location__icontains=location)
     if witness_description:

@@ -23,8 +23,13 @@
                 <input type="text" id="text-content" name="text_content" value="{{ text_content }}" placeholder="Search text content...">
             </div>
             <div class="form-group">
-                <label for="date">Date:yyyy-mm</label>
-                <input type="month" id="date" name="date" value="{{ date }}">
+                <label for="date-range">Date Range</label>
+                <div class="date-range">
+                    <label for="start-date">Start Date</label>
+                    <input type="date" id="start-date" name="start_date" value="{{ start_date }}">
+                    <label for="end-date">End Date</label>
+                    <input type="date" id="end-date" name="end_date" value="{{ end_date }}">
+                </div>
             </div>
             <div class="form-group">
                 <label for="location">Location    </label>
