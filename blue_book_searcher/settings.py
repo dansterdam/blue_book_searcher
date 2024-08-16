@@ -56,7 +56,7 @@ HAYSTACK_CONNECTIONS = {
 
 connections.create_connection(
     alias='default',
-    hosts=[os.environ.get("BONSAI_URL")]
+    hosts=[os.environ.get("AWS_EC2_URL")]
 )
 
 MIDDLEWARE = [
