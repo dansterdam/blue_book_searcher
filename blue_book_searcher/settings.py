@@ -54,11 +54,6 @@ HAYSTACK_CONNECTIONS = {
     },
 }
 
-connections.create_connection(
-    alias='default',
-    hosts=[os.environ.get("SEARCHBOX_URL")]
-)
-
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
     "whitenoise.middleware.WhiteNoiseMiddleware",  # Whitenoise middleware
