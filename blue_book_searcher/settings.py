@@ -49,14 +49,14 @@ INSTALLED_APPS = [
 HAYSTACK_CONNECTIONS = {
     "default": {
         "ENGINE": "haystack.backends.elasticsearch7_backend.Elasticsearch7SearchEngine",
-        "URL": os.environ.get("BONSAI_URL"),
+        "URL": os.environ.get("SEARCHBOX_URL"),
         "INDEX_NAME": "haystack",
     },
 }
 
 connections.create_connection(
     alias='default',
-    hosts=[os.environ.get("AWS_EC2_URL")]
+    hosts=[os.environ.get("SEARCHBOX_URL")]
 )
 
 MIDDLEWARE = [
