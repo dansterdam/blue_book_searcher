@@ -1,0 +1,274 @@
+---
+// Single static case viewer page — data loaded client-side from /data/cases/<id>.json
+// URL pattern: /case?id=<slug>
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Case File"
+  description="Project Blue Book case file — declassified USAF UFO investigation record"
+>
+  <!-- Loading state (shown until JS runs) -->
+  <div id="loading-state" class="max-w-5xl mx-auto px-4 py-20 text-center">
+    <div class="font-typewriter text-dossier-amber text-2xl animate-pulse mb-3">
+      ACCESSING SECURE ARCHIVE
+    </div>
+    <div class="font-mono text-dossier-muted text-sm">
+      Retrieving declassified case file...
+    </div>
+    <div class="mt-6 flex justify-center gap-1">
+      {Array.from({length: 12}).map((_, i) => (
+        <div class="w-1 h-6 bg-dossier-amber/30 rounded" style={`animation: pulse 1.5s ease-in-out ${i * 0.1}s infinite`}></div>
+      ))}
+    </div>
+  </div>
+
+  <!-- Error state -->
+  <div id="error-state" class="hidden max-w-2xl mx-auto px-4 py-24 text-center">
+    <div class="inline-block border-2 border-dossier-red px-4 py-1 mb-6">
+      <span class="font-mono text-dossier-red text-xs tracking-[0.4em] uppercase font-bold">FILE NOT FOUND</span>
+    </div>
+    <h1 class="font-typewriter text-4xl text-dossier-amber mb-4">Case Unavailable</h1>
+    <p id="error-message" class="font-mono text-dossier-muted text-sm mb-8">This case file could not be located.</p>
+    <div class="flex justify-center gap-4">
+      <a href="/search" class="font-mono text-sm border border-dossier-border text-dossier-muted px-4 py-2 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">
+        ← Search archive
+      </a>
+      <a href="/" class="font-mono text-sm border border-dossier-border text-dossier-muted px-4 py-2 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">
+        ← Home
+      </a>
+    </div>
+  </div>
+
+  <!-- Case content (hidden until loaded) -->
+  <div id="case-view" class="hidden max-w-5xl mx-auto px-4 py-8">
+
+    <!-- Breadcrumb -->
+    <div class="flex items-center gap-2 font-mono text-xs text-dossier-muted mb-6">
+      <a href="/" class="hover:text-dossier-amber transition-colors">Home</a>
+      <span>/</span>
+      <a href="/search" class="hover:text-dossier-amber transition-colors">Search</a>
+      <span>/</span>
+      <span id="crumb-slug" class="text-dossier-text truncate max-w-xs"></span>
+    </div>
+
+    <!-- Case header card -->
+    <div class="bg-dossier-surface border border-dossier-border rounded-t border-b-0 p-6 relative overflow-hidden">
+      <div class="absolute top-0 left-0 w-6 h-6 border-r border-b border-dossier-amber/30"></div>
+      <div class="absolute top-0 right-0 w-6 h-6 border-l border-b border-dossier-amber/30"></div>
+
+      <!-- Classification + photo badges -->
+      <div class="flex items-center justify-between mb-5 flex-wrap gap-2">
+        <div class="flex items-center gap-2 flex-wrap">
+          <span class="font-mono text-xs border border-dossier-red text-dossier-red px-2 py-0.5 rounded" style="transform: rotate(-0.5deg); display: inline-block">DECLASSIFIED</span>
+          <span class="font-mono text-xs text-dossier-muted">AIR FORCE FORM 112 · PROJECT 10073</span>
+        </div>
+        <span id="photo-badge" class="hidden font-mono text-xs bg-dossier-green/10 text-dossier-green-bright border border-dossier-green/30 px-2 py-0.5 rounded">📷 PHOTOGRAPHIC EVIDENCE</span>
+      </div>
+
+      <!-- Key metadata grid -->
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+        <div class="border border-dossier-border rounded p-3 text-center">
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-1">Date</div>
+          <div id="meta-date" class="font-typewriter text-dossier-amber text-lg leading-none"></div>
+        </div>
+        <div class="border border-dossier-border rounded p-3 text-center">
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-1">Location</div>
+          <div id="meta-location" class="font-mono text-dossier-text text-xs leading-snug"></div>
+        </div>
+        <div class="border border-dossier-border rounded p-3 text-center">
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-1">Witnesses</div>
+          <div id="meta-witnesses" class="font-typewriter text-dossier-amber text-lg leading-none">—</div>
+        </div>
+        <div class="border border-dossier-border rounded p-3 text-center">
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-1">Case ID</div>
+          <div id="meta-case-id" class="font-mono text-dossier-text text-xs break-all leading-snug"></div>
+        </div>
+      </div>
+
+      <!-- Summary -->
+      <div class="mb-4">
+        <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-2">Summary</div>
+        <p id="meta-summary" class="font-mono text-dossier-text-bright text-sm leading-relaxed"></p>
+      </div>
+
+      <!-- Object type -->
+      <div id="object-row" class="hidden">
+        <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-2">Sighted Object</div>
+        <span id="meta-object" class="inline-block font-mono text-sm bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-3 py-1 rounded"></span>
+      </div>
+    </div>
+
+    <!-- Body: sidebar + document text -->
+    <div class="grid lg:grid-cols-3 border border-dossier-border rounded-b overflow-hidden">
+
+      <!-- Metadata sidebar -->
+      <div class="bg-dossier-surface border-r border-dossier-border p-5 space-y-5">
+
+        <!-- Witness description -->
+        <div>
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-2 flex items-center gap-2">
+            <div class="w-2 h-px bg-dossier-amber"></div>Witness Details
+          </div>
+          <p id="meta-witness-desc" class="font-mono text-dossier-text text-xs leading-relaxed"></p>
+        </div>
+
+        <!-- Interesting points -->
+        <div id="points-section" class="hidden">
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-2 flex items-center gap-2">
+            <div class="w-2 h-px bg-dossier-amber"></div>Notable Points
+          </div>
+          <ul id="meta-points" class="space-y-2"></ul>
+        </div>
+
+        <!-- AF Conclusion -->
+        <div id="conclusion-section" class="hidden">
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-2 flex items-center gap-2">
+            <div class="w-2 h-px bg-dossier-amber"></div>AF Conclusion
+          </div>
+          <div id="meta-conclusion" class="font-mono text-xs text-dossier-text bg-dossier-bg border border-dossier-border rounded p-3 leading-relaxed"></div>
+        </div>
+
+        <!-- Navigation links (filled by JS) -->
+        <div id="nav-links" class="pt-4 border-t border-dossier-border space-y-2">
+          <a href="/search" class="block font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors">← Back to search</a>
+          <a id="nav-year" href="/browse" class="block font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors"></a>
+          <a id="nav-state" href="/browse" class="block font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors hidden"></a>
+        </div>
+      </div>
+
+      <!-- Full transcript -->
+      <div class="lg:col-span-2 bg-dossier-bg flex flex-col">
+        <div class="flex items-center justify-between px-4 py-3 border-b border-dossier-border bg-dossier-surface shrink-0">
+          <span class="font-mono text-xs text-dossier-muted uppercase tracking-wider">Original Document Transcript</span>
+          <button id="copy-btn" class="font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors cursor-pointer">Copy text</button>
+        </div>
+        <div class="flex-1 p-5 overflow-auto">
+          <pre id="transcript" class="font-mono text-dossier-text text-xs leading-relaxed whitespace-pre-wrap break-words min-h-64"></pre>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</BaseLayout>
+
+<script>
+interface CaseData {
+  id: string;
+  filename: string;
+  case_id: string;
+  date: string;
+  year: number | null;
+  month: string;
+  location: string;
+  state: string;
+  summary: string;
+  interesting_points: string;
+  sighted_object: string;
+  witnesses: number | null;
+  witness_description: string;
+  contains_photographs: boolean;
+  conclusion: string;
+  text_content: string;
+  has_json: boolean;
+}
+
+function show(id: string) { document.getElementById(id)?.classList.remove('hidden'); }
+function hide(id: string) { document.getElementById(id)?.classList.add('hidden'); }
+function set(id: string, text: string) { const el = document.getElementById(id); if (el) el.textContent = text; }
+
+async function loadCase() {
+  const params = new URLSearchParams(window.location.search);
+  const caseId = params.get('id');
+
+  if (!caseId) {
+    hide('loading-state');
+    set('error-message', 'No case ID provided. Return to search to find a case.');
+    show('error-state');
+    return;
+  }
+
+  try {
+    const res = await fetch(`/data/cases/${encodeURIComponent(caseId)}.json`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const c: CaseData = await res.json();
+
+    // Update page title and URL
+    document.title = `${c.date} · ${c.location} — Project Blue Book Archive`;
+
+    // Populate metadata
+    set('crumb-slug', c.id);
+    set('meta-date', c.date);
+    set('meta-location', c.location);
+    set('meta-witnesses', c.witnesses !== null && c.witnesses !== undefined ? String(c.witnesses) : '—');
+    set('meta-case-id', c.case_id);
+    set('meta-summary', c.summary || 'No summary available.');
+    set('meta-witness-desc', c.witness_description || 'Not reported.');
+
+    if (c.contains_photographs) show('photo-badge');
+
+    if (c.sighted_object) {
+      show('object-row');
+      set('meta-object', c.sighted_object);
+    }
+
+    if (c.conclusion) {
+      show('conclusion-section');
+      set('meta-conclusion', c.conclusion);
+    }
+
+    if (c.interesting_points) {
+      const points = c.interesting_points
+        .split(/[,\.]\s+(?=[A-Z])/)
+        .filter((p: string) => p.trim().length > 5);
+      if (points.length > 0) {
+        show('points-section');
+        const ul = document.getElementById('meta-points')!;
+        points.forEach((point: string) => {
+          const li = document.createElement('li');
+          li.className = 'font-mono text-xs text-dossier-text leading-relaxed flex gap-2';
+          li.innerHTML = `<span class="text-dossier-amber shrink-0">›</span><span>${point.trim()}</span>`;
+          ul.appendChild(li);
+        });
+      }
+    }
+
+    // Navigation links
+    const navYear = document.getElementById('nav-year') as HTMLAnchorElement;
+    if (navYear && c.year) {
+      navYear.href = `/browse?year=${c.year}`;
+      navYear.textContent = `← All ${c.year} cases`;
+    }
+    const navState = document.getElementById('nav-state') as HTMLAnchorElement;
+    if (navState && c.state && c.state.length > 1) {
+      navState.href = `/browse?state=${encodeURIComponent(c.state)}`;
+      navState.textContent = `← All ${c.state} cases`;
+      show('nav-state');
+    }
+
+    // Full transcript
+    set('transcript', c.text_content || 'No transcript available.');
+
+    // Copy button
+    document.getElementById('copy-btn')?.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(c.text_content || '');
+        const btn = document.getElementById('copy-btn')!;
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = 'Copy text'; }, 2000);
+      } catch { /* ignore */ }
+    });
+
+    // Swap states
+    hide('loading-state');
+    show('case-view');
+
+  } catch (err) {
+    console.error('Failed to load case:', err);
+    hide('loading-state');
+    set('error-message', `Could not load case "${caseId}". The file may not exist or the archive may still be building.`);
+    show('error-state');
+  }
+}
+
+loadCase();
+</script>

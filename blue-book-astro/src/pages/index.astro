@@ -1,0 +1,236 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import stats from '../data/stats.json';
+import casesIndex from '../data/cases-index.json';
+
+// Get a selection of interesting recent cases for the homepage
+const featuredCases = casesIndex
+  .filter(c => c.summary && c.has_json && c.witnesses && c.witnesses > 1)
+  .sort(() => 0.5 - Math.random())
+  .slice(0, 6);
+
+// Peak year
+const peakYear = stats.casesByYear.reduce((max, y) => y.count > max.count ? y : max, stats.casesByYear[0]);
+---
+<BaseLayout>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden bg-dossier-bg pt-16 pb-12">
+    <!-- Grid background -->
+    <div class="absolute inset-0 bg-grid-pattern bg-grid opacity-30 pointer-events-none"></div>
+
+    <!-- Decorative corner marks (like a document form) -->
+    <div class="absolute top-8 left-8 w-8 h-8 border-l-2 border-t-2 border-dossier-amber opacity-40"></div>
+    <div class="absolute top-8 right-8 w-8 h-8 border-r-2 border-t-2 border-dossier-amber opacity-40"></div>
+    <div class="absolute bottom-8 left-8 w-8 h-8 border-l-2 border-b-2 border-dossier-amber opacity-40"></div>
+    <div class="absolute bottom-8 right-8 w-8 h-8 border-r-2 border-b-2 border-dossier-amber opacity-40"></div>
+
+    <div class="relative max-w-4xl mx-auto px-4 text-center">
+      <!-- Classification stamp -->
+      <div class="inline-block border-2 border-dossier-red px-4 py-1 mb-6 rotate-[-1deg]">
+        <span class="font-mono text-dossier-red text-xs tracking-[0.4em] uppercase font-bold">DECLASSIFIED</span>
+      </div>
+
+      <h1 class="font-typewriter text-4xl sm:text-6xl text-dossier-amber-bright mb-4 leading-tight animate-flicker">
+        PROJECT<br/>BLUE BOOK
+      </h1>
+
+      <div class="w-32 h-px bg-dossier-amber mx-auto mb-6 opacity-60"></div>
+
+      <p class="font-mono text-dossier-text text-base sm:text-lg max-w-2xl mx-auto leading-relaxed mb-3">
+        The complete declassified archive of the United States Air Force's official
+        investigation into unidentified flying objects.
+      </p>
+      <p class="font-mono text-dossier-muted text-sm mb-10">
+        <span class="text-dossier-amber">{stats.total.toLocaleString()}</span> case files ·
+        <span class="text-dossier-amber">{stats.yearRange.min}–{stats.yearRange.max}</span> ·
+        <span class="text-dossier-amber">{stats.withPhotos}</span> with photographs
+      </p>
+
+      <!-- Search bar -->
+      <div class="max-w-xl mx-auto">
+        <form action="/search" method="get" class="flex gap-2">
+          <div class="flex-1 relative">
+            <input
+              type="text"
+              name="q"
+              placeholder="Search cases, locations, objects..."
+              class="w-full bg-dossier-surface border border-dossier-border text-dossier-text-bright font-mono text-sm px-4 py-3 rounded focus:outline-none focus:border-dossier-amber placeholder-dossier-muted"
+              aria-label="Search Project Blue Book cases"
+            />
+          </div>
+          <button
+            type="submit"
+            class="bg-dossier-amber hover:bg-dossier-amber-bright text-dossier-bg font-mono text-sm font-bold px-5 py-3 rounded transition-colors uppercase tracking-wider"
+          >
+            Search
+          </button>
+        </form>
+        <p class="text-xs font-mono text-dossier-muted mt-2">
+          Or <a href="/search" class="text-dossier-amber hover:text-dossier-amber-bright underline">use advanced filters</a> — date range, witnesses, location, object type
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats bar -->
+  <section class="border-y border-dossier-border bg-dossier-surface py-6">
+    <div class="max-w-5xl mx-auto px-4">
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 text-center">
+        <div class="p-4">
+          <div class="font-typewriter text-3xl text-dossier-amber-bright">{stats.total.toLocaleString()}</div>
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-widest mt-1">Total Cases</div>
+        </div>
+        <div class="p-4">
+          <div class="font-typewriter text-3xl text-dossier-amber-bright">{stats.yearRange.min}–{stats.yearRange.max}</div>
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-widest mt-1">Years Covered</div>
+        </div>
+        <div class="p-4">
+          <div class="font-typewriter text-3xl text-dossier-amber-bright">{peakYear.year}</div>
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-widest mt-1">Peak Year ({peakYear.count} cases)</div>
+        </div>
+        <div class="p-4">
+          <div class="font-typewriter text-3xl text-dossier-amber-bright">{stats.withPhotos}</div>
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-widest mt-1">Photographic Evidence</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Year activity bar chart (ASCII-style) -->
+  <section class="max-w-5xl mx-auto px-4 py-12">
+    <h2 class="font-typewriter text-xl text-dossier-amber mb-2 uppercase tracking-widest">
+      ▶ Incident Frequency by Year
+    </h2>
+    <p class="font-mono text-xs text-dossier-muted mb-6">Click a year to browse all cases from that period</p>
+
+    <div class="bg-dossier-surface border border-dossier-border rounded p-4 overflow-x-auto">
+      <div class="flex items-end gap-1 h-32 min-w-[600px]">
+        {stats.casesByYear.map((y) => {
+          const maxCount = Math.max(...stats.casesByYear.map(x => x.count));
+          const heightPct = (y.count / maxCount) * 100;
+          return (
+            <a
+              href={`/browse?year=${y.year}`}
+              class="flex-1 flex flex-col items-center gap-1 group cursor-pointer"
+              title={`${y.year}: ${y.count} cases`}
+            >
+              <div
+                class="w-full bg-dossier-amber/40 group-hover:bg-dossier-amber transition-colors rounded-t relative"
+                style={`height: ${heightPct}%`}
+              >
+                <div class="absolute -top-5 left-1/2 -translate-x-1/2 text-[9px] font-mono text-dossier-amber opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">
+                  {y.count}
+                </div>
+              </div>
+              <span class="text-[8px] font-mono text-dossier-muted group-hover:text-dossier-amber transition-colors" style="writing-mode: vertical-rl; transform: rotate(180deg); white-space: nowrap;">
+                {y.year}
+              </span>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Cases -->
+  <section class="max-w-5xl mx-auto px-4 pb-12">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="font-typewriter text-xl text-dossier-amber uppercase tracking-widest">
+        ▶ Sample Case Files
+      </h2>
+      <a href="/search" class="font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors uppercase tracking-wider">
+        View all →
+      </a>
+    </div>
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {featuredCases.map((c) => (
+        <a
+          href={`/case?id=${c.id}`}
+          class="block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all group p-4 relative overflow-hidden"
+        >
+          <!-- Corner decoration -->
+          <div class="absolute top-0 right-0 w-6 h-6 border-l border-b border-dossier-amber/30 group-hover:border-dossier-amber/60 transition-colors"></div>
+
+          <!-- Date badge -->
+          <div class="flex items-center gap-2 mb-3">
+            <span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">
+              {c.date}
+            </span>
+            {c.contains_photographs && (
+              <span class="font-mono text-xs bg-dossier-green/10 text-dossier-green-bright border border-dossier-green/30 px-2 py-0.5 rounded">
+                📷 PHOTO
+              </span>
+            )}
+          </div>
+
+          <!-- Location -->
+          <p class="font-mono text-dossier-muted text-xs uppercase tracking-wider mb-2 truncate">
+            📍 {c.location}
+          </p>
+
+          <!-- Summary -->
+          <p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-3 mb-3">
+            {c.summary || 'No summary available.'}
+          </p>
+
+          <!-- Metadata row -->
+          <div class="flex items-center gap-3 text-xs font-mono text-dossier-muted border-t border-dossier-border pt-3 mt-auto">
+            {c.witnesses !== null && c.witnesses !== undefined && (
+              <span title="Witnesses">👁 {c.witnesses}</span>
+            )}
+            {c.sighted_object && (
+              <span class="truncate" title={c.sighted_object}>⊙ {c.sighted_object.slice(0, 30)}{c.sighted_object.length > 30 ? '...' : ''}</span>
+            )}
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Top states -->
+  <section class="max-w-5xl mx-auto px-4 pb-12">
+    <h2 class="font-typewriter text-xl text-dossier-amber mb-6 uppercase tracking-widest">
+      ▶ Incident Hotspots
+    </h2>
+    <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+      <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-3">
+        {stats.topStates.slice(0, 10).map((s) => (
+          <a
+            href={`/browse?state=${encodeURIComponent(s.state)}`}
+            class="flex flex-col items-center p-3 border border-dossier-border rounded hover:border-dossier-amber transition-colors group text-center"
+          >
+            <span class="font-mono text-lg text-dossier-amber-bright group-hover:text-dossier-amber-bright">
+              {s.count}
+            </span>
+            <span class="font-mono text-xs text-dossier-muted mt-1 group-hover:text-dossier-text transition-colors">{s.state}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Quick-access browsing -->
+  <section class="max-w-5xl mx-auto px-4 pb-16">
+    <h2 class="font-typewriter text-xl text-dossier-amber mb-6 uppercase tracking-widest">
+      ▶ Browse the Archive
+    </h2>
+    <div class="grid sm:grid-cols-3 gap-4">
+      <a href="/search?photos=Yes" class="bg-dossier-surface border border-dossier-border rounded p-6 hover:border-dossier-amber transition-all group text-center">
+        <div class="text-3xl mb-3">📷</div>
+        <div class="font-typewriter text-dossier-amber group-hover:text-dossier-amber-bright text-lg mb-2">Photographic Evidence</div>
+        <div class="font-mono text-dossier-muted text-xs">{stats.withPhotos} cases include photographs or physical evidence</div>
+      </a>
+      <a href="/search?witnesses=10%2B" class="bg-dossier-surface border border-dossier-border rounded p-6 hover:border-dossier-amber transition-all group text-center">
+        <div class="text-3xl mb-3">👥</div>
+        <div class="font-typewriter text-dossier-amber group-hover:text-dossier-amber-bright text-lg mb-2">Mass Sightings</div>
+        <div class="font-mono text-dossier-muted text-xs">Cases with 10+ confirmed witnesses</div>
+      </a>
+      <a href="/stats" class="bg-dossier-surface border border-dossier-border rounded p-6 hover:border-dossier-amber transition-all group text-center">
+        <div class="text-3xl mb-3">📊</div>
+        <div class="font-typewriter text-dossier-amber group-hover:text-dossier-amber-bright text-lg mb-2">Statistical Analysis</div>
+        <div class="font-mono text-dossier-muted text-xs">Patterns, distributions, and trends across the full archive</div>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,68 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import stats from '../data/stats.json';
+---
+<BaseLayout
+  title="About This Archive"
+  description="About the Project Blue Book Archive — declassified USAF UFO investigation records."
+>
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <div class="mb-8">
+      <div class="flex items-center gap-3 mb-2">
+        <div class="w-1 h-6 bg-dossier-amber"></div>
+        <h1 class="font-typewriter text-2xl text-dossier-amber-bright uppercase tracking-widest">
+          About This Archive
+        </h1>
+      </div>
+    </div>
+
+    <div class="space-y-6 font-mono text-dossier-text text-sm leading-relaxed">
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        <h2 class="font-typewriter text-dossier-amber uppercase tracking-wider text-lg mb-3">Project Blue Book</h2>
+        <p class="mb-3">
+          Project Blue Book was one of a series of systematic studies of unidentified flying objects (UFOs) conducted by the United States Air Force. It began in 1952 and was terminated in December 1969.
+        </p>
+        <p class="mb-3">
+          Two of the program's goals were to determine if UFOs were a threat to national security, and to scientifically analyze UFO-related data. A total of {stats.total.toLocaleString()} UFO reports were collected, analyzed and filed.
+        </p>
+        <p>
+          The project's records were declassified and released to the public through the National Archives. This archive makes those records searchable and accessible.
+        </p>
+      </div>
+
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        <h2 class="font-typewriter text-dossier-amber uppercase tracking-wider text-lg mb-3">About This Site</h2>
+        <p class="mb-3">
+          This site provides full-text search across {stats.total.toLocaleString()} case files spanning {stats.yearRange.min}–{stats.yearRange.max}. Each case file contains the original document transcript along with AI-extracted metadata including location, witness information, object descriptions, and Air Force conclusions.
+        </p>
+        <p class="mb-3">
+          The search system uses <a href="https://pagefind.app" class="text-dossier-amber hover:text-dossier-amber-bright underline">Pagefind</a> — a fully static search library that runs entirely client-side with no backend required. The entire archive is hosted as a static site.
+        </p>
+        <p>
+          The site is built with <a href="https://astro.build" class="text-dossier-amber hover:text-dossier-amber-bright underline">Astro</a>, a modern static site generator, and deployed on <a href="https://pages.cloudflare.com" class="text-dossier-amber hover:text-dossier-amber-bright underline">Cloudflare Pages</a>.
+        </p>
+      </div>
+
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        <h2 class="font-typewriter text-dossier-amber uppercase tracking-wider text-lg mb-3">Data Sources</h2>
+        <ul class="space-y-2">
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Original case files from the <strong class="text-dossier-text-bright">National Archives and Records Administration (NARA)</strong></span></li>
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Document transcription via OCR from scanned USAF records</span></li>
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Metadata extracted and structured from raw transcripts</span></li>
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>All documents are in the public domain</span></li>
+        </ul>
+      </div>
+
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        <h2 class="font-typewriter text-dossier-amber uppercase tracking-wider text-lg mb-3">Technical Notes</h2>
+        <ul class="space-y-2">
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Search is powered by Pagefind's client-side full-text search engine</span></li>
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>No server or database required — 100% static files</span></li>
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Faceted filters: year, state, witness count, photographic evidence</span></li>
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Case data served as individual JSON files for fast loading</span></li>
+          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Free to host on Cloudflare Pages, Netlify, or Vercel</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

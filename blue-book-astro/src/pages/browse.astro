@@ -1,0 +1,198 @@
+---
+// Browse page — loads case data client-side from /data/browse-index.json
+// to avoid embedding 10MB of JSON in the HTML
+import BaseLayout from '../layouts/BaseLayout.astro';
+import stats from '../data/stats.json';
+---
+<BaseLayout
+  title="Browse Cases"
+  description="Browse 10,807 Project Blue Book cases by year, state, and category."
+>
+  <div class="max-w-5xl mx-auto px-4 py-8">
+    <!-- Header -->
+    <div class="mb-8">
+      <div class="flex items-center gap-3 mb-2">
+        <div class="w-1 h-6 bg-dossier-amber"></div>
+        <h1 class="font-typewriter text-2xl text-dossier-amber-bright uppercase tracking-widest">
+          Browse Archive
+        </h1>
+      </div>
+      <p class="font-mono text-dossier-muted text-sm pl-4">
+        Navigate by year, state, or category
+      </p>
+    </div>
+
+    <!-- Browse by Year -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By Year</h2>
+      <div class="grid grid-cols-4 sm:grid-cols-6 lg:grid-cols-8 gap-2" id="year-grid">
+        {stats.casesByYear.map(y => (
+          <a
+            href={`/browse?year=${y.year}`}
+            data-year={y.year}
+            class="year-btn flex flex-col items-center p-3 border border-dossier-border bg-dossier-surface rounded transition-all group text-center hover:border-dossier-amber"
+          >
+            <span class="font-typewriter text-lg text-dossier-amber-bright">{y.year}</span>
+            <span class="font-mono text-xs text-dossier-muted mt-1">{y.count}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Browse by State -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By State / Region</h2>
+      <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-2">
+        {stats.topStates.map(s => (
+          <a
+            href={`/browse?state=${encodeURIComponent(s.state)}`}
+            data-state={s.state}
+            class="state-btn flex items-center justify-between p-3 border border-dossier-border bg-dossier-surface rounded transition-all hover:border-dossier-amber"
+          >
+            <span class="font-mono text-xs text-dossier-text">{s.state}</span>
+            <span class="font-typewriter text-sm text-dossier-amber">{s.count}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Loading indicator -->
+    <div id="loading-indicator" class="hidden text-center py-8">
+      <div class="font-mono text-dossier-amber text-sm animate-pulse">Loading cases...</div>
+    </div>
+
+    <!-- Results -->
+    <section id="browse-results" class="hidden">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest">
+          ▶ <span id="results-heading">Cases</span>
+        </h2>
+        <a href="/browse" class="font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors">Clear filter</a>
+      </div>
+      <div id="results-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3"></div>
+      <div id="show-more-container" class="hidden mt-6 text-center">
+        <button id="show-more" class="font-mono text-sm border border-dossier-border text-dossier-muted px-6 py-3 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">
+          Show more
+        </button>
+        <div id="show-more-count" class="font-mono text-xs text-dossier-muted mt-2"></div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<script>
+interface BrowseCase {
+  id: string;
+  date: string;
+  year: number | null;
+  location: string;
+  state: string;
+  summary: string;
+  witnesses: number | null;
+  contains_photographs: boolean;
+}
+
+const PAGE_SIZE = 30;
+let allCases: BrowseCase[] = [];
+let filteredCases: BrowseCase[] = [];
+let shown = 0;
+let loaded = false;
+
+function renderCaseCard(c: BrowseCase): string {
+  return `
+    <a href="/case?id=${c.id}" class="block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all p-4 group relative overflow-hidden">
+      <div class="absolute top-0 right-0 w-5 h-5 border-l border-b border-dossier-amber/20 group-hover:border-dossier-amber/50 transition-colors"></div>
+      <div class="flex items-center gap-2 mb-2 flex-wrap">
+        <span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${c.date}</span>
+        ${c.contains_photographs ? '<span class="font-mono text-xs text-dossier-green-bright">📷</span>' : ''}
+      </div>
+      <p class="font-mono text-dossier-muted text-xs uppercase tracking-wider mb-1 truncate">📍 ${c.location}</p>
+      <p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-2 mb-2">${c.summary || 'No summary available.'}</p>
+      ${c.witnesses !== null && c.witnesses !== undefined
+        ? `<span class="font-mono text-xs text-dossier-muted">👁 ${c.witnesses} witness${c.witnesses === 1 ? '' : 'es'}</span>`
+        : ''}
+    </a>
+  `;
+}
+
+async function ensureLoaded(): Promise<void> {
+  if (loaded) return;
+  document.getElementById('loading-indicator')!.classList.remove('hidden');
+  try {
+    const res = await fetch('/data/browse-index.json');
+    allCases = await res.json();
+    loaded = true;
+  } finally {
+    document.getElementById('loading-indicator')!.classList.add('hidden');
+  }
+}
+
+async function showResults() {
+  const params = new URLSearchParams(window.location.search);
+  const year = params.get('year');
+  const state = params.get('state');
+
+  if (!year && !state) {
+    document.getElementById('browse-results')!.classList.add('hidden');
+    return;
+  }
+
+  await ensureLoaded();
+
+  // Highlight active filter button
+  if (year) {
+    document.querySelector(`[data-year="${year}"]`)?.classList.add('border-dossier-amber', 'bg-dossier-amber/10');
+  }
+  if (state) {
+    document.querySelector(`[data-state="${state}"]`)?.classList.add('border-dossier-amber', 'bg-dossier-amber/10');
+  }
+
+  filteredCases = allCases.filter(c => {
+    if (year && String(c.year) !== year) return false;
+    if (state && c.state !== state) return false;
+    return true;
+  });
+
+  shown = 0;
+
+  const section = document.getElementById('browse-results')!;
+  const heading = document.getElementById('results-heading')!;
+  const grid = document.getElementById('results-grid')!;
+  const showMoreContainer = document.getElementById('show-more-container')!;
+
+  if (filteredCases.length === 0) {
+    section.classList.add('hidden');
+    return;
+  }
+
+  section.classList.remove('hidden');
+  heading.textContent = year
+    ? `${filteredCases.length.toLocaleString()} cases from ${year}`
+    : `${filteredCases.length.toLocaleString()} cases from ${state}`;
+
+  grid.innerHTML = filteredCases.slice(0, PAGE_SIZE).map(renderCaseCard).join('');
+  shown = Math.min(PAGE_SIZE, filteredCases.length);
+
+  if (filteredCases.length > PAGE_SIZE) {
+    showMoreContainer.classList.remove('hidden');
+    document.getElementById('show-more-count')!.textContent =
+      `${(filteredCases.length - shown).toLocaleString()} more cases`;
+  } else {
+    showMoreContainer.classList.add('hidden');
+  }
+}
+
+document.getElementById('show-more')!.addEventListener('click', () => {
+  const batch = filteredCases.slice(shown, shown + PAGE_SIZE);
+  document.getElementById('results-grid')!.insertAdjacentHTML('beforeend', batch.map(renderCaseCard).join(''));
+  shown += batch.length;
+  const remaining = filteredCases.length - shown;
+  if (remaining <= 0) {
+    document.getElementById('show-more-container')!.classList.add('hidden');
+  } else {
+    document.getElementById('show-more-count')!.textContent = `${remaining.toLocaleString()} more cases`;
+  }
+});
+
+showResults();
+</script>

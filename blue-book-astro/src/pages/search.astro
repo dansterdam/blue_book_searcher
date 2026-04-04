@@ -1,0 +1,414 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Search Cases"
+  description="Search 10,807 declassified Project Blue Book UFO investigation records. Filter by year, location, witnesses, and more."
+>
+  <div class="max-w-5xl mx-auto px-4 py-10">
+    <!-- Header -->
+    <div class="mb-8">
+      <div class="flex items-center gap-3 mb-2">
+        <div class="w-1 h-6 bg-dossier-amber"></div>
+        <h1 class="font-typewriter text-2xl text-dossier-amber-bright uppercase tracking-widest">
+          Case File Search
+        </h1>
+      </div>
+      <p class="font-mono text-dossier-muted text-sm pl-4">
+        Full-text search across 10,807 declassified USAF investigation records · 1947–1969
+      </p>
+    </div>
+
+    <!-- Search interface -->
+    <div id="search-container" class="mb-8">
+      <!-- Search input -->
+      <div class="flex gap-2 mb-6">
+        <div class="flex-1 relative">
+          <span class="absolute left-3 top-1/2 -translate-y-1/2 text-dossier-amber font-mono text-sm">▶</span>
+          <input
+            id="search-input"
+            type="text"
+            placeholder="Search case content, locations, descriptions..."
+            class="w-full bg-dossier-surface border border-dossier-border text-dossier-text-bright font-mono text-sm pl-9 pr-4 py-3 rounded focus:outline-none focus:border-dossier-amber placeholder-dossier-muted"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <button
+          id="search-clear"
+          class="hidden px-4 py-3 border border-dossier-border text-dossier-muted hover:text-dossier-text hover:border-dossier-amber rounded font-mono text-sm transition-colors"
+        >
+          Clear
+        </button>
+      </div>
+
+      <!-- Filters panel -->
+      <div class="bg-dossier-surface border border-dossier-border rounded p-4 mb-6">
+        <div class="flex items-center gap-2 mb-4">
+          <span class="font-mono text-xs text-dossier-amber uppercase tracking-widest">Filters</span>
+          <div class="flex-1 h-px bg-dossier-border"></div>
+          <button id="clear-filters" class="font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors">Reset</button>
+        </div>
+
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+          <!-- Year range -->
+          <div>
+            <label class="font-mono text-xs text-dossier-muted uppercase tracking-wider block mb-1">Year From</label>
+            <input
+              id="filter-year-from"
+              type="number"
+              min="1945"
+              max="1969"
+              placeholder="1947"
+              class="w-full bg-dossier-bg border border-dossier-border text-dossier-text font-mono text-sm px-3 py-2 rounded focus:outline-none focus:border-dossier-amber"
+            />
+          </div>
+          <div>
+            <label class="font-mono text-xs text-dossier-muted uppercase tracking-wider block mb-1">Year To</label>
+            <input
+              id="filter-year-to"
+              type="number"
+              min="1945"
+              max="1969"
+              placeholder="1969"
+              class="w-full bg-dossier-bg border border-dossier-border text-dossier-text font-mono text-sm px-3 py-2 rounded focus:outline-none focus:border-dossier-amber"
+            />
+          </div>
+          <div>
+            <label class="font-mono text-xs text-dossier-muted uppercase tracking-wider block mb-1">State / Region</label>
+            <input
+              id="filter-state"
+              type="text"
+              placeholder="e.g. Ohio"
+              class="w-full bg-dossier-bg border border-dossier-border text-dossier-text font-mono text-sm px-3 py-2 rounded focus:outline-none focus:border-dossier-amber"
+            />
+          </div>
+          <div>
+            <label class="font-mono text-xs text-dossier-muted uppercase tracking-wider block mb-1">Witnesses</label>
+            <select
+              id="filter-witnesses"
+              class="w-full bg-dossier-bg border border-dossier-border text-dossier-text font-mono text-sm px-3 py-2 rounded focus:outline-none focus:border-dossier-amber"
+            >
+              <option value="">Any</option>
+              <option value="0">0 (not reported)</option>
+              <option value="1">1 witness</option>
+              <option value="2">2 witnesses</option>
+              <option value="3-5">3–5 witnesses</option>
+              <option value="6-10">6–10 witnesses</option>
+              <option value="10+">10+ witnesses</option>
+              <option value="unknown">Unknown</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Photo filter -->
+        <div class="mt-3 flex items-center gap-4">
+          <label class="flex items-center gap-2 cursor-pointer">
+            <input id="filter-photos" type="checkbox" class="accent-dossier-amber" />
+            <span class="font-mono text-xs text-dossier-muted uppercase tracking-wider">Photographic evidence only</span>
+          </label>
+        </div>
+      </div>
+
+      <!-- Results count + sort -->
+      <div class="flex items-center justify-between mb-4">
+        <div id="result-count" class="font-mono text-xs text-dossier-muted">
+          Enter a search term to begin
+        </div>
+        <div id="search-status" class="font-mono text-xs text-dossier-amber hidden">
+          Searching...
+        </div>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div id="results-container">
+      <!-- Initial state -->
+      <div id="search-prompt" class="text-center py-20">
+        <div class="text-6xl mb-4 opacity-30">🔍</div>
+        <p class="font-typewriter text-dossier-amber text-xl mb-2">Begin your investigation</p>
+        <p class="font-mono text-dossier-muted text-sm">
+          Search across all case files, or use the filters above to narrow your query.
+        </p>
+        <div class="mt-6 flex justify-center gap-3 flex-wrap">
+          <button data-query="flying disc" class="quick-search font-mono text-xs border border-dossier-border text-dossier-muted px-3 py-1.5 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">flying disc</button>
+          <button data-query="radar contact" class="quick-search font-mono text-xs border border-dossier-border text-dossier-muted px-3 py-1.5 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">radar contact</button>
+          <button data-query="Air Force pilot" class="quick-search font-mono text-xs border border-dossier-border text-dossier-muted px-3 py-1.5 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">Air Force pilot</button>
+          <button data-query="hovering object" class="quick-search font-mono text-xs border border-dossier-border text-dossier-muted px-3 py-1.5 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">hovering object</button>
+          <button data-query="formation" class="quick-search font-mono text-xs border border-dossier-border text-dossier-muted px-3 py-1.5 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">formation</button>
+        </div>
+      </div>
+
+      <div id="results-list" class="hidden space-y-3"></div>
+      <div id="no-results" class="hidden text-center py-16">
+        <div class="text-4xl mb-4 opacity-30">📭</div>
+        <p class="font-typewriter text-dossier-amber text-lg mb-2">No matching cases found</p>
+        <p class="font-mono text-dossier-muted text-sm">Try different search terms or adjust your filters.</p>
+      </div>
+
+      <!-- Load more -->
+      <div id="load-more-container" class="hidden mt-6 text-center">
+        <button id="load-more" class="font-mono text-sm border border-dossier-border text-dossier-muted px-6 py-3 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">
+          Load more results
+        </button>
+        <div id="load-more-count" class="font-mono text-xs text-dossier-muted mt-2"></div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+// Pagefind search integration
+// Pagefind is loaded lazily to avoid blocking page load
+
+interface PagefindResult {
+  url: string;
+  meta: { title?: string; image?: string };
+  excerpt: string;
+  filters?: Record<string, string[]>;
+  data: () => Promise<PagefindResultData>;
+}
+
+interface PagefindResultData {
+  url: string;
+  meta: { title?: string };
+  excerpt: string;
+  filters?: Record<string, string[]>;
+}
+
+interface PagefindAPI {
+  search: (query: string, opts?: Record<string, unknown>) => Promise<{ results: PagefindResult[] }>;
+  filters: () => Promise<Record<string, Record<string, number>>>;
+}
+
+let pagefind: PagefindAPI | null = null;
+let allResults: PagefindResult[] = [];
+let displayedCount = 0;
+const PAGE_SIZE = 20;
+
+// DOM elements
+const searchInput = document.getElementById('search-input') as HTMLInputElement;
+const searchClear = document.getElementById('search-clear') as HTMLButtonElement;
+const resultCount = document.getElementById('result-count')!;
+const searchStatus = document.getElementById('search-status')!;
+const searchPrompt = document.getElementById('search-prompt')!;
+const resultsList = document.getElementById('results-list')!;
+const noResults = document.getElementById('no-results')!;
+const loadMoreContainer = document.getElementById('load-more-container')!;
+const loadMore = document.getElementById('load-more') as HTMLButtonElement;
+const loadMoreCountEl = document.getElementById('load-more-count')!;
+const clearFilters = document.getElementById('clear-filters') as HTMLButtonElement;
+const filterYearFrom = document.getElementById('filter-year-from') as HTMLInputElement;
+const filterYearTo = document.getElementById('filter-year-to') as HTMLInputElement;
+const filterState = document.getElementById('filter-state') as HTMLInputElement;
+const filterWitnesses = document.getElementById('filter-witnesses') as HTMLSelectElement;
+const filterPhotos = document.getElementById('filter-photos') as HTMLInputElement;
+
+// Load Pagefind lazily
+async function loadPagefind(): Promise<PagefindAPI> {
+  if (pagefind) return pagefind;
+  // @ts-ignore
+  pagefind = await import('/pagefind/pagefind.js');
+  return pagefind!;
+}
+
+// Build filter object from UI state
+function getFilters() {
+  const filters: Record<string, string[]> = {};
+  const yearFrom = filterYearFrom.value ? parseInt(filterYearFrom.value) : null;
+  const yearTo = filterYearTo.value ? parseInt(filterYearTo.value) : null;
+
+  // Year range — add all years in range
+  if (yearFrom !== null || yearTo !== null) {
+    const from = yearFrom ?? 1945;
+    const to = yearTo ?? 1969;
+    const years: string[] = [];
+    for (let y = from; y <= to; y++) years.push(String(y));
+    if (years.length > 0) filters.year = years;
+  }
+
+  const state = filterState.value.trim();
+  if (state) filters.state = [state];
+
+  const witnesses = filterWitnesses.value;
+  if (witnesses) filters.witnesses = [witnesses];
+
+  if (filterPhotos.checked) filters.photos = ['Yes'];
+
+  return filters;
+}
+
+// Check URL params on load
+const urlParams = new URLSearchParams(window.location.search);
+const initialQuery = urlParams.get('q') || '';
+const initialPhotos = urlParams.get('photos') || '';
+const initialWitnesses = urlParams.get('witnesses') || '';
+
+if (initialQuery) searchInput.value = initialQuery;
+if (initialPhotos) filterPhotos.checked = true;
+if (initialWitnesses) filterWitnesses.value = initialWitnesses;
+
+let searchTimeout: ReturnType<typeof setTimeout>;
+
+async function doSearch() {
+  const query = searchInput.value.trim();
+  const filters = getFilters();
+  const hasFilters = Object.keys(filters).length > 0;
+
+  if (!query && !hasFilters) {
+    showState('prompt');
+    resultCount.textContent = 'Enter a search term to begin';
+    return;
+  }
+
+  showState('loading');
+  searchStatus.classList.remove('hidden');
+  resultCount.textContent = '';
+
+  try {
+    const pf = await loadPagefind();
+    const opts: Record<string, unknown> = {};
+    if (hasFilters) opts.filters = filters;
+
+    const result = await pf.search(query || null as unknown as string, opts);
+    allResults = result.results;
+    displayedCount = 0;
+
+    if (allResults.length === 0) {
+      showState('no-results');
+      resultCount.textContent = 'No cases found';
+    } else {
+      showState('results');
+      resultCount.textContent = `${allResults.length.toLocaleString()} case${allResults.length === 1 ? '' : 's'} found`;
+      resultsList.innerHTML = '';
+      await loadResultsBatch();
+    }
+  } catch (err) {
+    console.error('Search error:', err);
+    resultCount.textContent = 'Search index not available — run the build first';
+    showState('prompt');
+  } finally {
+    searchStatus.classList.add('hidden');
+  }
+}
+
+function showState(state: 'prompt' | 'loading' | 'results' | 'no-results') {
+  searchPrompt.classList.toggle('hidden', state !== 'prompt');
+  resultsList.classList.toggle('hidden', state !== 'results');
+  noResults.classList.toggle('hidden', state !== 'no-results');
+  loadMoreContainer.classList.toggle('hidden', state !== 'results');
+  if (state !== 'results') loadMoreContainer.classList.add('hidden');
+}
+
+async function loadResultsBatch() {
+  const batch = allResults.slice(displayedCount, displayedCount + PAGE_SIZE);
+  const dataPromises = batch.map(r => r.data());
+  const datas = await Promise.all(dataPromises);
+
+  for (let i = 0; i < batch.length; i++) {
+    const data = datas[i];
+    const url = data.url;
+
+    // Extract metadata from URL — URL format is /case?id=<slug>
+    const slug = new URL(url, window.location.origin).searchParams.get('id') || url;
+
+    // Build the card
+    const card = document.createElement('a');
+    card.href = url;
+    card.className = 'block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all p-4 group relative overflow-hidden';
+
+    // Try to extract date from slug (format: YYYY-MM-id-location)
+    const parts = slug.split('-');
+    const dateHint = parts.length >= 2 && /^\d{4}$/.test(parts[0]) ? `${parts[0]}-${parts[1]}` : '';
+
+    const title = data.meta?.title || 'Untitled case';
+    const excerpt = data.excerpt || '';
+
+    card.innerHTML = `
+      <div class="absolute top-0 right-0 w-5 h-5 border-l border-b border-dossier-amber/20 group-hover:border-dossier-amber/50 transition-colors"></div>
+      <div class="flex items-start justify-between gap-3 mb-2">
+        <div class="flex items-center gap-2 flex-wrap">
+          ${dateHint ? `<span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${dateHint}</span>` : ''}
+          <span class="font-mono text-xs text-dossier-muted truncate max-w-xs">${slug}</span>
+        </div>
+        <span class="text-dossier-amber group-hover:text-dossier-amber-bright transition-colors font-mono text-xs shrink-0">VIEW →</span>
+      </div>
+      <p class="font-mono text-dossier-text text-xs leading-relaxed mb-2 line-clamp-2">${title}</p>
+      ${excerpt ? `<p class="font-mono text-dossier-muted text-xs leading-relaxed line-clamp-2">${excerpt}</p>` : ''}
+    `;
+
+    resultsList.appendChild(card);
+  }
+
+  displayedCount += batch.length;
+
+  // Update load more
+  const remaining = allResults.length - displayedCount;
+  if (remaining > 0) {
+    loadMoreContainer.classList.remove('hidden');
+    loadMoreCountEl.textContent = `${remaining.toLocaleString()} more result${remaining === 1 ? '' : 's'}`;
+  } else {
+    loadMoreContainer.classList.add('hidden');
+  }
+}
+
+// Event listeners
+searchInput.addEventListener('input', () => {
+  searchClear.classList.toggle('hidden', !searchInput.value);
+  clearTimeout(searchTimeout);
+  searchTimeout = setTimeout(doSearch, 300);
+});
+
+searchClear.addEventListener('click', () => {
+  searchInput.value = '';
+  searchClear.classList.add('hidden');
+  doSearch();
+});
+
+clearFilters.addEventListener('click', () => {
+  filterYearFrom.value = '';
+  filterYearTo.value = '';
+  filterState.value = '';
+  filterWitnesses.value = '';
+  filterPhotos.checked = false;
+  doSearch();
+});
+
+[filterYearFrom, filterYearTo, filterState, filterWitnesses, filterPhotos].forEach(el => {
+  el.addEventListener('change', doSearch);
+  if (el instanceof HTMLInputElement && el.type === 'text') {
+    el.addEventListener('input', () => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(doSearch, 400);
+    });
+  }
+});
+
+loadMore.addEventListener('click', async () => {
+  await loadResultsBatch();
+});
+
+// Quick search buttons
+document.querySelectorAll('.quick-search').forEach(btn => {
+  btn.addEventListener('click', () => {
+    searchInput.value = (btn as HTMLButtonElement).dataset.query || '';
+    searchClear.classList.remove('hidden');
+    doSearch();
+  });
+});
+
+// Run initial search if params present
+if (initialQuery || initialPhotos || initialWitnesses) {
+  doSearch();
+}
+</script>
+
+<style is:global>
+/* Override highlight styling from Pagefind */
+mark {
+  background: rgba(200, 164, 90, 0.25);
+  color: #f0c060;
+  border-radius: 2px;
+  padding: 0 2px;
+}
+</style>

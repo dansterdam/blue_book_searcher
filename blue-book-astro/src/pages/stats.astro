@@ -1,0 +1,153 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import stats from '../data/stats.json';
+---
+<BaseLayout
+  title="Statistical Analysis"
+  description="Statistical analysis of 10,807 Project Blue Book UFO investigation records — distributions by year, state, witnesses, and more."
+>
+  <div class="max-w-5xl mx-auto px-4 py-8">
+    <!-- Header -->
+    <div class="mb-8">
+      <div class="flex items-center gap-3 mb-2">
+        <div class="w-1 h-6 bg-dossier-amber"></div>
+        <h1 class="font-typewriter text-2xl text-dossier-amber-bright uppercase tracking-widest">
+          Statistical Analysis
+        </h1>
+      </div>
+      <p class="font-mono text-dossier-muted text-sm pl-4">
+        Pattern analysis across {stats.total.toLocaleString()} declassified case files
+      </p>
+    </div>
+
+    <!-- Summary cards -->
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-10">
+      {[
+        { label: 'Total Cases', value: stats.total.toLocaleString(), icon: '📁' },
+        { label: 'With Photos', value: stats.withPhotos.toLocaleString(), icon: '📷' },
+        { label: 'Years Covered', value: `${stats.yearRange.max - stats.yearRange.min + 1}`, icon: '📅' },
+        { label: 'States Represented', value: String(stats.topStates.length), icon: '🗺️' },
+      ].map(s => (
+        <div class="bg-dossier-surface border border-dossier-border rounded p-4 text-center">
+          <div class="text-2xl mb-2">{s.icon}</div>
+          <div class="font-typewriter text-2xl text-dossier-amber-bright">{s.value}</div>
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mt-1">{s.label}</div>
+        </div>
+      ))}
+    </div>
+
+    <!-- Cases by year chart -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ Cases by Year</h2>
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6 overflow-x-auto">
+        <div class="min-w-[600px]">
+          {stats.casesByYear.map(y => {
+            const maxCount = Math.max(...stats.casesByYear.map(x => x.count));
+            const pct = (y.count / maxCount) * 100;
+            return (
+              <div class="flex items-center gap-3 mb-1 group">
+                <span class="font-mono text-xs text-dossier-muted w-10 text-right shrink-0">{y.year}</span>
+                <div class="flex-1 h-5 bg-dossier-bg rounded overflow-hidden">
+                  <div
+                    class="h-full bg-dossier-amber/50 group-hover:bg-dossier-amber transition-all rounded"
+                    style={`width: ${pct}%`}
+                  ></div>
+                </div>
+                <span class="font-mono text-xs text-dossier-amber w-12 shrink-0">{y.count}</span>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+
+    <!-- Top states chart -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ Cases by State (Top 20)</h2>
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        {stats.topStates.map(s => {
+          const maxCount = Math.max(...stats.topStates.map(x => x.count));
+          const pct = (s.count / maxCount) * 100;
+          return (
+            <a href={`/browse?state=${encodeURIComponent(s.state)}`} class="flex items-center gap-3 mb-1 group">
+              <span class="font-mono text-xs text-dossier-muted w-28 text-right shrink-0 truncate">{s.state}</span>
+              <div class="flex-1 h-5 bg-dossier-bg rounded overflow-hidden">
+                <div
+                  class="h-full bg-dossier-amber/40 group-hover:bg-dossier-amber transition-all rounded"
+                  style={`width: ${pct}%`}
+                ></div>
+              </div>
+              <span class="font-mono text-xs text-dossier-amber w-12 shrink-0">{s.count}</span>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Witness distribution -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ Witness Count Distribution</h2>
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-3">
+          {stats.witnessGroups.map(g => (
+            <a href={`/search?witnesses=${encodeURIComponent(g.range)}`} class="flex flex-col items-center p-4 border border-dossier-border rounded hover:border-dossier-amber transition-colors group text-center">
+              <span class="font-typewriter text-xl text-dossier-amber-bright">{g.count.toLocaleString()}</span>
+              <span class="font-mono text-xs text-dossier-muted mt-1 group-hover:text-dossier-text transition-colors">{g.range}</span>
+            </a>
+          ))}
+        </div>
+        <p class="font-mono text-xs text-dossier-muted mt-3">Click a category to search those cases</p>
+      </div>
+    </section>
+
+    <!-- Common sighted objects -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ Most Reported Object Types</h2>
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        {stats.topObjects.slice(0, 15).map(o => {
+          const maxCount = Math.max(...stats.topObjects.map(x => x.count));
+          const pct = (o.count / maxCount) * 100;
+          return (
+            <div class="flex items-center gap-3 mb-2 group">
+              <span class="font-mono text-xs text-dossier-muted w-56 text-right shrink-0 truncate" title={o.obj}>{o.obj}</span>
+              <div class="flex-1 h-4 bg-dossier-bg rounded overflow-hidden">
+                <div
+                  class="h-full bg-dossier-green/50 group-hover:bg-dossier-green-bright transition-all rounded"
+                  style={`width: ${pct}%`}
+                ></div>
+              </div>
+              <span class="font-mono text-xs text-dossier-green-bright w-10 shrink-0">{o.count}</span>
+            </div>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Photo evidence -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ Photographic Evidence</h2>
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6 flex items-center gap-8 flex-wrap">
+        <div class="text-center">
+          <div class="font-typewriter text-4xl text-dossier-amber-bright">{stats.withPhotos.toLocaleString()}</div>
+          <div class="font-mono text-xs text-dossier-muted mt-1">Cases with photos</div>
+          <div class="font-mono text-xs text-dossier-amber mt-0.5">{((stats.withPhotos / stats.total) * 100).toFixed(1)}%</div>
+        </div>
+        <div class="flex-1 min-w-48">
+          <div class="bg-dossier-bg rounded-full h-8 overflow-hidden">
+            <div
+              class="h-full bg-dossier-green/60 rounded-l-full"
+              style={`width: ${(stats.withPhotos / stats.total * 100).toFixed(1)}%`}
+            ></div>
+          </div>
+          <div class="flex justify-between font-mono text-xs text-dossier-muted mt-1">
+            <span>With photos ({stats.withPhotos.toLocaleString()})</span>
+            <span>Without ({stats.withoutPhotos.toLocaleString()})</span>
+          </div>
+        </div>
+        <a href="/search?photos=Yes" class="font-mono text-xs border border-dossier-border text-dossier-muted px-4 py-2 rounded hover:border-dossier-amber hover:text-dossier-amber transition-colors">
+          Browse photo cases →
+        </a>
+      </div>
+    </section>
+  </div>
+</BaseLayout>
