@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+db.sqlite3
+*.log
+*.pot
+.env
+
+# Generated — do not commit (130MB, rebuilt by npm run parse)
+cases.json
+
+# Astro build output and cache
+blue-book-astro/dist/
+blue-book-astro/.astro/
+
+# Generated data files (rebuilt by npm run prepare-data)
+blue-book-astro/src/data/cases-index.json
+blue-book-astro/src/data/stats.json
+blue-book-astro/public/data/cases/
+blue-book-astro/public/data/browse-index.json
+
+# Node
+blue-book-astro/node_modules/
+
+# Old Django stack — no longer needed
+blue_book_searcher/
+searcher/
+static/
+manage.py
+requirements.txt
+runtime.txt
+Pipfile
+Pipfile.lock
+Procfile
