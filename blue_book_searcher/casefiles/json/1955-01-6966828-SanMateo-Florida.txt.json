@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A bright, apparently burning, meteor-like object flashed across the sky from west to east at a low elevation in San Mateo, Florida.",
+    "interesting points": [
+        "The sighting lasted for approximately 1 minute.",
+        "The report was in the form of a simple sketch, providing very little information.",
+        "The case was initially reported to Captain XXXXXX at 6:00 AM on January 29, 1955, and then turned over to the headquarters.",
+        "The report states that there is insufficient information for proper evaluation.",
+        "No further report was found in the file."
+    ],
+    "result": "unexplained",
+    "sighted object": "bright, apparently burning, meteor-like object",
+    "location": "San Mateo, Florida",
+    "witnesses": "unknown",
+    "photographs": "none"
+}

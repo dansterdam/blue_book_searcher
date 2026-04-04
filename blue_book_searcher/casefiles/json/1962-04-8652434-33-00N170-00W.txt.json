@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A radar sighting of a possible satellite or unidentified object over the Pacific Ocean.",
+    "interesting points": [
+        "The sighting was reported by a Navy aircraft with the call sign 45223.",
+        "The object was spotted at coordinates 32°51'N/122°44'W at 1912Z.",
+        "The object was described as space-borne and traveling at a very fast speed.",
+        "The object was heading northeast, but no further details about its movement or appearance were provided.",
+        "The report indicates that no evaluation or conclusion was made about the nature of the sighting."
+    ],
+    "result": "unexplained",
+    "sighted object": "a possible satellite or unidentified object",
+    "location": "Pacific Ocean, off the coast of California",
+    "witnesses": "a Navy aircraft with the call sign 45223",
+    "photographs": "none"
+}

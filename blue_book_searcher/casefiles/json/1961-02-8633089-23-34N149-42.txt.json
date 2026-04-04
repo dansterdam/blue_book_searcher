@@ -1,0 +1,17 @@
+Here is the JSON summary of the provided UFO report:
+
+{
+    "main event": "A bright white object with the appearance of a first magnitude star was sighted moving in a northeasterly direction directly overhead.",
+    "interesting points": [
+        "The object was sighted at two different locations and times, moving in a northeasterly direction.",
+        "The object's position and angle changed as it moved, disappearing midway at a different bearing and position angle.",
+        "The report suggests the object could possibly be a satellite.",
+        "The sighting lasted for approximately 5 minutes.",
+        "No echo data was available, and no contrails or satellites were observed."
+    ],
+    "result": "unexplained",
+    "sighted object": "bright white object with the appearance of a first magnitude star",
+    "location": "23-34N 149-42W, 23-22N 159-22W",
+    "witnesses": "naval personnel",
+    "photographs": "no"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An unidentified flying object was sighted on radar near Cape Canaveral, Florida on April 11, 1961.",
+    "interesting points": [
+        "Three experienced observers tracked the object on an FPS-16 radar for 30 minutes, estimating its speed between 150 and 600 knots.",
+        "The object orbited 6 or 7 times along an azimuth of 126 degrees from Cape Canaveral, at a distance of 10 to 25 miles.",
+        "Radar observers gave conflicting reports on the height of the object, with some saying it was very low and others reporting it was extremely high.",
+        "A range surveillance C-54 aircraft was vectored to within 2.5 miles of the object, but the crew reported no visual sightings.",
+        "The GCI FPS-20 radar only picked up the object intermittently, preventing any successful intercept attempts."
+    ],
+    "result": "unexplained",
+    "sighted object": "unidentified flying object",
+    "location": "Cape Canaveral, Florida",
+    "witnesses": "three experienced radar operators",
+    "photographs": "none"
+}

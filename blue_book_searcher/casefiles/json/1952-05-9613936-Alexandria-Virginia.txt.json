@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report:
+
+{
+    "main event": "A civilian observed an oval-shaped reddish glow moving rapidly on an erratic course near Alexandria, Virginia.",
+    "interesting points": [
+        "The object was observed with the naked eye, making it difficult to estimate its speed and altitude.",
+        "Checks with nearby military bases, radar, and air traffic control did not yield any additional information or reports of the object.",
+        "Commercial airline flights were reported in the area during the sighting, but the crews did not report any unusual sightings.",
+        "The sighting occurred between 2332Z and 0002Z, with clear weather and visibility over 40 miles.",
+        "The report was classified as insufficient information for evaluation."
+    ],
+    "result": "insufficient data for evaluation",
+    "sighted object": "oval-shaped reddish glow",
+    "location": "Alexandria, Virginia",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

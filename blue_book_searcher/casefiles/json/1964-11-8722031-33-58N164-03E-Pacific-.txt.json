@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report:
+
+{
+    "main event": "A sighting of a possible satellite or star that appeared as a UFO by a US Coast Guard ship, the USCGC Matagorda, in the Pacific Ocean.",
+    "interesting points": [
+        "The object was sighted at the coordinates 33°58.5'N 164°03.5'E.",
+        "The object had a high positive angle of 34 degrees.",
+        "The object was traveling on a course of 198 degrees true.",
+        "The weather conditions were reported as sea moderate with partly cloudy skies.",
+        "The sighting was reported to various military and intelligence agencies, including the Air Force, Coast Guard, and CIA."
+    ],
+    "result": "SATELLITE",
+    "sighted object": "a possible satellite or star",
+    "location": "33°58.5'N 164°03.5'E (Pacific Ocean)",
+    "witnesses": "USCGC Matagorda crew",
+    "photographs": "None"
+}

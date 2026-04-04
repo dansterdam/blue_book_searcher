@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in the requested JSON format:
+
+{
+    "main event": "A witness observed an unidentifiable object moving in the sky over Little Rock, Arkansas on August 16, 1965.",
+    "interesting points": [
+        "The object was observed at 60 degrees elevation to the north, moving eastward.",
+        "The witness initially described the object as a satellite, but the official conclusion was that it was an unidentifiable object.",
+        "The object's movement was likely caused by an anomalous temperature inversion, which made it appear to have unusual motion.",
+        "The case was investigated by Project Blue Book, the U.S. Air Force's official UFO investigation program.",
+        "The official conclusion was that the object was unidentifiable, despite the initial witness report of it being a satellite."
+    ],
+    "result": "unidentified",
+    "sighted object": "an unidentifiable object",
+    "location": "Little Rock, Arkansas",
+    "witnesses": "one witness",
+    "photographs": "no photographs included"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report:
+
+{
+    "main event": "A UFO was sighted at Goodfellow AFB, Texas on June 15, 1966.",
+    "interesting points": [
+        "The object was described as looking like a distant star, about twice the size of an aircraft, and white to bluish-white in color.",
+        "The object moved rapidly across the sky in 3-4 minutes, disappearing to the south, then reappearing less than a minute later, seemingly climbing in altitude before moving westward and disappearing again.",
+        "The object was seen by two military witnesses, a radio intercept analyst and a linguist, both of whom were rated as having good reliability.",
+        "Weather conditions at the time included clear skies, unlimited visibility, and various wind speeds at different altitudes.",
+        "No physical evidence or photographs were obtained, and the object could not be identified conclusively, with the conclusion being it was either a probable satellite (ECHO II) or a possible aircraft."
+    ],
+    "result": "inconclusive",
+    "sighted object": "a bright, unidentified object in the sky",
+    "location": "Goodfellow AFB, Texas",
+    "witnesses": "2 military personnel",
+    "photographs": "no"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An unidentified flying object was detected on radar at Larson AFB, Washington on August 26, 1951.",
+    "interesting points": [
+        "The object was tracked for approximately 10-15 minutes, moving at an estimated speed of 900-1,000 mph.",
+        "The object was observed descending rapidly from 17,000-20,000 feet to 15,000 feet.",
+        "The radar operator who spotted the object was considered an expert.",
+        "Weather conditions were not favorable for anomalous microwave propagation.",
+        "The Electronics Division of ATIC concluded the radar return was positive, meaning the object was real."
+    ],
+    "result": "unexplained",
+    "sighted object": "unidentified flying object detected on radar",
+    "location": "Larson AFB, Washington",
+    "witnesses": "radar operator",
+    "photographs": "no"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "An unidentified object was tracked on radar at Wheelus AFB in Morocco, traveling at an estimated speed of 75 knots.",
+    "interesting points": [
+        "The object changed speed from 75 knots to 50 knots after traveling 110 miles.",
+        "The object's track changed from 332 degrees to 195 degrees over the course of the 12-minute sighting.",
+        "The object was tracked for a total distance of 65-70 miles before fading from the radar.",
+        "The report concludes that the object was not a weather balloon after a complete check.",
+        "The light characteristics of the object suggested it was an airplane, but it was not conclusively identified."
+    ],
+    "result": "unidentified",
+    "sighted object": "unidentified object tracked on radar",
+    "location": "Wheelus AFB, Morocco",
+    "witnesses": "military radar operators",
+    "photographs": "no photographs included in the report"
+}

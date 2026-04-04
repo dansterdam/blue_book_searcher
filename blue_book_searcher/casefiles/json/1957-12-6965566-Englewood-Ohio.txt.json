@@ -1,0 +1,17 @@
+Here is the JSON summary of the key information from the UFO report:
+
+{
+    "main event": "An unidentified flying object was sighted near Englewood, Ohio on December 1, 1957.",
+    "interesting points": [
+        "The object was described as a reddish, rolling object with vapor trails and a reddish glow, about the size of a shirt button.",
+        "The object faded out, brightened, and then faded again, with dark objects visible between the glows.",
+        "The object was observed for 6 minutes and moved in an easterly direction.",
+        "The Air Force concluded the object was probably an aircraft, but listed the case as 'Unknown'.",
+        "A 8mm color film was taken of the incident, which the Air Force later reviewed and determined the objects were likely balloons."
+    ],
+    "result": "unknown",
+    "sighted object": "a reddish, rolling object with vapor trails and a reddish glow",
+    "location": "Englewood, Ohio",
+    "witnesses": "civilian",
+    "photographs": "yes, 8mm color film"
+}

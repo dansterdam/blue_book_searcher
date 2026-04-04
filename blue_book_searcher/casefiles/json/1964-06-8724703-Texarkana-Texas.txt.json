@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A possible observation of the moon was reported by civilian and military observers near Texarkana, Texas.",
+    "interesting points": [
+        "The object was stationary and observed for a few minutes.",
+        "There were no photographs taken of the object.",
+        "No physical evidence was collected.",
+        "The conclusion was that the object was an astronomical observation of the moon.",
+        "The report mentions a letter in the case file containing further details."
+    ],
+    "result": "Astronomical (MOON)",
+    "sighted object": "possible moon observation",
+    "location": "Texarkana, Texas",
+    "witnesses": "Civilian and military",
+    "photographs": "None"
+}

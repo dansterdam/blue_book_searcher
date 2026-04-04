@@ -1,0 +1,17 @@
+Here is the JSON summary for the UFO report:
+
+{
+    "main event": "A round, star-sized object appeared to the observer to be red and orange, seen through a high-powered telescope in Cincinnati, Ohio on September 5, 1955.",
+    "interesting points": [
+        "The object was stationary and high in the northeast over Cincinnati.",
+        "The object was observed for 2 hours.",
+        "The object was compared to the bright star Capella, which was also high in the northeast at the time.",
+        "The report was filed as an Air Intelligence Information Report.",
+        "The report concludes that the object was possibly an astronomical phenomenon."
+    ],
+    "result": "possibly astronomical",
+    "sighted object": "round, star-sized object",
+    "location": "Cincinnati, Ohio",
+    "witnesses": "observer with high-powered telescope",
+    "photographs": "no"
+}

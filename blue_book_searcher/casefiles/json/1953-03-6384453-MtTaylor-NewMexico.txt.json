@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A U.S. Air Force pilot spotted a bright, circular, orange-colored object while flying at 26,000 feet on March 27, 1953.",
+    "interesting points": [
+        "The object was estimated to be traveling at 222 knots and made fast, erratic maneuvers.",
+        "The object descended from 26,000 feet to 23,000 feet before disappearing from sight.",
+        "Another pilot also spotted a similar object in the same area around 1930 hours, which changed color from orange to green.",
+        "The weather conditions were clear with good visibility, and weather balloons were ruled out as the source of the sighting.",
+        "The pilots were unable to close in on the object, which disappeared in an apparently descending curve."
+    ],
+    "result": "unexplained",
+    "sighted object": "bright, circular, orange-colored object",
+    "location": "Near Kirkland Air Force Base, New Mexico",
+    "witnesses": "U.S. Air Force pilots",
+    "photographs": "no photograph included in the report"
+}

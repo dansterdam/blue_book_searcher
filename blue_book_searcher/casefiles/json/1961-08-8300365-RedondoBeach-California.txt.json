@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report text:
+
+{
+    "main event": "A bright, shiny unidentified flying object was spotted over Redondo Beach, California on August 28-29, 1961.",
+    "interesting points": [
+        "The object was estimated to be at an altitude of 450 feet and was observed for around 7 minutes.",
+        "There were two separate sightings of the object, one from 2023-2030 and the other at an unspecified earlier time.",
+        "The witness was Capt. A.W.G. Bass, USAF.",
+        "The report concludes that the object was visually observed, but it could have been a balloon, aircraft, or astronomical phenomenon, and there was insufficient data for a full evaluation.",
+        "The report does not contain any photographs of the UFO."
+    ],
+    "result": "inconclusive",
+    "sighted object": "bright, shiny unidentified flying object",
+    "location": "Redondo Beach, California",
+    "witnesses": "Capt. A.W.G. Bass, USAF",
+    "photographs": "no"
+}

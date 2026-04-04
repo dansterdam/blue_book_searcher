@@ -1,0 +1,15 @@
+{
+    "main event": "A radar operator detected an unidentified object over Wichita, Kansas in 1950.",
+    "interesting points": [
+        "The object was tracked on radar for approximately 1 minute.",
+        "The object was observed to travel on a course between 210-275 degrees.",
+        "The radar operator could not definitively identify the object as an aircraft.",
+        "No photographs were taken during the sighting.",
+        "The report indicates this was a Ground-Radar observation rather than a visual sighting."
+    ],
+    "result": "inconclusive",
+    "sighted object": "unidentified radar target",
+    "location": "Wichita, Kansas",
+    "witnesses": "radar operator",
+    "photographs": "no"
+}

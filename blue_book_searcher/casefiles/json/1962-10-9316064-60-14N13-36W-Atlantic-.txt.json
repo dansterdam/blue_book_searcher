@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A military aircraft crew spotted a bright, round, white object moving in the sky over the Atlantic Ocean on October 23, 1962.",
+    "interesting points": [
+        "The object was initially observed 30 degrees above the horizon, moving at a velocity of 65 degrees per 10 minutes.",
+        "The object was tracked visually by the aircraft crew from 30 degrees above the horizon to 45 degrees above the horizon, before passing behind the aircraft and being lost from sight.",
+        "The object was described as being the size of a first magnitude star and having a bright, green and white color.",
+        "No radar contact or physical evidence of the object was reported.",
+        "Analysis of satellite orbital data indicated that no known satellites were in the vicinity at the time of the sighting."
+    ],
+    "result": "inconclusive",
+    "sighted object": "a bright, round, white object",
+    "location": "Atlantic Ocean, 60°1.4'N 13°36'W",
+    "witnesses": "military aircraft crew",
+    "photographs": "no"
+}

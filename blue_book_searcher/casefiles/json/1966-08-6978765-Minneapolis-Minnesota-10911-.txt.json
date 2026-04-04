@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "The image provided appears to be pages from a UFO report document from Project Blue Book, with text indicating it is from the Foreign Technology Division of the USAF.",
+    "interesting points": [
+        "The document is classified as UNCLASSIFIED.",
+        "The document contains 5 photographs of unidentified aerial phenomena.",
+        "The photographs appear to be part of a Project Blue Book investigation.",
+        "One of the photographs shows a blurry aerial image, possibly of an unidentified flying object.",
+        "The report is from August or October 1966 and is from Minneapolis, Minnesota."
+    ],
+    "result": "unexplained",
+    "sighted object": "unidentified aerial phenomena in photographs",
+    "location": "Minneapolis, Minnesota",
+    "witnesses": "unknown",
+    "photographs": "yes, the report includes 5 photographs"
+}

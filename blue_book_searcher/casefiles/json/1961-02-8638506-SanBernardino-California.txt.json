@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A white object, 20 inches in diameter, appeared and disappeared at 60-second intervals, moving in a northward direction. The object was sighted by two civilian observers for about 20 minutes.",
+    "interesting points": [
+        "The observers believed the object was a meteor 3 to 4 billion miles away, passing by.",
+        "The Air Force investigated the sighting and determined the object was likely a weather balloon based on wind data from nearby Air Force bases.",
+        "The report mentions that no photographs were taken of the object.",
+        "The report includes detailed weather data and information about balloon launches in the area around the time of the sighting.",
+        "The investigating officer concluded that the object was a 'common meteorological balloon' based on the observations and investigation."
+    ],
+    "result": "likely a weather balloon",
+    "sighted object": "a white, round object about 20 inches in diameter",
+    "location": "Unknown, likely in the San Bernardino, California area",
+    "witnesses": "two civilian observers",
+    "photographs": "no photographs were taken"
+}

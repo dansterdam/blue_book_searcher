@@ -1,0 +1,15 @@
+{
+    "main event": "A radar target was observed for 20 minutes on April 17, 1952 in Benton, Pennsylvania.",
+    "interesting points": [
+        "The target was a strong radar return that was very difficult to lock on.",
+        "Two F-94 interceptors were scrambled to intercept the target, but the identification was not obtained.",
+        "The target was observed at a speed of 210 knots and an altitude of 21°53' miles.",
+        "The target was handed off to another station at a latitude of 40°30' feet.",
+        "The weather conditions during the sighting were unknown."
+    ],
+    "result": "unidentified",
+    "sighted object": "radar target",
+    "location": "Benton, Pennsylvania",
+    "witnesses": "radar operator",
+    "photographs": "no"
+}

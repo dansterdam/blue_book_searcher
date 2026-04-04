@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report text:
+
+{
+    "main event": "A radar object was tracked for 60 minutes near York, New York in 1961.",
+    "interesting points": [
+        "The object was initially classified as a possible balloon, aircraft, or astronomical object.",
+        "Photo analysis concluded the alleged objects were caused by poor photo processing and were not directly observed.",
+        "Several photographs were submitted for analysis but were inconclusive, with the objects blurred or caused by foreign material on the film.",
+        "The unidentified objects were determined to be the result of poor quality photo development.",
+        "The report includes a handwritten diagram or sketch, as well as maps and photographs, but no clear images of the UFO."
+    ],
+    "result": "inconclusive",
+    "sighted object": "unidentified radar target",
+    "location": "Near York, New York",
+    "witnesses": "unknown",
+    "photographs": "yes, but inconclusive"
+}

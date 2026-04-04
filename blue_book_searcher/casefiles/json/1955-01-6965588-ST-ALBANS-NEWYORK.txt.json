@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A civilian plane was sighted hovering and lighting up in the sky near St. Albans, New York on January 11, 1955.",
+    "interesting points": [
+        "The plane was reported to be at a very low altitude initially, then it lit up and went out of sight.",
+        "About 30 minutes later, the plane returned in the same direction, lit up again, and then went out of sight.",
+        "The police were called about the sighting at the St. Albans, Vermont station.",
+        "The plane was described as hovering stationarily and then flying away.",
+        "The report states there was 'insufficient data' to draw a conclusion about the sighting."
+    ],
+    "result": "insufficient data for evaluation",
+    "sighted object": "a civilian plane",
+    "location": "St. Albans, New York",
+    "witnesses": "3 civilians",
+    "photographs": "unknown"
+}

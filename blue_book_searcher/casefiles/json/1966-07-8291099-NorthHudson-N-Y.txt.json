@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+  "main event": "A civilian observer spotted an odd-shaped, aircraft-like object over North Hudson, New York on July 15, 1966.",
+  "interesting points": [
+    "The object was described as white and blue in color, with circulating lights.",
+    "The observer saw white streaks in the sky and a light on the inside of the object.",
+    "The object moved rapidly from north to south, disappearing over the mountains.",
+    "The observation lasted for approximately 23 minutes.",
+    "The Air Force investigator concluded that the object was likely two aircraft, a KC-135 tanker and a B-52 bomber, engaged in a refueling operation, which the civilian observer was unaware of."
+  ],
+  "result": "explained",
+  "sighted object": "an odd-shaped, aircraft-like object",
+  "location": "North Hudson, New York",
+  "witnesses": "civilian observer",
+  "photographs": "no"
+}

@@ -1,0 +1,130 @@
+<!-- templates/searcher/search.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #e0e0e0;
+            background-color: #2e1a47; /* Dark purple background */
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #3d2a6a; /* Slightly lighter purple for content area */
+            border-radius: 10px;
+        }
+        form {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        input[type="text"] {
+            padding: 10px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px 0 0 5px;
+            outline: none;
+            width: 300px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4a2d7f; /* Button color */
+            border: none;
+            border-radius: 0 5px 5px 0;
+            color: #e0e0e0;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #3d2a6a; /* Darker purple on hover */
+        }
+        h2 {
+            color: #e0a0ff; /* Light purple text for heading */
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #4a2d7f; /* Dark purple background for list items */
+            border-radius: 10px;
+            margin-bottom: 20px;
+            padding: 20px;
+        }
+        .result-info {
+            padding: 10px;
+            background-color: #5a3d8c; /* Slightly lighter purple for info box */
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+        .result-info p {
+            margin: 5px 0;
+        }
+        .result-info strong {
+            color: #e0a0ff; /* Light purple text for labels */
+        }
+        li a {
+            color: #e0a0ff; /* Light purple color for links */
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        li a:hover {
+            text-decoration: underline;
+        }
+        .highlight {
+            background-color: #f5b2f0; /* Light pink background for highlighted text */
+            color: #000; /* Black text for contrast */
+        }
+        .no-results {
+            text-align: center;
+            color: #e0a0ff; /* Light purple text for no results message */
+            font-size: 18px;
+        }
+        .no-query-message {
+            text-align: center;
+            color: #e0a0ff; /* Light purple text for no query message */
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form method="GET" action="">
+            <input type="text" name="q" value="{{ query }}" placeholder="Search... 🛸">
+            <button type="submit">Search 🔍</button>
+        </form>
+
+        {% if query %}
+            {% if results %}
+                <h2>Search Results for "{{ query }}" 🚀</h2>
+                <ul>
+                    {% for result in results %}
+                        <li>
+                            <a href="{{ result.url }}">{{ result.title }}</a>
+                            <div class="result-info">
+                                <p><strong>Location:</strong> {{ result.location }} 📍</p>
+                                <p><strong>Type:</strong> {{ result.type }} 🔍</p>
+                                <p><strong>Witnesses:</strong> {{ result.witnesses }} 🕵️‍♂️</p>
+                            </div>
+                            <p>{{ result.content|safe }}</p> <!-- Render HTML safely -->
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p class="no-results">No results found 🌌</p>
+            {% endif %}
+        {% else %}
+            <p class="no-query-message">{{ no_query_message }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>

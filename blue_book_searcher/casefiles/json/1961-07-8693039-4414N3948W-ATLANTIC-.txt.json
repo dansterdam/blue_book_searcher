@@ -1,0 +1,17 @@
+Here is the JSON summary of the provided UFO report:
+
+{
+    "main event": "A radar tracked a single object, approximately 15 miles in diameter, slowly moving and remaining at 28,000 feet for 35 minutes. The object then descended to 15,000 feet and then ascended back to the original altitude before disappearing from the radar scope.",
+    "interesting points": [
+        "The object exhibited no maneuverability and no trail or exhaust was observed.",
+        "The radar tracked the object for a total of 35 minutes.",
+        "The object descended to 15,000 feet before ascending back to its original altitude of 28,000 feet.",
+        "The object was approximately 15 miles in diameter.",
+        "No further observation of the object was possible after it disappeared from the radar scope."
+    ],
+    "result": "unidentified",
+    "sighted object": "single object, approximately 15 miles in diameter",
+    "location": "Atlantic",
+    "witnesses": "radar observation",
+    "photographs": "no"
+}

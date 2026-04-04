@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An unidentified object was observed by witnesses in Danbury, Connecticut on September 10, 1961.",
+    "interesting points": [
+        "The object was described as a brilliant light, color undetermined, at an altitude of approximately 1200 to 1500 feet.",
+        "The object was moving in a northerly direction at an estimated speed of 300 to 400 mph.",
+        "The object was observed for approximately 5 minutes before suddenly accelerating and disappearing out of sight.",
+        "No sound was heard from the object, and weather conditions were clear with excellent visibility.",
+        "No other aircraft were observed in the area at the time."
+    ],
+    "result": "unidentified",
+    "sighted object": "a brilliant light, color undetermined",
+    "location": "Danbury, Connecticut",
+    "witnesses": "police officers",
+    "photographs": "none"
+}

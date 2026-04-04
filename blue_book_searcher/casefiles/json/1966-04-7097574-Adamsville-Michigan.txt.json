@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A civilian observer sighted a light in the sky that was changing colors from red to white over Adamsville, Michigan on April 7, 1966.",
+    "interesting points": [
+        "The object was described as circular in shape, tapering at the outside edges.",
+        "The object remained stationary and did not display any maneuvers or movement.",
+        "The object was observed for about 10 minutes before disappearing.",
+        "The observer used binoculars to observe the object.",
+        "The object was estimated to be 2-4 miles away at an elevation of 25-30 degrees."
+    ],
+    "result": "Identified as the star Arcturus",
+    "sighted object": "Circular light in the sky changing colors between red and white",
+    "location": "Adamsville, Michigan",
+    "witnesses": "1 civilian observer",
+    "photographs": "No"
+}

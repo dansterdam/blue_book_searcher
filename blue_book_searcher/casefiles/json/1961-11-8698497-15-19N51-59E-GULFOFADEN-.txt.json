@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A very bright unidentified object was observed over the Gulf of Aden.",
+    "interesting points": [
+        "The object was initially sighted bearing 328 true at a position angle of 42 degrees.",
+        "The object appeared to hesitate and follow an erratic course directly overhead.",
+        "The object was observed for approximately 23 minutes before being lost from sight.",
+        "The object was last observed bearing 143 true at a position angle of 35 degrees.",
+        "The report attributes the erratic course and hesitation to atmospheric turbulence, suggesting a natural phenomenon."
+    ],
+    "result": "Inconclusive",
+    "sighted object": "A very bright unidentified object",
+    "location": "Gulf of Aden, 15.1°N 51.5°E",
+    "witnesses": "Military personnel",
+    "photographs": "No, the report does not include any photographs"
+}

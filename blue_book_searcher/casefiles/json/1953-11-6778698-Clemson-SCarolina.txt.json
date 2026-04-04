@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report text:
+
+{
+    "main event": "A bright white ball of fire with a tail was observed moving at high speed from southwest to northeast in Clemson, South Carolina on November 25, 1953 at around 2230/1955Z.",
+    "interesting points": [
+        "The object was observed to dip above the horizon.",
+        "The source stated the object would have radiated a high intensity of light if seen at night.",
+        "The exact position of the observer is unknown, but they were a civilian located in Clemson, South Carolina.",
+        "Weather conditions at the time included west winds at 16 knots on the surface, and winds of 17-26 knots at higher altitudes.",
+        "The report concludes that there is insufficient data to determine the nature of the object, listing it as a possible daylight meteor or missile activity."
+    ],
+    "result": "Insufficient data, possible daylight meteor or missile activity",
+    "sighted object": "Bright white ball of fire with a tail",
+    "location": "Clemson, South Carolina",
+    "witnesses": "Civilian observer(s)",
+    "photographs": "None"
+}

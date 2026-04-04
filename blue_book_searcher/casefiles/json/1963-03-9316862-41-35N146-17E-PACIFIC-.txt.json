@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A Northwest Airlines pilot spotted a bright flash of light in the sky on March 12, 1963.",
+    "interesting points": [
+        "The object was light blue in color and was observed for 2 seconds.",
+        "It was traveling on a heading of 225 degrees, just above the horizon.",
+        "The pilot reported it was a possible meteor, but no descent was observed.",
+        "The sighting occurred at 1927Z at location 41.35N 146.17E.",
+        "The report was filed as part of Project Blue Book, the U.S. Air Force's UFO investigation program."
+    ],
+    "result": "possible meteor",
+    "sighted object": "bright flash of light",
+    "location": "41.35N 146.17E",
+    "witnesses": "Northwest Airlines pilot",
+    "photographs": "no"
+}

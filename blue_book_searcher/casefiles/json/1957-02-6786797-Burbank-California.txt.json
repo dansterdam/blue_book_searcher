@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "Two oval-shaped objects were observed over Burbank, California on February 13, 1957 at 7:15pm.",
+    "interesting points": [
+        "The objects were described as being the size of a star, with one appearing to have red and green flashing lights.",
+        "The objects were observed at high altitudes, around 60,000 feet, and were moving at speeds between 600-800 mph.",
+        "One of the objects changed course and disappeared, while the other object moved in the opposite direction before also disappearing.",
+        "The sighting was reported by a civilian police officer and investigated as part of Project Blue Book.",
+        "The report concluded that the objects were most likely aircraft, given the congested airspace over Burbank and the scattered cloud cover that could have distorted the appearance of high-flying objects."
+    ],
+    "result": "probable aircraft",
+    "sighted object": "two oval-shaped objects with flashing lights",
+    "location": "Burbank, California",
+    "witnesses": "civilian police officer",
+    "photographs": "none"
+}

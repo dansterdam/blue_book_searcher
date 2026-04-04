@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "Two unidentified objects were observed moving north for 5 minutes in Oakwood, Ohio on August 25, 1965.",
+    "interesting points": [
+        "The objects appeared brighter than a star and had a steady flight path.",
+        "The objects were estimated to be moving at a speed of 1 second of arc per second.",
+        "The observer briefly sighted the objects at 11:10 PM, but no last sighting was reported.",
+        "The report includes a sketch showing the objects' positions and trajectory over time.",
+        "The observer was asked to provide additional details about the sighting, such as the size, shape, and any unusual characteristics of the objects."
+    ],
+    "result": "unexplained",
+    "sighted object": "two bright, unidentified objects",
+    "location": "Oakwood, Ohio",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

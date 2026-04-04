@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report text:
+
+{
+    "main event": "A possible satellite-sized object was visually sighted traveling west to east at 34N 176W.",
+    "interesting points": [
+        "The object was the size of a fingernail's head and was 42 degrees above the horizon.",
+        "The object's speed was unknown.",
+        "The report notes that the easterly heading is inconsistent with the object being a satellite, and it is evaluated as possibly being a satellite but with some uncertainties.",
+        "The report mentions a CIRVIS (Civil Air Regulations for Intercept Verification of Space Objects) report number N43213.",
+        "The report contains various celestial event times, such as new moon, lunar eclipse, and Venus in superior conjunction."
+    ],
+    "result": "inconclusive",
+    "sighted object": "a possible satellite-sized object",
+    "location": "34N 176W",
+    "witnesses": "military",
+    "photographs": "no"
+}

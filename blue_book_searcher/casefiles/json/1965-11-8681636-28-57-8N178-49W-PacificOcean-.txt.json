@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report text:
+
+{
+    "main event": "A bright bluish light explosion was observed in the sky, which lit up the whole horizon. Red centrals were visible in the position of the explosion for two minutes.",
+    "interesting points": [
+        "The explosion was observed by the crew of the USNS Croatan ship.",
+        "The incident occurred at the coordinates 23-37.N 173-49W.",
+        "The explosion was observed at 17:15:32 local time.",
+        "The explosion was observed at an angle of 42 degrees from the horizon.",
+        "The wind speed at the time of the incident was 15 knots from the WNW direction."
+    ],
+    "result": "unexplained",
+    "sighted object": "bright bluish light explosion",
+    "location": "23-37.N 173-49W",
+    "witnesses": "crew of the USNS Croatan ship",
+    "photographs": "no"
+}

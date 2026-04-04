@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An unidentified flying object was observed over Biscayne Bay, Florida on October 9, 1959.",
+    "interesting points": [
+        "The object was observed at an altitude of 40-50,000 feet and had a high rate of climb.",
+        "The object appeared to have a white aura and was traveling at an estimated speed of 1,232 miles per hour.",
+        "The object was in visual contact for about 1 minute before disappearing into a lower cloud bank.",
+        "Both ground and intercepted radar tracked the object.",
+        "The case was inconclusive and carried as a missile sighting due to insufficient data for a complete evaluation."
+    ],
+    "result": "inconclusive",
+    "sighted object": "one unidentified flying object",
+    "location": "Biscayne Bay, Florida",
+    "witnesses": "yacht",
+    "photographs": "no"
+}

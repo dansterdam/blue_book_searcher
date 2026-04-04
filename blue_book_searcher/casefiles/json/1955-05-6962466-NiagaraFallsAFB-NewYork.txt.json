@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A pilot spotted a spherical white object approximately 10 feet in diameter while flying over Niagara Falls AFB, New York on May 13, 1955.",
+    "interesting points": [
+        "The object was observed on three consecutive occasions for two to three seconds each time.",
+        "The pilot circled the area to attempt further sightings, but with negative results.",
+        "Due to the brevity of the sighting, the object did not have the characteristics of a balloon or aircraft.",
+        "Identification authorities concluded there was insufficient data for a conclusive evaluation.",
+        "The report was classified as 'Unknown'."
+    ],
+    "result": "unknown",
+    "sighted object": "spherical white object approximately 10 feet in diameter",
+    "location": "Niagara Falls AFB, New York",
+    "witnesses": "pilot",
+    "photographs": "no"
+}

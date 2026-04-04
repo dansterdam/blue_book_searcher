@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A vapor trail, white in color, was observed in Alexandria, VA on 3 Oct 55.",
+    "interesting points": [
+        "The vapor trail was observed for 15 seconds, traveling from horizon to horizon.",
+        "The vapor trail had a light glow and no sound was reported.",
+        "The sighting was reported by a civilian observer.",
+        "The conclusion provided in the report was 'Possible meteor'.",
+        "The report also mentions the possibility of the sighting being a balloon."
+    ],
+    "result": "Possible meteor",
+    "sighted object": "vapor trail",
+    "location": "Alexandria, VA",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

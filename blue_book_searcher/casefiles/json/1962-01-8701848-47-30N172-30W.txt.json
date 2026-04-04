@@ -1,0 +1,17 @@
+Here is the JSON summary of the provided UFO report:
+
+{
+    "main event": "A Navy aircraft reported sighting a single satellite on a bearing of 280 degrees from position 47°30'N 172°30'W at 1702Z on January 5, 1962.",
+    "interesting points": [
+        "The satellite appeared 35 degrees above the horizon, traveling from west to east and passing the zenith at 1702Z.",
+        "The speed of the satellite was undetermined.",
+        "The satellite had no identifying marks.",
+        "The report was forwarded to various military commands, including the Commander-in-Chief of the Pacific Fleet and the Commander of the Pacific Air Forces.",
+        "The case was classified as a possible satellite observation."
+    ],
+    "result": "possible satellite",
+    "sighted object": "single satellite",
+    "location": "47°30'N 172°30'W",
+    "witnesses": "Navy aircraft",
+    "photographs": "no"
+}

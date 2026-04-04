@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A target was inbound at 06399* and was sent to the search area, but ground radar and F-102 aircraft searches did not find any results.",
+    "interesting points": [
+        "The object was detected by ground radar, indicating a 'ground-radar' type of sighting.",
+        "The object was inbound, suggesting it was approaching the location rather than just hovering or moving randomly.",
+        "The search efforts involving a L-20 search and F-102 aircraft were unable to locate the object visually.",
+        "The report mentions that the identification data provided was simply that a 'target was inbound', suggesting limited details were available.",
+        "The conclusion was that there was 'Insufficient data for evaluation', indicating the sighting could not be properly identified or explained."
+    ],
+    "result": "unidentified",
+    "sighted object": "unspecified target detected on radar",
+    "location": "North Star Bay, Greenland",
+    "witnesses": "ground radar operators",
+    "photographs": "no"
+}

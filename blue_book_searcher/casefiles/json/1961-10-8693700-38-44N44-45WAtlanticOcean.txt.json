@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An unidentified object was observed on radar and by a C-97 aircraft crew in the Atlantic Ocean.",
+    "interesting points": [
+        "The object was observed by ground control radar initially, described as a bright light moving from south to north.",
+        "Approximately 2 minutes later, the C-97 aircraft crew observed a faded, yellowish object following the same track as the initial sighting.",
+        "The initial object appeared suddenly at the aircraft's 9 o'clock position, about 45 degrees above the horizon, and proceeded at a very high speed in an arcing path before disappearing.",
+        "The initial sighting lasted for about 1 second, with an afterglow lingering for 1/4 second.",
+        "The weather at the time was clear with high, thin cirrus clouds and unlimited visibility."
+    ],
+    "result": "Unidentified; possibly a weather balloon or aircraft.",
+    "sighted object": "Bright light and faded, yellowish object",
+    "location": "Atlantic Ocean, 38-44N 44-45W",
+    "witnesses": "Ground radar and C-97 aircraft crew",
+    "photographs": "No photographs present"
+}

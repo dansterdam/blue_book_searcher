@@ -1,0 +1,17 @@
+Here is the JSON summary for the given UFO report:
+
+{
+    "main event": "A round, white object was spotted in the sky near Denver, Iowa on June 21, 1967.",
+    "interesting points": [
+        "The object was observed for 10 minutes before disappearing to the northeast.",
+        "The object was at an angle of 45 degrees to the horizon when first spotted, and 60 degrees when it disappeared.",
+        "The object moved in a straight line at a speed that was not excessively fast.",
+        "The weather conditions were clear with less than one-tenth cloud cover and calm winds.",
+        "The preparing officer concluded that the object was likely a high-flying aircraft or possible satellite."
+    ],
+    "result": "unidentified",
+    "sighted object": "round, white object",
+    "location": "Denver, Iowa",
+    "witnesses": "two farmers, ages 37 and 39",
+    "photographs": "no"
+}

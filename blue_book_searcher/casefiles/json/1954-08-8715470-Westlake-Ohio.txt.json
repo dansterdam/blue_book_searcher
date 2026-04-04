@@ -1,0 +1,17 @@
+Here is the JSON summary based on the information provided in the UFO report:
+
+{
+    "main event": "A man observed an unidentified flying object near Westlake, Ohio on August 2, 1954.",
+    "interesting points": [
+        "The object was approximately 50 seconds of arc in size, elliptical in shape, and white in color.",
+        "The object was observed at an altitude of 5,000 feet, and then suddenly dropped to 2,000 feet in 3 seconds, remaining at that altitude for 10 seconds before disappearing.",
+        "The object was estimated to be approximately 6 miles away from the observer.",
+        "The observer was a member of the Cleveland Astronomical Society and had extensive experience in aircraft identification.",
+        "The object exhibited no visible means of propulsion or visible lights, and its speed was estimated to be similar to that of a B-17 fighter plane, approximately 1,000 miles per hour."
+    ],
+    "result": "unidentified",
+    "sighted object": "an elliptical white object in the sky",
+    "location": "Westlake, Ohio",
+    "witnesses": "a member of the Cleveland Astronomical Society",
+    "photographs": "no"
+}

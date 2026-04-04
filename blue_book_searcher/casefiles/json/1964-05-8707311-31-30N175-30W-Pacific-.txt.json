@@ -1,0 +1,17 @@
+Here is the JSON summary of the provided UFO report:
+
+{
+    "main event": "A possible satellite was observed in the Pacific at 31.30N 175.30W on May 24, 1964.",
+    "interesting points": [
+        "The object was observed at an elevation of 50 degrees and was moving very fast to the northeast.",
+        "The object had the brightness of a first magnitude star.",
+        "The observation was made from an altitude of 7,000 feet.",
+        "The report states that the object was possibly a satellite, but no evaluation was provided at the time.",
+        "The report was received and retransmitted to the CIA."
+    ],
+    "result": "inconclusive",
+    "sighted object": "a possible satellite",
+    "location": "31.30N 175.30W (Pacific)",
+    "witnesses": "military personnel",
+    "photographs": "none"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary of the key details from the report:
+
+{
+    "main event": "On November 11, 1967, the FAA radar in North Olmsted, Ohio picked up an unidentified target that was estimated to be at an altitude of 5,000 to 7,500 feet and 25 miles north of Erie.",
+    "interesting points": [
+        "The radar controller could not determine the identity of the target, but believed it was likely a balloon based on the wind direction.",
+        "The target was tracked for about 1 hour and 30 minutes, traveling in a straight line toward Buffalo.",
+        "No corroborating visual sightings or photographic evidence of the target were reported.",
+        "The Air Force followed up with the FAA to gather more details about the radar sighting, but could not determine the identity of the object.",
+        "The Weather Bureau reported that a 30-gram meteorological balloon had been released in Fort Wayne, Indiana around the time of the sighting, which may have been the object observed on radar."
+    ],
+    "result": "probable (balloon)",
+    "sighted object": "unidentified target on radar",
+    "location": "North Olmsted, Ohio",
+    "witnesses": "FAA radar operators",
+    "photographs": "no"
+}

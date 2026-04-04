@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report text:
+
+{
+    "main event": "An unidentified fast-moving object was observed on ground radar and by a visual observer for about 3 minutes.",
+    "interesting points": [
+        "The object moved at a very high speed and disappeared from sight after about 3 minutes.",
+        "The report states that the information from the radar and visual observer was very reliable, though no certain conclusions could be drawn about the nature of the object.",
+        "The object is described as having a terrific speed and leaving a prominent vapor trail that lasted for 5 seconds, unlike a meteor.",
+        "The object was also detected by an Army ship-to-shore radar and the information was transmitted to a control center.",
+        "The object blinked on the radar until the target was lost."
+    ],
+    "result": "unexplained",
+    "sighted object": "a fast-moving unidentified object",
+    "location": "not specified",
+    "witnesses": "ground radar and visual observer",
+    "photographs": "none"
+}

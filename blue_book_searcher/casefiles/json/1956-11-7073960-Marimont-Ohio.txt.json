@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A tear-drop shaped object, about half the size of the moon, was observed descending vertically below the horizon near Marimont, Ohio.",
+    "interesting points": [
+        "The object was apple green in color with a red tail.",
+        "The sighting lasted for only 3 seconds.",
+        "The observer noted the object was descending vertically towards the horizon.",
+        "The report indicates a photograph was taken by an unidentified person, but no photograph is included in the provided document.",
+        "The report concludes the sighting was likely caused by a meteor based on the object's description, duration, and flight characteristics."
+    ],
+    "result": "Likely a meteor",
+    "sighted object": "A tear-drop shaped object with an apple green color and red tail",
+    "location": "Near Marimont, Ohio",
+    "witnesses": "Unknown",
+    "photographs": "A photograph was reportedly taken, but not included"
+}

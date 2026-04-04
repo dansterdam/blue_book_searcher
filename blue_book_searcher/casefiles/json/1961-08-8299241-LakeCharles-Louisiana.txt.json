@@ -1,0 +1,17 @@
+Here is the JSON summary for the provided UFO report:
+
+{
+    "main event": "A mysterious object was reported in the Lake Charles, Louisiana area at approximately 2030 LCT on August 13, 1961.",
+    "interesting points": [
+        "The object was recovered the next day, on August 14, 1961, at 1500 LCT and identified as an M-31 para-flare, but the origin of the para-flare could not be determined.",
+        "The sighting of the falling object was a front-page item in the Lake Charles American Press newspaper on August 14, 1961.",
+        "The report was submitted to the Air Force because the falling object was considered significant enough to be reported.",
+        "The report indicates that the Air Force considered the event to be 'insignificant'.",
+        "There is no photograph present in the image, which appears to be a scanned page from a Project Blue Book record card."
+    ],
+    "result": "Identified as a para-flare, but origin unknown",
+    "sighted object": "Unidentified falling object",
+    "location": "Lake Charles, Louisiana",
+    "witnesses": "Unspecified",
+    "photographs": "No"
+}

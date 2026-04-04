@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report:
+
+{
+    "main event": "A naval navigator observed an unidentified object in the sky for 13 minutes.",
+    "interesting points": [
+        "The object was sighted at an elevation of 35 degrees bearing 340 degrees true, traveling in a southeasterly direction.",
+        "The object had the brightness of a magnitude 3 star.",
+        "Air and surface radar could not detect the object.",
+        "The object disappeared at an altitude of 20 degrees bearing 135 degrees true.",
+        "The report is a naval message, indicating the sighting was reported through official military channels."
+    ],
+    "result": "unexplained",
+    "sighted object": "an unidentified bright object in the sky",
+    "location": "not specified",
+    "witnesses": "a naval navigator",
+    "photographs": "none"
+}

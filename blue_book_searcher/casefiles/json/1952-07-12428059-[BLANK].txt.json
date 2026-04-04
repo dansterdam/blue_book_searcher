@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "There was a press conference with Major General John A. Samford, Director of Intelligence for the U.S. Air Force, discussing UFO sightings and radar detections.",
+    "interesting points": [
+        "The Air Force has received over 1,000-2,000 reports of unidentified flying objects since 1947, with about 20% remaining unexplained.",
+        "The Air Force is interested in these reports due to the possibility of a menace to the United States, but so far has found no pattern or consistency to indicate any threat.",
+        "The Air Force is seeking ways to better measure and analyze these phenomena, such as using specialized cameras and telescopes, but have not yet been able to provide definitive scientific explanations.",
+        "Some radar detections have been attributed to temperature inversions and other atmospheric phenomena, but the Air Force is not certain that this explains all the reports.",
+        "The Air Force has investigated the possibility of these being secret U.S. military technology, but has ruled that out for the unexplained sightings in the Washington, D.C. area."
+    ],
+    "result": "unexplained",
+    "sighted object": "unidentified flying objects",
+    "location": "Washington, D.C. area",
+    "witnesses": "radar operators, airline pilots, other military personnel",
+    "photographs": "no photographs are mentioned in the report"
+}

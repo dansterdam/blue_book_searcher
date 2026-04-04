@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A person sighted an unidentified flying object near Lyndhurst, Ohio on an unspecified date.",
+    "interesting points": [
+        "The person is almost positive it was not a conventional aircraft.",
+        "The person requested a form from the Air Force to help determine what they saw.",
+        "The Air Force responded that the information received was not sufficient for a scientific investigation and requested the person complete an attached AF Form 117.",
+        "The report indicates that a Form 117 was sent to the observer, but as of the date of the report, it had not been returned.",
+        "The report concludes there was 'INSUFFICIENT DATA FOR EVALUATION'."
+    ],
+    "result": "insufficient data for evaluation",
+    "sighted object": "unidentified flying object",
+    "location": "Lyndhurst, Ohio",
+    "witnesses": "one person",
+    "photographs": "none"
+}

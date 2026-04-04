@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A USN pilot saw a light source to the rear of their aircraft that illuminated the sky over Turkey in 1960.",
+    "interesting points": [
+        "The pilot was unable to determine the direction the light was moving.",
+        "The light source was likely a meteor, according to the report's conclusions.",
+        "The sighting occurred while the pilot was flying approximately 12 miles north of Biga, Turkey.",
+        "The report was filed as part of Project Blue Book, a US Air Force investigation of unidentified flying objects.",
+        "The report does not contain any photographs, only a Project 10073 Record Card."
+    ],
+    "result": "Possibly a meteor",
+    "sighted object": "a light source that illuminated the sky",
+    "location": "North of Biga, Turkey",
+    "witnesses": "USN pilot",
+    "photographs": "no"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "Two observers in Youngstown, Ohio reported seeing a round, white object in the sky on March 10, 1966.",
+    "interesting points": [
+        "The object appeared to be lit from within and was described as 20-30 times brighter than stars.",
+        "One observer used 8x75 binoculars to observe the object, which was at an elevation of 20 degrees.",
+        "The object remained stationary in the sky for about 2 hours.",
+        "Contrails from air traffic were observed passing below the object.",
+        "The reporting officer concluded the object was likely a large, high-altitude balloon in sunlight before dawn."
+    ],
+    "result": "Identified as a weather balloon",
+    "sighted object": "a round, white object",
+    "location": "Youngstown, Ohio",
+    "witnesses": "two civilian observers",
+    "photographs": "none"
+}

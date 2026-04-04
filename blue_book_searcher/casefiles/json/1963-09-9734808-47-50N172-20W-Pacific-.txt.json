@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A possible satellite was observed passing over the area at high altitude.",
+    "interesting points": [
+        "The object was approximately half the size of a silver dollar and metallic in color.",
+        "The object passed the star Altair at 0055Z.",
+        "There were a total of 75 initial sightings, with a well-defined underwater trail observed at an unknown distance.",
+        "The object was believed to be a satellite, with no unusual characteristics observed.",
+        "The object was sighted for 25 minutes, with an elevation change from 15 degrees to 55 degrees."
+    ],
+    "result": "Possible satellite observation, no unusual characteristics observed",
+    "sighted object": "One glowing object the size and shape of the star Altair",
+    "location": "47.33N 172.20W",
+    "witnesses": "Multiple observers",
+    "photographs": "No photographs included in the report"
+}

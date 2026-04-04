@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A civilian observed an unusual object resembling a chain of electric light bulbs flying northward in Chicago, Illinois on August 7, 1963.",
+    "interesting points": [
+        "The object changed shape three times during the 3-minute observation.",
+        "The object was described as red and fuzzy, with two shapes - one resembling an aircraft and the other being more fuzzy.",
+        "Investigation revealed the object was likely an aircraft towing an advertising light.",
+        "On August 6, 1963, a separate sighting of a stationary, colored light with 7-8 points was reported in Chicago, but deemed insufficient to determine the nature of the object.",
+        "On August 6, 1963, a sighting of flashing colored lights, red on top and green on bottom, was reported in Chicago and investigated, but deemed inconclusive."
+    ],
+    "result": "Possible aircraft with advertising lights",
+    "sighted object": "An object resembling a chain of electric light bulbs",
+    "location": "Chicago, Illinois",
+    "witnesses": "Civilian",
+    "photographs": "No"
+}

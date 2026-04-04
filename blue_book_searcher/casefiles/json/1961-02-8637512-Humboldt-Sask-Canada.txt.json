@@ -1,0 +1,17 @@
+Here is the JSON summary for the UFO report:
+
+{
+    "main event": "A bright red-orange object, the size of a pea, with a trail 4 times its size, was observed in the sky near Humboldt, Saskatchewan, Canada on February 17, 1961.",
+    "interesting points": [
+        "The object was visible for 6-8 minutes, which is longer than what would be expected for a meteor.",
+        "The object maneuvered in the sky, increasing and decreasing in size during the observation.",
+        "Several witnesses reported seeing the object on the evening of December 6, 1961, with the sighting lasting around 30 minutes.",
+        "No photographs or other physical evidence were obtained.",
+        "The Air Force investigated the reports and concluded the object was likely an atmospheric entry, possibly related to the USAF Satellite Tracking Program."
+    ],
+    "result": "Astronomical - Possibly a meteor or satellite entry",
+    "sighted object": "Bright red-orange object, size of a pea, with a trail 4 times its size",
+    "location": "Humboldt, Saskatchewan, Canada",
+    "witnesses": "Civilian",
+    "photographs": "No"
+}

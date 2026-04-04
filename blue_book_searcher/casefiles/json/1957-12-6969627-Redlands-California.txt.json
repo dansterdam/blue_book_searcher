@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "A civilian observed a bright, oval-shaped object the size of a half-dollar in the sky over Redlands, California on December 9, 1957.",
+    "interesting points": [
+        "The object was bright white and stationary, then faded out.",
+        "There was a small red light nearby, but it was not believed to be related to the first object.",
+        "The sighting lasted for 15-20 minutes.",
+        "An ADCC controller also observed the object and described it the same way.",
+        "The report concludes that the object was most likely the planet Venus, and the red light was the hazard light on San Antonio Peak."
+    ],
+    "result": "Probably Astronomical (Venus)",
+    "sighted object": "bright, oval-shaped object",
+    "location": "Redlands, California",
+    "witnesses": "civilian, ADCC controller",
+    "photographs": "no"
+}

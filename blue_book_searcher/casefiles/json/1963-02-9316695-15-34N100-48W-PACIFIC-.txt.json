@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+  "main event": "A satellite was sighted for 5 minutes at 30 degrees elevation angle, appearing to be in a polar orbit.",
+  "interesting points": [
+    "The sighting lasted for 5 minutes.",
+    "The object appeared to be a satellite in a polar orbit.",
+    "The sighting was reported by the USS Marysville, with the ship's location given as 15°34'N, 100°48'W in the Pacific Ocean.",
+    "The weather conditions at the time of the sighting included a wind velocity of 15 knots, an air temperature of 31°F, and a barometric pressure of 29.91 inches.",
+    "The report concluded that the sighting was likely a satellite, but the identification was uncertain."
+  ],
+  "result": "identified as likely a satellite, but identification uncertain",
+  "sighted object": "a satellite-like object",
+  "location": "Pacific Ocean, 15°34'N, 100°48'W",
+  "witnesses": "crew of the USS Marysville",
+  "photographs": "no"
+}

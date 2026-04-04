@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A UFO was observed on radar for 7 minutes over Beloit, Wisconsin on April 18, 1962.",
+    "interesting points": [
+        "The object appeared as a solid return on the radar screen and disappeared at an altitude of 10,000 feet.",
+        "The weather was clear and stars were visible at the time of the observation.",
+        "The object exhibited irregular movements and was not visually sighted.",
+        "Multiple reports of similar sightings over Beloit, Wisconsin were received in June 1962, including bright, maneuvering objects.",
+        "One report described a round, gray object estimated to be traveling over 5,000 mph and observed for 1-2 minutes by a registered nurse and another witness."
+    ],
+    "result": "unexplained",
+    "sighted object": "A solid radar return, described as a round, gray object",
+    "location": "Beloit, Wisconsin",
+    "witnesses": "Radar operators",
+    "photographs": "No"
+}

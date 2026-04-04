@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "Radar and visual sightings of an unidentified object over Turkey on June 25, 1965",
+    "interesting points": [
+        "The radar tracked the object for about 10 minutes, observing it make a 720 degree turn and maintain a steady course.",
+        "The object's angular size was about 1.5 degrees, approximately 10 times the scope limit of the radar.",
+        "No visual observations occurred in the same direction as the radar returns at the same time.",
+        "The radar returns were likely being caused by a transmitting aircraft, but no known radar-visual correlation could be made.",
+        "Additional sightings from previous days were mentioned for correlation, but no conclusions could be reached."
+    ],
+    "result": "insufficient data",
+    "sighted object": "unidentified object tracked on radar",
+    "location": "Turkey",
+    "witnesses": "military personnel at radar site",
+    "photographs": "none"
+}

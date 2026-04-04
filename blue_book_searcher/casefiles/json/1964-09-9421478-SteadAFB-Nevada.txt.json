@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report:
+
+{
+    "main event": "A pilot observed a fast-moving object that appeared to be the size of the head of a pin while flying at 33,000 feet on September 22, 1964.",
+    "interesting points": [
+        "The pilot initially thought the object was a satellite or missile, but determined it was not a satellite.",
+        "The object was moving at a very high rate of speed.",
+        "The sighting lasted for approximately 5 minutes.",
+        "Radar later determined the object was likely an Atlas D missile launched from Vandenberg Air Force Base.",
+        "No photographs were taken of the object."
+    ],
+    "result": "Likely an Atlas D missile launch",
+    "sighted object": "A fast-moving object the size of a pin head",
+    "location": "Near Stead Air Force Base, Nevada",
+    "witnesses": "Pilot Peter Hendrickson",
+    "photographs": "No"
+}

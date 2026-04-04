@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report:
+
+{
+    "main event": "A yellowish-green object described as 'falling upwards' was sighted northeast of Bermuda.",
+    "interesting points": [
+        "The object was sighted by the Gull Special at an angle of 35 degrees and an azimuth angle of 312 degrees.",
+        "The duration of the sighting was 1 second.",
+        "The object was reported at the position 32.45N 65.5W on September 26, 0613Z.",
+        "The report concludes that the object was probably a meteor.",
+        "The report was received by various military and air force organizations, including HQ USAF, Wright-Patterson AFB, and Scott AFB."
+    ],
+    "result": "probable meteor",
+    "sighted object": "yellowish-green object",
+    "location": "Northeast of Bermuda",
+    "witnesses": "Gull Special",
+    "photographs": "no"
+}

@@ -1,0 +1,17 @@
+Here is the summary of the UFO report in JSON format:
+
+{
+    "main event": "A bright light in the sky was observed, traveling very fast and then disappearing from sight.",
+    "interesting points": [
+        "The object was tracked on radar for 23-25 minutes, with movement observed from west and north of the object's location.",
+        "The object's motion was captured on a tower-mounted camera, and the footage showed the object flying over at an altitude of 1,250 feet and a speed of approximately 600 mph.",
+        "The report mentions a civilian UFO spotter, who was a field tower operator, as the initial observer of the object.",
+        "The report was written by Captain Eugene T. Craven, suggesting it was part of an official investigation or documentation process.",
+        "The report does not provide any additional details about the appearance or characteristics of the observed object, beyond it being a 'bright light in the sky.'"
+    ],
+    "result": "unexplained",
+    "sighted object": "bright light in the sky",
+    "location": "unspecified",
+    "witnesses": "field tower operator",
+    "photographs": "yes, the report includes camera footage"
+}

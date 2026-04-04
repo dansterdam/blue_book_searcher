@@ -1,0 +1,17 @@
+Here is the JSON summary for the given UFO report:
+
+{
+    "main event": "A classified object was observed visually and by radar near El Centro, California on May 23, 1952 around 3:15 AM.",
+    "interesting points": [
+        "Some observers thought the object was a meteor, while others said it was not.",
+        "The object was observed both visually and on radar.",
+        "The conclusions section lists various possibilities like balloon, aircraft, astronomical, or unknown.",
+        "The location of the sighting is classified.",
+        "The report does not include any photographs."
+    ],
+    "result": "unknown",
+    "sighted object": "classified object",
+    "location": "Classified location near El Centro, California",
+    "witnesses": "Radar crew",
+    "photographs": "no"
+}

@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A bright red object with a luminous tail was observed traveling very high and very fast over Palm Beach, Florida on June 27, 1960.",
+    "interesting points": [
+        "The object was observed for about 3 minutes.",
+        "The object was traveling from northwest to southeast.",
+        "The report indicates the object was possibly a missile, as the military was conducting scheduled missile tests in the area that day.",
+        "The object was reported by a pilot boat sighter in Palm Beach.",
+        "The object was evaluated to potentially be an aircraft or missile based on the available information."
+    ],
+    "result": "Possibly a missile or aircraft",
+    "sighted object": "A bright red object with a luminous tail",
+    "location": "Palm Beach, Florida",
+    "witnesses": "Pilot boat sighter",
+    "photographs": "No photographs included"
+}

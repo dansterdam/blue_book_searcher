@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+  "main event": "A bright light was observed in the western sky near Minneapolis, Minnesota on April 19, 1956.",
+  "interesting points": [
+    "The object appeared to be the size of a quarter when viewed through 7x50 binoculars, and the size of a cigarette when viewed with the naked eye.",
+    "The object had a high intensity light at or near the bottom center.",
+    "The object was stationary at an elevation of approximately 35 degrees and an azimuth of 290 degrees.",
+    "The sighting lasted for 5 hours, from 2020Z to 0600Z.",
+    "The report concludes that the object was likely the planet Venus, as it was at the same position as the reported UFO at the time of the sighting."
+  ],
+  "result": "Likely explained as the planet Venus",
+  "sighted object": "A bright light in the sky",
+  "location": "Minneapolis, Minnesota",
+  "witnesses": "Multiple observers, including those using binoculars",
+  "photographs": "No photographs were taken"
+}

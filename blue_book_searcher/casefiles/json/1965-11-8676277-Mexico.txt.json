@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "Analysis of a 35mm slide containing three light-toned images taken near Guadalajara, Mexico",
+    "interesting points": [
+        "The slide was forwarded to the Photo Analysis Division and Photo Processing Division for analysis.",
+        "No discernible signature could be derived from the images on the slide.",
+        "The low contrast of the images suggests they were likely caused by a ray of light entering the camera or lens flare.",
+        "A separate letter describes a son-in-law and daughter seeing unidentified flying objects and taking pictures in a primitive area near Guadalajara, which they then sent in.",
+        "The letter writer had the slide enlarged and examined under microscopes, but no one could identify the objects."
+    ],
+    "result": "unexplained",
+    "sighted object": "three light-toned images on a 35mm slide",
+    "location": "Near Guadalajara, Mexico",
+    "witnesses": "Son-in-law and daughter of the letter writer",
+    "photographs": "Yes, the letter writer enclosed a 35mm slide with the report"
+}

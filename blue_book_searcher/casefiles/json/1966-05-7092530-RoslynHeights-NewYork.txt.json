@@ -1,0 +1,17 @@
+Here is the JSON summary based on the provided UFO report text:
+
+{
+    "main event": "A civilian observed a metallic gray object that flashed on and off for 2 minutes and 30 seconds in Roslyn Heights, New York on May 27, 1966.",
+    "interesting points": [
+        "The object was described as 'metallic gray' and 'flashed on and off'.",
+        "The observation lasted for 2 minutes and 30 seconds.",
+        "The object was observed by a civilian.",
+        "The report concludes that there was 'INSUFFICIENT DATA FOR EVALUATION'.",
+        "The Air Force requested the witness to complete an additional form (FTD form 146) to provide more information for evaluation."
+    ],
+    "result": "unexplained",
+    "sighted object": "metallic gray object that flashed on and off",
+    "location": "Roslyn Heights, New York",
+    "witnesses": "civilian",
+    "photographs": "no"
+}

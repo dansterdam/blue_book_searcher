@@ -1,0 +1,17 @@
+Here is the JSON summary based on the UFO report text provided:
+
+{
+    "main event": "A radar signal detected an unidentified object that descended rapidly and was lost in ground clutter at McChord AFB, Washington on June 6, 1957.",
+    "interesting points": [
+        "The radar signal was a clear, normal pip until it was lost in ground clutter.",
+        "The object was detected for 53 minutes, indicating a relatively slow rate of descent.",
+        "The object's altitude ranged from 10,000 feet to 50,000 feet, with varying wind speeds and directions.",
+        "The object's descent rate was approximately 2,000 feet per minute, suggesting a possible deflated balloon.",
+        "The U.S. Coast Guard was investigating the area where the object may have landed."
+    ],
+    "result": "Inconclusive, possibly a deflated balloon",
+    "sighted object": "Unidentified radar signal",
+    "location": "McChord AFB, Washington",
+    "witnesses": "Radar operators at 635th ACW Squadron",
+    "photographs": "No photographs, only a project record card with text information"
+}

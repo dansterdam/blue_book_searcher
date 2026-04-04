@@ -1,0 +1,17 @@
+Here is the JSON summary of the UFO report:
+
+{
+    "main event": "An unidentified flying object was observed near Hillcrest Heights, Maryland on December 10, 1952.",
+    "interesting points": [
+        "The object was observed to be about the size and brightness of a medium star, traveling from right to left at an altitude of around 40-55 degrees.",
+        "The object maintained level flight, then hovered momentarily before ascending and disappearing.",
+        "The observers, which included a USAF Major, were certain the object was not an aircraft or a star.",
+        "Radar checks at Andrews AFB and Washington National were negative, but the Silver Hill weather station reported a scheduled radiosonde balloon release around the time of the sighting.",
+        "The weather conditions at the time included clear skies with a temperature of 55 degrees and no temperature inversion."
+    ],
+    "result": "unknown",
+    "sighted object": "unidentified flying object, described as bright, star-like object",
+    "location": "Hillcrest Heights, MD",
+    "witnesses": "USAF Major and another observer",
+    "photographs": "none"
+}
