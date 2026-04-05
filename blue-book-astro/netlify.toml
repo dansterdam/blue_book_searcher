@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build:fresh"
+  command = "pip install pytest --quiet && npm run test:all && npm run build:fresh"
   publish = "dist"
 
 [build.environment]
