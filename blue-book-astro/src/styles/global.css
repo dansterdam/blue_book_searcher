@@ -25,21 +25,44 @@ html {
   height: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: #0a0c10;
+  background: #c8d8dc;
 }
 ::-webkit-scrollbar-thumb {
-  background: #1e2535;
+  background: #9ab4bc;
   border-radius: 3px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #c8a45a;
+  background: #5a7278;
 }
 
 /* Selection color */
 ::selection {
-  background: rgba(200, 164, 90, 0.3);
-  color: #f0c060;
+  background: rgba(30, 44, 48, 0.2);
+  color: #0e1820;
 }
+
+/* ── Full-page paper background (scanned Blue Book file, no repeat) ──────── */
+body {
+  background-color: #c8d8dc;
+  background-image: url('/bg-paper.webp');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+/* Ensure content sits above the noise layer */
+body > * { position: relative; z-index: 2; }
+
+/* ── Page transition fade (Astro ViewTransitions) ───────────────────────── */
+::view-transition-old(root) {
+  animation: 120ms ease-out fade-out;
+}
+::view-transition-new(root) {
+  animation: 180ms ease-in fade-in;
+}
+@keyframes fade-out { to   { opacity: 0; } }
+@keyframes fade-in  { from { opacity: 0; } }
 
 /* Line clamp utilities */
 .line-clamp-2 {

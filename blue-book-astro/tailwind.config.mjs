@@ -5,24 +5,25 @@ export default {
     extend: {
       colors: {
         'dossier': {
-          bg: '#0a0c10',
-          surface: '#0f1218',
-          border: '#1e2535',
-          amber: '#c8a45a',
-          'amber-bright': '#f0c060',
-          green: '#3a7a3a',
-          'green-bright': '#4ecb4e',
-          red: '#c0392b',
-          'red-bright': '#e74c3c',
-          muted: '#4a5568',
-          text: '#a8b4c0',
-          'text-bright': '#e2e8f0',
+          bg:           '#c8d8dc',   // Blue Book cover: pale blue-grey
+          surface:      '#b8ccd2',   // slightly deeper blue-grey for cards
+          border:       '#9ab4bc',   // medium blue-grey border
+          amber:        '#7a4f18',   // deep amber/brown for light bg
+          'amber-bright': '#5a3a10', // darker amber for headings
+          green:        '#1e5c1e',
+          'green-bright': '#156615',
+          red:          '#9a2020',
+          'red-bright': '#c02828',
+          muted:        '#5a7278',   // blue-grey medium
+          text:         '#1e2c30',   // near-black with blue tint
+          'text-bright': '#0e1820',  // true near-black
         }
       },
       fontFamily: {
+        display:    ['"Special Elite"', 'monospace'],
         typewriter: ['"Special Elite"', '"Courier New"', 'monospace'],
-        mono: ['"Source Code Pro"', '"Courier New"', 'monospace'],
-        sans: ['"Inter"', 'system-ui', 'sans-serif'],
+        mono:       ['"Source Code Pro"', '"Courier New"', 'monospace'],
+        sans:       ['"Inter"', 'system-ui', 'sans-serif'],
       },
       backgroundImage: {
         'grid-pattern': `

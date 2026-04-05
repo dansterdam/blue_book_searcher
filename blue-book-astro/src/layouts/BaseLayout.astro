@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { ViewTransitions } from 'astro:transitions';
 
 interface Props {
   title?: string;
@@ -39,39 +40,30 @@ const fullTitle = title === 'The Flying Saucer Files'
 
   <!-- Pagefind CSS (loaded only when search is active) -->
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css" media="none" onload="this.media='all'" />
-</head>
-<body class="min-h-screen bg-dossier-bg text-dossier-text antialiased">
 
-  <!-- Scanline overlay for CRT effect -->
-  <div class="pointer-events-none fixed inset-0 z-50 overflow-hidden opacity-[0.03]" aria-hidden="true">
-    <div class="h-full w-full bg-[repeating-linear-gradient(0deg,transparent,transparent_2px,rgba(0,0,0,0.5)_2px,rgba(0,0,0,0.5)_4px)]"></div>
-  </div>
+  <ViewTransitions />
+</head>
+<body class="min-h-screen text-dossier-text antialiased">
 
   <!-- Navigation -->
-  <nav class="border-b border-dossier-border bg-dossier-surface/80 backdrop-blur-sm sticky top-0 z-40">
+  <nav class="border-b border-dossier-border bg-dossier-bg/70 backdrop-blur-md sticky top-0 z-40">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-14">
         <!-- Logo -->
-        <a href="/" class="flex items-center gap-3 group">
-          <div class="w-8 h-8 rounded-full border-2 border-dossier-amber flex items-center justify-center group-hover:border-dossier-amber-bright transition-colors">
-            <svg viewBox="0 0 24 24" class="w-4 h-4 text-dossier-amber group-hover:text-dossier-amber-bright transition-colors" fill="currentColor">
-              <circle cx="12" cy="12" r="3"/>
-              <path d="M12 1C6.477 1 2 5.477 2 11c0 3.026 1.35 5.74 3.488 7.601L12 23l6.512-4.399A9.965 9.965 0 0022 11C22 5.477 17.523 1 12 1zm0 16a6 6 0 110-12 6 6 0 010 12z" opacity="0.4"/>
-            </svg>
-          </div>
-          <span class="font-typewriter text-dossier-amber-bright text-sm tracking-widest uppercase hidden sm:block">
+        <a href="/" class="group">
+          <span class="font-display font-bold text-dossier-text-bright text-base tracking-tight hover:text-dossier-amber transition-colors">
             The Flying Saucer Files
           </span>
         </a>
 
         <!-- Nav links -->
         <div class="flex items-center gap-1">
-          <a href="/" class="px-3 py-2 text-xs font-mono text-dossier-muted hover:text-dossier-amber transition-colors uppercase tracking-wider">Home</a>
-          <a href="/search" class="px-3 py-2 text-xs font-mono text-dossier-muted hover:text-dossier-amber transition-colors uppercase tracking-wider">Search</a>
-          <a href="/browse" class="px-3 py-2 text-xs font-mono text-dossier-muted hover:text-dossier-amber transition-colors uppercase tracking-wider">Browse</a>
-          <a href="/map" class="px-3 py-2 text-xs font-mono text-dossier-muted hover:text-dossier-amber transition-colors uppercase tracking-wider">Map</a>
-          <a href="/stats" class="px-3 py-2 text-xs font-mono text-dossier-muted hover:text-dossier-amber transition-colors uppercase tracking-wider hidden sm:block">Stats</a>
-          <a href="/about" class="px-3 py-2 text-xs font-mono text-dossier-muted hover:text-dossier-amber transition-colors uppercase tracking-wider hidden sm:block">About</a>
+          <a href="/" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors">Home</a>
+          <a href="/search" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors">Search</a>
+          <a href="/browse" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors">Browse</a>
+          <a href="/map" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors">Map</a>
+          <a href="/stats" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors hidden sm:block">Stats</a>
+          <a href="/about" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors hidden sm:block">About</a>
         </div>
       </div>
     </div>
@@ -83,22 +75,17 @@ const fullTitle = title === 'The Flying Saucer Files'
   </main>
 
   <!-- Footer -->
-  <footer class="border-t border-dossier-border bg-dossier-surface mt-16 py-8">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
-        <div class="text-center sm:text-left">
-          <p class="font-typewriter text-dossier-amber text-sm tracking-widest uppercase">The Flying Saucer Files</p>
+  <footer class="border-t border-dossier-border bg-dossier-surface mt-16 py-10">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="flex flex-col sm:flex-row items-start justify-between gap-6">
+        <div>
+          <p class="font-display font-bold text-dossier-text-bright text-lg">The Flying Saucer Files</p>
           <p class="text-dossier-muted text-xs mt-1 font-mono">10,807 UFO case files · 1947–1969</p>
         </div>
-        <div class="text-xs font-mono text-dossier-muted text-center sm:text-right">
+        <div class="text-xs font-mono text-dossier-muted text-left sm:text-right space-y-1">
           <p>Source: National Archives & Records Administration</p>
           <p>Original documents via Fold3 · Public Domain</p>
         </div>
-      </div>
-      <div class="mt-6 pt-4 border-t border-dossier-border text-center">
-        <p class="text-xs font-mono text-dossier-muted opacity-60 tracking-widest">
-          ░░ THE FLYING SAUCER FILES ░░
-        </p>
       </div>
     </div>
   </footer>
