@@ -3,11 +3,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import stats from '../data/stats.json';
 import casesIndex from '../data/cases-index.json';
 
-// Get a selection of interesting recent cases for the homepage
-const featuredCases = casesIndex
-  .filter(c => c.summary && c.has_json && c.witnesses && c.witnesses > 1)
-  .sort(() => 0.5 - Math.random())
-  .slice(0, 6);
+// Pick one notable case from each era — deterministic, no randomness
+const ERA_BUCKETS: [number, number][] = [[1947,1950],[1950,1953],[1953,1956],[1956,1959],[1959,1963],[1963,1970]];
+const featuredCases = ERA_BUCKETS.flatMap(([lo, hi]) => {
+  const pool = casesIndex.filter(
+    c => c.summary && c.has_json && c.year >= lo && c.year < hi &&
+         typeof c.witnesses === 'number' && c.witnesses > 0 && c.summary.length > 60
+  );
+  pool.sort((a, b) => (b.witnesses * 1 + (b.contains_photographs ? 20 : 0))
+                    - (a.witnesses * 1 + (a.contains_photographs ? 20 : 0)));
+  return pool.slice(0, 1);
+});
 
 // Peak year
 const peakYear = stats.casesByYear.reduce((max, y) => y.count > max.count ? y : max, stats.casesByYear[0]);
@@ -142,7 +148,7 @@ const peakYear = stats.casesByYear.reduce((max, y) => y.count > max.count ? y : 
               const barPx = Math.max(2, Math.round((y.count / maxCount) * BAR_MAX_PX));
               return (
                 <a
-                  href={`/browse?year=${y.year}`}
+                  href={`/browse/?year=${y.year}`}
                   class="flex-1 flex flex-col items-center justify-end gap-1 group cursor-pointer h-full"
                   title={`${y.year}: ${y.count} cases`}
                 >
@@ -229,7 +235,7 @@ const peakYear = stats.casesByYear.reduce((max, y) => y.count > max.count ? y : 
       <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-3">
         {stats.topStates.slice(0, 10).map((s) => (
           <a
-            href={`/browse?state=${encodeURIComponent(s.state)}`}
+            href={`/browse/?state=${encodeURIComponent(s.state)}`}
             class="flex flex-col items-center p-3 border border-dossier-border rounded hover:border-dossier-amber transition-colors group text-center"
           >
             <span class="font-mono text-lg text-dossier-amber-bright group-hover:text-dossier-amber-bright">

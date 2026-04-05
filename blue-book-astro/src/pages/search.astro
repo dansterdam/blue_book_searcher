@@ -158,8 +158,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </BaseLayout>
 
 <script>
-// Pagefind search integration
-// Pagefind is loaded lazily to avoid blocking page load
+// Pagefind search integration — lazily loaded, View Transitions safe
 
 interface PagefindResult {
   url: string;
@@ -181,30 +180,13 @@ interface PagefindAPI {
   filters: () => Promise<Record<string, Record<string, number>>>;
 }
 
+// Module-level state — persists across View Transitions navigations
 let pagefind: PagefindAPI | null = null;
 let allResults: PagefindResult[] = [];
 let displayedCount = 0;
+let searchTimeout: ReturnType<typeof setTimeout>;
 const PAGE_SIZE = 20;
 
-// DOM elements
-const searchInput = document.getElementById('search-input') as HTMLInputElement;
-const searchClear = document.getElementById('search-clear') as HTMLButtonElement;
-const resultCount = document.getElementById('result-count')!;
-const searchStatus = document.getElementById('search-status')!;
-const searchPrompt = document.getElementById('search-prompt')!;
-const resultsList = document.getElementById('results-list')!;
-const noResults = document.getElementById('no-results')!;
-const loadMoreContainer = document.getElementById('load-more-container')!;
-const loadMore = document.getElementById('load-more') as HTMLButtonElement;
-const loadMoreCountEl = document.getElementById('load-more-count')!;
-const clearFilters = document.getElementById('clear-filters') as HTMLButtonElement;
-const filterYearFrom = document.getElementById('filter-year-from') as HTMLInputElement;
-const filterYearTo = document.getElementById('filter-year-to') as HTMLInputElement;
-const filterState = document.getElementById('filter-state') as HTMLInputElement;
-const filterWitnesses = document.getElementById('filter-witnesses') as HTMLSelectElement;
-const filterPhotos = document.getElementById('filter-photos') as HTMLInputElement;
-
-// Load Pagefind lazily
 async function loadPagefind(): Promise<PagefindAPI> {
   if (pagefind) return pagefind;
   // @ts-ignore
@@ -212,129 +194,75 @@ async function loadPagefind(): Promise<PagefindAPI> {
   return pagefind!;
 }
 
-// Build filter object from UI state
+// Helpers that query DOM fresh on each call — safe after View Transitions swap
+function el<T extends HTMLElement>(id: string) {
+  return document.getElementById(id) as T;
+}
+
 function getFilters() {
   const filters: Record<string, string[]> = {};
-  const yearFrom = filterYearFrom.value ? parseInt(filterYearFrom.value) : null;
-  const yearTo = filterYearTo.value ? parseInt(filterYearTo.value) : null;
+  const yearFrom = el<HTMLInputElement>('filter-year-from').value ? parseInt(el<HTMLInputElement>('filter-year-from').value) : null;
+  const yearTo   = el<HTMLInputElement>('filter-year-to').value   ? parseInt(el<HTMLInputElement>('filter-year-to').value)   : null;
 
-  // Year range — add all years in range
   if (yearFrom !== null || yearTo !== null) {
     const from = yearFrom ?? 1945;
-    const to = yearTo ?? 1969;
+    const to   = yearTo   ?? 1969;
     const years: string[] = [];
     for (let y = from; y <= to; y++) years.push(String(y));
     if (years.length > 0) filters.year = years;
   }
 
-  const state = filterState.value.trim();
+  const state = el<HTMLInputElement>('filter-state').value.trim();
   if (state) filters.state = [state];
 
-  const witnesses = filterWitnesses.value;
+  const witnesses = el<HTMLSelectElement>('filter-witnesses').value;
   if (witnesses) filters.witnesses = [witnesses];
 
-  if (filterPhotos.checked) filters.photos = ['Yes'];
+  if (el<HTMLInputElement>('filter-photos').checked) filters.photos = ['Yes'];
 
   return filters;
 }
 
-// Check URL params on load
-const urlParams = new URLSearchParams(window.location.search);
-const initialQuery = urlParams.get('q') || '';
-const initialPhotos = urlParams.get('photos') || '';
-const initialWitnesses = urlParams.get('witnesses') || '';
-
-if (initialQuery) searchInput.value = initialQuery;
-if (initialPhotos) filterPhotos.checked = true;
-if (initialWitnesses) filterWitnesses.value = initialWitnesses;
-
-let searchTimeout: ReturnType<typeof setTimeout>;
-
-async function doSearch() {
-  const query = searchInput.value.trim();
-  const filters = getFilters();
-  const hasFilters = Object.keys(filters).length > 0;
-
-  if (!query && !hasFilters) {
-    showState('prompt');
-    resultCount.textContent = 'Enter a search term to begin';
-    return;
-  }
-
-  showState('loading');
-  searchStatus.classList.remove('hidden');
-  resultCount.textContent = '';
-
-  try {
-    const pf = await loadPagefind();
-    const opts: Record<string, unknown> = {};
-    if (hasFilters) opts.filters = filters;
-
-    const result = await pf.search(query || null as unknown as string, opts);
-    allResults = result.results;
-    displayedCount = 0;
-
-    if (allResults.length === 0) {
-      showState('no-results');
-      resultCount.textContent = 'No cases found';
-    } else {
-      showState('results');
-      resultCount.textContent = `${allResults.length.toLocaleString()} case${allResults.length === 1 ? '' : 's'} found`;
-      resultsList.innerHTML = '';
-      await loadResultsBatch();
-    }
-  } catch (err) {
-    console.error('Search error:', err);
-    resultCount.textContent = 'Search index not available — run the build first';
-    showState('prompt');
-  } finally {
-    searchStatus.classList.add('hidden');
-  }
-}
-
 function showState(state: 'prompt' | 'loading' | 'results' | 'no-results') {
-  searchPrompt.classList.toggle('hidden', state !== 'prompt');
-  resultsList.classList.toggle('hidden', state !== 'results');
-  noResults.classList.toggle('hidden', state !== 'no-results');
-  loadMoreContainer.classList.toggle('hidden', state !== 'results');
-  if (state !== 'results') loadMoreContainer.classList.add('hidden');
+  el('search-prompt').classList.toggle('hidden', state !== 'prompt');
+  el('results-list').classList.toggle('hidden', state !== 'results');
+  el('no-results').classList.toggle('hidden', state !== 'no-results');
+  el('load-more-container').classList.toggle('hidden', state !== 'results');
+  el('search-status').classList.toggle('hidden', state !== 'loading');
 }
 
 async function loadResultsBatch() {
+  const resultsList    = el('results-list');
+  const loadMoreContainer = el('load-more-container');
+  const loadMoreCountEl   = el('load-more-count');
+
   const batch = allResults.slice(displayedCount, displayedCount + PAGE_SIZE);
-  const dataPromises = batch.map(r => r.data());
-  const datas = await Promise.all(dataPromises);
+  const datas = await Promise.all(batch.map(r => r.data()));
 
   for (let i = 0; i < batch.length; i++) {
     const data = datas[i];
-    const url = data.url;
-
-    // Extract metadata from URL — URL format is /case?id=<slug>
-    const slug = new URL(url, window.location.origin).searchParams.get('id') || url;
-
-    // Build the card
     const card = document.createElement('a');
-    card.href = url;
+    card.href = data.url;
     card.className = 'block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all p-4 group relative overflow-hidden';
 
-    // Try to extract date from slug (format: YYYY-MM-id-location)
-    const parts = slug.split('-');
-    const dateHint = parts.length >= 2 && /^\d{4}$/.test(parts[0]) ? `${parts[0]}-${parts[1]}` : '';
+    // Title is "YYYY-MM · Location, State — The Flying Saucer Files"; strip the site name
+    const rawTitle = data.meta?.title || '';
+    const title = rawTitle.replace(/\s*—\s*The Flying Saucer Files$/, '').trim() || 'Untitled case';
 
-    const title = data.meta?.title || 'Untitled case';
+    // Split "YYYY-MM · Location" into date badge + location
+    const titleMatch = title.match(/^(\d{4}-\d{2})\s*·\s*(.+)$/);
+    const dateBadge  = titleMatch ? titleMatch[1] : '';
+    const location   = titleMatch ? titleMatch[2] : title;
+
     const excerpt = data.excerpt || '';
 
     card.innerHTML = `
       <div class="absolute top-0 right-0 w-5 h-5 border-l border-b border-dossier-amber/20 group-hover:border-dossier-amber/50 transition-colors"></div>
-      <div class="flex items-start justify-between gap-3 mb-2">
-        <div class="flex items-center gap-2 flex-wrap">
-          ${dateHint ? `<span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${dateHint}</span>` : ''}
-          <span class="font-mono text-xs text-dossier-muted truncate max-w-xs">${slug}</span>
-        </div>
-        <span class="text-dossier-amber group-hover:text-dossier-amber-bright transition-colors font-mono text-xs shrink-0">VIEW →</span>
+      <div class="flex items-center gap-2 mb-2 flex-wrap">
+        ${dateBadge ? `<span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${dateBadge}</span>` : ''}
+        <span class="font-mono text-xs text-dossier-muted uppercase tracking-wider truncate">📍 ${location}</span>
       </div>
-      <p class="font-mono text-dossier-text text-xs leading-relaxed mb-2 line-clamp-2">${title}</p>
-      ${excerpt ? `<p class="font-mono text-dossier-muted text-xs leading-relaxed line-clamp-2">${excerpt}</p>` : ''}
+      ${excerpt ? `<p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-3">${excerpt}</p>` : ''}
     `;
 
     resultsList.appendChild(card);
@@ -342,7 +270,6 @@ async function loadResultsBatch() {
 
   displayedCount += batch.length;
 
-  // Update load more
   const remaining = allResults.length - displayedCount;
   if (remaining > 0) {
     loadMoreContainer.classList.remove('hidden');
@@ -352,55 +279,116 @@ async function loadResultsBatch() {
   }
 }
 
-// Event listeners
-searchInput.addEventListener('input', () => {
-  searchClear.classList.toggle('hidden', !searchInput.value);
-  clearTimeout(searchTimeout);
-  searchTimeout = setTimeout(doSearch, 300);
-});
+async function doSearch() {
+  const searchInput = el<HTMLInputElement>('search-input');
+  const resultCount = el('result-count');
+  const query       = searchInput.value.trim();
+  const filters     = getFilters();
+  const hasFilters  = Object.keys(filters).length > 0;
 
-searchClear.addEventListener('click', () => {
-  searchInput.value = '';
-  searchClear.classList.add('hidden');
-  doSearch();
-});
-
-clearFilters.addEventListener('click', () => {
-  filterYearFrom.value = '';
-  filterYearTo.value = '';
-  filterState.value = '';
-  filterWitnesses.value = '';
-  filterPhotos.checked = false;
-  doSearch();
-});
-
-[filterYearFrom, filterYearTo, filterState, filterWitnesses, filterPhotos].forEach(el => {
-  el.addEventListener('change', doSearch);
-  if (el instanceof HTMLInputElement && el.type === 'text') {
-    el.addEventListener('input', () => {
-      clearTimeout(searchTimeout);
-      searchTimeout = setTimeout(doSearch, 400);
-    });
+  if (!query && !hasFilters) {
+    showState('prompt');
+    resultCount.textContent = 'Enter a search term to begin';
+    return;
   }
-});
 
-loadMore.addEventListener('click', async () => {
-  await loadResultsBatch();
-});
+  showState('loading');
+  resultCount.textContent = '';
 
-// Quick search buttons
-document.querySelectorAll('.quick-search').forEach(btn => {
-  btn.addEventListener('click', () => {
-    searchInput.value = (btn as HTMLButtonElement).dataset.query || '';
-    searchClear.classList.remove('hidden');
+  try {
+    const pf   = await loadPagefind();
+    const opts: Record<string, unknown> = {};
+    if (hasFilters) opts.filters = filters;
+
+    const result = await pf.search(query || null as unknown as string, opts);
+    allResults    = result.results;
+    displayedCount = 0;
+
+    if (allResults.length === 0) {
+      showState('no-results');
+      resultCount.textContent = 'No cases found';
+    } else {
+      showState('results');
+      resultCount.textContent = `${allResults.length.toLocaleString()} case${allResults.length === 1 ? '' : 's'} found`;
+      el('results-list').innerHTML = '';
+      await loadResultsBatch();
+    }
+  } catch (err) {
+    console.error('Search error:', err);
+    resultCount.textContent = 'Search index not available — run the build first';
+    showState('prompt');
+  }
+}
+
+// init — re-runs after every View Transitions navigation
+function init() {
+  if (!el('search-input')) return; // guard: only run on search page
+
+  const searchInput   = el<HTMLInputElement>('search-input');
+  const searchClear   = el<HTMLButtonElement>('search-clear');
+  const clearFilters  = el<HTMLButtonElement>('clear-filters');
+
+  // Read URL params and populate inputs
+  const urlParams       = new URLSearchParams(window.location.search);
+  const initialQuery    = urlParams.get('q') || '';
+  const initialPhotos   = urlParams.get('photos') || '';
+  const initialWitnesses = urlParams.get('witnesses') || '';
+
+  searchInput.value = initialQuery;
+  el<HTMLInputElement>('filter-photos').checked = !!initialPhotos;
+  if (initialWitnesses) el<HTMLSelectElement>('filter-witnesses').value = initialWitnesses;
+  searchClear.classList.toggle('hidden', !initialQuery);
+
+  // Input listeners
+  searchInput.addEventListener('input', () => {
+    searchClear.classList.toggle('hidden', !searchInput.value);
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(doSearch, 300);
+  });
+
+  searchClear.addEventListener('click', () => {
+    searchInput.value = '';
+    searchClear.classList.add('hidden');
     doSearch();
   });
-});
 
-// Run initial search if params present
-if (initialQuery || initialPhotos || initialWitnesses) {
-  doSearch();
+  clearFilters.addEventListener('click', () => {
+    el<HTMLInputElement>('filter-year-from').value = '';
+    el<HTMLInputElement>('filter-year-to').value   = '';
+    el<HTMLInputElement>('filter-state').value      = '';
+    el<HTMLSelectElement>('filter-witnesses').value = '';
+    el<HTMLInputElement>('filter-photos').checked   = false;
+    doSearch();
+  });
+
+  ['filter-year-from', 'filter-year-to', 'filter-state', 'filter-witnesses', 'filter-photos'].forEach(id => {
+    const input = el<HTMLInputElement>(id);
+    input.addEventListener('change', doSearch);
+    if (input.type === 'text') {
+      input.addEventListener('input', () => {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(doSearch, 400);
+      });
+    }
+  });
+
+  el('load-more').addEventListener('click', loadResultsBatch);
+
+  document.querySelectorAll<HTMLButtonElement>('.quick-search').forEach(btn => {
+    btn.addEventListener('click', () => {
+      searchInput.value = btn.dataset.query || '';
+      searchClear.classList.remove('hidden');
+      doSearch();
+    });
+  });
+
+  // Trigger search if URL params present
+  if (initialQuery || initialPhotos || initialWitnesses) {
+    doSearch();
+  }
 }
+
+document.addEventListener('astro:page-load', init);
 </script>
 
 <style is:global>
