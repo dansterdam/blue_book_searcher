@@ -21,8 +21,8 @@ ROOT          = SCRIPT_DIR.parent.parent
 JSON_DIR      = ROOT / "casefiles" / "json"
 CACHE_FILE    = SCRIPT_DIR / "geocode-cache.json"
 OUTPUT_FILE   = SCRIPT_DIR.parent / "src" / "data" / "locations-geocoded.json"
-NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
-USER_AGENT    = "FlyingSaucerFiles/1.0 (github.com/dansterdam/blue_book_searcher)"
+PHOTON_URL = "https://photon.komoot.io/api/"
+USER_AGENT = "FlyingSaucerFiles/1.0 (github.com/dansterdam/blue_book_searcher)"
 
 # Full state name lookup — handles abbreviations Nominatim struggles with
 STATE_ABBREVS = {
@@ -206,24 +206,29 @@ def save_cache(cache: dict):
     CACHE_FILE.write_text(json.dumps(cache, ensure_ascii=False))
 
 
-def nominatim_geocode(query: str) -> list[float] | None:
-    """Query Nominatim with automatic retry on 429 rate-limit responses."""
+def photon_geocode(query: str) -> list[float] | None:
+    """
+    Query Photon (photon.komoot.io) — OSM data, no API key, lenient rate limits.
+    Returns [lat, lng] or None.
+    """
     from urllib.error import HTTPError
-    params = urlencode({"q": query, "format": "json", "limit": 1})
-    req = Request(f"{NOMINATIM_URL}?{params}", headers={"User-Agent": USER_AGENT})
-    backoff = 5
-    for attempt in range(4):
+    params = urlencode({"q": query, "limit": 1})
+    req = Request(f"{PHOTON_URL}?{params}", headers={"User-Agent": USER_AGENT})
+    backoff = 10
+    for attempt in range(3):
         try:
             with urlopen(req, timeout=10) as resp:
-                results = json.loads(resp.read())
-                if results:
-                    return [float(results[0]["lat"]), float(results[0]["lon"])]
+                data = json.loads(resp.read())
+                features = data.get("features", [])
+                if features:
+                    coords = features[0]["geometry"]["coordinates"]  # [lng, lat]
+                    return [coords[1], coords[0]]
                 return None
         except HTTPError as e:
             if e.code == 429:
-                print(f"  ⏳ Rate limited — waiting {backoff}s before retry…", file=sys.stderr)
+                print(f"  ⏳ Rate limited — waiting {backoff}s…", file=sys.stderr)
                 time.sleep(backoff)
-                backoff *= 2   # exponential backoff: 5 → 10 → 20 → 40
+                backoff *= 2
             else:
                 print(f"  ⚠ HTTP {e.code} for '{query}'", file=sys.stderr)
                 return None
@@ -287,7 +292,7 @@ def main():
             save_cache(cache)
             continue
 
-        result = nominatim_geocode(cleaned)
+        result = photon_geocode(cleaned)
         cache[loc] = result
 
         if result:
@@ -296,7 +301,7 @@ def main():
             # Try again with just city + country (strip extra detail)
             simplified = re.sub(r'^[^,]+,\s*', '', cleaned) if ',' in cleaned else cleaned
             if simplified != cleaned:
-                result2 = nominatim_geocode(simplified)
+                result2 = photon_geocode(simplified)
                 if result2:
                     cache[loc] = result2
                     status = f"[{result2[0]:.3f}, {result2[1]:.3f}] (simplified)"
@@ -308,7 +313,7 @@ def main():
 
         print(f"  [{pct:5.1f}%] {loc[:55]:<55}  →  {status}")
         save_cache(cache)
-        time.sleep(1.5)  # stay comfortably under Nominatim's 1 req/sec limit
+        time.sleep(0.5)  # Photon is lenient; 2 req/sec is safe
 
     # Write final output
     geocoded = {loc: coords for loc, coords in cache.items() if coords is not None}
