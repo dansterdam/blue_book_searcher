@@ -141,10 +141,10 @@ async function initMap() {
   // Initialise map centred on continental US
   const map = L.map('map', { preferCanvas: true }).setView([38.5, -96], 4);
 
-  // Dark OpenStreetMap tiles via Stadia (free, no API key for low usage)
-  L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
-    maxZoom: 18,
-    attribution: '© <a href="https://stadiamaps.com/">Stadia Maps</a>, © <a href="https://openmaptiles.org/">OpenMapTiles</a>, © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  // CARTO Dark Matter tiles — free, no API key, works on any domain
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    maxZoom: 19,
+    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/attributions">CARTO</a>',
   }).addTo(map);
 
   // Custom amber marker icon
