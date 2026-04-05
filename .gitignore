@@ -18,6 +18,10 @@ blue-book-astro/src/data/cases-index.json
 blue-book-astro/src/data/stats.json
 blue-book-astro/public/data/cases/
 blue-book-astro/public/data/browse-index.json
+blue-book-astro/public/data/map-index.json
+
+# Geocoding cache — large, machine-generated, not needed in repo
+blue-book-astro/scripts/geocode-cache.json
 
 # Node
 blue-book-astro/node_modules/

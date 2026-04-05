@@ -103,6 +103,36 @@ fs.mkdirSync(PUBLIC_DATA_DIR, { recursive: true });
 fs.writeFileSync(path.join(PUBLIC_DATA_DIR, 'browse-index.json'), JSON.stringify(browseIndex));
 console.log(`  → public/data/browse-index.json: ${(fs.statSync(path.join(PUBLIC_DATA_DIR, 'browse-index.json')).size / 1024 / 1024).toFixed(1)} MB`);
 
+// Map index — slim records with lat/lng for the map page
+// Only written if locations-geocoded.json exists (run geocode-locations.py first)
+const GEOCODED_FILE = path.join(__dirname, '../src/data/locations-geocoded.json');
+if (fs.existsSync(GEOCODED_FILE)) {
+  console.log('🗺️  Writing map-index.json...');
+  const geocoded = JSON.parse(fs.readFileSync(GEOCODED_FILE, 'utf8'));
+  const mapIndex = cases
+    .map(c => {
+      const coords = geocoded[c.location];
+      if (!coords) return null;
+      return {
+        id: c.id,
+        date: c.date,
+        year: c.year,
+        location: c.location,
+        summary: c.summary ? c.summary.slice(0, 100) : '',
+        witnesses: c.witnesses,
+        contains_photographs: c.contains_photographs,
+        lat: coords[0],
+        lng: coords[1],
+      };
+    })
+    .filter(Boolean);
+  fs.writeFileSync(path.join(PUBLIC_DATA_DIR, 'map-index.json'), JSON.stringify(mapIndex));
+  console.log(`  → ${mapIndex.length.toLocaleString()} mapped cases`);
+  console.log(`  → public/data/map-index.json: ${(fs.statSync(path.join(PUBLIC_DATA_DIR, 'map-index.json')).size / 1024 / 1024).toFixed(1)} MB`);
+} else {
+  console.log('🗺️  Skipping map-index.json (run geocode-locations.py to enable the map page)');
+}
+
 // 3. Compute statistics
 console.log('📊 Computing statistics...');
 

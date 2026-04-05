@@ -5,6 +5,7 @@
   "description": "Project Blue Book UFO case archive - searchable declassified USAF records",
   "scripts": {
     "parse": "python3 scripts/parse-cases.py",
+    "geocode": "python3 scripts/geocode-locations.py",
     "prepare-data": "node scripts/prepare-data.mjs",
     "dev": "npm run prepare-data && astro dev",
     "build": "npm run prepare-data && astro build && node scripts/build-search-index.mjs",
