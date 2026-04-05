@@ -134,6 +134,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           <a id="nav-year" href="/browse" class="block font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors"></a>
           <a id="nav-state" href="/browse" class="block font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors hidden"></a>
         </div>
+
+        <!-- Original PDF link -->
+        <div class="pt-4 border-t border-dossier-border">
+          <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-2 flex items-center gap-2">
+            <div class="w-2 h-px bg-dossier-amber"></div>Source Document
+          </div>
+          <a id="pdf-link" href="#" target="_blank" rel="noopener noreferrer"
+            class="flex items-center gap-2 font-mono text-xs border border-dossier-amber/40 text-dossier-amber px-3 py-2 rounded hover:bg-dossier-amber/10 transition-colors">
+            <span>📄</span>
+            <span>View Original PDF</span>
+            <span class="ml-auto opacity-60">↗</span>
+          </a>
+        </div>
       </div>
 
       <!-- Full transcript -->
@@ -230,6 +243,13 @@ async function loadCase() {
           ul.appendChild(li);
         });
       }
+    }
+
+    // PDF link
+    const pdfLink = document.getElementById('pdf-link') as HTMLAnchorElement;
+    if (pdfLink && c.filename) {
+      const pdfFilename = c.filename.replace('.txt', '.pdf');
+      pdfLink.href = `https://blue-book-searcher.s3.us-east-1.amazonaws.com/${pdfFilename}`;
     }
 
     // Navigation links
