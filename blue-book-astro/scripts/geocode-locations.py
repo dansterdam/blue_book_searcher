@@ -91,26 +91,47 @@ def parse_coords(loc: str) -> list[float] | None:
     """
     loc = loc.strip()
 
-    # "11.59N 160.49W" or "21.15N 170.15W"
-    m = re.match(r'^(\d+\.?\d*)\s*([NS])[,\s]+(\d+\.?\d*)\s*([EW])', loc, re.I)
+    # Deg-min patterns FIRST (more specific) so "2100N" → 21°00' not decimal 2100.0
+
+    # "11 17 N, 174 52 W"  or  "15-15N 163-47W"  (deg space/dash min)
+    m = re.match(r'^(\d{1,3})[-\s](\d{2})\s*([NS])[,\s]+(\d{1,3})[-\s](\d{2})\s*([EW])', loc, re.I)
+    if m:
+        lat = (int(m.group(1)) + int(m.group(2)) / 60) * (1 if m.group(3).upper() == 'N' else -1)
+        lng = (int(m.group(4)) + int(m.group(5)) / 60) * (1 if m.group(6).upper() == 'E' else -1)
+        if -90 <= lat <= 90 and -180 <= lng <= 180:
+            return [lat, lng]
+
+    # "00-49S 170-24W"  (no space between deg-min and hemisphere)
+    m = re.match(r'^(\d{1,3})-(\d{2})([NS])\s+(\d{1,3})-(\d{2})([EW])', loc, re.I)
+    if m:
+        lat = (int(m.group(1)) + int(m.group(2)) / 60) * (1 if m.group(3).upper() == 'N' else -1)
+        lng = (int(m.group(4)) + int(m.group(5)) / 60) * (1 if m.group(6).upper() == 'E' else -1)
+        if -90 <= lat <= 90 and -180 <= lng <= 180:
+            return [lat, lng]
+
+    # "3030N 17417E"  — 4-digit DDMM run-together for both lat and lng
+    m = re.match(r'^(\d{2})(\d{2})([NS])\s*,?\s*(\d{2,3})(\d{2})([EW])', loc, re.I)
+    if m:
+        lat = (int(m.group(1)) + int(m.group(2)) / 60) * (1 if m.group(3).upper() == 'N' else -1)
+        lng = (int(m.group(4)) + int(m.group(5)) / 60) * (1 if m.group(6).upper() == 'E' else -1)
+        if -90 <= lat <= 90 and -180 <= lng <= 180:
+            return [lat, lng]
+
+    # "2100N 163E"  — DDMM lat but plain degree lng (no minutes)
+    m = re.match(r'^(\d{2})(\d{2})([NS])\s*,?\s*(\d{1,3})([EW])', loc, re.I)
+    if m:
+        lat = (int(m.group(1)) + int(m.group(2)) / 60) * (1 if m.group(3).upper() == 'N' else -1)
+        lng = float(m.group(4)) * (1 if m.group(5).upper() == 'E' else -1)
+        if -90 <= lat <= 90 and -180 <= lng <= 180:
+            return [lat, lng]
+
+    # "11.59N 160.49W" or "21.15N 170.15W"  — decimal degrees (must have a dot)
+    m = re.match(r'^(\d+\.\d+)\s*([NS])[,\s]+(\d+\.\d+)\s*([EW])', loc, re.I)
     if m:
         lat = float(m.group(1)) * (1 if m.group(2).upper() == 'N' else -1)
         lng = float(m.group(3)) * (1 if m.group(4).upper() == 'E' else -1)
-        return [lat, lng]
-
-    # "11 17 N, 174 52 W"  or  "15-15N 163-47W"  (deg-min format)
-    m = re.match(r'^(\d+)[-\s](\d+)\s*([NS])[,\s]+(\d+)[-\s](\d+)\s*([EW])', loc, re.I)
-    if m:
-        lat = (int(m.group(1)) + int(m.group(2)) / 60) * (1 if m.group(3).upper() == 'N' else -1)
-        lng = (int(m.group(4)) + int(m.group(5)) / 60) * (1 if m.group(6).upper() == 'E' else -1)
-        return [lat, lng]
-
-    # "00-49S 170-24W"
-    m = re.match(r'^(\d+)-(\d+)([NS])\s+(\d+)-(\d+)([EW])', loc, re.I)
-    if m:
-        lat = (int(m.group(1)) + int(m.group(2)) / 60) * (1 if m.group(3).upper() == 'N' else -1)
-        lng = (int(m.group(4)) + int(m.group(5)) / 60) * (1 if m.group(6).upper() == 'E' else -1)
-        return [lat, lng]
+        if -90 <= lat <= 90 and -180 <= lng <= 180:
+            return [lat, lng]
 
     # "10°03N 174°44W"
     m = re.match(r'^(\d+)°(\d+)[\'`]?\s*([NS])[,\s]+(\d+)°(\d+)[\'`]?\s*([EW])', loc, re.I)
