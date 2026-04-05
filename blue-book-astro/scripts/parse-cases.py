@@ -6,6 +6,10 @@ import os
 import json
 import re
 from pathlib import Path
+from parse_utils import (
+    parse_filename, make_slug, normalize_witnesses,
+    extract_state, extract_conclusion,
+)
 
 BASE = Path(__file__).parent.parent.parent / "casefiles"
 TXT_DIR = BASE / "txt"
