@@ -25,11 +25,6 @@ const peakYear = stats.casesByYear.reduce((max, y) => y.count > max.count ? y : 
     <div class="absolute bottom-8 right-8 w-8 h-8 border-r-2 border-b-2 border-dossier-amber opacity-40"></div>
 
     <div class="relative max-w-4xl mx-auto px-4 text-center">
-      <!-- Classification stamp -->
-      <div class="inline-block border-2 border-dossier-red px-4 py-1 mb-6 rotate-[-1deg]">
-        <span class="font-mono text-dossier-red text-xs tracking-[0.4em] uppercase font-bold">DECLASSIFIED</span>
-      </div>
-
       <h1 class="font-typewriter text-4xl sm:text-6xl text-dossier-amber-bright mb-4 leading-tight animate-flicker">
         PROJECT<br/>BLUE BOOK
       </h1>
@@ -37,8 +32,8 @@ const peakYear = stats.casesByYear.reduce((max, y) => y.count > max.count ? y : 
       <div class="w-32 h-px bg-dossier-amber mx-auto mb-6 opacity-60"></div>
 
       <p class="font-mono text-dossier-text text-base sm:text-lg max-w-2xl mx-auto leading-relaxed mb-3">
-        The complete declassified archive of the United States Air Force's official
-        investigation into unidentified flying objects.
+        A searchable database of {stats.total.toLocaleString()} UFO case files spanning {stats.yearRange.min}–{stats.yearRange.max}.
+        Full transcripts, witness accounts, and original source documents.
       </p>
       <p class="font-mono text-dossier-muted text-sm mb-10">
         <span class="text-dossier-amber">{stats.total.toLocaleString()}</span> case files ·
