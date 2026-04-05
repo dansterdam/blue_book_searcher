@@ -207,15 +207,30 @@ def save_cache(cache: dict):
 
 
 def nominatim_geocode(query: str) -> list[float] | None:
+    """Query Nominatim with automatic retry on 429 rate-limit responses."""
+    from urllib.error import HTTPError
     params = urlencode({"q": query, "format": "json", "limit": 1})
     req = Request(f"{NOMINATIM_URL}?{params}", headers={"User-Agent": USER_AGENT})
-    try:
-        with urlopen(req, timeout=10) as resp:
-            results = json.loads(resp.read())
-            if results:
-                return [float(results[0]["lat"]), float(results[0]["lon"])]
-    except (URLError, Exception) as e:
-        print(f"  ⚠ Request failed: {e}", file=sys.stderr)
+    backoff = 5
+    for attempt in range(4):
+        try:
+            with urlopen(req, timeout=10) as resp:
+                results = json.loads(resp.read())
+                if results:
+                    return [float(results[0]["lat"]), float(results[0]["lon"])]
+                return None
+        except HTTPError as e:
+            if e.code == 429:
+                print(f"  ⏳ Rate limited — waiting {backoff}s before retry…", file=sys.stderr)
+                time.sleep(backoff)
+                backoff *= 2   # exponential backoff: 5 → 10 → 20 → 40
+            else:
+                print(f"  ⚠ HTTP {e.code} for '{query}'", file=sys.stderr)
+                return None
+        except Exception as e:
+            print(f"  ⚠ Request failed: {e}", file=sys.stderr)
+            return None
+    print(f"  ✗ Giving up on '{query}' after retries", file=sys.stderr)
     return None
 
 
@@ -293,7 +308,7 @@ def main():
 
         print(f"  [{pct:5.1f}%] {loc[:55]:<55}  →  {status}")
         save_cache(cache)
-        time.sleep(1.0)
+        time.sleep(1.5)  # stay comfortably under Nominatim's 1 req/sec limit
 
     # Write final output
     geocoded = {loc: coords for loc, coords in cache.items() if coords is not None}
