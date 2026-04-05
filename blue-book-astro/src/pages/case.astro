@@ -277,6 +277,31 @@ async function loadCase() {
     const parts = rawText.split(pagePattern);
     // parts alternates: [before-p1, "- page N -", "N", text, "- page M -", "M", text, ...]
 
+    const renderPage = (pageNum: number, pageText: string) => {
+      if (!pageText.trim()) return;
+
+      const header = document.createElement('a');
+      header.href = `${pdfBase}#page=${pageNum}`;
+      header.target = '_blank';
+      header.rel = 'noopener noreferrer';
+      header.className = 'flex items-center gap-3 mt-6 mb-2 group cursor-pointer border-t border-dossier-border/50 pt-3';
+      header.innerHTML = `
+        <span class="font-mono text-xs text-dossier-amber/60 uppercase tracking-widest shrink-0">Page ${pageNum}</span>
+        <span class="flex-1 border-t border-dossier-amber/20"></span>
+        <span class="font-mono text-xs text-dossier-muted group-hover:text-dossier-amber transition-colors opacity-0 group-hover:opacity-100">Open in PDF ↗</span>
+      `;
+      transcriptEl.appendChild(header);
+
+      const pre = document.createElement('pre');
+      pre.className = 'whitespace-pre-wrap break-words cursor-pointer hover:bg-dossier-amber/5 rounded p-1 -mx-1 transition-colors';
+      pre.textContent = pageText;
+      pre.title = `Click to open page ${pageNum} in the original PDF`;
+      pre.addEventListener('click', () => {
+        window.open(`${pdfBase}#page=${pageNum}`, '_blank', 'noopener,noreferrer');
+      });
+      transcriptEl.appendChild(pre);
+    };
+
     if (!pdfBase || parts.length <= 1) {
       // No page markers or no PDF — render plain
       const pre = document.createElement('pre');
@@ -284,46 +309,23 @@ async function loadCase() {
       pre.textContent = rawText;
       transcriptEl.appendChild(pre);
     } else {
-      // Render pre-page-1 text if any
-      if (parts[0].trim()) {
-        const pre = document.createElement('pre');
-        pre.className = 'whitespace-pre-wrap break-words mb-4';
-        pre.textContent = parts[0];
-        transcriptEl.appendChild(pre);
+      // Markers are footers: "- page N -" appears at the END of page N's content.
+      // parts layout: [content0, marker1, num1, content1, marker2, num2, content2, ...]
+      // → content0 is page num1, content1 is page num2, last block is lastNum+1
+
+      // First block: page number comes from the first marker (parts[2])
+      if (parts.length >= 3) {
+        renderPage(parseInt(parts[2], 10), parts[0]);
       }
 
-      // Each group: parts[i] = marker text, parts[i+1] = page number, parts[i+2] = page content
-      for (let i = 1; i < parts.length; i += 3) {
-        const pageNum = parseInt(parts[i + 1], 10);
-        const pageText = parts[i + 2] || '';
-
-        // Page header — clicking opens PDF at this page
-        const header = document.createElement('a');
-        header.href = `${pdfBase}#page=${pageNum}`;
-        header.target = '_blank';
-        header.rel = 'noopener noreferrer';
-        header.className = [
-          'flex items-center gap-3 mt-6 mb-2 group cursor-pointer',
-          'border-t border-dossier-border/50 pt-3',
-        ].join(' ');
-        header.innerHTML = `
-          <span class="font-mono text-xs text-dossier-amber/60 uppercase tracking-widest shrink-0">Page ${pageNum}</span>
-          <span class="flex-1 border-t border-dossier-amber/20"></span>
-          <span class="font-mono text-xs text-dossier-muted group-hover:text-dossier-amber transition-colors opacity-0 group-hover:opacity-100">
-            Open in PDF ↗
-          </span>
-        `;
-        transcriptEl.appendChild(header);
-
-        // Page content — also clickable to open PDF at page
-        const pre = document.createElement('pre');
-        pre.className = 'whitespace-pre-wrap break-words cursor-pointer hover:bg-dossier-amber/5 rounded p-1 -mx-1 transition-colors';
-        pre.textContent = pageText;
-        pre.title = `Click to open page ${pageNum} in the original PDF`;
-        pre.addEventListener('click', () => {
-          window.open(`${pdfBase}#page=${pageNum}`, '_blank', 'noopener,noreferrer');
-        });
-        transcriptEl.appendChild(pre);
+      // Middle + last blocks
+      for (let i = 3; i < parts.length; i += 3) {
+        const pageText = parts[i] || '';
+        // This block's trailing marker is at parts[i+2]; if none, it's the last block
+        const pageNum = (i + 2 < parts.length)
+          ? parseInt(parts[i + 2], 10)
+          : parseInt(parts[i - 1], 10) + 1;
+        renderPage(pageNum, pageText);
       }
     }
 
