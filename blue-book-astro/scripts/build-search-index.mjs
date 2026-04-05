@@ -43,11 +43,7 @@ for (let i = 0; i < cases.length; i++) {
     else witnessGroup = '10+';
   }
 
-  // Build content for indexing:
-  // Include rich metadata plus first 3000 chars of raw text for full-text search.
-  // Truncating the full text keeps the index size manageable while still allowing
-  // meaningful keyword searches across the document.
-  const truncatedText = (c.text_content || '').slice(0, 3000);
+  // Build content for indexing — full text, no truncation.
   const content = [
     c.summary || '',
     c.interesting_points || '',
@@ -55,7 +51,7 @@ for (let i = 0; i < cases.length; i++) {
     c.witness_description || '',
     c.location || '',
     c.conclusion || '',
-    truncatedText,
+    c.text_content || '',
   ].join('\n\n');
 
   const filters = {};
@@ -64,11 +60,14 @@ for (let i = 0; i < cases.length; i++) {
   filters.witnesses = [witnessGroup];
   filters.photos = [c.contains_photographs ? 'Yes' : 'No'];
 
+  // Title format matches the search card parser: "YYYY-MM · Location"
+  const title = [c.date, c.location].filter(Boolean).join(' · ');
+
   await index.addCustomRecord({
     url: `/case?id=${c.id}`,
     content: content,
     meta: {
-      title: c.summary || c.location || c.filename,
+      title: title || c.filename,
       image: '',
       image_alt: '',
     },
