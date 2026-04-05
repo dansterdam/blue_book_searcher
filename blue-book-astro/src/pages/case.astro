@@ -156,7 +156,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           <button id="copy-btn" class="font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors cursor-pointer">Copy text</button>
         </div>
         <div class="flex-1 p-5 overflow-auto">
-          <pre id="transcript" class="font-mono text-dossier-text text-xs leading-relaxed whitespace-pre-wrap break-words min-h-64"></pre>
+          <div id="transcript" class="font-mono text-dossier-text text-xs leading-relaxed min-h-64"></div>
         </div>
       </div>
     </div>
@@ -265,8 +265,67 @@ async function loadCase() {
       show('nav-state');
     }
 
-    // Full transcript
-    set('transcript', c.text_content || 'No transcript available.');
+    // Full transcript — split by page markers and link each page to the PDF
+    const transcriptEl = document.getElementById('transcript')!;
+    const pdfBase = c.filename
+      ? `https://blue-book-searcher.s3.us-east-1.amazonaws.com/${c.filename.replace('.txt', '.pdf')}`
+      : null;
+    const rawText = c.text_content || 'No transcript available.';
+
+    // Split on "- page N -" markers (case-insensitive, flexible spacing)
+    const pagePattern = /(-\s*page\s+(\d+)\s*-)/gi;
+    const parts = rawText.split(pagePattern);
+    // parts alternates: [before-p1, "- page N -", "N", text, "- page M -", "M", text, ...]
+
+    if (!pdfBase || parts.length <= 1) {
+      // No page markers or no PDF — render plain
+      const pre = document.createElement('pre');
+      pre.className = 'whitespace-pre-wrap break-words';
+      pre.textContent = rawText;
+      transcriptEl.appendChild(pre);
+    } else {
+      // Render pre-page-1 text if any
+      if (parts[0].trim()) {
+        const pre = document.createElement('pre');
+        pre.className = 'whitespace-pre-wrap break-words mb-4';
+        pre.textContent = parts[0];
+        transcriptEl.appendChild(pre);
+      }
+
+      // Each group: parts[i] = marker text, parts[i+1] = page number, parts[i+2] = page content
+      for (let i = 1; i < parts.length; i += 3) {
+        const pageNum = parseInt(parts[i + 1], 10);
+        const pageText = parts[i + 2] || '';
+
+        // Page header — clicking opens PDF at this page
+        const header = document.createElement('a');
+        header.href = `${pdfBase}#page=${pageNum}`;
+        header.target = '_blank';
+        header.rel = 'noopener noreferrer';
+        header.className = [
+          'flex items-center gap-3 mt-6 mb-2 group cursor-pointer',
+          'border-t border-dossier-border/50 pt-3',
+        ].join(' ');
+        header.innerHTML = `
+          <span class="font-mono text-xs text-dossier-amber/60 uppercase tracking-widest shrink-0">Page ${pageNum}</span>
+          <span class="flex-1 border-t border-dossier-amber/20"></span>
+          <span class="font-mono text-xs text-dossier-muted group-hover:text-dossier-amber transition-colors opacity-0 group-hover:opacity-100">
+            Open in PDF ↗
+          </span>
+        `;
+        transcriptEl.appendChild(header);
+
+        // Page content — also clickable to open PDF at page
+        const pre = document.createElement('pre');
+        pre.className = 'whitespace-pre-wrap break-words cursor-pointer hover:bg-dossier-amber/5 rounded p-1 -mx-1 transition-colors';
+        pre.textContent = pageText;
+        pre.title = `Click to open page ${pageNum} in the original PDF`;
+        pre.addEventListener('click', () => {
+          window.open(`${pdfBase}#page=${pageNum}`, '_blank', 'noopener,noreferrer');
+        });
+        transcriptEl.appendChild(pre);
+      }
+    }
 
     // Copy button
     document.getElementById('copy-btn')?.addEventListener('click', async () => {
