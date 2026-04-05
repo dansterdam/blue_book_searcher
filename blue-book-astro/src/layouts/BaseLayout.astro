@@ -8,14 +8,15 @@ interface Props {
 }
 
 const {
-  title = 'Project Blue Book Archive',
-  description = 'Declassified USAF UFO investigation records, 1947–1969. Search and browse 10,807 Project Blue Book case files.',
+  title = 'The Flying Saucer Files',
+  description = 'A searchable database of 10,807 UFO case files spanning 1947–1969. Full transcripts, witness accounts, and original source documents.',
   ogImage = '/og-image.png',
 } = Astro.props;
 
-const fullTitle = title === 'Project Blue Book Archive'
+const fullTitle = title === 'The Flying Saucer Files'
   ? title
-  : `${title} — Project Blue Book Archive`;
+  : `${title} — The Flying Saucer Files`;
+
 ---
 <!DOCTYPE html>
 <html lang="en" class="bg-dossier-bg text-dossier-text">
@@ -59,7 +60,7 @@ const fullTitle = title === 'Project Blue Book Archive'
             </svg>
           </div>
           <span class="font-typewriter text-dossier-amber-bright text-sm tracking-widest uppercase hidden sm:block">
-            Project Blue Book
+            The Flying Saucer Files
           </span>
         </a>
 
@@ -85,7 +86,7 @@ const fullTitle = title === 'Project Blue Book Archive'
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
         <div class="text-center sm:text-left">
-          <p class="font-typewriter text-dossier-amber text-sm tracking-widest uppercase">Project Blue Book Archive</p>
+          <p class="font-typewriter text-dossier-amber text-sm tracking-widest uppercase">The Flying Saucer Files</p>
           <p class="text-dossier-muted text-xs mt-1 font-mono">10,807 UFO case files · 1947–1969</p>
         </div>
         <div class="text-xs font-mono text-dossier-muted text-center sm:text-right">
@@ -95,7 +96,7 @@ const fullTitle = title === 'Project Blue Book Archive'
       </div>
       <div class="mt-6 pt-4 border-t border-dossier-border text-center">
         <p class="text-xs font-mono text-dossier-muted opacity-60 tracking-widest">
-          ░░ PROJECT BLUE BOOK ARCHIVE ░░
+          ░░ THE FLYING SAUCER FILES ░░
         </p>
       </div>
     </div>
