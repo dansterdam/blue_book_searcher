@@ -9,65 +9,71 @@ import stats from '../data/stats.json';
   description="Browse 10,807 UFO case files by year, state, and category."
 >
   <div class="max-w-5xl mx-auto px-4 py-8">
-    <!-- Header -->
-    <div class="mb-8">
-      <div class="flex items-center gap-3 mb-2">
-        <div class="w-1 h-6 bg-dossier-amber"></div>
-        <h1 class="font-typewriter text-2xl text-dossier-amber-bright uppercase tracking-widest">
-          Browse Archive
-        </h1>
+
+    <!-- Picker view (year + state grids) -->
+    <div id="picker-view">
+      <!-- Header -->
+      <div class="mb-8">
+        <div class="flex items-center gap-3 mb-2">
+          <div class="w-1 h-6 bg-dossier-amber"></div>
+          <h1 class="font-typewriter text-2xl text-dossier-amber-bright uppercase tracking-widest">
+            Browse Archive
+          </h1>
+        </div>
+        <p class="font-mono text-dossier-muted text-sm pl-4">
+          Navigate by year, state, or category
+        </p>
       </div>
-      <p class="font-mono text-dossier-muted text-sm pl-4">
-        Navigate by year, state, or category
-      </p>
+
+      <!-- Browse by Year -->
+      <section class="mb-10">
+        <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By Year</h2>
+        <div class="grid grid-cols-4 sm:grid-cols-6 lg:grid-cols-8 gap-2">
+          {stats.casesByYear.map(y => (
+            <a
+              href={`/browse/?year=${y.year}`}
+              data-year={y.year}
+              class="year-btn flex flex-col items-center p-3 border border-dossier-border bg-dossier-surface rounded transition-all text-center hover:border-dossier-amber"
+            >
+              <span class="font-typewriter text-lg text-dossier-amber-bright">{y.year}</span>
+              <span class="font-mono text-xs text-dossier-muted mt-1">{y.count}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- Browse by State -->
+      <section class="mb-10">
+        <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By State / Region</h2>
+        <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-2">
+          {stats.topStates.map(s => (
+            <a
+              href={`/browse/?state=${encodeURIComponent(s.state)}`}
+              data-state={s.state}
+              class="state-btn flex items-center justify-between p-3 border border-dossier-border bg-dossier-surface rounded transition-all hover:border-dossier-amber"
+            >
+              <span class="font-mono text-xs text-dossier-text">{s.state}</span>
+              <span class="font-typewriter text-sm text-dossier-amber">{s.count}</span>
+            </a>
+          ))}
+        </div>
+      </section>
     </div>
-
-    <!-- Browse by Year -->
-    <section class="mb-10">
-      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By Year</h2>
-      <div class="grid grid-cols-4 sm:grid-cols-6 lg:grid-cols-8 gap-2" id="year-grid">
-        {stats.casesByYear.map(y => (
-          <a
-            href={`/browse?year=${y.year}`}
-            data-year={y.year}
-            class="year-btn flex flex-col items-center p-3 border border-dossier-border bg-dossier-surface rounded transition-all group text-center hover:border-dossier-amber"
-          >
-            <span class="font-typewriter text-lg text-dossier-amber-bright">{y.year}</span>
-            <span class="font-mono text-xs text-dossier-muted mt-1">{y.count}</span>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <!-- Browse by State -->
-    <section class="mb-10">
-      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By State / Region</h2>
-      <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-2">
-        {stats.topStates.map(s => (
-          <a
-            href={`/browse?state=${encodeURIComponent(s.state)}`}
-            data-state={s.state}
-            class="state-btn flex items-center justify-between p-3 border border-dossier-border bg-dossier-surface rounded transition-all hover:border-dossier-amber"
-          >
-            <span class="font-mono text-xs text-dossier-text">{s.state}</span>
-            <span class="font-typewriter text-sm text-dossier-amber">{s.count}</span>
-          </a>
-        ))}
-      </div>
-    </section>
 
     <!-- Loading indicator -->
     <div id="loading-indicator" class="hidden text-center py-8">
       <div class="font-mono text-dossier-amber text-sm animate-pulse">Loading cases...</div>
     </div>
 
-    <!-- Results -->
+    <!-- Results view -->
     <section id="browse-results" class="hidden">
-      <div class="flex items-center justify-between mb-4">
+      <div class="flex items-center justify-between mb-6">
         <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest">
           ▶ <span id="results-heading">Cases</span>
         </h2>
-        <a href="/browse" class="font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors">Clear filter</a>
+        <button id="back-btn" class="font-mono text-xs text-dossier-muted hover:text-dossier-amber transition-colors">
+          ← Back to browse
+        </button>
       </div>
       <div id="results-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3"></div>
       <div id="show-more-container" class="hidden mt-6 text-center">
@@ -77,6 +83,7 @@ import stats from '../data/stats.json';
         <div id="show-more-count" class="font-mono text-xs text-dossier-muted mt-2"></div>
       </div>
     </section>
+
   </div>
 </BaseLayout>
 
@@ -127,25 +134,14 @@ async function ensureLoaded(): Promise<void> {
   }
 }
 
-async function showResults() {
-  const params = new URLSearchParams(window.location.search);
-  const year = params.get('year');
-  const state = params.get('state');
+function showPicker() {
+  document.getElementById('picker-view')!.classList.remove('hidden');
+  document.getElementById('browse-results')!.classList.add('hidden');
+  history.pushState({}, '', '/browse/');
+}
 
-  if (!year && !state) {
-    document.getElementById('browse-results')!.classList.add('hidden');
-    return;
-  }
-
+async function showResults(year: string | null, state: string | null) {
   await ensureLoaded();
-
-  // Highlight active filter button
-  if (year) {
-    document.querySelector(`[data-year="${year}"]`)?.classList.add('border-dossier-amber', 'bg-dossier-amber/10');
-  }
-  if (state) {
-    document.querySelector(`[data-state="${state}"]`)?.classList.add('border-dossier-amber', 'bg-dossier-amber/10');
-  }
 
   filteredCases = allCases.filter(c => {
     if (year && String(c.year) !== year) return false;
@@ -160,12 +156,6 @@ async function showResults() {
   const grid = document.getElementById('results-grid')!;
   const showMoreContainer = document.getElementById('show-more-container')!;
 
-  if (filteredCases.length === 0) {
-    section.classList.add('hidden');
-    return;
-  }
-
-  section.classList.remove('hidden');
   heading.textContent = year
     ? `${filteredCases.length.toLocaleString()} cases from ${year}`
     : `${filteredCases.length.toLocaleString()} cases from ${state}`;
@@ -180,19 +170,73 @@ async function showResults() {
   } else {
     showMoreContainer.classList.add('hidden');
   }
+
+  // Hide picker, show results
+  document.getElementById('picker-view')!.classList.add('hidden');
+  section.classList.remove('hidden');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-document.getElementById('show-more')!.addEventListener('click', () => {
-  const batch = filteredCases.slice(shown, shown + PAGE_SIZE);
-  document.getElementById('results-grid')!.insertAdjacentHTML('beforeend', batch.map(renderCaseCard).join(''));
-  shown += batch.length;
-  const remaining = filteredCases.length - shown;
-  if (remaining <= 0) {
-    document.getElementById('show-more-container')!.classList.add('hidden');
-  } else {
-    document.getElementById('show-more-count')!.textContent = `${remaining.toLocaleString()} more cases`;
-  }
-});
+function init() {
+  if (!document.getElementById('browse-results')) return;
 
-showResults();
+  // Intercept year button clicks
+  document.querySelectorAll<HTMLAnchorElement>('[data-year]').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.preventDefault();
+      const year = btn.dataset.year!;
+      history.pushState({}, '', `/browse/?year=${year}`);
+      showResults(year, null);
+    });
+  });
+
+  // Intercept state button clicks
+  document.querySelectorAll<HTMLAnchorElement>('[data-state]').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.preventDefault();
+      const state = btn.dataset.state!;
+      history.pushState({}, '', `/browse/?state=${encodeURIComponent(state)}`);
+      showResults(null, state);
+    });
+  });
+
+  // Back button
+  document.getElementById('back-btn')!.addEventListener('click', showPicker);
+
+  // Show more
+  document.getElementById('show-more')!.addEventListener('click', () => {
+    const batch = filteredCases.slice(shown, shown + PAGE_SIZE);
+    document.getElementById('results-grid')!.insertAdjacentHTML('beforeend', batch.map(renderCaseCard).join(''));
+    shown += batch.length;
+    const remaining = filteredCases.length - shown;
+    if (remaining <= 0) {
+      document.getElementById('show-more-container')!.classList.add('hidden');
+    } else {
+      document.getElementById('show-more-count')!.textContent = `${remaining.toLocaleString()} more cases`;
+    }
+  });
+
+  // Handle browser back/forward
+  window.addEventListener('popstate', () => {
+    const params = new URLSearchParams(window.location.search);
+    const year = params.get('year');
+    const state = params.get('state');
+    if (year || state) {
+      showResults(year, state);
+    } else {
+      showPicker();
+    }
+  });
+
+  // Handle direct URL visit with params (e.g. shared link)
+  const params = new URLSearchParams(window.location.search);
+  const year = params.get('year');
+  const state = params.get('state');
+  if (year || state) {
+    showResults(year, state);
+  }
+}
+
+document.addEventListener('astro:page-load', init);
+init();
 </script>

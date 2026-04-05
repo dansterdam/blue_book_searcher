@@ -255,12 +255,12 @@ async function loadCase() {
     // Navigation links
     const navYear = document.getElementById('nav-year') as HTMLAnchorElement;
     if (navYear && c.year) {
-      navYear.href = `/browse?year=${c.year}`;
+      navYear.href = `/browse/?year=${c.year}`;
       navYear.textContent = `← All ${c.year} cases`;
     }
     const navState = document.getElementById('nav-state') as HTMLAnchorElement;
     if (navState && c.state && c.state.length > 1) {
-      navState.href = `/browse?state=${encodeURIComponent(c.state)}`;
+      navState.href = `/browse/?state=${encodeURIComponent(c.state)}`;
       navState.textContent = `← All ${c.state} cases`;
       show('nav-state');
     }
