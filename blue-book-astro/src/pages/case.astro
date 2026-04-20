@@ -321,5 +321,7 @@ async function loadCase() {
   }
 }
 
-loadCase();
+// Re-run on every navigation (Astro View Transitions fires astro:page-load
+// after each client-side transition; on a full page load it fires once too).
+document.addEventListener('astro:page-load', loadCase);
 </script>
