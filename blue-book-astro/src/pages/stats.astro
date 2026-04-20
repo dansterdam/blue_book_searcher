@@ -100,26 +100,108 @@ import stats from '../data/stats.json';
       </div>
     </section>
 
-    <!-- Common sighted objects -->
+    <!-- AF Conclusions breakdown -->
     <section class="mb-10">
-      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ Most Reported Object Types</h2>
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-1">▶ Air Force Conclusions</h2>
+      <p class="font-mono text-xs text-dossier-muted mb-4 pl-0">
+        Of {stats.afConclusionsTotal.toLocaleString()} cases with a recorded conclusion ({((stats.afConclusionsTotal / stats.total) * 100).toFixed(0)}% of archive)
+      </p>
       <div class="bg-dossier-surface border border-dossier-border rounded p-6">
-        {stats.topObjects.slice(0, 15).map(o => {
-          const maxCount = Math.max(...stats.topObjects.map(x => x.count));
-          const pct = (o.count / maxCount) * 100;
+        {stats.afConclusions.map(o => {
+          const pct = (o.count / stats.afConclusionsTotal) * 100;
+          const icons: Record<string, string> = {
+            'Astronomical': '⭐',
+            'Aircraft': '✈️',
+            'Balloon': '🎈',
+            'Unidentified': '❓',
+            'Insufficient Data': '📋',
+            'Hoax': '🎭',
+            'Natural / Atmospheric': '☁️',
+            'Birds': '🐦',
+            'Missile / Rocket': '🚀',
+            'Other / Unknown': '•',
+          };
           return (
             <div class="flex items-center gap-3 mb-2 group">
-              <span class="font-mono text-xs text-dossier-muted w-56 text-right shrink-0 truncate" title={o.obj}>{o.obj}</span>
+              <span class="font-mono text-xs text-dossier-muted w-44 text-right shrink-0 truncate flex items-center justify-end gap-1.5">
+                <span class="text-sm">{icons[o.category] ?? '•'}</span>
+                {o.category}
+              </span>
               <div class="flex-1 h-4 bg-dossier-bg rounded overflow-hidden">
                 <div
                   class="h-full bg-dossier-green/50 group-hover:bg-dossier-green-bright transition-all rounded"
                   style={`width: ${pct}%`}
                 ></div>
               </div>
-              <span class="font-mono text-xs text-dossier-green-bright w-10 shrink-0">{o.count}</span>
+              <span class="font-mono text-xs text-dossier-green-bright w-16 shrink-0">
+                {o.count} <span class="text-dossier-muted">({pct.toFixed(0)}%)</span>
+              </span>
             </div>
           );
         })}
+      </div>
+    </section>
+
+    <!-- Sightings by month -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-1">▶ Sightings by Month</h2>
+      <p class="font-mono text-xs text-dossier-muted mb-4">
+        Summer peaks — July and August account for {(((stats.casesByMonth[6].count + stats.casesByMonth[7].count) / stats.total) * 100).toFixed(0)}% of all reports
+      </p>
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        {stats.casesByMonth.map(m => {
+          const maxCount = Math.max(...stats.casesByMonth.map(x => x.count));
+          const pct = (m.count / maxCount) * 100;
+          const isPeak = m.month === 'July' || m.month === 'August';
+          return (
+            <div class="flex items-center gap-3 mb-1.5 group">
+              <span class={`font-mono text-xs w-24 text-right shrink-0 ${isPeak ? 'text-dossier-amber' : 'text-dossier-muted'}`}>{m.month}</span>
+              <div class="flex-1 h-4 bg-dossier-bg rounded overflow-hidden">
+                <div
+                  class={`h-full transition-all rounded ${isPeak ? 'bg-dossier-amber/60 group-hover:bg-dossier-amber' : 'bg-dossier-amber/25 group-hover:bg-dossier-amber/50'}`}
+                  style={`width: ${pct}%`}
+                ></div>
+              </div>
+              <span class={`font-mono text-xs w-12 shrink-0 ${isPeak ? 'text-dossier-amber' : 'text-dossier-muted'}`}>{m.count.toLocaleString()}</span>
+            </div>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Mass sightings -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-1">▶ Largest Mass Sightings</h2>
+      <p class="font-mono text-xs text-dossier-muted mb-4">Cases with 100 or more recorded witnesses</p>
+      <div class="bg-dossier-surface border border-dossier-border rounded overflow-hidden">
+        <table class="w-full">
+          <thead>
+            <tr class="border-b border-dossier-border">
+              <th class="font-mono text-xs text-dossier-muted uppercase tracking-wider text-right px-4 py-2 w-28">Witnesses</th>
+              <th class="font-mono text-xs text-dossier-muted uppercase tracking-wider text-left px-4 py-2 w-24">Date</th>
+              <th class="font-mono text-xs text-dossier-muted uppercase tracking-wider text-left px-4 py-2">Location</th>
+              <th class="px-4 py-2 w-20"></th>
+            </tr>
+          </thead>
+          <tbody>
+            {stats.massSightings.map((s, i) => (
+              <tr class={`border-b border-dossier-border/50 hover:bg-dossier-bg transition-colors ${i === 0 ? 'bg-dossier-amber/5' : ''}`}>
+                <td class="px-4 py-2.5 text-right">
+                  <span class={`font-typewriter text-lg ${i === 0 ? 'text-dossier-amber' : 'text-dossier-text-bright'}`}>
+                    {s.witnesses.toLocaleString()}
+                  </span>
+                </td>
+                <td class="font-mono text-xs text-dossier-muted px-4 py-2.5">{s.date}</td>
+                <td class="font-mono text-xs text-dossier-text px-4 py-2.5">{s.location}</td>
+                <td class="px-4 py-2.5 text-right">
+                  <a href={`/case?id=${s.id}`} class="font-mono text-xs text-dossier-amber/60 hover:text-dossier-amber transition-colors">
+                    View →
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
     </section>
 
