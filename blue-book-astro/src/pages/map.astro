@@ -68,9 +68,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </BaseLayout>
 
 <!-- Leaflet CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<!-- TODO: add integrity="sha384-<hash>" once computed: curl -sL <url> | openssl dgst -sha384 -binary | openssl base64 -A -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" crossorigin="anonymous" />
 <!-- Leaflet MarkerCluster base CSS only (no Default.css — we supply our own colors) -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" crossorigin="anonymous" />
 
 <style>
   /* Override Leaflet's default blue tiles with a dark/amber theme */
@@ -115,7 +116,10 @@ async function initMap() {
     return;
   }
 
-  // Load Leaflet + MarkerCluster dynamically
+  // Load Leaflet + MarkerCluster dynamically.
+  // TODO: compute SRI hashes and pass as second argument to loadScript, e.g.:
+  //   await loadScript('https://cdnjs.../leaflet.min.js', 'sha384-<hash>');
+  // Run: curl -sL <url> | openssl dgst -sha384 -binary | openssl base64 -A
   await loadScript('https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js');
   await loadScript('https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js');
 
@@ -176,6 +180,16 @@ async function initMap() {
   });
 }
 
+/** Escape user-controlled strings before inserting into HTML contexts. */
+function escapeHtml(str: string): string {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 function buildClusterGroup(L: any, cases: any[], icon: any) {
   const group = L.markerClusterGroup({
     maxClusterRadius: 40,
@@ -210,13 +224,13 @@ function buildClusterGroup(L: any, cases: any[], icon: any) {
   for (const c of cases) {
     const marker = L.marker([c.lat, c.lng], { icon });
     const photoTag = c.contains_photographs ? '<span style="color:#6dbf6d">📷 PHOTO</span> · ' : '';
-    const witnesses = c.witnesses != null ? `${c.witnesses} witness${c.witnesses !== 1 ? 'es' : ''}` : 'witnesses unknown';
+    const witnesses = c.witnesses != null ? `${escapeHtml(String(c.witnesses))} witness${c.witnesses !== 1 ? 'es' : ''}` : 'witnesses unknown';
     marker.bindPopup(`
       <div style="min-width:200px;max-width:260px">
-        <div style="color:#888;margin-bottom:4px;font-size:10px">${photoTag}${c.date} · ${witnesses}</div>
-        <div style="color:#e8c840;font-weight:bold;margin-bottom:6px;font-size:11px">${c.location}</div>
-        <div style="color:#aaa;margin-bottom:8px;font-size:11px;line-height:1.4">${c.summary || ''}</div>
-        <a href="/case?id=${c.id}" style="color:#ff2d78;text-decoration:none;font-size:10px;border:1px solid #ff2d78;padding:2px 8px;border-radius:2px;display:inline-block">
+        <div style="color:#888;margin-bottom:4px;font-size:10px">${photoTag}${escapeHtml(String(c.date || ''))} · ${witnesses}</div>
+        <div style="color:#e8c840;font-weight:bold;margin-bottom:6px;font-size:11px">${escapeHtml(String(c.location || ''))}</div>
+        <div style="color:#aaa;margin-bottom:8px;font-size:11px;line-height:1.4">${escapeHtml(String(c.summary || ''))}</div>
+        <a href="/case?id=${escapeHtml(encodeURIComponent(String(c.id || '')))}" style="color:#ff2d78;text-decoration:none;font-size:10px;border:1px solid #ff2d78;padding:2px 8px;border-radius:2px;display:inline-block">
           View case file →
         </a>
       </div>
@@ -232,10 +246,12 @@ function updateCount(n: number) {
   if (el) el.textContent = `${n.toLocaleString()} cases plotted`;
 }
 
-function loadScript(src: string): Promise<void> {
+function loadScript(src: string, integrity?: string): Promise<void> {
   return new Promise((resolve, reject) => {
     const s = document.createElement('script');
     s.src = src;
+    s.crossOrigin = 'anonymous';
+    if (integrity) s.integrity = integrity;
     s.onload = () => resolve();
     s.onerror = reject;
     document.head.appendChild(s);

@@ -241,7 +241,13 @@ async function loadCase() {
         points.forEach((point: string) => {
           const li = document.createElement('li');
           li.className = 'font-mono text-xs text-dossier-text leading-relaxed flex gap-2';
-          li.innerHTML = `<span class="text-dossier-amber shrink-0">›</span><span>${point.trim()}</span>`;
+          const bullet = document.createElement('span');
+          bullet.className = 'text-dossier-amber shrink-0';
+          bullet.textContent = '›';
+          const text = document.createElement('span');
+          text.textContent = point.trim();
+          li.appendChild(bullet);
+          li.appendChild(text);
           ul.appendChild(li);
         });
       }
@@ -283,11 +289,17 @@ async function loadCase() {
         header.target = '_blank';
         header.rel = 'noopener noreferrer';
         header.className = 'flex items-center gap-3 mt-6 mb-2 group cursor-pointer border-t border-dossier-border/50 pt-3';
-        header.innerHTML = `
-          <span class="font-mono text-xs text-dossier-amber/60 uppercase tracking-widest shrink-0">Page ${pageNum}</span>
-          <span class="flex-1 border-t border-dossier-amber/20"></span>
-          <span class="font-mono text-xs text-dossier-muted group-hover:text-dossier-amber transition-colors opacity-0 group-hover:opacity-100">Open in PDF ↗</span>
-        `;
+        const pageLabel = document.createElement('span');
+        pageLabel.className = 'font-mono text-xs text-dossier-amber/60 uppercase tracking-widest shrink-0';
+        pageLabel.textContent = `Page ${pageNum}`;
+        const divider = document.createElement('span');
+        divider.className = 'flex-1 border-t border-dossier-amber/20';
+        const openLabel = document.createElement('span');
+        openLabel.className = 'font-mono text-xs text-dossier-muted group-hover:text-dossier-amber transition-colors opacity-0 group-hover:opacity-100';
+        openLabel.textContent = 'Open in PDF ↗';
+        header.appendChild(pageLabel);
+        header.appendChild(divider);
+        header.appendChild(openLabel);
         transcriptEl.appendChild(header);
 
         const pre = document.createElement('pre');

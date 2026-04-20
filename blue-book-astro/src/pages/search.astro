@@ -160,6 +160,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 <script>
 // Pagefind search integration — lazily loaded, View Transitions safe
 
+/** Escape user-controlled strings before inserting into HTML attribute/text contexts. */
+function escapeHtml(str: string): string {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 interface PagefindResult {
   url: string;
   meta: { title?: string; image?: string };
@@ -256,14 +266,36 @@ async function loadResultsBatch() {
 
     const excerpt = data.excerpt || '';
 
-    card.innerHTML = `
-      <div class="absolute top-0 right-0 w-5 h-5 border-l border-b border-dossier-amber/20 group-hover:border-dossier-amber/50 transition-colors"></div>
-      <div class="flex items-center gap-2 mb-2 flex-wrap">
-        ${dateBadge ? `<span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${dateBadge}</span>` : ''}
-        <span class="font-mono text-xs text-dossier-muted uppercase tracking-wider truncate">📍 ${location}</span>
-      </div>
-      ${excerpt ? `<p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-3">${excerpt}</p>` : ''}
-    `;
+    // Build card DOM safely — only excerpt (from Pagefind, contains <mark> tags) uses innerHTML
+    const corner = document.createElement('div');
+    corner.className = 'absolute top-0 right-0 w-5 h-5 border-l border-b border-dossier-amber/20 group-hover:border-dossier-amber/50 transition-colors';
+
+    const metaRow = document.createElement('div');
+    metaRow.className = 'flex items-center gap-2 mb-2 flex-wrap';
+
+    if (dateBadge) {
+      const badge = document.createElement('span');
+      badge.className = 'font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded';
+      badge.textContent = dateBadge;
+      metaRow.appendChild(badge);
+    }
+
+    const locationSpan = document.createElement('span');
+    locationSpan.className = 'font-mono text-xs text-dossier-muted uppercase tracking-wider truncate';
+    locationSpan.textContent = `📍 ${location}`;
+    metaRow.appendChild(locationSpan);
+
+    card.appendChild(corner);
+    card.appendChild(metaRow);
+
+    if (excerpt) {
+      const excerptEl = document.createElement('p');
+      excerptEl.className = 'font-mono text-dossier-text text-xs leading-relaxed line-clamp-3';
+      // Pagefind excerpt is trusted (generated from indexed content) and contains
+      // <mark> highlight tags — innerHTML is intentional here only for this source.
+      excerptEl.innerHTML = excerpt;
+      card.appendChild(excerptEl);
+    }
 
     resultsList.appendChild(card);
   }

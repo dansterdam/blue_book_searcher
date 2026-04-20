@@ -18,9 +18,14 @@ export interface PageSection {
 
 /**
  * Build the S3 URL for a case's original PDF.
- * Simply replaces the .txt extension with .pdf.
+ * Validates the filename to prevent path traversal or unexpected redirects.
  */
 export function buildPdfUrl(filename: string): string {
+  // Allow only safe characters: alphanumeric, dash, underscore, dot, and forward slash
+  // (forward slash needed for S3 key prefixes like "folder/file.txt")
+  if (!/^[a-zA-Z0-9_\-./]+$/.test(filename) || filename.includes('..')) {
+    throw new Error(`Invalid filename: ${filename}`);
+  }
   return `${S3_BASE}/${filename.replace(/\.txt$/i, '.pdf')}`;
 }
 
