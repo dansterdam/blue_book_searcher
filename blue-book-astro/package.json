@@ -15,7 +15,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:py": "python3 -m pytest tests/test_parse_utils.py -v",
-    "test:all": "npm run test && npm run test:py"
+    "test:all": "npm run test && npm run test:py",
+    "audit": "npm audit --audit-level=moderate"
   },
   "engines": {
     "node": ">=18.0.0"
