@@ -328,7 +328,7 @@ async function loadCase() {
   } catch (err) {
     console.error('Failed to load case:', err);
     hide('loading-state');
-    set('error-message', `Could not load case "${caseId}". The file may not exist or the archive may still be building.`);
+    set('error-message', 'This case file could not be loaded. Please try another case or return to search.');
     show('error-state');
   }
 }
