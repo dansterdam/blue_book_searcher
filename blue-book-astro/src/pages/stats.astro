@@ -1,6 +1,19 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import stats from '../data/stats.json';
+
+const conclusionIcons: Record<string, string> = {
+  'Astronomical': '⭐',
+  'Aircraft': '✈️',
+  'Balloon': '🎈',
+  'Unidentified': '❓',
+  'Insufficient Data': '📋',
+  'Hoax': '🎭',
+  'Natural / Atmospheric': '☁️',
+  'Birds': '🐦',
+  'Missile / Rocket': '🚀',
+  'Other / Unknown': '•',
+};
 ---
 <BaseLayout
   title="Statistical Analysis"
@@ -109,22 +122,10 @@ import stats from '../data/stats.json';
       <div class="bg-dossier-surface border border-dossier-border rounded p-6">
         {stats.afConclusions.map(o => {
           const pct = (o.count / stats.afConclusionsTotal) * 100;
-          const icons: Record<string, string> = {
-            'Astronomical': '⭐',
-            'Aircraft': '✈️',
-            'Balloon': '🎈',
-            'Unidentified': '❓',
-            'Insufficient Data': '📋',
-            'Hoax': '🎭',
-            'Natural / Atmospheric': '☁️',
-            'Birds': '🐦',
-            'Missile / Rocket': '🚀',
-            'Other / Unknown': '•',
-          };
           return (
             <div class="flex items-center gap-3 mb-2 group">
               <span class="font-mono text-xs text-dossier-muted w-44 text-right shrink-0 truncate flex items-center justify-end gap-1.5">
-                <span class="text-sm">{icons[o.category] ?? '•'}</span>
+                <span class="text-sm">{conclusionIcons[o.category] ?? '•'}</span>
                 {o.category}
               </span>
               <div class="flex-1 h-4 bg-dossier-bg rounded overflow-hidden">
