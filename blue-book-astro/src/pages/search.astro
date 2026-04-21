@@ -199,6 +199,11 @@ const PAGE_SIZE = 20;
 
 async function loadPagefind(): Promise<PagefindAPI> {
   if (pagefind) return pagefind;
+  // Security: Pagefind is a build-time generated library loaded from /pagefind/,
+  // a path served from our own origin. It is not a third-party CDN dependency at
+  // runtime. The only innerHTML usage in this file (excerpt rendering) is
+  // intentional: Pagefind wraps matched terms in <mark> tags for highlighting.
+  // Keep Pagefind updated and review release notes for security advisories.
   // @ts-ignore
   pagefind = await import('/pagefind/pagefind.js');
   return pagefind!;
