@@ -176,19 +176,49 @@ for (const c of cases) {
   }
 }
 
-// Sighted object types (most common)
-const objectTypes = {};
+// AF Conclusion categories
+function normalizeConclusion(raw) {
+  const c = raw.toUpperCase();
+  if (/\bBALLOON\b/.test(c)) return 'Balloon';
+  if (/\bA\/C\b/.test(c) || c.includes('AIRCRAFT')) return 'Aircraft';
+  if (['ASTRO', 'STAR', 'PLANET', 'METEOR', 'SATELLITE', 'SUN DOG', 'SUNDOG'].some(x => c.includes(x))) return 'Astronomical';
+  if (c.includes('UNIDENTIFIED')) return 'Unidentified';
+  if (c.includes('INSUFF')) return 'Insufficient Data';
+  if (c.includes('HOAX')) return 'Hoax';
+  if (['CONTRAIL', 'CLOUD', 'WEATHER', 'ATMOSPHERIC'].some(x => c.includes(x))) return 'Natural / Atmospheric';
+  if (c.includes('BIRD')) return 'Birds';
+  if (c.includes('MISSILE') || c.includes('ROCKET')) return 'Missile / Rocket';
+  return 'Other / Unknown';
+}
+const conclusionCounts = {};
 for (const c of cases) {
-  if (c.sighted_object) {
-    // Normalize
-    const obj = c.sighted_object.toLowerCase().trim();
-    objectTypes[obj] = (objectTypes[obj] || 0) + 1;
+  if (c.conclusion && c.conclusion.trim()) {
+    const cat = normalizeConclusion(c.conclusion);
+    conclusionCounts[cat] = (conclusionCounts[cat] || 0) + 1;
   }
 }
-const topObjects = Object.entries(objectTypes)
+const afConclusions = Object.entries(conclusionCounts)
   .sort((a, b) => b[1] - a[1])
-  .slice(0, 20)
-  .map(([obj, count]) => ({ obj, count }));
+  .map(([category, count]) => ({ category, count }));
+const afConclusionsTotal = afConclusions.reduce((s, x) => s + x.count, 0);
+
+// Cases by month (Jan–Dec)
+const monthNames = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+const monthCounts = {};
+for (const c of cases) {
+  if (c.month && /^\d{2}$/.test(c.month)) {
+    const idx = parseInt(c.month, 10) - 1;
+    if (idx >= 0 && idx < 12) monthCounts[idx] = (monthCounts[idx] || 0) + 1;
+  }
+}
+const casesByMonth = monthNames.map((month, i) => ({ month, count: monthCounts[i] || 0 }));
+
+// Top mass sightings (100+ witnesses)
+const massSightings = cases
+  .filter(c => c.witnesses && c.witnesses >= 100)
+  .sort((a, b) => b.witnesses - a.witnesses)
+  .slice(0, 10)
+  .map(c => ({ witnesses: c.witnesses, date: c.date, location: c.location, id: c.id }));
 
 // Photo cases
 const withPhotos = cases.filter(c => c.contains_photographs).length;
@@ -199,7 +229,10 @@ const stats = {
   casesByYear: Object.entries(casesByYear).sort((a, b) => Number(a[0]) - Number(b[0])).map(([year, count]) => ({ year: Number(year), count })),
   topStates,
   witnessGroups: Object.entries(witnessGroups).map(([range, count]) => ({ range, count })),
-  topObjects,
+  afConclusions,
+  afConclusionsTotal,
+  casesByMonth,
+  massSightings,
   withPhotos,
   withoutPhotos: cases.length - withPhotos,
 };
