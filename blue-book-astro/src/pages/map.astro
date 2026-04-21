@@ -68,6 +68,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </BaseLayout>
 
 <!-- Leaflet CSS -->
+<!-- TODO: add integrity="sha384-<hash>" once computed: curl -sL <url> | openssl dgst -sha384 -binary | openssl base64 -A -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" crossorigin="anonymous" />
 <!-- Leaflet MarkerCluster base CSS only (no Default.css — we supply our own colors) -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" crossorigin="anonymous" />
@@ -115,11 +116,12 @@ async function initMap() {
     return;
   }
 
-  // Load Leaflet + MarkerCluster dynamically with Subresource Integrity checks.
-  await loadScript('https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js',
-    'sha384-NElt3Op+9NBMCYaef5HxeJmU4Xeard/Lku8ek6hoPTvYkQPh3zLIrJP7KiRocsxO');
-  await loadScript('https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js',
-    'sha384-SIh+qcEBNMda8tT+rx66aCBuWtVYMVzRABqhK4eeQh4pjDHoRdVx8nYU4LQ5eGzI');
+  // Load Leaflet + MarkerCluster dynamically.
+  // TODO: compute SRI hashes and pass as second argument to loadScript, e.g.:
+  //   await loadScript('https://cdnjs.../leaflet.min.js', 'sha384-<hash>');
+  // Run: curl -sL <url> | openssl dgst -sha384 -binary | openssl base64 -A
+  await loadScript('https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js');
+  await loadScript('https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js');
 
   const L = (window as any).L;
 
