@@ -39,6 +39,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </div>
   </div>
 
+  <!-- Related cases (populated after case loads) -->
+  <div id="related-section" class="hidden max-w-5xl mx-auto px-4 pb-12">
+    <div class="flex items-center gap-3 mb-4 mt-8">
+      <div class="w-1 h-5 bg-dossier-amber/50"></div>
+      <h2 class="font-typewriter text-base text-dossier-amber uppercase tracking-widest">Related Cases</h2>
+    </div>
+    <div id="related-grid" class="grid sm:grid-cols-3 gap-3"></div>
+  </div>
+
   <!-- Case content (hidden until loaded) -->
   <div id="case-view" class="hidden max-w-5xl mx-auto px-4 py-8">
 
@@ -187,6 +196,49 @@ interface CaseData {
   has_json: boolean;
 }
 
+interface BrowseCase {
+  id: string;
+  date: string;
+  year: number | null;
+  location: string;
+  state: string;
+  summary: string;
+  witnesses: number | null;
+  contains_photographs: boolean;
+}
+
+async function loadRelatedCases(currentId: string, state: string, year: number | null) {
+  try {
+    const res = await fetch('/data/browse-index.json');
+    const all: BrowseCase[] = await res.json();
+
+    // Prefer same state; fall back to any case
+    let pool = all.filter(c => c.id !== currentId && c.state === state);
+    if (pool.length < 3) pool = all.filter(c => c.id !== currentId);
+
+    // Pick 3 at random
+    const shuffled = pool.sort(() => Math.random() - 0.5).slice(0, 3);
+    if (shuffled.length === 0) return;
+
+    const grid = document.getElementById('related-grid')!;
+    grid.innerHTML = shuffled.map(c => `
+      <a href="/case?id=${c.id}" class="block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all p-4 group relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-5 h-5 border-l border-b border-dossier-amber/20 group-hover:border-dossier-amber/50 transition-colors"></div>
+        <div class="flex items-center gap-2 mb-2">
+          <span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${c.date}</span>
+          ${c.contains_photographs ? '<span class="font-mono text-xs text-dossier-green-bright">📷</span>' : ''}
+        </div>
+        <p class="font-mono text-dossier-muted text-xs uppercase tracking-wider mb-1 truncate">📍 ${c.location}</p>
+        <p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-2">${c.summary || 'No summary available.'}</p>
+      </a>
+    `).join('');
+
+    document.getElementById('related-section')!.classList.remove('hidden');
+  } catch {
+    // Related cases are non-critical — silently ignore failures
+  }
+}
+
 function show(id: string) { document.getElementById(id)?.classList.remove('hidden'); }
 function hide(id: string) { document.getElementById(id)?.classList.add('hidden'); }
 function set(id: string, text: string) { const el = document.getElementById(id); if (el) el.textContent = text; }
@@ -324,6 +376,9 @@ async function loadCase() {
     // Swap states
     hide('loading-state');
     show('case-view');
+
+    // Load related cases lazily after main content is visible
+    loadRelatedCases(c.id, c.state, c.year);
 
   } catch (err) {
     console.error('Failed to load case:', err);
