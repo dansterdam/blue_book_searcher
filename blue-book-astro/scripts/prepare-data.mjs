@@ -97,6 +97,7 @@ const browseIndex = cases.map(c => ({
   summary: c.summary ? c.summary.slice(0, 120) : '',
   witnesses: c.witnesses,
   contains_photographs: c.contains_photographs,
+  conclusion_category: c.conclusion && c.conclusion.trim() ? normalizeConclusion(c.conclusion) : '',
 }));
 const PUBLIC_DATA_DIR = path.join(ROOT, 'public', 'data');
 fs.mkdirSync(PUBLIC_DATA_DIR, { recursive: true });
