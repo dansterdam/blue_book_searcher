@@ -1,9 +1,23 @@
 {
-    "main event": "Mr. and Mrs. William Gay observed three bright glowing objects moving across the sky in formation, maneuvering erratically at high speed.",
-    "interesting points": "The sighting occurred over Albuquerque, New Mexico on October 8, 1954., The objects were described as bright and glowing., The duration of the observation was approximately 15 minutes., Witnesses included airport traffic controllers and civilians., The objects were reported to be moving at high speeds with no sound.",
-    "sighted object": "three bright glowing objects in the sky",
-    "location": "Albuquerque, New Mexico, United States",
-    "number of confirmed witnesses": 3,
-    "witness description": "Mr. and Mrs. William Gay along with other eyewitnesses including airport traffic controllers.",
-    "contains photographs": false
+  "main_event": "Civilian technician at Sandia Corporation observed circular white object with no discernible features traveling extremely fast for 7-8 seconds from Sandia Mountains near Albuquerque, New Mexico at 1840Z on 13 October 1954.",
+  "sighted_object": "circular; white; approximately one-third size of clear white circle [held at arm's length?]; edges fuzzy or blurred; no tail or exhaust; no sound; traveling extremely fast; disappeared in approximately 7-8 seconds; brought to attention by its brilliance",
+  "location": "Albuquerque, New Mexico (Sandia Mountains)",
+  "date": "13 OCT 54",
+  "length_of_observation": "7 - 8 seconds",
+  "number_of_objects": 1,
+  "course": null,
+  "witnesses": 1,
+  "witness_description": "Civilian [REDACTED], technical technician at Sandia Corporation, Albuquerque, NM; observed from Sandia Mountains",
+  "contains_photographs": false,
+  "conclusion": "Other: Reflection",
+  "interesting_points": [
+    "Two Air Intelligence Information Reports filed (dated 20 Oct and 2 Nov 1954) for same 13 Oct sighting",
+    "Preparing officer conclusion: reflection of sun off conventional aircraft; no a/c in area at time per operations check",
+    "Approving officer: 'indicates the probability of reflections from the sun' with additional aircraft creating afterimage against bright 50-mile-visibility sky",
+    "Conditions: bright daylight, clear sky, ceiling unlimited, visibility 50 miles — conducive to sun reflection artifacts",
+    "No radar contact; no interception attempted; no physical evidence",
+    "CSV flag G:form='one'_vs_obj='three bright glowing objects' was complete haiku hallucination; form clearly states one circular white object",
+    "CSV flag C:dur_meta=900.0s_vs_form=3.0s was haiku error; form states '7-8 seconds' (not 3 seconds or 900 seconds)"
+  ],
+  "extraction_confidence": "medium"
 }

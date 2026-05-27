@@ -1,9 +1,21 @@
 {
-    "main event": "Multiple witnesses observed unidentified flying objects in the sky over San Antonio, Texas, on February 26 and 27, 1953.",
-    "interesting points": "Witnesses described bright lights moving rapidly with no sound,The objects appeared to be circular and brighter than the stars,Observations were made by military personnel at Brooks Air Force Base,Some witnesses reported the objects making oscillating movements and dives,No physical evidence was found to support the sightings.",
-    "sighted object": "unidentified bright light",
-    "location": "San Antonio, Texas, USA",
-    "number of confirmed witnesses": 24,
-    "witness description": "Military personnel and other individuals working in the area.",
-    "contains photographs": false
+  "main_event": "Approximately 7 military personnel at Brooks AFB, San Antonio, Texas observed bright orange star-sized light traveling from SW to N, climbing out of sight, then returning from NE traveling SW faster and at lower altitude; sighted from 2345 26 February to 0100 27 February 1953.",
+  "sighted_object": "light larger than a star, orange in color; no sound; initially climbing; later traveling SW at faster speed and lower altitude; one witness described oval flight pattern with a second object; speed estimated at 900 MPH by one observer; varied from dull red to very bright; appeared to circle the moon in a large oval pattern",
+  "location": "San Antonio, Texas (Brooks AFB)",
+  "date": "26 Feb 53",
+  "length_of_observation": "approximately 75 minutes (2345-0100)",
+  "number_of_objects": 1,
+  "course": "East",
+  "witnesses": 7,
+  "witness_description": "1st Lt [REDACTED] (author of primary witness statement); S/Sgt [REDACTED] (3 statements); A/1c [REDACTED]; A/2c [REDACTED]; S/Sgt [REDACTED] — all at Brooks AFB; A/1c stated 'about twenty or so others' also observed; reliability unknown",
+  "contains_photographs": false,
+  "conclusion": "Possibly Aircraft",
+  "interesting_points": [
+    "Lt witness initiated own investigation: called Kelly AFB Operations, flight service in Austin, Kelly again, and Randolph AFB — all negative for unusual aircraft activity; Kelly reported a couple conventional a/c in local area but pilot saw nothing unusual",
+    "Witness accounts conflict significantly: some saw one object, one saw two circling the moon in oval pattern; A/2c statement noted as 'conflicts with other statements'",
+    "One S/Sgt statement describes object shooting left and right and disappearing within one minute then returning; another describes steady oval pattern around moon at 900 MPH",
+    "S/Sgt statement (p9) describes seeing object twice: initially traveling east-to-north, then approximately 45 minutes to one hour later saw it again in the west near Kelly AFB",
+    "CSV flag B:witnesses_24_not_in_text was haiku hallucination; 7 named witnesses with statements; A/1c mentions 'twenty or so others' but they gave no information"
+  ],
+  "extraction_confidence": "high"
 }

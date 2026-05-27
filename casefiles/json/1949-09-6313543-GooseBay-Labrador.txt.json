@@ -1,9 +1,22 @@
 {
-    "main event": "On 29 September 1949, multiple witnesses observed unidentified flying objects in the sky near Enid, Oklahoma.",
-    "interesting points": "Witnesses described seeing seven objects first, then a larger group of 50 to 100, moving in a circular formation before separating into a straight line., The objects gleamed in the sunlight, resembling shiny silver aircraft., The observers noted that the objects were round, with some describing them as disc-like or bird-shaped., The sightings were reported to have occurred in clear weather conditions with no other aircraft in the vicinity., The objects were reported to move at a speed twice that of a B-25 aircraft.",
-    "sighted object": "multiple round, shiny objects",
-    "location": "Enid, Oklahoma, USA",
-    "number of confirmed witnesses": 2,
-    "witness description": "Both witnesses were military personnel with experience in aviation and navigation.",
-    "contains photographs": false
+  "main_event": "Egg-shaped object with yellow-red front and brilliant orange rear descended at 70-degree angle near Goose Bay, Labrador.",
+  "sighted_object": "Egg shaped. Front section yellow and red as if on fire. Aft portion brilliant incandescent. Green about the size of a railroad oil car.",
+  "location": "Goose Bay, Labrador",
+  "date": "10 Sep",
+  "length_of_observation": "Not Reported",
+  "number_of_objects": 1,
+  "course": "Descending at 70 Deg Angle",
+  "witnesses": null,
+  "witness_description": "Military",
+  "contains_photographs": false,
+  "conclusion": "Astro(METEOR)",
+  "interesting_points": [
+    "Object was egg shaped with front section yellow and red though it was on fire while aft portion was brilliant incandescent",
+    "Object was green about the size of a railroad oil car",
+    "Object was travelling very fast and disappeared into a cloud",
+    "No scowl exhaust, or trail was observed",
+    "Object was in a steady slight curved descent and did not flutter",
+    "Type of observation: Air Visual"
+  ],
+  "extraction_confidence": "high"
 }

@@ -1,9 +1,23 @@
 {
-    "main event": "Several citizens reported sighting unidentified flying discs in the sky over Fargo, North Dakota on April 25, 1952.",
-    "interesting points": "The objects were described as reddish, round, and reflecting city lights., Observations lasted for about 15 minutes., The flight patterns appeared as a wide 'V' formation., Initial sightings led to them being identified as migrating ducks., Observers initially thought they were encountering unidentified aerial phenomena.",
-    "sighted object": "unidentified flying discs",
-    "location": "Fargo, North Dakota, USA",
-    "number of confirmed witnesses": 8,
-    "witness description": "civilians who observed from various locations in Fargo",
-    "contains photographs": false
+  "main_event": "Multiple civilians in Moorhead, Minnesota and Fargo, North Dakota observed 5 glowing reddish-orange disc-shaped objects in V-formation, 5 flights at 8-minute intervals, traveling south to north, each lasting ~4 seconds, between 2100-2145 hours on 25 April 1952; investigating officer personally staked out next night from 10th floor of Black Building and positively identified objects as migrating Mallard and Teal Ducks reflecting neon city lights.",
+  "sighted_object": "round/disc; reddish-orange (bright red and orange); 'a glowing ball'; 5 per flight in wide V-formation; sloppy V — objects appeared to have trouble maintaining constant speed and altitude; no trail, exhaust, or sound; moving very high and very fast",
+  "location": "Fargo, North Dakota / Moorhead, Minnesota",
+  "date": "25 Apr 52",
+  "length_of_observation": "4 seconds per flight; total event 2100-2145 (5 flights at 8-min intervals)",
+  "number_of_objects": 5,
+  "course": "South to North",
+  "witnesses": 8,
+  "witness_description": "Patrolman [REDACTED], Moorhead Police Dept.; Mrs. [REDACTED] (3 women from Moorhead Minn); Al [REDACTED], Fargo Fire Department; [REDACTED], KFGO radio station Fargo ND; Doctor [REDACTED], ND Agricultural College Fargo ND — 7 named adult witnesses; Appendix I states 8 total observers",
+  "contains_photographs": false,
+  "conclusion": "Other: DUCKS",
+  "interesting_points": [
+    "Exemplary self-contained investigation: reporting officer (Capt. Gadeois, Det. 2, 462nd GOS) personally staked out Black Building 10th floor the following night (28 Apr) with binoculars, high-speed camera, and telescope",
+    "Positive identification of Teal Ducks via flapping wings (visual) at 2115 hours on 28 April; Geese also identified by honking",
+    "Explanation: phosphorescence from neon city lights picked up by fowl feathers from ground level with lighting glare — elevated vantage point revealed true nature",
+    "Initial report (27 Apr) explicitly filed as hearsay from citizens; follow-up report (29 Apr) filed as first-hand observed data",
+    "V-formation 'sloppiness' with varying speed and altitude is consistent with duck flocking behavior",
+    "Northwest Airlines commercial flight noted at ~2110 hours on approach — seen by majority of same observers; correctly identified as conventional aircraft at the time",
+    "Record card NUMBER OF OBJECTS: 'varied' — form uses varying to indicate 5 discs per flight across 5 flights = 25 total objects, or simply 5 per flight"
+  ],
+  "extraction_confidence": "high"
 }

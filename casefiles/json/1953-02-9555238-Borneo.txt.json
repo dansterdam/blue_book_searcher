@@ -1,9 +1,20 @@
 {
-    "main event": "A bright star-like object was observed rotating in the sky over the oil town of Seria, Borneo, emitting twin jets of vapor.",
-    "interesting points": "The object was estimated to be at a height of 30,000 feet., The sighting lasted for about 40 minutes., Hundreds of spectators witnessed the event and referred to it as a 'Flying Saucer'., Similar phenomena have been reported over Borneo several times recently., The observation has been labeled as insufficient data for evaluation.",
-    "sighted object": "a bright star-like object",
-    "location": "Seria, Borneo, Malaysia",
-    "number of confirmed witnesses": 100,
-    "witness description": "curious Borneans in the area",
-    "contains photographs": false
+  "main_event": "Bright star-like object rotating at estimated 30,000 feet over oil town of Seria, Borneo, emitting twin vapor jets, visible 40 minutes.",
+  "sighted_object": "bright star-like obj in sky appearing to rotate, twin vapor trails / twin jets of vapor",
+  "location": "Borneo",
+  "date": "25 Feb 53",
+  "length_of_observation": "40 Min.",
+  "number_of_objects": 1,
+  "course": "Maneuvering",
+  "witnesses": null,
+  "witness_description": "Hundreds of curious Borneans over the oil town of Seria",
+  "contains_photographs": false,
+  "conclusion": "INSUFFICIENT DATA FOR EVALUATION",
+  "interesting_points": [
+    "Bright star-like obj appearing to rotate at estimated alt of 30,000'",
+    "Twin vapor trails / twin jets of vapor",
+    "Similar phenomena have been reported over Borneo several times recently",
+    "Observed several times on previous occasions"
+  ],
+  "extraction_confidence": "high"
 }

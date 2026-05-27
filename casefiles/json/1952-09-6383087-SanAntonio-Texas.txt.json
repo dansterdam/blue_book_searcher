@@ -1,9 +1,23 @@
 {
-    "main event": "Multiple individuals reported an unidentified aerial object sighting in San Antonio, Texas on September 7, 1952, which appeared to be saucer-shaped and displayed unusual maneuvers.",
-    "interesting points": "The object was observed by several individuals, including law enforcement officers., The object was described as silvery and approximately 40 feet in diameter., It made a rapid ascent and disappeared from view after about 10 minutes., Witnesses described a dark orange explosion-like flash in the sky., An observer reported seeing an elongated object gliding across the sky at tremendous speed.",
-    "sighted object": "unidentified aerial object, possibly saucer-shaped",
-    "location": "San Antonio, Texas, USA",
-    "number of confirmed witnesses": 2,
-    "witness description": "The observers included a chemist and law enforcement officers.",
-    "contains photographs": false
+  "main_event": "Two civilian witnesses in San Antonio, Texas observed a single orange bean-shaped object at approximately 2230 CST on 7 September 1952; one witness (a chemist) observed from the NW sky at ~3 miles / 9000' altitude and it remained motionless for 15-20 seconds before disappearing; a second witness from a different location observed an explosive-like orange flash in the East sky for ~3 seconds at estimated 15 miles / 20,000' altitude.",
+  "sighted_object": "bean shaped; orange/cherry-orange color; size ranged from pea to small dirigible depending on observer; motionless; no sound; no smoke; no pulsation; disappeared like a light going out; estimated flare-equivalent temperature of ~2000°F (chemist witness)",
+  "location": "San Antonio, Texas",
+  "date": "7 Sep 52",
+  "length_of_observation": "approximately 15-20 seconds (chemist witness); approximately 3 seconds (second witness); teletype reports 25 seconds and 5 seconds for two observers",
+  "number_of_objects": 1,
+  "course": "Stationary / motionless",
+  "witnesses": 4,
+  "witness_description": "Primary: Dr. [REDACTED], chemist, and wife (NW sky; 15-20 seconds; chemist applied spectral/temperature analysis); Secondary: [REDACTED] and wife (E sky; ~3 seconds; thought object might be exploding aircraft); report filed by Major Robert W. Fox, Asst Air Provost Marshal, Kelly AFB",
+  "contains_photographs": false,
+  "conclusion": "Unknown",
+  "interesting_points": [
+    "Chemist witness applied technical analysis: estimated object color equivalent to flare temperature of ~2000°F; speculated about ionization of air as possible explanation",
+    "Two observer groups with significantly different data: NW sky at 9000' (3 miles) vs E sky at 20,000' (15 miles) — either same object seen from very different angles or two separate events",
+    "Duration discrepancy: chemist says 15-20 seconds; second witness says ~3 seconds; teletype reports 25 seconds and 5 seconds (possibly two separate observers' durations cited)",
+    "Second witness compared to exploding aircraft — noted on record card; also said appeared 'explosive-like'",
+    "Record card source field reads 'Chemist, et al.' — unusual sourcing notation acknowledging professional expertise",
+    "Weather was rain with scattered clouds at time of sighting — makes astronomical and reflective explanations less likely",
+    "Conclusion left as Unknown — no satisfactory explanation found despite detailed chemist testimony"
+  ],
+  "extraction_confidence": "high"
 }

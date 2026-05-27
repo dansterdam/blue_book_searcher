@@ -1,9 +1,23 @@
 {
-    "main event": "An observer sighted a star-like object in the eastern sky that almost instantly disappeared on 30 November 1967.",
-    "interesting points": "The object was first seen in the east and then moved across the sky., The observer thought the object was Saturn due to its brightness., The object was described as bluish-white in color and moved rapidly in an erratic manner., It remained in view for about 10-15 seconds before disappearing., Others reported seeing a similar object in the eastern sky around the same time.",
-    "sighted object": "a star-like object",
-    "location": "Syracuse, New York, USA",
-    "number of confirmed witnesses": 2,
-    "witness description": "The observers were stargazing when they noticed the object.",
-    "contains photographs": false
+  "main_event": "Civilian in Syracuse observed star-like object alternating red and green on 30 November 1967, concluded probably Betelgeuse.",
+  "sighted_object": "str like object that alternated between red and green",
+  "location": "Syracuse, New York",
+  "date": "30 Nov 67",
+  "length_of_observation": "unknown",
+  "number_of_objects": 1,
+  "course": "Stationary",
+  "witnesses": null,
+  "witness_description": "civilian and wife observing stars through telescope at 809 Wolf Street Syracuse",
+  "contains_photographs": false,
+  "conclusion": "Probable: Astro: Possible Betelgeuse",
+  "interesting_points": [
+    "Object in the east at elevation of about 45 deg, alternating between red and green",
+    "Observer and wife were observing stars through a telescope",
+    "Observer later told investigator he believes he and his wife were observing planet Saturn",
+    "Saturn was roughly in SW at elevation 40 degs at time of sighting",
+    "Betelgeuse was at azimuth 110 degs and elevation 41 degs",
+    "No unusual radar incidents reported at Direction Center",
+    "First of three reports on this one object"
+  ],
+  "extraction_confidence": "high"
 }

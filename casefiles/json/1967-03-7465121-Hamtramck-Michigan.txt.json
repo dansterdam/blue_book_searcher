@@ -1,9 +1,23 @@
 {
-    "main event": "A UFO was sighted over Hamtramck, Michigan, on March 20, 1967, by two witnesses who observed a brightly lighted object hovering above the trees.",
-    "interesting points": "The object appeared to be perfectly round and emitted a bright light., The witnesses believed it was too large to be a helicopter and moved at a controlled speed., The sighting lasted approximately 40 seconds., The object disappeared silently without any noise., The investigation concluded it was likely an astronomical object (meteor).",
-    "sighted object": "brightly lighted object",
-    "location": "Hamtramck, Michigan, USA",
-    "number of confirmed witnesses": 2,
-    "witness description": "A couple watching TV who rushed to the window to observe the object.",
-    "contains photographs": false
+  "main_event": "12-year-old in Hamtramck observed two bullet-shaped white objects with vapor trails traveling west to east for 4 seconds on 20 March 1967.",
+  "sighted_object": "bullet shaped, white about like a star, except for the vapor trail; two objects each about 7 wooden match sticks wide",
+  "location": "Hamtramck, Michigan",
+  "date": "20 Mar 67",
+  "length_of_observation": "4 Seconds",
+  "number_of_objects": 2,
+  "course": "W - E",
+  "witnesses": 2,
+  "witness_description": "civilian male age 12, outdoors in residential section, father also present but did not see object",
+  "contains_photographs": false,
+  "conclusion": "Astro (METEOR)",
+  "interesting_points": [
+    "Two bullet-shaped objects with vapor trails traveling from West to East",
+    "Objects white, about like a star in color, fuzzy or blurred edges",
+    "Going at a terrific speed; visible only about 4 seconds",
+    "Objects separated by about 3 inches (angular) when seen",
+    "Flashed or flickered",
+    "Compared to a marble streaking across the sky with vapor trail that disappears almost immediately",
+    "Observer is 12 years old and wrote initial inquiry letter requesting Blue Book forms"
+  ],
+  "extraction_confidence": "high"
 }

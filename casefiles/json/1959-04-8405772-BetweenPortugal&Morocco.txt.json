@@ -1,9 +1,21 @@
 {
-    "main event": "A large bright flying object was observed traveling from 220 degrees to 330 degrees with a fiery ball appearance.",
-    "interesting points": "The object exhibited a curved track while traveling south to north.,The observation lasted for about three minutes.,Officers of the U.S.S. Boston reported seeing the object along with 28 witnesses.,The object created vapor clouds during its flight.,The report emphasized that this was not a satellite.",
-    "sighted object": "large bright flying object",
-    "location": "Colorado Springs, Colorado, USA",
-    "number of confirmed witnesses": 29,
-    "witness description": "officers from the U.S.S. Boston and others at the location",
-    "contains photographs": false
+  "main_event": "Firey ball traveling south to north on curved track, very large, observed for about four seconds at approximately 25 degrees altitude from position 35.5N 8.01.5W (between Portugal and Morocco) on 22 April 1959.",
+  "sighted_object": "firey ball; very large; curved track; south to north; altitude about 25 degrees; bearing from 250 to 290 degrees",
+  "location": "Between Portugal & Morocco (35.5N 8.01.5W)",
+  "date": "22 Apr 59",
+  "length_of_observation": "4 secs",
+  "number_of_objects": 1,
+  "course": "North",
+  "witnesses": null,
+  "witness_description": "Crew of SS Ocean Star/King of Trition SS, 25 Broadway NYC; ships course 270 degrees, speed 11.12 knots",
+  "contains_photographs": false,
+  "conclusion": "Was Astronomical Meteor",
+  "interesting_points": [
+    "Report logged 22 April 1959 but only later reported; received by WCC at 1159 GMT, relayed 27 April",
+    "Ship initially considered whether object might be Discoverer II satellite (1959A); routing slip from Lt Hamilton confirms Discoverer II was still in orbit after 22 April, ruling it out",
+    "Routing slip to Maj. Friend (4E4): 'The subject of this report is not a satellite'",
+    "Position: LAT 35.5N LONG 8.01.5W; ships course 270 degrees, speed 11.12 knots",
+    "Record card comments: 'description is typical of a meteor'"
+  ],
+  "extraction_confidence": "high"
 }

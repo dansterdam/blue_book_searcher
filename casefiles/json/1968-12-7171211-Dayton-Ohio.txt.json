@@ -1,9 +1,23 @@
 {
-    "main event": "An observer in Dayton, Ohio saw one unidentified phenomenon with blinking red and white lights on 7 December 1968.",
-    "interesting points": "The lights seemed to switch colors every 2 seconds., The sighting lasted for approximately 25 seconds., The observer reported the lights appearing solid and glowing with a pulsating light., The phenomenon was witnessed while the observer was outdoors heading towards a friend's house., The conclusion of the report suggests the observed phenomenon was probably an aircraft.",
-    "sighted object": "one unidentified phenomenon with blinking lights",
-    "location": "Dayton, Ohio, USA",
-    "number of confirmed witnesses": 1,
-    "witness description": "A civilian who was outdoors and has a noted experience with flying lessons.",
-    "contains photographs": false
+  "main_event": "16-year-old in Dayton observed saucer-shaped object with alternating red and green blinking lights for 25 seconds on 6 December 1968.",
+  "sighted_object": "saucer shaped, solid, glowed (pulsating light); 2 lights Green & Red one at each end, switched colors every 2 seconds",
+  "location": "Dayton, Ohio",
+  "date": "6 Dec 68",
+  "length_of_observation": "25 seconds",
+  "number_of_objects": 1,
+  "course": "S to SE",
+  "witnesses": null,
+  "witness_description": "civilian male age 16, outdoors walking through friend's house at Lanthrop & Sted Ave, taking flying lessons",
+  "contains_photographs": false,
+  "conclusion": "Probable (AIRCRAFT)",
+  "interesting_points": [
+    "Object described as saucer shaped, solid, glowing with pulsating light",
+    "Two lights Green & Red one at each end; lights switched respective colors every 2 seconds",
+    "Larger than matchhead at arm's length",
+    "Disappeared by going up and shot away",
+    "Observer estimated speed 1 m per sec, distance 1 mile",
+    "Observer had seen similar phenomenon before: March 67, Wayne Ave, east side, 3 objects landing",
+    "Common object comparison: Saucer"
+  ],
+  "extraction_confidence": "high"
 }

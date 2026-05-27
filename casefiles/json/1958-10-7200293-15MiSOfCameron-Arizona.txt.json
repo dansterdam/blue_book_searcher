@@ -1,9 +1,22 @@
 {
-    "main event": "On October 3, 1958, the crew of a freight train reported seeing four strange lighted objects while approaching Monon, Indiana.",
-    "interesting points": "The crew initially thought the objects were airplanes but quickly realized they were not,The objects hovered and darted away at high speeds, occasionally returning,The engineers and crew observed the lights for about 20 minutes,The Air Force suggested that the lights were likely reflections from the locomotive's headlight,There was media coverage of the incident, with the crew appearing in a television interview.",
-    "sighted object": "four strange lighted objects in the sky",
-    "location": "Monon, Indiana, USA",
-    "number of confirmed witnesses": 5,
-    "witness description": "crew members from Union Number 80 train, including the engineer, fireman, and head brakeman",
-    "contains photographs": false
+  "main_event": "B-47 crew member observed elongated cylinder-shaped object with red core, white body and blue edges in shallow SW descent for approximately 3 seconds at 30,000 ft over Little Colorado River 15 miles south of Cameron, Arizona.",
+  "sighted_object": "elongated cylinder; length approximately equal to size of baseball held at arms length; width approximately equal to size of half dollar held at arms length; core was red followed by white with blue edges; observer's attention drawn by a flash",
+  "location": "15 Mi S of Cameron, Arizona",
+  "date": "13 October 1958",
+  "length_of_observation": "3 seconds",
+  "number_of_objects": 1,
+  "course": "SW",
+  "witnesses": 1,
+  "witness_description": "Captain, USAF, 340 Bomb Squadron, instructor pilot; reliability estimate Baker Two; aircraft tail number 53-1-854, magnetic heading 352 degrees, TAS 425 knots at 30,000 ft",
+  "contains_photographs": false,
+  "conclusion": "Was Astronomical Meteor",
+  "interesting_points": [
+    "Observer's attention drawn by a flash; could not determine if flash preceded object or was emitted by object",
+    "Object in shallow descent to SW, moving fast; lost sight as it passed below and behind aircraft",
+    "Position: 3541N 11119W (Little Colorado River, 15 mi S of Cameron AZ) at 30,000 ft, 14/0220Z",
+    "Intelligence officer noted observer's remarks concerning size indicated conscious definition of size at time of observation was suspect",
+    "No physical evidence or photograph",
+    "PDF is a bundle: record card (p1) + unrelated Indiana Monon train FATE article and correspondence (p2-10) + Cameron teletype (p11-13) + unrelated Oregon/Salem/Pittsburgh/Indiana material (p14-18)"
+  ],
+  "extraction_confidence": "high"
 }

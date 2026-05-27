@@ -1,9 +1,24 @@
 {
-    "main event": "On May 11, 1952, a bright blue object with a tail exploded over Seattle, causing a loud explosion and being witnessed by numerous individuals.",
-    "interesting points": "The object was initially described as a vivid blue sphere that made a steep dive before exploding., Two local astronomers identified it as a meteor but searches for fragments were conducted., Witnesses reported a shock wave lasting approximately nine seconds after the explosion., The flash of light was seen and heard over a wide area, estimated to have been felt up to 50 miles away., The Air Force stated the object was not detected by radar, suggesting it may have been a meteor occurring at a lower altitude.",
-    "sighted object": "vivid blue sphere",
-    "location": "Seattle, Washington, USA",
-    "number of confirmed witnesses": 1000,
-    "witness description": "Many individuals across multiple city areas.", 
-    "contains photographs": false
+  "main_event": "Vivid blue sphere with tail flew south to north over Seattle and exploded in brilliant flash at approximately 7,000 feet at 0124 PST on 11 May 1952.",
+  "sighted_object": "vivid blue sphere with tail; steep dive; flaming sparks or streamers; red body with trailing streaks; burst into flaming fragments at about 8,000 feet; chain lightning appearance on disintegration",
+  "location": "Seattle, Washington",
+  "date": "11 May 52",
+  "length_of_observation": "approximately 4 seconds",
+  "number_of_objects": 1,
+  "course": "S to N",
+  "witnesses": null,
+  "witness_description": "Northwest Airlines pilot Capt. B.C. Carlson and Co-Pilot Earl Perry; Seattle Police; Washington State Patrol; Sea-point Naval Tower personnel; weather observer Sidney Howick at Seattle-Tacoma airport; Airway Operations Specialist Robert Wiley (control tower); Don E. Lyman, Seattle engineer; University of Washington professor; many ground observers",
+  "contains_photographs": false,
+  "conclusion": "Was Astronomical METEOR",
+  "interesting_points": [
+    "Object traveled approximately 1600 to 3000 ft altitude, vivid blue, flaming sparks or streamers, came from south to north nearly straight down",
+    "Approximate position of explosion 47°21'N and 122°10'W",
+    "Not picked up on radar; Col. Bennett: angle rather than speed probably caused no radar return",
+    "Capt. Carlson at 7000 ft: object exploded slightly below A/C level with lingering flash; shattered into 8 pieces looking like chain lightning",
+    "Don E. Lyman: flash at 1:24 a.m., 9 seconds duration, mercury or magnesium blue color; tremor started 2½ minutes after flash, explosion estimated 30-31 miles away",
+    "Robert Wiley, airport control tower: land tremor (explosion) followed about 2 minutes afterward",
+    "Two University of Washington astronomers contacted: stated object was a meteor; search for fragments initiated",
+    "Explosion time from Controller's log: 0035 PST; concussion felt as far as North Tacoma"
+  ],
+  "extraction_confidence": "high"
 }

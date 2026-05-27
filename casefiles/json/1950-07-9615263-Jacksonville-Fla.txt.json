@@ -1,9 +1,22 @@
 {
-    "main event": "Multiple sightings of unidentified flying objects were reported in Jacksonville, Florida, in July 1950.",
-    "interesting points": "A large group of courthouse employees and passersby observed a round, aluminum-colored object moving swiftly across the sky for several minutes before it disappeared., Witnesses described the object as emitting no fiery trail and making no sound, although a few reported a faint whirring noise., One observer claimed to have seen three glowing objects moving at high speed, stopping suddenly and wavering in the air., Estimates of the object's size ranged from 25 to 50 feet in diameter., Local news articles reported on the strange sightings and speculated about the nature of the objects, but military services denied having any knowledge of them.",
-    "sighted object": "unidentified flying objects resembling flying saucers",
-    "location": "Jacksonville, Florida, USA",
-    "number of confirmed witnesses": 100,
-    "witness description": "courthouse employees and passersby in the area",
-    "contains photographs": false
+  "main_event": "Jacksonville, Florida civilian Toni Veverka reported seeing three unidentified objects at 15-minute intervals at 5 AM on July 11, 1950; a July 14 newspaper account reports approximately 100 courthouse observers watching a balloon-like shiny object; file consists entirely of newspaper clippings transmitted by HQ Third Army G-2.",
+  "sighted_object": "three objects at 15-minute intervals (Veverka, July 11); balloon-like shiny object (courthouse crowd, July 14)",
+  "location": "Jacksonville, Florida",
+  "date": "11 Jul 50",
+  "length_of_observation": null,
+  "number_of_objects": 3,
+  "course": null,
+  "witnesses": 100,
+  "witness_description": "Primary witness: Toni Veverka, Jacksonville resident (July 11 sighting, 3 objects at 15-min intervals at 5 AM); secondary event: approximately 100 persons at courthouse (July 14, balloon-like shiny object)",
+  "contains_photographs": false,
+  "conclusion": null,
+  "interesting_points": [
+    "File contains no ATIC Form 329 record card — consists entirely of 3 newspaper clippings and 1 HQ Third Army G-2 transmittal letter",
+    "First newspaper clipping (Florida Times-Union July 11) is missing from file — page 1 absent",
+    "Three separate newspaper accounts: FL Times-Union Jul 11 (Veverka sighting), Miami Herald Jul 13, FL Times-Union Jul 14 (courthouse crowd)",
+    "July 14 clipping describes ~100 courthouse observers — likely separate event from Veverka's July 11 sighting",
+    "No ATIC investigation, no formal conclusion; purely newspaper-clip intelligence report",
+    "CSV witness count flag: '100 courthouse observers' appears in Jul 14 clipping but is a different event from the primary Veverka sighting"
+  ],
+  "extraction_confidence": "low"
 }

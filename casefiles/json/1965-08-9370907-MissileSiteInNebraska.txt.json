@@ -1,9 +1,24 @@
 {
-    "main event": "Two unidentified flying objects were observed at a missile site in Nebraska on 26 August 1965.",
-    "interesting points": "The objects were described as bright spheres,The first sighting occurred at approximately 1430 hours with the objects moving at a high rate of speed,One consisted of two objects about one mile apart,The objects changed direction in a zigzag manner,The sighting lasted for approximately 2 minutes and 7 seconds.",
-    "sighted object": "two bright spheres",
-    "location": "Nebraska, United States",
-    "number of confirmed witnesses": 11,
-    "witness description": "Nine military personnel and two civilians from the 551st USAF Medical Group.",
-    "contains photographs": false
+  "main_event": "Ten groups of unidentified lights in straight east-west flight observed over Nebraska missile sites on 26 August 1965 by military and civilian witnesses.",
+  "sighted_object": "Objects size of North Star, pale yellow to white; luminous glow, semi-circular in shape with trailing white glow; six red, green, and white lights; oblong saucer-sized object with flashing light",
+  "location": "Missile Site in Nebraska",
+  "date": "26 August 65",
+  "length_of_observation": "Average 2 Minutes Each",
+  "number_of_objects": null,
+  "course": "East to West & West to East",
+  "witnesses": null,
+  "witness_description": "Nine military personnel at Hotel launch facility with binoculars; three airmen of Geodetic Survey Team with theodolite; Staff Sergeant and two neighbors; group of eight young civilians with 50/100 telescope; civilian guard at Sioux Army Depot; Air Force personnel at Golf Launch Control",
+  "contains_photographs": false,
+  "conclusion": "A/C",
+  "interesting_points": [
+    "Objects reappeared at four 15-minute intervals on the same course at 20,000 feet, very fast",
+    "On four occasions there was a roaring jet-like noise at some distance behind",
+    "Theodolite observation: single object became three white objects grouped; on successive observations became six red, green, and white lights",
+    "Object at Golf launch site identified as Jupiter by theodolite observation of three moons of that planet",
+    "Staff Sergeant's oblong saucer-sized object excluded as weather balloon: balloons launched at 10AM and 10PM",
+    "Object also observed on 31 August and 3 September",
+    "Report compiled by Major Elva D. Brown, Intelligence Staff Officer, 19 years of military experience",
+    "Sightings occurred at about 4-minute intervals"
+  ],
+  "extraction_confidence": "medium"
 }

@@ -1,9 +1,21 @@
 {
-    "main event": "Multiple individuals observed a glowing object hovering over Chatham, Ontario for several weeks in November 1965.",
-    "interesting points": "The object was observed nightly between 1900 and 2200 hours.,Witnesses described the object as bright with a touch of red and approximately 40 feet in diameter.,The object appeared to glow and was seen moving up and down before disappearing.,Lt Logman from Selfridge Air Force Base inquired about flares in the area.,Sgt Moody stated that they could not respond to Canadian reports.",
-    "sighted object": "a glowing object hovering in the horizon",
-    "location": "Chatham, Ontario, Canada",
-    "number of confirmed witnesses": 10,
-    "witness description": "individuals from an industrial plant",
-    "contains photographs": false
+  "main_event": "Bright light with touch of red observed nightly between 1900-2000 hours over Lake Erie, 70 miles east of Windsor, Ontario, for two weeks prior to 15 November 1965; RCAF investigated and concluded a plane had crashed in the area.",
+  "sighted_object": "bright light with a touch of red; seemed to glow up, dim out, move slightly horizontally and downward, then disappear",
+  "location": "Lake Erie, Ontario, Canada (70 mi E of Windsor, 15 mi W of Cedar Springs, Ont.)",
+  "date": "November 1965 (approximately two weeks prior to 15 Nov 1965)",
+  "length_of_observation": null,
+  "number_of_objects": 1,
+  "course": null,
+  "witnesses": null,
+  "witness_description": "Numerous individuals from area along Lake Erie; reported by Lt Logemann from Selfridge AFB after inquiry from Chatham (Ont.) Daily News reporter",
+  "contains_photographs": false,
+  "conclusion": null,
+  "interesting_points": [
+    "No ATIC Form 329 record card — file stamped 'No Case Info Only'",
+    "RCAF investigated initial sightings and concluded a plane had crashed in the area",
+    "Lt Logman from Selfridge AFB called 15 Nov 1965 to ask if flares had been dropped; Sgt Moody said nothing could be done about Canadian reports",
+    "Observed nightly between 1900 and 2000 hours; each evening the object was seen was extremely clear",
+    "No formal ATIC conclusion; case filed as informational only"
+  ],
+  "extraction_confidence": "high"
 }

@@ -1,9 +1,22 @@
 {
-    "main event": "Multiple observations of unidentified flying objects by U.S. Air Force personnel over Korea in April 1953.",
-    "interesting points": "The first observation was by a pilot who reported a silver elongated object traveling at a speed of 600-800 knots at 30,000 feet, The object was in sight for approximately 15 seconds, A flat oval object was observed for about 3 hours flying in a straight line before hovering and flying away, Weather conditions during one observation were clear with no moon, The conclusion of one report deemed the object an astronomical phenomenon (star or meteor).",
-    "sighted object": "unidentified flying objects",
-    "location": "Korea",
-    "number of confirmed witnesses": 4,
-    "witness description": "U.S. Air Force officers and pilots",
-    "contains photographs": false
+  "main_event": "Crew of B-25 on night armed reconnaissance over northwest Korea at 0225Z on 3 April 1953 observed bluish-green object (turning red, then disappearing) approximately 200 feet from aircraft on parallel level flight path; four crew members observed for 3-10 seconds each.",
+  "sighted_object": "bluish-green turning to red; approximately 200 feet from aircraft; level parallel flight with aircraft; rapid descent; approximately 5 feet wide; resembled a meteor; sparks observed; changed color: bluish-green to red (Dillon), white (Perry), bluish to green to red (Vermillion), green to red to white (Caruthers)",
+  "location": "NW Korea (UTM coordinates TQ-3050)",
+  "date": "3 April 53",
+  "length_of_observation": "5 Seconds",
+  "number_of_objects": 1,
+  "course": "Descending",
+  "witnesses": 4,
+  "witness_description": "Lt. Colonel John D. Dillon (B-25 pilot, heading 355 degrees, 200 mph, 5,000 ft altitude, on top of solid overcast); 1/Lt Syris D. Perry; 1/Lt Frederick J. Vermillion (navigator); A/2C William H. Caruthers (engineer); all of 3d Bomb Group Mission #3-26909",
+  "contains_photographs": false,
+  "conclusion": "Was Astronomical Meteor",
+  "interesting_points": [
+    "Four crew members observed object with different durations: Dillon ~10 sec, Perry ~5 sec, Vermillion ~10 sec, Caruthers ~3 sec; record card records '5 Seconds'",
+    "Object appeared approximately 200 feet from aircraft on level, parallel flight with same heading; may have been much farther given difficulty of night distance estimation",
+    "Color change sequence differed between observers (bluish-green to red; white; bluish-green-red; green-red-white); attributed to composition, atmospheric refraction, and cockpit/navigation light effects",
+    "Moon entering third quarter at time of sighting — may have enhanced visibility",
+    "Report evaluation: B-1 (possibly more reliable than most); approving officer doubted object was projectile from aircraft or ground weapon",
+    "CSV flag C:dur_meta=15.0s_vs_form=300.0s was haiku error; form clearly states '5 Seconds'"
+  ],
+  "extraction_confidence": "high"
 }

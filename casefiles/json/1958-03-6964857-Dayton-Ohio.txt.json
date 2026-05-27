@@ -1,9 +1,21 @@
 {
-    "main event": "Three lights of varying brightness were observed in the sky over Dayton, Ohio on 2-17-58.",
-    "interesting points": "The lights were visible for approximately 5 minutes,The objects made no sound during the sighting,Investigators interviewed multiple witnesses whose statements were consistent,An interception attempt was made but there was no radar contact,The objects appeared to descend steeper and faster than they ascended.",
-    "sighted object": "three lights in the sky",
-    "location": "Dayton, Ohio, USA",
-    "number of confirmed witnesses": 3,
-    "witness description": "interviewed observers at the Dayton, Ohio International Airport",
-    "contains photographs": false
+  "main_event": "Three youths on way to school observed small spherical object moving slowly away over Dayton, Ohio for 10 minutes on 21 March 1958.",
+  "sighted_object": "small spherical object; slowly moving away",
+  "location": "Dayton, Ohio",
+  "date": "21 Mar 58",
+  "length_of_observation": "10 mins",
+  "number_of_objects": 1,
+  "course": "slowly away",
+  "witnesses": 3,
+  "witness_description": "Three youths on way to school; civilian observers",
+  "contains_photographs": false,
+  "conclusion": "Probably Balloon",
+  "interesting_points": [
+    "Weather balloon released from Sulphur Grove at 0640, winds 25 MPH from N-NW, consistent with path over Dayton",
+    "No radar targets found 0730-0830 by 58th ACW Radar Division (Capt. H.R. Shepherd); no UFOs on radar",
+    "No other reports from any other person in Dayton",
+    "ATIC evaluation: object without doubt was a balloon, probably from WX unit northwest of Dayton",
+    "Balloon from Sulphur Grove believed to have initiated the sighting; rpt turned in at 0820"
+  ],
+  "extraction_confidence": "high"
 }

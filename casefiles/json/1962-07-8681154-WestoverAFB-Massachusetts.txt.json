@@ -1,9 +1,21 @@
 {
-    "main event": "A white object resembling a star was observed rising at 130 degrees for 40 seconds, flashing and bursting apart with large lights.",
-    "interesting points": "The sighting attracted 17,000 spectators, The object was visible on a clear night with bright stars, Observations suggested it might be the last stage of a satellite booster, The object distorted like an illuminating object and was considered not to be a meteorite, The event lasted for about 40 seconds.",
-    "sighted object": "one white object like a star",
-    "location": "Westover AFB, Massachusetts, USA",
-    "number of confirmed witnesses": 17000,
-    "witness description": "spectators at Westover AFB during the sighting",
-    "contains photographs": false
+  "main_event": "MSGT James G. Peters observed white star-sized object flashing four times as it traversed 100 degrees of arc (170 to 350 degree azimuth, passing zenith) in four seconds from Westover AFB, Massachusetts at 0133Z on 13 July 1962.",
+  "sighted_object": "white, star-sized; four evenly spaced flashes as it moved; not visible between flashes; straight path; disappeared in haze; not visible at rest",
+  "location": "Westover AFB, Massachusetts",
+  "date": "12 July 1962",
+  "length_of_observation": "4 seconds",
+  "number_of_objects": 1,
+  "course": "350 dgr (170 dgr azimuth to 350 dgr azimuth, passing zenith)",
+  "witnesses": 1,
+  "witness_description": "MSGT James G. Peters, MAC 99 Bomb Wing WAFB, stable and calm reliable observer, 17 years active duty; investigator TSGT M. Lieberman, NCOIC, Combat Intelligence Branch, Int. Div. 99 Bomb Wing",
+  "contains_photographs": false,
+  "conclusion": "Was Astronomical Meteor",
+  "interesting_points": [
+    "Observer believed sighting consistent with satellite booster in near polar orbit; not Echo 1; said he had seen one previously connected with a known satellite",
+    "Investigator (TSGT Lieberman) inclined to agree with satellite booster estimate for lack of evidence to contrary",
+    "ATIC conclusion: meteor — arc of 100 degrees in 4 seconds puts speed of object in meteor class",
+    "Weather: hazy with broken clouds, visibility 6 miles, smoke and haze; object appeared only during breaks in clouds",
+    "CSV flag A:witnesses=17000 was haiku hallucination; only 1 witness (MSGT Peters)"
+  ],
+  "extraction_confidence": "high"
 }

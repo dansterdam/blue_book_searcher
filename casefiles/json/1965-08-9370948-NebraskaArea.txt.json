@@ -1,9 +1,21 @@
 {
-    "main event": "Three unidentified flying objects were observed in the Nebraska area on 26 August 1965.",
-    "interesting points": "Objects were seen with a theodolite, appearing to be twice the size of a pinhead and moving at a high rate of speed., Witnesses reported the objects became unevenly illuminated, flashing on and off., The objects were described as rotating and glowing, with one changing shape from circular to diamond., A group of nine witnesses observed the objects zig-zagging at a rapid rate of about 50 degrees per second., The sighting lasted approximately 15 minutes, with one object projecting a beam of light.",
-    "sighted object": "three unidentified flying objects",
-    "location": "Nebraska Area, Nebraska, USA",
-    "number of confirmed witnesses": 9,
-    "witness description": "Civilian witnesses including a Sergeant and two civilians who were employees of a local telephone company.",
-    "contains photographs": false
+  "main_event": "Single object appearing as three white objects through theodolite observed moving east over Nebraska missile site area, disappearing to east, no sound.",
+  "sighted_object": "Object twice the size of a pinhead; when seen through theodolite became three white objects grouped together; on successive passes became six red, green, and white lights",
+  "location": "Nebraska Area",
+  "date": "26 August 65",
+  "length_of_observation": "2 Minutes",
+  "number_of_objects": 1,
+  "course": "East",
+  "witnesses": 3,
+  "witness_description": "Three airmen of a Geodetic Survey Team observing with theodolite (equivalent to a 40 power telescope)",
+  "contains_photographs": false,
+  "conclusion": "A/C",
+  "interesting_points": [
+    "Object appeared in middle of Big Dipper and moved on course as indicated",
+    "Through theodolite: single object became three white objects grouped together",
+    "On successive observations two rear whites disappeared; object became six red, green, and white lights",
+    "Objects disappeared in the East; no sound",
+    "Same night as multiple other sightings from Nebraska/Wyoming missile sites; all attributed to aircraft"
+  ],
+  "extraction_confidence": "high"
 }

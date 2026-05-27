@@ -57,7 +57,8 @@ for txt_file in sorted(TXT_DIR.glob("*.txt")):
         missing_json += 1
 
     # Parse number of witnesses - normalize to int
-    raw_witnesses = metadata.get("number of confirmed witnesses", "")
+    # Support both old schema ("number of confirmed witnesses") and new schema ("witnesses")
+    raw_witnesses = metadata.get("number of confirmed witnesses") or metadata.get("witnesses", "")
     witnesses_num = None
     if isinstance(raw_witnesses, int):
         witnesses_num = raw_witnesses
@@ -81,7 +82,7 @@ for txt_file in sorted(TXT_DIR.glob("*.txt")):
         conclusion = conclusion_match.group(1).strip()[:200]
 
     # Determine if contains photos
-    contains_photos = metadata.get("contains photographs", False)
+    contains_photos = metadata.get("contains photographs") or metadata.get("contains_photographs", False)
 
     slug = re.sub(r'[^a-z0-9-]', '-', fname.lower().replace('.txt',''))
     slug = re.sub(r'-+', '-', slug).strip('-')
@@ -93,6 +94,20 @@ for txt_file in sorted(TXT_DIR.glob("*.txt")):
     if state_match:
         state = state_match.group(1).strip()
 
+    # Support both old schema (space-separated keys) and new schema (underscore keys)
+    summary = (metadata.get("main event") or metadata.get("main_event") or
+               metadata.get("summary", ""))
+    interesting_points = (metadata.get("interesting points") or
+                          metadata.get("interesting_points", ""))
+    sighted_object = (metadata.get("sighted object") or
+                      metadata.get("sighted_object", ""))
+    witness_description = (metadata.get("witness description") or
+                           metadata.get("witness_description", ""))
+    # Use JSON conclusion if available (new schema), otherwise fall back to regex
+    json_conclusion = metadata.get("conclusion", "")
+    if json_conclusion and json_conclusion.strip():
+        conclusion = json_conclusion.strip()[:200]
+
     case = {
         "id": slug,
         "filename": fname,
@@ -102,11 +117,11 @@ for txt_file in sorted(TXT_DIR.glob("*.txt")):
         "month": month,
         "location": location_str,
         "state": state,
-        "summary": metadata.get("main event", ""),
-        "interesting_points": metadata.get("interesting points", ""),
-        "sighted_object": metadata.get("sighted object", ""),
+        "summary": summary,
+        "interesting_points": interesting_points,
+        "sighted_object": sighted_object,
         "witnesses": witnesses_num,
-        "witness_description": metadata.get("witness description", ""),
+        "witness_description": witness_description,
         "contains_photographs": contains_photos,
         "conclusion": conclusion,
         "text_content": text_content,

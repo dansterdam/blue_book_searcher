@@ -1,9 +1,23 @@
 {
-    "main event": "The sighting of an unidentified aerial object occurred about 6:15 P.M. on December 6, 1966, in Newman, Georgia. The object was round, about 12 to 15 feet in diameter, with a bright light on top, and hovered silently while changing colors.",
-    "interesting points": "The object was observed for about 30 minutes by two witnesses,Both witnesses were familiar with aircraft and described the object as unlike anything they knew,The object's hovering ability and color changes were particularly noted,The sighting lasted until the object climbed straight up and disappeared,The weather conditions were clear with good visibility.",
-    "sighted object": "round object with a bright light on top",
-    "location": "Newman, Georgia, USA",
-    "number of confirmed witnesses": 2,
-    "witness description": "two individuals who were familiar with aircraft",
-    "contains photographs": false
+  "main_event": "15-year-old amateur astronomer in Newman observed round object with red and green flashing lights and halo for 5 minutes on 27 February 1967.",
+  "sighted_object": "round shaped object with red and green lights flashing; halo flashed on and off irregularly, outlining metal skin of object",
+  "location": "Newman, Georgia",
+  "date": "27 Feb 67",
+  "length_of_observation": "5 minutes",
+  "number_of_objects": 1,
+  "course": "eastward",
+  "witnesses": 1,
+  "witness_description": "civilian male age 15, amateur astronomer, observed from inside building through window then went outdoors",
+  "contains_photographs": false,
+  "conclusion": "Aircraft (possible)",
+  "interesting_points": [
+    "Initially observed through window glass from inside, then went outside to verify not a reflection",
+    "Absence of sound",
+    "Red and green lights flashing on object with constantly shifting positions",
+    "Halo flashed on and off irregularly; when on, stayed for about 2 to 3 seconds outlining and showing metal skin distinctly",
+    "Observer is amateur astronomer and stated sighting bore no resemblance to aircraft, planetary movements, satellites, or meteors",
+    "Object about 1/3 covered by match head at arm's length",
+    "Initial letter delayed due to search for other witnesses"
+  ],
+  "extraction_confidence": "medium"
 }

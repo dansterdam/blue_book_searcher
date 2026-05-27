@@ -1,9 +1,24 @@
 {
-    "main event": "A report documenting an unidentified flying object observation dated 8 Mar 67.",
-    "interesting points": "The object was described as resembling a very bright star,The size was compared to a man's head,The object emitted bright white light with flashes of red and green,It was observed by twelve individuals,The sighting lasted approximately 10 minutes before the object disappeared to the north.",
-    "sighted object": "unidentified flying object resembling a very bright star",
-    "location": "Denver, Colorado, USA",
-    "number of confirmed witnesses": 12,
-    "witness description": "civilians who reported the sighting",
-    "contains photographs": false
+  "main_event": "Civilian in Denver observed bright star-like object with red and green flashes for 10 minutes on 8 March 1967.",
+  "sighted_object": "like a very bright star; bright white with little flashes of red and green; flashes of green around that appeared to be port holes",
+  "location": "DENVER, COLO",
+  "date": "8 Mar 67",
+  "length_of_observation": "10 minutes",
+  "number_of_objects": 1,
+  "course": null,
+  "witnesses": null,
+  "witness_description": "civilian housewife, near Lookout Mountain, Denver",
+  "contains_photographs": false,
+  "conclusion": "INSUFFICIENT DATA FOR EVALUATION",
+  "interesting_points": [
+    "Object observed at 0253Z 8 Mar 67",
+    "Shape like a very bright star, size of pin and pea",
+    "Flashes of green around that appeared to be port holes",
+    "Object dimmed to pin point size then disappeared",
+    "Flight path straight forward and then reverse; disappeared slowly to North",
+    "First called to witness attention by friend",
+    "Located N of the cross on the hill and West over the mountains (near Lookout Mtn)",
+    "FTD Form 164 forwarded to witness but not returned; AF concluded insufficient data"
+  ],
+  "extraction_confidence": "high"
 }

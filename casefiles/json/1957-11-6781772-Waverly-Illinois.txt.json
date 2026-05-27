@@ -1,9 +1,22 @@
 {
-    "main event": "A report of a large, stationary object observed in the sky near Waverly, Illinois on September 1, 1957.",
-    "interesting points": "The object was larger than an airplane and had a white and green color with fuzzy edges., The object produced no sound and left no trail., Observation lasted approximately 20 minutes., There were 15 other witnesses to the same object., Various possible explanations were noted, including balloon or aircraft.",
-    "sighted object": "a large white and green object in the sky",
-    "location": "Waverly, Illinois, USA",
-    "number of confirmed witnesses": 16,
-    "witness description": "A druggist and 15 other people",
-    "contains photographs": false
+  "main_event": "Civilian druggist in Waverly, Illinois observed object larger than an airplane, white and green with fuzzy edges, moving north, for 20 minutes on night of 8-9 November 1957; 15 other people reportedly saw same object; teletype report was garbled and could not be evaluated; second report describes large round reddish-green stationary object.",
+  "sighted_object": "larger than an airplane; white and green (first sighting) / large round very bright reddish green (second sighting); edges fuzzy or blurred; no tail or exhaust; no sound; appeared solid; observed through binoculars",
+  "location": "Waverly, Illinois",
+  "date": "8 November 1957",
+  "length_of_observation": "20 minutes",
+  "number_of_objects": 1,
+  "course": "North (first sighting) / stationary (second sighting)",
+  "witnesses": 16,
+  "witness_description": "Primary witness: Mr. [REDACTED], Waverly, Illinois, age unknown, druggist; 15 other people reportedly saw same object, information not given; second report: Mr. [REDACTED], Waverly, Ill., age unknown",
+  "contains_photographs": false,
+  "conclusion": "Other (Garbled MSc) / Insufficient Data for Evaluation",
+  "interesting_points": [
+    "File contains TWO record cards and TWO teletype reports representing potentially separate sightings",
+    "Card 1 (8 Nov 57, 09/0015Z): White and green object moving north, 20 minutes — record card conclusion: 'Other - garbled' because teletype was garbled and could not be evaluated",
+    "Card 2 (9 Nov 57): Large round reddish-green stationary object — conclusion: Insufficient Data for Evaluation; comments note reddish green stationary characteristics are characteristic of Venus but insufficient info",
+    "Second teletype (28th Air Div, 12/0224Z): Conditions 'IMP. DATA MISSING'; normal traffic in division area",
+    "ATIC handwritten comment: 'Venus now so bright papers have reported on its brilliance, but cannot conclude this was [Venus]'",
+    "CSV flag B:witnesses_16_not_in_text: haiku correctly derived 16 (15 others + primary) from '15 other people saw same object'; validator did not find literal '16' in text"
+  ],
+  "extraction_confidence": "medium"
 }

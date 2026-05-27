@@ -1,9 +1,23 @@
 {
-    "main event": "An unidentified flying object was sighted over the Hawaiian Islands on March 11, 1963.",
-    "interesting points": "The object was first thought to be a jet at high altitude but was later confirmed to be moving at a higher speed than any known aircraft,It left a vapor trail during its flight over the islands,Residents and tourists were engaged in the event, with numerous reports flooding local newspapers and radio stations,Two National Guard pilots reported visual contact with the object which appeared crescent-shaped and very bright.",
-    "sighted object": "crescent-shaped object",
-    "location": "Hawaiian Islands, Pacific Islands",
-    "number of confirmed witnesses": 1000,
-    "witness description": "Residents, tourists, and National Guard pilots",
-    "contains photographs": false
+  "main_event": "Crescent-shaped object glowing like a comet flew east to west over Hawaiian Islands at high altitude, leaving vapor trail, seen by ANG pilots and hundreds of civilians.",
+  "sighted_object": "Object glowing like a giant comet or spotlight; crescent moon-shaped; left vapor trail lighter than that from jet",
+  "location": "Pacific / Hawaiian Islands & area",
+  "date": "11 March 1963",
+  "length_of_observation": "5-6 minutes",
+  "number_of_objects": 1,
+  "course": "SW",
+  "witnesses": null,
+  "witness_description": "ANG pilots Capt. Jon Parish and Lt. George Joy flying at 40,000ft; FAA control-tower operators; WX observer; hundreds of Hawaiian civilians",
+  "contains_photographs": false,
+  "conclusion": "Other Atlas Missile",
+  "interesting_points": [
+    "Also observed from F-102 at 40,000ft",
+    "Trail lighter than that from jet",
+    "Missile launched from Vandenberg confirmed by contact with Range Officer in telephone conversation",
+    "Capt Parish: 'It was possibly a rocket or some sort of space object'",
+    "Lt George Joy: UFO left a visible vapor trail lighter than a jet's",
+    "FAA spokesman: 'It was no aircraft, and I know no one who knows what it was'",
+    "Some observers said it appeared to be on fire and appeared to fall into the sea"
+  ],
+  "extraction_confidence": "high"
 }

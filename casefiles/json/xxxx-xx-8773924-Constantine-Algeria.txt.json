@@ -1,9 +1,22 @@
 {
-    "main event": "On August 14, 1952, two persons in Constantine observed a luminous object flying at high speed toward Guelma.",
-    "interesting points": "The object emitted a very bright light and had no resemblance to a flying saucer., At 1920 hours on the same day, many people in Philippeville reported seeing an enormous red disk leaving a greenish trail., The sighting lasted for approximately 5 minutes., The local weather bureau did not launch any weather balloons at the time of the sighting., The record indicates this was part of the Project Blue Book investigation.",
-    "sighted object": "a luminous object",
-    "location": "Constantine, Algeria",
-    "number of confirmed witnesses": 2,
-    "witness description": "two persons",
-    "contains photographs": false
+  "main_event": "Two persons in Constantine saw luminous object at high speed on 14 August 1952; same day red disk seen at Philippeville.",
+  "sighted_object": "luminous obj flying at high speed; did not resemble a flying saucer; emitted a very bright light",
+  "location": "Constantine, Algeria",
+  "date": "14 August 1952",
+  "length_of_observation": "UNK",
+  "number_of_objects": 1,
+  "course": "UNK",
+  "witnesses": 2,
+  "witness_description": "civilian, two persons in the city of Constantine",
+  "contains_photographs": false,
+  "conclusion": "Possibly Astronomical (Meteor?)",
+  "interesting_points": [
+    "Luminous object flying at high speed toward Guelma at 2115 hours",
+    "Apparatus had no resemblance to a flying saucer and emitted a very bright light",
+    "Local weather bureau had not launched any weather balloons at the time",
+    "Same day at 1920 hours, many people at docks of Philippeville saw enormous red disk going north to west, leaving greenish trail",
+    "Case also includes clipping of saucer-like craft seen in Spain (Cuenca-Madrid road, 10 Aug 1952)",
+    "Case folder also contains North Pacific meteor observation from USS Norman Lykes, 12 Aug 1952"
+  ],
+  "extraction_confidence": "medium"
 }

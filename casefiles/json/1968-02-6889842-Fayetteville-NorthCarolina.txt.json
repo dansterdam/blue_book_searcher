@@ -1,9 +1,24 @@
 {
-    "main event": "A UFO sighting was reported on March 30, 1958, in Fayetteville, North Carolina.",
-    "interesting points": "The sighting lasted for approximately 1 minute and 30 seconds,There was a second witness who also observed the object,The object was reported to have a whitish and bright appearance with clear outlines,The observer estimated the object to be around 5 miles away and moving at about 125 MPH,Local officials attributed the sighting to aircraft or helicopter lights due to proximity to several airfields.",
-    "sighted object": "unidentified flying object",
-    "location": "Fayetteville, North Carolina, US",
-    "number of confirmed witnesses": 2,
-    "witness description": "One witness reported being 33 years old and male; specific details of the second witness were redacted.",
-    "contains photographs": false
+  "main_event": "Civilian in Fayetteville observed two bright white/red flickering lights for 35 minutes on 6 February 1968, concluded probable aircraft.",
+  "sighted_object": "bright white light changing to flickering red light; later joined by second red light",
+  "location": "Fayetteville, North Carolina",
+  "date": "6 Feb 68",
+  "length_of_observation": "35 Minutes",
+  "number_of_objects": 2,
+  "course": "See Case",
+  "witnesses": 2,
+  "witness_description": "civilian male age 33, outdoors in business section, plus one corroborating witness",
+  "contains_photographs": false,
+  "conclusion": "Probable (AIRCRAFT)",
+  "interesting_points": [
+    "First object: bright white light, changed to flickering red, stationary ~15 minutes, then bright again, then flickering red",
+    "Second red light appeared ~15 seconds later, both stationary ~1 minute, second moved NE and disappeared",
+    "First light then moved East, becoming bright white again, then appeared to travel at high rate of speed",
+    "Observer estimated speed 125 MPH and distance 2 miles at first sight",
+    "Object size: entire object covered by match head at arm's length",
+    "Proximity to Grannis Municipal Airfield, Simmons Army Airfield, and Pope AFB led to aircraft conclusion",
+    "Second witness corroborated sighting from parking area",
+    "Reported 6 Feb 1968 to Major Harwood USAF Pope AFB"
+  ],
+  "extraction_confidence": "high"
 }

@@ -1,9 +1,24 @@
 {
-    "main event": "A crew and passengers of a KLM aircraft reported seeing a silver disc-shaped object hovering over Mount Kilimanjaro in East Africa on February 19, 1951.",
-    "interesting points": "The sighting lasted for about 17 minutes., The object was described as circular, about 50 feet in diameter., Observers saw the object accelerate rapidly and disappear from view., The crew and passengers attempted to evaluate its composition by throwing objects at it., The sighting was corroborated by contacts made with the French Consulate.",
-    "sighted object": "silver disc-shaped object",
-    "location": "Nairobi, East Africa",
-    "number of confirmed witnesses": 11,
-    "witness description": "crew and passengers of the KLM aircraft",
-    "contains photographs": false
+  "main_event": "Bullet-shaped metallic object with fin observed stationary at 10,000 ft over Mt. Kilimanjaro for 17 minutes before climbing rapidly east, by crew and passengers of East African Airways Lodestar.",
+  "sighted_object": "bullet shaped with fin; dull silver colour; marked at regular intervals along fuselage with vertical dark bands; three definite stripes; over 200 ft. long; square-cut vertical fin at one end; absolutely stationary, then climbed rapidly eastward",
+  "location": "East Africa",
+  "date": "19 Feb 51",
+  "length_of_observation": "17 min",
+  "number_of_objects": 1,
+  "course": "E",
+  "witnesses": null,
+  "witness_description": "Crew and passengers of East African Airways Lodestar: 9 passengers and a crew of 2; Capt. J. Bicknell (pilot); radio officer Mr. D.W. Merrifield; master of the plane obtained signatures of all nine passengers confirming observation",
+  "contains_photographs": true,
+  "conclusion": "Insufficient Data for Evaluation",
+  "interesting_points": [
+    "Object stationary at approx 10,000 ft above Mt. Kilimanjaro for 17 minutes then climbed rapidly east reaching 40,000 ft before lost sight of",
+    "Capt. Bicknell calculated object covered 60 miles in 3 minutes of movement: speed nothing short of 1,000 m.p.h.",
+    "Left no vapour trail; had no visible means of propulsion",
+    "No windows or portholes, no engine mounts or jet pods, perfectly streamlined hull",
+    "Contact made with Nairobi re: French Constellation a/c from Eastleigh to Tannarive at approx 17,500 ft — could not be ruled in or out",
+    "Photos were taken but are not in file; motion picture film taken by passenger alleged to have disappeared",
+    "Master of plane obtained signatures of all nine passengers to document stating they had personally observed it",
+    "Page 9 contains unrelated entry: 19 Feb 1951 C-54 pilot green flare/rocket near Rodeo, N.M. at 9000 ft, concluded meteor (Project Twinkle report)"
+  ],
+  "extraction_confidence": "medium"
 }

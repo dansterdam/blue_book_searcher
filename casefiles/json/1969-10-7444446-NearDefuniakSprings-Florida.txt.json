@@ -1,9 +1,23 @@
 {
-    "main event": "A civilian observer reported two metallic circular objects flying at high altitude near DeFuniak Springs, Florida.",
-    "interesting points": "The objects were estimated to be 40 feet in diameter and were observed traveling at speeds greater than 1000 mph., One object made a sharp turn and descended rapidly toward the observer., The objects did not make any noise and had no visible exhaust trails., The sighting lasted for approximately 3-4 seconds., The observer used binoculars to observe the objects, indicating a clear line of sight.",
-    "sighted object": "two metallic circular objects",
-    "location": "DeFuniak Springs, Florida, USA",
-    "number of confirmed witnesses": 1,
-    "witness description": "civilian observer, former airline pilot",
-    "contains photographs": false
+  "main_event": "Family near Defuniak Springs saw round baseball-sized light travel NW to ENE for 3 or 4 seconds on 20 October 1969.",
+  "sighted_object": "round, baseball-sized, traveled from NW to ENE, beneath clouds",
+  "location": "Near Defuniak Springs, Florida",
+  "date": "20 Oct 69",
+  "length_of_observation": "3 or 4 seconds",
+  "number_of_objects": 1,
+  "course": "NW to ENE",
+  "witnesses": null,
+  "witness_description": "five civilians total, including television technician and family walking north on dirt road near city limits",
+  "contains_photographs": false,
+  "conclusion": "Other Probable Satellite Decay",
+  "interesting_points": [
+    "Observer and family walking north on dirt road when wife called attention to UFO",
+    "Flight path: out of north-west in circular curve, to north-east; half-second turned to east",
+    "Three satellite decays occurred at approximate time of sighting",
+    "Hurricane Laurie centered approx 370 mi SSW at time of UFO sighting",
+    "Overcast conditions, lightly drizzling, UFO seen beneath overcast",
+    "Observer reported UVI helicopter and UVI jet-propelled acft over home six minutes after sighting",
+    "Preliminary analysis: space hardware junk decaying orbit destroyed by incandescence, or meteorite"
+  ],
+  "extraction_confidence": "medium"
 }

@@ -1,9 +1,20 @@
 {
-    "main event": "A UFO report filed on July 14, 1952, regarding an unidentified object sighting at Holloman AFB.",
-    "interesting points": "The report is labeled as File 1448,The location of the sighting is Holloman AFB in New Mexico,The report mentions 2 photos, although no actual photographs are present,The date of the report is significant as it was during a heightened interest in UFO sightings,The report consists of a blank page aside from the header text.",
-    "sighted object": "unidentified object",
-    "location": "Holloman AFB, New Mexico, USA",
-    "number of confirmed witnesses": 0,
-    "witness description": "No witnesses are mentioned in the documentation.",
-    "contains photographs": false
+  "main_event": "File cover/index card only for a July 14, 1952 Holloman AFB, New Mexico sighting referencing two photographs; no case content present in file.",
+  "sighted_object": null,
+  "location": "Holloman AFB, New Mexico",
+  "date": "14 Jul 52",
+  "length_of_observation": null,
+  "number_of_objects": null,
+  "course": null,
+  "witnesses": null,
+  "witness_description": null,
+  "contains_photographs": true,
+  "conclusion": null,
+  "interesting_points": [
+    "File consists solely of a typed index/cover card: 'File 1448, July 14, 1952, Holloman AFB, New Mexico, 2 photos'",
+    "Referenced photographs are absent from file",
+    "No ATIC Form 329, no witness statements, no investigation narrative present",
+    "Cannot extract any case data — no substantive content in document"
+  ],
+  "extraction_confidence": "low"
 }
