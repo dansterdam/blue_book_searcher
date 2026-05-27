@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Random Case"
+  description="Opening a random UFO case file from the archive."
+>
+  <div class="max-w-5xl mx-auto px-4 py-24 text-center">
+    <div class="font-typewriter text-dossier-amber text-2xl animate-pulse mb-3">
+      SELECTING RANDOM CASE FILE
+    </div>
+    <div class="font-mono text-dossier-muted text-sm">
+      Accessing archive...
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+async function goRandom() {
+  try {
+    const res = await fetch('/data/browse-index.json');
+    const cases = await res.json();
+    const c = cases[Math.floor(Math.random() * cases.length)];
+    window.location.replace(`/case?id=${c.id}`);
+  } catch {
+    window.location.replace('/search');
+  }
+}
+
+document.addEventListener('astro:page-load', goRandom);
+</script>
