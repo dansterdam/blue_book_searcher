@@ -101,12 +101,33 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           </div>
         </div>
 
-        <!-- Photo filter -->
-        <div class="mt-3 flex items-center gap-4">
-          <label class="flex items-center gap-2 cursor-pointer">
-            <input id="filter-photos" type="checkbox" class="accent-dossier-amber" />
-            <span class="font-mono text-xs text-dossier-muted uppercase tracking-wider">Photographic evidence only</span>
-          </label>
+        <!-- Second row: conclusion + photos -->
+        <div class="mt-3 grid grid-cols-2 sm:grid-cols-4 gap-4 items-end">
+          <div class="col-span-2 sm:col-span-2">
+            <label class="font-mono text-xs text-dossier-muted uppercase tracking-wider block mb-1">AF Conclusion</label>
+            <select
+              id="filter-conclusion"
+              class="w-full bg-dossier-bg border border-dossier-border text-dossier-text font-mono text-sm px-3 py-2 rounded focus:outline-none focus:border-dossier-amber"
+            >
+              <option value="">Any</option>
+              <option value="Unidentified">Unidentified</option>
+              <option value="Insufficient Data">Insufficient Data</option>
+              <option value="Astronomical">Astronomical</option>
+              <option value="Aircraft">Aircraft</option>
+              <option value="Balloon">Balloon</option>
+              <option value="Natural / Atmospheric">Natural / Atmospheric</option>
+              <option value="Birds">Birds</option>
+              <option value="Missile / Rocket">Missile / Rocket</option>
+              <option value="Hoax">Hoax</option>
+              <option value="Other / Unknown">Other / Unknown</option>
+            </select>
+          </div>
+          <div class="col-span-2 sm:col-span-2 flex items-center h-full pb-0.5">
+            <label class="flex items-center gap-2 cursor-pointer mt-4 sm:mt-0">
+              <input id="filter-photos" type="checkbox" class="accent-dossier-amber" />
+              <span class="font-mono text-xs text-dossier-muted uppercase tracking-wider">Photographic evidence only</span>
+            </label>
+          </div>
         </div>
       </div>
 
@@ -234,6 +255,9 @@ function getFilters() {
   if (witnesses) filters.witnesses = [witnesses];
 
   if (el<HTMLInputElement>('filter-photos').checked) filters.photos = ['Yes'];
+
+  const conclusion = el<HTMLSelectElement>('filter-conclusion').value;
+  if (conclusion) filters.conclusion = [conclusion];
 
   return filters;
 }
@@ -394,11 +418,12 @@ function init() {
     el<HTMLInputElement>('filter-year-to').value   = '';
     el<HTMLInputElement>('filter-state').value      = '';
     el<HTMLSelectElement>('filter-witnesses').value = '';
+    el<HTMLSelectElement>('filter-conclusion').value = '';
     el<HTMLInputElement>('filter-photos').checked   = false;
     doSearch();
   });
 
-  ['filter-year-from', 'filter-year-to', 'filter-state', 'filter-witnesses', 'filter-photos'].forEach(id => {
+  ['filter-year-from', 'filter-year-to', 'filter-state', 'filter-witnesses', 'filter-photos', 'filter-conclusion'].forEach(id => {
     const input = el<HTMLInputElement>(id);
     input.addEventListener('change', doSearch);
     if (input.type === 'text') {

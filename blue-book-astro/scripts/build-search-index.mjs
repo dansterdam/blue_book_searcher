@@ -54,11 +54,28 @@ for (let i = 0; i < cases.length; i++) {
     c.text_content || '',
   ].join('\n\n');
 
+  // Normalize conclusion into categories
+  let conclusionCategory = '';
+  if (c.conclusion && c.conclusion.trim()) {
+    const cl = c.conclusion.toUpperCase();
+    if (/\bBALLOON\b/.test(cl)) conclusionCategory = 'Balloon';
+    else if (/\bA\/C\b/.test(cl) || cl.includes('AIRCRAFT')) conclusionCategory = 'Aircraft';
+    else if (['ASTRO', 'STAR', 'PLANET', 'METEOR', 'SATELLITE', 'SUN DOG', 'SUNDOG'].some(x => cl.includes(x))) conclusionCategory = 'Astronomical';
+    else if (cl.includes('UNIDENTIFIED')) conclusionCategory = 'Unidentified';
+    else if (cl.includes('INSUFF')) conclusionCategory = 'Insufficient Data';
+    else if (cl.includes('HOAX')) conclusionCategory = 'Hoax';
+    else if (['CONTRAIL', 'CLOUD', 'WEATHER', 'ATMOSPHERIC'].some(x => cl.includes(x))) conclusionCategory = 'Natural / Atmospheric';
+    else if (cl.includes('BIRD')) conclusionCategory = 'Birds';
+    else if (cl.includes('MISSILE') || cl.includes('ROCKET')) conclusionCategory = 'Missile / Rocket';
+    else conclusionCategory = 'Other / Unknown';
+  }
+
   const filters = {};
   if (c.year) filters.year = [String(c.year)];
   if (c.state && c.state.length > 1 && c.state !== 'US') filters.state = [c.state];
   filters.witnesses = [witnessGroup];
   filters.photos = [c.contains_photographs ? 'Yes' : 'No'];
+  if (conclusionCategory) filters.conclusion = [conclusionCategory];
 
   // Title format matches the search card parser: "YYYY-MM · Location"
   const title = [c.date, c.location].filter(Boolean).join(' · ');
