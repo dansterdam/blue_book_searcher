@@ -1,19 +1,19 @@
 import { describe, it, expect } from 'vitest';
-import { buildPdfUrl, splitIntoPages, S3_BASE } from '../src/utils/transcript';
+import { buildPdfUrl, splitIntoPages, ARCHIVE_BASE } from '../src/utils/transcript';
 
 // ---------------------------------------------------------------------------
 // buildPdfUrl
 // ---------------------------------------------------------------------------
 
 describe('buildPdfUrl', () => {
-  it('replaces .txt with .pdf', () => {
+  it('replaces .txt with .pdf and uses archive.org download URL', () => {
     const url = buildPdfUrl('1947-06-9668679-Hamburg-NewYork.txt');
-    expect(url).toBe(`${S3_BASE}/1947-06-9668679-Hamburg-NewYork.pdf`);
+    expect(url).toBe(`${ARCHIVE_BASE}/1947-06-9668679-Hamburg-NewYork/1947-06-9668679-Hamburg-NewYork.pdf`);
   });
 
   it('handles filenames with trailing dash before extension', () => {
     const url = buildPdfUrl('1945-11-7276022-TomsRiver-NewJersey-2853-.txt');
-    expect(url).toBe(`${S3_BASE}/1945-11-7276022-TomsRiver-NewJersey-2853-.pdf`);
+    expect(url).toBe(`${ARCHIVE_BASE}/1945-11-7276022-TomsRiver-NewJersey-2853-/1945-11-7276022-TomsRiver-NewJersey-2853-.pdf`);
   });
 
   it('is case-insensitive for the extension', () => {
@@ -22,9 +22,9 @@ describe('buildPdfUrl', () => {
     expect(url).not.toContain('.TXT');
   });
 
-  it('includes the S3 base URL', () => {
+  it('includes the archive.org base URL', () => {
     const url = buildPdfUrl('some-case.txt');
-    expect(url).toMatch(/^https:\/\/blue-book-searcher\.s3\.us-east-1\.amazonaws\.com\//);
+    expect(url).toMatch(/^https:\/\/archive\.org\/download\//);
   });
 });
 

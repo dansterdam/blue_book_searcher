@@ -5,7 +5,7 @@
  * of page N's content, so the content before each marker belongs to that page.
  */
 
-export const S3_BASE = 'https://blue-book-searcher.s3.us-east-1.amazonaws.com';
+export const ARCHIVE_BASE = 'https://archive.org/download';
 
 /** Pattern that matches "- page N -" page footer markers (case-insensitive). */
 export const PAGE_PATTERN = /(-\s*page\s+(\d+)\s*-)/gi;
@@ -17,16 +17,16 @@ export interface PageSection {
 }
 
 /**
- * Build the S3 URL for a case's original PDF.
+ * Build the Internet Archive URL for a case's original PDF.
  * Validates the filename to prevent path traversal or unexpected redirects.
  */
 export function buildPdfUrl(filename: string): string {
   // Allow only safe characters: alphanumeric, dash, underscore, dot, and forward slash
-  // (forward slash needed for S3 key prefixes like "folder/file.txt")
   if (!/^[a-zA-Z0-9_\-./]+$/.test(filename) || filename.includes('..')) {
     throw new Error(`Invalid filename: ${filename}`);
   }
-  return `${S3_BASE}/${filename.replace(/\.txt$/i, '.pdf')}`;
+  const identifier = filename.replace(/\.txt$/i, '');
+  return `${ARCHIVE_BASE}/${identifier}/${identifier}.pdf`;
 }
 
 /**
