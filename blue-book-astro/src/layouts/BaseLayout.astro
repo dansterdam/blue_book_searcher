@@ -10,11 +10,11 @@ interface Props {
 
 const {
   title = 'The Flying Saucer Files',
-  description = 'A searchable database of 10,807 UFO case files spanning 1947–1969. Full transcripts, witness accounts, and original source documents.',
+  description = 'A searchable database of 10,807 historical UFO case files spanning 1947–1969. Full transcripts, witness accounts, and original source documents.',
   ogImage = '/og-image.png',
 } = Astro.props;
 
-const fullTitle = title === 'The Flying Saucer Files'
+const fullTitle = title === 'The Flying Saucer Files - A UFO history project'
   ? title
   : `${title} — The Flying Saucer Files`;
 
@@ -52,7 +52,7 @@ const fullTitle = title === 'The Flying Saucer Files'
         <!-- Logo -->
         <a href="/" class="group">
           <span class="font-display font-bold text-dossier-text-bright text-base tracking-tight hover:text-dossier-amber transition-colors">
-            The Flying Saucer Files
+            The Flying Saucer Files - A UFO history project
           </span>
         </a>
 
@@ -65,6 +65,10 @@ const fullTitle = title === 'The Flying Saucer Files'
           <a href="/random" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors hidden sm:block">Random</a>
           <a href="/stats" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors hidden sm:block">Stats</a>
           <a href="/about" class="px-3 py-2 text-sm font-sans text-dossier-muted hover:text-dossier-text-bright transition-colors hidden sm:block">About</a>
+          <a href="https://buymeacoffee.com/projectbluebook" target="_blank" rel="noopener noreferrer"
+            class="ml-2 hidden sm:inline-flex items-center gap-1.5 border border-dossier-amber/40 text-dossier-amber hover:bg-dossier-amber/10 transition-colors px-3 py-1.5 rounded text-xs font-mono">
+            ☕ Donate
+          </a>
         </div>
       </div>
     </div>
@@ -83,8 +87,12 @@ const fullTitle = title === 'The Flying Saucer Files'
           <p class="font-display font-bold text-dossier-text-bright text-lg">The Flying Saucer Files</p>
           <p class="text-dossier-muted text-xs mt-1 font-mono">10,807 UFO case files · 1947–1969</p>
         </div>
-        <div class="text-xs font-mono text-dossier-muted text-left sm:text-right space-y-1">
-          <p>Source: National Archives & Records Administration · Public Domain</p>
+        <div class="text-xs font-mono text-dossier-muted text-left sm:text-right space-y-2">
+          <p>Source: National Archives & Records Administration · Archive.org · Public Domain</p>
+          <a href="https://buymeacoffee.com/projectbluebook" target="_blank" rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 border border-dossier-amber/40 text-dossier-amber hover:bg-dossier-amber/10 transition-colors px-3 py-1.5 rounded font-mono text-xs">
+            ☕ Buy me a coffee
+          </a>
         </div>
       </div>
     </div>

@@ -33,13 +33,10 @@ import stats from '../data/stats.json';
       <div class="bg-dossier-surface border border-dossier-border rounded p-6">
         <h2 class="font-typewriter text-dossier-amber uppercase tracking-wider text-lg mb-3">About This Site</h2>
         <p class="mb-3">
-          This site provides full-text search across {stats.total.toLocaleString()} case files spanning {stats.yearRange.min}–{stats.yearRange.max}. Each case file contains the original document transcript along with AI-extracted metadata including location, witness information, object descriptions, and Air Force conclusions.
-        </p>
-        <p class="mb-3">
-          The search system uses <a href="https://pagefind.app" class="text-dossier-amber hover:text-dossier-amber-bright underline">Pagefind</a> — a fully static search library that runs entirely client-side with no backend required. The entire archive is hosted as a static site.
+          This site provides full-text search across {stats.total.toLocaleString()} case files spanning {stats.yearRange.min}–{stats.yearRange.max}. Each case file contains the original document transcript along with extracted metadata including location, witness information, object descriptions, and Air Force conclusions.
         </p>
         <p>
-          The site is built with <a href="https://astro.build" class="text-dossier-amber hover:text-dossier-amber-bright underline">Astro</a>, a modern static site generator, and deployed on <a href="https://pages.cloudflare.com" class="text-dossier-amber hover:text-dossier-amber-bright underline">Cloudflare Pages</a>.
+          The transcripts are produced by AI-powered OCR from scanned documents and may contain errors — misspellings, misread words, or garbled passages are possible, especially in degraded or handwritten records.
         </p>
       </div>
 
@@ -53,16 +50,14 @@ import stats from '../data/stats.json';
         </ul>
       </div>
 
-      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
-        <h2 class="font-typewriter text-dossier-amber uppercase tracking-wider text-lg mb-3">Technical Notes</h2>
-        <ul class="space-y-2">
-          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Search is powered by Pagefind's client-side full-text search engine</span></li>
-          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>No server or database required — 100% static files</span></li>
-          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Faceted filters: year, state, witness count, photographic evidence</span></li>
-          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Case data served as individual JSON files for fast loading</span></li>
-          <li class="flex gap-2"><span class="text-dossier-amber shrink-0">›</span><span>Free to host on Cloudflare Pages, Netlify, or Vercel</span></li>
-        </ul>
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6 text-center">
+        <p class="font-mono text-xs text-dossier-muted mb-3">If you find this archive useful, consider supporting its upkeep.</p>
+        <a href="https://buymeacoffee.com/projectbluebook" target="_blank" rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 border border-dossier-amber/50 text-dossier-amber hover:bg-dossier-amber/10 transition-colors px-5 py-2 rounded font-mono text-sm">
+          ☕ Buy me a coffee
+        </a>
       </div>
+
     </div>
   </div>
 </BaseLayout>
