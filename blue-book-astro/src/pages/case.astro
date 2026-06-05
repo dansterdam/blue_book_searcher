@@ -232,6 +232,10 @@ interface BrowseCase {
 
 let browseIndexCache: BrowseCase[] | null = null;
 
+function escapeHtml(s: unknown): string {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
 async function loadRelatedCases(currentId: string, state: string, year: number | null) {
   try {
     if (!browseIndexCache) {
