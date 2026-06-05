@@ -29,5 +29,7 @@ async function goRandom() {
   }
 }
 
-document.addEventListener('astro:page-load', goRandom, { once: true });
+document.addEventListener('astro:page-load', () => {
+  if (window.location.pathname.startsWith('/random')) goRandom();
+});
 </script>
