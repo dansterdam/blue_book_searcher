@@ -29,5 +29,5 @@ async function goRandom() {
   }
 }
 
-document.addEventListener('astro:page-load', goRandom);
+document.addEventListener('astro:page-load', goRandom, { once: true });
 </script>
