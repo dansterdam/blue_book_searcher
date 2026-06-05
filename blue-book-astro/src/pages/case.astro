@@ -230,10 +230,15 @@ interface BrowseCase {
   contains_photographs: boolean;
 }
 
+let browseIndexCache: BrowseCase[] | null = null;
+
 async function loadRelatedCases(currentId: string, state: string, year: number | null) {
   try {
-    const res = await fetch('/data/browse-index.json');
-    const all: BrowseCase[] = await res.json();
+    if (!browseIndexCache) {
+      const res = await fetch('/data/browse-index.json');
+      browseIndexCache = await res.json();
+    }
+    const all = browseIndexCache!;
 
     // Prefer same state; fall back to any case
     let pool = all.filter(c => c.id !== currentId && c.state === state);
