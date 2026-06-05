@@ -245,14 +245,14 @@ async function loadRelatedCases(currentId: string, state: string, year: number |
 
     const grid = document.getElementById('related-grid')!;
     grid.innerHTML = shuffled.map(c => `
-      <a href="/case?id=${c.id}" class="block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all p-4 group relative overflow-hidden">
+      <a href="/case?id=${escapeHtml(encodeURIComponent(c.id))}" class="block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all p-4 group relative overflow-hidden">
         <div class="absolute top-0 right-0 w-5 h-5 border-l border-b border-dossier-amber/20 group-hover:border-dossier-amber/50 transition-colors"></div>
         <div class="flex items-center gap-2 mb-2">
-          <span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${c.date}</span>
+          <span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${escapeHtml(c.date)}</span>
           ${c.contains_photographs ? '<span class="font-mono text-xs text-dossier-green-bright">📷</span>' : ''}
         </div>
-        <p class="font-mono text-dossier-muted text-xs uppercase tracking-wider mb-1 truncate">📍 ${c.location}</p>
-        <p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-2">${c.summary || 'No summary available.'}</p>
+        <p class="font-mono text-dossier-muted text-xs uppercase tracking-wider mb-1 truncate">📍 ${escapeHtml(c.location)}</p>
+        <p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-2">${escapeHtml(c.summary || 'No summary available.')}</p>
       </a>
     `).join('');
 
