@@ -30,14 +30,13 @@ import stats from '../data/stats.json';
         <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By Year</h2>
         <div class="grid grid-cols-4 sm:grid-cols-6 lg:grid-cols-8 gap-2">
           {stats.casesByYear.map(y => (
-            <a
-              href={`/browse/?year=${y.year}`}
+            <button
               data-year={y.year}
               class="year-btn flex flex-col items-center p-3 border border-dossier-border bg-dossier-surface rounded transition-all text-center hover:border-dossier-amber"
             >
               <span class="font-typewriter text-lg text-dossier-amber-bright">{y.year}</span>
               <span class="font-mono text-xs text-dossier-muted mt-1">{y.count}</span>
-            </a>
+            </button>
           ))}
         </div>
       </section>
@@ -47,14 +46,13 @@ import stats from '../data/stats.json';
         <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By State / Region</h2>
         <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-2">
           {stats.topStates.map(s => (
-            <a
-              href={`/browse/?state=${encodeURIComponent(s.state)}`}
+            <button
               data-state={s.state}
               class="state-btn flex items-center justify-between p-3 border border-dossier-border bg-dossier-surface rounded transition-all hover:border-dossier-amber"
             >
               <span class="font-mono text-xs text-dossier-text">{s.state}</span>
               <span class="font-typewriter text-sm text-dossier-amber">{s.count}</span>
-            </a>
+            </button>
           ))}
         </div>
       </section>
@@ -64,14 +62,13 @@ import stats from '../data/stats.json';
         <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ By AF Conclusion</h2>
         <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-2">
           {stats.afConclusions.map(c => (
-            <a
-              href={`/browse/?conclusion=${encodeURIComponent(c.category)}`}
+            <button
               data-conclusion={c.category}
               class="conclusion-btn flex items-center justify-between p-3 border border-dossier-border bg-dossier-surface rounded transition-all hover:border-dossier-amber"
             >
               <span class="font-mono text-xs text-dossier-text">{c.category}</span>
               <span class="font-typewriter text-sm text-dossier-amber">{c.count}</span>
-            </a>
+            </button>
           ))}
         </div>
       </section>
@@ -123,18 +120,22 @@ let filteredCases: BrowseCase[] = [];
 let shown = 0;
 let loaded = false;
 
+function esc(s: unknown): string {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
 function renderCaseCard(c: BrowseCase): string {
   return `
-    <a href="/case?id=${c.id}" class="block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all p-4 group relative overflow-hidden">
+    <a href="/case?id=${esc(encodeURIComponent(c.id))}" class="block bg-dossier-surface border border-dossier-border rounded hover:border-dossier-amber transition-all p-4 group relative overflow-hidden">
       <div class="absolute top-0 right-0 w-5 h-5 border-l border-b border-dossier-amber/20 group-hover:border-dossier-amber/50 transition-colors"></div>
       <div class="flex items-center gap-2 mb-2 flex-wrap">
-        <span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${c.date}</span>
+        <span class="font-mono text-xs bg-dossier-amber/10 text-dossier-amber border border-dossier-amber/30 px-2 py-0.5 rounded">${esc(c.date)}</span>
         ${c.contains_photographs ? '<span class="font-mono text-xs text-dossier-green-bright">📷</span>' : ''}
       </div>
-      <p class="font-mono text-dossier-muted text-xs uppercase tracking-wider mb-1 truncate">📍 ${c.location}</p>
-      <p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-2 mb-2">${c.summary || 'No summary available.'}</p>
+      <p class="font-mono text-dossier-muted text-xs uppercase tracking-wider mb-1 truncate">📍 ${esc(c.location)}</p>
+      <p class="font-mono text-dossier-text text-xs leading-relaxed line-clamp-2 mb-2">${esc(c.summary || 'No summary available.')}</p>
       ${c.witnesses !== null && c.witnesses !== undefined
-        ? `<span class="font-mono text-xs text-dossier-muted">👁 ${c.witnesses} witness${c.witnesses === 1 ? '' : 'es'}</span>`
+        ? `<span class="font-mono text-xs text-dossier-muted">👁 ${esc(c.witnesses)} witness${c.witnesses === 1 ? '' : 'es'}</span>`
         : ''}
     </a>
   `;
@@ -210,7 +211,6 @@ function init() {
   document.querySelectorAll<HTMLAnchorElement>('[data-year]').forEach(btn => {
     btn.addEventListener('click', e => {
       e.preventDefault();
-      e.stopPropagation();
       const year = btn.dataset.year!;
       history.pushState({}, '', `/browse/?year=${year}`);
       showResults(year, null, null);
@@ -221,7 +221,6 @@ function init() {
   document.querySelectorAll<HTMLAnchorElement>('[data-state]').forEach(btn => {
     btn.addEventListener('click', e => {
       e.preventDefault();
-      e.stopPropagation();
       const state = btn.dataset.state!;
       history.pushState({}, '', `/browse/?state=${encodeURIComponent(state)}`);
       showResults(null, state, null);
@@ -232,7 +231,6 @@ function init() {
   document.querySelectorAll<HTMLAnchorElement>('[data-conclusion]').forEach(btn => {
     btn.addEventListener('click', e => {
       e.preventDefault();
-      e.stopPropagation();
       const conclusion = btn.dataset.conclusion!;
       history.pushState({}, '', `/browse/?conclusion=${encodeURIComponent(conclusion)}`);
       showResults(null, null, conclusion);
