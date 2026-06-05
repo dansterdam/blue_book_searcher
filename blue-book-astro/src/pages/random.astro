@@ -16,14 +16,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </BaseLayout>
 
 <script>
+import { navigate } from 'astro:transitions/client';
+
 async function goRandom() {
   try {
     const res = await fetch('/data/browse-index.json');
     const cases = await res.json();
     const c = cases[Math.floor(Math.random() * cases.length)];
-    window.location.replace(`/case?id=${c.id}`);
+    await navigate(`/case?id=${encodeURIComponent(c.id)}`);
   } catch {
-    window.location.replace('/search');
+    await navigate('/search');
   }
 }
 
