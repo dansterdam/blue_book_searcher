@@ -225,7 +225,7 @@ async function loadPagefind(): Promise<PagefindAPI> {
   // runtime. The only innerHTML usage in this file (excerpt rendering) is
   // intentional: Pagefind wraps matched terms in <mark> tags for highlighting.
   // Keep Pagefind updated and review release notes for security advisories.
-  // @ts-ignore
+  // @ts-ignore — pagefind.js is generated post-build; not present in dev
   pagefind = await import('/pagefind/pagefind.js');
   return pagefind!;
 }
@@ -235,18 +235,22 @@ function el<T extends HTMLElement>(id: string) {
   return document.getElementById(id) as T;
 }
 
+function getYearRange(): { from: number | null; to: number | null } {
+  const from = el<HTMLInputElement>('filter-year-from').value ? parseInt(el<HTMLInputElement>('filter-year-from').value) : null;
+  const to   = el<HTMLInputElement>('filter-year-to').value   ? parseInt(el<HTMLInputElement>('filter-year-to').value)   : null;
+  return { from, to };
+}
+
+// Extract year from result URL: /case?id=YYYY-MM-...
+function yearFromUrl(url: string | undefined): number | null {
+  if (!url) return null;
+  const m = url.match(/[?&]id=(\d{4})-/);
+  return m ? parseInt(m[1]) : null;
+}
+
 function getFilters() {
   const filters: Record<string, string[]> = {};
-  const yearFrom = el<HTMLInputElement>('filter-year-from').value ? parseInt(el<HTMLInputElement>('filter-year-from').value) : null;
-  const yearTo   = el<HTMLInputElement>('filter-year-to').value   ? parseInt(el<HTMLInputElement>('filter-year-to').value)   : null;
-
-  if (yearFrom !== null || yearTo !== null) {
-    const from = yearFrom ?? 1945;
-    const to   = yearTo   ?? 1969;
-    const years: string[] = [];
-    for (let y = from; y <= to; y++) years.push(String(y));
-    if (years.length > 0) filters.year = years;
-  }
+  // Year is handled via post-filter (getYearRange) — Pagefind array filters don't OR correctly
 
   const state = el<HTMLInputElement>('filter-state').value.trim();
   if (state) filters.state = [state];
@@ -340,12 +344,36 @@ async function loadResultsBatch() {
   }
 }
 
+let browseIndex: any[] | null = null;
+async function loadBrowseIndex() {
+  if (!browseIndex) {
+    const res = await fetch('/data/browse-index.json');
+    browseIndex = await res.json();
+  }
+  return browseIndex!;
+}
+
+// Wrap a browse-index entry so it looks like a Pagefind result
+function browseEntryToResult(c: any) {
+  return {
+    url: `/case?id=${encodeURIComponent(c.id)}`,
+    data: async () => ({
+      url: `/case?id=${encodeURIComponent(c.id)}`,
+      meta: { title: `${c.date} · ${c.location}` },
+      excerpt: c.summary || '',
+    }),
+  };
+}
+
 async function doSearch() {
   const searchInput = el<HTMLInputElement>('search-input');
   const resultCount = el('result-count');
   const query       = searchInput.value.trim();
   const filters     = getFilters();
-  const hasFilters  = Object.keys(filters).length > 0;
+  const yearRange   = getYearRange();
+  const hasYearFilter = yearRange.from !== null || yearRange.to !== null;
+  const hasOtherFilters = Object.keys(filters).length > 0;
+  const hasFilters  = hasOtherFilters || hasYearFilter;
 
   if (!query && !hasFilters) {
     showState('prompt');
@@ -357,12 +385,36 @@ async function doSearch() {
   resultCount.textContent = '';
 
   try {
-    const pf   = await loadPagefind();
-    const opts: Record<string, unknown> = {};
-    if (hasFilters) opts.filters = filters;
+    let results: any[];
 
-    const result = await pf.search(query || null as unknown as string, opts);
-    allResults    = result.results;
+    // Year-only path: no query and no pagefind filters — use browse-index directly
+    if (!query && !hasOtherFilters && hasYearFilter) {
+      const from = yearRange.from ?? 1947;
+      const to   = yearRange.to   ?? 1969;
+      const index = await loadBrowseIndex();
+      results = index
+        .filter(c => c.year !== null && c.year >= from && c.year <= to)
+        .map(browseEntryToResult);
+    } else {
+      const pf   = await loadPagefind();
+      const opts: Record<string, unknown> = {};
+      if (hasOtherFilters) opts.filters = filters;
+
+      const result = await pf.search(query || null as unknown as string, opts);
+      results = result.results;
+
+      // Post-filter by year range
+      if (hasYearFilter) {
+        const from = yearRange.from ?? 1947;
+        const to   = yearRange.to   ?? 1969;
+        results = results.filter(r => {
+          const y = yearFromUrl(r.url);
+          return y !== null && y >= from && y <= to;
+        });
+      }
+    }
+
+    allResults    = results;
     displayedCount = 0;
 
     if (allResults.length === 0) {
@@ -376,7 +428,8 @@ async function doSearch() {
     }
   } catch (err) {
     console.error('Search error:', err);
-    resultCount.textContent = 'Search index not available — run the build first';
+    const msg = err instanceof Error ? err.message : String(err);
+    resultCount.textContent = `Search error: ${msg}`;
     showState('prompt');
   }
 }
