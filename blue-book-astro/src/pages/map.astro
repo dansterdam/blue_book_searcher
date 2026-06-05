@@ -73,24 +73,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" crossorigin="anonymous" />
 
 <style>
-  /* Override Leaflet's default blue tiles with a dark/amber theme */
   .leaflet-container {
-    background: #0d0d0d;
+    background: #f0f0f0;
     font-family: 'Source Code Pro', monospace;
   }
   .leaflet-popup-content-wrapper {
-    background: #1a1a1a;
-    border: 1px solid #3a3a2a;
+    background: #ffffff;
+    border: 1px solid #ccc;
     border-radius: 4px;
-    color: #c8b97a;
+    color: #333;
     font-family: 'Source Code Pro', monospace;
     font-size: 12px;
   }
   .leaflet-popup-tip {
-    background: #1a1a1a;
+    background: #ffffff;
   }
   .leaflet-popup-close-button {
-    color: #888 !important;
+    color: #666 !important;
   }
   /* Cluster icons are built entirely via iconCreateFunction in JS — no CSS needed */
 </style>
@@ -129,16 +128,16 @@ async function initMap() {
   // Initialise map centred on continental US
   const map = L.map('map', { preferCanvas: true }).setView([38.5, -96], 4);
 
-  // CARTO Dark Matter tiles — free, no API key, works on any domain
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  // CARTO Positron (light) tiles — free, no API key, works on any domain
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
     maxZoom: 19,
     attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/attributions">CARTO</a>',
   }).addTo(map);
 
-  // Hot pink individual marker
+  // Individual marker
   const dotIcon = L.divIcon({
     className: '',
-    html: '<div style="width:7px;height:7px;background:#ff2d78;border-radius:50%;border:1px solid #ff80ab;opacity:0.9;"></div>',
+    html: '<div style="width:7px;height:7px;background:#c0392b;border-radius:50%;border:1px solid #922b21;opacity:0.9;"></div>',
     iconSize: [7, 7],
     iconAnchor: [3, 3],
   });
@@ -196,16 +195,16 @@ function buildClusterGroup(L: any, cases: any[], icon: any) {
     zoomToBoundsOnClick: true,
     iconCreateFunction(cluster: any) {
       const count = cluster.getChildCount();
-      // Cyan → teal → blue-violet → purple → magenta → hot pink → pale pink
+      // Green → yellow-green → yellow → orange → red → dark red
       // Thresholds tuned to this map's range (~2 to ~1300)
       const scale = [
-        [5,         '#00e0ff', '#00e0ff33'],  // bright cyan
-        [20,        '#00aacc', '#00aacc33'],  // teal
-        [60,        '#2266cc', '#2266cc33'],  // blue
-        [150,       '#7733cc', '#7733cc33'],  // purple
-        [350,       '#cc33aa', '#cc33aa33'],  // magenta
-        [700,       '#ff44aa', '#ff44aa33'],  // hot pink
-        [Infinity,  '#ff99cc', '#ff99cc33'],  // pale pink (1000+)
+        [5,         '#27ae60', '#27ae6033'],  // green
+        [20,        '#82c341', '#82c34133'],  // yellow-green
+        [60,        '#f1c40f', '#f1c40f33'],  // yellow
+        [150,       '#e67e22', '#e67e2233'],  // orange
+        [350,       '#e74c3c', '#e74c3c33'],  // red
+        [700,       '#c0392b', '#c0392b33'],  // dark red
+        [Infinity,  '#922b21', '#922b2133'],  // deep red (1000+)
       ];
       const [, bg, ring] = scale.find(([t]) => count < (t as number))!;
       return L.divIcon({
@@ -221,14 +220,14 @@ function buildClusterGroup(L: any, cases: any[], icon: any) {
 
   for (const c of cases) {
     const marker = L.marker([c.lat, c.lng], { icon });
-    const photoTag = c.contains_photographs ? '<span style="color:#6dbf6d">📷 PHOTO</span> · ' : '';
+    const photoTag = c.contains_photographs ? '<span style="color:#27ae60">📷 PHOTO</span> · ' : '';
     const witnesses = c.witnesses != null ? `${escapeHtml(String(c.witnesses))} witness${c.witnesses !== 1 ? 'es' : ''}` : 'witnesses unknown';
     marker.bindPopup(`
       <div style="min-width:200px;max-width:260px">
-        <div style="color:#888;margin-bottom:4px;font-size:10px">${photoTag}${escapeHtml(String(c.date || ''))} · ${witnesses}</div>
-        <div style="color:#e8c840;font-weight:bold;margin-bottom:6px;font-size:11px">${escapeHtml(String(c.location || ''))}</div>
-        <div style="color:#aaa;margin-bottom:8px;font-size:11px;line-height:1.4">${escapeHtml(String(c.summary || ''))}</div>
-        <a href="/case?id=${escapeHtml(encodeURIComponent(String(c.id || '')))}" style="color:#ff2d78;text-decoration:none;font-size:10px;border:1px solid #ff2d78;padding:2px 8px;border-radius:2px;display:inline-block">
+        <div style="color:#666;margin-bottom:4px;font-size:10px">${photoTag}${escapeHtml(String(c.date || ''))} · ${witnesses}</div>
+        <div style="color:#333;font-weight:bold;margin-bottom:6px;font-size:11px">${escapeHtml(String(c.location || ''))}</div>
+        <div style="color:#555;margin-bottom:8px;font-size:11px;line-height:1.4">${escapeHtml(String(c.summary || ''))}</div>
+        <a href="/case?id=${escapeHtml(encodeURIComponent(String(c.id || '')))}" style="color:#c0392b;text-decoration:none;font-size:10px;border:1px solid #c0392b;padding:2px 8px;border-radius:2px;display:inline-block">
           View case file →
         </a>
       </div>
