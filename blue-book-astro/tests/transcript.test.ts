@@ -26,6 +26,29 @@ describe('buildPdfUrl', () => {
     const url = buildPdfUrl('some-case.txt');
     expect(url).toMatch(/^https:\/\/archive\.org\/download\//);
   });
+
+  it('strips brackets from the item id but keeps them (encoded) in the file name', () => {
+    // archive.org item: brackets removed; stored PDF: brackets preserved.
+    const url = buildPdfUrl('1948-12-6387816-SouthBay-Fla--[ILLEGIBLE]-.txt');
+    expect(url).toBe(
+      `${ARCHIVE_BASE}/1948-12-6387816-SouthBay-Fla--ILLEGIBLE-/1948-12-6387816-SouthBay-Fla--%5BILLEGIBLE%5D-.pdf`
+    );
+  });
+
+  it('handles multiple bracket groups', () => {
+    const url = buildPdfUrl('1947-07-9669075-[ILLEGIBLE]-[ILLEGIBLE]-.txt');
+    expect(url).toBe(
+      `${ARCHIVE_BASE}/1947-07-9669075-ILLEGIBLE-ILLEGIBLE-/1947-07-9669075-%5BILLEGIBLE%5D-%5BILLEGIBLE%5D-.pdf`
+    );
+  });
+
+  it('returns null for filenames with chars that have no archive.org item (e.g. &)', () => {
+    expect(buildPdfUrl('1947-11-9669607-LaJunta&PuebloColo--289-.txt')).toBeNull();
+  });
+
+  it('returns null for path-traversal attempts', () => {
+    expect(buildPdfUrl('../../etc/passwd.txt')).toBeNull();
+  });
 });
 
 // ---------------------------------------------------------------------------

@@ -341,16 +341,11 @@ async function loadCase() {
       }
     }
 
-    // PDF link. buildPdfUrl validates the filename and throws on unusual ones
-    // (e.g. "[ILLEGIBLE]" brackets, "&"); a bad filename must not crash the page —
-    // just skip the PDF link and still render the case.
+    // PDF link. buildPdfUrl returns null for filenames it can't map to an archive.org
+    // item (e.g. "&" cases, which aren't hosted there); in that case we just skip the
+    // PDF link and still render the case.
     const pdfLink = document.getElementById('pdf-link') as HTMLAnchorElement;
-    let pdfBase: string | null = null;
-    try {
-      pdfBase = c.filename ? buildPdfUrl(c.filename) : null;
-    } catch {
-      pdfBase = null;
-    }
+    const pdfBase: string | null = c.filename ? buildPdfUrl(c.filename) : null;
     if (pdfBase && pdfLink) {
       pdfLink.href = pdfBase;
     } else {

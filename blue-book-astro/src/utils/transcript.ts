@@ -17,16 +17,26 @@ export interface PageSection {
 }
 
 /**
- * Build the Internet Archive URL for a case's original PDF.
- * Validates the filename to prevent path traversal or unexpected redirects.
+ * Build the Internet Archive download URL for a case's original PDF, or null if
+ * the filename can't be mapped to a known archive.org item.
+ *
+ * Our local filename is the original PDF's name, verbatim. But archive.org's item
+ * identifier (the directory) is derived from that name with characters outside
+ * [A-Za-z0-9._-] stripped, while the stored PDF file keeps the original name. So the
+ * directory and the file portion of the URL differ. We only resolve the bracket case
+ * ("[ILLEGIBLE]", "[Blank]", ...) — verified to exist on archive.org with the brackets
+ * removed from the id and kept (percent-encoded) in the file. Filenames with other
+ * special chars (e.g. '&') have no archive.org item, so we return null and the caller
+ * hides the link rather than emit a dead one.
  */
-export function buildPdfUrl(filename: string): string {
-  // Allow only safe characters: alphanumeric, dash, underscore, dot, and forward slash
-  if (!/^[a-zA-Z0-9_\-./]+$/.test(filename) || filename.includes('..')) {
-    throw new Error(`Invalid filename: ${filename}`);
-  }
-  const identifier = filename.replace(/\.txt$/i, '');
-  return `${ARCHIVE_BASE}/${identifier}/${identifier}.pdf`;
+export function buildPdfUrl(filename: string): string | null {
+  const base = filename.replace(/\.txt$/i, '');
+  if (base.includes('..')) return null; // path-traversal guard
+  // Allow only safe characters plus square brackets; anything else is unresolvable.
+  if (!/^[a-zA-Z0-9_\-./[\]]+$/.test(base)) return null;
+  const identifier = base.replace(/[[\]]/g, ''); // directory: brackets removed
+  const file = encodeURIComponent(base); // file: brackets -> %5B/%5D, dashes/dots preserved
+  return `${ARCHIVE_BASE}/${identifier}/${file}.pdf`;
 }
 
 /**
