@@ -145,7 +145,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         </div>
 
         <!-- Original PDF link -->
-        <div class="pt-4 border-t border-dossier-border">
+        <div id="pdf-section" class="pt-4 border-t border-dossier-border">
           <div class="font-mono text-xs text-dossier-muted uppercase tracking-wider mb-2 flex items-center gap-2">
             <div class="w-2 h-px bg-dossier-amber"></div>Source Document
           </div>
@@ -318,9 +318,11 @@ async function loadCase() {
     }
 
     if (c.interesting_points) {
-      const points = c.interesting_points
-        .split(/[,\.]\s+(?=[A-Z])/)
-        .filter((p: string) => p.trim().length > 5);
+      // interesting_points is usually a string, but ~34 cases store it as an array.
+      const rawPoints: string[] = Array.isArray(c.interesting_points)
+        ? (c.interesting_points as unknown as string[]).map(p => String(p))
+        : String(c.interesting_points).split(/[,\.]\s+(?=[A-Z])/);
+      const points = rawPoints.filter((p: string) => p.trim().length > 5);
       if (points.length > 0) {
         show('points-section');
         const ul = document.getElementById('meta-points')!;
@@ -339,10 +341,22 @@ async function loadCase() {
       }
     }
 
-    // PDF link
+    // PDF link. buildPdfUrl validates the filename and throws on unusual ones
+    // (e.g. "[ILLEGIBLE]" brackets, "&"); a bad filename must not crash the page —
+    // just skip the PDF link and still render the case.
     const pdfLink = document.getElementById('pdf-link') as HTMLAnchorElement;
-    const pdfBase = c.filename ? buildPdfUrl(c.filename) : null;
-    if (pdfLink && pdfBase) pdfLink.href = pdfBase;
+    let pdfBase: string | null = null;
+    try {
+      pdfBase = c.filename ? buildPdfUrl(c.filename) : null;
+    } catch {
+      pdfBase = null;
+    }
+    if (pdfBase && pdfLink) {
+      pdfLink.href = pdfBase;
+    } else {
+      // No usable source PDF — hide the whole "Source Document" block.
+      hide('pdf-section');
+    }
 
     // Navigation links
     const navYear = document.getElementById('nav-year') as HTMLAnchorElement;
