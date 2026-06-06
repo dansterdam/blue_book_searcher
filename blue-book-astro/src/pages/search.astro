@@ -243,16 +243,18 @@ function getYearRange(): { from: number | null; to: number | null } {
   return { from, to };
 }
 
-// Extract year from result URL: /case?id=YYYY-MM-...
-function yearFromUrl(url: string | undefined): number | null {
-  if (!url) return null;
-  const m = url.match(/[?&]id=(\d{4})-/);
-  return m ? parseInt(m[1]) : null;
+// Expand a year range into an array of year strings for Pagefind's native
+// OR filter (e.g. 1948–1950 → ["1948","1949","1950"]).
+function yearFilterArray(from: number, to: number): string[] {
+  const years: string[] = [];
+  for (let y = from; y <= to; y++) years.push(String(y));
+  return years;
 }
 
 function getFilters() {
   const filters: Record<string, string[]> = {};
-  // Year is handled via post-filter (getYearRange) — Pagefind array filters don't OR correctly
+  // Year is added separately in doSearch (see getYearRange) so the year-only
+  // browse-index fast path can still be detected.
 
   const state = el<HTMLInputElement>('filter-state').value.trim();
   if (state) filters.state = [state];
@@ -389,7 +391,7 @@ async function doSearch() {
   try {
     let results: any[];
 
-    // Year-only path: no query and no pagefind filters — use browse-index directly
+    // Year-only path: no query and no other filters — use browse-index directly
     if (!query && !hasOtherFilters && hasYearFilter) {
       const from = yearRange.from ?? 1947;
       const to   = yearRange.to   ?? 1969;
@@ -399,21 +401,20 @@ async function doSearch() {
         .map(browseEntryToResult);
     } else {
       const pf   = await loadPagefind();
-      const opts: Record<string, unknown> = {};
-      if (hasOtherFilters) opts.filters = filters;
-
-      const result = await pf.search(query || null as unknown as string, opts);
-      results = result.results;
-
-      // Post-filter by year range
+      const pfFilters: Record<string, unknown> = { ...filters };
+      // Year range via Pagefind's `any` operator (OR). NB: a plain array value
+      // is treated as AND by Pagefind, which never matches a multi-year range —
+      // `{ any: [...] }` is required for OR. Verified empirically against the index.
       if (hasYearFilter) {
         const from = yearRange.from ?? 1947;
         const to   = yearRange.to   ?? 1969;
-        results = results.filter(r => {
-          const y = yearFromUrl(r.url);
-          return y !== null && y >= from && y <= to;
-        });
+        pfFilters.year = { any: yearFilterArray(from, to) };
       }
+      const opts: Record<string, unknown> = {};
+      if (Object.keys(pfFilters).length > 0) opts.filters = pfFilters;
+
+      const result = await pf.search(query || null as unknown as string, opts);
+      results = result.results;
     }
 
     allResults    = results;
