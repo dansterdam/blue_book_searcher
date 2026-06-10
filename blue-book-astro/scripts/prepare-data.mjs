@@ -156,11 +156,70 @@ const topStates = Object.entries(casesByState)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 20)
   .map(([state, count]) => ({ state, count }));
-// Distinct US states — raw `state` values also contain countries, oceans, and
-// spelling variants ('CA', 'Calif', 'CALIFORNIA'), so match against canonical names
+// Distinct countries — raw `state` values mix US states, countries, oceans, regions,
+// abbreviations, and misspellings; map known values to a canonical country, skip the rest
 const US_STATES = ['Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware','Florida','Georgia','Hawaii','Idaho','Illinois','Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine','Maryland','Massachusetts','Michigan','Minnesota','Mississippi','Missouri','Montana','Nebraska','Nevada','New Hampshire','New Jersey','New Mexico','New York','North Carolina','North Dakota','Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South Carolina','South Dakota','Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming'];
-const rawStateValues = new Set(cases.map(c => String(c.state || '').trim().toLowerCase()));
-const distinctStates = US_STATES.filter(s => rawStateValues.has(s.toLowerCase())).length;
+const US_STATE_SET = new Set(US_STATES.map(s => s.toLowerCase()));
+const US_ALIASES = [
+  // country names, DC, abbreviations, misspellings
+  'us', 'usa', 'united states', 'united states of america', 'district of columbia', 'dc', 'd c',
+  'ca', 'ny', 'md', 'va', 'pa', 'la', 'ky', 'nj', 'nc', 'wa', 'nv', 'il', 'pr', 'gu',
+  'colo', 'minn', 'wisc', 'mass', 'mo', 'ga', 'calif', 'utan',
+  // territories (era-appropriate: counted as US)
+  'puerto rico', 'guam', 'virgin islands', 'midway islands', 'johnston island', 'canal zone',
+  'trust territory of the pacific islands', 'marshall islands',
+  // cities, sub-state regions, multi-state values
+  'long island', 'new york city', 'new york state', 'washington and oregon states',
+  'central pennsylvania', 'new orleans', 'indianapolis', 'montgomery', 'east baton rouge parish',
+  'florida keys', 'west coast us', 'carolina', 'maine area', 'medicine bow', 'hawaiian islands',
+  'virginia and new york', 'near puerto rico', 'rocky mountain area',
+];
+const COUNTRY_ALIASES = {
+  ...Object.fromEntries(US_ALIASES.map(k => [k, 'United States'])),
+  'canada': 'Canada', 'newfoundland': 'Canada', 'labrador': 'Canada',
+  'japan': 'Japan', 'okinawa': 'Japan', 'kadena': 'Japan', 'ryuku island': 'Japan', 'northern japan': 'Japan', 'japanese area': 'Japan',
+  'germany': 'Germany', 'west germany': 'Germany',
+  'england': 'United Kingdom', 'uk': 'United Kingdom', 'scotland': 'United Kingdom', 'northern ireland': 'United Kingdom', 'bermuda': 'United Kingdom', 'british west indies': 'United Kingdom', 'bwi': 'United Kingdom',
+  'korea': 'South Korea', 'south korea': 'South Korea', 'north korea': 'North Korea',
+  'denmark': 'Denmark', 'greenland': 'Denmark',
+  'italy': 'Italy', 'southern italy': 'Italy',
+  'philippines': 'Philippines', 'republic philippines': 'Philippines', 'usaf philippines': 'Philippines',
+  'france': 'France', 'martinique': 'France',
+  'portugal': 'Portugal', 'azores': 'Portugal',
+  'australia': 'Australia', 'south australia': 'Australia', 'au': 'Australia',
+  'ussr': 'Soviet Union', 'russia': 'Soviet Union', 'northeastern siberia': 'Soviet Union',
+  'morocco': 'Morocco', 'french morocco': 'Morocco',
+  'libya': 'Libya', 'lybia': 'Libya',
+  'netherlands': 'Netherlands', 'holland': 'Netherlands',
+  'colombia': 'Colombia', 'columbia': 'Colombia',
+  'taiwan': 'Taiwan', 'formosa': 'Taiwan',
+  'india': 'India', 'northeast india': 'India',
+  'panama': 'Panama', 'panama canal': 'Panama',
+  'viet nam': 'Vietnam', 'south viet nam': 'Vietnam', 'republic vietnam': 'Vietnam',
+  'new guinea': 'Papua New Guinea', 'papua new guinea': 'Papua New Guinea',
+  'fiji islands': 'Fiji',
+  'mexico': 'Mexico', 'iceland': 'Iceland', 'turkey': 'Turkey', 'brazil': 'Brazil',
+  'venezuela': 'Venezuela', 'iran': 'Iran', 'uruguay': 'Uruguay', 'spain': 'Spain',
+  'finland': 'Finland', 'south africa': 'South Africa', 'sweden': 'Sweden',
+  'argentina': 'Argentina', 'chile': 'Chile', 'saudi arabia': 'Saudi Arabia', 'peru': 'Peru',
+  'china': 'China', 'norway': 'Norway', 'greece': 'Greece', 'new zealand': 'New Zealand',
+  'indonesia': 'Indonesia', 'switzerland': 'Switzerland', 'guatemala': 'Guatemala',
+  'cyprus': 'Cyprus', 'pakistan': 'Pakistan', 'burma': 'Burma', 'thailand': 'Thailand',
+  'cuba': 'Cuba', 'hungary': 'Hungary', 'algeria': 'Algeria', 'egypt': 'Egypt',
+  'afghanistan': 'Afghanistan', 'paraguay': 'Paraguay', 'singapore': 'Singapore',
+  'yugoslavia': 'Yugoslavia', 'bulgaria': 'Bulgaria', 'poland': 'Poland',
+  'czechoslovakia': 'Czechoslovakia', 'jamaica': 'Jamaica', 'iraq': 'Iraq',
+  'bahamas': 'Bahamas', 'austria': 'Austria', 'israel': 'Israel', 'bolivia': 'Bolivia',
+  'nicaragua': 'Nicaragua', 'haiti': 'Haiti', 'lebanon': 'Lebanon', 'belgium': 'Belgium',
+};
+function countryForState(raw) {
+  const s = String(raw || '').trim().toLowerCase();
+  if (!s) return null;
+  if (US_STATE_SET.has(s)) return 'United States';
+  return COUNTRY_ALIASES[s] || null;
+}
+const countrySet = new Set(cases.map(c => countryForState(c.state)).filter(Boolean));
+const distinctCountries = countrySet.size;
 
 // Witness distribution
 const witnessGroups = { '0': 0, '1': 0, '2': 0, '3-5': 0, '6-10': 0, '10+': 0, 'unknown': 0 };
@@ -234,7 +293,7 @@ const stats = {
   yearRange: { min: Math.min(...Object.keys(casesByYear).map(Number)), max: Math.max(...Object.keys(casesByYear).map(Number)) },
   casesByYear: Object.entries(casesByYear).sort((a, b) => Number(a[0]) - Number(b[0])).map(([year, count]) => ({ year: Number(year), count })),
   topStates,
-  distinctStates,
+  distinctCountries,
   witnessGroups: Object.entries(witnessGroups).map(([range, count]) => ({ range, count })),
   afConclusions,
   afConclusionsTotal,
