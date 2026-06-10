@@ -156,6 +156,11 @@ const topStates = Object.entries(casesByState)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 20)
   .map(([state, count]) => ({ state, count }));
+// Distinct US states — raw `state` values also contain countries, oceans, and
+// spelling variants ('CA', 'Calif', 'CALIFORNIA'), so match against canonical names
+const US_STATES = ['Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware','Florida','Georgia','Hawaii','Idaho','Illinois','Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine','Maryland','Massachusetts','Michigan','Minnesota','Mississippi','Missouri','Montana','Nebraska','Nevada','New Hampshire','New Jersey','New Mexico','New York','North Carolina','North Dakota','Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South Carolina','South Dakota','Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming'];
+const rawStateValues = new Set(cases.map(c => String(c.state || '').trim().toLowerCase()));
+const distinctStates = US_STATES.filter(s => rawStateValues.has(s.toLowerCase())).length;
 
 // Witness distribution
 const witnessGroups = { '0': 0, '1': 0, '2': 0, '3-5': 0, '6-10': 0, '10+': 0, 'unknown': 0 };
@@ -229,6 +234,7 @@ const stats = {
   yearRange: { min: Math.min(...Object.keys(casesByYear).map(Number)), max: Math.max(...Object.keys(casesByYear).map(Number)) },
   casesByYear: Object.entries(casesByYear).sort((a, b) => Number(a[0]) - Number(b[0])).map(([year, count]) => ({ year: Number(year), count })),
   topStates,
+  distinctStates,
   witnessGroups: Object.entries(witnessGroups).map(([range, count]) => ({ range, count })),
   afConclusions,
   afConclusionsTotal,
