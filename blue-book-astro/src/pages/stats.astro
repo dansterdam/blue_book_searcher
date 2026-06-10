@@ -58,7 +58,7 @@ const conclusionIcons = {
             const maxCount = Math.max(...stats.casesByYear.map(x => x.count));
             const pct = (y.count / maxCount) * 100;
             return (
-              <div class="flex items-center gap-3 mb-1 group">
+              <a href={`/browse?year=${y.year}`} class="flex items-center gap-3 mb-1 group">
                 <span class="font-mono text-xs text-dossier-muted w-10 text-right shrink-0">{y.year}</span>
                 <div class="flex-1 h-5 bg-dossier-bg rounded overflow-hidden">
                   <div
@@ -67,7 +67,7 @@ const conclusionIcons = {
                   ></div>
                 </div>
                 <span class="font-mono text-xs text-dossier-amber w-12 shrink-0">{y.count}</span>
-              </div>
+              </a>
             );
           })}
         </div>
@@ -99,16 +99,16 @@ const conclusionIcons = {
 
     <!-- Top countries chart -->
     <section class="mb-10">
-      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-1">▶ Cases by Country (Top 20)</h2>
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-1">▶ Cases Outside US by Country (Top 20)</h2>
       <p class="font-mono text-xs text-dossier-muted mb-4">
-        International cases — the United States accounts for {stats.usCases.toLocaleString()} of {stats.total.toLocaleString()} ({((stats.usCases / stats.total) * 100).toFixed(0)}%)
+        The United States accounts for {stats.usCases.toLocaleString()} of {stats.total.toLocaleString()} cases ({((stats.usCases / stats.total) * 100).toFixed(0)}%)
       </p>
       <div class="bg-dossier-surface border border-dossier-border rounded p-6">
         {stats.topCountries.map(s => {
           const maxCount = Math.max(...stats.topCountries.map(x => x.count));
           const pct = (s.count / maxCount) * 100;
           return (
-            <div class="flex items-center gap-3 mb-1 group">
+            <a href={`/browse?country=${encodeURIComponent(s.country)}`} class="flex items-center gap-3 mb-1 group">
               <span class="font-mono text-xs text-dossier-muted w-28 text-right shrink-0 truncate">{s.country}</span>
               <div class="flex-1 h-5 bg-dossier-bg rounded overflow-hidden">
                 <div
@@ -117,7 +117,7 @@ const conclusionIcons = {
                 ></div>
               </div>
               <span class="font-mono text-xs text-dossier-amber w-12 shrink-0">{s.count}</span>
-            </div>
+            </a>
           );
         })}
       </div>
@@ -149,7 +149,7 @@ const conclusionIcons = {
         {stats.afConclusions.map(o => {
           const pct = (o.count / stats.afConclusionsTotal) * 100;
           return (
-            <div class="flex items-center gap-3 mb-2 group">
+            <a href={`/browse?conclusion=${encodeURIComponent(o.category)}`} class="flex items-center gap-3 mb-2 group">
               <span class="font-mono text-xs text-dossier-muted w-44 text-right shrink-0 truncate flex items-center justify-end gap-1.5">
                 <span class="text-sm">{conclusionIcons[o.category] ?? '•'}</span>
                 {o.category}
@@ -163,7 +163,7 @@ const conclusionIcons = {
               <span class="font-mono text-xs text-dossier-green-bright w-16 shrink-0">
                 {o.count} <span class="text-dossier-muted">({pct.toFixed(0)}%)</span>
               </span>
-            </div>
+            </a>
           );
         })}
       </div>
@@ -176,12 +176,12 @@ const conclusionIcons = {
         Summer peaks — July and August account for {(((stats.casesByMonth[6].count + stats.casesByMonth[7].count) / stats.total) * 100).toFixed(0)}% of all reports
       </p>
       <div class="bg-dossier-surface border border-dossier-border rounded p-6">
-        {stats.casesByMonth.map(m => {
+        {stats.casesByMonth.map((m, i) => {
           const maxCount = Math.max(...stats.casesByMonth.map(x => x.count));
           const pct = (m.count / maxCount) * 100;
           const isPeak = m.month === 'July' || m.month === 'August';
           return (
-            <div class="flex items-center gap-3 mb-1.5 group">
+            <a href={`/browse?month=${String(i + 1).padStart(2, '0')}`} class="flex items-center gap-3 mb-1.5 group">
               <span class={`font-mono text-xs w-24 text-right shrink-0 ${isPeak ? 'text-dossier-amber' : 'text-dossier-muted'}`}>{m.month}</span>
               <div class="flex-1 h-4 bg-dossier-bg rounded overflow-hidden">
                 <div
@@ -190,7 +190,7 @@ const conclusionIcons = {
                 ></div>
               </div>
               <span class={`font-mono text-xs w-12 shrink-0 ${isPeak ? 'text-dossier-amber' : 'text-dossier-muted'}`}>{m.count.toLocaleString()}</span>
-            </div>
+            </a>
           );
         })}
       </div>

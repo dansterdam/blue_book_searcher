@@ -106,8 +106,10 @@ interface BrowseCase {
   id: string;
   date: string;
   year: number | null;
+  month: string | null;
   location: string;
   state: string;
+  country: string;
   summary: string;
   witnesses: number | null;
   contains_photographs: boolean;
@@ -115,6 +117,7 @@ interface BrowseCase {
 }
 
 const PAGE_SIZE = 30;
+const MONTH_NAMES = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 let allCases: BrowseCase[] = [];
 let filteredCases: BrowseCase[] = [];
 let shown = 0;
@@ -159,7 +162,7 @@ function showPicker() {
   history.pushState({}, '', '/browse/');
 }
 
-async function showResults(year: string | null, state: string | null, conclusion: string | null = null) {
+async function showResults(year: string | null, state: string | null, conclusion: string | null = null, month: string | null = null, country: string | null = null) {
   try {
     await ensureLoaded();
   } catch (err) {
@@ -171,6 +174,8 @@ async function showResults(year: string | null, state: string | null, conclusion
     if (year && String(c.year) !== year) return false;
     if (state && c.state !== state) return false;
     if (conclusion && c.conclusion_category !== conclusion) return false;
+    if (month && c.month !== month) return false;
+    if (country && c.country !== country) return false;
     return true;
   });
 
@@ -183,9 +188,11 @@ async function showResults(year: string | null, state: string | null, conclusion
 
   heading.textContent = year
     ? `${filteredCases.length.toLocaleString()} cases from ${year}`
+    : month
+    ? `${filteredCases.length.toLocaleString()} cases from ${MONTH_NAMES[parseInt(month, 10) - 1] ?? month}`
     : conclusion
     ? `${filteredCases.length.toLocaleString()} cases · ${conclusion}`
-    : `${filteredCases.length.toLocaleString()} cases from ${state}`;
+    : `${filteredCases.length.toLocaleString()} cases from ${country || state}`;
 
   grid.innerHTML = filteredCases.slice(0, PAGE_SIZE).map(renderCaseCard).join('');
   shown = Math.min(PAGE_SIZE, filteredCases.length);
@@ -259,8 +266,10 @@ function init() {
     const year = params.get('year');
     const state = params.get('state');
     const conclusion = params.get('conclusion');
-    if (year || state || conclusion) {
-      showResults(year, state, conclusion);
+    const month = params.get('month');
+    const country = params.get('country');
+    if (year || state || conclusion || month || country) {
+      showResults(year, state, conclusion, month, country);
     } else {
       showPicker();
     }
@@ -271,8 +280,10 @@ function init() {
   const year = params.get('year');
   const state = params.get('state');
   const conclusion = params.get('conclusion');
-  if (year || state || conclusion) {
-    showResults(year, state, conclusion);
+  const month = params.get('month');
+  const country = params.get('country');
+  if (year || state || conclusion || month || country) {
+    showResults(year, state, conclusion, month, country);
   }
 }
 
