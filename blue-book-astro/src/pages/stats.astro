@@ -97,6 +97,32 @@ const conclusionIcons = {
       </div>
     </section>
 
+    <!-- Top countries chart -->
+    <section class="mb-10">
+      <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-1">▶ Cases by Country (Top 20)</h2>
+      <p class="font-mono text-xs text-dossier-muted mb-4">
+        International cases — the United States accounts for {stats.usCases.toLocaleString()} of {stats.total.toLocaleString()} ({((stats.usCases / stats.total) * 100).toFixed(0)}%)
+      </p>
+      <div class="bg-dossier-surface border border-dossier-border rounded p-6">
+        {stats.topCountries.map(s => {
+          const maxCount = Math.max(...stats.topCountries.map(x => x.count));
+          const pct = (s.count / maxCount) * 100;
+          return (
+            <div class="flex items-center gap-3 mb-1 group">
+              <span class="font-mono text-xs text-dossier-muted w-28 text-right shrink-0 truncate">{s.country}</span>
+              <div class="flex-1 h-5 bg-dossier-bg rounded overflow-hidden">
+                <div
+                  class="h-full bg-dossier-amber/40 group-hover:bg-dossier-amber transition-all rounded"
+                  style={`width: ${pct}%`}
+                ></div>
+              </div>
+              <span class="font-mono text-xs text-dossier-amber w-12 shrink-0">{s.count}</span>
+            </div>
+          );
+        })}
+      </div>
+    </section>
+
     <!-- Witness distribution -->
     <section class="mb-10">
       <h2 class="font-typewriter text-lg text-dossier-amber uppercase tracking-widest mb-4">▶ Witness Count Distribution</h2>

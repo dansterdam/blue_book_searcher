@@ -110,10 +110,23 @@ const GEOCODED_FILE = path.join(__dirname, '../src/data/locations-geocoded.json'
 if (fs.existsSync(GEOCODED_FILE)) {
   console.log('🗺️  Writing map-index.json...');
   const geocoded = JSON.parse(fs.readFileSync(GEOCODED_FILE, 'utf8'));
+  // Placeholder locations ('Not specified', 'Unknown, USA') geocode to a real
+  // place in northern India — skip them, along with US-labeled points whose
+  // coordinates fall outside US territory (bad geocoder matches, e.g.
+  // 'Montpellier, Vermont' resolved to Montpellier, France)
+  const isJunkLocation = loc =>
+    String(loc || '').toLowerCase().replace(/not specified|unknown( country| region)?|united states( of america)?|\b(usa|us)\b|[^a-z]/g, '') === '';
+  const isMisplacedUS = (loc, lat, lng) =>
+    /\b(usa|united states)\b/i.test(loc) && !(lat > 13 && lat < 72 && (lng < -64 || lng > 140));
+  let skippedOutliers = 0;
   const mapIndex = cases
     .map(c => {
       const coords = geocoded[c.location];
       if (!coords) return null;
+      if (isJunkLocation(c.location) || isMisplacedUS(c.location, coords[0], coords[1])) {
+        skippedOutliers++;
+        return null;
+      }
       return {
         id: c.id,
         date: c.date,
@@ -128,7 +141,7 @@ if (fs.existsSync(GEOCODED_FILE)) {
     })
     .filter(Boolean);
   fs.writeFileSync(path.join(PUBLIC_DATA_DIR, 'map-index.json'), JSON.stringify(mapIndex));
-  console.log(`  → ${mapIndex.length.toLocaleString()} mapped cases`);
+  console.log(`  → ${mapIndex.length.toLocaleString()} mapped cases (${skippedOutliers} geocode outliers skipped)`);
   console.log(`  → public/data/map-index.json: ${(fs.statSync(path.join(PUBLIC_DATA_DIR, 'map-index.json')).size / 1024 / 1024).toFixed(1)} MB`);
 } else {
   console.log('🗺️  Skipping map-index.json (run geocode-locations.py to enable the map page)');
@@ -218,8 +231,20 @@ function countryForState(raw) {
   if (US_STATE_SET.has(s)) return 'United States';
   return COUNTRY_ALIASES[s] || null;
 }
-const countrySet = new Set(cases.map(c => countryForState(c.state)).filter(Boolean));
-const distinctCountries = countrySet.size;
+const countryCounts = {};
+for (const c of cases) {
+  const country = countryForState(c.state);
+  if (country) countryCounts[country] = (countryCounts[country] || 0) + 1;
+}
+const distinctCountries = Object.keys(countryCounts).length;
+const usCases = countryCounts['United States'] || 0;
+// Top countries excluding the US — it accounts for ~84% of cases and the
+// states chart already breaks it down
+const topCountries = Object.entries(countryCounts)
+  .filter(([country]) => country !== 'United States')
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 20)
+  .map(([country, count]) => ({ country, count }));
 
 // Witness distribution
 const witnessGroups = { '0': 0, '1': 0, '2': 0, '3-5': 0, '6-10': 0, '10+': 0, 'unknown': 0 };
@@ -294,6 +319,8 @@ const stats = {
   casesByYear: Object.entries(casesByYear).sort((a, b) => Number(a[0]) - Number(b[0])).map(([year, count]) => ({ year: Number(year), count })),
   topStates,
   distinctCountries,
+  topCountries,
+  usCases,
   witnessGroups: Object.entries(witnessGroups).map(([range, count]) => ({ range, count })),
   afConclusions,
   afConclusionsTotal,
