@@ -39,15 +39,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </div>
   </div>
 
-  <!-- Related cases (populated after case loads) -->
-  <div id="related-section" class="hidden max-w-5xl mx-auto px-4 pb-12">
-    <div class="flex items-center gap-3 mb-4 mt-8">
-      <div class="w-1 h-5 bg-dossier-amber/50"></div>
-      <h2 class="font-typewriter text-base text-dossier-amber uppercase tracking-widest">Related Cases</h2>
-    </div>
-    <div id="related-grid" class="grid sm:grid-cols-3 gap-3"></div>
-  </div>
-
   <!-- Case content (hidden until loaded) -->
   <div id="case-view" class="hidden max-w-5xl mx-auto px-4 py-8">
 
@@ -193,6 +184,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </div>
 
 
+  </div>
+
+  <!-- Related cases (populated after case loads) -->
+  <div id="related-section" class="hidden max-w-5xl mx-auto px-4 pb-12">
+    <div class="flex items-center gap-3 mb-4 mt-8">
+      <div class="w-1 h-5 bg-dossier-amber/50"></div>
+      <h2 class="font-typewriter text-base text-dossier-amber uppercase tracking-widest">Related Cases</h2>
+    </div>
+    <div id="related-grid" class="grid sm:grid-cols-3 gap-3"></div>
   </div>
 </BaseLayout>
 
